@@ -15,6 +15,18 @@ related: []
 ---
 
 # LDL Lowering Not Always CVD Protection — Context Matters
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **LDL lowering does not always translate to cardiovascular protection** — the benefit depends on metabolic context, inflammation status, and baseline risk. In healthy individuals with low CAC scores, aggressive LDL lowering provides minimal benefit.
@@ -65,6 +77,11 @@ Even with LDL <50 mg/dL:
 - LDL 70 vs 90 in low-risk: minimal difference
 - Focus on **absolute risk reduction**
 - Consider **patient preferences**
+
+## Related Zettels from Same Source
+
+- [[Statin_Benefit_Context_Dependent_Z-002-0761]]
+- [[Triglycerides_HDL_More_Predictive_Than_LDL_Z-002-0760]]
 
 ## Source
 - **LitNote:** [[L-002-0207_LDL_Lowering_Not_Always_Protection]]

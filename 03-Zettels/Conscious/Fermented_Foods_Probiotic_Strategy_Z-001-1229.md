@@ -15,8 +15,48 @@ status: conscious
 ---
 
 # Fermented Foods as Probiotic Strategy
+## Related Zettels from Same Source
+
+- [[Kefir_Broth_Coffee_Fast_Protocol_Z-001-1228]]
+- [[Kefir_Grain_Reactivation_Protocol_Z-001-1227]]
+
+## Source
+
+[[LitNote_Fasting_Fermentation_L-001-0637]]
+
+## Related Zettels from Same Source
+
+- [[Kefir_Broth_Coffee_Fast_Protocol_Z-001-1228]]
+- [[Kefir_Grain_Reactivation_Protocol_Z-001-1227]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Fermented foods provide superior probiotic benefits compared to supplements due to microbial diversity, matrix effects, and synergistic metabolites that enhance colonization and functional impact on the gut microbiome.
+
+## Related Zettels from Same Source
+
+- [[Kefir_Broth_Coffee_Fast_Protocol_Z-001-1228]]
+- [[Kefir_Grain_Reactivation_Protocol_Z-001-1227]]
+
+## Source
+
+[[LitNote_Fasting_Fermentation_L-001-0637]]
+
+## Related Zettels from Same Source
+
+- [[Kefir_Broth_Coffee_Fast_Protocol_Z-001-1228]]
+- [[Kefir_Grain_Reactivation_Protocol_Z-001-1227]]
 
 ## Core Principle
 

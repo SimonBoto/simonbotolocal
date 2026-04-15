@@ -15,8 +15,48 @@ status: conscious
 ---
 
 # Amino Acids for Gut Healing Synergy
+## Related Zettels from Same Source
+
+- [[Glutamine_Intestinal_Repair_Protocol_Z-001-1224]]
+- [[Taurine_Bile_Gut_Health_Z-001-1225]]
+
+## Source
+
+[[LitNote_Gut_Healing_Amino_Acids_L-001-0636]]
+
+## Related Zettels from Same Source
+
+- [[Glutamine_Intestinal_Repair_Protocol_Z-001-1224]]
+- [[Taurine_Bile_Gut_Health_Z-001-1225]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Glutamine and taurine work synergistically to support intestinal barrier repair, with glutamine fueling enterocyte regeneration and taurine supporting bile flow and antimicrobial defense — together addressing both structural and functional aspects of gut healing.
+
+## Related Zettels from Same Source
+
+- [[Glutamine_Intestinal_Repair_Protocol_Z-001-1224]]
+- [[Taurine_Bile_Gut_Health_Z-001-1225]]
+
+## Source
+
+[[LitNote_Gut_Healing_Amino_Acids_L-001-0636]]
+
+## Related Zettels from Same Source
+
+- [[Glutamine_Intestinal_Repair_Protocol_Z-001-1224]]
+- [[Taurine_Bile_Gut_Health_Z-001-1225]]
 
 ## Core Principle
 

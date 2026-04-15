@@ -13,6 +13,54 @@ extraction-date: 2026-03-08
 ---
 
 # Adipate Formation — Palmitate to Adipic Acid Pathway
+## Related Zettels from Same Source
+
+- [[Beta_Oxidation_Mitochondrial_Fatty_Acid_Breakdown_Z-001-1192]]
+- [[Carnitine_Shuttle_Fatty_Acid_Transport_System_Z-001-1194]]
+- [[Complete_Adipate_Metabolism_Formation_to_Krebs_Z-001-1196]]
+- [[Dicarboxylic_Acid_Energy_Yield_ATP_Z-001-1197]]
+
+## Source
+
+[[Adipic_Acid_Biochemistry_and_Omega-Oxidation_Pathw_L-101-0002_v4.0]]
+
+## Related Zettels from Same Source
+
+- [[Beta_Oxidation_Mitochondrial_Fatty_Acid_Breakdown_Z-001-1192]]
+- [[Carnitine_Shuttle_Fatty_Acid_Transport_System_Z-001-1194]]
+- [[Complete_Adipate_Metabolism_Formation_to_Krebs_Z-001-1196]]
+- [[Dicarboxylic_Acid_Energy_Yield_ATP_Z-001-1197]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Beta_Oxidation_Mitochondrial_Fatty_Acid_Breakdown_Z-001-1192]]
+- [[Carnitine_Shuttle_Fatty_Acid_Transport_System_Z-001-1194]]
+- [[Complete_Adipate_Metabolism_Formation_to_Krebs_Z-001-1196]]
+- [[Dicarboxylic_Acid_Energy_Yield_ATP_Z-001-1197]]
+
+## Source
+
+[[Adipic_Acid_Biochemistry_and_Omega-Oxidation_Pathw_L-101-0002_v4.0]]
+
+## Related Zettels from Same Source
+
+- [[Beta_Oxidation_Mitochondrial_Fatty_Acid_Breakdown_Z-001-1192]]
+- [[Carnitine_Shuttle_Fatty_Acid_Transport_System_Z-001-1194]]
+- [[Complete_Adipate_Metabolism_Formation_to_Krebs_Z-001-1196]]
+- [[Dicarboxylic_Acid_Energy_Yield_ATP_Z-001-1197]]
 
 ## Mechanism
 

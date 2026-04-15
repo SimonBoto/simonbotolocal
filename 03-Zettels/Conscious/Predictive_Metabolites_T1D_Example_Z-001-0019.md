@@ -12,6 +12,26 @@ source-litnote: Synthesized from clinical practice
 ---
 
 # Predictive Metabolites: Type 1 Diabetes Example
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Claim
  can predict disease onset **before clinical symptom manifestation**, demonstrated by Type 1 Diabetes (T1D) metabolite patterns that precede diagnosis.

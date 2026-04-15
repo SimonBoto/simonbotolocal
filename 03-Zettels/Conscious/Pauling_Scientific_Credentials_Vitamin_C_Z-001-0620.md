@@ -14,6 +14,18 @@ extraction-date: 2026-04-15
 ---
 
 # Pauling Scientific Credentials and Vitamin C Shift
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Linus Pauling's transition from Nobel-winning chemist to vitamin C advocate represents scientific evolution based on evolutionary biology insights, not the quackery his critics claimed.
 
@@ -81,6 +93,16 @@ Pauling followed a pattern seen with other paradigm-challenging scientists:
 ## Core Principle
 
 Linus Pauling's transition from Nobel-winning chemist to vitamin C advocate represents scientific evolution based on evolutionary biology insights, not the quackery his critics claimed.
+
+## Related Zettels from Same Source
+
+- [[High_Dose_Vitamin_C_Cancer_Therapy_Z-001-0626]]
+- [[Human_GULO_Gene_Loss_Vitamin_C_Dependency_Z-001-0621]]
+- [[Medical_Establishment_Suppression_Pauling_Z-001-0625]]
+- [[Orthomolecular_Medicine_Pauling_Legacy_Z-001-0627]]
+- [[Vitamin_C_Biochemical_Functions_Z-001-0623]]
+- [[Vitamin_C_Evolutionary_Mismatch_Modern_Diet_Z-001-0624]]
+- [[Vitamin_C_RDA_vs_Optimal_Intake_Z-001-0622]]
 
 ## Source
 [[LitNote_KingOfVitamins_Pauling_Vitamin_C_2025_L-001-0656]] — Vitamin King (2025)

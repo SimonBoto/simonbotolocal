@@ -14,6 +14,22 @@ extraction-date: 2026-04-15
 ---
 
 # Fasting  Superior for Early IR Detection
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Fasting insulin alone is superior to HOMA-IR for detecting early insulin resistance because it becomes elevated during the compensatory stage — when beta-cells are still maintaining normal glucose through hyperinsulinemia.
 
@@ -28,6 +44,10 @@ Fasting insulin alone is superior to HOMA-IR for detecting early insulin resista
 **Clinical advantage:** Detects IR 5-10 years before glucose abnormalities or HbA1c elevation, enabling true prevention rather than early disease management.
 
 **Note:** Must be interpreted with glucose — very low insulin + normal glucose suggests excellent sensitivity; high insulin + normal glucose indicates compensation (Stage 1).
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Principle
 

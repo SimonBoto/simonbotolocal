@@ -13,6 +13,54 @@ extraction-date: 2026-03-02
 ---
 
 # Dicarboxylic Acid Hierarchy as Insulin Resistance Markers
+## Related Zettels from Same Source
+
+- [[Adipate_Metabolism_TCA_Entry_Z-101-0010]]
+- [[Carnitine_Deficiency_Omega_Oxidation_Link_Z-101-0009]]
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]]
+- [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014]]
+
+## Source
+
+[[L-101-0002_Adipic_Acid_Biochemistry_Omega_Oxidation_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Adipate_Metabolism_TCA_Entry_Z-101-0010]]
+- [[Carnitine_Deficiency_Omega_Oxidation_Link_Z-101-0009]]
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]]
+- [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Adipate_Metabolism_TCA_Entry_Z-101-0010]]
+- [[Carnitine_Deficiency_Omega_Oxidation_Link_Z-101-0009]]
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]]
+- [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014]]
+
+## Source
+
+[[L-101-0002_Adipic_Acid_Biochemistry_Omega_Oxidation_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Adipate_Metabolism_TCA_Entry_Z-101-0010]]
+- [[Carnitine_Deficiency_Omega_Oxidation_Link_Z-101-0009]]
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]]
+- [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014]]
 
 ## Core Claim
 **Dicarboxylic acids form a hierarchical biomarker panel for assessing insulin resistance severity — with adipate (C6) as the primary and most sensitive marker, suberate (C8) as a secondary indicator of more significant impairment, and sebacate (C10) appearing only in severe or prolonged metabolic dysfunction — enabling graded assessment of β-oxidation capacity and metabolic flexibility in the METHAP research protocol.**

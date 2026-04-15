@@ -12,6 +12,26 @@ status: conscious
 ---
 
 # Oxalate Management in CKD — Kidney Stone Prevention and Progression
+## Source
+
+[[LitNote_CKD_Nutritional_Assessment_L-001-0575]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_CKD_Nutritional_Assessment_L-001-0575]
 
 ## Clinical Significance
 

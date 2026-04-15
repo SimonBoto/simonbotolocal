@@ -15,6 +15,18 @@ related: []
 ---
 
 # Artificial Sweeteners Cause Visceral Fat Accumulation
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Artificial sweetener consumption is associated with increased visceral fat accumulation** — the most dangerous fat depot for metabolic health.
@@ -25,6 +37,11 @@ related: []
 | **CT imaging** | Direct fat measurement |
 | **25-year follow-up** | Dose-response observed |
 | **3,088 participants** | Large cohort |
+
+## Related Zettels from Same Source
+
+- [[Aspartame_Saccharin_Independent_Calories_Fat_Z-002-0742]]
+- [[Diet_Soda_Paradox_Weight_Gain_Z-002-0743]]
 
 ## Source
 - **LitNote:** [[L-002-0201_Artificial_Sweeteners_Increase_Body_Fat]]

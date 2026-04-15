@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 #  Fracture Risk Reduction Evidence
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Several Asian studies demonstrate fracture risk reduction with MK-4 supplementation in postmenopausal women. Meta-analysis (Cockayne et al., 2006) suggests K2 improves BMD and decreases fracture incidence. Western population data still emerging.
 

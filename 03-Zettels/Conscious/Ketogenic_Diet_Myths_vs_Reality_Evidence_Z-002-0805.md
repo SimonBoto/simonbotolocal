@@ -15,6 +15,18 @@ related: []
 ---
 
 # Ketogenic Diet Myths vs Reality Evidence-Based
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Common concerns about ketogenic diets are **not supported by scientific evidence** — the largest study found higher carb intake, not lower, associated with increased mortality.
@@ -49,6 +61,11 @@ Common concerns about ketogenic diets are **not supported by scientific evidence
 ## Significance
 
 Common concerns about ketogenic diets are **not supported by scientific evidence** — the largest study found higher carb intake, not lower, associated with increased mortality.
+
+## Related Zettels from Same Source
+
+- [[Carbohydrates_Not_Essential_Nutrient_Gluconeogenesis_Z-002-0806]]
+- [[Ninety_Percent_Metabolic_Dysfunction_Low_Carb_Benefit_Z-002-0804]]
 
 ## Source
 - **LitNote:** [[L-002-0222_Stopping_Sugar_Carbs_Metabolic_Effects]]

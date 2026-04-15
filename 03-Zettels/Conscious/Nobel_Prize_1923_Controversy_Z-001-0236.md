@@ -12,8 +12,60 @@ extraction-date: 2026-03-01
 ---
 
 # Nobel Prize 1923 — Award and Controversy
+## Related Zettels from Same Source
+
+- [[Banting_Best_Discovery_1921_Z-001-0232]]
+- [[Insulin_Naming_Islets_Langerhans_Z-001-0235]]
+- [[James_Collip_Purification_Contribution_Z-001-0233]]
+- [[Leonard_Thompson_First_Human_Treatment_1922_Z-001-0234]]
+- [[Pre_Insulin_Era_Starvation_Treatment_Z-001-0231]]
+
+## Source
+
+[[LitNote_Insulin_History_L-001-0207]
+
+## Related Zettels from Same Source
+
+- [[Banting_Best_Discovery_1921_Z-001-0232]]
+- [[Insulin_Naming_Islets_Langerhans_Z-001-0235]]
+- [[James_Collip_Purification_Contribution_Z-001-0233]]
+- [[Leonard_Thompson_First_Human_Treatment_1922_Z-001-0234]]
+- [[Pre_Insulin_Era_Starvation_Treatment_Z-001-0231]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > The 1923 Nobel Prize in Physiology or Medicine was awarded to Frederick Banting and John MacLeod for the discovery of , sparking controversy over credit allocation that led both laureates to share their prize money with their colleagues Charles Best and James Collip.
+
+## Related Zettels from Same Source
+
+- [[Banting_Best_Discovery_1921_Z-001-0232]]
+- [[Insulin_Naming_Islets_Langerhans_Z-001-0235]]
+- [[James_Collip_Purification_Contribution_Z-001-0233]]
+- [[Leonard_Thompson_First_Human_Treatment_1922_Z-001-0234]]
+- [[Pre_Insulin_Era_Starvation_Treatment_Z-001-0231]]
+
+## Source
+
+[[LitNote_Insulin_History_L-001-0207]
+
+## Related Zettels from Same Source
+
+- [[Banting_Best_Discovery_1921_Z-001-0232]]
+- [[Insulin_Naming_Islets_Langerhans_Z-001-0235]]
+- [[James_Collip_Purification_Contribution_Z-001-0233]]
+- [[Leonard_Thompson_First_Human_Treatment_1922_Z-001-0234]]
+- [[Pre_Insulin_Era_Starvation_Treatment_Z-001-0231]]
 
 ## Core Principle
 

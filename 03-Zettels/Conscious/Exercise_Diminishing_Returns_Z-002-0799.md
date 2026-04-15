@@ -15,6 +15,46 @@ related: []
 ---
 
 # Exercise Benefits Follow Diminishing Returns Curve
+## Related Zettels from Same Source
+
+- [[Minimal_Exercise_15min_Mortality_Z-002-0798]]
+- [[Vigorous_vs_Moderate_Exercise_Z-002-0800]]
+
+## Source
+
+[[L-002-0220_Exercise_Minimal_Dose_Mortality]]
+
+## Related Zettels from Same Source
+
+- [[Minimal_Exercise_15min_Mortality_Z-002-0798]]
+- [[Vigorous_vs_Moderate_Exercise_Z-002-0800]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Minimal_Exercise_15min_Mortality_Z-002-0798]]
+- [[Vigorous_vs_Moderate_Exercise_Z-002-0800]]
+
+## Source
+
+[[L-002-0220_Exercise_Minimal_Dose_Mortality]]
+
+## Related Zettels from Same Source
+
+- [[Minimal_Exercise_15min_Mortality_Z-002-0798]]
+- [[Vigorous_vs_Moderate_Exercise_Z-002-0800]]
 
 ## Core Claim
 **Exercise benefits follow a diminishing returns pattern** — the largest mortality reductions occur with relatively small amounts of vigorous activity, with continued but more gradual improvements as exercise volume increases beyond the optimal point.

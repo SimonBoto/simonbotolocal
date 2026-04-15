@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 # Denosumab Bisphosphonate Transition Protocol
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 When discontinuing denosumab, guidelines recommend transitioning to bisphosphonate therapy to mitigate rebound bone loss and fracture risk. Timing is critical—bisphosphonate should be initiated before denosumab wears off completely.
 

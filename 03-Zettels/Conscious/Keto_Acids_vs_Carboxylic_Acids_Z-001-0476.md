@@ -25,6 +25,54 @@ extraction-date: 2026-03-04
 ---
 
 # Keto Acids vs Carboxylic Acids
+## Related Zettels from Same Source
+
+- [[Aldehyde_vs_Ketone_Chemistry_Z-001-0480]]
+- [[Propionate_Metabolism_Gluconeogenesis_Z-001-0478]]
+- [[Pyruvate_Central_Metabolic_Role_Z-001-0477]]
+- [[Vitamin_Dependence_Organic_Acid_Metabolism_Z-001-0479]]
+
+## Source
+
+[[L-001-0045F_Keto_Acids_Organic_Acids_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Aldehyde_vs_Ketone_Chemistry_Z-001-0480]]
+- [[Propionate_Metabolism_Gluconeogenesis_Z-001-0478]]
+- [[Pyruvate_Central_Metabolic_Role_Z-001-0477]]
+- [[Vitamin_Dependence_Organic_Acid_Metabolism_Z-001-0479]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Aldehyde_vs_Ketone_Chemistry_Z-001-0480]]
+- [[Propionate_Metabolism_Gluconeogenesis_Z-001-0478]]
+- [[Pyruvate_Central_Metabolic_Role_Z-001-0477]]
+- [[Vitamin_Dependence_Organic_Acid_Metabolism_Z-001-0479]]
+
+## Source
+
+[[L-001-0045F_Keto_Acids_Organic_Acids_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Aldehyde_vs_Ketone_Chemistry_Z-001-0480]]
+- [[Propionate_Metabolism_Gluconeogenesis_Z-001-0478]]
+- [[Pyruvate_Central_Metabolic_Role_Z-001-0477]]
+- [[Vitamin_Dependence_Organic_Acid_Metabolism_Z-001-0479]]
 
 ## Core Claim
 **All keto acids are carboxylic acids, but not all carboxylic acids are keto acids — keto acids (α-keto acids) contain both a ketone group and a carboxyl group (R-CO-COOH), while carboxylic acids contain only the carboxyl group (R-COOH)** — pyruvate, α-ketoglutarate, and oxaloacetate are essential metabolic keto acids, while acetate, propionate, and lactate are non-keto carboxylic acids.

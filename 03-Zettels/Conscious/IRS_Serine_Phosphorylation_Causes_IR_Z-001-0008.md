@@ -16,6 +16,18 @@ created: 2026-02-22
 ---
 
 # IRS Serine Phosphorylation Causes  Resistance
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **Claim:** Excessive serine phosphorylation of IRS proteins (particularly IRS-1 at Ser-307/312) is a primary molecular mechanism of .
 

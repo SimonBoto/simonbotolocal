@@ -12,6 +12,50 @@ status: conscious
 ---
 
 # VDR Knockout Mouse Phenotypes — Lessons from  Receptor Genetic Models
+## Related Zettels from Same Source
+
+- [[Autoimmune_Disease_Vitamin_D_Connection_Z-001-1164]]
+- [[Treg_Th17_Balance_VDR_Z-001-1165]]
+- [[Vitamin_D_Immunomodulation_Mechanisms_Z-001-1163]]
+
+## Source
+
+[[LitNote_VDR_Mitochondrial_Knockout_Studies_L-001-0577]
+
+## Related Zettels from Same Source
+
+- [[Autoimmune_Disease_Vitamin_D_Connection_Z-001-1164]]
+- [[Treg_Th17_Balance_VDR_Z-001-1165]]
+- [[Vitamin_D_Immunomodulation_Mechanisms_Z-001-1163]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Autoimmune_Disease_Vitamin_D_Connection_Z-001-1164]]
+- [[Treg_Th17_Balance_VDR_Z-001-1165]]
+- [[Vitamin_D_Immunomodulation_Mechanisms_Z-001-1163]]
+
+## Source
+
+[[LitNote_VDR_Mitochondrial_Knockout_Studies_L-001-0577]
+
+## Related Zettels from Same Source
+
+- [[Autoimmune_Disease_Vitamin_D_Connection_Z-001-1164]]
+- [[Treg_Th17_Balance_VDR_Z-001-1165]]
+- [[Vitamin_D_Immunomodulation_Mechanisms_Z-001-1163]]
 
 ## Overview
 

@@ -19,8 +19,28 @@ status: conscious
 ---
 
 # Testosterone Feedback Loops
+## Source
+
+[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Testosterone exerts negative feedback on the hypothalamic-pituitary-gonadal axis at multiple levels to maintain hormonal homeostasis.
+
+## Source
+
+[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]
 
 ## Core Principle
 

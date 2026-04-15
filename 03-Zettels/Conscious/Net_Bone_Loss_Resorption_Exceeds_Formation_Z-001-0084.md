@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 # Net Bone Loss Resorption Exceeds Formation
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 When osteoclastic resorption outpaces osteoblastic formation (or formation is inadequate), net bone loss occurs. This manifests as osteopenia or osteoporosis. The imbalance is driven by hormonal changes, , or disuse.
 

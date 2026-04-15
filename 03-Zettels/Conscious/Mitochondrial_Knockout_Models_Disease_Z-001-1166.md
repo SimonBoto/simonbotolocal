@@ -11,6 +11,46 @@ status: conscious
 ---
 
 # l Knockout Models — Disease Mechanisms
+## Related Zettels from Same Source
+
+- [[Mitochondrial_Dynamics_Fusion_Fission_Z-001-1168]]
+- [[mtDNA_Mutations_Cancer_Metastasis_Z-001-1167]]
+
+## Source
+
+[[LitNote_Mitochondrial_Gene_Knockout_Models_L-001-0622]
+
+## Related Zettels from Same Source
+
+- [[Mitochondrial_Dynamics_Fusion_Fission_Z-001-1168]]
+- [[mtDNA_Mutations_Cancer_Metastasis_Z-001-1167]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Mitochondrial_Dynamics_Fusion_Fission_Z-001-1168]]
+- [[mtDNA_Mutations_Cancer_Metastasis_Z-001-1167]]
+
+## Source
+
+[[LitNote_Mitochondrial_Gene_Knockout_Models_L-001-0622]
+
+## Related Zettels from Same Source
+
+- [[Mitochondrial_Dynamics_Fusion_Fission_Z-001-1168]]
+- [[mtDNA_Mutations_Cancer_Metastasis_Z-001-1167]]
 
 ## Why Knockout Models Matter
 

@@ -28,6 +28,58 @@ updated: "2026-04-09"
 ---
 
 # Vitamin C Epigenetic DNA Histone Demethylation
+## Related Zettels from Same Source
+
+- [[Vitamin_C_Clinical_Evidence_Cancer_Controversies_Z-001-1127]]
+- [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_Z-001-1125]]
+- [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_Z-001-1125,]]
+- [[[[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_Z-001-1126]],]]
+- [[[[Vitamin_C_Clinical_Evidence_Cancer_Controversies_Z-001-1127]]]]
+
+## Source
+
+[[L-001-0610_High_Dose_Vitamin_C_Oncology_CGPT-0264]]
+
+## Related Zettels from Same Source
+
+- [[Vitamin_C_Clinical_Evidence_Cancer_Controversies_Z-001-1127]]
+- [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_Z-001-1125]]
+- [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_Z-001-1125,]]
+- [[[[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_Z-001-1126]],]]
+- [[[[Vitamin_C_Clinical_Evidence_Cancer_Controversies_Z-001-1127]]]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Vitamin_C_Clinical_Evidence_Cancer_Controversies_Z-001-1127]]
+- [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_Z-001-1125]]
+- [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_Z-001-1125,]]
+- [[[[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_Z-001-1126]],]]
+- [[[[Vitamin_C_Clinical_Evidence_Cancer_Controversies_Z-001-1127]]]]
+
+## Source
+
+[[L-001-0610_High_Dose_Vitamin_C_Oncology_CGPT-0264]]
+
+## Related Zettels from Same Source
+
+- [[Vitamin_C_Clinical_Evidence_Cancer_Controversies_Z-001-1127]]
+- [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_Z-001-1125]]
+- [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_Z-001-1125,]]
+- [[[[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_Z-001-1126]],]]
+- [[[[Vitamin_C_Clinical_Evidence_Cancer_Controversies_Z-001-1127]]]]
 
 ## Core Claim
 Vitamin C serves as an essential cofactor for ten-eleven translocation (TET) enzymes that catalyze DNA demethylation and for Jumonji C-domain containing (JmjC) histone demethylases, thereby influencing gene expression patterns in cancer cells—potentially reactivating tumor suppressor genes and modulating the epigenetic landscape to favor anti-cancer cellular programs.

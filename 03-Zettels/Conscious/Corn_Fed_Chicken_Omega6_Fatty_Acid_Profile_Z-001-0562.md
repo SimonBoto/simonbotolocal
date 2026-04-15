@@ -13,6 +13,18 @@ created: 2026-03-03
 ---
 
 # Corn-Fed Chicken  Fatty Acid Profile
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Concept
 

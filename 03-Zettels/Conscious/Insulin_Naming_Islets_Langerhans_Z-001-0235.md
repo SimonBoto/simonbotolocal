@@ -12,8 +12,60 @@ extraction-date: 2026-03-01
 ---
 
 #  Naming and the Islets of Langerhans
+## Related Zettels from Same Source
+
+- [[Banting_Best_Discovery_1921_Z-001-0232]]
+- [[James_Collip_Purification_Contribution_Z-001-0233]]
+- [[Leonard_Thompson_First_Human_Treatment_1922_Z-001-0234]]
+- [[Nobel_Prize_1923_Controversy_Z-001-0236]]
+- [[Pre_Insulin_Era_Starvation_Treatment_Z-001-0231]]
+
+## Source
+
+[[LitNote_Insulin_History_L-001-0207]
+
+## Related Zettels from Same Source
+
+- [[Banting_Best_Discovery_1921_Z-001-0232]]
+- [[James_Collip_Purification_Contribution_Z-001-0233]]
+- [[Leonard_Thompson_First_Human_Treatment_1922_Z-001-0234]]
+- [[Nobel_Prize_1923_Controversy_Z-001-0236]]
+- [[Pre_Insulin_Era_Starvation_Treatment_Z-001-0231]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > The name "insulin" derives from the Latin "insula" meaning island, referencing the Islets of Langerhans—the microscopic endocrine clusters within the pancreas that produce insulin.
+
+## Related Zettels from Same Source
+
+- [[Banting_Best_Discovery_1921_Z-001-0232]]
+- [[James_Collip_Purification_Contribution_Z-001-0233]]
+- [[Leonard_Thompson_First_Human_Treatment_1922_Z-001-0234]]
+- [[Nobel_Prize_1923_Controversy_Z-001-0236]]
+- [[Pre_Insulin_Era_Starvation_Treatment_Z-001-0231]]
+
+## Source
+
+[[LitNote_Insulin_History_L-001-0207]
+
+## Related Zettels from Same Source
+
+- [[Banting_Best_Discovery_1921_Z-001-0232]]
+- [[James_Collip_Purification_Contribution_Z-001-0233]]
+- [[Leonard_Thompson_First_Human_Treatment_1922_Z-001-0234]]
+- [[Nobel_Prize_1923_Controversy_Z-001-0236]]
+- [[Pre_Insulin_Era_Starvation_Treatment_Z-001-0231]]
 
 ## Core Principle
 

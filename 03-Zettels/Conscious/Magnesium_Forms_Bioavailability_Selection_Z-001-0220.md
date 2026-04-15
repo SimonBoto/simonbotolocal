@@ -12,8 +12,104 @@ extraction-date: 2026-03-01
 ---
 
 #  Forms — Bioavailability and  Selection
+## Related Zettels from Same Source
+
+- [[Magnesium_Cardiac_Arrhythmias_Electrophysiology_Z-001-0216]]
+- [[Magnesium_Cofactor_Enzymatic_Reactions_MgATP_Z-001-0206]]
+- [[Magnesium_Deficiency_Population_Prevalence_Z-001-0214]]
+- [[Magnesium_Diabetes_Risk_Epidemiological_Evidence_Z-001-0212]]
+- [[Magnesium_Dietary_Sources_Nutrition_Z-001-0221]]
+- [[Magnesium_Dosing_RDA_Therapeutic_Ranges_Z-001-0219]]
+- [[Magnesium_Energy_Production_Mitochondrial_Function_Z-001-0207]]
+- [[Magnesium_Hypertension_Vasodilation_Mechanisms_Z-001-0215]]
+- [[Magnesium_Insulin_Resistance_Mechanisms_Z-001-0211]]
+- [[Magnesium_Ion_Transport_Cellular_Signaling_Z-001-0208]]
+- [[Magnesium_Lipid_Metabolism_Dyslipidemia_Z-001-0217]]
+- [[Magnesium_Monitoring_Safety_Side_Effects_Z-001-0222]]
+- [[Magnesium_Neuromuscular_Function_Neurotransmission_Z-001-0209]]
+- [[Magnesium_Supplementation_Diabetes_Clinical_Trials_Z-001-0213]]
+- [[Magnesium_Vascular_Calcification_Prevention_Z-001-0218]]
+- [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]]
+
+## Source
+
+[[LitNote_Magnesium_Supplementation_L-001-0201d]
+
+## Related Zettels from Same Source
+
+- [[Magnesium_Cardiac_Arrhythmias_Electrophysiology_Z-001-0216]]
+- [[Magnesium_Cofactor_Enzymatic_Reactions_MgATP_Z-001-0206]]
+- [[Magnesium_Deficiency_Population_Prevalence_Z-001-0214]]
+- [[Magnesium_Diabetes_Risk_Epidemiological_Evidence_Z-001-0212]]
+- [[Magnesium_Dietary_Sources_Nutrition_Z-001-0221]]
+- [[Magnesium_Dosing_RDA_Therapeutic_Ranges_Z-001-0219]]
+- [[Magnesium_Energy_Production_Mitochondrial_Function_Z-001-0207]]
+- [[Magnesium_Hypertension_Vasodilation_Mechanisms_Z-001-0215]]
+- [[Magnesium_Insulin_Resistance_Mechanisms_Z-001-0211]]
+- [[Magnesium_Ion_Transport_Cellular_Signaling_Z-001-0208]]
+- [[Magnesium_Lipid_Metabolism_Dyslipidemia_Z-001-0217]]
+- [[Magnesium_Monitoring_Safety_Side_Effects_Z-001-0222]]
+- [[Magnesium_Neuromuscular_Function_Neurotransmission_Z-001-0209]]
+- [[Magnesium_Supplementation_Diabetes_Clinical_Trials_Z-001-0213]]
+- [[Magnesium_Vascular_Calcification_Prevention_Z-001-0218]]
+- [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > The choice of magnesium salt significantly impacts absorption, tolerability, and clinical efficacy, with organic salts (citrate, glycinate) demonstrating superior bioavailability compared to inorganic forms (oxide).
+
+## Related Zettels from Same Source
+
+- [[Magnesium_Cardiac_Arrhythmias_Electrophysiology_Z-001-0216]]
+- [[Magnesium_Cofactor_Enzymatic_Reactions_MgATP_Z-001-0206]]
+- [[Magnesium_Deficiency_Population_Prevalence_Z-001-0214]]
+- [[Magnesium_Diabetes_Risk_Epidemiological_Evidence_Z-001-0212]]
+- [[Magnesium_Dietary_Sources_Nutrition_Z-001-0221]]
+- [[Magnesium_Dosing_RDA_Therapeutic_Ranges_Z-001-0219]]
+- [[Magnesium_Energy_Production_Mitochondrial_Function_Z-001-0207]]
+- [[Magnesium_Hypertension_Vasodilation_Mechanisms_Z-001-0215]]
+- [[Magnesium_Insulin_Resistance_Mechanisms_Z-001-0211]]
+- [[Magnesium_Ion_Transport_Cellular_Signaling_Z-001-0208]]
+- [[Magnesium_Lipid_Metabolism_Dyslipidemia_Z-001-0217]]
+- [[Magnesium_Monitoring_Safety_Side_Effects_Z-001-0222]]
+- [[Magnesium_Neuromuscular_Function_Neurotransmission_Z-001-0209]]
+- [[Magnesium_Supplementation_Diabetes_Clinical_Trials_Z-001-0213]]
+- [[Magnesium_Vascular_Calcification_Prevention_Z-001-0218]]
+- [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]]
+
+## Source
+
+[[LitNote_Magnesium_Supplementation_L-001-0201d]
+
+## Related Zettels from Same Source
+
+- [[Magnesium_Cardiac_Arrhythmias_Electrophysiology_Z-001-0216]]
+- [[Magnesium_Cofactor_Enzymatic_Reactions_MgATP_Z-001-0206]]
+- [[Magnesium_Deficiency_Population_Prevalence_Z-001-0214]]
+- [[Magnesium_Diabetes_Risk_Epidemiological_Evidence_Z-001-0212]]
+- [[Magnesium_Dietary_Sources_Nutrition_Z-001-0221]]
+- [[Magnesium_Dosing_RDA_Therapeutic_Ranges_Z-001-0219]]
+- [[Magnesium_Energy_Production_Mitochondrial_Function_Z-001-0207]]
+- [[Magnesium_Hypertension_Vasodilation_Mechanisms_Z-001-0215]]
+- [[Magnesium_Insulin_Resistance_Mechanisms_Z-001-0211]]
+- [[Magnesium_Ion_Transport_Cellular_Signaling_Z-001-0208]]
+- [[Magnesium_Lipid_Metabolism_Dyslipidemia_Z-001-0217]]
+- [[Magnesium_Monitoring_Safety_Side_Effects_Z-001-0222]]
+- [[Magnesium_Neuromuscular_Function_Neurotransmission_Z-001-0209]]
+- [[Magnesium_Supplementation_Diabetes_Clinical_Trials_Z-001-0213]]
+- [[Magnesium_Vascular_Calcification_Prevention_Z-001-0218]]
+- [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]]
 
 ## Core Principle
 

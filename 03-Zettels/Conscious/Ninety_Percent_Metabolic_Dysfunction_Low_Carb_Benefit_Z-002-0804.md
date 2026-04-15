@@ -15,6 +15,18 @@ related: []
 ---
 
 # 90% of Population Has Metabolic Dysfunction
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **90% of the population has some degree of metabolic dysfunction** — impaired ability to effectively metabolize glucose and carbohydrates.
@@ -37,6 +49,11 @@ related: []
 
 > "The 90% of population presents metabolic disorders that prevent effective glucose and carbohydrate metabolism. Reduced carbohydrate intake helps increase energy production and improve chronic inflammation."
 > — Source analysis
+
+## Related Zettels from Same Source
+
+- [[Carbohydrates_Not_Essential_Nutrient_Gluconeogenesis_Z-002-0806]]
+- [[Ketogenic_Diet_Myths_vs_Reality_Evidence_Z-002-0805]]
 
 ## Source
 - **LitNote:** [[L-002-0222_Stopping_Sugar_Carbs_Metabolic_Effects]]

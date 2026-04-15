@@ -24,6 +24,54 @@ extraction-date: 2026-03-04
 ---
 
 # Evolutionary Ancient Glycolysis
+## Related Zettels from Same Source
+
+- [[Fructose_Glycolytic_Intermediate_Z-001-0468]]
+- [[Glycolysis_Steps_Regulation_Z-001-0467]]
+- [[Pyruvate_Metabolic_Crossroads_Z-001-0469]]
+- [[Triose_Structure_Glyceraldehyde_DHAP_Z-001-0466]]
+
+## Source
+
+[[L-001-0045D_Triose_Metabolism_Glycolysis_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Fructose_Glycolytic_Intermediate_Z-001-0468]]
+- [[Glycolysis_Steps_Regulation_Z-001-0467]]
+- [[Pyruvate_Metabolic_Crossroads_Z-001-0469]]
+- [[Triose_Structure_Glyceraldehyde_DHAP_Z-001-0466]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Fructose_Glycolytic_Intermediate_Z-001-0468]]
+- [[Glycolysis_Steps_Regulation_Z-001-0467]]
+- [[Pyruvate_Metabolic_Crossroads_Z-001-0469]]
+- [[Triose_Structure_Glyceraldehyde_DHAP_Z-001-0466]]
+
+## Source
+
+[[L-001-0045D_Triose_Metabolism_Glycolysis_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Fructose_Glycolytic_Intermediate_Z-001-0468]]
+- [[Glycolysis_Steps_Regulation_Z-001-0467]]
+- [[Pyruvate_Metabolic_Crossroads_Z-001-0469]]
+- [[Triose_Structure_Glyceraldehyde_DHAP_Z-001-0466]]
 
 ## Core Claim
 **Glycolysis is ~3.5 billion years old, present in the Last Universal Common Ancestor (LUCA), and universally conserved across archaea, bacteria, and eukaryotes — its anaerobic function, triose-based efficiency, and enzyme conservation make it among the most ancient metabolic pathways** — the splitting of glucose into two trioses doubled energy yield and enabled complex life.

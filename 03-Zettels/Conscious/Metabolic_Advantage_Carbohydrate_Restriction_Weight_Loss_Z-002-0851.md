@@ -15,6 +15,46 @@ related: []
 ---
 
 # Metabolic Advantage of Carbohydrate Restriction for Weight Loss
+## Related Zettels from Same Source
+
+- [[Calorie_Source_Affects_Metabolism_Not_Just_Quantity_Z-002-0849]]
+- [[Low_Carb_Increases_Energy_Expenditure_Harvard_Study_Z-002-0850]]
+
+## Source
+
+[[L-002-0237_Not_All_Calories_Equal_Harvard]]
+
+## Related Zettels from Same Source
+
+- [[Calorie_Source_Affects_Metabolism_Not_Just_Quantity_Z-002-0849]]
+- [[Low_Carb_Increases_Energy_Expenditure_Harvard_Study_Z-002-0850]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Calorie_Source_Affects_Metabolism_Not_Just_Quantity_Z-002-0849]]
+- [[Low_Carb_Increases_Energy_Expenditure_Harvard_Study_Z-002-0850]]
+
+## Source
+
+[[L-002-0237_Not_All_Calories_Equal_Harvard]]
+
+## Related Zettels from Same Source
+
+- [[Calorie_Source_Affects_Metabolism_Not_Just_Quantity_Z-002-0849]]
+- [[Low_Carb_Increases_Energy_Expenditure_Harvard_Study_Z-002-0850]]
 
 ## Core Claim
 **Carbohydrate restriction provides a metabolic advantage for weight loss and maintenance through multiple mechanisms** — reduced insulin, increased fat oxidation, higher thermic effect, and preserved muscle mass.

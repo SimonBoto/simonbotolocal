@@ -13,6 +13,26 @@ extraction-date: 2026-03-04
 ---
 
 # Aspartate — Simple Structure, Central Role
+## Source
+
+[[L-001-0046B_Amino_Acid_Networks_CGPT-0445]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[L-001-0046B_Amino_Acid_Networks_CGPT-0445]]
 
 ## Core Claim
 **Aspartate has the simplest structure of the acidic amino acids (4-carbon dicarboxylic acid with an amino group) yet plays evolutionarily central roles — it provides the second nitrogen for the urea cycle, participates in the malate-aspartate shuttle, and is interconvertible with oxaloacetate, linking amino acid metabolism to the Krebs cycle and gluconeogenesis** — its synthesis from oxaloacetate is a simple transamination (B6-dependent).

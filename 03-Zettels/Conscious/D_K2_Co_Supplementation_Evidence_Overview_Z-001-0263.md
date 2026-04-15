@@ -12,8 +12,56 @@ extraction-date: 2026-03-01
 ---
 
 # D-K2 Co-Supplementation Evidence Overview
+## Related Zettels from Same Source
+
+- [[D_K2_Key_Studies_Summary_Z-001-0264]]
+- [[D_K2_Metabolic_Outcomes_Co_Supplementation_Z-001-0265]]
+- [[D_K2_Research_Limitations_Gaps_Z-001-0266]]
+- [[METHAP_Evidence_Contribution_Z-001-0267]]
+
+## Source
+
+[[LitNote_D_K2_Co_Supplementation_Evidence_L-001-0214]
+
+## Related Zettels from Same Source
+
+- [[D_K2_Key_Studies_Summary_Z-001-0264]]
+- [[D_K2_Metabolic_Outcomes_Co_Supplementation_Z-001-0265]]
+- [[D_K2_Research_Limitations_Gaps_Z-001-0266]]
+- [[METHAP_Evidence_Contribution_Z-001-0267]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Despite limited high-quality RCTs, existing studies on  and K2 co-supplementation consistently show metabolic and cardiovascular benefits exceeding those of either nutrient alone, establishing proof-of-concept for synergistic therapeutic potential.
+
+## Related Zettels from Same Source
+
+- [[D_K2_Key_Studies_Summary_Z-001-0264]]
+- [[D_K2_Metabolic_Outcomes_Co_Supplementation_Z-001-0265]]
+- [[D_K2_Research_Limitations_Gaps_Z-001-0266]]
+- [[METHAP_Evidence_Contribution_Z-001-0267]]
+
+## Source
+
+[[LitNote_D_K2_Co_Supplementation_Evidence_L-001-0214]
+
+## Related Zettels from Same Source
+
+- [[D_K2_Key_Studies_Summary_Z-001-0264]]
+- [[D_K2_Metabolic_Outcomes_Co_Supplementation_Z-001-0265]]
+- [[D_K2_Research_Limitations_Gaps_Z-001-0266]]
+- [[METHAP_Evidence_Contribution_Z-001-0267]]
 
 ## Core Principle
 

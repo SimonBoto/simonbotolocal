@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 # Saadi 2009 — 2,000 IU Infant 
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Saadi et al. (2009) demonstrated safety of 2,000 IU/day in infants over short duration with monitoring. This dose exceeds current IOM UL (1,000-1,500 IU for infants) by 33-100% with no adverse effects.
 

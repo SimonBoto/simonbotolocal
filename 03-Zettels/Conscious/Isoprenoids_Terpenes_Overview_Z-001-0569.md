@@ -13,6 +13,54 @@ extraction-date: 2026-03-03
 ---
 
 # Isoprenoids and Terpenes Overview
+## Related Zettels from Same Source
+
+- [[Bile_Acid_Synthesis_Cholesterol_Z-001-0573]]
+- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]]
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]]
+- [[Vitamin_D_Secosteroid_Synthesis_Z-001-0572]]
+
+## Source
+
+[[L-001-0519_Isoprenoids_Cholesterol_Derivatives_CGPT-0391]]
+
+## Related Zettels from Same Source
+
+- [[Bile_Acid_Synthesis_Cholesterol_Z-001-0573]]
+- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]]
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]]
+- [[Vitamin_D_Secosteroid_Synthesis_Z-001-0572]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Bile_Acid_Synthesis_Cholesterol_Z-001-0573]]
+- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]]
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]]
+- [[Vitamin_D_Secosteroid_Synthesis_Z-001-0572]]
+
+## Source
+
+[[L-001-0519_Isoprenoids_Cholesterol_Derivatives_CGPT-0391]]
+
+## Related Zettels from Same Source
+
+- [[Bile_Acid_Synthesis_Cholesterol_Z-001-0573]]
+- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]]
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]]
+- [[Vitamin_D_Secosteroid_Synthesis_Z-001-0572]]
 
 ## Core Claim
 **Isoprenoids (terpenoids) constitute a vast family of biomolecules built from five-carbon isoprene units — ranging from small volatile monoterpenes to large tetraterpenes like carotenoids — serving essential functions as hormones, pigments, vitamins, defense compounds, and pharmaceutical precursors in all living organisms.**

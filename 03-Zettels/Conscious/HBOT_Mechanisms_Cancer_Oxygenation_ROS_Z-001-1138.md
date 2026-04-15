@@ -14,6 +14,46 @@ created: 2026-03-08
 ---
 
 # HBOT Mechanisms Cancer Oxygenation ROS
+## Related Zettels from Same Source
+
+- [[HBOT_Clinical_Applications_Safety_Considerations_Z-001-1140]]
+- [[HBOT_Radiosensitization_Chemotherapy_Enhancement_Z-001-1139]]
+
+## Source
+
+[[Hyperbaric_Oxygen_Therapy_in_Cancer_L-001-0614_v4.0]]
+
+## Related Zettels from Same Source
+
+- [[HBOT_Clinical_Applications_Safety_Considerations_Z-001-1140]]
+- [[HBOT_Radiosensitization_Chemotherapy_Enhancement_Z-001-1139]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[HBOT_Clinical_Applications_Safety_Considerations_Z-001-1140]]
+- [[HBOT_Radiosensitization_Chemotherapy_Enhancement_Z-001-1139]]
+
+## Source
+
+[[Hyperbaric_Oxygen_Therapy_in_Cancer_L-001-0614_v4.0]]
+
+## Related Zettels from Same Source
+
+- [[HBOT_Clinical_Applications_Safety_Considerations_Z-001-1140]]
+- [[HBOT_Radiosensitization_Chemotherapy_Enhancement_Z-001-1139]]
 
 ## Overview
 Hyperbaric oxygen therapy (HBOT) involves breathing 100% oxygen at increased atmospheric pressure, dramatically raising tissue oxygen levels and generating reactive oxygen species (ROS) that can selectively damage cancer cells.

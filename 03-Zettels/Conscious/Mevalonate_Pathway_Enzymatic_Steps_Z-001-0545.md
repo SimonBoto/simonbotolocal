@@ -12,6 +12,18 @@ extraction-date: 2026-03-01
 ---
 
 # Mevalonate Pathway Enzymatic Steps
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Mechanism
 
@@ -97,6 +109,13 @@ The mevalonate pathway converts acetyl-CoA to cholesterol through 13 discrete en
 - [[Mevalonate_Branch_Points_Z-001-0547]] — FPP branch point
 - [[Mevalonate_Clinical_Implications_Z-001-0548]] — Statin pharmacology
 - [[Mevalonate_METHAP_Integration_Z-001-0549]] — METHAP integration
+
+## Related Zettels from Same Source
+
+- [[HMG_CoA_Reductase_Regulation_Z-001-0546]]
+- [[Mevalonate_Branch_Points_Z-001-0547]]
+- [[Mevalonate_Clinical_Implications_Z-001-0548]]
+- [[Mevalonate_METHAP_Integration_Z-001-0549]]
 
 ## Source
 [[Mevalonate_Pathway_From_Acetyl-CoA_to_Cholesterol_L-001-0509_CGPT-0393]]

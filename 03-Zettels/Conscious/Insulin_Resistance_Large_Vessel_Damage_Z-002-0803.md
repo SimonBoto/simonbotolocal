@@ -15,6 +15,46 @@ related: []
 ---
 
 # Glucose vs Insulin: Different Vessel Types, Different Damage
+## Related Zettels from Same Source
+
+- [[ACCORD_Glucose_Lowering_Mortality_Z-002-0802]]
+- [[Insulin_More_Predictive_CVD_Glucose_Z-002-0801]]
+
+## Source
+
+[[L-002-0221_Glucose_vs_Insulin_CVD]]
+
+## Related Zettels from Same Source
+
+- [[ACCORD_Glucose_Lowering_Mortality_Z-002-0802]]
+- [[Insulin_More_Predictive_CVD_Glucose_Z-002-0801]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[ACCORD_Glucose_Lowering_Mortality_Z-002-0802]]
+- [[Insulin_More_Predictive_CVD_Glucose_Z-002-0801]]
+
+## Source
+
+[[L-002-0221_Glucose_vs_Insulin_CVD]]
+
+## Related Zettels from Same Source
+
+- [[ACCORD_Glucose_Lowering_Mortality_Z-002-0802]]
+- [[Insulin_More_Predictive_CVD_Glucose_Z-002-0801]]
 
 ## Core Claim
 **Elevated glucose and elevated insulin damage different types of blood vessels** — high glucose primarily affects small vessels (kidneys, eyes, peripheral nerves) causing microvascular complications, while high insulin primarily affects large vessels (heart, brain) causing macrovascular disease (MI, stroke), requiring different prevention strategies.

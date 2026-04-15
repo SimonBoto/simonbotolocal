@@ -14,6 +14,18 @@ related: []
 ---
 
 # Insulin Resistance 14x Greater CAD Risk Than Cholesterol
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Insulin resistance is associated with 14× greater increase in coronary artery disease risk** compared to isolated cholesterol elevation.

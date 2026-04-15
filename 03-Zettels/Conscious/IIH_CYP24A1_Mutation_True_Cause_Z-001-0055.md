@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 # IIH CYP24A1 Mutation — True Cause of " Toxicity"
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Idiopathic Infantile Hypercalcemia (IIH) is a rare genetic condition caused by mutations in CYP24A1 or SLC34A1 genes. These mutations impair vitamin D  and calcium regulation, causing hypercalcemia even with normal vitamin D intake. The 1950s fortification "toxicity" incidents were largely IIH cases misdiagnosed as vitamin D overdose.
 

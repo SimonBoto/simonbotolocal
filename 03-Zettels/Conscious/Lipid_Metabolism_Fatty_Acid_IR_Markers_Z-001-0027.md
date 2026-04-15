@@ -12,6 +12,26 @@ source-litnote: Synthesized from clinical practice
 ---
 
 # Lipid  & Fatty Acid Insulin Resistance Markers
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Claim
 **Fatty acid metabolism and desaturase activity generate specific biomarker patterns** — omega-3/omega-6 ratios, desaturase indices, and eicosanoid precursors that predict insulin resistance and inflammatory status.

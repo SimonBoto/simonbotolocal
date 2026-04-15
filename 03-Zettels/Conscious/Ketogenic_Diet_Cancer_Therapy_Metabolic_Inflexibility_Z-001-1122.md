@@ -12,6 +12,18 @@ extraction-date: 2026-03-08
 ---
 
 # Ketogenic Diet Cancer Therapy Metabolic Inflexibility
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Ketogenic diets exploit the metabolic inflexibility of cancer cells—while normal cells readily adapt to ketone oxidation for energy, cancer cells with defective mitochondria cannot effectively metabolize ketones, remaining dependent on glucose; this differential metabolic capacity allows ketogenic diets to selectively starve cancer cells while nourishing healthy tissue.
@@ -145,6 +157,14 @@ Normal cells nourished
 - [[Cancer_Metabolic_Disease_Mitochondrial_Origin_Z-001-1121]] — Metabolic theory
 - [[Press_Pulse_Strategy_Metabolic_Cancer_Therapy_Z-001-1123]] — Press-Pulse
 - [[Caloric_Restriction_Fasting_Cancer_Metabolic_Therapy_Z-001-1124]] — Caloric restriction
+
+## Related Zettels from Same Source
+
+- [[Caloric_Restriction_Fasting_Cancer_Metabolic_Therapy_Z-001-1124]]
+- [[Cancer_Metabolic_Disease_Mitochondrial_Origin_Z-001-1121]]
+- [[Ketogenesis_Mechanism_Liver_Mitochondria_Z-001-1094]]
+- [[Press_Pulse_Strategy_Metabolic_Cancer_Therapy_Z-001-1123]]
+- [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]]
 
 ## Source
 [[Metabolic_Therapy_for_Cancer_Seyfried_Protocol_L-001-0609_CGPT-0264]]

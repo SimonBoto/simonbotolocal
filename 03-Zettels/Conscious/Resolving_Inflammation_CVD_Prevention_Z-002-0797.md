@@ -15,6 +15,18 @@ related: []
 ---
 
 # Resolving Inflammation Central to CVD Prevention
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Addressing and resolving chronic inflammation is a central strategy for cardiovascular disease prevention**, with hsCRP serving as a measurable target for intervention success and feedback on lifestyle modifications.
@@ -55,6 +67,11 @@ related: []
 
 ## Clinical Message
 Don't just **treat** inflammation — **resolve** it by addressing root causes. hsCRP tracks your progress.
+
+## Related Zettels from Same Source
+
+- [[Chronic_Inflammation_Root_Causes_Z-002-0796]]
+- [[hsCRP_CVD_Predictor_Healthy_Population_Z-002-0795]]
 
 ## Source
 - **LitNote:** [[L-002-0219_Inflammation_CVD_Risk]]

@@ -15,6 +15,18 @@ related: []
 ---
 
 # Endothelial Metabolism Central to CVD Protection
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Metabolic processes in endothelial cells** — energy production, nutrient adequacy, insulin action, and inflammation management — play a **dominant role** in protecting the heart from cardiovascular disease.
@@ -57,6 +69,11 @@ related: []
 
 > "Metabolic processes such as energy production, nutrient adequacy, insulin action, and inflammation management play a dominant role in protecting the heart from cardiovascular diseases."
 > — Nature Reviews Cardiology 2025
+
+## Related Zettels from Same Source
+
+- [[Insulin_Resistance_14x_CAD_Risk_vs_Cholesterol_Alone_Z-002-0810]]
+- [[Silent_CVD_Progression_Metabolic_Disorders_Z-002-0812]]
 
 ## Source
 - **LitNote:** [[L-002-0224_Metabolism_Heart_Health]]

@@ -14,6 +14,18 @@ related: []
 ---
 
 # LDL is Number 10 in CVD Risk Factor Hierarchy
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **LDL cholesterol ranks #10** in CVD risk factor importance — yet receives disproportionate focus in guidelines compared to metabolic factors (diabetes, insulin resistance, hypertension) that rank higher.

@@ -15,6 +15,18 @@ related: []
 ---
 
 # Smoking Cessation and Blood Pressure Greatest Impact on Longevity
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Among the five major modifiable risk factors, **smoking cessation and blood pressure control provide the greatest individual contributions to longevity gains**, while cholesterol management shows minimal independent impact when other factors are controlled.
@@ -99,6 +111,11 @@ Among the five major modifiable risk factors, **smoking cessation and blood pres
 | **3** | Weight/metabolic health |
 | **4** | Diabetes prevention/management |
 | **5** | Lipids in context of above |
+
+## Related Zettels from Same Source
+
+- [[Five_Risk_Factors_11-14_Extra_Years_Life_Z-002-0669]]
+- [[Risk_Factors_Reversible_Diet_Lifestyle_Z-002-0671]]
 
 ## Source
 - **LitNote:** [[L-002-0178_Lifestyle_Diet_Disease_Determinants]]

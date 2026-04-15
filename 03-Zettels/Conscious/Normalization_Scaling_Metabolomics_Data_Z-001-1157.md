@@ -11,6 +11,26 @@ status: conscious
 ---
 
 # Normalization and Scaling —  Data
+## Source
+
+[[LitNote_Metabolomics_Data_Processing_L-001-0619]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Metabolomics_Data_Processing_L-001-0619]
 
 ## Core Principle
 
@@ -215,12 +235,60 @@ data_norm <- Normalize(data, method = "PQN")
 ### R (MetaboAnalyst)
 ```r
 # Normalization
+## Source
+
+[[LitNote_Metabolomics_Data_Processing_L-001-0619]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 data_norm <- Normalize(data, method = "PQN")
 
 # Scaling
+## Source
+
+[[LitNote_Metabolomics_Data_Processing_L-001-0619]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 data_scaled <- Scale(data_norm, method = "Auto")
 
 # Batch correction
+## Source
+
+[[LitNote_Metabolomics_Data_Processing_L-001-0619]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 data_corrected <- RemoveBatchEffect(data_scaled, batch)
 ```
 
@@ -229,14 +297,50 @@ data_corrected <- RemoveBatchEffect(data_scaled, batch)
 from sklearn.preprocessing import StandardScaler, normalize
 
 # Normalization
+## Source
+
+[[LitNote_Metabolomics_Data_Processing_L-001-0619]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 X_norm = normalize(X, norm='l1')  # TIC
 
 # Scaling
+## Source
+
+[[LitNote_Metabolomics_Data_Processing_L-001-0619]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 scaler = StandardScaler()
 X_scaled = scaler.fit_transform(X_norm)
 ```
 
 ---
+
+## Source
+
+[[LitNote_Metabolomics_Data_Processing_L-001-0619]
 
 ## Core Principle
 

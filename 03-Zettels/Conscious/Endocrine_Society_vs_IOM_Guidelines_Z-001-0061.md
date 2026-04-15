@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 # Endocrine Society vs IOM  Guidelines
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 The Endocrine Society (clinical endocrinologists) recommends 1,500-2,000 IU/day for adults—significantly higher than IOM's 600-800 IU. This divergence reflects different interpretations of evidence and clinical vs. population health perspectives.
 

@@ -17,10 +17,30 @@ extraction-date: 2026-04-15
 ---
 
 # Liver Enzyme Pattern Recognition
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Liver enzyme elevations follow predictable patterns. Recognizing **hepatocellular vs cholestatic vs alcoholic patterns** localizes the problem and guides diagnosis.
 
 ---
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Principle
 

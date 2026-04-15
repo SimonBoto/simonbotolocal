@@ -15,6 +15,18 @@ related: []
 ---
 
 # Low-Carbohydrate Diet Reduces Thyroid Autoantibodies
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Low-carbohydrate dietary intervention significantly reduces **thyroid peroxidase antibodies (TPOAb)** and **thyroglobulin antibodies (TgAb)** in patients with Hashimoto's thyroiditis, indicating reduced autoimmune activity against thyroid tissue.
@@ -63,6 +75,11 @@ Low-carbohydrate dietary intervention significantly reduces **thyroid peroxidase
 ### Patient Selection
 - **Best candidates:** Early-stage Hashimoto's, elevated antibodies with normal/slightly elevated TSH
 - **Monitoring required:** TSH, free T4, TPOAb, TgAb at 3-month intervals
+
+## Related Zettels from Same Source
+
+- [[Dietary_Intervention_First_Line_Hashimotos_Z-002-0646]]
+- [[Insulin_Resistance_Autoimmune_Thyroid_Z-002-0645]]
 
 ## Source
 - **LitNote:** [[L-002-0170_Hashimoto_Low_Carb_Autoantibodies]]

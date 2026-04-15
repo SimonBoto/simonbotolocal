@@ -24,6 +24,58 @@ extraction-date: 2026-03-01
 ---
 
 # Odd-Chain Fatty Acid Oxidation
+## Related Zettels from Same Source
+
+- [[Amino_Acid_Sources_Propionyl_CoA_Z-001-0430]]
+- [[Methylmalonyl_CoA_Mutase_B12_Mechanism_Z-001-0428]]
+- [[Propionate_Sources_Metabolic_Fate_Z-001-0426]]
+- [[Propionyl_CoA_Carboxylase_Biotin_Z-001-0427]]
+- [[Succinyl_CoA_Krebs_Anaplerosis_Z-001-0429]]
+
+## Source
+
+[[B12_in_Amino_Acid_Metabolism_-_Propionate_Pathwa_L-001-0405_v4.0]]
+
+## Related Zettels from Same Source
+
+- [[Amino_Acid_Sources_Propionyl_CoA_Z-001-0430]]
+- [[Methylmalonyl_CoA_Mutase_B12_Mechanism_Z-001-0428]]
+- [[Propionate_Sources_Metabolic_Fate_Z-001-0426]]
+- [[Propionyl_CoA_Carboxylase_Biotin_Z-001-0427]]
+- [[Succinyl_CoA_Krebs_Anaplerosis_Z-001-0429]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Amino_Acid_Sources_Propionyl_CoA_Z-001-0430]]
+- [[Methylmalonyl_CoA_Mutase_B12_Mechanism_Z-001-0428]]
+- [[Propionate_Sources_Metabolic_Fate_Z-001-0426]]
+- [[Propionyl_CoA_Carboxylase_Biotin_Z-001-0427]]
+- [[Succinyl_CoA_Krebs_Anaplerosis_Z-001-0429]]
+
+## Source
+
+[[B12_in_Amino_Acid_Metabolism_-_Propionate_Pathwa_L-001-0405_v4.0]]
+
+## Related Zettels from Same Source
+
+- [[Amino_Acid_Sources_Propionyl_CoA_Z-001-0430]]
+- [[Methylmalonyl_CoA_Mutase_B12_Mechanism_Z-001-0428]]
+- [[Propionate_Sources_Metabolic_Fate_Z-001-0426]]
+- [[Propionyl_CoA_Carboxylase_Biotin_Z-001-0427]]
+- [[Succinyl_CoA_Krebs_Anaplerosis_Z-001-0429]]
 
 ## Core Claim
 **Odd-chain fatty acids (15:0 pentadecanoic, 17:0 margaric) undergo beta-oxidation yielding acetyl-CoA and propionyl-CoA, requiring vitamin B12 for complete energy extraction** — these fatty acids, primarily from dairy and ruminant meat, represent a B12-dependent energy source distinct from even-chain fatty acids.

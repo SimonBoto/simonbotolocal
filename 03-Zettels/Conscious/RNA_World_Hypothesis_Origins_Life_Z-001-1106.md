@@ -23,6 +23,50 @@ extraction-date: 2026-03-08
 ---
 
 # RNA World Hypothesis — Origins of Life
+## Related Zettels from Same Source
+
+- [[Ancient_Metabolic_Pathways_Conservation_Z-001-1107]]
+- [[Metabolic_Fossils_Ancient_Pathway_Remants_Z-001-1109]]
+- [[Prebiotic_Chemistry_Hydrothermal_Vents_Z-001-1108]]
+
+## Source
+
+[[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]]
+
+## Related Zettels from Same Source
+
+- [[Ancient_Metabolic_Pathways_Conservation_Z-001-1107]]
+- [[Metabolic_Fossils_Ancient_Pathway_Remants_Z-001-1109]]
+- [[Prebiotic_Chemistry_Hydrothermal_Vents_Z-001-1108]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Ancient_Metabolic_Pathways_Conservation_Z-001-1107]]
+- [[Metabolic_Fossils_Ancient_Pathway_Remants_Z-001-1109]]
+- [[Prebiotic_Chemistry_Hydrothermal_Vents_Z-001-1108]]
+
+## Source
+
+[[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]]
+
+## Related Zettels from Same Source
+
+- [[Ancient_Metabolic_Pathways_Conservation_Z-001-1107]]
+- [[Metabolic_Fossils_Ancient_Pathway_Remants_Z-001-1109]]
+- [[Prebiotic_Chemistry_Hydrothermal_Vents_Z-001-1108]]
 
 ## Core Claim
 **The RNA world hypothesis proposes that early life was based on RNA as both genetic material and catalyst (ribozymes), before DNA and proteins evolved their modern roles** — this resolves the chicken-egg paradox of which came first, and is supported by molecular fossils (rRNA, tRNA) and laboratory evidence of self-replicating RNAs.

@@ -14,6 +14,18 @@ extraction-date: 2026-04-15
 parent-index: [[03-Zettels-Conscious]]
 
 # OPLS-DA Overfitting Risks with Small Sample Sizes
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Problem
 Orthogonal Partial Least Squares Discriminant Analysis (OPLS-DA) can achieve **perfect separation between groups** with small samples and high-dimensional data, even when no true biological difference exists.

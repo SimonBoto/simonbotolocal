@@ -15,6 +15,26 @@ related: []
 ---
 
 # CAC Score Above 400 Indicates Clear Statin Benefit
+## Source
+
+[[L-002-0229_Calcium_Score_Statin_Benefit]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[L-002-0229_Calcium_Score_Statin_Benefit]]
 
 ## Core Claim
 **CAC scores above 400 indicate clear benefit from statin therapy** — individuals with moderate to extensive plaque burden show significant cardiovascular risk reduction with statin treatment.

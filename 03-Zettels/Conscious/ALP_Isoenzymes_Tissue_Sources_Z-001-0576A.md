@@ -19,6 +19,18 @@ status: conscious
 ---
 
 # ALP Isoenzymes and Tissue Sources
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Alkaline phosphatase (ALP) is a family of zinc metalloenzymes with tissue-specific isoenzymes distributed across liver, bone, intestine, placenta, and tumors.
 
@@ -50,6 +62,14 @@ ALP isoenzymes: Liver (hepatocytes) → Bone (osteoblasts) → Intestinal → Pl
 Tissue-specific distribution enables **differential diagnosis** of elevated serum ALP:
 - Hepatic vs. bone source differentiation
 - Guides appropriate diagnostic workup
+
+## Related Zettels from Same Source
+
+- [[ALP_Normal_Ranges_Interpretation_Z-001-0576F]]
+- [[Breast_Pagets_Disease_Distinct_Entity_Z-001-0576D]]
+- [[Differentiating_ALP_Sources_Z-001-0576E]]
+- [[Elevated_ALP_Clinical_Significance_Z-001-0576B]]
+- [[Pagets_Disease_Bone_Pathophysiology_Z-001-0576C]]
 
 ## Source
 

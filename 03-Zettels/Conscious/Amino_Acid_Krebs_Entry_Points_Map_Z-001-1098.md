@@ -22,6 +22,54 @@ extraction-date: 2026-03-08
 ---
 
 # Amino Acid Krebs Entry Points Map
+## Related Zettels from Same Source
+
+- [[Alpha_Keto_Acids_Transamination_Intermediates_Z-001-1099]]
+- [[Glucogenic_Amino_Acids_Gluconeogenesis_Support_Z-001-1101]]
+- [[Glycogenic_Ketogenic_Amino_Acid_Classification_Z-001-1097]]
+- [[Transamination_B6_Cofactors_Amino_Acid_Metabolism_Z-001-1100]]
+
+## Source
+
+[[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]]
+
+## Related Zettels from Same Source
+
+- [[Alpha_Keto_Acids_Transamination_Intermediates_Z-001-1099]]
+- [[Glucogenic_Amino_Acids_Gluconeogenesis_Support_Z-001-1101]]
+- [[Glycogenic_Ketogenic_Amino_Acid_Classification_Z-001-1097]]
+- [[Transamination_B6_Cofactors_Amino_Acid_Metabolism_Z-001-1100]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Alpha_Keto_Acids_Transamination_Intermediates_Z-001-1099]]
+- [[Glucogenic_Amino_Acids_Gluconeogenesis_Support_Z-001-1101]]
+- [[Glycogenic_Ketogenic_Amino_Acid_Classification_Z-001-1097]]
+- [[Transamination_B6_Cofactors_Amino_Acid_Metabolism_Z-001-1100]]
+
+## Source
+
+[[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]]
+
+## Related Zettels from Same Source
+
+- [[Alpha_Keto_Acids_Transamination_Intermediates_Z-001-1099]]
+- [[Glucogenic_Amino_Acids_Gluconeogenesis_Support_Z-001-1101]]
+- [[Glycogenic_Ketogenic_Amino_Acid_Classification_Z-001-1097]]
+- [[Transamination_B6_Cofactors_Amino_Acid_Metabolism_Z-001-1100]]
 
 ## Core Claim
 **Each amino acid enters the Krebs cycle at specific points, with 18 entering at various intermediates (glucogenic) and 2 (leucine, lysine) converted to acetyl-CoA (ketogenic)** — this mapping determines whether protein catabolism supports glucose production or ketogenesis.

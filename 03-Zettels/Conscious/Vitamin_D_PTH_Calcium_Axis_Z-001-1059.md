@@ -13,6 +13,58 @@ extraction-date: 2026-03-08
 ---
 
 # Vitamin D PTH Calcium Axis
+## Related Zettels from Same Source
+
+- [[Gut_Microbiome_OAT_Markers_Z-001-1064]]
+- [[Magnesium_Biochemistry_Clinical_Roles_Z-001-1060]]
+- [[Neurotransmitter_Synthesis_Biochemistry_Z-001-1063]]
+- [[One_Carbon_Metabolism_Folate_B12_Z-001-1062]]
+- [[Vitamin_K2_Calcium_Direction_MGP_Z-001-1061]]
+
+## Source
+
+[[L-001-0593_Vitamin_Mineral_Axis_Biochemistry_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Gut_Microbiome_OAT_Markers_Z-001-1064]]
+- [[Magnesium_Biochemistry_Clinical_Roles_Z-001-1060]]
+- [[Neurotransmitter_Synthesis_Biochemistry_Z-001-1063]]
+- [[One_Carbon_Metabolism_Folate_B12_Z-001-1062]]
+- [[Vitamin_K2_Calcium_Direction_MGP_Z-001-1061]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Gut_Microbiome_OAT_Markers_Z-001-1064]]
+- [[Magnesium_Biochemistry_Clinical_Roles_Z-001-1060]]
+- [[Neurotransmitter_Synthesis_Biochemistry_Z-001-1063]]
+- [[One_Carbon_Metabolism_Folate_B12_Z-001-1062]]
+- [[Vitamin_K2_Calcium_Direction_MGP_Z-001-1061]]
+
+## Source
+
+[[L-001-0593_Vitamin_Mineral_Axis_Biochemistry_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Gut_Microbiome_OAT_Markers_Z-001-1064]]
+- [[Magnesium_Biochemistry_Clinical_Roles_Z-001-1060]]
+- [[Neurotransmitter_Synthesis_Biochemistry_Z-001-1063]]
+- [[One_Carbon_Metabolism_Folate_B12_Z-001-1062]]
+- [[Vitamin_K2_Calcium_Direction_MGP_Z-001-1061]]
 
 ## Core Claim
 **The vitamin D-PTH-calcium axis forms a tightly regulated hormonal system — where vitamin D (as calcitriol) enhances intestinal calcium absorption, PTH mobilizes bone calcium, and calcitonin provides counter-regulation — with dysfunction producing osteoporosis, secondary hyperparathyroidism, and extraskeletal calcification.**

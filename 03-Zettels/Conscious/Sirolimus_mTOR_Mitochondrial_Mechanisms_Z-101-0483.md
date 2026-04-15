@@ -12,6 +12,42 @@ status: conscious
 ---
 
 # Sirolimus mTOR l Mechanisms
+## Related Zettels from Same Source
+
+- [[mTOR_Diabetes_Pathophysiology_Z-101-0484]]
+
+## Source
+
+[[LitNote_CGPT_0189_Sirolimus_Diabetes_L-101-0053.md]
+
+## Related Zettels from Same Source
+
+- [[mTOR_Diabetes_Pathophysiology_Z-101-0484]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[mTOR_Diabetes_Pathophysiology_Z-101-0484]]
+
+## Source
+
+[[LitNote_CGPT_0189_Sirolimus_Diabetes_L-101-0053.md]
+
+## Related Zettels from Same Source
+
+- [[mTOR_Diabetes_Pathophysiology_Z-101-0484]]
 
 ## Overview
 Sirolimus (rapamycin) inhibits the mechanistic target of rapamycin (mTOR), a critical regulator of cell growth, , and mitochondrial function.

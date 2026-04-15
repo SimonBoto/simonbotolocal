@@ -13,6 +13,50 @@ extraction-date: 2026-03-03
 ---
 
 # Mevalonate Pathway Step by Step
+## Related Zettels from Same Source
+
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]]
+- [[HMG_CoA_Reductase_Regulation_Z-001-0567]]
+- [[Mevalonate_Pathway_Energy_Cost_Z-001-0568]]
+
+## Source
+
+[[L-001-0518_Mevalonate_Pathway_Biochemistry_CGPT-0391]]
+
+## Related Zettels from Same Source
+
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]]
+- [[HMG_CoA_Reductase_Regulation_Z-001-0567]]
+- [[Mevalonate_Pathway_Energy_Cost_Z-001-0568]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]]
+- [[HMG_CoA_Reductase_Regulation_Z-001-0567]]
+- [[Mevalonate_Pathway_Energy_Cost_Z-001-0568]]
+
+## Source
+
+[[L-001-0518_Mevalonate_Pathway_Biochemistry_CGPT-0391]]
+
+## Related Zettels from Same Source
+
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]]
+- [[HMG_CoA_Reductase_Regulation_Z-001-0567]]
+- [[Mevalonate_Pathway_Energy_Cost_Z-001-0568]]
 
 ## Mechanism
 

@@ -15,6 +15,46 @@ related: []
 ---
 
 # LDL Increase in Context of Metabolic Improvements — Not Harmful
+## Related Zettels from Same Source
+
+- [[Ketogenic_Greater_Weight_Loss_Not_Higher_CVD_Risk_Z-002-0821]]
+- [[Low_Carb_Meta_Analysis_174_RCTs_Benefits_Z-002-0819]]
+
+## Source
+
+[[L-002-0227_Carb_Restriction_CVD_Meta_Analysis]]
+
+## Related Zettels from Same Source
+
+- [[Ketogenic_Greater_Weight_Loss_Not_Higher_CVD_Risk_Z-002-0821]]
+- [[Low_Carb_Meta_Analysis_174_RCTs_Benefits_Z-002-0819]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Ketogenic_Greater_Weight_Loss_Not_Higher_CVD_Risk_Z-002-0821]]
+- [[Low_Carb_Meta_Analysis_174_RCTs_Benefits_Z-002-0819]]
+
+## Source
+
+[[L-002-0227_Carb_Restriction_CVD_Meta_Analysis]]
+
+## Related Zettels from Same Source
+
+- [[Ketogenic_Greater_Weight_Loss_Not_Higher_CVD_Risk_Z-002-0821]]
+- [[Low_Carb_Meta_Analysis_174_RCTs_Benefits_Z-002-0819]]
 
 ## Core Claim
 **Low-carbohydrate diets produce minor increases in LDL cholesterol (+5 mg/dL) and total cholesterol (+4 mg/dL), but these increases do NOT negate overall metabolic benefits or increase CVD risk** when accompanied by improvements in triglycerides, HDL, blood pressure, and inflammation.

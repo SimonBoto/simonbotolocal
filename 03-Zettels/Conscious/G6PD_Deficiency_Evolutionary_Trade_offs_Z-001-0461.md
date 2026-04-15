@@ -13,6 +13,26 @@ extraction-date: 2026-03-04
 ---
 
 # G6PD Deficiency and Evolutionary Trade-offs
+## Source
+
+[[L-001-0045C_Ribose_PPP_NADPH_CGPT-0445]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[L-001-0045C_Ribose_PPP_NADPH_CGPT-0445]]
 
 ## Core Claim
 **Glucose-6-phosphate dehydrogenase (G6PD) deficiency is the most common enzyme deficiency worldwide (400M+ people), causing hemolytic anemia under oxidative stress — the X-linked mutation persists due to heterozygote advantage against malaria** — RBCs are especially vulnerable due to lack of nucleus and dependence on PPP for NADPH.

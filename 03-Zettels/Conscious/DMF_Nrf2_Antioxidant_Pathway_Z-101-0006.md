@@ -14,6 +14,22 @@ extraction-date: 2026-04-15
 ---
 
 # DMF Nrf2 Antioxidant Pathway Activation
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Dimethyl fumarate (DMF) activates the Nrf2 transcription factor, inducing antioxidant gene expression and metabolic reprogramming. This provides both neuroprotection in multiple sclerosis and anti-inflammatory effects through redox regulation.
 
@@ -35,6 +51,10 @@ Dimethyl fumarate (DMF) activates the Nrf2 transcription factor, inducing antiox
 **Clinical:** Multiple sclerosis (Tecfidera), psoriasis.
 
 **METHAP Relevance:** Nrf2 activation is antioxidant and anti-inflammatory.  also modulates Nrf2 pathway, and oxidative stress biomarkers (8-OHdG, 2-HBA, pyroglutamate from DE3) may predict treatment response — shared mechanism rationale.
+
+## Source
+
+Synthesized from clinical practice
 
 ## Mechanism
 

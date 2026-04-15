@@ -15,6 +15,46 @@ related: []
 ---
 
 # Low-Carb Adherence 79.51% — Not Harder to Maintain Than Low-Fat
+## Related Zettels from Same Source
+
+- [[Low_Carb_Superior_Low_Fat_39_RCTs_Weight_Loss_Z-002-0843]]
+- [[Satiety_Restoration_Long_Term_Dietary_Control_Z-002-0845]]
+
+## Source
+
+[[L-002-0235_Low_Carb_vs_Low_Fat_39_RCTs]]
+
+## Related Zettels from Same Source
+
+- [[Low_Carb_Superior_Low_Fat_39_RCTs_Weight_Loss_Z-002-0843]]
+- [[Satiety_Restoration_Long_Term_Dietary_Control_Z-002-0845]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Low_Carb_Superior_Low_Fat_39_RCTs_Weight_Loss_Z-002-0843]]
+- [[Satiety_Restoration_Long_Term_Dietary_Control_Z-002-0845]]
+
+## Source
+
+[[L-002-0235_Low_Carb_vs_Low_Fat_39_RCTs]]
+
+## Related Zettels from Same Source
+
+- [[Low_Carb_Superior_Low_Fat_39_RCTs_Weight_Loss_Z-002-0843]]
+- [[Satiety_Restoration_Long_Term_Dietary_Control_Z-002-0845]]
 
 ## Core Claim
 **Contrary to common assumption, low-carb diets have a 79.51% completion rate compared to 77.72% for low-fat diets** — low-carb is actually slightly easier to adhere to long-term.

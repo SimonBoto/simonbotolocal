@@ -14,6 +14,18 @@ extraction-date: 2026-04-15
 ---
 
 # Pyrrolidine Ring Biosynthesis from Ornithine
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 The pyrrolidine ring of nicotine originates from **ornithine**, a non-proteinogenic amino acid, through a multi-step pathway involving putrescine as a key intermediate.
 

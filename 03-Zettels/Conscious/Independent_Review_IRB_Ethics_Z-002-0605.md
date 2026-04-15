@@ -14,10 +14,66 @@ created: 2026-03-27
 ---
 
 # Independent Review and IRB in  Ethics
+## Related Zettels from Same Source
+
+- [[Fair_Subject_Selection_Ethics_Z-002-0603]]
+- [[Informed_Consent_Ethical_Research_Z-002-0606]]
+- [[Respect_Enrolled_Subjects_Ethics_Z-002-0607]]
+- [[Risk_Benefit_Ratio_Ethical_Research_Z-002-0604]]
+- [[Scientific_Validity_Ethical_Requirement_Z-002-0602]]
+- [[Social_Clinical_Value_Ethical_Research_Z-002-0601]]
+
+## Source
+
+[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]
+
+## Related Zettels from Same Source
+
+- [[Fair_Subject_Selection_Ethics_Z-002-0603]]
+- [[Informed_Consent_Ethical_Research_Z-002-0606]]
+- [[Respect_Enrolled_Subjects_Ethics_Z-002-0607]]
+- [[Risk_Benefit_Ratio_Ethical_Research_Z-002-0604]]
+- [[Scientific_Validity_Ethical_Requirement_Z-002-0602]]
+- [[Social_Clinical_Value_Ethical_Research_Z-002-0601]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 A neutral body must independently review research protocols to ensure unbiased ethical judgment. Institutional Review Boards (IRBs) serve as community representatives and ethical gatekeepers.
 
 **Core principle:** Researchers cannot be the sole judges of their own ethics. Independent review prevents conflicts of interest and ensures diverse perspectives on risk and benefit.
+
+## Related Zettels from Same Source
+
+- [[Fair_Subject_Selection_Ethics_Z-002-0603]]
+- [[Informed_Consent_Ethical_Research_Z-002-0606]]
+- [[Respect_Enrolled_Subjects_Ethics_Z-002-0607]]
+- [[Risk_Benefit_Ratio_Ethical_Research_Z-002-0604]]
+- [[Scientific_Validity_Ethical_Requirement_Z-002-0602]]
+- [[Social_Clinical_Value_Ethical_Research_Z-002-0601]]
+
+## Source
+
+[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]
+
+## Related Zettels from Same Source
+
+- [[Fair_Subject_Selection_Ethics_Z-002-0603]]
+- [[Informed_Consent_Ethical_Research_Z-002-0606]]
+- [[Respect_Enrolled_Subjects_Ethics_Z-002-0607]]
+- [[Risk_Benefit_Ratio_Ethical_Research_Z-002-0604]]
+- [[Scientific_Validity_Ethical_Requirement_Z-002-0602]]
+- [[Social_Clinical_Value_Ethical_Research_Z-002-0601]]
 
 ## Core Principle
 

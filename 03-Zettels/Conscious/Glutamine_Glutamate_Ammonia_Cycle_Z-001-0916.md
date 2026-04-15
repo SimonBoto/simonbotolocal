@@ -13,6 +13,26 @@ extraction-date: 2026-03-04
 ---
 
 # Glutamine-Glutamate-Ammonia Cycle
+## Source
+
+[[L-001-0046B_Amino_Acid_Networks_CGPT-0445]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[L-001-0046B_Amino_Acid_Networks_CGPT-0445]]
 
 ## Core Claim
 **Glutamine serves as the primary nitrogen shuttle between tissues — it transports ammonia in non-toxic form from peripheral tissues to the liver and kidney, where glutaminase releases glutamate and ammonia for urea synthesis or urinary excretion** — glutamine is also the preferred fuel for enterocytes and immune cells, and critical for acid-base balance in the kidney.

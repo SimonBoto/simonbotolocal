@@ -14,6 +14,26 @@ created: 2026-03-08
 ---
 
 # TP53 Abnormalities Multiple Myeloma del17p
+## Source
+
+[[LitNote_TP53_Multiple_Myeloma_L-001-0613]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_TP53_Multiple_Myeloma_L-001-0613]
 
 ## Overview
 TP53 abnormalities, particularly deletion of chromosome 17p (del(17p)) containing the TP53 gene, represent the highest-risk cytogenetic feature in multiple myeloma, associated with poor prognosis and treatment resistance.

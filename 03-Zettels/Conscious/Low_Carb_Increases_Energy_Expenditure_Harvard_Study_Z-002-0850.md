@@ -15,6 +15,46 @@ related: []
 ---
 
 # Low-Carb Increases Energy Expenditure — Harvard 164-Participant Study
+## Related Zettels from Same Source
+
+- [[Calorie_Source_Affects_Metabolism_Not_Just_Quantity_Z-002-0849]]
+- [[Metabolic_Advantage_Carbohydrate_Restriction_Weight_Loss_Z-002-0851]]
+
+## Source
+
+[[L-002-0237_Not_All_Calories_Equal_Harvard]]
+
+## Related Zettels from Same Source
+
+- [[Calorie_Source_Affects_Metabolism_Not_Just_Quantity_Z-002-0849]]
+- [[Metabolic_Advantage_Carbohydrate_Restriction_Weight_Loss_Z-002-0851]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Calorie_Source_Affects_Metabolism_Not_Just_Quantity_Z-002-0849]]
+- [[Metabolic_Advantage_Carbohydrate_Restriction_Weight_Loss_Z-002-0851]]
+
+## Source
+
+[[L-002-0237_Not_All_Calories_Equal_Harvard]]
+
+## Related Zettels from Same Source
+
+- [[Calorie_Source_Affects_Metabolism_Not_Just_Quantity_Z-002-0849]]
+- [[Metabolic_Advantage_Carbohydrate_Restriction_Weight_Loss_Z-002-0851]]
 
 ## Core Claim
 **Low-carbohydrate diets increase total energy expenditure compared to high-carb diets** — participants on low-carb (20% carbs) burned more calories than those on high-carb (60% carbs).

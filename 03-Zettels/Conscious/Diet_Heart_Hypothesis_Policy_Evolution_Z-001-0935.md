@@ -13,8 +13,28 @@ updated: 2026-03-05
 ---
 
 # Diet-Heart Hypothesis — Policy 
+## Source
+
+[[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Keys' hypothesis moved rapidly from scientific conjecture to institutionalized public health policy through AHA guidelines, McGovern Committee recommendations, and decades of entrenched institutional messaging.
+
+## Source
+
+[[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]
 
 ## Core Principle
 

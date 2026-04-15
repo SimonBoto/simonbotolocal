@@ -13,6 +13,58 @@ extraction-date: 2026-03-08
 ---
 
 # Phase 1 Biochemical Literacy Foundation
+## Related Zettels from Same Source
+
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]]
+- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]]
+- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]]
+- [[Phase_4_Clinical_Integration_Drills_Z-001-1039]]
+- [[Training_Teaching_Style_Framework_Z-001-1040]]
+
+## Source
+
+[[L-001-0589_8_Week_Metabolomics_Bootcamp_Curriculum_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]]
+- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]]
+- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]]
+- [[Phase_4_Clinical_Integration_Drills_Z-001-1039]]
+- [[Training_Teaching_Style_Framework_Z-001-1040]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]]
+- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]]
+- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]]
+- [[Phase_4_Clinical_Integration_Drills_Z-001-1039]]
+- [[Training_Teaching_Style_Framework_Z-001-1040]]
+
+## Source
+
+[[L-001-0589_8_Week_Metabolomics_Bootcamp_Curriculum_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]]
+- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]]
+- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]]
+- [[Phase_4_Clinical_Integration_Drills_Z-001-1039]]
+- [[Training_Teaching_Style_Framework_Z-001-1040]]
 
 ## Core Claim
 **Weeks 1-2 of metabolomics training reformat the clinician's cognitive operating system — shifting from viewing metabolism as isolated facts to understanding it as information flow, with mitochondria as cellular decision-makers rather than mere energy furnaces.**

@@ -20,10 +20,30 @@ extraction-date: 2026-04-15
 ---
 
 # Homocysteine — Composite Methylation Status Marker
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **Homocysteine** is a sulfur-containing amino acid that accumulates when methylation is impaired. It's a **composite marker** — elevated homocysteine indicates dysfunction in B12, folate, B6, or iron . **If homocysteine is high, methylation is broken.**
 
 ---
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Principle
 

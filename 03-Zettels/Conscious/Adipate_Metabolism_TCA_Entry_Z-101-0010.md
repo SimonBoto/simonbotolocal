@@ -13,6 +13,54 @@ extraction-date: 2026-03-02
 ---
 
 # Adipate Metabolism and TCA Entry
+## Related Zettels from Same Source
+
+- [[Carnitine_Deficiency_Omega_Oxidation_Link_Z-101-0009]]
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]]
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]
+- [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014]]
+
+## Source
+
+[[L-101-0002_Adipic_Acid_Biochemistry_Omega_Oxidation_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Carnitine_Deficiency_Omega_Oxidation_Link_Z-101-0009]]
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]]
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]
+- [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Carnitine_Deficiency_Omega_Oxidation_Link_Z-101-0009]]
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]]
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]
+- [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014]]
+
+## Source
+
+[[L-101-0002_Adipic_Acid_Biochemistry_Omega_Oxidation_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Carnitine_Deficiency_Omega_Oxidation_Link_Z-101-0009]]
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]]
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]
+- [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014]]
 
 ## Core Claim
 **Adipate (C6 dicarboxylic acid) undergoes two cycles of mitochondrial β-oxidation — producing glutaryl-CoA (C5) then succinyl-CoA (C4) plus two acetyl-CoA molecules — with succinyl-CoA directly entering the TCA cycle at the succinyl-CoA synthetase step, demonstrating that adipate is metabolically active and not merely a waste product, though urinary excretion occurs when metabolic capacity is overwhelmed.**

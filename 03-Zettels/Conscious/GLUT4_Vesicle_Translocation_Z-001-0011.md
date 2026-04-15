@@ -16,6 +16,18 @@ created: 2026-02-22
 ---
 
 # GLUT4 Vesicle Translocation
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
  stimulates glucose uptake by triggering GLUT4 vesicle translocation to the plasma membrane in muscle and adipose tissue.
 

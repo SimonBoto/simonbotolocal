@@ -25,6 +25,58 @@ extraction-date: 2026-03-01
 ---
 
 # Clinical Assessment of B12 Status — MMA
+## Related Zettels from Same Source
+
+- [[Adenosylcobalamin_Mitochondrial_B12_Form_Z-001-0438]]
+- [[B12_Exercise_Performance_Energy_Z-001-0440]]
+- [[B12_METHAP_Protocol_Integration_Z-001-0443]]
+- [[B12_Requirements_Supplementation_Z-001-0442]]
+- [[Methylmalonyl_CoA_Mutase_Energy_Connection_Z-001-0439]]
+
+## Source
+
+[[LitNote_Mitochondrial_B12_Functions_L-001-0407]]
+
+## Related Zettels from Same Source
+
+- [[Adenosylcobalamin_Mitochondrial_B12_Form_Z-001-0438]]
+- [[B12_Exercise_Performance_Energy_Z-001-0440]]
+- [[B12_METHAP_Protocol_Integration_Z-001-0443]]
+- [[B12_Requirements_Supplementation_Z-001-0442]]
+- [[Methylmalonyl_CoA_Mutase_Energy_Connection_Z-001-0439]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Adenosylcobalamin_Mitochondrial_B12_Form_Z-001-0438]]
+- [[B12_Exercise_Performance_Energy_Z-001-0440]]
+- [[B12_METHAP_Protocol_Integration_Z-001-0443]]
+- [[B12_Requirements_Supplementation_Z-001-0442]]
+- [[Methylmalonyl_CoA_Mutase_Energy_Connection_Z-001-0439]]
+
+## Source
+
+[[LitNote_Mitochondrial_B12_Functions_L-001-0407]]
+
+## Related Zettels from Same Source
+
+- [[Adenosylcobalamin_Mitochondrial_B12_Form_Z-001-0438]]
+- [[B12_Exercise_Performance_Energy_Z-001-0440]]
+- [[B12_METHAP_Protocol_Integration_Z-001-0443]]
+- [[B12_Requirements_Supplementation_Z-001-0442]]
+- [[Methylmalonyl_CoA_Mutase_Energy_Connection_Z-001-0439]]
 
 ## Core Claim
 **Methylmalonic acid (MMA) is the most sensitive and specific functional marker of B12 deficiency, reflecting mitochondrial B12 (adenosylcobalamin) status, while homocysteine is elevated in both B12 and folate deficiency** — serum B12 alone is a poor indicator of functional status.

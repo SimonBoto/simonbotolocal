@@ -11,6 +11,26 @@ status: conscious
 ---
 
 # Telomere Structure and Shelterin Complex
+## Source
+
+[[LitNote_Telomere_Biology_Autoimmunity_L-001-0623]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Telomere_Biology_Autoimmunity_L-001-0623]
 
 ## Telomere DNA Structure
 

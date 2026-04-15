@@ -12,8 +12,28 @@ extraction-date: 2026-03-01
 ---
 
 # Low-Fat Era Consequences
+## Source
+
+[[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > The widespread adoption of low-fat dietary guidelines had unintended consequences: increased refined carbohydrate consumption, metabolic syndrome prevalence, and questionable cardiovascular benefit.
+
+## Source
+
+[[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]
 
 ## Core Principle
 

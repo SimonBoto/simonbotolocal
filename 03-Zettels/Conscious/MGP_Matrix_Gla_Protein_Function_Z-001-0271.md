@@ -20,6 +20,26 @@ status: conscious
 ---
 
 # MGP — Matrix Gla Protein Function
+## Source
+
+[[Vascular_Calcification_Deep_Dive_-Mechanisms-_MGP-_L-001-0215_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[Vascular_Calcification_Deep_Dive_-Mechanisms-_MGP-_L-001-0215_v4.0]]
 
 ## Core Function
 Matrix Gla Protein (MGP) is the strongest natural inhibitor of vascular calcification.

@@ -12,6 +12,18 @@ extraction-date: 2026-03-08
 ---
 
 # Cancer Metabolic Reprogramming Glycolysis PPP
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Cancer cells reprogram metabolism to prioritize glycolysis and the pentose phosphate pathway (PPP), generating not just ATP but essential biosynthetic precursors—ribose for nucleotides, NADPH for reductive biosynthesis, and glycolytic intermediates for amino acids and lipids—supporting the high anabolic demands of rapid proliferation.
@@ -114,6 +126,13 @@ Glucose-6-P + 2 NADP⁺ → Ribose-5-P + 2 NADPH + CO₂
 - [[Warburg_Effect_Aerobic_Glycolysis_Cancer_Z-001-1117]] — Warburg effect
 - [[Tumor_Microenvironment_Lactate_Acidification_Z-001-1119]] — Tumor microenvironment
 - [[Mitochondrial_Dysfunction_Cancer_Metabolism_Z-001-1120]] — Mitochondrial dysfunction
+
+## Related Zettels from Same Source
+
+- [[Mitochondrial_Dysfunction_Cancer_Metabolism_Z-001-1120]]
+- [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]]
+- [[Tumor_Microenvironment_Lactate_Acidification_Z-001-1119]]
+- [[Warburg_Effect_Aerobic_Glycolysis_Cancer_Z-001-1117]]
 
 ## Source
 [[Warburg_Effect_and_Cancer_Metabolism_L-001-0608_CGPT-0264]]

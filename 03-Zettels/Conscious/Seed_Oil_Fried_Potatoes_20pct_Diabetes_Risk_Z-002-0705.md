@@ -14,6 +14,18 @@ related: []
 ---
 
 # Seed Oil Fried Potatoes Increase Diabetes Risk 20%
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Consumption of **fried potatoes in seed oils increases type 2 diabetes risk by approximately 20%** — an effect independent of calorie content, mediated by oxidized omega-6 fatty acids.

@@ -15,6 +15,18 @@ related: []
 ---
 
 # Insulin-Centric vs Glucose-Centric Diabetes Paradigm
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 The **insulin-centric paradigm** — focusing on insulin resistance and hyperinsulinemia as primary pathogenic drivers — better explains cardiovascular risk patterns than the glucose-centric paradigm, suggesting interventions targeting insulin may be more cardioprotective than glucose-focused approaches alone.
@@ -72,6 +84,11 @@ The **insulin-centric paradigm** — focusing on insulin resistance and hyperins
 
 > "The disconnect between glucose control and CVD outcomes in diabetes trials (ACCORD, ADVANCE, VADT) suggests glucose-lowering alone is insufficient; interventions that reduce insulin levels improve CVD risk factors beyond glucose reduction."
 > — Zhao et al., 2019
+
+## Related Zettels from Same Source
+
+- [[Hyperinsulinemia_Drives_CVD_Independent_Glycemia_Z-002-0682]]
+- [[Insulin_More_Predictive_CVD_Than_Glucose_Z-002-0681]]
 
 ## Source
 - **LitNote:** [[L-002-0182_High_Glucose_vs_Insulin_What_Matters]]

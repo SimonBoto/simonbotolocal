@@ -13,6 +13,50 @@ extraction-date: 2026-03-08
 ---
 
 # Follow Up Assessment Rhythms
+## Related Zettels from Same Source
+
+- [[Clinician_Training_Competency_Checklist_Z-001-1080]]
+- [[Clinic_Patient_Flow_Operations_Z-001-1077]]
+- [[Metabolomics_Quality_Standards_Z-001-1078]]
+
+## Source
+
+[[L-001-0597_Metabolomics_Clinic_Operations_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Clinician_Training_Competency_Checklist_Z-001-1080]]
+- [[Clinic_Patient_Flow_Operations_Z-001-1077]]
+- [[Metabolomics_Quality_Standards_Z-001-1078]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Clinician_Training_Competency_Checklist_Z-001-1080]]
+- [[Clinic_Patient_Flow_Operations_Z-001-1077]]
+- [[Metabolomics_Quality_Standards_Z-001-1078]]
+
+## Source
+
+[[L-001-0597_Metabolomics_Clinic_Operations_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Clinician_Training_Competency_Checklist_Z-001-1080]]
+- [[Clinic_Patient_Flow_Operations_Z-001-1077]]
+- [[Metabolomics_Quality_Standards_Z-001-1078]]
 
 ## Core Claim
 **Structured follow-up assessment rhythms at 4-8-16-28 week intervals — with defined evaluation criteria at each checkpoint including symptom tracking, adherence monitoring, lab safety checks, and treatment adjustments — optimize clinical outcomes while maintaining patient engagement and ensuring safe, evidence-based care progression.**

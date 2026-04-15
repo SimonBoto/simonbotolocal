@@ -14,6 +14,18 @@ extraction-date: 2026-04-15
 ---
 
 # Vitamin C RDA vs Optimal Intake Debate
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 The RDA of 90mg vitamin C is based on preventing acute deficiency (scurvy), not achieving optimal physiological function — representing an 18th-century standard applied to 21st-century health.
 
@@ -108,6 +120,16 @@ The RDA of 90mg vitamin C is based on preventing acute deficiency (scurvy), not 
 ## Significance
 
 | **Pauling's target** | 2,000-10,000mg/day | Evolutionary precedent, therapeutic potential |
+
+## Related Zettels from Same Source
+
+- [[High_Dose_Vitamin_C_Cancer_Therapy_Z-001-0626]]
+- [[Human_GULO_Gene_Loss_Vitamin_C_Dependency_Z-001-0621]]
+- [[Medical_Establishment_Suppression_Pauling_Z-001-0625]]
+- [[Orthomolecular_Medicine_Pauling_Legacy_Z-001-0627]]
+- [[Pauling_Scientific_Credentials_Vitamin_C_Z-001-0620]]
+- [[Vitamin_C_Biochemical_Functions_Z-001-0623]]
+- [[Vitamin_C_Evolutionary_Mismatch_Modern_Diet_Z-001-0624]]
 
 ## Source
 [[LitNote_KingOfVitamins_Pauling_Vitamin_C_2025_L-001-0656]] — Vitamin King (2025)

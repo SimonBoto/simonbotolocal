@@ -11,6 +11,26 @@ status: conscious
 ---
 
 # l Membrane Architecture — Double Membrane System
+## Source
+
+[[LitNote_Mitochondrial_Structure_Biology_L-001-0633]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Mitochondrial_Structure_Biology_L-001-0633]
 
 ## Overview
 

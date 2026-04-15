@@ -14,8 +14,52 @@ created: 2026-03-27
 ---
 
 # IRB Escalation Pathways
+## Related Zettels from Same Source
+
+- [[Independent_Review_IRB_Ethics_Z-002-0605]]
+- [[IRB_Communication_Template_Z-002-0614]]
+- [[IRB_Non_Response_Protocol_Z-002-0613]]
+
+## Source
+
+[[LitNote_Ethics_Committee_Communication_L-002-0603]
+
+## Related Zettels from Same Source
+
+- [[Independent_Review_IRB_Ethics_Z-002-0605]]
+- [[IRB_Communication_Template_Z-002-0614]]
+- [[IRB_Non_Response_Protocol_Z-002-0613]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 When standard follow-up fails, structured escalation protects your interests while preserving professional relationships. Escalation should be proportional and documented.
+
+## Related Zettels from Same Source
+
+- [[Independent_Review_IRB_Ethics_Z-002-0605]]
+- [[IRB_Communication_Template_Z-002-0614]]
+- [[IRB_Non_Response_Protocol_Z-002-0613]]
+
+## Source
+
+[[LitNote_Ethics_Committee_Communication_L-002-0603]
+
+## Related Zettels from Same Source
+
+- [[Independent_Review_IRB_Ethics_Z-002-0605]]
+- [[IRB_Communication_Template_Z-002-0614]]
+- [[IRB_Non_Response_Protocol_Z-002-0613]]
 
 ## Core Principle
 

@@ -12,8 +12,28 @@ extraction-date: 2026-03-01
 ---
 
 # l Biogenesis — Exercise and PGC-1α
+## Source
+
+[[LitNote_Mitochondrial_Health_Strategies_L-001-0511]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Exercise stimulates  biogenesis through PGC-1α activation, enhancing both quantity and quality of mitochondria.
+
+## Source
+
+[[LitNote_Mitochondrial_Health_Strategies_L-001-0511]
 
 ## Core Principle
 

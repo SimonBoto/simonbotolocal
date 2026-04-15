@@ -15,6 +15,18 @@ related: []
 ---
 
 # Vitamin D as Hormone, Not Just Vitamin
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Vitamin D functions as a **steroid hormone**, not merely a vitamin — regulating approximately **2,000 genes** (10% of the genome) and exerting endocrine, paracrine, and autocrine effects on multiple organ systems.
@@ -85,6 +97,13 @@ Vitamin D functions as a **steroid hormone**, not merely a vitamin — regulatin
 
 > "Vitamin D regulates approximately 2,000 genes, affecting immune system, metabolism, and cellular differentiation."
 > — Inbox synthesis from Sha et al. 2023, Hahn et al. 2022
+
+## Related Zettels from Same Source
+
+- [[Corrected_Vitamin_D_RDA_8900_IU_Z-002-0637]]
+- [[IOM_2011_Vitamin_D_RDA_Calculation_Error_Z-002-0636]]
+- [[Vitamin_D_Individual_Variation_Requirements_Z-002-0640]]
+- [[Vitamin_D_Requirements_30_ng_mL_6201_IU_Z-002-0638]]
 
 ## Source
 - **LitNote:** [[L-002-0168_Vitamin_D_RDA_Statistical_Error]]

@@ -12,6 +12,26 @@ status: conscious
 ---
 
 # Breast Paget's Disease — Nipple  Distinct from Bone Paget's
+## Source
+
+[[LitNote_Alkaline_Phosphatase_Overview_L-001-0576]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Alkaline_Phosphatase_Overview_L-001-0576]
 
 ## Critical Distinction
 

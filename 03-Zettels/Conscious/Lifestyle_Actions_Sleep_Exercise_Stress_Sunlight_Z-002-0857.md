@@ -15,6 +15,46 @@ related: []
 ---
 
 # Lifestyle Actions — Sleep, Exercise, Stress Management, Sunlight
+## Related Zettels from Same Source
+
+- [[Diet_Actions_Eliminate_UPF_Whole_Foods_Z-002-0856]]
+- [[Twelve_Actions_Health_2026_Categories_Z-002-0855]]
+
+## Source
+
+[[L-002-0239_Twelve_Actions_Better_Health_2026]]
+
+## Related Zettels from Same Source
+
+- [[Diet_Actions_Eliminate_UPF_Whole_Foods_Z-002-0856]]
+- [[Twelve_Actions_Health_2026_Categories_Z-002-0855]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Diet_Actions_Eliminate_UPF_Whole_Foods_Z-002-0856]]
+- [[Twelve_Actions_Health_2026_Categories_Z-002-0855]]
+
+## Source
+
+[[L-002-0239_Twelve_Actions_Better_Health_2026]]
+
+## Related Zettels from Same Source
+
+- [[Diet_Actions_Eliminate_UPF_Whole_Foods_Z-002-0856]]
+- [[Twelve_Actions_Health_2026_Categories_Z-002-0855]]
 
 ## Core Claim
 **The lifestyle component includes physical activity, sleep, stress management, outdoor time, and avoiding smoking/alcohol** — optimizing metabolic, immune, and mental health.

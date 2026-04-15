@@ -19,8 +19,28 @@ status: conscious
 ---
 
 # GnRH Pulsatility Patterns
+## Source
+
+[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Gonadotropin-releasing hormone (GnRH) is secreted in a pulsatile pattern from the hypothalamus, which is essential for normal gonadotropin secretion and reproductive function.
+
+## Source
+
+[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]
 
 ## Core Principle
 

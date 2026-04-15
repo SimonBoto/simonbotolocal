@@ -17,10 +17,30 @@ extraction-date: 2026-04-15
 ---
 
 # Electrolytes and Minerals — Magnesium, Zinc, Selenium
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **Magnesium, zinc, and selenium** are essential cofactors for metabolic and thyroid function. Unlike sodium and potassium (tightly regulated), these minerals often show suboptimal levels in metabolic patients and require targeted assessment.
 
 ---
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Principle
 

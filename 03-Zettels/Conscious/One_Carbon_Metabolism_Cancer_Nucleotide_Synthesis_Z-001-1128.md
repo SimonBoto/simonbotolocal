@@ -12,6 +12,18 @@ extraction-date: 2026-03-08
 ---
 
 # One Carbon Metabolism Cancer Nucleotide Synthesis
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 One-carbon metabolism, powered by folate and B12, provides essential one-carbon units for nucleotide synthesis and methylation reactions; rapidly dividing cancer cells have exceptionally high demand for these pathways, creating both a metabolic vulnerability and a potential therapeutic target.
@@ -79,6 +91,12 @@ Serine/Glycine → One-carbon units → THF → Nucleotides, Methylation
 ## Related Zettels
 - [[B_Vitamins_Methylation_Epigenetics_Cancer_Z-001-1129]] — Methylation
 - [[Folate_Cancer_Paradox_Prevention_Progression_Z-001-1130]] — Folate paradox
+
+## Related Zettels from Same Source
+
+- [[B_Vitamins_Methylation_Epigenetics_Cancer_Z-001-1129]]
+- [[Folate_Cancer_Paradox_Prevention_Progression_Z-001-1130]]
+- [[One_Carbon_Metabolism_Folate_B12_Z-001-1062]]
 
 ## Source
 [[B-Vitamins_and_Cancer_Metabolism_L-001-0611_CGPT-0264]]

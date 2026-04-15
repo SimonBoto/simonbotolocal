@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 #  Photodegradation — Safety Mechanism
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 The skin has built-in protection against vitamin D toxicity from sun exposure: photodegradation. Once sufficient previtamin D3 and vitamin D3 accumulate, continued UV exposure converts excess into inactive metabolites (tachysterol, lumisterol), preventing overdose from sunlight alone.
 

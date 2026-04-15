@@ -12,8 +12,52 @@ extraction-date: 2026-03-01
 ---
 
 # Rise of Seed Oils in US Diet — Government and Industry Role
+## Related Zettels from Same Source
+
+- [[Ancel_Keys_Seven_Countries_Study_Z-001-0245]]
+- [[Keys_Criticism_Diet_Heart_Controversy_Z-001-0246]]
+- [[Procter_Gamble_Crisco_Seed_Oil_Marketing_Z-001-0247]]
+
+## Source
+
+[[LitNote_Dietary_Fat_History_L-001-0210]
+
+## Related Zettels from Same Source
+
+- [[Ancel_Keys_Seven_Countries_Study_Z-001-0245]]
+- [[Keys_Criticism_Diet_Heart_Controversy_Z-001-0246]]
+- [[Procter_Gamble_Crisco_Seed_Oil_Marketing_Z-001-0247]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > The transformation of American dietary fat from animal-based to vegetable oil-based resulted from a convergence of industry marketing, scientific claims about saturated fat, and government dietary guidelines that collectively shifted consumption patterns with potential long-term metabolic consequences.
+
+## Related Zettels from Same Source
+
+- [[Ancel_Keys_Seven_Countries_Study_Z-001-0245]]
+- [[Keys_Criticism_Diet_Heart_Controversy_Z-001-0246]]
+- [[Procter_Gamble_Crisco_Seed_Oil_Marketing_Z-001-0247]]
+
+## Source
+
+[[LitNote_Dietary_Fat_History_L-001-0210]
+
+## Related Zettels from Same Source
+
+- [[Ancel_Keys_Seven_Countries_Study_Z-001-0245]]
+- [[Keys_Criticism_Diet_Heart_Controversy_Z-001-0246]]
+- [[Procter_Gamble_Crisco_Seed_Oil_Marketing_Z-001-0247]]
 
 ## Core Principle
 

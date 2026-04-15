@@ -15,6 +15,18 @@ related: []
 ---
 
 # Fried Potatoes in Seed Oils Increase T2D Risk 20%
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Regular consumption of **fried potatoes prepared in seed/vegetable oils** increases type 2 diabetes risk by approximately **20%** compared to non-fried potato consumption, with the risk attributable to the frying medium (seed oils) rather than the potato itself.
@@ -98,6 +110,11 @@ Seed oil (high linoleic acid)
 - Roasted potatoes (olive oil, moderate heat)
 - Mashed potatoes
 - Air-fried potatoes (no oil or stable fats)
+
+## Related Zettels from Same Source
+
+- [[Oxidized_Omega6_Disrupts_Insulin_Signaling_Z-002-0655]]
+- [[Seed_Oil_Omega6_Omega3_Ratio_Inflammation_Z-002-0656]]
 
 ## Source
 - **LitNote:** [[L-002-0173_Fried_Potatoes_Seed_Oil_T2D_Risk]]

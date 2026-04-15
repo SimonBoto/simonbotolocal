@@ -13,6 +13,18 @@ created: 2026-02-24
 ---
 
 # Vicious Cycle: Stress → Cortisol → IR → Stress
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Chronic stress (psychological or physiological) activates the HPA axis, elevating cortisol. Cortisol increases gluconeogenesis and promotes visceral fat redistribution, both driving  resistance.
 

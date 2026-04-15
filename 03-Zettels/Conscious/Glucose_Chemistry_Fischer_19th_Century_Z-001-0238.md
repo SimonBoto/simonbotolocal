@@ -12,8 +12,52 @@ extraction-date: 2026-03-01
 ---
 
 # Glucose Chemistry — Emil Fischer and 19th Century Structure
+## Related Zettels from Same Source
+
+- [[Claude_Bernard_Glycogen_Liver_1850s_Z-001-0239]]
+- [[Glucose_Discovery_Marggraf_1747_Z-001-0237]]
+- [[Glucose_Insulin_Connection_1921_Z-001-0240]]
+
+## Source
+
+[[LitNote_Glucose_History_L-001-0208]
+
+## Related Zettels from Same Source
+
+- [[Claude_Bernard_Glycogen_Liver_1850s_Z-001-0239]]
+- [[Glucose_Discovery_Marggraf_1747_Z-001-0237]]
+- [[Glucose_Insulin_Connection_1921_Z-001-0240]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > In the 19th century, the chemical formula of glucose (C6H12O6) was established, and by 1902 Emil Fischer's elucidation of glucose stereochemistry earned the Nobel Prize, creating the foundation for modern carbohydrate biochemistry.
+
+## Related Zettels from Same Source
+
+- [[Claude_Bernard_Glycogen_Liver_1850s_Z-001-0239]]
+- [[Glucose_Discovery_Marggraf_1747_Z-001-0237]]
+- [[Glucose_Insulin_Connection_1921_Z-001-0240]]
+
+## Source
+
+[[LitNote_Glucose_History_L-001-0208]
+
+## Related Zettels from Same Source
+
+- [[Claude_Bernard_Glycogen_Liver_1850s_Z-001-0239]]
+- [[Glucose_Discovery_Marggraf_1747_Z-001-0237]]
+- [[Glucose_Insulin_Connection_1921_Z-001-0240]]
 
 ## Core Principle
 

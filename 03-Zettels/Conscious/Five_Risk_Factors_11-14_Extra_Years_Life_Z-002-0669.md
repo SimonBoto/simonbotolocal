@@ -15,6 +15,18 @@ related: []
 ---
 
 # Five Modifiable Risk Factors Determine 11-14 Extra Years of Life
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 The absence of five major modifiable risk factors — **high blood pressure, elevated cholesterol, abnormal body weight, diabetes, and smoking** — is associated with **14.5 additional years of life for women and 11.8 additional years for men**, quantifying the massive impact of lifestyle and dietary interventions on longevity.
@@ -66,6 +78,11 @@ The absence of five major modifiable risk factors — **high blood pressure, ele
 
 > "NEJM 2025 analysis of 2 million people across 39 countries demonstrates that these five factors, all modifiable through diet and lifestyle, account for the largest preventable burden of disease and mortality; smoking cessation provides greatest benefit, followed by blood pressure control."
 > — Global Burden of Disease, 2025
+
+## Related Zettels from Same Source
+
+- [[Risk_Factors_Reversible_Diet_Lifestyle_Z-002-0671]]
+- [[Smoking_BP_Greatest_Impact_Longevity_Z-002-0670]]
 
 ## Source
 - **LitNote:** [[L-002-0178_Lifestyle_Diet_Disease_Determinants]]

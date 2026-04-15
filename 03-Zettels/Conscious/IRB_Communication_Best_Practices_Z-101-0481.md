@@ -12,6 +12,26 @@ status: conscious
 ---
 
 # IRB Communication Best Practices
+## Source
+
+[[LitNote_CGPT_0205_Ethics_Communication_L-101-0051.md]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_CGPT_0205_Ethics_Communication_L-101-0051.md]
 
 ## Overview
 Effective communication with ethics committees is essential for timely approval and ongoing compliance.

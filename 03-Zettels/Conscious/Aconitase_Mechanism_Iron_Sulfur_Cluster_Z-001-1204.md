@@ -13,6 +13,50 @@ extraction-date: 2026-03-08
 ---
 
 # Aconitase Mechanism and Iron-Sulfur Cluster
+## Related Zettels from Same Source
+
+- [[IRE_IRP_System_Molecular_Details_Z-001-1207]]
+- [[Iron_Homeostasis_Post_Transcriptional_Z-001-1206]]
+- [[IRP1_Iron_Sensing_Molecular_Switch_Z-001-1205]]
+
+## Source
+
+[[L-001-0631_Aconitase_Iron_Metabolism_IRP1_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[IRE_IRP_System_Molecular_Details_Z-001-1207]]
+- [[Iron_Homeostasis_Post_Transcriptional_Z-001-1206]]
+- [[IRP1_Iron_Sensing_Molecular_Switch_Z-001-1205]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[IRE_IRP_System_Molecular_Details_Z-001-1207]]
+- [[Iron_Homeostasis_Post_Transcriptional_Z-001-1206]]
+- [[IRP1_Iron_Sensing_Molecular_Switch_Z-001-1205]]
+
+## Source
+
+[[L-001-0631_Aconitase_Iron_Metabolism_IRP1_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[IRE_IRP_System_Molecular_Details_Z-001-1207]]
+- [[Iron_Homeostasis_Post_Transcriptional_Z-001-1206]]
+- [[IRP1_Iron_Sensing_Molecular_Switch_Z-001-1205]]
 
 ## Mechanism
 

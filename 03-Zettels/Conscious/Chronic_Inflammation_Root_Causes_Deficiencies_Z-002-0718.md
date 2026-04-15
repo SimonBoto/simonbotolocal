@@ -14,6 +14,18 @@ related: []
 ---
 
 # Chronic Inflammation Root Causes Include Deficiencies
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Chronic inflammation stems from two main sources**: ongoing damage (UPF, smoking, alcohol) AND deficiencies (vitamins, minerals, omega-3s) that prevent healing completion.

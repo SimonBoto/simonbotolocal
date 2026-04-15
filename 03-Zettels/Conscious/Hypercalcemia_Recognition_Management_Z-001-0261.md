@@ -12,8 +12,60 @@ extraction-date: 2026-03-01
 ---
 
 # Hypercalcemia — Recognition and Management
+## Related Zettels from Same Source
+
+- [[Calcium_Homeostasis_Tight_Regulation_Z-001-0258]]
+- [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]]
+- [[METHAP_Calcium_Monitoring_Protocol_Z-001-0262]]
+- [[PTH_Master_Calcium_Regulator_Z-001-0259]]
+- [[Vitamin_D_Calcium_Absorption_Dose_Response_Z-001-0260]]
+
+## Source
+
+[[LitNote_Calcium_PTH_Homeostasis_L-001-0213]
+
+## Related Zettels from Same Source
+
+- [[Calcium_Homeostasis_Tight_Regulation_Z-001-0258]]
+- [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]]
+- [[METHAP_Calcium_Monitoring_Protocol_Z-001-0262]]
+- [[PTH_Master_Calcium_Regulator_Z-001-0259]]
+- [[Vitamin_D_Calcium_Absorption_Dose_Response_Z-001-0260]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Hypercalcemia, defined as serum calcium >10.5 mg/dL, is the primary safety concern with high-dose  protocols, requiring systematic recognition, grading, and management to prevent serious complications including cardiac arrhythmias and renal damage.
+
+## Related Zettels from Same Source
+
+- [[Calcium_Homeostasis_Tight_Regulation_Z-001-0258]]
+- [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]]
+- [[METHAP_Calcium_Monitoring_Protocol_Z-001-0262]]
+- [[PTH_Master_Calcium_Regulator_Z-001-0259]]
+- [[Vitamin_D_Calcium_Absorption_Dose_Response_Z-001-0260]]
+
+## Source
+
+[[LitNote_Calcium_PTH_Homeostasis_L-001-0213]
+
+## Related Zettels from Same Source
+
+- [[Calcium_Homeostasis_Tight_Regulation_Z-001-0258]]
+- [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]]
+- [[METHAP_Calcium_Monitoring_Protocol_Z-001-0262]]
+- [[PTH_Master_Calcium_Regulator_Z-001-0259]]
+- [[Vitamin_D_Calcium_Absorption_Dose_Response_Z-001-0260]]
 
 ## Core Principle
 

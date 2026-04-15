@@ -12,6 +12,26 @@ source-litnote: Synthesized from clinical practice
 ---
 
 # Metabolic Acidosis s & Pattern Recognition
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Claim
 **Metabolic acidosis produces characteristic organic acid patterns** — accumulation of ketoacids, lactate, and other organic acids that create diagnostic signatures applicable to insulin resistance-associated metabolic stress.

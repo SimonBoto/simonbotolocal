@@ -17,6 +17,26 @@ status: conscious
 ---
 
 # Anabolic vs Antiresorptive Outcomes
+## Source
+
+[[Anabolic_vs_Antiresorptive_Therapy_Selection_L-001-0045I_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[Anabolic_vs_Antiresorptive_Therapy_Selection_L-001-0045I_v4.0]]
 
 ## Outcome Comparison
 

@@ -18,8 +18,28 @@ status: conscious
 ---
 
 # Risk of Bias Assessment
+## Source
+
+[[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > **Definition:** Risk of bias assessment is the systematic evaluation of methodological weaknesses in individual studies that could lead to systematic differences between compared groups or inaccurate estimates of effect, potentially compromising the validity of study findings.
+
+## Source
+
+[[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]
 
 ## Key Assessment Tools
 

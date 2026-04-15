@@ -19,8 +19,28 @@ status: conscious
 ---
 
 # Estrogen Feedback Mechanisms
+## Source
+
+[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Estrogen (primarily estradiol) exerts complex feedback regulation on the HPGA axis, with both negative and positive feedback effects depending on concentration and duration.
+
+## Source
+
+[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]
 
 ## Core Principle
 

@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 # Vitamin D High Dose Monitoring Protocol
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 High-dose vitamin D requires monitoring of serum 25(OH)D and calcium to avoid hypercalcemia or hypercalciuria. **Clinical target: 80-150 ng/mL** (optimal metabolic range, not just "sufficient" >30 ng/mL).
 

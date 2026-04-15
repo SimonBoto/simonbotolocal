@@ -14,6 +14,18 @@ extraction-date: 2026-04-15
 ---
 
 # Nicotine Ring Fusion Mechanism via A622 Enzyme
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 The **A622 enzyme** catalyzes the critical step joining nicotine's two rings — stripping CO2 from a sugar-bound nicotinic acid intermediate to create a reactive species that attacks the pyrrolidine ring.
 

@@ -14,6 +14,26 @@ created: 2026-03-08
 ---
 
 # Targeting p53 Dysfunction MDM2 Inhibitors
+## Source
+
+[[LitNote_TP53_Multiple_Myeloma_L-001-0613]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_TP53_Multiple_Myeloma_L-001-0613]
 
 ## Overview
 MDM2 inhibitors represent a promising therapeutic strategy for s with wild-type TP53 by blocking the negative regulator of p53, thereby reactivating p53-mediated tumor suppression.

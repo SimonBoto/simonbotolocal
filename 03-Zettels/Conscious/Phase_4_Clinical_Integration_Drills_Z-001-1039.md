@@ -13,6 +13,58 @@ extraction-date: 2026-03-08
 ---
 
 # Phase 4 Clinical Integration Drills
+## Related Zettels from Same Source
+
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]]
+- [[Phase_1_Biochemical_Literacy_Foundation_Z-001-1036]]
+- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]]
+- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]]
+- [[Training_Teaching_Style_Framework_Z-001-1040]]
+
+## Source
+
+[[L-001-0589_8_Week_Metabolomics_Bootcamp_Curriculum_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]]
+- [[Phase_1_Biochemical_Literacy_Foundation_Z-001-1036]]
+- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]]
+- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]]
+- [[Training_Teaching_Style_Framework_Z-001-1040]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]]
+- [[Phase_1_Biochemical_Literacy_Foundation_Z-001-1036]]
+- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]]
+- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]]
+- [[Training_Teaching_Style_Framework_Z-001-1040]]
+
+## Source
+
+[[L-001-0589_8_Week_Metabolomics_Bootcamp_Curriculum_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]]
+- [[Phase_1_Biochemical_Literacy_Foundation_Z-001-1036]]
+- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]]
+- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]]
+- [[Training_Teaching_Style_Framework_Z-001-1040]]
 
 ## Core Claim
 **Weeks 7-8 form the "metabolomics brain" through energy-first reasoning, cellular detox, and membrane reconstruction — using daily case drills and treatment planning to transform trainees from students into competent clinicians who can independently manage complex metabolic cases.**

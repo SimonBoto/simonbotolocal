@@ -15,6 +15,18 @@ related: []
 ---
 
 # Low-Carb Superior for Weight Loss and Glycemic Control
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Meta-analysis of 22 RCTs demonstrates that **low-carbohydrate diets produce greater weight loss and superior glycemic control** (lower HbA1c, fasting glucose) compared to low-fat diets in adults with type 2 diabetes.
@@ -79,6 +91,11 @@ Reduce carbohydrates → Lower insulin → Enhanced fat oxidation
 |------|----------|-------------|------------------|----------------|
 | **Low-carb** | Insulin resistance, T2D | Superior | Superior | Better satiety |
 | **Low-fat** | Metabolically healthy | Moderate | Moderate | Hunger challenges |
+
+## Related Zettels from Same Source
+
+- [[Insulin_Resistance_Determines_Diet_Response_Z-002-0652]]
+- [[Low_Carb_Better_Lipid_Satiety_Z-002-0653]]
 
 ## Source
 - **LitNote:** [[L-002-0172_Low_Carb_vs_Low_Fat_Comparison]]

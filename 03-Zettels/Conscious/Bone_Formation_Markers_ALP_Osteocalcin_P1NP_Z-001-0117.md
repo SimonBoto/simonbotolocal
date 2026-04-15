@@ -18,6 +18,62 @@ status: conscious
 ---
 
 # Bone Formation Markers: ALP, Osteocalcin, P1NP
+## Related Zettels from Same Source
+
+- [[Bone_Remodeling_Cycle_Dynamics_Phase_Regulation_Z-001-0099]]
+- [[Bone_Resorption_Markers_CTX_NTX_TRAP5b_Z-001-0118]]
+- [[Bone_Turnover_Marker_Interpretation_Z-001-0119]]
+- [[Clinical_Use_Bone_Turnover_Markers_Z-001-0120]]
+- [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]]
+- [[Teriparatide_PTH_1-34_Intermittent_Anabolic_Therapy_Z-001-0105]]
+
+## Source
+
+[[Bone_Turnover_Markers_L-001-0045J_v4.0]]
+
+## Related Zettels from Same Source
+
+- [[Bone_Remodeling_Cycle_Dynamics_Phase_Regulation_Z-001-0099]]
+- [[Bone_Resorption_Markers_CTX_NTX_TRAP5b_Z-001-0118]]
+- [[Bone_Turnover_Marker_Interpretation_Z-001-0119]]
+- [[Clinical_Use_Bone_Turnover_Markers_Z-001-0120]]
+- [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]]
+- [[Teriparatide_PTH_1-34_Intermittent_Anabolic_Therapy_Z-001-0105]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Bone_Remodeling_Cycle_Dynamics_Phase_Regulation_Z-001-0099]]
+- [[Bone_Resorption_Markers_CTX_NTX_TRAP5b_Z-001-0118]]
+- [[Bone_Turnover_Marker_Interpretation_Z-001-0119]]
+- [[Clinical_Use_Bone_Turnover_Markers_Z-001-0120]]
+- [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]]
+- [[Teriparatide_PTH_1-34_Intermittent_Anabolic_Therapy_Z-001-0105]]
+
+## Source
+
+[[Bone_Turnover_Markers_L-001-0045J_v4.0]]
+
+## Related Zettels from Same Source
+
+- [[Bone_Remodeling_Cycle_Dynamics_Phase_Regulation_Z-001-0099]]
+- [[Bone_Resorption_Markers_CTX_NTX_TRAP5b_Z-001-0118]]
+- [[Bone_Turnover_Marker_Interpretation_Z-001-0119]]
+- [[Clinical_Use_Bone_Turnover_Markers_Z-001-0120]]
+- [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]]
+- [[Teriparatide_PTH_1-34_Intermittent_Anabolic_Therapy_Z-001-0105]]
 
 ## Serum Alkaline Phosphatase (BALP)
 - **Source:** Bone-specific isoenzyme

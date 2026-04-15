@@ -14,6 +14,18 @@ updated: 2026-03-05
 ---
 
 # Sirolimus Impairs GLUT4 Translocation Causing Peripheral  Resistance
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **Core Mechanism:** mTORC1 is downstream of Akt in insulin signaling and facilitates GLUT4 vesicle translocation. Sirolimus disrupts this pathway, reducing glucose uptake.
 

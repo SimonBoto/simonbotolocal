@@ -12,6 +12,18 @@ extraction-date: 2026-03-08
 ---
 
 # Tumor Microenvironment Lactate Acidification
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Cancer cells produce large amounts of lactate through aerobic glycolysis, acidifying the tumor microenvironment (pH 6.5-6.9 vs normal 7.4), which promotes tumor invasion, metastasis, immune evasion, and therapy resistance through multiple mechanisms including extracellular matrix degradation and immune cell suppression.
@@ -124,6 +136,13 @@ Oxygenated cells (near vessels) → Lactate import → OXPHOS
 - [[Warburg_Effect_Aerobic_Glycolysis_Cancer_Z-001-1117]] — Warburg effect
 - [[Cancer_Metabolic_Reprogramming_Glycolysis_PPP_Z-001-1118]] — Metabolic reprogramming
 - [[Mitochondrial_Dysfunction_Cancer_Metabolism_Z-001-1120]] — Mitochondrial dysfunction
+
+## Related Zettels from Same Source
+
+- [[Cancer_Metabolic_Reprogramming_Glycolysis_PPP_Z-001-1118]]
+- [[Mitochondrial_Dysfunction_Cancer_Metabolism_Z-001-1120]]
+- [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]]
+- [[Warburg_Effect_Aerobic_Glycolysis_Cancer_Z-001-1117]]
 
 ## Source
 [[Warburg_Effect_and_Cancer_Metabolism_L-001-0608_CGPT-0264]]

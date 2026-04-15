@@ -14,6 +14,18 @@ status: conscious
 ---
 
 # Heterologous Nicotine Pathway Reconstitution
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 The complete nicotine biosynthesis pathway was functionally **reconstituted in four different species** — yeast, tomato, eggplant, and peas — demonstrating portability and validating the complete enzyme set.
 

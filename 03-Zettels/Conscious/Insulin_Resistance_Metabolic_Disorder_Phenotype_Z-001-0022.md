@@ -12,6 +12,26 @@ status: conscious
 ---
 
 # Insulin Resistance as Metabolic Disorder Phenotype
+## Source
+
+[[High_Glucose_vs_High_Insulin-_Insulin_Matters_More_L-002-0221_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[High_Glucose_vs_High_Insulin-_Insulin_Matters_More_L-002-0221_v4.0]]
 
 ## Core Claim
 **Insulin resistance is a core metabolic disorder** detectable via , representing a key phenotype category alongside dysbiosis, micronutrient deficiencies, and oxidative stress in chronic disease etiology.

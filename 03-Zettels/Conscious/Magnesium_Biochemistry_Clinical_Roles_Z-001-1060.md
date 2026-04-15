@@ -13,6 +13,58 @@ extraction-date: 2026-03-08
 ---
 
 # Magnesium Biochemistry Clinical Roles
+## Related Zettels from Same Source
+
+- [[Gut_Microbiome_OAT_Markers_Z-001-1064]]
+- [[Neurotransmitter_Synthesis_Biochemistry_Z-001-1063]]
+- [[One_Carbon_Metabolism_Folate_B12_Z-001-1062]]
+- [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]]
+- [[Vitamin_K2_Calcium_Direction_MGP_Z-001-1061]]
+
+## Source
+
+[[L-001-0593_Vitamin_Mineral_Axis_Biochemistry_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Gut_Microbiome_OAT_Markers_Z-001-1064]]
+- [[Neurotransmitter_Synthesis_Biochemistry_Z-001-1063]]
+- [[One_Carbon_Metabolism_Folate_B12_Z-001-1062]]
+- [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]]
+- [[Vitamin_K2_Calcium_Direction_MGP_Z-001-1061]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Gut_Microbiome_OAT_Markers_Z-001-1064]]
+- [[Neurotransmitter_Synthesis_Biochemistry_Z-001-1063]]
+- [[One_Carbon_Metabolism_Folate_B12_Z-001-1062]]
+- [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]]
+- [[Vitamin_K2_Calcium_Direction_MGP_Z-001-1061]]
+
+## Source
+
+[[L-001-0593_Vitamin_Mineral_Axis_Biochemistry_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Gut_Microbiome_OAT_Markers_Z-001-1064]]
+- [[Neurotransmitter_Synthesis_Biochemistry_Z-001-1063]]
+- [[One_Carbon_Metabolism_Folate_B12_Z-001-1062]]
+- [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]]
+- [[Vitamin_K2_Calcium_Direction_MGP_Z-001-1061]]
 
 ## Core Claim
 **Magnesium serves as an essential cofactor for over 300 enzymatic reactions — including all ATP-dependent processes, DNA repair, muscle relaxation, and nerve conduction — with deficiency producing widespread clinical manifestations from cardiac arrhythmias to seizures and metabolic dysfunction.**

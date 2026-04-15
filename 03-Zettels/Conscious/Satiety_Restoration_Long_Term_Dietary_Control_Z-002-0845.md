@@ -15,6 +15,46 @@ related: []
 ---
 
 # Satiety Restoration Enables Long-Term Dietary Control
+## Related Zettels from Same Source
+
+- [[Low_Carb_Adherence_79pct_Not_Harder_Than_Low_Fat_Z-002-0844]]
+- [[Low_Carb_Superior_Low_Fat_39_RCTs_Weight_Loss_Z-002-0843]]
+
+## Source
+
+[[L-002-0235_Low_Carb_vs_Low_Fat_39_RCTs]]
+
+## Related Zettels from Same Source
+
+- [[Low_Carb_Adherence_79pct_Not_Harder_Than_Low_Fat_Z-002-0844]]
+- [[Low_Carb_Superior_Low_Fat_39_RCTs_Weight_Loss_Z-002-0843]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Low_Carb_Adherence_79pct_Not_Harder_Than_Low_Fat_Z-002-0844]]
+- [[Low_Carb_Superior_Low_Fat_39_RCTs_Weight_Loss_Z-002-0843]]
+
+## Source
+
+[[L-002-0235_Low_Carb_vs_Low_Fat_39_RCTs]]
+
+## Related Zettels from Same Source
+
+- [[Low_Carb_Adherence_79pct_Not_Harder_Than_Low_Fat_Z-002-0844]]
+- [[Low_Carb_Superior_Low_Fat_39_RCTs_Weight_Loss_Z-002-0843]]
 
 ## Core Claim
 **The higher protein and quality fat content of low-carb diets restores satiety, enabling better long-term dietary control, higher adherence rates, and sustained motivation** — this satiety advantage makes low-carb more sustainable than low-fat.

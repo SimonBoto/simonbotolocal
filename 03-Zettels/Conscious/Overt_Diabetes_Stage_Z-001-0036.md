@@ -13,6 +13,18 @@ created: 2026-02-24
 ---
 
 # Overt Diabetes Stage
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Beta-cell mass becomes insufficient to maintain glycemic control, resulting in absolute  deficiency relative to the degree of . This is the end-stage of untreated or poorly managed insulin resistance.
 

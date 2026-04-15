@@ -21,10 +21,30 @@ connections:
 ---
 
 # Functional B12 Deficiency — MMA and Homocysteine Assessment
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **Functional B12 deficiency** occurs when serum B12 appears normal (200-900 pg/mL) but tissue B12 is inadequate. Methylmalonic acid (MMA) and homocysteine reveal the true status. **If methylation is broken, nothing works.**
 
 ---
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Principle
 

@@ -15,6 +15,46 @@ related: []
 ---
 
 # Five Modifiable Risk Factors Add ~14 Extra Years for Women, ~12 for Men
+## Related Zettels from Same Source
+
+- [[Cholesterol_Weight_Less_Impact_Other_Factors_Controlled_Z-002-0830]]
+- [[Smoking_Cessation_Hypertension_Greatest_Longevity_Benefit_Z-002-0829]]
+
+## Source
+
+[[L-002-0230_Five_Risk_Factors_14_Years_NEJM]]
+
+## Related Zettels from Same Source
+
+- [[Cholesterol_Weight_Less_Impact_Other_Factors_Controlled_Z-002-0830]]
+- [[Smoking_Cessation_Hypertension_Greatest_Longevity_Benefit_Z-002-0829]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Cholesterol_Weight_Less_Impact_Other_Factors_Controlled_Z-002-0830]]
+- [[Smoking_Cessation_Hypertension_Greatest_Longevity_Benefit_Z-002-0829]]
+
+## Source
+
+[[L-002-0230_Five_Risk_Factors_14_Years_NEJM]]
+
+## Related Zettels from Same Source
+
+- [[Cholesterol_Weight_Less_Impact_Other_Factors_Controlled_Z-002-0830]]
+- [[Smoking_Cessation_Hypertension_Greatest_Longevity_Benefit_Z-002-0829]]
 
 ## Core Claim
 **Individuals without any of the five major cardiovascular risk factors live approximately 14 extra years for women and 12 extra years for men** compared to those with all five factors.

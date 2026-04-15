@@ -21,6 +21,18 @@ status: conscious
 ---
 
 # Differentiating ALP Sources
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Differentiating the source of elevated alkaline phosphatase requires checking gamma-glutamyl transferase (GGT) or 5'-nucleotidase, where GGT elevation indicates a hepatic source and normal GGT suggests a bone source.
 
@@ -40,6 +52,14 @@ GGT elevation → Hepatic; Normal GGT → Bone source
 ## Clinical Significance
 
 A systematic approach to ALP source differentiation prevents unnecessary testing and guides appropriate diagnostic workup, distinguishing between hepatobiliary pathology and bone metabolic disorders.
+
+## Related Zettels from Same Source
+
+- [[ALP_Isoenzymes_Tissue_Sources_Z-001-0576A]]
+- [[ALP_Normal_Ranges_Interpretation_Z-001-0576F]]
+- [[Breast_Pagets_Disease_Distinct_Entity_Z-001-0576D]]
+- [[Elevated_ALP_Clinical_Significance_Z-001-0576B]]
+- [[Pagets_Disease_Bone_Pathophysiology_Z-001-0576C]]
 
 ## Source
 

@@ -25,6 +25,58 @@ extraction-date: 2026-03-01
 ---
 
 # Complete Methionine Oxidation — Energy Production
+## Related Zettels from Same Source
+
+- [[Cysteine_Metabolic_Fates_Glutathione_Z-001-0435]]
+- [[Glutathione_Master_Antioxidant_Z-001-0436]]
+- [[Methionine_Cycle_Activation_Regeneration_Z-001-0433]]
+- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]]
+- [[Transsulfuration_Pathway_Cysteine_Synthesis_Z-001-0434]]
+
+## Source
+
+[[LitNote_Methionine_Catabolism_L-001-0406]]
+
+## Related Zettels from Same Source
+
+- [[Cysteine_Metabolic_Fates_Glutathione_Z-001-0435]]
+- [[Glutathione_Master_Antioxidant_Z-001-0436]]
+- [[Methionine_Cycle_Activation_Regeneration_Z-001-0433]]
+- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]]
+- [[Transsulfuration_Pathway_Cysteine_Synthesis_Z-001-0434]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Cysteine_Metabolic_Fates_Glutathione_Z-001-0435]]
+- [[Glutathione_Master_Antioxidant_Z-001-0436]]
+- [[Methionine_Cycle_Activation_Regeneration_Z-001-0433]]
+- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]]
+- [[Transsulfuration_Pathway_Cysteine_Synthesis_Z-001-0434]]
+
+## Source
+
+[[LitNote_Methionine_Catabolism_L-001-0406]]
+
+## Related Zettels from Same Source
+
+- [[Cysteine_Metabolic_Fates_Glutathione_Z-001-0435]]
+- [[Glutathione_Master_Antioxidant_Z-001-0436]]
+- [[Methionine_Cycle_Activation_Regeneration_Z-001-0433]]
+- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]]
+- [[Transsulfuration_Pathway_Cysteine_Synthesis_Z-001-0434]]
 
 ## Core Claim
 **Methionine can be completely oxidized for energy, yielding both glucogenic (propionyl-CoA, pyruvate) and ketogenic potential, with full extraction requiring both B12 and B6** — this makes methionine a complete energy source when antioxidant demand (glutathione) is low.

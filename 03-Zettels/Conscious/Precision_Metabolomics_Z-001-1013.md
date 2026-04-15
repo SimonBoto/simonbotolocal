@@ -14,6 +14,26 @@ status: conscious
 parent-index: [[03-Zettels-Conscious]]
 
 # Precision  — Urine Organic Acids and Plasma Metabolite Profiling
+## Source
+
+[[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]
 
 ## Overview
 

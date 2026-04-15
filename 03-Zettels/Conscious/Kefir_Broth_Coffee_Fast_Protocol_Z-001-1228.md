@@ -11,6 +11,46 @@ status: conscious
 ---
 
 # Kefir-Broth-Coffee Fast — Therapeutic Gut Reset Protocol
+## Related Zettels from Same Source
+
+- [[Fermented_Foods_Probiotic_Strategy_Z-001-1229]]
+- [[Kefir_Grain_Reactivation_Protocol_Z-001-1227]]
+
+## Source
+
+[[LitNote_Fasting_Fermentation_L-001-0637]
+
+## Related Zettels from Same Source
+
+- [[Fermented_Foods_Probiotic_Strategy_Z-001-1229]]
+- [[Kefir_Grain_Reactivation_Protocol_Z-001-1227]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Fermented_Foods_Probiotic_Strategy_Z-001-1229]]
+- [[Kefir_Grain_Reactivation_Protocol_Z-001-1227]]
+
+## Source
+
+[[LitNote_Fasting_Fermentation_L-001-0637]
+
+## Related Zettels from Same Source
+
+- [[Fermented_Foods_Probiotic_Strategy_Z-001-1229]]
+- [[Kefir_Grain_Reactivation_Protocol_Z-001-1227]]
 
 ## Overview
 

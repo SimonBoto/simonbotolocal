@@ -11,6 +11,46 @@ status: conscious
 ---
 
 # Die-Off Reaction (Herxheimer) — Gut Treatment Management
+## Related Zettels from Same Source
+
+- [[Herbal_Antimicrobials_Dysbiosis_Protocol_Z-001-1223]]
+- [[Stool_Changes_Dysbiosis_Treatment_Monitoring_Z-001-1222]]
+
+## Source
+
+[[LitNote_Dysbiosis_Treatment_Die_Off_L-001-0635]
+
+## Related Zettels from Same Source
+
+- [[Herbal_Antimicrobials_Dysbiosis_Protocol_Z-001-1223]]
+- [[Stool_Changes_Dysbiosis_Treatment_Monitoring_Z-001-1222]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Herbal_Antimicrobials_Dysbiosis_Protocol_Z-001-1223]]
+- [[Stool_Changes_Dysbiosis_Treatment_Monitoring_Z-001-1222]]
+
+## Source
+
+[[LitNote_Dysbiosis_Treatment_Die_Off_L-001-0635]
+
+## Related Zettels from Same Source
+
+- [[Herbal_Antimicrobials_Dysbiosis_Protocol_Z-001-1223]]
+- [[Stool_Changes_Dysbiosis_Treatment_Monitoring_Z-001-1222]]
 
 ## Overview
 

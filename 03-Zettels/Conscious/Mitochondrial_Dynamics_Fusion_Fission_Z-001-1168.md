@@ -11,6 +11,46 @@ status: conscious
 ---
 
 # l Dynamics — Fusion and Fission
+## Related Zettels from Same Source
+
+- [[Mitochondrial_Knockout_Models_Disease_Z-001-1166]]
+- [[mtDNA_Mutations_Cancer_Metastasis_Z-001-1167]]
+
+## Source
+
+[[LitNote_Mitochondrial_Gene_Knockout_Models_L-001-0622]
+
+## Related Zettels from Same Source
+
+- [[Mitochondrial_Knockout_Models_Disease_Z-001-1166]]
+- [[mtDNA_Mutations_Cancer_Metastasis_Z-001-1167]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Mitochondrial_Knockout_Models_Disease_Z-001-1166]]
+- [[mtDNA_Mutations_Cancer_Metastasis_Z-001-1167]]
+
+## Source
+
+[[LitNote_Mitochondrial_Gene_Knockout_Models_L-001-0622]
+
+## Related Zettels from Same Source
+
+- [[Mitochondrial_Knockout_Models_Disease_Z-001-1166]]
+- [[mtDNA_Mutations_Cancer_Metastasis_Z-001-1167]]
 
 ## The Dynamic Mitochondrion
 

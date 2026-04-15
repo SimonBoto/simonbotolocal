@@ -15,6 +15,46 @@ related: []
 ---
 
 # Obese Children Exceed Underweight — Historic First
+## Related Zettels from Same Source
+
+- [[Childhood_Obesity_Serious_Global_Health_Threat_Z-002-0867]]
+- [[UPF_Sugar_Beverages_Primary_Childhood_Obesity_Drivers_Z-002-0868]]
+
+## Source
+
+[[L-002-0242_Obese_Children_Outnumber_Underweight]]
+
+## Related Zettels from Same Source
+
+- [[Childhood_Obesity_Serious_Global_Health_Threat_Z-002-0867]]
+- [[UPF_Sugar_Beverages_Primary_Childhood_Obesity_Drivers_Z-002-0868]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Childhood_Obesity_Serious_Global_Health_Threat_Z-002-0867]]
+- [[UPF_Sugar_Beverages_Primary_Childhood_Obesity_Drivers_Z-002-0868]]
+
+## Source
+
+[[L-002-0242_Obese_Children_Outnumber_Underweight]]
+
+## Related Zettels from Same Source
+
+- [[Childhood_Obesity_Serious_Global_Health_Threat_Z-002-0867]]
+- [[UPF_Sugar_Beverages_Primary_Childhood_Obesity_Drivers_Z-002-0868]]
 
 ## Core Claim
 **For the first time in human history, obese children globally exceed underweight children** — a historic reversal from millennia of undernutrition.

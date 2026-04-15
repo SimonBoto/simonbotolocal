@@ -15,9 +15,26 @@ related: []
 ---
 
 # Alcohol Chronic Disease Link
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 (Content from source)
+
+## Related Zettels from Same Source
+
+- [[Alcohol_1.8_Million_Annual_Deaths_Z-002-0753]]
+- [[Zero_Alcohol_Safer_Than_Low_Z-002-0755]]
 
 ## Source
 - **LitNote:** [[L-002-0205_Alcohol_1.8_Million_Deaths]]

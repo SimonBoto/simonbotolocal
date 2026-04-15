@@ -19,8 +19,28 @@ status: conscious
 ---
 
 # Progesterone Cycle Influence
+## Source
+
+[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Progesterone plays a critical role in modulating the hypothalamic-pituitary-gonadal axis, particularly in the luteal phase of the menstrual cycle and in maintaining pregnancy.
+
+## Source
+
+[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]
 
 ## Core Principle
 

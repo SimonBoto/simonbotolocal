@@ -18,8 +18,28 @@ status: conscious
 ---
 
 # Systematic Review Principles
+## Source
+
+[[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > **Definition:** A systematic review is a comprehensive, structured, and reproducible method for identifying, selecting, appraising, and synthesizing all relevant research on a specific question.
+
+## Source
+
+[[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]
 
 ## Core Principle
 

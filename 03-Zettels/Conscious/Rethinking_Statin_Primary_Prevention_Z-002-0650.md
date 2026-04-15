@@ -15,6 +15,18 @@ related: []
 ---
 
 # Rethinking Statin Therapy for Primary Prevention
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 The lack of association between LDL and mortality in healthy adults **challenges the rationale for universal statin prescription in primary prevention**, suggesting need for **personalized risk assessment** rather than LDL thresholds alone.
@@ -125,6 +137,12 @@ Patient with elevated LDL
 - **Demand metabolic assessment** (insulin, inflammation)
 - **Understand NNT** (may be 100+ for primary prevention)
 - **Know alternatives** (diet, exercise for metabolic health)
+
+## Related Zettels from Same Source
+
+- [[LDL_Centric_Risk_Model_Incomplete_Z-002-0648]]
+- [[LDL_Not_Predictive_Primary_Prevention_Z-002-0647]]
+- [[Metabolic_Health_More_Predictive_Than_LDL_Z-002-0649]]
 
 ## Source
 - **LitNote:** [[L-002-0171_High_LDL_Not_Mortality_Healthy]]

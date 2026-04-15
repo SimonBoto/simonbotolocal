@@ -14,6 +14,18 @@ related: []
 ---
 
 # Insulin Resistant Patients Benefit More from Low Carb
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Patients with **insulin resistance benefit disproportionately more** from low-carbohydrate diets compared to insulin-sensitive individuals, supporting personalized nutrition based on metabolic phenotype.

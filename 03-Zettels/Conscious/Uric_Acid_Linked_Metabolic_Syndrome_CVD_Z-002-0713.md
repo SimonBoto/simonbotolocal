@@ -14,6 +14,18 @@ related: []
 ---
 
 # Uric Acid Linked to Metabolic Syndrome and CVD
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Elevated uric acid is associated with metabolic syndrome and cardiovascular disease** — independent of gout, hyperuricemia is a cardiovascular risk factor.

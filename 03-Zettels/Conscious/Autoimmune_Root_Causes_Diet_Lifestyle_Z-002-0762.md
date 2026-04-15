@@ -15,6 +15,18 @@ related: []
 ---
 
 # Autoimmune Root Causes — Diet and Lifestyle Primary Drivers
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Autoimmune diseases have dietary and lifestyle root causes** — not just genetic destiny. Environmental triggers, gut health, diet, sleep, and stress are primary drivers that can be modified to prevent, halt, or reverse autoimmune conditions.
@@ -73,6 +85,11 @@ Autoimmunity requires:
 | **3** | Heal gut (AIP, probiotics) |
 | **4** | Optimize sleep |
 | **5** | Manage stress |
+
+## Related Zettels from Same Source
+
+- [[Elimination_Diets_Autoimmune_Improvement_Z-002-0763]]
+- [[Leaky_Gut_Autoimmune_Connection_Z-002-0764]]
 
 ## Source
 - **LitNote:** [[L-002-0208_Autoimmune_Diet_Lifestyle_Role]]

@@ -15,6 +15,18 @@ related: []
 ---
 
 # Statin Benefit Is Context-Dependent — Risk Stratification Essential
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Statin benefit is highly context-dependent** — the same LDL reduction produces dramatically different absolute risk reductions depending on baseline CVD risk, CAC score, and metabolic health. Risk stratification is essential for appropriate statin prescribing.
@@ -92,6 +104,11 @@ related: []
 | **Side effects** | Reassess risk/benefit |
 | **Metabolic syndrome** | Address insulin first |
 | **Frail elderly** | Individualize |
+
+## Related Zettels from Same Source
+
+- [[LDL_Lowering_Not_Always_CVD_Protection_Z-002-0759]]
+- [[Triglycerides_HDL_More_Predictive_Than_LDL_Z-002-0760]]
 
 ## Source
 - **LitNote:** [[L-002-0207_LDL_Lowering_Not_Always_Protection]]

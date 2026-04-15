@@ -19,8 +19,28 @@ status: conscious
 ---
 
 # Fixed vs Random Effects Models
+## Source
+
+[[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > **Definition:** Fixed-effects and random-effects models are two fundamental statistical approaches for combining effect estimates in meta-analysis, differing in their assumptions about the distribution of true effects across studies.
+
+## Source
+
+[[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]
 
 ## Core Principle
 

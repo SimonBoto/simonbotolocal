@@ -12,6 +12,26 @@ status: conscious
 ---
 
 # Nintedanib Pharmacokinetics and  — Esterases, UGTs, and CYP3A4
+## Source
+
+[[LitNote_Nintedanib_Ofev_TKI_L-001-0583]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Nintedanib_Ofev_TKI_L-001-0583]
 
 ## Overview
 

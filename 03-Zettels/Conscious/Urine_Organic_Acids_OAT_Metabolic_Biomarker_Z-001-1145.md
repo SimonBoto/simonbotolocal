@@ -14,6 +14,26 @@ created: 2026-03-08
 ---
 
 # Urine Organic Acids OAT Metabolic 
+## Source
+
+[[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]
 
 ## Overview
 Urine organic acids testing (OAT) provides a comprehensive metabolic snapshot by measuring 70+ organic acid metabolites—reflecting mitochondrial function, nutrient status, gut microbiome activity, and metabolic pathway function.

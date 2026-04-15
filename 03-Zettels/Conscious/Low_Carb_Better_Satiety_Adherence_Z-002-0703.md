@@ -14,6 +14,18 @@ related: []
 ---
 
 # Low Carb Better Satiety and Adherence
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Low-carbohydrate diets provide **better satiety and long-term adherence** compared to low-fat diets due to higher protein and fat content, reduced hunger, and more stable blood glucose.

@@ -15,6 +15,46 @@ related: []
 ---
 
 # Low-Carb Superior to Low-Fat in 39 RCTs for Weight Loss
+## Related Zettels from Same Source
+
+- [[Low_Carb_Adherence_79pct_Not_Harder_Than_Low_Fat_Z-002-0844]]
+- [[Satiety_Restoration_Long_Term_Dietary_Control_Z-002-0845]]
+
+## Source
+
+[[L-002-0235_Low_Carb_vs_Low_Fat_39_RCTs]]
+
+## Related Zettels from Same Source
+
+- [[Low_Carb_Adherence_79pct_Not_Harder_Than_Low_Fat_Z-002-0844]]
+- [[Satiety_Restoration_Long_Term_Dietary_Control_Z-002-0845]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Low_Carb_Adherence_79pct_Not_Harder_Than_Low_Fat_Z-002-0844]]
+- [[Satiety_Restoration_Long_Term_Dietary_Control_Z-002-0845]]
+
+## Source
+
+[[L-002-0235_Low_Carb_vs_Low_Fat_39_RCTs]]
+
+## Related Zettels from Same Source
+
+- [[Low_Carb_Adherence_79pct_Not_Harder_Than_Low_Fat_Z-002-0844]]
+- [[Satiety_Restoration_Long_Term_Dietary_Control_Z-002-0845]]
 
 ## Core Claim
 **In all 39 randomized controlled trials analyzed, individuals who restricted carbohydrates lost more weight than those who restricted fats** — low-carb demonstrated consistent statistical superiority.

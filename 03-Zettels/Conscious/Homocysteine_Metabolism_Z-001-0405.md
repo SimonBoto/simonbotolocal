@@ -12,8 +12,60 @@ extraction-date: 2026-03-01
 ---
 
 # Homocysteine  Pathways
+## Related Zettels from Same Source
+
+- [[B12_Absorption_Transport_Z-001-0403]]
+- [[B12_Deficiency_Manifestations_Z-001-0406]]
+- [[Methyl_Trap_B12_Folate_Z-001-0404]]
+- [[One_Carbon_Metabolism_Overview_Z-001-0401]]
+- [[Vitamin_B12_Cofactor_Enzymes_Z-001-0402]]
+
+## Source
+
+[[LitNote_One_Carbon_Metabolism_B12_L-001-0401]
+
+## Related Zettels from Same Source
+
+- [[B12_Absorption_Transport_Z-001-0403]]
+- [[B12_Deficiency_Manifestations_Z-001-0406]]
+- [[Methyl_Trap_B12_Folate_Z-001-0404]]
+- [[One_Carbon_Metabolism_Overview_Z-001-0401]]
+- [[Vitamin_B12_Cofactor_Enzymes_Z-001-0402]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Homocysteine sits at a critical metabolic crossroads between re to methionine (B12/folate-dependent) and transsulfuration to cysteine (B6-dependent), with elevated levels serving as a cardiovascular risk factor.
+
+## Related Zettels from Same Source
+
+- [[B12_Absorption_Transport_Z-001-0403]]
+- [[B12_Deficiency_Manifestations_Z-001-0406]]
+- [[Methyl_Trap_B12_Folate_Z-001-0404]]
+- [[One_Carbon_Metabolism_Overview_Z-001-0401]]
+- [[Vitamin_B12_Cofactor_Enzymes_Z-001-0402]]
+
+## Source
+
+[[LitNote_One_Carbon_Metabolism_B12_L-001-0401]
+
+## Related Zettels from Same Source
+
+- [[B12_Absorption_Transport_Z-001-0403]]
+- [[B12_Deficiency_Manifestations_Z-001-0406]]
+- [[Methyl_Trap_B12_Folate_Z-001-0404]]
+- [[One_Carbon_Metabolism_Overview_Z-001-0401]]
+- [[Vitamin_B12_Cofactor_Enzymes_Z-001-0402]]
 
 ## Core Principle
 

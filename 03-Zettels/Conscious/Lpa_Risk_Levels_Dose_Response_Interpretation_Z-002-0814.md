@@ -15,6 +15,18 @@ related: []
 ---
 
 # Lp(a) Risk Levels and Dose-Response Interpretation
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Lp(a) shows clear dose-response risk** — each 20 mg/dL increase raises CVD risk ~10%, with significant elevation (>50 mg/dL) increasing risk 50% or more.
@@ -55,6 +67,11 @@ related: []
 ## Significance
 
 tags: [zettel, lpa, risk-levels, dose-response, 30-mg, 50-mg]
+
+## Related Zettels from Same Source
+
+- [[Lpa_No_Current_Drugs_Trials_Underway_Z-002-0815]]
+- [[Lpa_Promotes_Thrombosis_Evolutionary_Origin_Z-002-0813]]
 
 ## Source
 - **LitNote:** [[L-002-0225_Lpa_Mechanism_Management]]

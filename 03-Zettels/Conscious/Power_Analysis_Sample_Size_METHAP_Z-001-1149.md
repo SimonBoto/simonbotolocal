@@ -11,6 +11,50 @@ status: conscious
 ---
 
 # Power Analysis and Sample Size — METHAP Trial
+## Related Zettels from Same Source
+
+- [[Multivariate_Analysis_PLS_OPLS_Regression_Z-001-1151]]
+- [[PCA_Metabolomics_Dimensionality_Reduction_Z-001-1150]]
+- [[Validation_Cross_Validation_Model_Robustness_Z-001-1152]]
+
+## Source
+
+[[LitNote_Statistical_Analysis_Omics_L-001-0617]
+
+## Related Zettels from Same Source
+
+- [[Multivariate_Analysis_PLS_OPLS_Regression_Z-001-1151]]
+- [[PCA_Metabolomics_Dimensionality_Reduction_Z-001-1150]]
+- [[Validation_Cross_Validation_Model_Robustness_Z-001-1152]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Multivariate_Analysis_PLS_OPLS_Regression_Z-001-1151]]
+- [[PCA_Metabolomics_Dimensionality_Reduction_Z-001-1150]]
+- [[Validation_Cross_Validation_Model_Robustness_Z-001-1152]]
+
+## Source
+
+[[LitNote_Statistical_Analysis_Omics_L-001-0617]
+
+## Related Zettels from Same Source
+
+- [[Multivariate_Analysis_PLS_OPLS_Regression_Z-001-1151]]
+- [[PCA_Metabolomics_Dimensionality_Reduction_Z-001-1150]]
+- [[Validation_Cross_Validation_Model_Robustness_Z-001-1152]]
 
 ## Overview
 

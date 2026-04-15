@@ -12,6 +12,18 @@ extraction-date: 2026-03-08
 ---
 
 # Multiple Myeloma CRAB Features Diagnosis
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Multiple myeloma is characterized by CRAB features—hypercalcemia, renal dysfunction, anemia, and bone lesions—resulting from clonal plasma cell proliferation and monoclonal protein production, with these clinical manifestations serving as key diagnostic criteria and indicators of end-organ damage requiring treatment.
@@ -60,6 +72,13 @@ Multiple myeloma is characterized by CRAB features—hypercalcemia, renal dysfun
 - [[Multiple_Myeloma_Diagnostic_Criteria_Workup_Z-001-1132]] — Diagnostic criteria
 - [[Multiple_Myeloma_Staging_ISS_R-ISS_Z-001-1133]] — Staging
 - [[Multiple_Myeloma_Treatment_Modern_Approach_Z-001-1134]] — Treatment
+
+## Related Zettels from Same Source
+
+- [[Multiple_Myeloma_Diagnostic_Criteria_Workup_Z-001-1132]]
+- [[Multiple_Myeloma_Staging_ISS_R-ISS_Z-001-1133]]
+- [[Multiple_Myeloma_Treatment_Modern_Approach_Z-001-1134]]
+- [[TP53_Multiple_Myeloma_Prognosis_Therapy_Z-001-1135]]
 
 ## Source
 [[Multiple_Myeloma_Comprehensive_L-001-0612_CGPT-0264]]

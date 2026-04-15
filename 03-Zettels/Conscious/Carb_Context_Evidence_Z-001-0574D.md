@@ -21,6 +21,18 @@ status: conscious
 ---
 
 # Carb Context Evidence — Evidence Gap in Research
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Traditional protein-CKD research creates a fundamental evidence gap by ignoring carbohydrate context.
 

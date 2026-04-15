@@ -12,6 +12,18 @@ extraction-date: 2026-03-08
 ---
 
 # Mitochondrial Dysfunction Cancer Metabolism
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Mitochondrial dysfunction in cancer—characterized by mtDNA mutations, defective respiratory complexes, and impaired oxidative phosphorylation—contributes to the Warburg phenotype, promotes apoptotic resistance, and creates metabolic vulnerabilities that can be exploited therapeutically.
@@ -126,6 +138,13 @@ Mitochondrial dysfunction in cancer—characterized by mtDNA mutations, defectiv
 - [[Warburg_Effect_Aerobic_Glycolysis_Cancer_Z-001-1117]] — Warburg effect
 - [[Cancer_Metabolic_Reprogramming_Glycolysis_PPP_Z-001-1118]] — Metabolic reprogramming
 - [[Tumor_Microenvironment_Lactate_Acidification_Z-001-1119]] — Tumor microenvironment
+
+## Related Zettels from Same Source
+
+- [[Cancer_Metabolic_Reprogramming_Glycolysis_PPP_Z-001-1118]]
+- [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]]
+- [[Tumor_Microenvironment_Lactate_Acidification_Z-001-1119]]
+- [[Warburg_Effect_Aerobic_Glycolysis_Cancer_Z-001-1117]]
 
 ## Source
 [[Warburg_Effect_and_Cancer_Metabolism_L-001-0608_CGPT-0264]]

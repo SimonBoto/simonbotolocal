@@ -15,6 +15,46 @@ related: []
 ---
 
 # Diet Actions — Eliminate UPF, Prioritize Whole Foods, Traditional Fats
+## Related Zettels from Same Source
+
+- [[Lifestyle_Actions_Sleep_Exercise_Stress_Sunlight_Z-002-0857]]
+- [[Twelve_Actions_Health_2026_Categories_Z-002-0855]]
+
+## Source
+
+[[L-002-0239_Twelve_Actions_Better_Health_2026]]
+
+## Related Zettels from Same Source
+
+- [[Lifestyle_Actions_Sleep_Exercise_Stress_Sunlight_Z-002-0857]]
+- [[Twelve_Actions_Health_2026_Categories_Z-002-0855]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Lifestyle_Actions_Sleep_Exercise_Stress_Sunlight_Z-002-0857]]
+- [[Twelve_Actions_Health_2026_Categories_Z-002-0855]]
+
+## Source
+
+[[L-002-0239_Twelve_Actions_Better_Health_2026]]
+
+## Related Zettels from Same Source
+
+- [[Lifestyle_Actions_Sleep_Exercise_Stress_Sunlight_Z-002-0857]]
+- [[Twelve_Actions_Health_2026_Categories_Z-002-0855]]
 
 ## Core Claim
 **The dietary component emphasizes eliminating ultra-processed foods, prioritizing whole nutrient-dense foods, using traditional fats, reducing carbohydrates, and ensuring adequate protein** — forming the foundation for metabolic health improvement.

@@ -15,6 +15,46 @@ related: []
 ---
 
 # Traditional Fats Safe for Cooking — Olive Oil, Butter, Ghee, Coconut Oil
+## Related Zettels from Same Source
+
+- [[Removing_Seed_Oils_Improves_Mitochondrial_Function_Health_Z-002-0854]]
+- [[Seed_Oils_Industrial_Processing_Oxidation_Damage_Z-002-0852]]
+
+## Source
+
+[[L-002-0238_Seed_Oils_Traditional_Fats]]
+
+## Related Zettels from Same Source
+
+- [[Removing_Seed_Oils_Improves_Mitochondrial_Function_Health_Z-002-0854]]
+- [[Seed_Oils_Industrial_Processing_Oxidation_Damage_Z-002-0852]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Removing_Seed_Oils_Improves_Mitochondrial_Function_Health_Z-002-0854]]
+- [[Seed_Oils_Industrial_Processing_Oxidation_Damage_Z-002-0852]]
+
+## Source
+
+[[L-002-0238_Seed_Oils_Traditional_Fats]]
+
+## Related Zettels from Same Source
+
+- [[Removing_Seed_Oils_Improves_Mitochondrial_Function_Health_Z-002-0854]]
+- [[Seed_Oils_Industrial_Processing_Oxidation_Damage_Z-002-0852]]
 
 ## Core Claim
 **Traditional fats are safe for cooking and have been part of human diets for millennia** — unlike industrial seed oils, they do not produce harmful oxidation products when heated.

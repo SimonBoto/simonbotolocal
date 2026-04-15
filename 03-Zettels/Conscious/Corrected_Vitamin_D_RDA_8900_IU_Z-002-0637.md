@@ -15,6 +15,18 @@ related: []
 ---
 
 # Corrected Vitamin D RDA ~8,900 IU
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Proper statistical analysis using the 97.5th percentile approach shows that **~8,900 IU/day** of vitamin D is required to achieve serum 25(OH)D >20 ng/mL in 97.5% of the population — approximately **15× higher** than the IOM's 600 IU/day recommendation.
@@ -64,6 +76,13 @@ Proper statistical analysis using the 97.5th percentile approach shows that **~8
 - Public health guidelines require urgent revision
 - "Upper limits" based on flawed calculations
 - Cost of deficiency far exceeds supplementation cost
+
+## Related Zettels from Same Source
+
+- [[IOM_2011_Vitamin_D_RDA_Calculation_Error_Z-002-0636]]
+- [[Vitamin_D_Hormone_Function_2000_Genes_Z-002-0639]]
+- [[Vitamin_D_Individual_Variation_Requirements_Z-002-0640]]
+- [[Vitamin_D_Requirements_30_ng_mL_6201_IU_Z-002-0638]]
 
 ## Source
 - **LitNote:** [[L-002-0168_Vitamin_D_RDA_Statistical_Error]]

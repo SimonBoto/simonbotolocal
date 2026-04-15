@@ -12,6 +12,106 @@ extraction-date: 2026-03-05
 ---
 
 # Anaplerotic Reactions: Filling the Krebs Cycle
+## Related Zettels from Same Source
+
+- [[Alpha_Ketoglutarate_Glutamate_Hub_Z-001-0609]]
+- [[Amino_Acids_Krebs_Cycle_Complete_Table_Z-001-0608]]
+- [[Amino_Acids_Krebs_Cycle_Map_Z-001-0607]]
+- [[Amino_Acids_Succinyl_CoA_B12_Z-001-0495]]
+- [[BCAA_Succinyl_CoA_Connection_Z-001-0608]]
+- [[BCAA_Succinyl_CoA_Methylmalonyl_Pathway_Z-001-0610]]
+- [[Dietary_Sources_Oxalate_High_Low_Z-001-0602]]
+- [[Glucogenic_Ketogenic_Amino_Acid_Classification_Z-001-0612]]
+- [[Glycine_Metabolism_Oxalate_Pathway_Z-001-0604]]
+- [[Hydroxyproline_Collagen_Oxalate_Z-001-0605]]
+- [[Malate_Aspartate_Connection_Z-001-0614]]
+- [[Oxalate_Mineral_Binding_Calcium_Iron_Z-001-0603]]
+- [[Oxalic_Acid_Structure_Properties_Z-001-0601]]
+- [[Primary_Hyperoxaluria_Genetic_Z-001-0610]]
+- [[Threonine_Dual_Metabolism_Glucogenic_Ketogenic_Z-001-0611]]
+- [[Threonine_Metabolism_Glucogenic_Ketogenic_Z-001-0609]]
+- [[Vitamin_C_to_Oxalate_Conversion_Z-001-0606]]
+
+## Source
+
+[[LitNote_Amino_Acids_Krebs_Cycle_Metabolic_Mapping_L-001-0060B]
+
+## Related Zettels from Same Source
+
+- [[Alpha_Ketoglutarate_Glutamate_Hub_Z-001-0609]]
+- [[Amino_Acids_Krebs_Cycle_Complete_Table_Z-001-0608]]
+- [[Amino_Acids_Krebs_Cycle_Map_Z-001-0607]]
+- [[Amino_Acids_Succinyl_CoA_B12_Z-001-0495]]
+- [[BCAA_Succinyl_CoA_Connection_Z-001-0608]]
+- [[BCAA_Succinyl_CoA_Methylmalonyl_Pathway_Z-001-0610]]
+- [[Dietary_Sources_Oxalate_High_Low_Z-001-0602]]
+- [[Glucogenic_Ketogenic_Amino_Acid_Classification_Z-001-0612]]
+- [[Glycine_Metabolism_Oxalate_Pathway_Z-001-0604]]
+- [[Hydroxyproline_Collagen_Oxalate_Z-001-0605]]
+- [[Malate_Aspartate_Connection_Z-001-0614]]
+- [[Oxalate_Mineral_Binding_Calcium_Iron_Z-001-0603]]
+- [[Oxalic_Acid_Structure_Properties_Z-001-0601]]
+- [[Primary_Hyperoxaluria_Genetic_Z-001-0610]]
+- [[Threonine_Dual_Metabolism_Glucogenic_Ketogenic_Z-001-0611]]
+- [[Threonine_Metabolism_Glucogenic_Ketogenic_Z-001-0609]]
+- [[Vitamin_C_to_Oxalate_Conversion_Z-001-0606]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Alpha_Ketoglutarate_Glutamate_Hub_Z-001-0609]]
+- [[Amino_Acids_Krebs_Cycle_Complete_Table_Z-001-0608]]
+- [[Amino_Acids_Krebs_Cycle_Map_Z-001-0607]]
+- [[Amino_Acids_Succinyl_CoA_B12_Z-001-0495]]
+- [[BCAA_Succinyl_CoA_Connection_Z-001-0608]]
+- [[BCAA_Succinyl_CoA_Methylmalonyl_Pathway_Z-001-0610]]
+- [[Dietary_Sources_Oxalate_High_Low_Z-001-0602]]
+- [[Glucogenic_Ketogenic_Amino_Acid_Classification_Z-001-0612]]
+- [[Glycine_Metabolism_Oxalate_Pathway_Z-001-0604]]
+- [[Hydroxyproline_Collagen_Oxalate_Z-001-0605]]
+- [[Malate_Aspartate_Connection_Z-001-0614]]
+- [[Oxalate_Mineral_Binding_Calcium_Iron_Z-001-0603]]
+- [[Oxalic_Acid_Structure_Properties_Z-001-0601]]
+- [[Primary_Hyperoxaluria_Genetic_Z-001-0610]]
+- [[Threonine_Dual_Metabolism_Glucogenic_Ketogenic_Z-001-0611]]
+- [[Threonine_Metabolism_Glucogenic_Ketogenic_Z-001-0609]]
+- [[Vitamin_C_to_Oxalate_Conversion_Z-001-0606]]
+
+## Source
+
+[[LitNote_Amino_Acids_Krebs_Cycle_Metabolic_Mapping_L-001-0060B]
+
+## Related Zettels from Same Source
+
+- [[Alpha_Ketoglutarate_Glutamate_Hub_Z-001-0609]]
+- [[Amino_Acids_Krebs_Cycle_Complete_Table_Z-001-0608]]
+- [[Amino_Acids_Krebs_Cycle_Map_Z-001-0607]]
+- [[Amino_Acids_Succinyl_CoA_B12_Z-001-0495]]
+- [[BCAA_Succinyl_CoA_Connection_Z-001-0608]]
+- [[BCAA_Succinyl_CoA_Methylmalonyl_Pathway_Z-001-0610]]
+- [[Dietary_Sources_Oxalate_High_Low_Z-001-0602]]
+- [[Glucogenic_Ketogenic_Amino_Acid_Classification_Z-001-0612]]
+- [[Glycine_Metabolism_Oxalate_Pathway_Z-001-0604]]
+- [[Hydroxyproline_Collagen_Oxalate_Z-001-0605]]
+- [[Malate_Aspartate_Connection_Z-001-0614]]
+- [[Oxalate_Mineral_Binding_Calcium_Iron_Z-001-0603]]
+- [[Oxalic_Acid_Structure_Properties_Z-001-0601]]
+- [[Primary_Hyperoxaluria_Genetic_Z-001-0610]]
+- [[Threonine_Dual_Metabolism_Glucogenic_Ketogenic_Z-001-0611]]
+- [[Threonine_Metabolism_Glucogenic_Ketogenic_Z-001-0609]]
+- [[Vitamin_C_to_Oxalate_Conversion_Z-001-0606]]
 
 ## What is Anaplerosis?
 

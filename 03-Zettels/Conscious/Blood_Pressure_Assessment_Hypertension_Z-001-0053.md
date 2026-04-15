@@ -21,10 +21,30 @@ extraction-date: 2026-04-15
 ---
 
 # Blood Pressure Assessment — Hypertension and Metabolic Connection
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **Blood pressure** is a vital sign with profound metabolic implications. Hypertension is both a criterion for metabolic syndrome and a consequence of  resistance. The **optimal target is <120/80 mmHg**, not just the standard <140/90.
 
 ---
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Principle
 

@@ -15,6 +15,46 @@ related: []
 ---
 
 # Childhood Obesity Is Serious Global Health Threat
+## Related Zettels from Same Source
+
+- [[Obese_Children_Exceed_Underweight_Historic_First_Z-002-0866]]
+- [[UPF_Sugar_Beverages_Primary_Childhood_Obesity_Drivers_Z-002-0868]]
+
+## Source
+
+[[L-002-0242_Obese_Children_Outnumber_Underweight]]
+
+## Related Zettels from Same Source
+
+- [[Obese_Children_Exceed_Underweight_Historic_First_Z-002-0866]]
+- [[UPF_Sugar_Beverages_Primary_Childhood_Obesity_Drivers_Z-002-0868]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Obese_Children_Exceed_Underweight_Historic_First_Z-002-0866]]
+- [[UPF_Sugar_Beverages_Primary_Childhood_Obesity_Drivers_Z-002-0868]]
+
+## Source
+
+[[L-002-0242_Obese_Children_Outnumber_Underweight]]
+
+## Related Zettels from Same Source
+
+- [[Obese_Children_Exceed_Underweight_Historic_First_Z-002-0866]]
+- [[UPF_Sugar_Beverages_Primary_Childhood_Obesity_Drivers_Z-002-0868]]
 
 ## Core Claim
 **Childhood obesity is one of the most serious threats to children's health globally** — with future chronic disease epidemic, healthcare strain, and trillions in costs.

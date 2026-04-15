@@ -12,8 +12,52 @@ extraction-date: 2026-03-01
 ---
 
 # Glucose Discovery — Andreas Marggraf (1747)
+## Related Zettels from Same Source
+
+- [[Claude_Bernard_Glycogen_Liver_1850s_Z-001-0239]]
+- [[Glucose_Chemistry_Fischer_19th_Century_Z-001-0238]]
+- [[Glucose_Insulin_Connection_1921_Z-001-0240]]
+
+## Source
+
+[[History_of_Glucose_Discovery_and_Metabolic_Underst_L-001-0208_v4.0]]
+
+## Related Zettels from Same Source
+
+- [[Claude_Bernard_Glycogen_Liver_1850s_Z-001-0239]]
+- [[Glucose_Chemistry_Fischer_19th_Century_Z-001-0238]]
+- [[Glucose_Insulin_Connection_1921_Z-001-0240]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > In 1747, German chemist Andreas Marggraf isolated glucose from raisins, becoming the first to identify this simple sugar as a distinct chemical entity, though its physiological significance would not be understood for over a century.
+
+## Related Zettels from Same Source
+
+- [[Claude_Bernard_Glycogen_Liver_1850s_Z-001-0239]]
+- [[Glucose_Chemistry_Fischer_19th_Century_Z-001-0238]]
+- [[Glucose_Insulin_Connection_1921_Z-001-0240]]
+
+## Source
+
+[[History_of_Glucose_Discovery_and_Metabolic_Underst_L-001-0208_v4.0]]
+
+## Related Zettels from Same Source
+
+- [[Claude_Bernard_Glycogen_Liver_1850s_Z-001-0239]]
+- [[Glucose_Chemistry_Fischer_19th_Century_Z-001-0238]]
+- [[Glucose_Insulin_Connection_1921_Z-001-0240]]
 
 ## Core Principle
 

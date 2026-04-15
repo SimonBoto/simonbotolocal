@@ -13,6 +13,54 @@ extraction-date: 2026-03-04
 ---
 
 # PEPCK and Gluconeogenic Regulation
+## Related Zettels from Same Source
+
+- [[Anaplerosis_Replenishing_Krebs_Cycle_Z-001-0492]]
+- [[Gluconeogenesis_from_Oxaloacetate_Z-001-0489]]
+- [[Mitochondrial_Shuttles_Malate_Aspartate_Z-001-0490]]
+- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488]]
+
+## Source
+
+[[L-001-0045H_Oxaloacetate_Gluconeogenesis_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Anaplerosis_Replenishing_Krebs_Cycle_Z-001-0492]]
+- [[Gluconeogenesis_from_Oxaloacetate_Z-001-0489]]
+- [[Mitochondrial_Shuttles_Malate_Aspartate_Z-001-0490]]
+- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Anaplerosis_Replenishing_Krebs_Cycle_Z-001-0492]]
+- [[Gluconeogenesis_from_Oxaloacetate_Z-001-0489]]
+- [[Mitochondrial_Shuttles_Malate_Aspartate_Z-001-0490]]
+- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488]]
+
+## Source
+
+[[L-001-0045H_Oxaloacetate_Gluconeogenesis_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Anaplerosis_Replenishing_Krebs_Cycle_Z-001-0492]]
+- [[Gluconeogenesis_from_Oxaloacetate_Z-001-0489]]
+- [[Mitochondrial_Shuttles_Malate_Aspartate_Z-001-0490]]
+- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488]]
 
 ## Core Claim
 **PEP carboxykinase (PEPCK) is rate-limiting for gluconeogenesis — its transcription is tightly controlled by hormonal signals: glucagon (via cAMP/CREB) and cortisol induce PEPCK, while insulin (via FOXO1 phosphorylation) represses it** — this hormonal control ensures glucose production during fasting while suppressing it after meals, with dysregulation contributing to diabetic hyperglycemia.

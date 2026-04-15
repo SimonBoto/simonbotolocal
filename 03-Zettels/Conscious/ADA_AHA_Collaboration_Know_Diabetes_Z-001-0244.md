@@ -12,8 +12,52 @@ extraction-date: 2026-03-01
 ---
 
 # ADA-AHA Collaboration — Know  by Heart™ Initiative
+## Related Zettels from Same Source
+
+- [[ADA_Founding_Mission_1940_Z-001-0241]]
+- [[ADA_Guideline_Controversies_Evolution_Z-001-0243]]
+- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]
+
+## Source
+
+[[LitNote_ADA_History_L-001-0209]]
+
+## Related Zettels from Same Source
+
+- [[ADA_Founding_Mission_1940_Z-001-0241]]
+- [[ADA_Guideline_Controversies_Evolution_Z-001-0243]]
+- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > The American Diabetes Association and American Heart Association jointly launched the "Know Diabetes by Heart™" initiative to address the leading cause of death in people with Type 2 diabetes—cardiovascular disease—through education, research, and community outreach.
+
+## Related Zettels from Same Source
+
+- [[ADA_Founding_Mission_1940_Z-001-0241]]
+- [[ADA_Guideline_Controversies_Evolution_Z-001-0243]]
+- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]
+
+## Source
+
+[[LitNote_ADA_History_L-001-0209]]
+
+## Related Zettels from Same Source
+
+- [[ADA_Founding_Mission_1940_Z-001-0241]]
+- [[ADA_Guideline_Controversies_Evolution_Z-001-0243]]
+- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]
 
 ## Core Principle
 

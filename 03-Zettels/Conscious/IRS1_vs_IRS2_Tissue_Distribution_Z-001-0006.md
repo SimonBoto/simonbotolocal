@@ -16,6 +16,18 @@ created: 2026-02-22
 ---
 
 # IRS-1 vs IRS-2 Tissue Distribution
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 IRS-1 and IRS-2 are the primary  receptor substrates with distinct tissue distributions and metabolic functions.
 

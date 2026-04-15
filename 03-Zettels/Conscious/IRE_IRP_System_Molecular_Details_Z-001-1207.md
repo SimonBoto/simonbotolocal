@@ -13,6 +13,50 @@ extraction-date: 2026-03-09
 ---
 
 # IRE-IRP System — Molecular Mechanism
+## Related Zettels from Same Source
+
+- [[Aconitase_Mechanism_Iron_Sulfur_Cluster_Z-001-1204]]
+- [[Iron_Homeostasis_Post_Transcriptional_Z-001-1206]]
+- [[IRP1_Iron_Sensing_Molecular_Switch_Z-001-1205]]
+
+## Source
+
+[[L-001-0631_Aconitase_Iron_Metabolism_IRP1_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Aconitase_Mechanism_Iron_Sulfur_Cluster_Z-001-1204]]
+- [[Iron_Homeostasis_Post_Transcriptional_Z-001-1206]]
+- [[IRP1_Iron_Sensing_Molecular_Switch_Z-001-1205]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Aconitase_Mechanism_Iron_Sulfur_Cluster_Z-001-1204]]
+- [[Iron_Homeostasis_Post_Transcriptional_Z-001-1206]]
+- [[IRP1_Iron_Sensing_Molecular_Switch_Z-001-1205]]
+
+## Source
+
+[[L-001-0631_Aconitase_Iron_Metabolism_IRP1_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Aconitase_Mechanism_Iron_Sulfur_Cluster_Z-001-1204]]
+- [[Iron_Homeostasis_Post_Transcriptional_Z-001-1206]]
+- [[IRP1_Iron_Sensing_Molecular_Switch_Z-001-1205]]
 
 ## Core Claim
 **The IRE-IRP system operates through precise molecular recognition between the Iron Regulatory Protein (IRP) and the Iron-Responsive Element (IRE) — a conserved RNA stem-loop structure with a CAGUGN bulge — with IRE location (5' vs 3' UTR) determining whether IRP binding blocks translation or stabilizes mRNA, enabling coordinated post-transcriptional control of iron metabolism genes.**

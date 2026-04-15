@@ -14,6 +14,18 @@ updated: 2026-03-05
 ---
 
 # Chronic Sirolimus Inhibits mTORC2 Disrupting Akt  Signaling
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
 

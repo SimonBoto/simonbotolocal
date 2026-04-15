@@ -12,6 +12,18 @@ extraction-date: 2026-03-01
 ---
 
 # Selenium Mitochondrial Antioxidant
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Selenium, incorporated as selenocysteine (the 21st amino acid) into glutathione peroxidase (GPx) and thioredoxin reductase (TrxR), provides critical antioxidant defense in mitochondria by reducing hydrogen peroxide to water and maintaining protein redox status, with deficiency causing severe oxidative stress and cardiomyopathy (Keshan disease).
@@ -134,6 +146,12 @@ TrxR-reduced + Trx-oxidized → TrxR + Trx-reduced
 - [[Zinc_Mitochondrial_Function_Z-001-0550]] — Zinc mitochondrial roles
 - [[Zn_Se_Synergistic_OXPHOS_Protection_Z-001-0552]] — Combined protection
 - [[Zn_Se_Nutritional_Sources_Supplementation_Z-001-0553]] — Sources and dosing
+
+## Related Zettels from Same Source
+
+- [[Zinc_Mitochondrial_Function_Z-001-0550]]
+- [[Zn_Se_Nutritional_Sources_Supplementation_Z-001-0553]]
+- [[Zn_Se_Synergistic_OXPHOS_Protection_Z-001-0552]]
 
 ## Source
 [[Zinc_and_Selenium_as_Mitochondrial_Cofactors_L-001-0510_CGPT-0393]]

@@ -19,10 +19,30 @@ extraction-date: 2026-04-15
 ---
 
 # Ferritin — Iron Status and Inflammation
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **Ferritin** is the primary iron storage protein. However, it's also an **acute phase reactant** — elevated by inflammation independent of iron status. This dual nature makes interpretation nuanced.
 
 ---
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Principle
 

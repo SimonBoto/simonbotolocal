@@ -15,6 +15,18 @@ related: []
 ---
 
 # Ultra-Processed Foods as Primary Drivers of Childhood Obesity
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Ultra-processed foods are the primary driver of the childhood obesity epidemic** — UNICEF identifies UPFs as the root cause of the historic reversal where obesity now outnumbers undernutrition, citing aggressive industry marketing, cheap prices, and environments that promote unhealthy eating.
@@ -94,6 +106,11 @@ related: []
 | **Limit screen time** | Reduce ad exposure |
 | **Model behavior** | Children copy parents |
 | **Advocate** | Push for policy change |
+
+## Related Zettels from Same Source
+
+- [[Obese_Children_Outnumber_Undernourished_Z-002-0783]]
+- [[Reversible_Childhood_Obesity_Z-002-0785]]
 
 ## Source
 - **LitNote:** [[L-002-0215_Pediatric_Obesity_Historic_Reversal]]

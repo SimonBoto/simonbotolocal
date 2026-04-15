@@ -15,6 +15,18 @@ related: []
 ---
 
 # Genetic and Microbiome Factors in Personalized Nutrition
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Genetic polymorphisms** (APOE, FTO, MTHFR, etc.) and **gut microbiome composition** significantly influence individual responses to dietary interventions, enabling precision nutrition approaches that account for genetic predisposition and microbial metabolic capacity.
@@ -61,6 +73,11 @@ related: []
 |------|-------------|
 | **Nutrigenomics panel** | Key variants (APOE, FTO, MTHFR, etc.) |
 | **Microbiome analysis** | Species composition, function |
+
+## Related Zettels from Same Source
+
+- [[Individual_Metabolic_Response_Determines_Optimal_Diet_Z-002-0676]]
+- [[Personalized_Nutrition_Halves_Heart_Attack_Risk_Z-002-0675]]
 
 ## Source
 - **LitNote:** [[L-002-0180_Personalized_Nutrition_Halves_Heart_Attack_Risk]]

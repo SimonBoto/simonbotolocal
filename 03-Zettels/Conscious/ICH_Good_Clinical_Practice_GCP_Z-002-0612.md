@@ -14,8 +14,60 @@ created: 2026-03-27
 ---
 
 # ICH Good  Practice (GCP) Guidelines
+## Related Zettels from Same Source
+
+- [[Belmont_Report_Ethical_Principles_1979_Z-002-0610]]
+- [[CIOMS_International_Research_Ethics_Z-002-0611]]
+- [[Declaration_Helsinki_Research_Ethics_Z-002-0609]]
+- [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608]]
+- [[Tuskegee_Syphilis_Study_Ethics_Case_Z-002-0622]]
+
+## Source
+
+[[LitNote_Historical_Ethics_Guidelines_L-002-0602]
+
+## Related Zettels from Same Source
+
+- [[Belmont_Report_Ethical_Principles_1979_Z-002-0610]]
+- [[CIOMS_International_Research_Ethics_Z-002-0611]]
+- [[Declaration_Helsinki_Research_Ethics_Z-002-0609]]
+- [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608]]
+- [[Tuskegee_Syphilis_Study_Ethics_Case_Z-002-0622]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 International Council for Harmonisation unified standard for designing, conducting, recording, and reporting trials involving human participants. Ensures data credibility, accuracy, and protection of participant rights.
+
+## Related Zettels from Same Source
+
+- [[Belmont_Report_Ethical_Principles_1979_Z-002-0610]]
+- [[CIOMS_International_Research_Ethics_Z-002-0611]]
+- [[Declaration_Helsinki_Research_Ethics_Z-002-0609]]
+- [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608]]
+- [[Tuskegee_Syphilis_Study_Ethics_Case_Z-002-0622]]
+
+## Source
+
+[[LitNote_Historical_Ethics_Guidelines_L-002-0602]
+
+## Related Zettels from Same Source
+
+- [[Belmont_Report_Ethical_Principles_1979_Z-002-0610]]
+- [[CIOMS_International_Research_Ethics_Z-002-0611]]
+- [[Declaration_Helsinki_Research_Ethics_Z-002-0609]]
+- [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608]]
+- [[Tuskegee_Syphilis_Study_Ethics_Case_Z-002-0622]]
 
 ## Scope
 

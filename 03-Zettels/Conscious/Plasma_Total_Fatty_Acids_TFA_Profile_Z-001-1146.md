@@ -14,6 +14,26 @@ created: 2026-03-08
 ---
 
 # Plasma Total Fatty Acids TFA Profile
+## Source
+
+[[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]
 
 ## Overview
 Plasma total fatty acid (TFA) analysis provides a comprehensive profile of membrane composition and dietary fat intake—reflecting inflammatory status, metabolic health, and cardiovascular risk in insulin resistance.

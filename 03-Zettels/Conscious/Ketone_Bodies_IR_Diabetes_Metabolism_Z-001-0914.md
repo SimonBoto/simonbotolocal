@@ -15,8 +15,56 @@ extraction-date: 2026-04-15
 ---
 
 # Ketone Bodies — Alternative Fuel in Insulin Resistance and Diabetes
+## Related Zettels from Same Source
+
+- [[Carnitine_Fatty_Acid_Transport_Z-001-0913]]
+- [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0911]]
+- [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912]]
+- [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0910]]
+
+## Source
+
+Synthesized from clinical practice
+
+## Related Zettels from Same Source
+
+- [[Carnitine_Fatty_Acid_Transport_Z-001-0913]]
+- [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0911]]
+- [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912]]
+- [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0910]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Ketone bodies (acetoacetate, 3-hydroxybutyrate/β-hydroxybutyrate, and acetone) are alternative fuel molecules produced when glucose utilization is impaired or carbohydrate availability is limited. They serve as critical energy sources during fasting, low-carbohydrate diets, and in insulin resistance/diabetes when cellular glucose uptake is compromised.
+
+## Related Zettels from Same Source
+
+- [[Carnitine_Fatty_Acid_Transport_Z-001-0913]]
+- [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0911]]
+- [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912]]
+- [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0910]]
+
+## Source
+
+Synthesized from clinical practice
+
+## Related Zettels from Same Source
+
+- [[Carnitine_Fatty_Acid_Transport_Z-001-0913]]
+- [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0911]]
+- [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912]]
+- [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0910]]
 
 ## Core Principle
 

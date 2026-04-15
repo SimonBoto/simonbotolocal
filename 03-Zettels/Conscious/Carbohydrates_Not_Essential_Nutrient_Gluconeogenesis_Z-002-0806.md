@@ -15,6 +15,18 @@ related: []
 ---
 
 # Carbohydrates Are Not Essential Nutrient
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Carbohydrates are not essential nutrients** — no deficiency symptoms occur from complete carbohydrate absence, as the body can produce required glucose via gluconeogenesis.
@@ -51,6 +63,11 @@ related: []
 
 > "No deficiency symptoms from complete carbohydrate absence. Brain, RBCs, eyes can get glucose via gluconeogenesis. Proteins and fats ARE essential; carbs are not."
 > — Metabolic physiology
+
+## Related Zettels from Same Source
+
+- [[Ketogenic_Diet_Myths_vs_Reality_Evidence_Z-002-0805]]
+- [[Ninety_Percent_Metabolic_Dysfunction_Low_Carb_Benefit_Z-002-0804]]
 
 ## Source
 - **LitNote:** [[L-002-0222_Stopping_Sugar_Carbs_Metabolic_Effects]]

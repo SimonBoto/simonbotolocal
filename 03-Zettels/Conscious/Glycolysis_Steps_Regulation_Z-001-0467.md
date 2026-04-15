@@ -25,6 +25,54 @@ extraction-date: 2026-03-04
 ---
 
 # Glycolysis Steps and Regulation
+## Related Zettels from Same Source
+
+- [[Evolutionary_Ancient_Glycolysis_Z-001-0470]]
+- [[Fructose_Glycolytic_Intermediate_Z-001-0468]]
+- [[Pyruvate_Metabolic_Crossroads_Z-001-0469]]
+- [[Triose_Structure_Glyceraldehyde_DHAP_Z-001-0466]]
+
+## Source
+
+[[L-001-0045D_Triose_Metabolism_Glycolysis_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Evolutionary_Ancient_Glycolysis_Z-001-0470]]
+- [[Fructose_Glycolytic_Intermediate_Z-001-0468]]
+- [[Pyruvate_Metabolic_Crossroads_Z-001-0469]]
+- [[Triose_Structure_Glyceraldehyde_DHAP_Z-001-0466]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Evolutionary_Ancient_Glycolysis_Z-001-0470]]
+- [[Fructose_Glycolytic_Intermediate_Z-001-0468]]
+- [[Pyruvate_Metabolic_Crossroads_Z-001-0469]]
+- [[Triose_Structure_Glyceraldehyde_DHAP_Z-001-0466]]
+
+## Source
+
+[[L-001-0045D_Triose_Metabolism_Glycolysis_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Evolutionary_Ancient_Glycolysis_Z-001-0470]]
+- [[Fructose_Glycolytic_Intermediate_Z-001-0468]]
+- [[Pyruvate_Metabolic_Crossroads_Z-001-0469]]
+- [[Triose_Structure_Glyceraldehyde_DHAP_Z-001-0466]]
 
 ## Core Claim
 **Glycolysis is a 10-step pathway that converts glucose to 2 pyruvate + 2 ATP + 2 NADH — phosphofructokinase-1 (PFK-1) is the committed step and primary control point, regulated by ATP/AMP ratio and hormonal signals** — this ancient pathway (~3.5 billion years) requires no oxygen and is universal across all life.

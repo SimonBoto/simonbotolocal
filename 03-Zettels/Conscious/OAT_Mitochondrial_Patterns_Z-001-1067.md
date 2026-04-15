@@ -13,6 +13,54 @@ extraction-date: 2026-03-08
 ---
 
 # OAT Mitochondrial Patterns
+## Related Zettels from Same Source
+
+- [[OAT_Category_Interpretation_Framework_Z-001-1065]]
+- [[OAT_Clinical_Action_Mapping_Z-001-1069]]
+- [[OAT_Gut_Dysbiosis_Patterns_Z-001-1068]]
+- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]]
+
+## Source
+
+[[L-001-0594_OAT_Interpretation_Clinical_Protocol_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[OAT_Category_Interpretation_Framework_Z-001-1065]]
+- [[OAT_Clinical_Action_Mapping_Z-001-1069]]
+- [[OAT_Gut_Dysbiosis_Patterns_Z-001-1068]]
+- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[OAT_Category_Interpretation_Framework_Z-001-1065]]
+- [[OAT_Clinical_Action_Mapping_Z-001-1069]]
+- [[OAT_Gut_Dysbiosis_Patterns_Z-001-1068]]
+- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]]
+
+## Source
+
+[[L-001-0594_OAT_Interpretation_Clinical_Protocol_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[OAT_Category_Interpretation_Framework_Z-001-1065]]
+- [[OAT_Clinical_Action_Mapping_Z-001-1069]]
+- [[OAT_Gut_Dysbiosis_Patterns_Z-001-1068]]
+- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]]
 
 ## Core Claim
 **Mitochondrial dysfunction produces characteristic OAT signatures — elevated lactate and pyruvate indicating anaerobic shift, TCA intermediates revealing specific enzyme blocks, and the lactate/pyruvate ratio serving as a redox status indicator — enabling clinicians to distinguish between primary mitochondrial disease, secondary dysfunction, and simple cofactor deficiency.**

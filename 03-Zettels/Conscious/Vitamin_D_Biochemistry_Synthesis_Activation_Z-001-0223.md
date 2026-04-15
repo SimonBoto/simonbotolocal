@@ -12,8 +12,52 @@ extraction-date: 2026-03-01
 ---
 
 #  Biochemistry — Synthesis, Activation, and VDR Mechanisms
+## Related Zettels from Same Source
+
+- [[Vitamin_D_Inflammation_Adipose_Tissue_Immunomodulation_Z-001-0226]]
+- [[Vitamin_D_Insulin_Sensitivity_Glucose_Metabolism_Z-001-0224]]
+- [[Vitamin_D_Lipid_Metabolism_HDL_Triglycerides_Z-001-0225]]
+
+## Source
+
+[[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]
+
+## Related Zettels from Same Source
+
+- [[Vitamin_D_Inflammation_Adipose_Tissue_Immunomodulation_Z-001-0226]]
+- [[Vitamin_D_Insulin_Sensitivity_Glucose_Metabolism_Z-001-0224]]
+- [[Vitamin_D_Lipid_Metabolism_HDL_Triglycerides_Z-001-0225]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Vitamin D functions as a steroid hormone with complex synthesis, activation, and genomic signaling mechanisms that regulate metabolic health through widespread tissue expression of the vitamin D receptor.
+
+## Related Zettels from Same Source
+
+- [[Vitamin_D_Inflammation_Adipose_Tissue_Immunomodulation_Z-001-0226]]
+- [[Vitamin_D_Insulin_Sensitivity_Glucose_Metabolism_Z-001-0224]]
+- [[Vitamin_D_Lipid_Metabolism_HDL_Triglycerides_Z-001-0225]]
+
+## Source
+
+[[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]
+
+## Related Zettels from Same Source
+
+- [[Vitamin_D_Inflammation_Adipose_Tissue_Immunomodulation_Z-001-0226]]
+- [[Vitamin_D_Insulin_Sensitivity_Glucose_Metabolism_Z-001-0224]]
+- [[Vitamin_D_Lipid_Metabolism_HDL_Triglycerides_Z-001-0225]]
 
 ## Mechanism
 

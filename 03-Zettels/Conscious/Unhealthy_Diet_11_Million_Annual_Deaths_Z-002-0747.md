@@ -15,6 +15,18 @@ related: []
 ---
 
 # Unhealthy Diet 11 Million Annual Deaths
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Unhealthy diet causes 11 million deaths annually worldwide.
@@ -22,6 +34,11 @@ Unhealthy diet causes 11 million deaths annually worldwide.
 ## Significance
 
 tags: [zettel, diet, mortality, 11-million]
+
+## Related Zettels from Same Source
+
+- [[Diet_Quality_vs_Quantity_Mortality_Z-002-0748]]
+- [[Processed_Food_Disease_Burden_Global_Z-002-0749]]
 
 ## Source
 - **LitNote:** [[L-002-0203_Diet_11_Million_Deaths_Annually]]

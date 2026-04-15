@@ -15,6 +15,46 @@ related: []
 ---
 
 # Fatigue as Message — Mitochondrial Dysfunction and Energy Production
+## Related Zettels from Same Source
+
+- [[Metabolomic_Interventions_Improve_90_Percent_Patients_Z-002-0839]]
+- [[Mitochondrial_Dysfunction_Linked_Most_Chronic_Diseases_Z-002-0838]]
+
+## Source
+
+[[L-002-0233_Fatigue_Mitochondrial_Dysfunction]]
+
+## Related Zettels from Same Source
+
+- [[Metabolomic_Interventions_Improve_90_Percent_Patients_Z-002-0839]]
+- [[Mitochondrial_Dysfunction_Linked_Most_Chronic_Diseases_Z-002-0838]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Metabolomic_Interventions_Improve_90_Percent_Patients_Z-002-0839]]
+- [[Mitochondrial_Dysfunction_Linked_Most_Chronic_Diseases_Z-002-0838]]
+
+## Source
+
+[[L-002-0233_Fatigue_Mitochondrial_Dysfunction]]
+
+## Related Zettels from Same Source
+
+- [[Metabolomic_Interventions_Improve_90_Percent_Patients_Z-002-0839]]
+- [[Mitochondrial_Dysfunction_Linked_Most_Chronic_Diseases_Z-002-0838]]
 
 ## Core Claim
 **Persistent fatigue despite adequate rest indicates mitochondrial dysfunction** — the body's energy factories are not producing sufficient ATP.

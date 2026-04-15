@@ -13,6 +13,58 @@ extraction-date: 2026-03-08
 ---
 
 # Redox Cofactors NAD FAD Biochemistry
+## Related Zettels from Same Source
+
+- [[Aconitase_Oxidative_Stress_Sensitivity_Z-001-1053]]
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]]
+- [[Krebs_Cycle_Clinical_Biochemistry_Z-001-1048]]
+- [[Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050]]
+- [[TCA_Intermediates_Clinical_Significance_Z-001-1049]]
+
+## Source
+
+[[L-001-0591_Mitochondrial_Biochemistry_Clinicians_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Aconitase_Oxidative_Stress_Sensitivity_Z-001-1053]]
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]]
+- [[Krebs_Cycle_Clinical_Biochemistry_Z-001-1048]]
+- [[Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050]]
+- [[TCA_Intermediates_Clinical_Significance_Z-001-1049]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Aconitase_Oxidative_Stress_Sensitivity_Z-001-1053]]
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]]
+- [[Krebs_Cycle_Clinical_Biochemistry_Z-001-1048]]
+- [[Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050]]
+- [[TCA_Intermediates_Clinical_Significance_Z-001-1049]]
+
+## Source
+
+[[L-001-0591_Mitochondrial_Biochemistry_Clinicians_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Aconitase_Oxidative_Stress_Sensitivity_Z-001-1053]]
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]]
+- [[Krebs_Cycle_Clinical_Biochemistry_Z-001-1048]]
+- [[Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050]]
+- [[TCA_Intermediates_Clinical_Significance_Z-001-1049]]
 
 ## Core Claim
 **NAD+/NADH and FAD/FADH₂ serve as the primary electron carriers in metabolism — derived from B-vitamins (B3 and B2 respectively) — with their redox status and ratio serving as critical indicators of cellular energy state, metabolic flexibility, and mitochondrial function.**

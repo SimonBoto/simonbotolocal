@@ -14,6 +14,50 @@ extraction-date: 2026-04-15
 ---
 
 # The Exploratory Excuse Pitfall — Case Study
+## Related Zettels from Same Source
+
+- [[Biomarker_Validation_Pipeline_Requirements_Z-001-0560]]
+- [[Effect_Size_Practical_Significance_Omics_Z-001-0561]]
+- [[Exploratory_vs_Confirmatory_Definitions_Z-001-0558]]
+
+## Source
+
+Synthesized from clinical practice
+
+## Related Zettels from Same Source
+
+- [[Biomarker_Validation_Pipeline_Requirements_Z-001-0560]]
+- [[Effect_Size_Practical_Significance_Omics_Z-001-0561]]
+- [[Exploratory_vs_Confirmatory_Definitions_Z-001-0558]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Biomarker_Validation_Pipeline_Requirements_Z-001-0560]]
+- [[Effect_Size_Practical_Significance_Omics_Z-001-0561]]
+- [[Exploratory_vs_Confirmatory_Definitions_Z-001-0558]]
+
+## Source
+
+Synthesized from clinical practice
+
+## Related Zettels from Same Source
+
+- [[Biomarker_Validation_Pipeline_Requirements_Z-001-0560]]
+- [[Effect_Size_Practical_Significance_Omics_Z-001-0561]]
+- [[Exploratory_vs_Confirmatory_Definitions_Z-001-0558]]
 
 ## The Claim
 

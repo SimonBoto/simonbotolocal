@@ -13,6 +13,54 @@ extraction-date: 2026-03-08
 ---
 
 # Ketosis Metabolic Flexibility Clinical
+## Related Zettels from Same Source
+
+- [[Beta_Oxidation_Clinical_Mechanisms_Z-001-1054]]
+- [[Carnitine_Shuttle_Fatty_Acid_Transport_Z-001-1058]]
+- [[Fatty_Acid_Ratios_Clinical_Interpretation_Z-001-1056]]
+- [[Fatty_Acid_Subclasses_Desaturase_Pathways_Z-001-1055]]
+
+## Source
+
+[[L-001-0592_Fatty_Acid_Metabolism_Lipid_Signaling_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Beta_Oxidation_Clinical_Mechanisms_Z-001-1054]]
+- [[Carnitine_Shuttle_Fatty_Acid_Transport_Z-001-1058]]
+- [[Fatty_Acid_Ratios_Clinical_Interpretation_Z-001-1056]]
+- [[Fatty_Acid_Subclasses_Desaturase_Pathways_Z-001-1055]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Beta_Oxidation_Clinical_Mechanisms_Z-001-1054]]
+- [[Carnitine_Shuttle_Fatty_Acid_Transport_Z-001-1058]]
+- [[Fatty_Acid_Ratios_Clinical_Interpretation_Z-001-1056]]
+- [[Fatty_Acid_Subclasses_Desaturase_Pathways_Z-001-1055]]
+
+## Source
+
+[[L-001-0592_Fatty_Acid_Metabolism_Lipid_Signaling_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Beta_Oxidation_Clinical_Mechanisms_Z-001-1054]]
+- [[Carnitine_Shuttle_Fatty_Acid_Transport_Z-001-1058]]
+- [[Fatty_Acid_Ratios_Clinical_Interpretation_Z-001-1056]]
+- [[Fatty_Acid_Subclasses_Desaturase_Pathways_Z-001-1055]]
 
 ## Core Claim
 **Ketosis represents a physiological state of elevated ketone body production (beta-hydroxybutyrate, acetoacetate, acetone) during carbohydrate restriction or fasting — serving as both an alternative fuel source for glucose-dependent tissues and a signaling molecule that modulates inflammation, gene expression, and metabolic health.**

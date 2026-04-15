@@ -28,6 +28,58 @@ updated: "2026-04-09"
 ---
 
 # Vitamin C Clinical Evidence Cancer Controversies
+## Related Zettels from Same Source
+
+- [[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_Z-001-1126]]
+- [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_Z-001-1125]]
+- [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_Z-001-1125,]]
+- [[[[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_Z-001-1126]],]]
+- [[[[Vitamin_C_Clinical_Evidence_Cancer_Controversies_Z-001-1127]]]]
+
+## Source
+
+[[L-001-0610_High_Dose_Vitamin_C_Oncology_CGPT-0264]]
+
+## Related Zettels from Same Source
+
+- [[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_Z-001-1126]]
+- [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_Z-001-1125]]
+- [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_Z-001-1125,]]
+- [[[[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_Z-001-1126]],]]
+- [[[[Vitamin_C_Clinical_Evidence_Cancer_Controversies_Z-001-1127]]]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_Z-001-1126]]
+- [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_Z-001-1125]]
+- [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_Z-001-1125,]]
+- [[[[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_Z-001-1126]],]]
+- [[[[Vitamin_C_Clinical_Evidence_Cancer_Controversies_Z-001-1127]]]]
+
+## Source
+
+[[L-001-0610_High_Dose_Vitamin_C_Oncology_CGPT-0264]]
+
+## Related Zettels from Same Source
+
+- [[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_Z-001-1126]]
+- [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_Z-001-1125]]
+- [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_Z-001-1125,]]
+- [[[[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_Z-001-1126]],]]
+- [[[[Vitamin_C_Clinical_Evidence_Cancer_Controversies_Z-001-1127]]]]
 
 ## Core Claim
 High-dose vitamin C in cancer therapy has a controversial history, from the initially promising but methodologically flawed Cameron-Pauling studies of the 1970s to modern pharmacokinetic understanding that distinguishes between oral (limited absorption) and intravenous (pharmacologic plasma levels) administration, with current evidence supporting potential benefits as adjunctive therapy but not as standalone cancer treatment.

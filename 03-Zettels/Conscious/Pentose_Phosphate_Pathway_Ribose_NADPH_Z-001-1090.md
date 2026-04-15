@@ -24,6 +24,54 @@ extraction-date: 2026-03-08
 ---
 
 # Pentose Phosphate Pathway — Ribose and NADPH
+## Related Zettels from Same Source
+
+- [[Evolutionary_Origins_Glycolysis_Ancient_Metabolism_Z-001-1092]]
+- [[Glucose_Ribose_Interconversion_PPP_Link_Z-001-1091]]
+- [[Triose_Roles_Glycolysis_PPP_Krebs_Integration_Z-001-1089]]
+- [[Trioses_Simplest_Sugars_Glyceraldehyde_Dihydroxyacetone_Z-001-1088]]
+
+## Source
+
+[[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]]
+
+## Related Zettels from Same Source
+
+- [[Evolutionary_Origins_Glycolysis_Ancient_Metabolism_Z-001-1092]]
+- [[Glucose_Ribose_Interconversion_PPP_Link_Z-001-1091]]
+- [[Triose_Roles_Glycolysis_PPP_Krebs_Integration_Z-001-1089]]
+- [[Trioses_Simplest_Sugars_Glyceraldehyde_Dihydroxyacetone_Z-001-1088]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Evolutionary_Origins_Glycolysis_Ancient_Metabolism_Z-001-1092]]
+- [[Glucose_Ribose_Interconversion_PPP_Link_Z-001-1091]]
+- [[Triose_Roles_Glycolysis_PPP_Krebs_Integration_Z-001-1089]]
+- [[Trioses_Simplest_Sugars_Glyceraldehyde_Dihydroxyacetone_Z-001-1088]]
+
+## Source
+
+[[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]]
+
+## Related Zettels from Same Source
+
+- [[Evolutionary_Origins_Glycolysis_Ancient_Metabolism_Z-001-1092]]
+- [[Glucose_Ribose_Interconversion_PPP_Link_Z-001-1091]]
+- [[Triose_Roles_Glycolysis_PPP_Krebs_Integration_Z-001-1089]]
+- [[Trioses_Simplest_Sugars_Glyceraldehyde_Dihydroxyacetone_Z-001-1088]]
 
 ## Core Claim
 **The pentose phosphate pathway (PPP) generates ribose-5-phosphate for nucleotide synthesis and NADPH for biosynthesis and antioxidant defense—its two phases (oxidative and non-oxidative) provide metabolic flexibility to balance cellular needs for reducing power, biosynthetic precursors, and energy** — G6PD deficiency is the most common enzyme deficiency worldwide.

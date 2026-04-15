@@ -11,6 +11,46 @@ status: conscious
 ---
 
 # Random Forest Classification — Feature Importance in 
+## Related Zettels from Same Source
+
+- [[Deep_Learning_Neural_Networks_Metabolomics_Z-001-1155]]
+- [[SVM_Kernel_Methods_Metabolomics_Classification_Z-001-1154]]
+
+## Source
+
+[[LitNote_Machine_Learning_Metabolomics_L-001-0618]
+
+## Related Zettels from Same Source
+
+- [[Deep_Learning_Neural_Networks_Metabolomics_Z-001-1155]]
+- [[SVM_Kernel_Methods_Metabolomics_Classification_Z-001-1154]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Deep_Learning_Neural_Networks_Metabolomics_Z-001-1155]]
+- [[SVM_Kernel_Methods_Metabolomics_Classification_Z-001-1154]]
+
+## Source
+
+[[LitNote_Machine_Learning_Metabolomics_L-001-0618]
+
+## Related Zettels from Same Source
+
+- [[Deep_Learning_Neural_Networks_Metabolomics_Z-001-1155]]
+- [[SVM_Kernel_Methods_Metabolomics_Classification_Z-001-1154]]
 
 ## Overview
 

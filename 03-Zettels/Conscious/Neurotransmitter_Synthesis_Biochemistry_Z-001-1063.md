@@ -13,6 +13,58 @@ extraction-date: 2026-03-08
 ---
 
 # Neurotransmitter Synthesis Biochemistry
+## Related Zettels from Same Source
+
+- [[Gut_Microbiome_OAT_Markers_Z-001-1064]]
+- [[Magnesium_Biochemistry_Clinical_Roles_Z-001-1060]]
+- [[One_Carbon_Metabolism_Folate_B12_Z-001-1062]]
+- [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]]
+- [[Vitamin_K2_Calcium_Direction_MGP_Z-001-1061]]
+
+## Source
+
+[[L-001-0593_Vitamin_Mineral_Axis_Biochemistry_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Gut_Microbiome_OAT_Markers_Z-001-1064]]
+- [[Magnesium_Biochemistry_Clinical_Roles_Z-001-1060]]
+- [[One_Carbon_Metabolism_Folate_B12_Z-001-1062]]
+- [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]]
+- [[Vitamin_K2_Calcium_Direction_MGP_Z-001-1061]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Gut_Microbiome_OAT_Markers_Z-001-1064]]
+- [[Magnesium_Biochemistry_Clinical_Roles_Z-001-1060]]
+- [[One_Carbon_Metabolism_Folate_B12_Z-001-1062]]
+- [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]]
+- [[Vitamin_K2_Calcium_Direction_MGP_Z-001-1061]]
+
+## Source
+
+[[L-001-0593_Vitamin_Mineral_Axis_Biochemistry_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Gut_Microbiome_OAT_Markers_Z-001-1064]]
+- [[Magnesium_Biochemistry_Clinical_Roles_Z-001-1060]]
+- [[One_Carbon_Metabolism_Folate_B12_Z-001-1062]]
+- [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]]
+- [[Vitamin_K2_Calcium_Direction_MGP_Z-001-1061]]
 
 ## Core Claim
 **Monoamine neurotransmitters — dopamine, serotonin, norepinephrine, and epinephrine — are synthesized from dietary amino acid precursors (tyrosine and tryptophan) through enzymatic pathways requiring specific cofactors (iron, BH4, B6), while GABA derives from glutamate, with synthesis rates dependent on precursor availability, enzyme activity, and cofactor status.**

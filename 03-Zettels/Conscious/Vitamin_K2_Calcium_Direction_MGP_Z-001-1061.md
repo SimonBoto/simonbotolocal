@@ -13,6 +13,58 @@ extraction-date: 2026-03-08
 ---
 
 # Vitamin K2 Calcium Direction MGP
+## Related Zettels from Same Source
+
+- [[Gut_Microbiome_OAT_Markers_Z-001-1064]]
+- [[Magnesium_Biochemistry_Clinical_Roles_Z-001-1060]]
+- [[Neurotransmitter_Synthesis_Biochemistry_Z-001-1063]]
+- [[One_Carbon_Metabolism_Folate_B12_Z-001-1062]]
+- [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]]
+
+## Source
+
+[[L-001-0593_Vitamin_Mineral_Axis_Biochemistry_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Gut_Microbiome_OAT_Markers_Z-001-1064]]
+- [[Magnesium_Biochemistry_Clinical_Roles_Z-001-1060]]
+- [[Neurotransmitter_Synthesis_Biochemistry_Z-001-1063]]
+- [[One_Carbon_Metabolism_Folate_B12_Z-001-1062]]
+- [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Gut_Microbiome_OAT_Markers_Z-001-1064]]
+- [[Magnesium_Biochemistry_Clinical_Roles_Z-001-1060]]
+- [[Neurotransmitter_Synthesis_Biochemistry_Z-001-1063]]
+- [[One_Carbon_Metabolism_Folate_B12_Z-001-1062]]
+- [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]]
+
+## Source
+
+[[L-001-0593_Vitamin_Mineral_Axis_Biochemistry_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Gut_Microbiome_OAT_Markers_Z-001-1064]]
+- [[Magnesium_Biochemistry_Clinical_Roles_Z-001-1060]]
+- [[Neurotransmitter_Synthesis_Biochemistry_Z-001-1063]]
+- [[One_Carbon_Metabolism_Folate_B12_Z-001-1062]]
+- [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]]
 
 ## Core Claim
 **Vitamin K2 (menaquinones) directs calcium into bone and away from soft tissues by activating matrix Gla protein (MGP) and osteocalcin — with inadequate K2 leading to vascular calcification despite adequate calcium and vitamin D intake, representing a critical but often overlooked factor in cardiovascular and bone health.**

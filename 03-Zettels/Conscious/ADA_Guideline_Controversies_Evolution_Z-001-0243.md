@@ -12,8 +12,52 @@ extraction-date: 2026-03-01
 ---
 
 # ADA Guideline Controversies — Evolution and Criticism
+## Related Zettels from Same Source
+
+- [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]]
+- [[ADA_Founding_Mission_1940_Z-001-0241]]
+- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]
+
+## Source
+
+[[LitNote_ADA_History_L-001-0209]]
+
+## Related Zettels from Same Source
+
+- [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]]
+- [[ADA_Founding_Mission_1940_Z-001-0241]]
+- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > The ADA's clinical guidelines, particularly regarding HbA1c targets and dietary recommendations, have evolved through controversy, with debates over strict glycemic control, individualization, and potential industry influence on treatment recommendations.
+
+## Related Zettels from Same Source
+
+- [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]]
+- [[ADA_Founding_Mission_1940_Z-001-0241]]
+- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]
+
+## Source
+
+[[LitNote_ADA_History_L-001-0209]]
+
+## Related Zettels from Same Source
+
+- [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]]
+- [[ADA_Founding_Mission_1940_Z-001-0241]]
+- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]
 
 ## Core Principle
 

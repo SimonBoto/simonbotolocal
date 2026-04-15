@@ -12,8 +12,52 @@ extraction-date: 2026-03-01
 ---
 
 # American  Association — Founding and Mission (1940)
+## Related Zettels from Same Source
+
+- [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]]
+- [[ADA_Guideline_Controversies_Evolution_Z-001-0243]]
+- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]
+
+## Source
+
+[[LitNote_ADA_History_L-001-0209]]
+
+## Related Zettels from Same Source
+
+- [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]]
+- [[ADA_Guideline_Controversies_Evolution_Z-001-0243]]
+- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Founded in 1940, the American Diabetes Association emerged as the leading organization for diabetes care, research, and advocacy in the United States, filling a critical need for coordinated action against the growing diabetes epidemic.
+
+## Related Zettels from Same Source
+
+- [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]]
+- [[ADA_Guideline_Controversies_Evolution_Z-001-0243]]
+- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]
+
+## Source
+
+[[LitNote_ADA_History_L-001-0209]]
+
+## Related Zettels from Same Source
+
+- [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]]
+- [[ADA_Guideline_Controversies_Evolution_Z-001-0243]]
+- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]
 
 ## Core Principle
 

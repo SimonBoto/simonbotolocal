@@ -14,6 +14,18 @@ related: []
 ---
 
 # Carb Restriction Improves LDL Quality and Size
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Low-carbohydrate diets improve **LDL quality** by shifting from small dense LDL (Pattern B, atherogenic) to large buoyant LDL (Pattern A, less atherogenic), even when total LDL changes modestly.

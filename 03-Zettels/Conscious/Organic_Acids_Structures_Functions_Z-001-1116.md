@@ -24,6 +24,46 @@ extraction-date: 2026-03-08
 ---
 
 # Organic Acids — Structures and Functions
+## Related Zettels from Same Source
+
+- [[Aldoses_Ketoses_Reference_Table_Z-001-1114]]
+- [[Amino_Acid_Complete_Classification_Table_Z-001-1115]]
+
+## Source
+
+[[LitNote_Comparative_Biochemistry_Tables_L-001-0607]]
+
+## Related Zettels from Same Source
+
+- [[Aldoses_Ketoses_Reference_Table_Z-001-1114]]
+- [[Amino_Acid_Complete_Classification_Table_Z-001-1115]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Aldoses_Ketoses_Reference_Table_Z-001-1114]]
+- [[Amino_Acid_Complete_Classification_Table_Z-001-1115]]
+
+## Source
+
+[[LitNote_Comparative_Biochemistry_Tables_L-001-0607]]
+
+## Related Zettels from Same Source
+
+- [[Aldoses_Ketoses_Reference_Table_Z-001-1114]]
+- [[Amino_Acid_Complete_Classification_Table_Z-001-1115]]
 
 ## Core Claim
 **Organic acids are carboxylic acid metabolites that serve as diagnostic biomarkers in organic acids testing (OAT)—elevated levels reveal specific metabolic blocks, cofactor deficiencies, or mitochondrial dysfunction** — pattern recognition enables targeted nutritional intervention.

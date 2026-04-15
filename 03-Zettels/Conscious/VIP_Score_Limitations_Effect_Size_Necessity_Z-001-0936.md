@@ -12,6 +12,18 @@ extraction-date: 2026-04-15
 ---
 
 # VIP Score Limitations — Why Effect Sizes Are Necessary
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Principle
 **Variable Importance in Projection (VIP) scores measure contribution to the OPLS-DA model, not biological importance or practical significance.**

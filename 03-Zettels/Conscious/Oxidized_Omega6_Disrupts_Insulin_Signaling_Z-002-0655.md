@@ -15,6 +15,18 @@ related: []
 ---
 
 # Oxidized Omega-6 from Frying Disrupts Insulin Signaling
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 High-temperature frying of seed oils creates **oxidized omega-6 fatty acids and toxic aldehydes** that directly disrupt insulin receptor signaling, promote inflammation, and induce mitochondrial dysfunction — mechanisms that explain diabetes risk independent of caloric content.
@@ -104,6 +116,11 @@ Linoleic acid (18:2)
 | **Use olive oil (moderate heat)** | More monounsaturated, less oxidation |
 | **Coconut oil for high heat** | Saturated, very stable |
 | **Air frying** | No oil required |
+
+## Related Zettels from Same Source
+
+- [[Fried_Potatoes_Seed_Oil_T2D_Risk_20pct_Z-002-0654]]
+- [[Seed_Oil_Omega6_Omega3_Ratio_Inflammation_Z-002-0656]]
 
 ## Source
 - **LitNote:** [[L-002-0173_Fried_Potatoes_Seed_Oil_T2D_Risk]]

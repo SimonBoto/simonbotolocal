@@ -19,9 +19,61 @@ status: conscious
 ---
 
 # Albumin-Protein Intake Dilemma
+## Related Zettels from Same Source
+
+- [[Albumin_Protein_Integration_Z-001-0575D]]
+- [[Glycemic_Oxalate_Management_Z-001-0575F]]
+- [[Protein_Intake_Assessment_Z-001-0575C]]
+- [[Serum_Albumin_Prognostic_Z-001-0575B]]
+- [[ShortTerm_HighProtein_Protocol_Z-001-0575E]]
+
+## Source
+
+[[CKD_Nutritional_Assessment_-_Albumin_vs_Intake-_L-001-0575_v4.0]]
+
+## Related Zettels from Same Source
+
+- [[Albumin_Protein_Integration_Z-001-0575D]]
+- [[Glycemic_Oxalate_Management_Z-001-0575F]]
+- [[Protein_Intake_Assessment_Z-001-0575C]]
+- [[Serum_Albumin_Prognostic_Z-001-0575B]]
+- [[ShortTerm_HighProtein_Protocol_Z-001-0575E]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > **Source:** ChatGPT conversation [[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370]] (May 26, 2024)
 > **Core Claim:** Serum albumin and dietary protein intake serve different clinical functions in CKD management — albumin is a prognostic marker of inflammation and nutrition, while protein intake is a modifiable factor that must be optimized in context-specific ways.
+
+## Related Zettels from Same Source
+
+- [[Albumin_Protein_Integration_Z-001-0575D]]
+- [[Glycemic_Oxalate_Management_Z-001-0575F]]
+- [[Protein_Intake_Assessment_Z-001-0575C]]
+- [[Serum_Albumin_Prognostic_Z-001-0575B]]
+- [[ShortTerm_HighProtein_Protocol_Z-001-0575E]]
+
+## Source
+
+[[CKD_Nutritional_Assessment_-_Albumin_vs_Intake-_L-001-0575_v4.0]]
+
+## Related Zettels from Same Source
+
+- [[Albumin_Protein_Integration_Z-001-0575D]]
+- [[Glycemic_Oxalate_Management_Z-001-0575F]]
+- [[Protein_Intake_Assessment_Z-001-0575C]]
+- [[Serum_Albumin_Prognostic_Z-001-0575B]]
+- [[ShortTerm_HighProtein_Protocol_Z-001-0575E]]
 
 ## Core Concepts
 

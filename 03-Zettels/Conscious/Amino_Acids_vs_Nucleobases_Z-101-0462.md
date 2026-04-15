@@ -13,6 +13,62 @@ extraction-date: 2026-03-04
 ---
 
 # Amino Acids vs Nucleobases — Molecular Building Blocks
+## Related Zettels from Same Source
+
+- [[Adenosine_Receptors_Sleep_Regulation_Z-101-0452]]
+- [[ATP_Universal_Energy_Currency_Z-101-0451]]
+- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]]
+- [[Meteoritic_Nucleobases_Panspermia_Z-101-0455]]
+- [[Purine_vs_Pyrimidine_Structure_Z-101-0453]]
+- [[RNA_World_Hypothesis_Evolution_Z-101-0456]]
+
+## Source
+
+[[L-101-0045A_Adenosine_Adenine_Biochemistry_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Adenosine_Receptors_Sleep_Regulation_Z-101-0452]]
+- [[ATP_Universal_Energy_Currency_Z-101-0451]]
+- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]]
+- [[Meteoritic_Nucleobases_Panspermia_Z-101-0455]]
+- [[Purine_vs_Pyrimidine_Structure_Z-101-0453]]
+- [[RNA_World_Hypothesis_Evolution_Z-101-0456]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Adenosine_Receptors_Sleep_Regulation_Z-101-0452]]
+- [[ATP_Universal_Energy_Currency_Z-101-0451]]
+- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]]
+- [[Meteoritic_Nucleobases_Panspermia_Z-101-0455]]
+- [[Purine_vs_Pyrimidine_Structure_Z-101-0453]]
+- [[RNA_World_Hypothesis_Evolution_Z-101-0456]]
+
+## Source
+
+[[L-101-0045A_Adenosine_Adenine_Biochemistry_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Adenosine_Receptors_Sleep_Regulation_Z-101-0452]]
+- [[ATP_Universal_Energy_Currency_Z-101-0451]]
+- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]]
+- [[Meteoritic_Nucleobases_Panspermia_Z-101-0455]]
+- [[Purine_vs_Pyrimidine_Structure_Z-101-0453]]
+- [[RNA_World_Hypothesis_Evolution_Z-101-0456]]
 
 ## Core Claim
 **Amino acids and nucleobases are both nitrogen-containing building blocks of life with fundamentally different structures and functions — amino acids have carboxyl groups (oxygen-containing) enabling peptide bond formation, while nucleobases are primarily nitrogenous rings that can exist in anoxic conditions** — this distinction has implications for prebiotic chemistry and the sequence of life's molecular origins.

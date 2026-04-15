@@ -13,6 +13,50 @@ extraction-date: 2026-03-08
 ---
 
 # Clinician Training Competency Checklist
+## Related Zettels from Same Source
+
+- [[Clinic_Patient_Flow_Operations_Z-001-1077]]
+- [[Follow_Up_Assessment_Rhythms_Z-001-1079]]
+- [[Metabolomics_Quality_Standards_Z-001-1078]]
+
+## Source
+
+[[L-001-0597_Metabolomics_Clinic_Operations_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Clinic_Patient_Flow_Operations_Z-001-1077]]
+- [[Follow_Up_Assessment_Rhythms_Z-001-1079]]
+- [[Metabolomics_Quality_Standards_Z-001-1078]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Clinic_Patient_Flow_Operations_Z-001-1077]]
+- [[Follow_Up_Assessment_Rhythms_Z-001-1079]]
+- [[Metabolomics_Quality_Standards_Z-001-1078]]
+
+## Source
+
+[[L-001-0597_Metabolomics_Clinic_Operations_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Clinic_Patient_Flow_Operations_Z-001-1077]]
+- [[Follow_Up_Assessment_Rhythms_Z-001-1079]]
+- [[Metabolomics_Quality_Standards_Z-001-1078]]
 
 ## Core Claim
 **Competency verification at each training stage — including biochemistry knowledge, OAT interpretation, patient communication, treatment planning, and quality standards — ensures new clinicians demonstrate proficiency before independent practice, maintaining clinical quality and patient safety.**

@@ -11,6 +11,18 @@ extraction-date: 2026-03-11
 ---
 
 # Ketone vs Glycolysis — Mitochondrial Entry Differences
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Ketone bodies and glucose follow distinct cellular routes to mitochondrial acetyl-CoA: ketones enter mitochondria directly via monocarboxylate transporters (MCTs) and are converted to acetyl-CoA intramitochondrially, while glucose requires cytosolic glycolysis to pyruvate, mitochondrial pyruvate transport, and PDH-mediated conversion to acetyl-CoA, with ketones bypassing glycolytic regulation and entering the energy production pathway more directly.
@@ -118,6 +130,12 @@ Ketones → Acetoacetate → SCOT/Thiolase → Acetyl-CoA → Krebs
 - [[BHB_Production_Fatty_Acids_Z-001-1256]] — Ketone production
 - [[Ketolysis_SCOT_Mechanism_Z-001-1257]] — Ketone utilization
 - [[ATP_Yield_Comparison_Z-001-1258]] — Energy efficiency
+
+## Related Zettels from Same Source
+
+- [[ATP_Yield_Comparison_Z-001-1258]]
+- [[BHB_Production_Fatty_Acids_Z-001-1256]]
+- [[Ketolysis_SCOT_Mechanism_Z-001-1257]]
 
 ## Source
 [[L-001-0655_Ketone_Body_Metabolism_Deep_Dive_CGPT-0647]]

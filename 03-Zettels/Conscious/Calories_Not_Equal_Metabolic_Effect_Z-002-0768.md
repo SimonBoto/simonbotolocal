@@ -15,6 +15,18 @@ related: []
 ---
 
 # Calories Are Not Equal — Metabolic and Hormonal Effects Differ
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Calories are not metabolically equivalent** — the "calories in, calories out" model fails because different macronutrients have different thermic effects, hormonal impacts, and metabolic consequences. A calorie of protein behaves differently than a calorie of carbohydrate or fat.
@@ -72,6 +84,11 @@ related: []
 | **Higher protein intake** | Preserves muscle, higher TEF |
 | **Lower carbohydrate** | Better insulin sensitivity |
 | **Adequate healthy fats** | Hormone production, satiety |
+
+## Related Zettels from Same Source
+
+- [[Low_Carb_Increases_Energy_Expenditure_Z-002-0769]]
+- [[Thermic_Effect_Macronutrients_Differ_Z-002-0770]]
 
 ## Source
 - **LitNote:** [[L-002-0210_Not_All_Calories_Equal]]

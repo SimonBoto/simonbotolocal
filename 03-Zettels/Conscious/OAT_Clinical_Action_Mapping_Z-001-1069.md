@@ -13,6 +13,54 @@ extraction-date: 2026-03-08
 ---
 
 # OAT Clinical Action Mapping
+## Related Zettels from Same Source
+
+- [[OAT_Category_Interpretation_Framework_Z-001-1065]]
+- [[OAT_Gut_Dysbiosis_Patterns_Z-001-1068]]
+- [[OAT_Mitochondrial_Patterns_Z-001-1067]]
+- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]]
+
+## Source
+
+[[L-001-0594_OAT_Interpretation_Clinical_Protocol_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[OAT_Category_Interpretation_Framework_Z-001-1065]]
+- [[OAT_Gut_Dysbiosis_Patterns_Z-001-1068]]
+- [[OAT_Mitochondrial_Patterns_Z-001-1067]]
+- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[OAT_Category_Interpretation_Framework_Z-001-1065]]
+- [[OAT_Gut_Dysbiosis_Patterns_Z-001-1068]]
+- [[OAT_Mitochondrial_Patterns_Z-001-1067]]
+- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]]
+
+## Source
+
+[[L-001-0594_OAT_Interpretation_Clinical_Protocol_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[OAT_Category_Interpretation_Framework_Z-001-1065]]
+- [[OAT_Gut_Dysbiosis_Patterns_Z-001-1068]]
+- [[OAT_Mitochondrial_Patterns_Z-001-1067]]
+- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]]
 
 ## Core Claim
 **Specific OAT markers map directly to targeted clinical interventions — with elevated pyruvate indicating B1 need, methylmalonate requiring B12, indican suggesting digestive support, and lactate/pyruvate ratios guiding mitochondrial support — enabling precise, mechanism-based treatment rather than empiric supplementation.**

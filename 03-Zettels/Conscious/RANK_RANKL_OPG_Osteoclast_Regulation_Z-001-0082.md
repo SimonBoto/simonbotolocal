@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 # RANK RANKL OPG Osteoclast Regulation
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 The RANK/RANKL/OPG system is the master regulator of osteoclast differentiation. RANKL (from osteoblasts) binds RANK on osteoclast precursors to promote differentiation. OPG (osteoprotegerin) is a decoy receptor that inhibits this process.
 

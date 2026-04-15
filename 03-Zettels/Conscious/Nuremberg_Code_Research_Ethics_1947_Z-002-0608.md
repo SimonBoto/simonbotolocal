@@ -14,8 +14,60 @@ created: 2026-03-27
 ---
 
 # Nuremberg Code for  Ethics (1947)
+## Related Zettels from Same Source
+
+- [[Belmont_Report_Ethical_Principles_1979_Z-002-0610]]
+- [[CIOMS_International_Research_Ethics_Z-002-0611]]
+- [[Declaration_Helsinki_Research_Ethics_Z-002-0609]]
+- [[ICH_Good_Clinical_Practice_GCP_Z-002-0612]]
+- [[Tuskegee_Syphilis_Study_Ethics_Case_Z-002-0622]]
+
+## Source
+
+[[LitNote_Historical_Ethics_Guidelines_L-002-0602]
+
+## Related Zettels from Same Source
+
+- [[Belmont_Report_Ethical_Principles_1979_Z-002-0610]]
+- [[CIOMS_International_Research_Ethics_Z-002-0611]]
+- [[Declaration_Helsinki_Research_Ethics_Z-002-0609]]
+- [[ICH_Good_Clinical_Practice_GCP_Z-002-0612]]
+- [[Tuskegee_Syphilis_Study_Ethics_Case_Z-002-0622]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 The first international ethics code for human subjects research, established during the Nuremberg Doctors' Trial in response to Nazi medical atrocities. Introduced the absolute requirement for voluntary informed consent.
+
+## Related Zettels from Same Source
+
+- [[Belmont_Report_Ethical_Principles_1979_Z-002-0610]]
+- [[CIOMS_International_Research_Ethics_Z-002-0611]]
+- [[Declaration_Helsinki_Research_Ethics_Z-002-0609]]
+- [[ICH_Good_Clinical_Practice_GCP_Z-002-0612]]
+- [[Tuskegee_Syphilis_Study_Ethics_Case_Z-002-0622]]
+
+## Source
+
+[[LitNote_Historical_Ethics_Guidelines_L-002-0602]
+
+## Related Zettels from Same Source
+
+- [[Belmont_Report_Ethical_Principles_1979_Z-002-0610]]
+- [[CIOMS_International_Research_Ethics_Z-002-0611]]
+- [[Declaration_Helsinki_Research_Ethics_Z-002-0609]]
+- [[ICH_Good_Clinical_Practice_GCP_Z-002-0612]]
+- [[Tuskegee_Syphilis_Study_Ethics_Case_Z-002-0622]]
 
 ## Core Principle
 

@@ -18,8 +18,28 @@ status: conscious
 ---
 
 # Sensitivity Analysis in Meta-Analysis
+## Source
+
+[[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > **Definition:** Sensitivity analysis is a systematic approach to assess the robustness of meta-analysis conclusions by examining how results change when different assumptions, methods, or subsets of studies are used.
+
+## Source
+
+[[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]
 
 ## Core Principle
 

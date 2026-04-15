@@ -14,6 +14,18 @@ extraction-date: 2026-04-15
 ---
 
 # Orthomolecular Medicine Pauling Legacy
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Pauling founded orthomolecular medicine — the practice of preventing and treating disease by providing the body with optimal amounts of natural substances it requires — a paradigm that challenges deficiency-based medicine and is gaining scientific validation decades later.
 
@@ -138,6 +150,16 @@ Pauling founded orthomolecular medicine — the practice of preventing and treat
 ## Significance
 
 Pauling founded orthomolecular medicine — the practice of preventing and treating disease by providing the body with optimal amounts of natural substances it requires — a paradigm that challenges deficiency-based medicine and is gaining scientific validation decades later.
+
+## Related Zettels from Same Source
+
+- [[High_Dose_Vitamin_C_Cancer_Therapy_Z-001-0626]]
+- [[Human_GULO_Gene_Loss_Vitamin_C_Dependency_Z-001-0621]]
+- [[Medical_Establishment_Suppression_Pauling_Z-001-0625]]
+- [[Pauling_Scientific_Credentials_Vitamin_C_Z-001-0620]]
+- [[Vitamin_C_Biochemical_Functions_Z-001-0623]]
+- [[Vitamin_C_Evolutionary_Mismatch_Modern_Diet_Z-001-0624]]
+- [[Vitamin_C_RDA_vs_Optimal_Intake_Z-001-0622]]
 
 ## Source
 [[LitNote_KingOfVitamins_Pauling_Vitamin_C_2025_L-001-0656]] — Vitamin King (2025)

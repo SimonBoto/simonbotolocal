@@ -19,10 +19,30 @@ extraction-date: 2026-04-15
 ---
 
 # Kidney Function — eGFR and Creatinine Interpretation
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **Estimated glomerular filtration rate (eGFR)** is the best overall measure of kidney function. **Creatinine** is the filtration marker, but interpretation requires consideration of muscle mass, diet, and medications.
 
 ---
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Principle
 

@@ -15,6 +15,18 @@ related: []
 ---
 
 # Hong Kong — Highest Meat Consumption, Longest Life Expectancy
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Hong Kong has the world's highest meat consumption (~145 kg/person/year) AND the world's longest life expectancy (~85.3 years)** — a direct contradiction to the assumption that meat consumption reduces lifespan, challenging simplistic anti-meat dietary recommendations.
@@ -94,6 +106,11 @@ related: []
 - **Fresh, unprocessed** meat if consuming
 - **Vegetables** equally important
 - **Lifestyle factors** matter greatly
+
+## Related Zettels from Same Source
+
+- [[Meat_Paradox_Not_Harmful_Context_Z-002-0766]]
+- [[Quality_Not_Quantity_Meat_Health_Z-002-0767]]
 
 ## Source
 - **LitNote:** [[L-002-0209_Hong_Kong_Meat_Longevity_Paradox]]

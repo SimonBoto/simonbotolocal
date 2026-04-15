@@ -12,8 +12,44 @@ extraction-date: 2026-03-01
 ---
 
 #  to Omega-3 Ratio — ary vs. Modern
+## Related Zettels from Same Source
+
+- [[Seed_Oil_Rise_US_Diet_Government_Role_Z-001-0248]]
+
+## Source
+
+[[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]
+
+## Related Zettels from Same Source
+
+- [[Seed_Oil_Rise_US_Diet_Government_Role_Z-001-0248]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Human diets evolved with 1-4:1 omega-6:omega-3 ratios, but modern Western diets shifted to 15-20:1, creating pro-inflammatory metabolic environments.
+
+## Related Zettels from Same Source
+
+- [[Seed_Oil_Rise_US_Diet_Government_Role_Z-001-0248]]
+
+## Source
+
+[[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]
+
+## Related Zettels from Same Source
+
+- [[Seed_Oil_Rise_US_Diet_Government_Role_Z-001-0248]]
 
 ## Core Principle
 
@@ -31,6 +67,10 @@ extraction-date: 2026-03-01
 
 > Human diets evolved with 1-4:1 omega-6:omega-3 ratios, but modern Western diets shifted to 15-20:1, creating pro-inflammatory metabolic environments.
 
+## Related Zettels from Same Source
+
+- [[Seed_Oil_Rise_US_Diet_Government_Role_Z-001-0248]]
+
 ## Sources
 
 **Omega-6 (Linoleic Acid):**
@@ -41,6 +81,10 @@ extraction-date: 2026-03-01
 **Omega-3:**
 - **ALA:** Flax, chia, walnuts
 - **EPA/DHA:** Fatty fish, fish oil
+
+## Related Zettels from Same Source
+
+- [[Seed_Oil_Rise_US_Diet_Government_Role_Z-001-0248]]
 
 ## Core Principle
 

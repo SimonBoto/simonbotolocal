@@ -15,6 +15,18 @@ related: []
 ---
 
 # Insulin More Predictive of CVD Than Glucose
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Elevated insulin levels are stronger independent predictors of cardiovascular mortality than elevated glucose levels** — challenging the glucose-centric model of diabetes complications and highlighting insulin resistance/hyperinsulinemia as the primary driver of cardiovascular disease.
@@ -74,6 +86,11 @@ related: []
 
 > "Zhao 2019 analysis demonstrates that insulin levels predict CVD mortality independent of glucose levels; patients with normal glucose but elevated insulin (pre-diabetes/insulin resistance) have higher CVD risk than previously recognized."
 > — Zhao et al., 2019
+
+## Related Zettels from Same Source
+
+- [[Hyperinsulinemia_Drives_CVD_Independent_Glycemia_Z-002-0682]]
+- [[Insulin_Centric_vs_Glucose_Centric_Paradigm_Z-002-0683]]
 
 ## Source
 - **LitNote:** [[L-002-0182_High_Glucose_vs_Insulin_What_Matters]]

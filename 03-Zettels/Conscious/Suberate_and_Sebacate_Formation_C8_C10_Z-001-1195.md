@@ -13,6 +13,26 @@ extraction-date: 2026-03-08
 ---
 
 # Suberate and Sebacate Formation — C8 and C10 Dicarboxylic Acids
+## Source
+
+[[L-001-0628_Dicarboxylic_Acid_Formation_Fatty_Acids_CGPT-0586]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[L-001-0628_Dicarboxylic_Acid_Formation_Fatty_Acids_CGPT-0586]]
 
 ## Core Claim
 **Suberate (C8, octanedioic acid) and sebacate (C10, decanedioic acid) are formed through ω-oxidation of medium-chain fatty acids when mitochondrial β-oxidation is impaired — with suberate indicating C8-C10 fatty acid metabolism issues and sebacate reflecting more severe impairment of C10-C12 fatty acid oxidation, providing complementary biomarker information to adipate in metabolic dysfunction assessment.**

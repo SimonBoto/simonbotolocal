@@ -14,8 +14,52 @@ created: 2026-03-27
 ---
 
 # IRB Non-Response Protocol
+## Related Zettels from Same Source
+
+- [[Independent_Review_IRB_Ethics_Z-002-0605]]
+- [[IRB_Communication_Template_Z-002-0614]]
+- [[IRB_Escalation_Pathways_Z-002-0615]]
+
+## Source
+
+[[LitNote_Ethics_Committee_Communication_L-002-0603]
+
+## Related Zettels from Same Source
+
+- [[Independent_Review_IRB_Ethics_Z-002-0605]]
+- [[IRB_Communication_Template_Z-002-0614]]
+- [[IRB_Escalation_Pathways_Z-002-0615]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Ethics committees may not respond promptly. Systematic follow-up protects your timeline while maintaining professional relationships.
+
+## Related Zettels from Same Source
+
+- [[Independent_Review_IRB_Ethics_Z-002-0605]]
+- [[IRB_Communication_Template_Z-002-0614]]
+- [[IRB_Escalation_Pathways_Z-002-0615]]
+
+## Source
+
+[[LitNote_Ethics_Committee_Communication_L-002-0603]
+
+## Related Zettels from Same Source
+
+- [[Independent_Review_IRB_Ethics_Z-002-0605]]
+- [[IRB_Communication_Template_Z-002-0614]]
+- [[IRB_Escalation_Pathways_Z-002-0615]]
 
 ## Core Principle
 

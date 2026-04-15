@@ -15,6 +15,18 @@ related: []
 ---
 
 # Historic Reversal — Obese Children Now Outnumber Undernourished Globally
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **For the first time in human history, obese children outnumber undernourished children globally** — a historic reversal where obesity (9.4%) now exceeds underweight (9.2%) among school-age children and adolescents worldwide, driven by ultra-processed food environments.
@@ -73,6 +85,11 @@ related: []
 ## Significance
 
 | **Autoimmune diseases** | Linked to obesity |
+
+## Related Zettels from Same Source
+
+- [[Reversible_Childhood_Obesity_Z-002-0785]]
+- [[UPF_Childhood_Obesity_Drivers_Z-002-0784]]
 
 ## Source
 - **LitNote:** [[L-002-0215_Pediatric_Obesity_Historic_Reversal]]

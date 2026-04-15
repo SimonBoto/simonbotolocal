@@ -20,6 +20,62 @@ status: conscious
 ---
 
 # Bisphosphonate Duration Guidelines
+## Related Zettels from Same Source
+
+- [[Anabolic_Therapy_Duration_Guidelines_Z-001-0139]]
+- [[Bisphosphonates_Mechanism_Side_Effects_Z-001-0084]]
+- [[Denosumab_Duration_Guidelines_Z-001-0138]]
+- [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]]
+- [[Individualized_Duration_Framework_Z-001-0140]]
+- [[Teriparatide_PTH_1-34_Intermittent_Anabolic_Therapy_Z-001-0105]]
+
+## Source
+
+Medication_Duration_Guidelines_L-001-0045L_v4.0
+
+## Related Zettels from Same Source
+
+- [[Anabolic_Therapy_Duration_Guidelines_Z-001-0139]]
+- [[Bisphosphonates_Mechanism_Side_Effects_Z-001-0084]]
+- [[Denosumab_Duration_Guidelines_Z-001-0138]]
+- [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]]
+- [[Individualized_Duration_Framework_Z-001-0140]]
+- [[Teriparatide_PTH_1-34_Intermittent_Anabolic_Therapy_Z-001-0105]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Anabolic_Therapy_Duration_Guidelines_Z-001-0139]]
+- [[Bisphosphonates_Mechanism_Side_Effects_Z-001-0084]]
+- [[Denosumab_Duration_Guidelines_Z-001-0138]]
+- [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]]
+- [[Individualized_Duration_Framework_Z-001-0140]]
+- [[Teriparatide_PTH_1-34_Intermittent_Anabolic_Therapy_Z-001-0105]]
+
+## Source
+
+Medication_Duration_Guidelines_L-001-0045L_v4.0
+
+## Related Zettels from Same Source
+
+- [[Anabolic_Therapy_Duration_Guidelines_Z-001-0139]]
+- [[Bisphosphonates_Mechanism_Side_Effects_Z-001-0084]]
+- [[Denosumab_Duration_Guidelines_Z-001-0138]]
+- [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]]
+- [[Individualized_Duration_Framework_Z-001-0140]]
+- [[Teriparatide_PTH_1-34_Intermittent_Anabolic_Therapy_Z-001-0105]]
 
 ## Oral Bisphosphonates
 

@@ -15,6 +15,18 @@ related: []
 ---
 
 # Food System Failure Requires Policy Intervention
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 The childhood obesity epidemic represents a **systemic failure of food production, marketing, and regulatory systems** that requires policy-level intervention rather than individual behavior change — including restrictions on ultra-processed food marketing to children, sugar taxes, and food environment redesign.
@@ -92,6 +104,11 @@ The childhood obesity epidemic represents a **systemic failure of food productio
 | **National** | Taxes, regulations, subsidies |
 | **Local** | Zoning, school programs |
 | **Community** | Access, education, support |
+
+## Related Zettels from Same Source
+
+- [[Historic_Reversal_Obese_Children_Outnumber_Undernourished_Z-002-0672]]
+- [[Ultra_Processed_Foods_Drive_Pediatric_Metabolic_Disease_Z-002-0673]]
 
 ## Source
 - **LitNote:** [[L-002-0179_Childhood_Obesity_Exceeds_Undernutrition]]

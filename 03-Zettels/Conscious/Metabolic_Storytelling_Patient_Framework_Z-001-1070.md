@@ -13,6 +13,50 @@ extraction-date: 2026-03-08
 ---
 
 # Metabolic Storytelling Patient Framework
+## Related Zettels from Same Source
+
+- [[Difficult_Conversation_Navigation_Z-001-1072]]
+- [[Metabolomics_Report_Structure_Standards_Z-001-1073]]
+- [[Patient_Objection_Response_Scripts_Z-001-1071]]
+
+## Source
+
+[[L-001-0595_Patient_Communication_Scripts_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Difficult_Conversation_Navigation_Z-001-1072]]
+- [[Metabolomics_Report_Structure_Standards_Z-001-1073]]
+- [[Patient_Objection_Response_Scripts_Z-001-1071]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Difficult_Conversation_Navigation_Z-001-1072]]
+- [[Metabolomics_Report_Structure_Standards_Z-001-1073]]
+- [[Patient_Objection_Response_Scripts_Z-001-1071]]
+
+## Source
+
+[[L-001-0595_Patient_Communication_Scripts_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Difficult_Conversation_Navigation_Z-001-1072]]
+- [[Metabolomics_Report_Structure_Standards_Z-001-1073]]
+- [[Patient_Objection_Response_Scripts_Z-001-1071]]
 
 ## Core Claim
 **Metabolic storytelling explains complex biochemistry using accessible human language and relatable analogies — transforming pathobabble into meaningful narratives that build trust, increase comprehension, and drive patient compliance by making abstract concepts tangible and actionable.**

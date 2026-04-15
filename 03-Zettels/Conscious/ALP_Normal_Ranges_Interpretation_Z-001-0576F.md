@@ -21,6 +21,18 @@ status: conscious
 ---
 
 # ALP Normal Ranges and Interpretation
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Interpretation of alkaline phosphatase levels requires consideration of reference ranges, physiological variations, and clinical context to distinguish between mild elevations (common and often benign), moderate elevations (requiring investigation), and marked elevations (indicating significant pathology).
 
@@ -40,6 +52,14 @@ ALP interpretation: Mild elevation (common), Moderate (investigate), Marked (sig
 ## Clinical Significance
 
 Appropriate ALP interpretation guides clinical response, preventing both unnecessary investigations for benign elevations and missed diagnoses in cases of pathological elevations.
+
+## Related Zettels from Same Source
+
+- [[ALP_Isoenzymes_Tissue_Sources_Z-001-0576A]]
+- [[Breast_Pagets_Disease_Distinct_Entity_Z-001-0576D]]
+- [[Differentiating_ALP_Sources_Z-001-0576E]]
+- [[Elevated_ALP_Clinical_Significance_Z-001-0576B]]
+- [[Pagets_Disease_Bone_Pathophysiology_Z-001-0576C]]
 
 ## Source
 

@@ -15,6 +15,18 @@ related: []
 ---
 
 # Lp(a) Promotes Thrombosis — Evolutionary Survival Mechanism
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Lp(a) promotes clot formation** through its unique apolipoprotein(a) component — an evolutionary mechanism that aided survival through faster bleeding cessation, now a liability in modern times with longer lifespans.
@@ -49,6 +61,11 @@ related: []
 | **Heart attacks** | Clot formation |
 | **Strokes** | Clot formation |
 | **Peripheral disease** | Clot formation |
+
+## Related Zettels from Same Source
+
+- [[Lpa_No_Current_Drugs_Trials_Underway_Z-002-0815]]
+- [[Lpa_Risk_Levels_Dose_Response_Interpretation_Z-002-0814]]
 
 ## Source
 - **LitNote:** [[L-002-0225_Lpa_Mechanism_Management]]

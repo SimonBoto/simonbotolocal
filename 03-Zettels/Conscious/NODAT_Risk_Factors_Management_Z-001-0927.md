@@ -14,6 +14,18 @@ updated: 2026-03-05
 ---
 
 # NODAT Risk Factors  Monitoring and Management
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **NODAT (New-Onset  After Transplantation):** Diabetes developing in previously non-diabetic transplant recipients, strongly associated with sirolimus use.
 

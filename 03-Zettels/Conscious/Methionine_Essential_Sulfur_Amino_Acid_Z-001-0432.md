@@ -24,6 +24,58 @@ extraction-date: 2026-03-01
 ---
 
 # Methionine — Essential Sulfur Amino Acid
+## Related Zettels from Same Source
+
+- [[Complete_Methionine_Oxidation_Energy_Z-001-0437]]
+- [[Cysteine_Metabolic_Fates_Glutathione_Z-001-0435]]
+- [[Glutathione_Master_Antioxidant_Z-001-0436]]
+- [[Methionine_Cycle_Activation_Regeneration_Z-001-0433]]
+- [[Transsulfuration_Pathway_Cysteine_Synthesis_Z-001-0434]]
+
+## Source
+
+[[LitNote_Methionine_Catabolism_L-001-0406]]
+
+## Related Zettels from Same Source
+
+- [[Complete_Methionine_Oxidation_Energy_Z-001-0437]]
+- [[Cysteine_Metabolic_Fates_Glutathione_Z-001-0435]]
+- [[Glutathione_Master_Antioxidant_Z-001-0436]]
+- [[Methionine_Cycle_Activation_Regeneration_Z-001-0433]]
+- [[Transsulfuration_Pathway_Cysteine_Synthesis_Z-001-0434]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Complete_Methionine_Oxidation_Energy_Z-001-0437]]
+- [[Cysteine_Metabolic_Fates_Glutathione_Z-001-0435]]
+- [[Glutathione_Master_Antioxidant_Z-001-0436]]
+- [[Methionine_Cycle_Activation_Regeneration_Z-001-0433]]
+- [[Transsulfuration_Pathway_Cysteine_Synthesis_Z-001-0434]]
+
+## Source
+
+[[LitNote_Methionine_Catabolism_L-001-0406]]
+
+## Related Zettels from Same Source
+
+- [[Complete_Methionine_Oxidation_Energy_Z-001-0437]]
+- [[Cysteine_Metabolic_Fates_Glutathione_Z-001-0435]]
+- [[Glutathione_Master_Antioxidant_Z-001-0436]]
+- [[Methionine_Cycle_Activation_Regeneration_Z-001-0433]]
+- [[Transsulfuration_Pathway_Cysteine_Synthesis_Z-001-0434]]
 
 ## Core Claim
 **Methionine is an essential sulfur-containing amino acid that serves as the universal methyl donor (via SAM) and gateway to both transsulfuration (cysteine/glutathione synthesis) and complete energy oxidation** — making it a critical hub connecting protein metabolism, methylation capacity, antioxidant defense, and energy production.

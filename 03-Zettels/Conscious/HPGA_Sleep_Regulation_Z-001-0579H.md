@@ -20,8 +20,28 @@ status: conscious
 ---
 
 # HPGA Sleep Regulation
+## Source
+
+[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Sleep and circadian rhythms profoundly influence the hypothalamic-pituitary-gonadal axis, with reciprocal regulation between sleep-wake cycles and reproductive hormone secretion.
+
+## Source
+
+[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]
 
 ## Core Principle
 

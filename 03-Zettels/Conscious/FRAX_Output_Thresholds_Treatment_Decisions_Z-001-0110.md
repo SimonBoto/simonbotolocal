@@ -12,6 +12,18 @@ extraction-date: 2026-04-15
 ---
 
 # FRAX Output Thresholds — Treatment Decision Guidelines
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Principle
 FRAX provides **10-year probability estimates** that guide pharmacologic intervention decisions through established risk thresholds.
@@ -156,6 +168,15 @@ For borderline cases (15–25% major fracture):
 
 tags: [zettel, frax, treatment-thresholds, osteoporosis, guidelines, intervention, conscious]
 
+## Related Zettels from Same Source
+
+- [[Fragility_Fractures_Morbidity_Mortality_Z-001-0078]]
+- [[FRAX_Adjustments_TBS_Falls_Glucocorticoids_Z-001-0112]]
+- [[FRAX_Input_Variables_Clinical_Risk_Factors_Z-001-0109]]
+- [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]]
+- [[Osteopenia_T_score_Definition_Minus_1_to_2.5_Z-001-0076]]
+- [[Osteoporosis_T_score_Definition_Minus_2.5_Z-001-0077]]
+
 ## Source
 [[LitNote_FRAX_Risk_Assessment_Tool_L-001-0017]
 
@@ -164,6 +185,15 @@ tags: [zettel, frax, treatment-thresholds, osteoporosis, guidelines, interventio
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
 
+
+## Related Zettels from Same Source
+
+- [[Fragility_Fractures_Morbidity_Mortality_Z-001-0078]]
+- [[FRAX_Adjustments_TBS_Falls_Glucocorticoids_Z-001-0112]]
+- [[FRAX_Input_Variables_Clinical_Risk_Factors_Z-001-0109]]
+- [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]]
+- [[Osteopenia_T_score_Definition_Minus_1_to_2.5_Z-001-0076]]
+- [[Osteoporosis_T_score_Definition_Minus_2.5_Z-001-0077]]
 
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]

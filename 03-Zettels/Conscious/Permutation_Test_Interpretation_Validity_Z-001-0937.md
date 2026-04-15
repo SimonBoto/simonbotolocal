@@ -12,6 +12,18 @@ extraction-date: 2026-04-15
 ---
 
 # Permutation Test Interpretation — Validating OPLS-DA Models
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Purpose
 Permutation tests determine whether OPLS-DA model separation is **better than random chance** by comparing actual model performance to performance on randomized class labels.

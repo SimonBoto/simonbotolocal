@@ -24,6 +24,54 @@ extraction-date: 2026-03-08
 ---
 
 # Triose Roles — Glycolysis, PPP, and Krebs Integration
+## Related Zettels from Same Source
+
+- [[Evolutionary_Origins_Glycolysis_Ancient_Metabolism_Z-001-1092]]
+- [[Glucose_Ribose_Interconversion_PPP_Link_Z-001-1091]]
+- [[Pentose_Phosphate_Pathway_Ribose_NADPH_Z-001-1090]]
+- [[Trioses_Simplest_Sugars_Glyceraldehyde_Dihydroxyacetone_Z-001-1088]]
+
+## Source
+
+[[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]]
+
+## Related Zettels from Same Source
+
+- [[Evolutionary_Origins_Glycolysis_Ancient_Metabolism_Z-001-1092]]
+- [[Glucose_Ribose_Interconversion_PPP_Link_Z-001-1091]]
+- [[Pentose_Phosphate_Pathway_Ribose_NADPH_Z-001-1090]]
+- [[Trioses_Simplest_Sugars_Glyceraldehyde_Dihydroxyacetone_Z-001-1088]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Evolutionary_Origins_Glycolysis_Ancient_Metabolism_Z-001-1092]]
+- [[Glucose_Ribose_Interconversion_PPP_Link_Z-001-1091]]
+- [[Pentose_Phosphate_Pathway_Ribose_NADPH_Z-001-1090]]
+- [[Trioses_Simplest_Sugars_Glyceraldehyde_Dihydroxyacetone_Z-001-1088]]
+
+## Source
+
+[[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]]
+
+## Related Zettels from Same Source
+
+- [[Evolutionary_Origins_Glycolysis_Ancient_Metabolism_Z-001-1092]]
+- [[Glucose_Ribose_Interconversion_PPP_Link_Z-001-1091]]
+- [[Pentose_Phosphate_Pathway_Ribose_NADPH_Z-001-1090]]
+- [[Trioses_Simplest_Sugars_Glyceraldehyde_Dihydroxyacetone_Z-001-1088]]
 
 ## Core Claim
 **Trioses (G3P and DHAP) serve as metabolic crossroads connecting glycolysis, the pentose phosphate pathway, and the Krebs cycle—this three-way integration enables cells to balance energy extraction, biosynthesis, and carbon flow based on metabolic demand** — the interconversion of DHAP to G3P is the critical junction.

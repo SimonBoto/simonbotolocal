@@ -13,6 +13,54 @@ extraction-date: 2026-03-04
 ---
 
 # Formamide Chemistry — Alternative Prebiotic Pathway
+## Related Zettels from Same Source
+
+- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]]
+- [[Meteoritic_Nucleobases_Panspermia_Z-101-0455]]
+- [[RNA_World_Hypothesis_Evolution_Z-101-0456]]
+- [[Timeline_Prebiotic_Chemistry_to_LUCA_Z-101-0464]]
+
+## Source
+
+[[L-101-0045B_Prebiotic_Chemistry_HCN_Adenine_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]]
+- [[Meteoritic_Nucleobases_Panspermia_Z-101-0455]]
+- [[RNA_World_Hypothesis_Evolution_Z-101-0456]]
+- [[Timeline_Prebiotic_Chemistry_to_LUCA_Z-101-0464]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]]
+- [[Meteoritic_Nucleobases_Panspermia_Z-101-0455]]
+- [[RNA_World_Hypothesis_Evolution_Z-101-0456]]
+- [[Timeline_Prebiotic_Chemistry_to_LUCA_Z-101-0464]]
+
+## Source
+
+[[L-101-0045B_Prebiotic_Chemistry_HCN_Adenine_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]]
+- [[Meteoritic_Nucleobases_Panspermia_Z-101-0455]]
+- [[RNA_World_Hypothesis_Evolution_Z-101-0456]]
+- [[Timeline_Prebiotic_Chemistry_to_LUCA_Z-101-0464]]
 
 ## Mechanism
 

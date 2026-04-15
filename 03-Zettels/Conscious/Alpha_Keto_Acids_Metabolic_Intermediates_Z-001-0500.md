@@ -13,6 +13,26 @@ extraction-date: 2026-03-04
 ---
 
 # Alpha-Keto Acids as Metabolic Intermediates
+## Source
+
+[[L-001-0046B_Amino_Acid_Networks_CGPT-0445]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[L-001-0046B_Amino_Acid_Networks_CGPT-0445]]
 
 ## Core Claim
 **α-Keto acids (2-oxo acids) are the carbon skeletons remaining after amino acid deamination — they serve as entry points to central metabolism, with pyruvate, oxaloacetate, and α-ketoglutarate being the primary gateways connecting amino acid catabolism to glycolysis, gluconeogenesis, and the Krebs cycle** — transamination reactions (all B6-dependent) interconvert amino acids and α-keto acids reversibly.

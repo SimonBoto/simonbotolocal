@@ -13,6 +13,50 @@ extraction-date: 2026-03-08
 ---
 
 # B Vitamin Cofactors Summary
+## Related Zettels from Same Source
+
+- [[Dehydrogenases_vs_Decarboxylases_Comparison_Z-001-1203]]
+- [[PLP_Vitamin_B6_Pyridoxal_Phosphate_Z-001-1201]]
+- [[TPP_Thiamine_Pyrophosphate_Mechanism_Z-001-1200]]
+
+## Source
+
+[[L-001-0630_Decarboxylation_Enzymes_Vitamin_Cofactors_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Dehydrogenases_vs_Decarboxylases_Comparison_Z-001-1203]]
+- [[PLP_Vitamin_B6_Pyridoxal_Phosphate_Z-001-1201]]
+- [[TPP_Thiamine_Pyrophosphate_Mechanism_Z-001-1200]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Dehydrogenases_vs_Decarboxylases_Comparison_Z-001-1203]]
+- [[PLP_Vitamin_B6_Pyridoxal_Phosphate_Z-001-1201]]
+- [[TPP_Thiamine_Pyrophosphate_Mechanism_Z-001-1200]]
+
+## Source
+
+[[L-001-0630_Decarboxylation_Enzymes_Vitamin_Cofactors_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Dehydrogenases_vs_Decarboxylases_Comparison_Z-001-1203]]
+- [[PLP_Vitamin_B6_Pyridoxal_Phosphate_Z-001-1201]]
+- [[TPP_Thiamine_Pyrophosphate_Mechanism_Z-001-1200]]
 
 ## Core Claim
 **B vitamins serve as essential cofactors in energy metabolism — with B1 (TPP), B2 (FAD/FMN), B3 (NAD+), B5 (CoA), and B6 (PLP) each playing distinct roles in decarboxylation, redox reactions, and acyl group transfer — with deficiencies causing characteristic clinical syndromes that reflect the specific metabolic pathways affected.**

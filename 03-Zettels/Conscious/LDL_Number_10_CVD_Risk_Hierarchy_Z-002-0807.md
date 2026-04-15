@@ -15,6 +15,18 @@ related: []
 ---
 
 # LDL is Number 10 in CVD Risk Factor Hierarchy
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Elevated LDL cholesterol ranks #10** in cardiovascular risk factor importance — below diabetes, insulin resistance, hypertension, smoking, HDL, triglycerides, sdLDL, body weight, and Lp(a).
@@ -51,6 +63,11 @@ related: []
 
 > "LDL-cholesterol and pharmaceutical treatments play a documented role, mainly due to plaque stabilization. However, risk is determined not only by LDL levels, but by particle quality characteristics."
 > — CVD risk analysis
+
+## Related Zettels from Same Source
+
+- [[Metabolic_Cluster_80_Percent_CVD_Risk_Z-002-0808]]
+- [[sdLDL_Quality_Matters_More_Than_LDL_Quantity_Z-002-0809]]
 
 ## Source
 - **LitNote:** [[L-002-0223_CVD_Risk_Factors_Ranking]]

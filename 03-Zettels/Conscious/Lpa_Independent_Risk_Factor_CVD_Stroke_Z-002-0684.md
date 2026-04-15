@@ -15,6 +15,18 @@ related: []
 ---
 
 # Lp(a) Independent Risk Factor for Heart Disease and Stroke
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Elevated lipoprotein(a) [Lp(a)]** is an independent, causal risk factor for atherosclerotic cardiovascular disease (ASCVD) and stroke that is **genetically determined, prevalent in 20-30% of the population**, and not captured by standard lipid panels — representing a major under-recognized cardiovascular risk.

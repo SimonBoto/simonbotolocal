@@ -15,6 +15,18 @@ related: []
 ---
 
 # Oxidized Omega-6 Causes Metabolic Damage — Mechanism of Harm
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Oxidized omega-6 fatty acids (linoleic acid) from heated seed oils create toxic aldehydes (4-HNE, MDA) that cause systemic inflammation, oxidative stress, and insulin resistance** — this is a primary mechanism linking seed oil frying to metabolic disease, independent of the calorie or macronutrient content of the food.
@@ -65,6 +77,11 @@ related: []
 | **Vascular inflammation** | Hypertension |
 | **Impaired nitric oxide** | Reduced vasodilation |
 
+## Related Zettels from Same Source
+
+- [[Healthier_Fat_Alternatives_Frying_Z-002-0773]]
+- [[Seed_Oil_Fried_Potatoes_20pct_Diabetes_Risk_Z-002-0771]]
+
 ## Sources of Oxidized Omega-6
 
 ### Dietary Sources
@@ -83,6 +100,11 @@ related: []
 | **Deodorization** | Masking rancidity |
 | **Storage** | Continued oxidation |
 | **Consumer heating** | Further damage |
+
+## Related Zettels from Same Source
+
+- [[Healthier_Fat_Alternatives_Frying_Z-002-0773]]
+- [[Seed_Oil_Fried_Potatoes_20pct_Diabetes_Risk_Z-002-0771]]
 
 ## Protection Strategies
 
@@ -115,6 +137,11 @@ related: []
 | **Oxidized LDL** | Lipid peroxidation |
 | **MDA (urine)** | Systemic oxidation |
 | **8-OHdG** | DNA oxidative damage |
+
+## Related Zettels from Same Source
+
+- [[Healthier_Fat_Alternatives_Frying_Z-002-0773]]
+- [[Seed_Oil_Fried_Potatoes_20pct_Diabetes_Risk_Z-002-0771]]
 
 ## Source
 - **LitNote:** [[L-002-0211_Fried_Potatoes_Seed_Oils_Diabetes]]

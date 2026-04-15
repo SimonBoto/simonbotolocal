@@ -13,6 +13,54 @@ source-reference: "[[Yang_2025_Aspirin_Metastasis_TXA2_Nature_R-001-0100]]"
 ---
 
 # Aspirin TXA2 Mechanism for Metastasis Prevention
+## Related Zettels from Same Source
+
+- [[Aspirin_Cancer_Immunomodulator_Not_Just_Anti_Platelet_Z-002-0877]]
+- [[Aspirin_Dosing_Cancer_Prevention_Low_Dose_Sufficient_Z-002-0879]]
+- [[Micrometastases_Immune_Vulnerability_Window_Z-002-0878]]
+- [[Platelet_COX1_Inhibition_T_Cell_Activation_Z-002-0876]]
+
+## Source
+
+[[L-002-0246_Aspirin_Metastasis_Immune_Mechanism]]
+
+## Related Zettels from Same Source
+
+- [[Aspirin_Cancer_Immunomodulator_Not_Just_Anti_Platelet_Z-002-0877]]
+- [[Aspirin_Dosing_Cancer_Prevention_Low_Dose_Sufficient_Z-002-0879]]
+- [[Micrometastases_Immune_Vulnerability_Window_Z-002-0878]]
+- [[Platelet_COX1_Inhibition_T_Cell_Activation_Z-002-0876]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Aspirin_Cancer_Immunomodulator_Not_Just_Anti_Platelet_Z-002-0877]]
+- [[Aspirin_Dosing_Cancer_Prevention_Low_Dose_Sufficient_Z-002-0879]]
+- [[Micrometastases_Immune_Vulnerability_Window_Z-002-0878]]
+- [[Platelet_COX1_Inhibition_T_Cell_Activation_Z-002-0876]]
+
+## Source
+
+[[L-002-0246_Aspirin_Metastasis_Immune_Mechanism]]
+
+## Related Zettels from Same Source
+
+- [[Aspirin_Cancer_Immunomodulator_Not_Just_Anti_Platelet_Z-002-0877]]
+- [[Aspirin_Dosing_Cancer_Prevention_Low_Dose_Sufficient_Z-002-0879]]
+- [[Micrometastases_Immune_Vulnerability_Window_Z-002-0878]]
+- [[Platelet_COX1_Inhibition_T_Cell_Activation_Z-002-0876]]
 
 ## The Core Mechanism
 

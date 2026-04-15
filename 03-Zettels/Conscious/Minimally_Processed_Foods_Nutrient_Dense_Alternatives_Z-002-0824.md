@@ -15,6 +15,18 @@ related: []
 ---
 
 # Minimally Processed Foods as Nutrient-Dense Alternatives
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Minimally processed foods provide nutrients and improve health** — any degree of processing removes nutrients and increases harmful content.
@@ -67,6 +79,11 @@ related: []
 | **2** | Replace packaged snacks with whole foods |
 | **3** | Cook meals from scratch |
 | **4** | Choose restaurants carefully |
+
+## Related Zettels from Same Source
+
+- [[UPF_Disrupts_Satiety_Metabolism_Inflammation_Z-002-0823]]
+- [[UPF_Multiple_Health_Risks_Umbrella_Review_45_Studies_Z-002-0822]]
 
 ## Source
 - **LitNote:** [[L-002-0228_UPF_Death_CVD_Obesity_Diabetes]]

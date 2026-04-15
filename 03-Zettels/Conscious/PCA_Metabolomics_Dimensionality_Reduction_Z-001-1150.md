@@ -14,6 +14,50 @@ created: 2026-03-08
 ---
 
 # PCA  Dimensionality Reduction
+## Related Zettels from Same Source
+
+- [[Multivariate_Analysis_PLS_OPLS_Regression_Z-001-1151]]
+- [[Power_Analysis_Sample_Size_METHAP_Z-001-1149]]
+- [[Validation_Cross_Validation_Model_Robustness_Z-001-1152]]
+
+## Source
+
+[[LitNote_Statistical_Analysis_Omics_L-001-0617]
+
+## Related Zettels from Same Source
+
+- [[Multivariate_Analysis_PLS_OPLS_Regression_Z-001-1151]]
+- [[Power_Analysis_Sample_Size_METHAP_Z-001-1149]]
+- [[Validation_Cross_Validation_Model_Robustness_Z-001-1152]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Multivariate_Analysis_PLS_OPLS_Regression_Z-001-1151]]
+- [[Power_Analysis_Sample_Size_METHAP_Z-001-1149]]
+- [[Validation_Cross_Validation_Model_Robustness_Z-001-1152]]
+
+## Source
+
+[[LitNote_Statistical_Analysis_Omics_L-001-0617]
+
+## Related Zettels from Same Source
+
+- [[Multivariate_Analysis_PLS_OPLS_Regression_Z-001-1151]]
+- [[Power_Analysis_Sample_Size_METHAP_Z-001-1149]]
+- [[Validation_Cross_Validation_Model_Robustness_Z-001-1152]]
 
 ## Overview
 Principal Component Analysis (PCA) reduces the complexity of high-dimensional metabolomics data by transforming correlated variables into uncorrelated principal components—enabling visualization and pattern recognition.

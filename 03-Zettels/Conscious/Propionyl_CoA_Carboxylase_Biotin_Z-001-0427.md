@@ -23,6 +23,58 @@ extraction-date: 2026-03-01
 ---
 
 # Propionyl-CoA Carboxylase — Biotin-Dependent Step
+## Related Zettels from Same Source
+
+- [[Amino_Acid_Sources_Propionyl_CoA_Z-001-0430]]
+- [[Methylmalonyl_CoA_Mutase_B12_Mechanism_Z-001-0428]]
+- [[Odd_Chain_Fatty_Acid_Oxidation_Z-001-0431]]
+- [[Propionate_Sources_Metabolic_Fate_Z-001-0426]]
+- [[Succinyl_CoA_Krebs_Anaplerosis_Z-001-0429]]
+
+## Source
+
+[[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]]
+
+## Related Zettels from Same Source
+
+- [[Amino_Acid_Sources_Propionyl_CoA_Z-001-0430]]
+- [[Methylmalonyl_CoA_Mutase_B12_Mechanism_Z-001-0428]]
+- [[Odd_Chain_Fatty_Acid_Oxidation_Z-001-0431]]
+- [[Propionate_Sources_Metabolic_Fate_Z-001-0426]]
+- [[Succinyl_CoA_Krebs_Anaplerosis_Z-001-0429]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Amino_Acid_Sources_Propionyl_CoA_Z-001-0430]]
+- [[Methylmalonyl_CoA_Mutase_B12_Mechanism_Z-001-0428]]
+- [[Odd_Chain_Fatty_Acid_Oxidation_Z-001-0431]]
+- [[Propionate_Sources_Metabolic_Fate_Z-001-0426]]
+- [[Succinyl_CoA_Krebs_Anaplerosis_Z-001-0429]]
+
+## Source
+
+[[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]]
+
+## Related Zettels from Same Source
+
+- [[Amino_Acid_Sources_Propionyl_CoA_Z-001-0430]]
+- [[Methylmalonyl_CoA_Mutase_B12_Mechanism_Z-001-0428]]
+- [[Odd_Chain_Fatty_Acid_Oxidation_Z-001-0431]]
+- [[Propionate_Sources_Metabolic_Fate_Z-001-0426]]
+- [[Succinyl_CoA_Krebs_Anaplerosis_Z-001-0429]]
 
 ## Core Claim
 **Propionyl-CoA carboxylase (PCC) catalyzes the ATP-dependent carboxylation of propionyl-CoA to D-methylmalonyl-CoA, requiring biotin (vitamin B7) as essential cofactor** — this is the first committed step in propionate metabolism, linking biotin status to the ability to extract energy from fiber, amino acids, and odd-chain fatty acids.

@@ -12,6 +12,18 @@ extraction-date: 2026-04-15
 ---
 
 # Line-by-Line Critique Framework for Conclusions Sections
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Purpose
 Systematically deconstruct each sentence of a study's conclusions to identify **unsupported claims, extrapolations, and logical errors** that distort the actual findings.

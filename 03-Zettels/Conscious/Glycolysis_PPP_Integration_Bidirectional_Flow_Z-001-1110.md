@@ -23,6 +23,26 @@ extraction-date: 2026-03-08
 ---
 
 # Glycolysis-PPP Integration — Bidirectional Flow
+## Source
+
+[[LitNote_Metabolic_Pathway_Integration_L-001-0606]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Metabolic_Pathway_Integration_L-001-0606]]
 
 ## Core Claim
 **The pentose phosphate pathway (PPP) branches from glycolysis at glucose-6-phosphate and can feed back into glycolysis via transketolase/transaldolase reactions, creating bidirectional metabolic flexibility that allocates carbon between energy (glycolysis) and biosynthesis (NADPH/ribose)** — this integration is regulated by cellular redox state and biosynthetic demand.

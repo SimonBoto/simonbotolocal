@@ -14,6 +14,18 @@ related: []
 ---
 
 # Minimal Exercise (15 min/week) Reduces Mortality
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Just 15-20 minutes of vigorous exercise per week** is associated with **16-40% lower mortality risk** — a remarkably low threshold for significant health benefits.

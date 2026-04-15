@@ -12,6 +12,26 @@ status: conscious
 ---
 
 # Vulnerable Populations in Research — Special Protections and Considerations
+## Source
+
+[[LitNote_Medical_Ethics_Clinical_Research_L-001-0581]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Medical_Ethics_Clinical_Research_L-001-0581]
 
 ## Overview
 

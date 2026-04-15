@@ -12,6 +12,18 @@ extraction-date: 2026-03-01
 ---
 
 # Iron-Sulfur Cluster Biochemistry
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Iron-sulfur (Fe-S) clusters are ancient, ubiquitous prosthetic groups composed of iron and sulfide ions arranged in cubane-like structures (e.g., [4Fe-4S]), serving essential roles in electron transfer, catalysis, and sensing; the unique iron atom (Feₐ) in aconitase's [4Fe-4S] cluster directly coordinates substrate and mediates Lewis acid catalysis essential for citrate isomerization.
@@ -116,6 +128,12 @@ Iron-sulfur (Fe-S) clusters are ancient, ubiquitous prosthetic groups composed o
 - [[Aconitase_Catalytic_Mechanism_Z-001-0541]] — Aconitase mechanism
 - [[Iron_Metabolism_Aconitase_Function_Z-001-0543]] — Iron deficiency effects
 - [[Cytosolic_Aconitase_IRP1_Dual_Function_Z-001-0544]] — IRP1 dual function
+
+## Related Zettels from Same Source
+
+- [[Aconitase_Catalytic_Mechanism_Z-001-0541]]
+- [[Cytosolic_Aconitase_IRP1_Dual_Function_Z-001-0544]]
+- [[Iron_Metabolism_Aconitase_Function_Z-001-0543]]
 
 ## Source
 [[Aconitase_Enzyme_Structure,_Mechanism,_and_Iron-Sulfur_L-001-0508_CGPT-0393]]

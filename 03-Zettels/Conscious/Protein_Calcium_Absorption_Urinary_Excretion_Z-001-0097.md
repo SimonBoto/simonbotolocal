@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 # Protein  Absorption Urinary Excretion
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Protein intake stimulates intestinal calcium absorption. However, extremely high protein may increase urinary calcium excretion. Balance is essential—moderate-high protein optimizes calcium retention.
 

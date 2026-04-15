@@ -12,6 +12,18 @@ extraction-date: 2026-03-08
 ---
 
 # Warburg Effect Aerobic Glycolysis Cancer
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Cancer cells exhibit aerobic glycolysis—the preferential use of glycolysis for ATP production even in the presence of adequate oxygen—a phenomenon first described by Otto Warburg in 1924 that provides rapid energy and biosynthetic precursors to support malignant proliferation.
@@ -105,6 +117,13 @@ Even with oxygen: Glucose → Pyruvate → Lactate (2 ATP)
 - [[Cancer_Metabolic_Reprogramming_Glycolysis_PPP_Z-001-1118]] — Metabolic reprogramming
 - [[Tumor_Microenvironment_Lactate_Acidification_Z-001-1119]] — Tumor microenvironment
 - [[Mitochondrial_Dysfunction_Cancer_Metabolism_Z-001-1120]] — Mitochondrial dysfunction
+
+## Related Zettels from Same Source
+
+- [[Cancer_Metabolic_Reprogramming_Glycolysis_PPP_Z-001-1118]]
+- [[Mitochondrial_Dysfunction_Cancer_Metabolism_Z-001-1120]]
+- [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]]
+- [[Tumor_Microenvironment_Lactate_Acidification_Z-001-1119]]
 
 ## Source
 [[Warburg_Effect_and_Cancer_Metabolism_L-001-0608_CGPT-0264]]

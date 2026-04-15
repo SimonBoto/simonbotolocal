@@ -12,8 +12,60 @@ extraction-date: 2026-03-01
 ---
 
 #  Serum vs RBC Assessment
+## Related Zettels from Same Source
+
+- [[B12_Reference_Optimal_Values_Z-001-0445]]
+- [[Homocysteine_Ranges_Cardiovascular_Risk_Z-001-0447]]
+- [[Integrated_B12_Assessment_Complete_Picture_Z-001-0449]]
+- [[MMA_Sensitive_B12_Marker_Z-001-0448]]
+- [[Standard_vs_Optimal_Ranges_Philosophy_Z-001-0444]]
+
+## Source
+
+[[LitNote_B12_Clinical_Assessment_L-001-0408]
+
+## Related Zettels from Same Source
+
+- [[B12_Reference_Optimal_Values_Z-001-0445]]
+- [[Homocysteine_Ranges_Cardiovascular_Risk_Z-001-0447]]
+- [[Integrated_B12_Assessment_Complete_Picture_Z-001-0449]]
+- [[MMA_Sensitive_B12_Marker_Z-001-0448]]
+- [[Standard_vs_Optimal_Ranges_Philosophy_Z-001-0444]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Serum folate reflects recent intake (fluctuates with meals), while RBC folate reflects 2-3 month tissue stores and is more reliable for assessing functional status.
+
+## Related Zettels from Same Source
+
+- [[B12_Reference_Optimal_Values_Z-001-0445]]
+- [[Homocysteine_Ranges_Cardiovascular_Risk_Z-001-0447]]
+- [[Integrated_B12_Assessment_Complete_Picture_Z-001-0449]]
+- [[MMA_Sensitive_B12_Marker_Z-001-0448]]
+- [[Standard_vs_Optimal_Ranges_Philosophy_Z-001-0444]]
+
+## Source
+
+[[LitNote_B12_Clinical_Assessment_L-001-0408]
+
+## Related Zettels from Same Source
+
+- [[B12_Reference_Optimal_Values_Z-001-0445]]
+- [[Homocysteine_Ranges_Cardiovascular_Risk_Z-001-0447]]
+- [[Integrated_B12_Assessment_Complete_Picture_Z-001-0449]]
+- [[MMA_Sensitive_B12_Marker_Z-001-0448]]
+- [[Standard_vs_Optimal_Ranges_Philosophy_Z-001-0444]]
 
 ## Core Principle
 

@@ -13,6 +13,46 @@ extraction-date: 2026-03-08
 ---
 
 # Vitamin D Safety Research Summary
+## Related Zettels from Same Source
+
+- [[Mediterranean_Diet_Metabolic_Evidence_Z-001-1076]]
+- [[Metabolomics_Research_Core_Bibliography_Z-001-1074]]
+
+## Source
+
+[[L-001-0596_Tsoukalas_Research_Bibliography_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Mediterranean_Diet_Metabolic_Evidence_Z-001-1076]]
+- [[Metabolomics_Research_Core_Bibliography_Z-001-1074]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Mediterranean_Diet_Metabolic_Evidence_Z-001-1076]]
+- [[Metabolomics_Research_Core_Bibliography_Z-001-1074]]
+
+## Source
+
+[[L-001-0596_Tsoukalas_Research_Bibliography_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Mediterranean_Diet_Metabolic_Evidence_Z-001-1076]]
+- [[Metabolomics_Research_Core_Bibliography_Z-001-1074]]
 
 ## Core Claim
 **High-dose vitamin D supplementation (3200-4000 IU/day) has been demonstrated safe in multiple long-term clinical trials including the D2d diabetes prevention study and RCTs lasting 3+ years, with no significant increase in adverse events compared to standard dosing, supporting the clinical use of higher-dose protocols for therapeutic purposes.**

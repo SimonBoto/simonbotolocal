@@ -22,6 +22,26 @@ extraction-date: 2026-03-08
 ---
 
 # Acetyl-CoA — Central Metabolic Connector
+## Source
+
+[[LitNote_Metabolic_Pathway_Integration_L-001-0606]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Metabolic_Pathway_Integration_L-001-0606]]
 
 ## Core Claim
 **Acetyl-CoA is the central metabolic hub connecting carbohydrate, fat, and protein catabolism to the Krebs cycle, with its fate determined by metabolic state: energy production (fed state), ketogenesis (fasting), or biosynthesis (anabolic conditions)** — compartmentalization (mitochondrial vs cytosolic) regulates these divergent pathways.

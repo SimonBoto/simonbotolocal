@@ -24,6 +24,58 @@ extraction-date: 2026-03-01
 ---
 
 # Propionate — Sources and Metabolic Fate
+## Related Zettels from Same Source
+
+- [[Amino_Acid_Sources_Propionyl_CoA_Z-001-0430]]
+- [[Methylmalonyl_CoA_Mutase_B12_Mechanism_Z-001-0428]]
+- [[Odd_Chain_Fatty_Acid_Oxidation_Z-001-0431]]
+- [[Propionyl_CoA_Carboxylase_Biotin_Z-001-0427]]
+- [[Succinyl_CoA_Krebs_Anaplerosis_Z-001-0429]]
+
+## Source
+
+[[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]]
+
+## Related Zettels from Same Source
+
+- [[Amino_Acid_Sources_Propionyl_CoA_Z-001-0430]]
+- [[Methylmalonyl_CoA_Mutase_B12_Mechanism_Z-001-0428]]
+- [[Odd_Chain_Fatty_Acid_Oxidation_Z-001-0431]]
+- [[Propionyl_CoA_Carboxylase_Biotin_Z-001-0427]]
+- [[Succinyl_CoA_Krebs_Anaplerosis_Z-001-0429]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Amino_Acid_Sources_Propionyl_CoA_Z-001-0430]]
+- [[Methylmalonyl_CoA_Mutase_B12_Mechanism_Z-001-0428]]
+- [[Odd_Chain_Fatty_Acid_Oxidation_Z-001-0431]]
+- [[Propionyl_CoA_Carboxylase_Biotin_Z-001-0427]]
+- [[Succinyl_CoA_Krebs_Anaplerosis_Z-001-0429]]
+
+## Source
+
+[[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]]
+
+## Related Zettels from Same Source
+
+- [[Amino_Acid_Sources_Propionyl_CoA_Z-001-0430]]
+- [[Methylmalonyl_CoA_Mutase_B12_Mechanism_Z-001-0428]]
+- [[Odd_Chain_Fatty_Acid_Oxidation_Z-001-0431]]
+- [[Propionyl_CoA_Carboxylase_Biotin_Z-001-0427]]
+- [[Succinyl_CoA_Krebs_Anaplerosis_Z-001-0429]]
 
 ## Core Claim
 **Propionate is a short-chain fatty acid (SCFA) produced by gut bacteria from dietary fiber and amino acid catabolism, serving as a gluconeogenic substrate that requires vitamin B12 for complete oxidation to succinyl-CoA** — it represents a critical link between gut microbiome, dietary fiber, and host energy metabolism.

@@ -12,6 +12,18 @@ extraction-date: 2026-04-15
 ---
 
 # FRAX Input Variables — Clinical Risk Factors for Fracture Prediction
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Principle
 FRAX algorithm integrates **demographic, clinical, and BMD variables** to estimate 10-year fracture probability.
@@ -133,6 +145,15 @@ FRAX algorithm integrates **demographic, clinical, and BMD variables** to estima
 
 tags: [zettel, frax, risk-factors, osteoporosis, fracture-prediction, clinical-assessment, conscious]
 
+## Related Zettels from Same Source
+
+- [[Fragility_Fractures_Morbidity_Mortality_Z-001-0078]]
+- [[FRAX_Adjustments_TBS_Falls_Glucocorticoids_Z-001-0112]]
+- [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]]
+- [[FRAX_Output_Thresholds_Treatment_Decisions_Z-001-0110]]
+- [[Osteopenia_T_score_Definition_Minus_1_to_2.5_Z-001-0076]]
+- [[Osteoporosis_T_score_Definition_Minus_2.5_Z-001-0077]]
+
 ## Source
 [[LitNote_FRAX_Risk_Assessment_Tool_L-001-0017]
 
@@ -141,6 +162,15 @@ tags: [zettel, frax, risk-factors, osteoporosis, fracture-prediction, clinical-a
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
 
+
+## Related Zettels from Same Source
+
+- [[Fragility_Fractures_Morbidity_Mortality_Z-001-0078]]
+- [[FRAX_Adjustments_TBS_Falls_Glucocorticoids_Z-001-0112]]
+- [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]]
+- [[FRAX_Output_Thresholds_Treatment_Decisions_Z-001-0110]]
+- [[Osteopenia_T_score_Definition_Minus_1_to_2.5_Z-001-0076]]
+- [[Osteoporosis_T_score_Definition_Minus_2.5_Z-001-0077]]
 
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]

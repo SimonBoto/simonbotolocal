@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 # Osteoporosis T score Definition Minus 2.5
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Osteoporosis is diagnosed when the T-score is ≤ −2.5 on DXA. It is a skeletal disorder of compromised bone strength, predisposing to increased fracture risk. Microarchitectural deterioration accompanies bone mass loss.
 

@@ -13,6 +13,26 @@ status: conscious
 parent-index: [[03-Zettels-Conscious]]
 
 # Twitter/X Growth Strategy for Health Professionals
+## Source
+
+[[LitNote_Twitter_Strategy_DrMito_L-001-0634]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Twitter_Strategy_DrMito_L-001-0634]
 
 ## Overview
 

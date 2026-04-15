@@ -11,6 +11,26 @@ status: conscious
 ---
 
 # Pathway and Network Analysis —  Interpretation
+## Source
+
+[[LitNote_Metabolomics_Data_Processing_L-001-0619]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Metabolomics_Data_Processing_L-001-0619]
 
 ## Overview
 

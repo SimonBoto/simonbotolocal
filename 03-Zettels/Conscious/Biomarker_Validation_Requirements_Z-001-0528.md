@@ -14,6 +14,54 @@ extraction-date: 2026-04-15
 ---
 
 # Validation Requirements for  Translation
+## Related Zettels from Same Source
+
+- [[Benjamini_Hochberg_Procedure_Z-001-0524]]
+- [[Exploratory_vs_Confirmatory_Research_Standards_Z-001-0526]]
+- [[FDR_Threshold_Selection_Z-001-0932]]
+- [[Multiple_Testing_Burden_High_Dimensional_Data_Z-001-0934]]
+
+## Source
+
+Synthesized from clinical practice
+
+## Related Zettels from Same Source
+
+- [[Benjamini_Hochberg_Procedure_Z-001-0524]]
+- [[Exploratory_vs_Confirmatory_Research_Standards_Z-001-0526]]
+- [[FDR_Threshold_Selection_Z-001-0932]]
+- [[Multiple_Testing_Burden_High_Dimensional_Data_Z-001-0934]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Benjamini_Hochberg_Procedure_Z-001-0524]]
+- [[Exploratory_vs_Confirmatory_Research_Standards_Z-001-0526]]
+- [[FDR_Threshold_Selection_Z-001-0932]]
+- [[Multiple_Testing_Burden_High_Dimensional_Data_Z-001-0934]]
+
+## Source
+
+Synthesized from clinical practice
+
+## Related Zettels from Same Source
+
+- [[Benjamini_Hochberg_Procedure_Z-001-0524]]
+- [[Exploratory_vs_Confirmatory_Research_Standards_Z-001-0526]]
+- [[FDR_Threshold_Selection_Z-001-0932]]
+- [[Multiple_Testing_Burden_High_Dimensional_Data_Z-001-0934]]
 
 ## Core Concept
 

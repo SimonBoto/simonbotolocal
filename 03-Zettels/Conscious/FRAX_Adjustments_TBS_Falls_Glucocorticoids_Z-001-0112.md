@@ -12,6 +12,18 @@ extraction-date: 2026-04-15
 ---
 
 # FRAX Adjustments — TBS, Falls, and Glucocorticoid Dose Modifications
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Principle
 FRAX probability estimates can be **refined** using additional  data that the algorithm doesn't directly incorporate.
@@ -233,6 +245,15 @@ Decision: Anabolic therapy indicated
 
 tags: [zettel, frax, adjustments, tbs, falls, glucocorticoids, risk-modification, conscious]
 
+## Related Zettels from Same Source
+
+- [[Fragility_Fractures_Morbidity_Mortality_Z-001-0078]]
+- [[FRAX_Input_Variables_Clinical_Risk_Factors_Z-001-0109]]
+- [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]]
+- [[FRAX_Output_Thresholds_Treatment_Decisions_Z-001-0110]]
+- [[Osteopenia_T_score_Definition_Minus_1_to_2.5_Z-001-0076]]
+- [[Osteoporosis_T_score_Definition_Minus_2.5_Z-001-0077]]
+
 ## Source
 [[LitNote_FRAX_Risk_Assessment_Tool_L-001-0017]
 
@@ -241,6 +262,15 @@ tags: [zettel, frax, adjustments, tbs, falls, glucocorticoids, risk-modification
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
 
+
+## Related Zettels from Same Source
+
+- [[Fragility_Fractures_Morbidity_Mortality_Z-001-0078]]
+- [[FRAX_Input_Variables_Clinical_Risk_Factors_Z-001-0109]]
+- [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]]
+- [[FRAX_Output_Thresholds_Treatment_Decisions_Z-001-0110]]
+- [[Osteopenia_T_score_Definition_Minus_1_to_2.5_Z-001-0076]]
+- [[Osteoporosis_T_score_Definition_Minus_2.5_Z-001-0077]]
 
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]

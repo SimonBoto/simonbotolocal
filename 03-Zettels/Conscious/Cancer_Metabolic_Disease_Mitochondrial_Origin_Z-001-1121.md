@@ -12,6 +12,18 @@ extraction-date: 2026-03-08
 ---
 
 # Cancer Metabolic Disease Mitochondrial Origin
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Thomas Seyfried's metabolic theory proposes that cancer is primarily a metabolic disease driven by mitochondrial dysfunction rather than a genetic disease caused by mutations—mitochondrial damage precedes and drives the genetic instability characteristic of cancer, offering a paradigm shift that emphasizes metabolic interventions over genetic targeting.
@@ -116,6 +128,14 @@ Cancer Phenotype
 - [[Ketogenic_Diet_Cancer_Therapy_Metabolic_Inflexibility_Z-001-1122]] — Ketogenic diet
 - [[Press_Pulse_Strategy_Metabolic_Cancer_Therapy_Z-001-1123]] — Press-Pulse
 - [[Caloric_Restriction_Fasting_Cancer_Metabolic_Therapy_Z-001-1124]] — Caloric restriction
+
+## Related Zettels from Same Source
+
+- [[Caloric_Restriction_Fasting_Cancer_Metabolic_Therapy_Z-001-1124]]
+- [[Ketogenesis_Mechanism_Liver_Mitochondria_Z-001-1094]]
+- [[Ketogenic_Diet_Cancer_Therapy_Metabolic_Inflexibility_Z-001-1122]]
+- [[Press_Pulse_Strategy_Metabolic_Cancer_Therapy_Z-001-1123]]
+- [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]]
 
 ## Source
 [[Metabolic_Therapy_for_Cancer_Seyfried_Protocol_L-001-0609_CGPT-0264]]

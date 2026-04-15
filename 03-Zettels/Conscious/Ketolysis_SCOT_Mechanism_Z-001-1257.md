@@ -11,6 +11,18 @@ extraction-date: 2026-03-11
 ---
 
 # Ketolysis and SCOT Mechanism — Extrahepatic Ketone Utilization
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Mechanism
 
@@ -112,6 +124,12 @@ Peripheral tissues: Ketones → Acetyl-CoA → ATP
 - [[BHB_Production_Fatty_Acids_Z-001-1256]] — Hepatic ketogenesis
 - [[ATP_Yield_Comparison_Z-001-1258]] — Energy efficiency
 - [[Ketone_vs_Glycolysis_Mitochondrial_Entry_Z-001-1259]] — Entry mechanisms
+
+## Related Zettels from Same Source
+
+- [[ATP_Yield_Comparison_Z-001-1258]]
+- [[BHB_Production_Fatty_Acids_Z-001-1256]]
+- [[Ketone_vs_Glycolysis_Mitochondrial_Entry_Z-001-1259]]
 
 ## Source
 [[L-001-0655_Ketone_Body_Metabolism_Deep_Dive_CGPT-0647]]

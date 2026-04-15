@@ -15,6 +15,46 @@ related: []
 ---
 
 # High Meat Consumption Coexists with Longevity — Not Inherently Harmful
+## Related Zettels from Same Source
+
+- [[Hong_Kong_145kg_Meat_Highest_Life_Expectancy_Z-002-0846]]
+- [[Meat_Paradox_Context_Quality_Not_Quantity_Alone_Z-002-0848]]
+
+## Source
+
+[[L-002-0236_Hong_Kong_Meat_Longevity]]
+
+## Related Zettels from Same Source
+
+- [[Hong_Kong_145kg_Meat_Highest_Life_Expectancy_Z-002-0846]]
+- [[Meat_Paradox_Context_Quality_Not_Quantity_Alone_Z-002-0848]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Hong_Kong_145kg_Meat_Highest_Life_Expectancy_Z-002-0846]]
+- [[Meat_Paradox_Context_Quality_Not_Quantity_Alone_Z-002-0848]]
+
+## Source
+
+[[L-002-0236_Hong_Kong_Meat_Longevity]]
+
+## Related Zettels from Same Source
+
+- [[Hong_Kong_145kg_Meat_Highest_Life_Expectancy_Z-002-0846]]
+- [[Meat_Paradox_Context_Quality_Not_Quantity_Alone_Z-002-0848]]
 
 ## Core Claim
 **The coexistence of the world's highest meat consumption with the world's longest life expectancy in Hong Kong demonstrates that meat consumption is not inherently harmful to longevity** — challenging the assumption that reducing meat is necessary for long life.

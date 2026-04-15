@@ -15,6 +15,46 @@ related: []
 ---
 
 # CAC Stratification Avoids Overtreatment and Targets Therapy Appropriately
+## Related Zettels from Same Source
+
+- [[CAC_Above_400_Clear_Statin_Benefit_Z-002-0826]]
+- [[CAC_Score_Zero_No_Statin_Benefit_Z-002-0825]]
+
+## Source
+
+[[L-002-0229_Calcium_Score_Statin_Benefit]]
+
+## Related Zettels from Same Source
+
+- [[CAC_Above_400_Clear_Statin_Benefit_Z-002-0826]]
+- [[CAC_Score_Zero_No_Statin_Benefit_Z-002-0825]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[CAC_Above_400_Clear_Statin_Benefit_Z-002-0826]]
+- [[CAC_Score_Zero_No_Statin_Benefit_Z-002-0825]]
+
+## Source
+
+[[L-002-0229_Calcium_Score_Statin_Benefit]]
+
+## Related Zettels from Same Source
+
+- [[CAC_Above_400_Clear_Statin_Benefit_Z-002-0826]]
+- [[CAC_Score_Zero_No_Statin_Benefit_Z-002-0825]]
 
 ## Core Claim
 **CAC score stratification helps avoid overtreatment in individuals without atherosclerotic plaque and appropriately target treatment to those with significant established disease** — personalizing statin therapy based on actual plaque burden rather than population risk estimates.

@@ -12,6 +12,26 @@ source-litnote: Synthesized from clinical practice
 ---
 
 # Carbohydrate  & Insulin Resistance s
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Claim
 **Carbohydrate metabolism disorders generate specific metabolite ** — glucose intermediates, lactate, and organic acids that quantify insulin resistance severity and metabolic dysfunction.

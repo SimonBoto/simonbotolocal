@@ -22,6 +22,46 @@ extraction-date: 2026-03-08
 ---
 
 # Amino Acid Complete Classification Table
+## Related Zettels from Same Source
+
+- [[Aldoses_Ketoses_Reference_Table_Z-001-1114]]
+- [[Organic_Acids_Structures_Functions_Z-001-1116]]
+
+## Source
+
+[[LitNote_Comparative_Biochemistry_Tables_L-001-0607]]
+
+## Related Zettels from Same Source
+
+- [[Aldoses_Ketoses_Reference_Table_Z-001-1114]]
+- [[Organic_Acids_Structures_Functions_Z-001-1116]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Aldoses_Ketoses_Reference_Table_Z-001-1114]]
+- [[Organic_Acids_Structures_Functions_Z-001-1116]]
+
+## Source
+
+[[LitNote_Comparative_Biochemistry_Tables_L-001-0607]]
+
+## Related Zettels from Same Source
+
+- [[Aldoses_Ketoses_Reference_Table_Z-001-1114]]
+- [[Organic_Acids_Structures_Functions_Z-001-1116]]
 
 ## Core Claim
 **The 20 proteinogenic amino acids are classified by side chain polarity (hydrophobic vs polar), charge (acidic vs basic), essentiality (dietary requirement), and metabolic fate (glucogenic vs ketogenic)** — these classifications predict protein structure, solubility, and nutritional requirements.

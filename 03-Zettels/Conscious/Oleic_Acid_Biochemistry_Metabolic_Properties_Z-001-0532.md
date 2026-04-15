@@ -12,8 +12,28 @@ extraction-date: 2026-03-01
 ---
 
 # Oleic Acid —  and Metabolic Properties
+## Source
+
+[[LitNote_Oleic_Acid_Clinical_L-001-0506]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Oleic acid (18:1, omega-9) offers unique metabolic stability through its single double bond, optimal membrane incorporation, and direct genomic signaling effects.
+
+## Source
+
+[[LitNote_Oleic_Acid_Clinical_L-001-0506]
 
 ## Core Principle
 

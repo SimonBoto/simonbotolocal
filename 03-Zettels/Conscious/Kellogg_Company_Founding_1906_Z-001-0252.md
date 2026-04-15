@@ -12,8 +12,52 @@ extraction-date: 2026-03-01
 ---
 
 # Kellogg Company Founding — Mass Production (1906)
+## Related Zettels from Same Source
+
+- [[Battle_Creek_Sanitarium_John_Harvey_Kellogg_Z-001-0249]]
+- [[Cornflakes_Invention_Accident_1894_Z-001-0251]]
+- [[Kellogg_Brothers_John_Harvey_vs_WK_Z-001-0250]]
+
+## Source
+
+[[LitNote_Cereal_History_L-001-0211]
+
+## Related Zettels from Same Source
+
+- [[Battle_Creek_Sanitarium_John_Harvey_Kellogg_Z-001-0249]]
+- [[Cornflakes_Invention_Accident_1894_Z-001-0251]]
+- [[Kellogg_Brothers_John_Harvey_vs_WK_Z-001-0250]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Will Keith Kellogg founded the Kellogg Company in 1906 to mass-produce cornflakes, transforming a Sanitarium health food into a global consumer product and rizing the American breakfast through innovative marketing and industrial-scale production.
+
+## Related Zettels from Same Source
+
+- [[Battle_Creek_Sanitarium_John_Harvey_Kellogg_Z-001-0249]]
+- [[Cornflakes_Invention_Accident_1894_Z-001-0251]]
+- [[Kellogg_Brothers_John_Harvey_vs_WK_Z-001-0250]]
+
+## Source
+
+[[LitNote_Cereal_History_L-001-0211]
+
+## Related Zettels from Same Source
+
+- [[Battle_Creek_Sanitarium_John_Harvey_Kellogg_Z-001-0249]]
+- [[Cornflakes_Invention_Accident_1894_Z-001-0251]]
+- [[Kellogg_Brothers_John_Harvey_vs_WK_Z-001-0250]]
 
 ## Core Principle
 

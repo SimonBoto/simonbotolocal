@@ -12,6 +12,18 @@ extraction-date: 2026-04-15
 ---
 
 # Bone Balance Equation — Resorption Formation Coupling in Homeostasis
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Principle
 Bone mass remains stable when **osteoclastic resorption** is balanced by **osteoblastic formation**; net bone loss occurs when this coupling fails.
@@ -129,6 +141,15 @@ Total volume of bone currently undergoing active resorption or formation at any 
 - [[Reversal_Phase_Mononuclear_Bone_Surface_Preparation_Z-001-0101]] — Coupling point
 - [[Osteoporosis_T_score_Definition_Minus_2.5_Z-001-0077]] — Clinical consequence
 
+## Related Zettels from Same Source
+
+- [[Abaloparatide_PTHrP_Analog_Anabolic_Agent_Z-001-0106]]
+- [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]]
+- [[Resting_Phase_Bone_Remodeling_Quiescence_Z-001-0103]]
+- [[Romosozumab_Anti_Sclerostin_Dual_Action_Therapy_Z-001-0107]]
+- [[Sequential_Therapy_Anabolic_to_Antiresorptive_Strategy_Z-001-0108]]
+- [[Teriparatide_PTH_1-34_Intermittent_Anabolic_Therapy_Z-001-0105]]
+
 ## Source
 [[LitNote_Bone_Remodeling_Cycle_Dynamics_L-001-0015]
 
@@ -137,6 +158,15 @@ Total volume of bone currently undergoing active resorption or formation at any 
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
 
+
+## Related Zettels from Same Source
+
+- [[Abaloparatide_PTHrP_Analog_Anabolic_Agent_Z-001-0106]]
+- [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]]
+- [[Resting_Phase_Bone_Remodeling_Quiescence_Z-001-0103]]
+- [[Romosozumab_Anti_Sclerostin_Dual_Action_Therapy_Z-001-0107]]
+- [[Sequential_Therapy_Anabolic_to_Antiresorptive_Strategy_Z-001-0108]]
+- [[Teriparatide_PTH_1-34_Intermittent_Anabolic_Therapy_Z-001-0105]]
 
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]

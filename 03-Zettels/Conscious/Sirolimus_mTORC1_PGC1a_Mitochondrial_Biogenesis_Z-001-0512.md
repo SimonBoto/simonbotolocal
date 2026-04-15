@@ -13,6 +13,18 @@ extraction-date: 2026-03-02
 ---
 
 # Sirolimus mTORC1 Inhibition Suppresses PGC-1α and l Biogenesis
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **Core Mechanism:** mTORC1 normally activates PGC-1α, the master regulator of  biogenesis. Sirolimus inhibits this pathway, reducing mitochondrial mass.
 

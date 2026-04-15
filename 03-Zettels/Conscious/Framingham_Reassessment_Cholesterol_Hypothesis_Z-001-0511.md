@@ -22,8 +22,64 @@ extraction-date: 2026-03-01
 ---
 
 # Framingham Reassessment —  Hypothesis 
+## Related Zettels from Same Source
+
+- [[Non_Statin_Lipid_Lowering_Options_Z-001-0514]]
+- [[Statin_Clinical_Decision_Making_Z-001-0515]]
+- [[Statin_Intolerance_Myopathy_Management_Z-001-0919]]
+- [[Statin_Major_Clinical_Trials_Z-001-0510]]
+- [[Statin_Mechanism_HMG_CoA_Reductase_Z-001-0509]]
+- [[Statin_Pharmacogenomics_SLCO1B1_Z-001-0920]]
+
+## Source
+
+[[LitNote_Statin_Pharmacology_L-001-0502]]
+
+## Related Zettels from Same Source
+
+- [[Non_Statin_Lipid_Lowering_Options_Z-001-0514]]
+- [[Statin_Clinical_Decision_Making_Z-001-0515]]
+- [[Statin_Intolerance_Myopathy_Management_Z-001-0919]]
+- [[Statin_Major_Clinical_Trials_Z-001-0510]]
+- [[Statin_Mechanism_HMG_CoA_Reductase_Z-001-0509]]
+- [[Statin_Pharmacogenomics_SLCO1B1_Z-001-0920]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > The Framingham Heart Study's reassessment revealed age-dependent complexities in the cholesterol-CVD relationship, informing modern precision medicine approaches.
+
+## Related Zettels from Same Source
+
+- [[Non_Statin_Lipid_Lowering_Options_Z-001-0514]]
+- [[Statin_Clinical_Decision_Making_Z-001-0515]]
+- [[Statin_Intolerance_Myopathy_Management_Z-001-0919]]
+- [[Statin_Major_Clinical_Trials_Z-001-0510]]
+- [[Statin_Mechanism_HMG_CoA_Reductase_Z-001-0509]]
+- [[Statin_Pharmacogenomics_SLCO1B1_Z-001-0920]]
+
+## Source
+
+[[LitNote_Statin_Pharmacology_L-001-0502]]
+
+## Related Zettels from Same Source
+
+- [[Non_Statin_Lipid_Lowering_Options_Z-001-0514]]
+- [[Statin_Clinical_Decision_Making_Z-001-0515]]
+- [[Statin_Intolerance_Myopathy_Management_Z-001-0919]]
+- [[Statin_Major_Clinical_Trials_Z-001-0510]]
+- [[Statin_Mechanism_HMG_CoA_Reductase_Z-001-0509]]
+- [[Statin_Pharmacogenomics_SLCO1B1_Z-001-0920]]
 
 ## Core Principle
 

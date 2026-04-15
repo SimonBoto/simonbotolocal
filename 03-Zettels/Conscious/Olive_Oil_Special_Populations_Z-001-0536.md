@@ -12,8 +12,28 @@ extraction-date: 2026-03-01
 ---
 
 # Olive Oil — Special Populations
+## Source
+
+[[LitNote_Oleic_Acid_Clinical_L-001-0506]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Specific populations including metabolic syndrome, , and cardiovascular disease patients show particular benefit from olive oil-based interventions.
+
+## Source
+
+[[LitNote_Oleic_Acid_Clinical_L-001-0506]
 
 ## Core Principle
 

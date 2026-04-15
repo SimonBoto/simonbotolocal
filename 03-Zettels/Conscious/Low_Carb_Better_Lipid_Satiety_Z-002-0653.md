@@ -15,6 +15,18 @@ related: []
 ---
 
 # Low-Carb Better for Lipid Profile and Satiety
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Low-carbohydrate diets improve **cardiovascular lipid profiles** (reduce triglycerides, increase HDL) and **enhance satiety** compared to low-fat diets, supporting better long-term adherence and metabolic outcomes.
@@ -123,6 +135,11 @@ Cravings, snacking, overeating
 - **Triglyceride reduction:** Rapid improvement (weeks)
 - **HDL increase:** Protective effect
 - **Combined effect:** Better lipid profile than low-fat
+
+## Related Zettels from Same Source
+
+- [[Insulin_Resistance_Determines_Diet_Response_Z-002-0652]]
+- [[Low_Carb_Superior_Weight_Glycemic_Control_Z-002-0651]]
 
 ## Source
 - **LitNote:** [[L-002-0172_Low_Carb_vs_Low_Fat_Comparison]]

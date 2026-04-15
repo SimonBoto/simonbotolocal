@@ -15,6 +15,18 @@ related: []
 ---
 
 # Ultra-Processed Foods Drive Pediatric Metabolic Disease
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Ultra-processed foods are the primary driver** of the childhood obesity epidemic, promoting overconsumption through engineered palatability, disrupting satiety signals, and causing metabolic dysfunction independent of caloric excess.
@@ -81,6 +93,11 @@ related: []
 ## Significance
 
 tags: [zettel, ultra-processed-foods, upf, pediatric, metabolic-disease, obesity, children]
+
+## Related Zettels from Same Source
+
+- [[Food_System_Failure_Requires_Policy_Intervention_Z-002-0674]]
+- [[Historic_Reversal_Obese_Children_Outnumber_Undernourished_Z-002-0672]]
 
 ## Source
 - **LitNote:** [[L-002-0179_Childhood_Obesity_Exceeds_Undernutrition]]

@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 # Vitamin K2 Vascular Calcification Protection
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Vitamin K2 activates matrix GLA protein (MGP), which inhibits calcium deposition in arterial walls. This theoretically redirects calcium to bone rather than vessels—dual benefit not seen with bisphosphonates.
 

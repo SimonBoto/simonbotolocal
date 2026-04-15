@@ -23,6 +23,54 @@ extraction-date: 2026-03-08
 ---
 
 # Trioses — Simplest Sugars (Glyceraldehyde & Dihydroxyacetone)
+## Related Zettels from Same Source
+
+- [[Evolutionary_Origins_Glycolysis_Ancient_Metabolism_Z-001-1092]]
+- [[Glucose_Ribose_Interconversion_PPP_Link_Z-001-1091]]
+- [[Pentose_Phosphate_Pathway_Ribose_NADPH_Z-001-1090]]
+- [[Triose_Roles_Glycolysis_PPP_Krebs_Integration_Z-001-1089]]
+
+## Source
+
+[[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]]
+
+## Related Zettels from Same Source
+
+- [[Evolutionary_Origins_Glycolysis_Ancient_Metabolism_Z-001-1092]]
+- [[Glucose_Ribose_Interconversion_PPP_Link_Z-001-1091]]
+- [[Pentose_Phosphate_Pathway_Ribose_NADPH_Z-001-1090]]
+- [[Triose_Roles_Glycolysis_PPP_Krebs_Integration_Z-001-1089]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Evolutionary_Origins_Glycolysis_Ancient_Metabolism_Z-001-1092]]
+- [[Glucose_Ribose_Interconversion_PPP_Link_Z-001-1091]]
+- [[Pentose_Phosphate_Pathway_Ribose_NADPH_Z-001-1090]]
+- [[Triose_Roles_Glycolysis_PPP_Krebs_Integration_Z-001-1089]]
+
+## Source
+
+[[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]]
+
+## Related Zettels from Same Source
+
+- [[Evolutionary_Origins_Glycolysis_Ancient_Metabolism_Z-001-1092]]
+- [[Glucose_Ribose_Interconversion_PPP_Link_Z-001-1091]]
+- [[Pentose_Phosphate_Pathway_Ribose_NADPH_Z-001-1090]]
+- [[Triose_Roles_Glycolysis_PPP_Krebs_Integration_Z-001-1089]]
 
 ## Core Claim
 **Trioses (three-carbon sugars) are the simplest monosaccharides—glyceraldehyde (aldotriose) and dihydroxyacetone (ketotriose) serve as fundamental metabolic intermediates and likely represent the first sugars to evolve, forming the foundation for all carbohydrate metabolism** — their interconversion in glycolysis represents a conserved ancient mechanism.

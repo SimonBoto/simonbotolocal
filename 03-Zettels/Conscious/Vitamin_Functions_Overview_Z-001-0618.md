@@ -14,6 +14,18 @@ extraction-date: 2026-04-15
 ---
 
 # Vitamin Functions Overview
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Comprehensive visual summary of essential vitamin functions and deficiency consequences (Wallace, 2025).
 

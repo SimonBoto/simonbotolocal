@@ -15,6 +15,18 @@ related: []
 ---
 
 # Thermic Effect of Food — Macronutrients Differ in Processing Energy Cost
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **The thermic effect of food (TEF) varies dramatically by macronutrient** — protein requires 20-30% of its calories for digestion and processing, carbohydrates 5-10%, and fats 0-3%. This means 100 calories of protein provides only 70-80 net calories, while 100 calories of fat provides 97-100 net calories.
@@ -91,6 +103,11 @@ related: []
 | **Better body composition** | Protein preserves muscle |
 | **Improved satiety** | Slower digestion |
 | **Post-meal thermogenesis** | Heat production |
+
+## Related Zettels from Same Source
+
+- [[Calories_Not_Equal_Metabolic_Effect_Z-002-0768]]
+- [[Low_Carb_Increases_Energy_Expenditure_Z-002-0769]]
 
 ## Source
 - **LitNote:** [[L-002-0210_Not_All_Calories_Equal]]

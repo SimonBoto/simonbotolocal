@@ -14,6 +14,18 @@ related: []
 ---
 
 # Low Carb Reduces Hashimoto Thyroid Autoantibodies
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Low-carbohydrate diets reduce **thyroid autoantibodies** in Hashimoto's thyroiditis, indicating decreased autoimmune activity against thyroid tissue.

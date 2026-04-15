@@ -12,6 +12,18 @@ extraction-date: 2026-03-08
 ---
 
 # Press Pulse Strategy Metabolic Cancer Therapy
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 The Press-Pulse therapeutic strategy combines chronic metabolic stress (Press) through ketogenic diet and caloric restriction with acute high-intensity interventions (Pulse) such as chemotherapy, radiation, or hyperbaric oxygen, creating synergistic anti-cancer effects by metabolically priming cancer cells to be more vulnerable to subsequent therapeutic assaults.
@@ -141,6 +153,14 @@ Pulse (Chemo/Radiation) more effective
 - [[Cancer_Metabolic_Disease_Mitochondrial_Origin_Z-001-1121]] — Metabolic theory
 - [[Ketogenic_Diet_Cancer_Therapy_Metabolic_Inflexibility_Z-001-1122]] — Ketogenic diet
 - [[Caloric_Restriction_Fasting_Cancer_Metabolic_Therapy_Z-001-1124]] — Caloric restriction
+
+## Related Zettels from Same Source
+
+- [[Caloric_Restriction_Fasting_Cancer_Metabolic_Therapy_Z-001-1124]]
+- [[Cancer_Metabolic_Disease_Mitochondrial_Origin_Z-001-1121]]
+- [[Ketogenesis_Mechanism_Liver_Mitochondria_Z-001-1094]]
+- [[Ketogenic_Diet_Cancer_Therapy_Metabolic_Inflexibility_Z-001-1122]]
+- [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]]
 
 ## Source
 [[Metabolic_Therapy_for_Cancer_Seyfried_Protocol_L-001-0609_CGPT-0264]]

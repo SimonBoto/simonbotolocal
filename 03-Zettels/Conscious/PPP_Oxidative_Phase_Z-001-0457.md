@@ -24,6 +24,58 @@ extraction-date: 2026-03-04
 ---
 
 # PPP Oxidative Phase — Ribose and NADPH Generation
+## Related Zettels from Same Source
+
+- [[G6PD_Deficiency_Evolutionary_Trade-offs_Z-001-0461]]
+- [[NADPH_Functions_Antioxidant_Defense_Z-001-0460]]
+- [[Nucleobase_Phosphorylation_Nucleotide_Formation_Z-001-0465]]
+- [[Ribose_Structure_RNA_Backbone_Z-001-0458]]
+- [[Triose_Metabolism_G3P_DHAP_Z-001-0459]]
+
+## Source
+
+[[L-001-0045C_Ribose_PPP_NADPH_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[G6PD_Deficiency_Evolutionary_Trade-offs_Z-001-0461]]
+- [[NADPH_Functions_Antioxidant_Defense_Z-001-0460]]
+- [[Nucleobase_Phosphorylation_Nucleotide_Formation_Z-001-0465]]
+- [[Ribose_Structure_RNA_Backbone_Z-001-0458]]
+- [[Triose_Metabolism_G3P_DHAP_Z-001-0459]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[G6PD_Deficiency_Evolutionary_Trade-offs_Z-001-0461]]
+- [[NADPH_Functions_Antioxidant_Defense_Z-001-0460]]
+- [[Nucleobase_Phosphorylation_Nucleotide_Formation_Z-001-0465]]
+- [[Ribose_Structure_RNA_Backbone_Z-001-0458]]
+- [[Triose_Metabolism_G3P_DHAP_Z-001-0459]]
+
+## Source
+
+[[L-001-0045C_Ribose_PPP_NADPH_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[G6PD_Deficiency_Evolutionary_Trade-offs_Z-001-0461]]
+- [[NADPH_Functions_Antioxidant_Defense_Z-001-0460]]
+- [[Nucleobase_Phosphorylation_Nucleotide_Formation_Z-001-0465]]
+- [[Ribose_Structure_RNA_Backbone_Z-001-0458]]
+- [[Triose_Metabolism_G3P_DHAP_Z-001-0459]]
 
 ## Core Claim
 **The oxidative phase of the pentose phosphate pathway converts glucose-6-phosphate to ribose-5-phosphate, generating 2 NADPH per glucose — this is the primary source of NADPH (~60%) for biosynthesis and antioxidant defense in most cells** — G6PD deficiency is the most common enzyme deficiency worldwide (400M+ people).

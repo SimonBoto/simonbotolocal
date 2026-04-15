@@ -14,6 +14,18 @@ updated: 2026-03-05
 ---
 
 # Sirolimus Dysregulates Mitophagy Causing l Depletion
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **Core :** Sirolimus activates mitophagy ( autophagy) but suppresses mitochondrial biogenesis, creating imbalance → net mitochondrial loss.
 

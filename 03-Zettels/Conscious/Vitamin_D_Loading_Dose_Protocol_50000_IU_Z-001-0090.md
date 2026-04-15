@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 #  Loading Dose Protocol 50000 IU
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 For severe vitamin D deficiency (25[OH]D < 10 ng/mL), a loading dose of 50,000 IU weekly for 8 weeks can rapidly replenish stores, followed by maintenance dosing. This accelerates correction compared to daily low-dose regimens.
 

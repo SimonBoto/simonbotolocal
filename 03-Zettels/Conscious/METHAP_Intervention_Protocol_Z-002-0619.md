@@ -14,8 +14,56 @@ created: 2026-03-27
 ---
 
 # METHAP Intervention Protocol
+## Related Zettels from Same Source
+
+- [[METHAP_Inclusion_Exclusion_Criteria_Z-002-0618]]
+- [[METHAP_Metabolomics_Analysis_Plan_Z-002-0620]]
+- [[METHAP_Participant_Selection_Sample_Size_Z-002-0617]]
+- [[METHAP_Study_Design_Overview_Z-002-0616]]
+
+## Source
+
+[[LitNote_METHAP_Study_Design_Protocol_L-002-0604]
+
+## Related Zettels from Same Source
+
+- [[METHAP_Inclusion_Exclusion_Criteria_Z-002-0618]]
+- [[METHAP_Metabolomics_Analysis_Plan_Z-002-0620]]
+- [[METHAP_Participant_Selection_Sample_Size_Z-002-0617]]
+- [[METHAP_Study_Design_Overview_Z-002-0616]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 12-week dietary and supplement intervention for insulin-resistant participants, designed to modify metabolic s and improve insulin sensitivity.
+
+## Related Zettels from Same Source
+
+- [[METHAP_Inclusion_Exclusion_Criteria_Z-002-0618]]
+- [[METHAP_Metabolomics_Analysis_Plan_Z-002-0620]]
+- [[METHAP_Participant_Selection_Sample_Size_Z-002-0617]]
+- [[METHAP_Study_Design_Overview_Z-002-0616]]
+
+## Source
+
+[[LitNote_METHAP_Study_Design_Protocol_L-002-0604]
+
+## Related Zettels from Same Source
+
+- [[METHAP_Inclusion_Exclusion_Criteria_Z-002-0618]]
+- [[METHAP_Metabolomics_Analysis_Plan_Z-002-0620]]
+- [[METHAP_Participant_Selection_Sample_Size_Z-002-0617]]
+- [[METHAP_Study_Design_Overview_Z-002-0616]]
 
 ## Core Principle
 

@@ -15,6 +15,18 @@ related: []
 ---
 
 # Healthier Fat Alternatives for Frying — Stable Oils and Cooking Methods
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Traditional animal fats (tallow, lard) and saturated plant fats (coconut oil) are superior to seed oils for high-heat cooking** — their chemical stability prevents oxidation and toxic aldehyde formation, while air frying and oven roasting eliminate the need for deep frying entirely.
@@ -129,6 +141,11 @@ related: []
 | **Coconut oil** | Soybean, corn oil |
 | **Olive oil (EVOO)** | Canola oil |
 | **Butter, ghee** | Margarine, spreads |
+
+## Related Zettels from Same Source
+
+- [[Oxidized_Omega6_Metabolic_Damage_Z-002-0772]]
+- [[Seed_Oil_Fried_Potatoes_20pct_Diabetes_Risk_Z-002-0771]]
 
 ## Source
 - **LitNote:** [[L-002-0211_Fried_Potatoes_Seed_Oils_Diabetes]]

@@ -14,6 +14,18 @@ related: []
 ---
 
 # Smoking and BP Control Greatest Longevity Impact
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Among the five modifiable risk factors, **smoking cessation and blood pressure control provide the greatest individual contributions to longevity**, while cholesterol shows minimal independent impact.

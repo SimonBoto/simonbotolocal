@@ -16,6 +16,18 @@ created: 2026-02-22
 ---
 
 # ER Stress and  Resistance
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Endoplasmic reticulum (ER) stress activates the unfolded protein response (UPR), which induces  through JNK activation.
 

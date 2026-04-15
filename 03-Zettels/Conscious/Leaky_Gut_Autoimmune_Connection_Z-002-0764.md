@@ -15,6 +15,18 @@ related: []
 ---
 
 # Leaky Gut and Autoimmune Connection — Intestinal Permeability Mechanism
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Intestinal permeability (leaky gut) is a prerequisite for autoimmune disease** — Dr. Alessio Fasano's research demonstrates that tight junction dysfunction allows antigen entry, triggering the immune cascade that leads to autoimmunity. Healing the gut barrier can prevent or halt autoimmune processes.
@@ -111,6 +123,11 @@ Autoimmunity requires three factors:
 | **2** | Heal gut lining |
 | **3** | Rebalance microbiome |
 | **4** | Retest permeability |
+
+## Related Zettels from Same Source
+
+- [[Autoimmune_Root_Causes_Diet_Lifestyle_Z-002-0762]]
+- [[Elimination_Diets_Autoimmune_Improvement_Z-002-0763]]
 
 ## Source
 - **LitNote:** [[L-002-0208_Autoimmune_Diet_Lifestyle_Role]]

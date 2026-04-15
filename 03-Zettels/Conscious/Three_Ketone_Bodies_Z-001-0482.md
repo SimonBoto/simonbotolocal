@@ -25,6 +25,62 @@ extraction-date: 2026-03-04
 ---
 
 # The Three Ketone Bodies
+## Related Zettels from Same Source
+
+- [[BHB_Energy_Substrate_Brain_Heart_Z-001-0484]]
+- [[BHB_HDAC_Inhibition_Epigenetics_Z-001-0485]]
+- [[BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483]]
+- [[BHB_NLRP3_Inflammasome_Inhibition_Z-001-0486]]
+- [[Ketogenesis_Pathway_Regulation_Z-001-0481]]
+- [[Physiological_vs_Pathological_Ketosis_Z-001-0487]]
+
+## Source
+
+[[L-001-0045G_Ketogenesis_BHB_Signaling_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[BHB_Energy_Substrate_Brain_Heart_Z-001-0484]]
+- [[BHB_HDAC_Inhibition_Epigenetics_Z-001-0485]]
+- [[BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483]]
+- [[BHB_NLRP3_Inflammasome_Inhibition_Z-001-0486]]
+- [[Ketogenesis_Pathway_Regulation_Z-001-0481]]
+- [[Physiological_vs_Pathological_Ketosis_Z-001-0487]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[BHB_Energy_Substrate_Brain_Heart_Z-001-0484]]
+- [[BHB_HDAC_Inhibition_Epigenetics_Z-001-0485]]
+- [[BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483]]
+- [[BHB_NLRP3_Inflammasome_Inhibition_Z-001-0486]]
+- [[Ketogenesis_Pathway_Regulation_Z-001-0481]]
+- [[Physiological_vs_Pathological_Ketosis_Z-001-0487]]
+
+## Source
+
+[[L-001-0045G_Ketogenesis_BHB_Signaling_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[BHB_Energy_Substrate_Brain_Heart_Z-001-0484]]
+- [[BHB_HDAC_Inhibition_Epigenetics_Z-001-0485]]
+- [[BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483]]
+- [[BHB_NLRP3_Inflammasome_Inhibition_Z-001-0486]]
+- [[Ketogenesis_Pathway_Regulation_Z-001-0481]]
+- [[Physiological_vs_Pathological_Ketosis_Z-001-0487]]
 
 ## Core Claim
 **Three ketone bodies are produced during ketogenesis: acetoacetate (the first synthesized, a true β-keto acid), beta-hydroxybutyrate (BHB, the major circulating form at 70-80%, actually a hydroxy acid), and acetone (a spontaneous decarboxylation product, ~2%)** — AcAc and BHB are energy-yielding; acetone is volatile and eliminated via breath/urine.

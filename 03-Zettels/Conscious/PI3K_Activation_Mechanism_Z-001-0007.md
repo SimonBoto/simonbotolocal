@@ -16,6 +16,18 @@ created: 2026-02-22
 ---
 
 # PI3K Activation Mechanism
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Class IA PI3K is a lipid kinase activated by IRS recruitment, generating the second messenger PIP3.
 

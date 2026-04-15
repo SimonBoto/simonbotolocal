@@ -17,8 +17,28 @@ status: conscious
 ---
 
 # Functional Hypogonadism Pattern
+## Source
+
+[[Male_Hormone_Assessment_-_Clinical_Scenarios_and_L-001-0578_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 This zettel describes the functional hypogonadism pattern, characterized by reversible suppression of the hypothalamic-pituitary-gonadal axis.
+
+## Source
+
+[[Male_Hormone_Assessment_-_Clinical_Scenarios_and_L-001-0578_v4.0]]
 
 ## Core Principle
 

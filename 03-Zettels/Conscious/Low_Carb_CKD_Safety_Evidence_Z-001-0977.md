@@ -12,6 +12,26 @@ status: conscious
 ---
 
 # Low Carb CKD Safety Evidence — Ketogenic Diets in Kidney Disease
+## Source
+
+[[LitNote_Carbohydrate_Context_Protein_CKD_L-001-0574]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Carbohydrate_Context_Protein_CKD_L-001-0574]
 
 ## Overview
 

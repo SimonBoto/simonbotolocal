@@ -12,6 +12,18 @@ extraction-date: 2026-03-01
 ---
 
 # HMG-CoA Reductase Regulation
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 HMG-CoA reductase is regulated at multiple levels—transcriptional (SREBP-2), post-translational (AMPK phosphorylation, sterol-dependent degradation), and pharmacological (statin inhibition)—creating a sophisticated control system that balances cholesterol synthesis with cellular energy status and therapeutic intervention.
@@ -122,6 +134,13 @@ High cholesterol → SREBP-2 suppressed → HMGCR transcription ↓
 - [[Mevalonate_Branch_Points_Z-001-0547]] — FPP branch point
 - [[Mevalonate_Clinical_Implications_Z-001-0548]] — Side effects
 - [[Mevalonate_METHAP_Integration_Z-001-0549]] — METHAP protocol
+
+## Related Zettels from Same Source
+
+- [[Mevalonate_Branch_Points_Z-001-0547]]
+- [[Mevalonate_Clinical_Implications_Z-001-0548]]
+- [[Mevalonate_METHAP_Integration_Z-001-0549]]
+- [[Mevalonate_Pathway_Enzymatic_Steps_Z-001-0545]]
 
 ## Source
 [[Mevalonate_Pathway_From_Acetyl-CoA_to_Cholesterol_L-001-0509_CGPT-0393]]

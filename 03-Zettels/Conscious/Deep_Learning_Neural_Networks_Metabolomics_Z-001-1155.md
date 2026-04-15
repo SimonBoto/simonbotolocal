@@ -11,6 +11,46 @@ status: conscious
 ---
 
 # Deep Learning and Neural Networks —  Applications
+## Related Zettels from Same Source
+
+- [[Random_Forest_Classification_Feature_Importance_Z-001-1153]]
+- [[SVM_Kernel_Methods_Metabolomics_Classification_Z-001-1154]]
+
+## Source
+
+[[LitNote_Machine_Learning_Metabolomics_L-001-0618]
+
+## Related Zettels from Same Source
+
+- [[Random_Forest_Classification_Feature_Importance_Z-001-1153]]
+- [[SVM_Kernel_Methods_Metabolomics_Classification_Z-001-1154]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Random_Forest_Classification_Feature_Importance_Z-001-1153]]
+- [[SVM_Kernel_Methods_Metabolomics_Classification_Z-001-1154]]
+
+## Source
+
+[[LitNote_Machine_Learning_Metabolomics_L-001-0618]
+
+## Related Zettels from Same Source
+
+- [[Random_Forest_Classification_Feature_Importance_Z-001-1153]]
+- [[SVM_Kernel_Methods_Metabolomics_Classification_Z-001-1154]]
 
 ## Overview
 

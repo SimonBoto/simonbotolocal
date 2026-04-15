@@ -12,8 +12,60 @@ extraction-date: 2026-03-01
 ---
 
 # DNA  — Epigenetic Regulation
+## Related Zettels from Same Source
+
+- [[Histone_Methylation_Chromatin_Structure_Z-001-0410]]
+- [[Methylation_Cancer_Double_Edged_Sword_Z-001-0411]]
+- [[SAH_Methylation_Inhibitor_Ratio_Z-001-0408]]
+- [[SAM_Synthesis_Universal_Methyl_Donor_Z-001-0407]]
+- [[Vitamin_D_Methylation_Cross_Talk_Z-001-0412]]
+
+## Source
+
+[[LitNote_Methylation_Cycle_L-001-0402]
+
+## Related Zettels from Same Source
+
+- [[Histone_Methylation_Chromatin_Structure_Z-001-0410]]
+- [[Methylation_Cancer_Double_Edged_Sword_Z-001-0411]]
+- [[SAH_Methylation_Inhibitor_Ratio_Z-001-0408]]
+- [[SAM_Synthesis_Universal_Methyl_Donor_Z-001-0407]]
+- [[Vitamin_D_Methylation_Cross_Talk_Z-001-0412]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > DNA methylation at CpG dinucleotides is a stable epigenetic mark that regulates gene expression, with patterns established during development and modified by environmental factors including nutrient status.
+
+## Related Zettels from Same Source
+
+- [[Histone_Methylation_Chromatin_Structure_Z-001-0410]]
+- [[Methylation_Cancer_Double_Edged_Sword_Z-001-0411]]
+- [[SAH_Methylation_Inhibitor_Ratio_Z-001-0408]]
+- [[SAM_Synthesis_Universal_Methyl_Donor_Z-001-0407]]
+- [[Vitamin_D_Methylation_Cross_Talk_Z-001-0412]]
+
+## Source
+
+[[LitNote_Methylation_Cycle_L-001-0402]
+
+## Related Zettels from Same Source
+
+- [[Histone_Methylation_Chromatin_Structure_Z-001-0410]]
+- [[Methylation_Cancer_Double_Edged_Sword_Z-001-0411]]
+- [[SAH_Methylation_Inhibitor_Ratio_Z-001-0408]]
+- [[SAM_Synthesis_Universal_Methyl_Donor_Z-001-0407]]
+- [[Vitamin_D_Methylation_Cross_Talk_Z-001-0412]]
 
 ## Core Principle
 

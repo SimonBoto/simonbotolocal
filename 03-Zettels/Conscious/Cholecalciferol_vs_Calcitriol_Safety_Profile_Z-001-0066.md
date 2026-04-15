@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 # Cholecalciferol vs Calcitriol — Safety Profile
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Cholecalciferol (3) and calcitriol (1,25-dihydroxyvitamin D) have dramatically different safety profiles due to bypass of regulatory steps. Cholecalciferol requires two regulated hydroxylation steps; calcitriol is active hormone requiring no conversion.
 

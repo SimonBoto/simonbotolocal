@@ -23,6 +23,54 @@ extraction-date: 2026-03-04
 ---
 
 # Fructose as Glycolytic Intermediate
+## Related Zettels from Same Source
+
+- [[Evolutionary_Ancient_Glycolysis_Z-001-0470]]
+- [[Glycolysis_Steps_Regulation_Z-001-0467]]
+- [[Pyruvate_Metabolic_Crossroads_Z-001-0469]]
+- [[Triose_Structure_Glyceraldehyde_DHAP_Z-001-0466]]
+
+## Source
+
+[[L-001-0045D_Triose_Metabolism_Glycolysis_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Evolutionary_Ancient_Glycolysis_Z-001-0470]]
+- [[Glycolysis_Steps_Regulation_Z-001-0467]]
+- [[Pyruvate_Metabolic_Crossroads_Z-001-0469]]
+- [[Triose_Structure_Glyceraldehyde_DHAP_Z-001-0466]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Evolutionary_Ancient_Glycolysis_Z-001-0470]]
+- [[Glycolysis_Steps_Regulation_Z-001-0467]]
+- [[Pyruvate_Metabolic_Crossroads_Z-001-0469]]
+- [[Triose_Structure_Glyceraldehyde_DHAP_Z-001-0466]]
+
+## Source
+
+[[L-001-0045D_Triose_Metabolism_Glycolysis_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Evolutionary_Ancient_Glycolysis_Z-001-0470]]
+- [[Glycolysis_Steps_Regulation_Z-001-0467]]
+- [[Pyruvate_Metabolic_Crossroads_Z-001-0469]]
+- [[Triose_Structure_Glyceraldehyde_DHAP_Z-001-0466]]
 
 ## Core Claim
 **Fructose-6-phosphate is an essential intermediate in glycolysis — the isomerization from glucose-6-phosphate enables the aldol cleavage that splits the 6-carbon skeleton into two 3-carbon trioses** — this is distinct from dietary fructose metabolism, which bypasses regulation and drives lipogenesis.

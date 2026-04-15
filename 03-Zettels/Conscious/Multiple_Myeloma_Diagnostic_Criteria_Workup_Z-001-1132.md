@@ -12,6 +12,18 @@ extraction-date: 2026-03-08
 ---
 
 # Multiple Myeloma Diagnostic Criteria Workup
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Multiple myeloma diagnosis requires either clonal plasma cells ≥10% plus CRAB features, or clonal plasma cells ≥10% plus SLiM biomarkers of malignancy (Sixty percent plasma cells, Light chain ratio ≥100, or >1 MRI focal lesion), necessitating a comprehensive workup including serum/urine protein electrophoresis, free light chain assay, bone marrow biopsy, and skeletal imaging.
@@ -67,6 +79,13 @@ Multiple myeloma diagnosis requires either clonal plasma cells ≥10% plus CRAB 
 - [[Multiple_Myeloma_CRAB_Features_Diagnosis_Z-001-1131]] — CRAB features
 - [[Multiple_Myeloma_Staging_ISS_R-ISS_Z-001-1133]] — Staging
 - [[Multiple_Myeloma_Treatment_Modern_Approach_Z-001-1134]] — Treatment
+
+## Related Zettels from Same Source
+
+- [[Multiple_Myeloma_CRAB_Features_Diagnosis_Z-001-1131]]
+- [[Multiple_Myeloma_Staging_ISS_R-ISS_Z-001-1133]]
+- [[Multiple_Myeloma_Treatment_Modern_Approach_Z-001-1134]]
+- [[TP53_Multiple_Myeloma_Prognosis_Therapy_Z-001-1135]]
 
 ## Source
 [[Multiple_Myeloma_Comprehensive_L-001-0612_CGPT-0264]]

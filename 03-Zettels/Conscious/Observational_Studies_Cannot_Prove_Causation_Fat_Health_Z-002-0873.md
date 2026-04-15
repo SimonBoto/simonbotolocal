@@ -15,6 +15,46 @@ related: []
 ---
 
 # Observational Studies Cannot Prove Causation in Fat-Health Research
+## Related Zettels from Same Source
+
+- [[Dietary_Guidelines_Saturated_Fat_Not_Evidence_Based_Z-002-0874]]
+- [[Saturated_Fat_Not_Linked_CVD_Mortality_Tokyo_Z-002-0872]]
+
+## Source
+
+[[L-002-0244_Animal_Saturated_Fat_Not_Mortality]]
+
+## Related Zettels from Same Source
+
+- [[Dietary_Guidelines_Saturated_Fat_Not_Evidence_Based_Z-002-0874]]
+- [[Saturated_Fat_Not_Linked_CVD_Mortality_Tokyo_Z-002-0872]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Dietary_Guidelines_Saturated_Fat_Not_Evidence_Based_Z-002-0874]]
+- [[Saturated_Fat_Not_Linked_CVD_Mortality_Tokyo_Z-002-0872]]
+
+## Source
+
+[[L-002-0244_Animal_Saturated_Fat_Not_Mortality]]
+
+## Related Zettels from Same Source
+
+- [[Dietary_Guidelines_Saturated_Fat_Not_Evidence_Based_Z-002-0874]]
+- [[Saturated_Fat_Not_Linked_CVD_Mortality_Tokyo_Z-002-0872]]
 
 ## Core Claim
 **Current dietary guidelines on saturated fat are based on observational studies that cannot prove causation** — the evidence base is weaker than commonly assumed.

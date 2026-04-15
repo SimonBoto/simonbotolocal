@@ -13,6 +13,62 @@ extraction-date: 2026-03-08
 ---
 
 # Nutrition Macronutrient Terminology
+## Related Zettels from Same Source
+
+- [[Health_Philosophy_Core_Concepts_Z-001-1041]]
+- [[Hormonal_Metabolic_Regulation_Terms_Z-001-1044]]
+- [[Metabolism_Metabolomics_Terminology_Z-001-1042]]
+- [[Microbiome_Gut_Brain_Terminology_Z-001-1045]]
+- [[Mitochondrial_Energy_Terminology_Z-001-1043]]
+- [[Patient_Communication_Core_Concepts_Z-001-1047]]
+
+## Source
+
+[[L-001-0590_Core_Clinical_Vocabulary_66_Terms_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Health_Philosophy_Core_Concepts_Z-001-1041]]
+- [[Hormonal_Metabolic_Regulation_Terms_Z-001-1044]]
+- [[Metabolism_Metabolomics_Terminology_Z-001-1042]]
+- [[Microbiome_Gut_Brain_Terminology_Z-001-1045]]
+- [[Mitochondrial_Energy_Terminology_Z-001-1043]]
+- [[Patient_Communication_Core_Concepts_Z-001-1047]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Health_Philosophy_Core_Concepts_Z-001-1041]]
+- [[Hormonal_Metabolic_Regulation_Terms_Z-001-1044]]
+- [[Metabolism_Metabolomics_Terminology_Z-001-1042]]
+- [[Microbiome_Gut_Brain_Terminology_Z-001-1045]]
+- [[Mitochondrial_Energy_Terminology_Z-001-1043]]
+- [[Patient_Communication_Core_Concepts_Z-001-1047]]
+
+## Source
+
+[[L-001-0590_Core_Clinical_Vocabulary_66_Terms_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Health_Philosophy_Core_Concepts_Z-001-1041]]
+- [[Hormonal_Metabolic_Regulation_Terms_Z-001-1044]]
+- [[Metabolism_Metabolomics_Terminology_Z-001-1042]]
+- [[Microbiome_Gut_Brain_Terminology_Z-001-1045]]
+- [[Mitochondrial_Energy_Terminology_Z-001-1043]]
+- [[Patient_Communication_Core_Concepts_Z-001-1047]]
 
 ## Core Claim
 **Twelve nutritional terms — Macronutrients, Micronutrients, Essential Fatty Acids, Omega-6/3 Ratio, and Metabolic Flexibility — define the dietary substrates that fuel metabolism, with metabolic flexibility representing the capacity to switch between fuel sources as the hallmark of metabolic health.**

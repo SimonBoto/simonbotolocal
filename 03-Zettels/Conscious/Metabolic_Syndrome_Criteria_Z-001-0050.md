@@ -20,10 +20,30 @@ extraction-date: 2026-04-15
 ---
 
 # Metabolic Syndrome — ATP III Criteria
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **Metabolic Syndrome** (Syndrome X, Insulin Resistance Syndrome) is a cluster of cardiovascular risk factors with insulin resistance as the underlying mechanism. Diagnosis requires **3 of 5 ATP III criteria**.
 
 ---
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Principle
 

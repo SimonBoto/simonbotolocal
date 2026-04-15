@@ -12,6 +12,18 @@ extraction-date: 2026-04-15
 ---
 
 # Rewriting Overstated Claims Using Cautious Scientific Language
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Purpose
 Convert **premature conclusions** to **appropriately calibrated statements** that match evidence strength while maintaining scientific significance.

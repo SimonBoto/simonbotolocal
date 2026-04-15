@@ -15,6 +15,46 @@ related: []
 ---
 
 # Vigorous Activity More Efficient Than Moderate for Time-Limited Individuals
+## Related Zettels from Same Source
+
+- [[Exercise_Diminishing_Returns_Z-002-0799]]
+- [[Minimal_Exercise_15min_Mortality_Z-002-0798]]
+
+## Source
+
+[[L-002-0220_Exercise_Minimal_Dose_Mortality]]
+
+## Related Zettels from Same Source
+
+- [[Exercise_Diminishing_Returns_Z-002-0799]]
+- [[Minimal_Exercise_15min_Mortality_Z-002-0798]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Exercise_Diminishing_Returns_Z-002-0799]]
+- [[Minimal_Exercise_15min_Mortality_Z-002-0798]]
+
+## Source
+
+[[L-002-0220_Exercise_Minimal_Dose_Mortality]]
+
+## Related Zettels from Same Source
+
+- [[Exercise_Diminishing_Returns_Z-002-0799]]
+- [[Minimal_Exercise_15min_Mortality_Z-002-0798]]
 
 ## Core Claim
 **Vigorous physical activity is more time-efficient than moderate activity for mortality reduction** — small amounts of high-intensity exercise provide substantial benefits, making it practical for time-limited individuals to achieve health protection.

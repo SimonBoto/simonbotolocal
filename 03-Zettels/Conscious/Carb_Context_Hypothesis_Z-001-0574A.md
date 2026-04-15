@@ -20,6 +20,18 @@ status: conscious
 ---
 
 # Carb Context Hypothesis — Carbohydrate Context Modifies Protein Effects
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Carbohydrate context fundamentally modifies protein effects in CKD research — most studies treat protein in isolation, ignoring the metabolic context created by concurrent carbohydrate intake.
 

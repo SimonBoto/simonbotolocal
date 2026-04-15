@@ -14,10 +14,66 @@ created: 2026-03-27
 ---
 
 # Fair Subject Selection in Research Ethics
+## Related Zettels from Same Source
+
+- [[Independent_Review_IRB_Ethics_Z-002-0605]]
+- [[Informed_Consent_Ethical_Research_Z-002-0606]]
+- [[Respect_Enrolled_Subjects_Ethics_Z-002-0607]]
+- [[Risk_Benefit_Ratio_Ethical_Research_Z-002-0604]]
+- [[Scientific_Validity_Ethical_Requirement_Z-002-0602]]
+- [[Social_Clinical_Value_Ethical_Research_Z-002-0601]]
+
+## Source
+
+[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]
+
+## Related Zettels from Same Source
+
+- [[Independent_Review_IRB_Ethics_Z-002-0605]]
+- [[Informed_Consent_Ethical_Research_Z-002-0606]]
+- [[Respect_Enrolled_Subjects_Ethics_Z-002-0607]]
+- [[Risk_Benefit_Ratio_Ethical_Research_Z-002-0604]]
+- [[Scientific_Validity_Ethical_Requirement_Z-002-0602]]
+- [[Social_Clinical_Value_Ethical_Research_Z-002-0601]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Subjects must be selected based on scientific objectives, not vulnerability or convenience. Fair selection ensures equitable distribution of research burdens and benefits across populations.
 
 **Core principle:** Selection criteria must be scientifically justified. Vulnerable groups require additional protections and should not be targeted merely because they are easily accessible.
+
+## Related Zettels from Same Source
+
+- [[Independent_Review_IRB_Ethics_Z-002-0605]]
+- [[Informed_Consent_Ethical_Research_Z-002-0606]]
+- [[Respect_Enrolled_Subjects_Ethics_Z-002-0607]]
+- [[Risk_Benefit_Ratio_Ethical_Research_Z-002-0604]]
+- [[Scientific_Validity_Ethical_Requirement_Z-002-0602]]
+- [[Social_Clinical_Value_Ethical_Research_Z-002-0601]]
+
+## Source
+
+[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]
+
+## Related Zettels from Same Source
+
+- [[Independent_Review_IRB_Ethics_Z-002-0605]]
+- [[Informed_Consent_Ethical_Research_Z-002-0606]]
+- [[Respect_Enrolled_Subjects_Ethics_Z-002-0607]]
+- [[Risk_Benefit_Ratio_Ethical_Research_Z-002-0604]]
+- [[Scientific_Validity_Ethical_Requirement_Z-002-0602]]
+- [[Social_Clinical_Value_Ethical_Research_Z-002-0601]]
 
 ## Core Principle
 

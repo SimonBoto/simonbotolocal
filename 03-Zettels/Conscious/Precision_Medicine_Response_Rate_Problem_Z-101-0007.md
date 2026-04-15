@@ -14,6 +14,22 @@ extraction-date: 2026-04-15
 ---
 
 # Precision Medicine 30-60 Percent Response Rate Problem
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Approved therapies for chronic diseases show only 30-60% effectiveness, with significant heterogeneity in patient response. This empirical approach — treating chronic conditions reactively after damage occurs — results in unnecessary adverse effects, costs, and delayed optimal care.
 
@@ -33,6 +49,10 @@ Approved therapies for chronic diseases show only 30-60% effectiveness, with sig
 **Solution:** Pharmaco enables responder stratification before treatment, matching therapy to metabolic profile rather than trial-and-error.
 
 **METHAP Application:**  response is heterogeneous. Metabolic s (adipic acid panel) can identify likely responders before intervention, optimizing resource allocation and patient outcomes.
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Principle
 

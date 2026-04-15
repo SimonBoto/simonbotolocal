@@ -15,6 +15,18 @@ related: []
 ---
 
 # 80% of Disease Risk Factors Are Modifiable Through Lifestyle
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Approximately 80% of chronic disease risk factors are modifiable through lifestyle choices** — diet, physical activity, sleep, stress management, and substance use have far greater impact on health outcomes than genetics, demonstrating that personal choices are the primary determinants of disease risk and longevity.
@@ -90,6 +102,11 @@ related: []
 | **2** | Improve diet | Broad impact |
 | **3** | Move daily | Multiple benefits |
 | **4** | Sleep adequately | Foundation for others |
+
+## Related Zettels from Same Source
+
+- [[Health_Not_Determined_Genetics_Alone_Z-002-0779]]
+- [[Prevention_Through_Lifestyle_Change_Z-002-0778]]
 
 ## Source
 - **LitNote:** [[L-002-0213_Lifestyle_Factors_Modifiable]]

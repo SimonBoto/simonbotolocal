@@ -11,6 +11,46 @@ status: conscious
 ---
 
 # Taurine — Bile Flow and Gut Health Support
+## Related Zettels from Same Source
+
+- [[Amino_Acids_Gut_Healing_Synergy_Z-001-1226]]
+- [[Glutamine_Intestinal_Repair_Protocol_Z-001-1224]]
+
+## Source
+
+[[LitNote_Gut_Healing_Amino_Acids_L-001-0636]
+
+## Related Zettels from Same Source
+
+- [[Amino_Acids_Gut_Healing_Synergy_Z-001-1226]]
+- [[Glutamine_Intestinal_Repair_Protocol_Z-001-1224]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Amino_Acids_Gut_Healing_Synergy_Z-001-1226]]
+- [[Glutamine_Intestinal_Repair_Protocol_Z-001-1224]]
+
+## Source
+
+[[LitNote_Gut_Healing_Amino_Acids_L-001-0636]
+
+## Related Zettels from Same Source
+
+- [[Amino_Acids_Gut_Healing_Synergy_Z-001-1226]]
+- [[Glutamine_Intestinal_Repair_Protocol_Z-001-1224]]
 
 ## Overview
 

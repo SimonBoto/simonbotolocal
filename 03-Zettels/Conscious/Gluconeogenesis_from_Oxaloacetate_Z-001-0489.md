@@ -13,6 +13,54 @@ extraction-date: 2026-03-04
 ---
 
 # Gluconeogenesis from Oxaloacetate
+## Related Zettels from Same Source
+
+- [[Anaplerosis_Replenishing_Krebs_Cycle_Z-001-0492]]
+- [[Mitochondrial_Shuttles_Malate_Aspartate_Z-001-0490]]
+- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488]]
+- [[PEPCK_Gluconeogenic_Regulation_Z-001-0491]]
+
+## Source
+
+[[L-001-0045H_Oxaloacetate_Gluconeogenesis_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Anaplerosis_Replenishing_Krebs_Cycle_Z-001-0492]]
+- [[Mitochondrial_Shuttles_Malate_Aspartate_Z-001-0490]]
+- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488]]
+- [[PEPCK_Gluconeogenic_Regulation_Z-001-0491]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Anaplerosis_Replenishing_Krebs_Cycle_Z-001-0492]]
+- [[Mitochondrial_Shuttles_Malate_Aspartate_Z-001-0490]]
+- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488]]
+- [[PEPCK_Gluconeogenic_Regulation_Z-001-0491]]
+
+## Source
+
+[[L-001-0045H_Oxaloacetate_Gluconeogenesis_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Anaplerosis_Replenishing_Krebs_Cycle_Z-001-0492]]
+- [[Mitochondrial_Shuttles_Malate_Aspartate_Z-001-0490]]
+- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488]]
+- [[PEPCK_Gluconeogenic_Regulation_Z-001-0491]]
 
 ## Core Claim
 **The conversion of oxaloacetate to phosphoenolpyruvate (PEP) by PEP carboxykinase (PEPCK) is the critical bypass reaction that enables gluconeogenesis from pyruvate/lactate — since the pyruvate kinase reaction (PEP → pyruvate) is irreversible, cells use a two-step detour: pyruvate carboxylase (mitochondrial) makes OAA, PEPCK (cytosolic) converts OAA to PEP** — this energy-investing step (1 GTP) is rate-limiting and hormonally regulated.

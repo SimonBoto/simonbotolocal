@@ -18,8 +18,28 @@ status: conscious
 ---
 
 # IBD Genetic Predisposition
+## Source
+
+[[Inflammatory_Bowel_Disease_-_Crohn-s_vs_Ulcerati_L-001-0585_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > **Source:** ChatGPT conversation [[CGPT_0209_Gastroenterology_Registrar_Assessment_CGPT-0209]] (November 18, 2025)
+
+## Source
+
+[[Inflammatory_Bowel_Disease_-_Crohn-s_vs_Ulcerati_L-001-0585_v4.0]]
 
 ## Core Claim
 Genetic susceptibility plays a critical role in IBD pathogenesis, with distinct genetic risk variants associated with Crohn's disease (NOD2/CARD15, IL23R) versus ulcerative colitis (HLA alleles, IL10, IL26), contributing to differential immune dysregulation.

@@ -19,6 +19,26 @@ status: conscious
 ---
 
 # Anabolic to Antiresorptive Transition
+## Source
+
+[[Drug_Transition_Protocols_—_Sequential_Therapy_in_Osteopor_L-001-0018_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[Drug_Transition_Protocols_—_Sequential_Therapy_in_Osteopor_L-001-0018_v4.0]]
 
 ## Core Concept
 

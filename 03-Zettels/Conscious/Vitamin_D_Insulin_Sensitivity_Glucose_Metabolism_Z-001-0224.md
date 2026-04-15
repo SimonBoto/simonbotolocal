@@ -12,8 +12,52 @@ extraction-date: 2026-03-01
 ---
 
 #  and  Sensitivity — Glucose  Mechanisms
+## Related Zettels from Same Source
+
+- [[Vitamin_D_Biochemistry_Synthesis_Activation_Z-001-0223]]
+- [[Vitamin_D_Inflammation_Adipose_Tissue_Immunomodulation_Z-001-0226]]
+- [[Vitamin_D_Lipid_Metabolism_HDL_Triglycerides_Z-001-0225]]
+
+## Source
+
+[[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]
+
+## Related Zettels from Same Source
+
+- [[Vitamin_D_Biochemistry_Synthesis_Activation_Z-001-0223]]
+- [[Vitamin_D_Inflammation_Adipose_Tissue_Immunomodulation_Z-001-0226]]
+- [[Vitamin_D_Lipid_Metabolism_HDL_Triglycerides_Z-001-0225]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Vitamin D improves insulin sensitivity through direct actions on pancreatic β-cells, enhanced peripheral glucose uptake, and suppression of inflammatory and oxidative pathways that drive insulin resistance.
+
+## Related Zettels from Same Source
+
+- [[Vitamin_D_Biochemistry_Synthesis_Activation_Z-001-0223]]
+- [[Vitamin_D_Inflammation_Adipose_Tissue_Immunomodulation_Z-001-0226]]
+- [[Vitamin_D_Lipid_Metabolism_HDL_Triglycerides_Z-001-0225]]
+
+## Source
+
+[[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]
+
+## Related Zettels from Same Source
+
+- [[Vitamin_D_Biochemistry_Synthesis_Activation_Z-001-0223]]
+- [[Vitamin_D_Inflammation_Adipose_Tissue_Immunomodulation_Z-001-0226]]
+- [[Vitamin_D_Lipid_Metabolism_HDL_Triglycerides_Z-001-0225]]
 
 ## Core Principle
 

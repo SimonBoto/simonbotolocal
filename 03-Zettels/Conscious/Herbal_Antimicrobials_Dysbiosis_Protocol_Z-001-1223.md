@@ -15,8 +15,48 @@ status: conscious
 ---
 
 # Herbal Antimicrobials for Dysbiosis Protocol
+## Related Zettels from Same Source
+
+- [[Die_Off_Reaction_Herxheimer_Gut_Treatment_Z-001-1221]]
+- [[Stool_Changes_Dysbiosis_Treatment_Monitoring_Z-001-1222]]
+
+## Source
+
+[[LitNote_Dysbiosis_Treatment_Die_Off_L-001-0635]]
+
+## Related Zettels from Same Source
+
+- [[Die_Off_Reaction_Herxheimer_Gut_Treatment_Z-001-1221]]
+- [[Stool_Changes_Dysbiosis_Treatment_Monitoring_Z-001-1222]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Herbal antimicrobials provide broad-spectrum activity against bacterial, fungal, and parasitic overgrowth in dysbiosis with fewer side effects than pharmaceutical antibiotics, though they require longer treatment duration and careful monitoring for Herxheimer reactions.
+
+## Related Zettels from Same Source
+
+- [[Die_Off_Reaction_Herxheimer_Gut_Treatment_Z-001-1221]]
+- [[Stool_Changes_Dysbiosis_Treatment_Monitoring_Z-001-1222]]
+
+## Source
+
+[[LitNote_Dysbiosis_Treatment_Die_Off_L-001-0635]]
+
+## Related Zettels from Same Source
+
+- [[Die_Off_Reaction_Herxheimer_Gut_Treatment_Z-001-1221]]
+- [[Stool_Changes_Dysbiosis_Treatment_Monitoring_Z-001-1222]]
 
 ## Core Principle
 

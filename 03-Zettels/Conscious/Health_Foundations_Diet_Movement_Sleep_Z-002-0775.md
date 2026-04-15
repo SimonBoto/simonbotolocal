@@ -15,6 +15,18 @@ related: []
 ---
 
 # Health Foundations — Diet, Movement, and Sleep as Core Pillars
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Diet, physical movement, and sleep are the three foundational pillars of health** — these core lifestyle factors have the strongest evidence base for preventing chronic disease, extending lifespan, and improving quality of life. Master these before optimizing other factors.
@@ -112,6 +124,11 @@ related: []
 ## Significance
 
 **Diet, physical movement, and sleep are the three foundational pillars of health** — these core lifestyle factors have the strongest evidence base for preventing chronic disease, extending lifespan, and improving quality of life. Master these before optimizing other factors.
+
+## Related Zettels from Same Source
+
+- [[Social_Connection_Health_Benefit_Z-002-0776]]
+- [[Twelve_Evidence_Based_Health_Actions_Z-002-0774]]
 
 ## Source
 - **LitNote:** [[L-002-0212_Twelve_Actions_Better_Health]]

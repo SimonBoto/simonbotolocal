@@ -15,6 +15,46 @@ related: []
 ---
 
 # Cholesterol and Weight Have Less Impact When Other Factors Are Controlled
+## Related Zettels from Same Source
+
+- [[Five_Risk_Factors_14_Extra_Years_Women_Men_Z-002-0828]]
+- [[Smoking_Cessation_Hypertension_Greatest_Longevity_Benefit_Z-002-0829]]
+
+## Source
+
+[[L-002-0230_Five_Risk_Factors_14_Years_NEJM]]
+
+## Related Zettels from Same Source
+
+- [[Five_Risk_Factors_14_Extra_Years_Women_Men_Z-002-0828]]
+- [[Smoking_Cessation_Hypertension_Greatest_Longevity_Benefit_Z-002-0829]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Five_Risk_Factors_14_Extra_Years_Women_Men_Z-002-0828]]
+- [[Smoking_Cessation_Hypertension_Greatest_Longevity_Benefit_Z-002-0829]]
+
+## Source
+
+[[L-002-0230_Five_Risk_Factors_14_Years_NEJM]]
+
+## Related Zettels from Same Source
+
+- [[Five_Risk_Factors_14_Extra_Years_Women_Men_Z-002-0828]]
+- [[Smoking_Cessation_Hypertension_Greatest_Longevity_Benefit_Z-002-0829]]
 
 ## Core Claim
 **Cholesterol and body weight have less independent impact on longevity when the other three risk factors are controlled** — cholesterol shows a U-shaped relationship, and weight effects are confounded by accompanying metabolic conditions.

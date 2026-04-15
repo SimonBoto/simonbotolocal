@@ -13,6 +13,26 @@ status: conscious
 parent-index: [[03-Zettels-Conscious]]
 
 # Psoriasis Keratinocyte Telomere Pathology
+## Source
+
+[[LitNote_Disease_Specific_Telomere_Findings_L-001-0624]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Disease_Specific_Telomere_Findings_L-001-0624]
 
 ## Key Finding in Psoriasis
 

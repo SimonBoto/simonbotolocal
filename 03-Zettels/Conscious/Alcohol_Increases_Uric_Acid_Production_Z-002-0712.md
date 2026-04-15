@@ -14,6 +14,18 @@ related: []
 ---
 
 # Alcohol Increases Uric Acid Production
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Alcohol consumption increases uric acid** through multiple mechanisms: increased purine metabolism, lactate competition for excretion, and dehydration.

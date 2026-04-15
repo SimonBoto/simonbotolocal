@@ -21,6 +21,18 @@ status: conscious
 ---
 
 # Carb Context Mechanism — Metabolic Interactions
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Carbohydrate context creates different metabolic environments that fundamentally alter protein's renal effects.
 

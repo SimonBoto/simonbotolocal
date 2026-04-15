@@ -15,6 +15,46 @@ related: []
 ---
 
 # Dietary Guidelines on Saturated Fat Not Evidence-Based
+## Related Zettels from Same Source
+
+- [[Observational_Studies_Cannot_Prove_Causation_Fat_Health_Z-002-0873]]
+- [[Saturated_Fat_Not_Linked_CVD_Mortality_Tokyo_Z-002-0872]]
+
+## Source
+
+[[L-002-0244_Animal_Saturated_Fat_Not_Mortality]]
+
+## Related Zettels from Same Source
+
+- [[Observational_Studies_Cannot_Prove_Causation_Fat_Health_Z-002-0873]]
+- [[Saturated_Fat_Not_Linked_CVD_Mortality_Tokyo_Z-002-0872]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Observational_Studies_Cannot_Prove_Causation_Fat_Health_Z-002-0873]]
+- [[Saturated_Fat_Not_Linked_CVD_Mortality_Tokyo_Z-002-0872]]
+
+## Source
+
+[[L-002-0244_Animal_Saturated_Fat_Not_Mortality]]
+
+## Related Zettels from Same Source
+
+- [[Observational_Studies_Cannot_Prove_Causation_Fat_Health_Z-002-0873]]
+- [[Saturated_Fat_Not_Linked_CVD_Mortality_Tokyo_Z-002-0872]]
 
 ## Core Claim
 **Conventional dietary guidelines recommending restriction of animal and saturated fats are not evidence-based** — may have unintended negative consequences.

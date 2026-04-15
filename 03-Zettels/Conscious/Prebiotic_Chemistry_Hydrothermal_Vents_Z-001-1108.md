@@ -23,6 +23,50 @@ extraction-date: 2026-03-08
 ---
 
 # Prebiotic Chemistry — Hydrothermal Vents
+## Related Zettels from Same Source
+
+- [[Ancient_Metabolic_Pathways_Conservation_Z-001-1107]]
+- [[Metabolic_Fossils_Ancient_Pathway_Remants_Z-001-1109]]
+- [[RNA_World_Hypothesis_Origins_Life_Z-001-1106]]
+
+## Source
+
+[[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]]
+
+## Related Zettels from Same Source
+
+- [[Ancient_Metabolic_Pathways_Conservation_Z-001-1107]]
+- [[Metabolic_Fossils_Ancient_Pathway_Remants_Z-001-1109]]
+- [[RNA_World_Hypothesis_Origins_Life_Z-001-1106]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Ancient_Metabolic_Pathways_Conservation_Z-001-1107]]
+- [[Metabolic_Fossils_Ancient_Pathway_Remants_Z-001-1109]]
+- [[RNA_World_Hypothesis_Origins_Life_Z-001-1106]]
+
+## Source
+
+[[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]]
+
+## Related Zettels from Same Source
+
+- [[Ancient_Metabolic_Pathways_Conservation_Z-001-1107]]
+- [[Metabolic_Fossils_Ancient_Pathway_Remants_Z-001-1109]]
+- [[RNA_World_Hypothesis_Origins_Life_Z-001-1106]]
 
 ## Core Claim
 **Hydrothermal vents at the ocean floor provide conditions that may have facilitated prebiotic chemistry—temperature gradients, mineral catalysis (iron-sulfur), and chemical disequilibrium that could drive organic synthesis from simple precursors** — the iron-sulfur world hypothesis suggests mineral surfaces catalyzed first metabolic reactions before enzymes evolved.

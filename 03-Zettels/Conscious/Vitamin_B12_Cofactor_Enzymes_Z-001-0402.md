@@ -12,8 +12,60 @@ extraction-date: 2026-03-01
 ---
 
 # Vitamin B12 Cofactor Enzymes
+## Related Zettels from Same Source
+
+- [[B12_Absorption_Transport_Z-001-0403]]
+- [[B12_Deficiency_Manifestations_Z-001-0406]]
+- [[Homocysteine_Metabolism_Z-001-0405]]
+- [[Methyl_Trap_B12_Folate_Z-001-0404]]
+- [[One_Carbon_Metabolism_Overview_Z-001-0401]]
+
+## Source
+
+[[LitNote_One_Carbon_Metabolism_B12_L-001-0401]
+
+## Related Zettels from Same Source
+
+- [[B12_Absorption_Transport_Z-001-0403]]
+- [[B12_Deficiency_Manifestations_Z-001-0406]]
+- [[Homocysteine_Metabolism_Z-001-0405]]
+- [[Methyl_Trap_B12_Folate_Z-001-0404]]
+- [[One_Carbon_Metabolism_Overview_Z-001-0401]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Vitamin B12 serves as an essential cofactor for two critical enzymes: methionine synthase (cytosolic, methylation) and methylmalonyl-CoA mutase (l, energy ).
+
+## Related Zettels from Same Source
+
+- [[B12_Absorption_Transport_Z-001-0403]]
+- [[B12_Deficiency_Manifestations_Z-001-0406]]
+- [[Homocysteine_Metabolism_Z-001-0405]]
+- [[Methyl_Trap_B12_Folate_Z-001-0404]]
+- [[One_Carbon_Metabolism_Overview_Z-001-0401]]
+
+## Source
+
+[[LitNote_One_Carbon_Metabolism_B12_L-001-0401]
+
+## Related Zettels from Same Source
+
+- [[B12_Absorption_Transport_Z-001-0403]]
+- [[B12_Deficiency_Manifestations_Z-001-0406]]
+- [[Homocysteine_Metabolism_Z-001-0405]]
+- [[Methyl_Trap_B12_Folate_Z-001-0404]]
+- [[One_Carbon_Metabolism_Overview_Z-001-0401]]
 
 ## Core Principle
 

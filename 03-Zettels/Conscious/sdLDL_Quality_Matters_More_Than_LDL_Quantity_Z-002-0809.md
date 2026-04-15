@@ -15,6 +15,18 @@ related: []
 ---
 
 # sdLDL Quality Matters More Than LDL Quantity
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Small dense LDL (sdLDL) is more atherogenic than total LDL quantity** — created by glucose exposure and oxidation, sdLDL represents "damaged" cholesterol that is more dangerous than the total LDL number.
@@ -66,6 +78,11 @@ related: []
 
 > "Small dense LDL (sdLDL) — cholesterol that has shrunk from exposure to glucose and oxidation from smoking, alcohol, and processed foods — ranks #7 in risk factor importance, above total LDL."
 > — CVD risk hierarchy
+
+## Related Zettels from Same Source
+
+- [[LDL_Number_10_CVD_Risk_Hierarchy_Z-002-0807]]
+- [[Metabolic_Cluster_80_Percent_CVD_Risk_Z-002-0808]]
 
 ## Source
 - **LitNote:** [[L-002-0223_CVD_Risk_Factors_Ranking]]

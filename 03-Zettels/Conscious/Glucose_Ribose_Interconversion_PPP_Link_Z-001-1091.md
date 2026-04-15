@@ -23,6 +23,54 @@ extraction-date: 2026-03-08
 ---
 
 # Glucose-Ribose Interconversion via PPP
+## Related Zettels from Same Source
+
+- [[Evolutionary_Origins_Glycolysis_Ancient_Metabolism_Z-001-1092]]
+- [[Pentose_Phosphate_Pathway_Ribose_NADPH_Z-001-1090]]
+- [[Triose_Roles_Glycolysis_PPP_Krebs_Integration_Z-001-1089]]
+- [[Trioses_Simplest_Sugars_Glyceraldehyde_Dihydroxyacetone_Z-001-1088]]
+
+## Source
+
+[[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]]
+
+## Related Zettels from Same Source
+
+- [[Evolutionary_Origins_Glycolysis_Ancient_Metabolism_Z-001-1092]]
+- [[Pentose_Phosphate_Pathway_Ribose_NADPH_Z-001-1090]]
+- [[Triose_Roles_Glycolysis_PPP_Krebs_Integration_Z-001-1089]]
+- [[Trioses_Simplest_Sugars_Glyceraldehyde_Dihydroxyacetone_Z-001-1088]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Evolutionary_Origins_Glycolysis_Ancient_Metabolism_Z-001-1092]]
+- [[Pentose_Phosphate_Pathway_Ribose_NADPH_Z-001-1090]]
+- [[Triose_Roles_Glycolysis_PPP_Krebs_Integration_Z-001-1089]]
+- [[Trioses_Simplest_Sugars_Glyceraldehyde_Dihydroxyacetone_Z-001-1088]]
+
+## Source
+
+[[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]]
+
+## Related Zettels from Same Source
+
+- [[Evolutionary_Origins_Glycolysis_Ancient_Metabolism_Z-001-1092]]
+- [[Pentose_Phosphate_Pathway_Ribose_NADPH_Z-001-1090]]
+- [[Triose_Roles_Glycolysis_PPP_Krebs_Integration_Z-001-1089]]
+- [[Trioses_Simplest_Sugars_Glyceraldehyde_Dihydroxyacetone_Z-001-1088]]
 
 ## Core Claim
 **Glucose-6-phosphate enters the pentose phosphate pathway to become ribose-5-phosphate, creating a metabolic bridge between dietary carbohydrate and nucleotide synthesis** — this connection is essential for rapidly dividing tissues (bone marrow, gut, skin) that require continuous nucleotide production.

@@ -12,8 +12,60 @@ extraction-date: 2026-03-01
 ---
 
 # B12 Reference and Optimal Values
+## Related Zettels from Same Source
+
+- [[Folate_Serum_vs_RBC_Assessment_Z-001-0446]]
+- [[Homocysteine_Ranges_Cardiovascular_Risk_Z-001-0447]]
+- [[Integrated_B12_Assessment_Complete_Picture_Z-001-0449]]
+- [[MMA_Sensitive_B12_Marker_Z-001-0448]]
+- [[Standard_vs_Optimal_Ranges_Philosophy_Z-001-0444]]
+
+## Source
+
+[[LitNote_B12_Clinical_Assessment_L-001-0408]
+
+## Related Zettels from Same Source
+
+- [[Folate_Serum_vs_RBC_Assessment_Z-001-0446]]
+- [[Homocysteine_Ranges_Cardiovascular_Risk_Z-001-0447]]
+- [[Integrated_B12_Assessment_Complete_Picture_Z-001-0449]]
+- [[MMA_Sensitive_B12_Marker_Z-001-0448]]
+- [[Standard_vs_Optimal_Ranges_Philosophy_Z-001-0444]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > While standard B12 range is 200-900 pg/mL, optimal levels are >400-500 pg/mL, with neurological symptoms possible at 200-400 even without anemia.
+
+## Related Zettels from Same Source
+
+- [[Folate_Serum_vs_RBC_Assessment_Z-001-0446]]
+- [[Homocysteine_Ranges_Cardiovascular_Risk_Z-001-0447]]
+- [[Integrated_B12_Assessment_Complete_Picture_Z-001-0449]]
+- [[MMA_Sensitive_B12_Marker_Z-001-0448]]
+- [[Standard_vs_Optimal_Ranges_Philosophy_Z-001-0444]]
+
+## Source
+
+[[LitNote_B12_Clinical_Assessment_L-001-0408]
+
+## Related Zettels from Same Source
+
+- [[Folate_Serum_vs_RBC_Assessment_Z-001-0446]]
+- [[Homocysteine_Ranges_Cardiovascular_Risk_Z-001-0447]]
+- [[Integrated_B12_Assessment_Complete_Picture_Z-001-0449]]
+- [[MMA_Sensitive_B12_Marker_Z-001-0448]]
+- [[Standard_vs_Optimal_Ranges_Philosophy_Z-001-0444]]
 
 ## Core Principle
 

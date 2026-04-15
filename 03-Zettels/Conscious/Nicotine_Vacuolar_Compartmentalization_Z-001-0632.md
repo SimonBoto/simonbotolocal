@@ -14,6 +14,18 @@ extraction-date: 2026-04-15
 ---
 
 # Nicotine Vacuolar Compartmentalization
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Nicotine biosynthesis occurs on **plant vacuole surfaces**, with toxic intermediates rapidly sequestered and the final product stored in vacuoles via specialized transporters.
 

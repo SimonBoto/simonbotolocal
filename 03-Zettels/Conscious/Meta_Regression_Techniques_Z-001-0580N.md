@@ -18,8 +18,28 @@ status: conscious
 ---
 
 # Meta-Regression Techniques
+## Source
+
+[[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > **Definition:** Meta-regression is a statistical technique that examines the relationship between study-level characteristics (covariates) and effect sizes in a meta-analysis, allowing exploration of sources of heterogeneity.
+
+## Source
+
+[[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]
 
 ## Core Principle
 

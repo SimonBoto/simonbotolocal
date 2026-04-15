@@ -20,6 +20,18 @@ status: conscious
 ---
 
 # Carb Context Problem — Research Methodology Flaw
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Most protein-CKD research treats protein in isolation, ignoring the metabolic context created by concurrent carbohydrate intake.
 

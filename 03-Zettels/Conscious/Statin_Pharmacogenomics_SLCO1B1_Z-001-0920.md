@@ -26,8 +26,64 @@ updated: 2026-03-05
 ---
 
 # Statin Pharmacogenomics — SLCO1B1
+## Related Zettels from Same Source
+
+- [[Framingham_Reassessment_Cholesterol_Hypothesis_Z-001-0511]]
+- [[Non_Statin_Lipid_Lowering_Options_Z-001-0514]]
+- [[Statin_Clinical_Decision_Making_Z-001-0515]]
+- [[Statin_Intolerance_Myopathy_Management_Z-001-0919]]
+- [[Statin_Major_Clinical_Trials_Z-001-0510]]
+- [[Statin_Mechanism_HMG_CoA_Reductase_Z-001-0509]]
+
+## Source
+
+[[LitNote_Statin_Pharmacology_L-001-0502]]
+
+## Related Zettels from Same Source
+
+- [[Framingham_Reassessment_Cholesterol_Hypothesis_Z-001-0511]]
+- [[Non_Statin_Lipid_Lowering_Options_Z-001-0514]]
+- [[Statin_Clinical_Decision_Making_Z-001-0515]]
+- [[Statin_Intolerance_Myopathy_Management_Z-001-0919]]
+- [[Statin_Major_Clinical_Trials_Z-001-0510]]
+- [[Statin_Mechanism_HMG_CoA_Reductase_Z-001-0509]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Genetic polymorphisms in SLCO1B1 and CYP enzymes substantially affect statin pharmacokinetics and myopathy risk, enabling precision dosing.
+
+## Related Zettels from Same Source
+
+- [[Framingham_Reassessment_Cholesterol_Hypothesis_Z-001-0511]]
+- [[Non_Statin_Lipid_Lowering_Options_Z-001-0514]]
+- [[Statin_Clinical_Decision_Making_Z-001-0515]]
+- [[Statin_Intolerance_Myopathy_Management_Z-001-0919]]
+- [[Statin_Major_Clinical_Trials_Z-001-0510]]
+- [[Statin_Mechanism_HMG_CoA_Reductase_Z-001-0509]]
+
+## Source
+
+[[LitNote_Statin_Pharmacology_L-001-0502]]
+
+## Related Zettels from Same Source
+
+- [[Framingham_Reassessment_Cholesterol_Hypothesis_Z-001-0511]]
+- [[Non_Statin_Lipid_Lowering_Options_Z-001-0514]]
+- [[Statin_Clinical_Decision_Making_Z-001-0515]]
+- [[Statin_Intolerance_Myopathy_Management_Z-001-0919]]
+- [[Statin_Major_Clinical_Trials_Z-001-0510]]
+- [[Statin_Mechanism_HMG_CoA_Reductase_Z-001-0509]]
 
 ## Core Principle
 

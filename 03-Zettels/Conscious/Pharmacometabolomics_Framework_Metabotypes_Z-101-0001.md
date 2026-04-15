@@ -14,6 +14,22 @@ extraction-date: 2026-04-15
 ---
 
 # Pharmaco Framework and Metabotypes
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Pharmacometabolomics uses pre-treatment metabolic profiles (metabotypes) to categorize patients as good or poor responders to therapy, enabling personalized treatment selection based on biochemical individuality rather than empirical trial-and-error.
 
@@ -25,6 +41,10 @@ Pharmacometabolomics uses pre-treatment metabolic profiles (metabotypes) to cate
 3. **Metabolic pathway targeting** — Exploit metabolic reprogramming for new drug development
 
 **METHAP Application:** Pre-treatment adipic acid levels predict  response; post-treatment levels measure efficacy — creating a pharmacometabolomics cycle.
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Principle
 

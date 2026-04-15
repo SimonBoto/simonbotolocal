@@ -14,6 +14,18 @@ related: []
 ---
 
 # CAC Score Stratifies Statin Benefit
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Coronary artery calcium (CAC) scoring** effectively stratifies who benefits from statin therapy — with clear benefit only at higher scores and no benefit when CAC = 0.

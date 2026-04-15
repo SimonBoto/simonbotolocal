@@ -15,6 +15,54 @@ extraction-date: 2026-04-15
 ---
 
 # FDR 0.1 vs 0.05 Selection Framework
+## Related Zettels from Same Source
+
+- [[Benjamini_Hochberg_Procedure_Z-001-0524]]
+- [[Biomarker_Validation_Requirements_Z-001-0528]]
+- [[Exploratory_vs_Confirmatory_Research_Standards_Z-001-0526]]
+- [[Multiple_Testing_Burden_High_Dimensional_Data_Z-001-0934]]
+
+## Source
+
+Synthesized from clinical practice
+
+## Related Zettels from Same Source
+
+- [[Benjamini_Hochberg_Procedure_Z-001-0524]]
+- [[Biomarker_Validation_Requirements_Z-001-0528]]
+- [[Exploratory_vs_Confirmatory_Research_Standards_Z-001-0526]]
+- [[Multiple_Testing_Burden_High_Dimensional_Data_Z-001-0934]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Benjamini_Hochberg_Procedure_Z-001-0524]]
+- [[Biomarker_Validation_Requirements_Z-001-0528]]
+- [[Exploratory_vs_Confirmatory_Research_Standards_Z-001-0526]]
+- [[Multiple_Testing_Burden_High_Dimensional_Data_Z-001-0934]]
+
+## Source
+
+Synthesized from clinical practice
+
+## Related Zettels from Same Source
+
+- [[Benjamini_Hochberg_Procedure_Z-001-0524]]
+- [[Biomarker_Validation_Requirements_Z-001-0528]]
+- [[Exploratory_vs_Confirmatory_Research_Standards_Z-001-0526]]
+- [[Multiple_Testing_Burden_High_Dimensional_Data_Z-001-0934]]
 
 ## Core Concept
 

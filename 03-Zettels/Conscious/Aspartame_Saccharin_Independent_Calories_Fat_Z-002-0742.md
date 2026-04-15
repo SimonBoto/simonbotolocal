@@ -15,6 +15,18 @@ related: []
 ---
 
 # Aspartame and Saccharin Increase Fat Independent of Calories
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Aspartame and saccharin increase body fat independent of total calorie intake or diet quality** — metabolic effects beyond caloric balance.
@@ -24,6 +36,11 @@ related: []
 |------------|---------|
 | "Calorie-free = weight neutral" | False |
 | "Diet soda helps weight loss" | Opposite effect |
+
+## Related Zettels from Same Source
+
+- [[Artificial_Sweeteners_Visceral_Fat_Accumulation_Z-002-0741]]
+- [[Diet_Soda_Paradox_Weight_Gain_Z-002-0743]]
 
 ## Source
 - **LitNote:** [[L-002-0201_Artificial_Sweeteners_Increase_Body_Fat]]

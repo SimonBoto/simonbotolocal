@@ -13,6 +13,50 @@ extraction-date: 2026-03-08
 ---
 
 # Patient Objection Response Scripts
+## Related Zettels from Same Source
+
+- [[Difficult_Conversation_Navigation_Z-001-1072]]
+- [[Metabolic_Storytelling_Patient_Framework_Z-001-1070]]
+- [[Metabolomics_Report_Structure_Standards_Z-001-1073]]
+
+## Source
+
+[[L-001-0595_Patient_Communication_Scripts_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Difficult_Conversation_Navigation_Z-001-1072]]
+- [[Metabolic_Storytelling_Patient_Framework_Z-001-1070]]
+- [[Metabolomics_Report_Structure_Standards_Z-001-1073]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Difficult_Conversation_Navigation_Z-001-1072]]
+- [[Metabolic_Storytelling_Patient_Framework_Z-001-1070]]
+- [[Metabolomics_Report_Structure_Standards_Z-001-1073]]
+
+## Source
+
+[[L-001-0595_Patient_Communication_Scripts_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Difficult_Conversation_Navigation_Z-001-1072]]
+- [[Metabolic_Storytelling_Patient_Framework_Z-001-1070]]
+- [[Metabolomics_Report_Structure_Standards_Z-001-1073]]
 
 ## Core Claim
 **Twenty-five+ scripted responses to common patient objections — covering cost/valule, skepticism, complexity, compliance, and previous failures — provide clinicians with ready-to-use frameworks that validate concerns before reframing them, converting resistance into collaborative dialogue.**

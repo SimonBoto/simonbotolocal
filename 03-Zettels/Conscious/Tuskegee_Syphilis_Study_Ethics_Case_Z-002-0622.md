@@ -15,8 +15,60 @@ status: conscious
 ---
 
 # Tuskegee Syphilis Study — Ethics Case Study
+## Related Zettels from Same Source
+
+- [[Belmont_Report_Ethical_Principles_1979_Z-002-0610]]
+- [[CIOMS_International_Research_Ethics_Z-002-0611]]
+- [[Declaration_Helsinki_Research_Ethics_Z-002-0609]]
+- [[ICH_Good_Clinical_Practice_GCP_Z-002-0612]]
+- [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608]]
+
+## Source
+
+[[LitNote_Historical_Ethics_Guidelines_L-002-0602]]
+
+## Related Zettels from Same Source
+
+- [[Belmont_Report_Ethical_Principles_1979_Z-002-0610]]
+- [[CIOMS_International_Research_Ethics_Z-002-0611]]
+- [[Declaration_Helsinki_Research_Ethics_Z-002-0609]]
+- [[ICH_Good_Clinical_Practice_GCP_Z-002-0612]]
+- [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 The Tuskegee Syphilis Study (1932–1972) was a 40-year research study conducted by the U.S. Public Health Service that became the most infamous example of unethical human subjects research in American history, directly leading to the Belmont Report and modern IRB oversight.
+
+## Related Zettels from Same Source
+
+- [[Belmont_Report_Ethical_Principles_1979_Z-002-0610]]
+- [[CIOMS_International_Research_Ethics_Z-002-0611]]
+- [[Declaration_Helsinki_Research_Ethics_Z-002-0609]]
+- [[ICH_Good_Clinical_Practice_GCP_Z-002-0612]]
+- [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608]]
+
+## Source
+
+[[LitNote_Historical_Ethics_Guidelines_L-002-0602]]
+
+## Related Zettels from Same Source
+
+- [[Belmont_Report_Ethical_Principles_1979_Z-002-0610]]
+- [[CIOMS_International_Research_Ethics_Z-002-0611]]
+- [[Declaration_Helsinki_Research_Ethics_Z-002-0609]]
+- [[ICH_Good_Clinical_Practice_GCP_Z-002-0612]]
+- [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608]]
 
 ## Core Principle
 

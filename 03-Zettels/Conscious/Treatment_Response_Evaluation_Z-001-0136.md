@@ -22,6 +22,26 @@ status: conscious
 ---
 
 # Treatment Response Evaluation
+## Source
+
+[[Monitoring_and_Follow-Up_L-001-0045M_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[Monitoring_and_Follow-Up_L-001-0045M_v4.0]]
 
 ## Response Criteria
 

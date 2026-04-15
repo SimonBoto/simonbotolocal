@@ -15,6 +15,18 @@ related: []
 ---
 
 # Lp(a) Management: Aggressive Risk Factor Control Plus Emerging Therapies
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Management of elevated Lp(a) focuses on **aggressive control of modifiable cardiovascular risk factors** (LDL, BP, smoking) since Lp(a) itself is not modifiable by lifestyle, with **emerging RNA-targeted therapies** (pelacarsen, olpasiran) showing promise for direct Lp(a) lowering.
@@ -76,6 +88,11 @@ Management of elevated Lp(a) focuses on **aggressive control of modifiable cardi
 
 > "Current management focuses on aggressive control of modifiable risk factors (LDL, BP, smoking) since Lp(a) is not lifestyle-modifiable; emerging RNA-targeted therapies (pelacarsen, olpasiran) demonstrate dramatic Lp(a) lowering (~80-95%) with outcome trials pending."
 > — (Lp(a) therapeutic literature)
+
+## Related Zettels from Same Source
+
+- [[Lpa_Genetically_Determined_Not_Lifestyle_Modified_Z-002-0685]]
+- [[Lp(a)_Independent_Risk_Factor_CVD_Stroke_Z-002-0684]]
 
 ## Source
 - **LitNote:** [[L-002-0183_Lipoprotein_a_Lpa_Risk]]

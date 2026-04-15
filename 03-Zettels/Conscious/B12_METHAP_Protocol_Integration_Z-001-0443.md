@@ -24,6 +24,58 @@ extraction-date: 2026-03-01
 ---
 
 # B12 METHAP Protocol Integration
+## Related Zettels from Same Source
+
+- [[Adenosylcobalamin_Mitochondrial_B12_Form_Z-001-0438]]
+- [[B12_Exercise_Performance_Energy_Z-001-0440]]
+- [[B12_Requirements_Supplementation_Z-001-0442]]
+- [[Clinical_Assessment_B12_Status_MMA_Z-001-0441]]
+- [[Methylmalonyl_CoA_Mutase_Energy_Connection_Z-001-0439]]
+
+## Source
+
+[[LitNote_Mitochondrial_B12_Functions_L-001-0407]]
+
+## Related Zettels from Same Source
+
+- [[Adenosylcobalamin_Mitochondrial_B12_Form_Z-001-0438]]
+- [[B12_Exercise_Performance_Energy_Z-001-0440]]
+- [[B12_Requirements_Supplementation_Z-001-0442]]
+- [[Clinical_Assessment_B12_Status_MMA_Z-001-0441]]
+- [[Methylmalonyl_CoA_Mutase_Energy_Connection_Z-001-0439]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Adenosylcobalamin_Mitochondrial_B12_Form_Z-001-0438]]
+- [[B12_Exercise_Performance_Energy_Z-001-0440]]
+- [[B12_Requirements_Supplementation_Z-001-0442]]
+- [[Clinical_Assessment_B12_Status_MMA_Z-001-0441]]
+- [[Methylmalonyl_CoA_Mutase_Energy_Connection_Z-001-0439]]
+
+## Source
+
+[[LitNote_Mitochondrial_B12_Functions_L-001-0407]]
+
+## Related Zettels from Same Source
+
+- [[Adenosylcobalamin_Mitochondrial_B12_Form_Z-001-0438]]
+- [[B12_Exercise_Performance_Energy_Z-001-0440]]
+- [[B12_Requirements_Supplementation_Z-001-0442]]
+- [[Clinical_Assessment_B12_Status_MMA_Z-001-0441]]
+- [[Methylmalonyl_CoA_Mutase_Energy_Connection_Z-001-0439]]
 
 ## Core Claim
 **B12 is essential for METHAP's high-dose nutrient therapy, supporting amino acid oxidation, mitochondrial ATP production, and methylation capacity required for the protocol's metabolic demands** — both methylcobalamin (methylation) and adenosylcobalamin (energy) forms are needed for optimal outcomes.

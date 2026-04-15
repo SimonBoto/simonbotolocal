@@ -16,6 +16,18 @@ created: 2026-02-22
 ---
 
 # Lipotoxicity and Ceramide-Induced IR
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Excess free  cause  resistance through ceramide generation, disrupting insulin signaling at multiple nodes.
 

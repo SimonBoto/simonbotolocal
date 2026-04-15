@@ -12,6 +12,50 @@ status: conscious
 ---
 
 # Oxalic Acid Dietary Sources
+## Related Zettels from Same Source
+
+- [[Amino_Acid_to_Oxalate_Metabolism_Z-101-0467]]
+- [[Oxalate_Clinical_Relevance_Z-101-0468]]
+- [[Oxalic_Acid_Chemistry_Properties_Z-101-0465]]
+
+## Source
+
+[[LitNote_CGPT_0413_Oxalic_Acid_Chemistry_L-101-0046.md]
+
+## Related Zettels from Same Source
+
+- [[Amino_Acid_to_Oxalate_Metabolism_Z-101-0467]]
+- [[Oxalate_Clinical_Relevance_Z-101-0468]]
+- [[Oxalic_Acid_Chemistry_Properties_Z-101-0465]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Amino_Acid_to_Oxalate_Metabolism_Z-101-0467]]
+- [[Oxalate_Clinical_Relevance_Z-101-0468]]
+- [[Oxalic_Acid_Chemistry_Properties_Z-101-0465]]
+
+## Source
+
+[[LitNote_CGPT_0413_Oxalic_Acid_Chemistry_L-101-0046.md]
+
+## Related Zettels from Same Source
+
+- [[Amino_Acid_to_Oxalate_Metabolism_Z-101-0467]]
+- [[Oxalate_Clinical_Relevance_Z-101-0468]]
+- [[Oxalic_Acid_Chemistry_Properties_Z-101-0465]]
 
 ## Principle
 Oxalic acid occurs naturally in many plant foods. Content varies dramatically by species and preparation method.

@@ -23,6 +23,54 @@ extraction-date: 2026-03-08
 ---
 
 # Transamination — B6 Cofactors in Amino Acid Metabolism
+## Related Zettels from Same Source
+
+- [[Alpha_Keto_Acids_Transamination_Intermediates_Z-001-1099]]
+- [[Amino_Acid_Krebs_Entry_Points_Map_Z-001-1098]]
+- [[Glucogenic_Amino_Acids_Gluconeogenesis_Support_Z-001-1101]]
+- [[Glycogenic_Ketogenic_Amino_Acid_Classification_Z-001-1097]]
+
+## Source
+
+[[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]]
+
+## Related Zettels from Same Source
+
+- [[Alpha_Keto_Acids_Transamination_Intermediates_Z-001-1099]]
+- [[Amino_Acid_Krebs_Entry_Points_Map_Z-001-1098]]
+- [[Glucogenic_Amino_Acids_Gluconeogenesis_Support_Z-001-1101]]
+- [[Glycogenic_Ketogenic_Amino_Acid_Classification_Z-001-1097]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Alpha_Keto_Acids_Transamination_Intermediates_Z-001-1099]]
+- [[Amino_Acid_Krebs_Entry_Points_Map_Z-001-1098]]
+- [[Glucogenic_Amino_Acids_Gluconeogenesis_Support_Z-001-1101]]
+- [[Glycogenic_Ketogenic_Amino_Acid_Classification_Z-001-1097]]
+
+## Source
+
+[[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]]
+
+## Related Zettels from Same Source
+
+- [[Alpha_Keto_Acids_Transamination_Intermediates_Z-001-1099]]
+- [[Amino_Acid_Krebs_Entry_Points_Map_Z-001-1098]]
+- [[Glucogenic_Amino_Acids_Gluconeogenesis_Support_Z-001-1101]]
+- [[Glycogenic_Ketogenic_Amino_Acid_Classification_Z-001-1097]]
 
 ## Core Claim
 **Transamination transfers amino groups between amino acids and alpha-keto acids using vitamin B6 (pyridoxal phosphate, PLP) as essential cofactor—this reversible reaction enables nitrogen conservation while directing carbon skeletons to energy pathways** — B6 deficiency impairs all amino acid metabolism.

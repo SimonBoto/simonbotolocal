@@ -19,10 +19,30 @@ extraction-date: 2026-04-15
 ---
 
 # Lipid Pattern A vs Pattern B Assessment
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **Lipid patterns** describe LDL particle size and density. Pattern A (large, buoyant LDL) is low risk; Pattern B (small, dense LDL) is high risk and strongly associated with insulin resistance.
 
 ---
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Principle
 

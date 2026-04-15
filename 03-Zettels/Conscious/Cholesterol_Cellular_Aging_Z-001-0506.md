@@ -12,6 +12,18 @@ extraction-date: 2026-03-01
 ---
 
 # Cholesterol and Cellular Aging
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Aging disrupts cholesterol homeostasis through altered membrane composition (increased plasma membrane cholesterol, decreased ER cholesterol), impaired reverse cholesterol transport, and dysregulated SREBP-2/LXR signaling, contributing to cellular senescence and age-related diseases.
@@ -96,6 +108,22 @@ Aging disrupts cholesterol homeostasis through altered membrane composition (inc
 - [[Cholesterol_Synthesis_Mevalonate_Pathway_Z-001-0501]] — Cholesterol synthesis
 - [[HDL_Cholesterol_Reverse_Cholesterol_Transport_Z-001-0504]] — RCT function
 - [[Inflammation_Cholesterol_Metabolic_Syndrome_Z-001-0507]] — Inflammation link
+
+## Related Zettels from Same Source
+
+- [[Advanced_Lipid_Markers_Beyond_LDL_HDL_Z-001-0506]]
+- [[Advanced_Lipid_Markers_Beyond_LDL_HDL_Z-001-0508]]
+- [[Cellular_Cholesterol_Homeostasis_Z-001-0503]]
+- [[Cholesterol_Aging_Cellular_Dysfunction_Z-001-0504]]
+- [[Cholesterol_Synthesis_Mevalonate_Pathway_Z-001-0501]]
+- [[HDL_Cholesterol_Reverse_Cholesterol_Transport_Z-001-0504]]
+- [[Inflammation_Cholesterol_Metabolic_Syndrome_Z-001-0507]]
+- [[Inflammation_Lipid_Metabolism_Reciprocal_Z-001-0505]]
+- [[LDL_Cholesterol_Structure_Function_Risk_Z-001-0503]]
+- [[Lipid_Peroxidation_Oxidized_LDL_Z-001-0505]]
+- [[Lipoprotein_Classes_Transport_Functions_Z-001-0502]]
+- [[Lipoproteins_Transport_System_Z-001-0502]]
+- [[Therapeutic_Targets_Cholesterol_Lowering_Z-001-0507]]
 
 ## Source
 [[Cholesterol_Biology_and_Lipid_Metabolism_in_L-001-0501_CGPT-0086]]

@@ -18,6 +18,26 @@ status: conscious
 ---
 
 # Metabolic Syndrome Evolution
+## Source
+
+[[History_of_Glucose_Discovery_and_Metabolic_Underst_L-001-0208_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[History_of_Glucose_Discovery_and_Metabolic_Underst_L-001-0208_v4.0]]
 
 ## Historical Development of the Concept
 

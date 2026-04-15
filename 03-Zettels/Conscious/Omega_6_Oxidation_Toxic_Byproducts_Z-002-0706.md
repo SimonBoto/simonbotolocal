@@ -14,6 +14,18 @@ related: []
 ---
 
 # Omega-6 Oxidation Creates Toxic Byproducts
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Heating omega-6 polyunsaturated fats** (seed oils) creates toxic oxidation byproducts including **4-hydroxynonenal (4-HNE)** and other aldehydes that disrupt metabolism and promote insulin resistance.

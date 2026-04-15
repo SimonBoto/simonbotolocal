@@ -12,6 +12,18 @@ extraction-date: 2026-03-01
 ---
 
 # Urine Organic Acid — Krebs Cycle Markers
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Elevations in citrate and aconitate on organic acid testing indicate aconitase dysfunction (typically from magnesium deficiency or iron-sulfur cluster impairment), while co-elevation of 3-hydroxy-3-methylglutaric acid (3-HMGA) suggests broader metabolic disruption involving the mevalonate pathway and fatty acid oxidation.
@@ -88,6 +100,12 @@ Isocitrate → α-Ketoglutarate → Succinyl-CoA → ...
 - [[Mitochondrial_Nutrient_Deficiency_Patterns_Z-001-0538]] — Nutrient deficiency mapping
 - [[Mitochondrial_Supplementation_Protocol_Z-001-0539]] — Management protocol
 - [[Organic_Acid_METHAP_Integration_Z-001-0540]] — METHAP integration
+
+## Related Zettels from Same Source
+
+- [[Mitochondrial_Nutrient_Deficiency_Patterns_Z-001-0538]]
+- [[Mitochondrial_Supplementation_Protocol_Z-001-0539]]
+- [[Organic_Acid_METHAP_Integration_Z-001-0540]]
 
 ## Source
 [[Organic_Acid_Krebs_Cycle_Markers_Clinical_L-001-0507_CGPT-0393]]

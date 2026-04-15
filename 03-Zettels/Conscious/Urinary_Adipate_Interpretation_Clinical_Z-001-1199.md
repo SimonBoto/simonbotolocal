@@ -13,6 +13,26 @@ extraction-date: 2026-03-08
 ---
 
 # Urinary Adipate Interpretation — Clinical Biomarker
+## Source
+
+[[L-001-0629_Adipate_Metabolism_Dicarboxylic_Pathway_CGPT-0586]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[L-001-0629_Adipate_Metabolism_Dicarboxylic_Pathway_CGPT-0586]]
 
 ## Core Claim
 **Urinary adipate elevation serves as an early biomarker for impaired mitochondrial β-oxidation — with levels >2 mmol/mol creatinine indicating metabolic dysfunction, >5 mmol/mol suggesting significant impairment, and patterns combining adipate with suberate/sebacate providing diagnostic specificity for carnitine deficiency, MCAD deficiency, or insulin resistance in the METHAP PhD research framework.**

@@ -18,8 +18,28 @@ status: conscious
 ---
 
 # IBD Immune Mechanisms
+## Source
+
+[[Inflammatory_Bowel_Disease_-_Crohn-s_vs_Ulcerati_L-001-0585_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > **Source:** ChatGPT conversation [[CGPT_0209_Gastroenterology_Registrar_Assessment_CGPT-0209]] (November 18, 2025)
+
+## Source
+
+[[Inflammatory_Bowel_Disease_-_Crohn-s_vs_Ulcerati_L-001-0585_v4.0]]
 
 ## Core Claim
 The immune mechanisms underlying IBD differ fundamentally between Crohn's disease (Th1/Th17 dominance) and ulcerative colitis (Th2 dominance), explaining the distinct inflammatory patterns, serological markers, and treatment responses.

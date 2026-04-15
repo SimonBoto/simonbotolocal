@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 # Muscle Bone Unit Mechanical Loading
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 The muscle-bone unit concept: adequate protein intake enhances muscle strength, which benefits bone through mechanical loading (Wolff's law). Stronger muscles = greater loading forces = stimulated bone formation.
 

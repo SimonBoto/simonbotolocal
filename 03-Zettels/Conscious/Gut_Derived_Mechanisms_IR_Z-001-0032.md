@@ -14,12 +14,88 @@ created: 2026-02-24
 ---
 
 # Gut-Derived s in  Resistance
+## Related Zettels from Same Source
+
+- [[Beta_Cell_Exhaustion_Stage_Z-001-0035]]
+- [[Compensatory_IR_Stage_Z-001-0034]]
+- [[ER_Stress_UPR_IR_Z-001-0033]]
+- [[Inflammatory_Signaling_IR_Z-001-0031]]
+- [[Lipotoxicity_Pathway_IR_Z-001-0029]]
+- [[METHAP_Biomarker_Panel_Z-001-0045]]
+- [[Mitochondrial_Dysfunction_IR_Z-001-0030]]
+- [[Overt_Diabetes_Stage_Z-001-0036]]
+- [[Vicious_Cycle_Inflammation_IR_Z-001-0038]]
+- [[Vicious_Cycle_IR_Obesity_Z-001-0037]]
+- [[Vicious_Cycle_Stress_IR_Z-001-0039]]
+
+## Source
+
+[[IR_Mechanisms_Map_L-001-0005_v4.0]]
+
+## Related Zettels from Same Source
+
+- [[Beta_Cell_Exhaustion_Stage_Z-001-0035]]
+- [[Compensatory_IR_Stage_Z-001-0034]]
+- [[ER_Stress_UPR_IR_Z-001-0033]]
+- [[Inflammatory_Signaling_IR_Z-001-0031]]
+- [[Lipotoxicity_Pathway_IR_Z-001-0029]]
+- [[METHAP_Biomarker_Panel_Z-001-0045]]
+- [[Mitochondrial_Dysfunction_IR_Z-001-0030]]
+- [[Overt_Diabetes_Stage_Z-001-0036]]
+- [[Vicious_Cycle_Inflammation_IR_Z-001-0038]]
+- [[Vicious_Cycle_IR_Obesity_Z-001-0037]]
+- [[Vicious_Cycle_Stress_IR_Z-001-0039]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Gut dysbiosis shifts microbiome composition: beneficial species (Akkermansia muciniphila, Faecalibacterium prausnitzii) decline while pathobionts (Proteobacteria) expand. This triggers barrier dysfunction through tight junction disruption (zonulin-mediated), allowing LPS translocation into circulation.
 
 **Metabolic endotoxemia** results: LPS activates TLR4 in liver, muscle, and adipose tissue, creating low-grade  and glucose intolerance systemically.
 
 **SCFA depletion:** Reduced butyrate production (from lost beneficial species) impairs colonocyte fuel supply, tight junction protein synthesis, and HDAC-mediated anti-inflammatory signaling.
+
+## Related Zettels from Same Source
+
+- [[Beta_Cell_Exhaustion_Stage_Z-001-0035]]
+- [[Compensatory_IR_Stage_Z-001-0034]]
+- [[ER_Stress_UPR_IR_Z-001-0033]]
+- [[Inflammatory_Signaling_IR_Z-001-0031]]
+- [[Lipotoxicity_Pathway_IR_Z-001-0029]]
+- [[METHAP_Biomarker_Panel_Z-001-0045]]
+- [[Mitochondrial_Dysfunction_IR_Z-001-0030]]
+- [[Overt_Diabetes_Stage_Z-001-0036]]
+- [[Vicious_Cycle_Inflammation_IR_Z-001-0038]]
+- [[Vicious_Cycle_IR_Obesity_Z-001-0037]]
+- [[Vicious_Cycle_Stress_IR_Z-001-0039]]
+
+## Source
+
+[[IR_Mechanisms_Map_L-001-0005_v4.0]]
+
+## Related Zettels from Same Source
+
+- [[Beta_Cell_Exhaustion_Stage_Z-001-0035]]
+- [[Compensatory_IR_Stage_Z-001-0034]]
+- [[ER_Stress_UPR_IR_Z-001-0033]]
+- [[Inflammatory_Signaling_IR_Z-001-0031]]
+- [[Lipotoxicity_Pathway_IR_Z-001-0029]]
+- [[METHAP_Biomarker_Panel_Z-001-0045]]
+- [[Mitochondrial_Dysfunction_IR_Z-001-0030]]
+- [[Overt_Diabetes_Stage_Z-001-0036]]
+- [[Vicious_Cycle_Inflammation_IR_Z-001-0038]]
+- [[Vicious_Cycle_IR_Obesity_Z-001-0037]]
+- [[Vicious_Cycle_Stress_IR_Z-001-0039]]
 
 ## Mechanism
 

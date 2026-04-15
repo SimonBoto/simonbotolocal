@@ -12,8 +12,60 @@ extraction-date: 2026-03-01
 ---
 
 # B12 Deficiency Manifestations and Mimics
+## Related Zettels from Same Source
+
+- [[B12_Absorption_Transport_Z-001-0403]]
+- [[Homocysteine_Metabolism_Z-001-0405]]
+- [[Methyl_Trap_B12_Folate_Z-001-0404]]
+- [[One_Carbon_Metabolism_Overview_Z-001-0401]]
+- [[Vitamin_B12_Cofactor_Enzymes_Z-001-0402]]
+
+## Source
+
+[[LitNote_One_Carbon_Metabolism_B12_L-001-0401]
+
+## Related Zettels from Same Source
+
+- [[B12_Absorption_Transport_Z-001-0403]]
+- [[Homocysteine_Metabolism_Z-001-0405]]
+- [[Methyl_Trap_B12_Folate_Z-001-0404]]
+- [[One_Carbon_Metabolism_Overview_Z-001-0401]]
+- [[Vitamin_B12_Cofactor_Enzymes_Z-001-0402]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Severe vitamin B12 deficiency causes megaloblastic anemia, irreversible neurological damage, and bone marrow changes that can mimic hematological malignancies, requiring careful diagnostic differentiation.
+
+## Related Zettels from Same Source
+
+- [[B12_Absorption_Transport_Z-001-0403]]
+- [[Homocysteine_Metabolism_Z-001-0405]]
+- [[Methyl_Trap_B12_Folate_Z-001-0404]]
+- [[One_Carbon_Metabolism_Overview_Z-001-0401]]
+- [[Vitamin_B12_Cofactor_Enzymes_Z-001-0402]]
+
+## Source
+
+[[LitNote_One_Carbon_Metabolism_B12_L-001-0401]
+
+## Related Zettels from Same Source
+
+- [[B12_Absorption_Transport_Z-001-0403]]
+- [[Homocysteine_Metabolism_Z-001-0405]]
+- [[Methyl_Trap_B12_Folate_Z-001-0404]]
+- [[One_Carbon_Metabolism_Overview_Z-001-0401]]
+- [[Vitamin_B12_Cofactor_Enzymes_Z-001-0402]]
 
 ## Core Principle
 

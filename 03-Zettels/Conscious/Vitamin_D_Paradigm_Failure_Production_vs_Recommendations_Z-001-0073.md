@@ -24,6 +24,18 @@ extraction-date: 2026-04-15
 ---
 
 #  Paradigm Failure — Production vs Recommendations
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Three convergent facts reveal systemic failure in vitamin D public health policy: (1) Human skin produces 10,000-20,000 IU naturally in 15-30 minutes sun exposure, (2) Official recommendations remain at 600-800 IU (RDA) and 2,500 IU (UL), (3) Historical "toxicity" was actually rare genetic disease (IIH/CYP24A1 mutations), not universal risk.
 

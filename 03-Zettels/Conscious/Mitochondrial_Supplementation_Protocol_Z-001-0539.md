@@ -12,6 +12,18 @@ extraction-date: 2026-03-01
 ---
 
 # Mitochondrial Supplementation Protocol
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Targeted supplementation based on organic acid patterns—prioritizing magnesium, CoQ10, B-vitamins, and carnitine according to individual deficiency patterns—combined with low-carbohydrate dietary modification, restores mitochondrial function and normalizes metabolic markers within 6-8 weeks.
@@ -110,6 +122,12 @@ n- Improved exercise tolerance
 - [[Urine_Organic_Acid_Krebs_Cycle_Markers_Z-001-0537]] — OAT interpretation
 - [[Mitochondrial_Nutrient_Deficiency_Patterns_Z-001-0538]] — Nutrient mapping
 - [[Organic_Acid_METHAP_Integration_Z-001-0540]] — METHAP integration
+
+## Related Zettels from Same Source
+
+- [[Mitochondrial_Nutrient_Deficiency_Patterns_Z-001-0538]]
+- [[Organic_Acid_METHAP_Integration_Z-001-0540]]
+- [[Urine_Organic_Acid_Krebs_Cycle_Markers_Z-001-0537]]
 
 ## Source
 [[Organic_Acid_Krebs_Cycle_Markers_Clinical_L-001-0507_CGPT-0393]]

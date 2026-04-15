@@ -15,6 +15,46 @@ related: []
 ---
 
 # Meat Paradox: Context and Quality Matter More Than Quantity Alone
+## Related Zettels from Same Source
+
+- [[High_Meat_Coexists_Longevity_Not_Harmful_Z-002-0847]]
+- [[Hong_Kong_145kg_Meat_Highest_Life_Expectancy_Z-002-0846]]
+
+## Source
+
+[[L-002-0236_Hong_Kong_Meat_Longevity]]
+
+## Related Zettels from Same Source
+
+- [[High_Meat_Coexists_Longevity_Not_Harmful_Z-002-0847]]
+- [[Hong_Kong_145kg_Meat_Highest_Life_Expectancy_Z-002-0846]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[High_Meat_Coexists_Longevity_Not_Harmful_Z-002-0847]]
+- [[Hong_Kong_145kg_Meat_Highest_Life_Expectancy_Z-002-0846]]
+
+## Source
+
+[[L-002-0236_Hong_Kong_Meat_Longevity]]
+
+## Related Zettels from Same Source
+
+- [[High_Meat_Coexists_Longevity_Not_Harmful_Z-002-0847]]
+- [[Hong_Kong_145kg_Meat_Highest_Life_Expectancy_Z-002-0846]]
 
 ## Core Claim
 **The Hong Kong meat-longevity paradox demonstrates that context — meat quality, preparation methods, overall dietary balance, and metabolic health — matters more than meat quantity alone** in determining health outcomes.

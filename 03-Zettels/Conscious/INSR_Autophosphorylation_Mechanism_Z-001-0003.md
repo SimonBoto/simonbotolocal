@@ -16,6 +16,18 @@ created: 2026-02-22
 ---
 
 # INSR Autophosphorylation 
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
  binding triggers a conformational change that activates the β subunit tyrosine kinase domain, initiating signal transduction.
 

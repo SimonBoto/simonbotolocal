@@ -15,6 +15,26 @@ related: []
 ---
 
 # CAC Score Zero Indicates No Statin Benefit — Avoid Overtreatment
+## Source
+
+[[L-002-0229_Calcium_Score_Statin_Benefit]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[L-002-0229_Calcium_Score_Statin_Benefit]]
 
 ## Core Claim
 **A coronary artery calcium (CAC) score of zero indicates no benefit from statin therapy** — individuals without detectable atherosclerotic plaque do not derive cardiovascular risk reduction from statins.

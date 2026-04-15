@@ -13,6 +13,50 @@ extraction-date: 2026-03-02
 ---
 
 # CoA Synthesis from Vitamin B5 Pathway
+## Related Zettels from Same Source
+
+- [[Decarboxylation_Enzymes_Cofactors_Z-101-0018]]
+- [[Dehydrogenases_vs_Decarboxylases_Z-101-0019]]
+- [[Pantothenic_Acid_B5_Deficiency_Clinical_Z-101-0020]]
+
+## Source
+
+[[L-101-0004_CoA_Synthesis_Decarboxylation_Enzymology_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Decarboxylation_Enzymes_Cofactors_Z-101-0018]]
+- [[Dehydrogenases_vs_Decarboxylases_Z-101-0019]]
+- [[Pantothenic_Acid_B5_Deficiency_Clinical_Z-101-0020]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Decarboxylation_Enzymes_Cofactors_Z-101-0018]]
+- [[Dehydrogenases_vs_Decarboxylases_Z-101-0019]]
+- [[Pantothenic_Acid_B5_Deficiency_Clinical_Z-101-0020]]
+
+## Source
+
+[[L-101-0004_CoA_Synthesis_Decarboxylation_Enzymology_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Decarboxylation_Enzymes_Cofactors_Z-101-0018]]
+- [[Dehydrogenases_vs_Decarboxylases_Z-101-0019]]
+- [[Pantothenic_Acid_B5_Deficiency_Clinical_Z-101-0020]]
 
 ## Mechanism
 

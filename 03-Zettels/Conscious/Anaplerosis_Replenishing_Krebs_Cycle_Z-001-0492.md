@@ -13,6 +13,54 @@ extraction-date: 2026-03-04
 ---
 
 # Anaplerosis — Replenishing Krebs Cycle Intermediates
+## Related Zettels from Same Source
+
+- [[Gluconeogenesis_from_Oxaloacetate_Z-001-0489]]
+- [[Mitochondrial_Shuttles_Malate_Aspartate_Z-001-0490]]
+- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488]]
+- [[PEPCK_Gluconeogenic_Regulation_Z-001-0491]]
+
+## Source
+
+[[L-001-0045H_Oxaloacetate_Gluconeogenesis_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Gluconeogenesis_from_Oxaloacetate_Z-001-0489]]
+- [[Mitochondrial_Shuttles_Malate_Aspartate_Z-001-0490]]
+- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488]]
+- [[PEPCK_Gluconeogenic_Regulation_Z-001-0491]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Gluconeogenesis_from_Oxaloacetate_Z-001-0489]]
+- [[Mitochondrial_Shuttles_Malate_Aspartate_Z-001-0490]]
+- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488]]
+- [[PEPCK_Gluconeogenic_Regulation_Z-001-0491]]
+
+## Source
+
+[[L-001-0045H_Oxaloacetate_Gluconeogenesis_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Gluconeogenesis_from_Oxaloacetate_Z-001-0489]]
+- [[Mitochondrial_Shuttles_Malate_Aspartate_Z-001-0490]]
+- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488]]
+- [[PEPCK_Gluconeogenic_Regulation_Z-001-0491]]
 
 ## Core Claim
 **Anaplerosis ("filling up") replenishes Krebs cycle intermediates that are diverted for other pathways — when oxaloacetate is removed for gluconeogenesis, pyruvate carboxylase (biotin-dependent) converts pyruvate + CO₂ + ATP to OAA, maintaining cycle flux** — this ensures the Krebs cycle continues to oxidize acetyl-CoA even when intermediates are siphoned off for biosynthesis.

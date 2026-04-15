@@ -15,8 +15,52 @@ status: conscious
 ---
 
 # B-Complex Ratios Clinical Analysis
+## Related Zettels from Same Source
+
+- [[Iodine_Supplementation_Thyroid_Protocol_Z-001-1230]]
+- [[MTHFR_Methylation_Support_Protocol_Z-001-1232]]
+- [[Selenium_Iodine_Synergy_Toxicity_Z-001-1231]]
+
+## Source
+
+[[LitNote_Iodine_Thyroid_MTHFR_L-001-0638]]
+
+## Related Zettels from Same Source
+
+- [[Iodine_Supplementation_Thyroid_Protocol_Z-001-1230]]
+- [[MTHFR_Methylation_Support_Protocol_Z-001-1232]]
+- [[Selenium_Iodine_Synergy_Toxicity_Z-001-1231]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 B-complex formulations vary dramatically in relative ratios of B2 (riboflavin), B3 (niacin), B5 (pantothenic acid), and B6 (pyridoxine), with significant implications for methylation support, neurotransmitter synthesis, and MTHFR genotype-specific needs.
+
+## Related Zettels from Same Source
+
+- [[Iodine_Supplementation_Thyroid_Protocol_Z-001-1230]]
+- [[MTHFR_Methylation_Support_Protocol_Z-001-1232]]
+- [[Selenium_Iodine_Synergy_Toxicity_Z-001-1231]]
+
+## Source
+
+[[LitNote_Iodine_Thyroid_MTHFR_L-001-0638]]
+
+## Related Zettels from Same Source
+
+- [[Iodine_Supplementation_Thyroid_Protocol_Z-001-1230]]
+- [[MTHFR_Methylation_Support_Protocol_Z-001-1232]]
+- [[Selenium_Iodine_Synergy_Toxicity_Z-001-1231]]
 
 ## Core Principle
 

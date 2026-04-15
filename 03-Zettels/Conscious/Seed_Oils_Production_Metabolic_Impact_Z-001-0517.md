@@ -12,8 +12,60 @@ extraction-date: 2026-03-01
 ---
 
 # Seed Oils — Production and Metabolic Impact
+## Related Zettels from Same Source
+
+- [[Fatty_Acid_Dietary_Strategies_Z-001-0521]]
+- [[Fatty_Acid_Metabolism_Enzymatic_Pathways_Z-001-0520]]
+- [[Olive_Oil_Mediterranean_Advantage_Z-001-0519]]
+- [[Omega_6_Omega_3_Ratio_Evolutionary_Modern_Z-001-0516]]
+- [[Seven_Countries_Study_Reassessment_Z-001-0518]]
+
+## Source
+
+[[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]
+
+## Related Zettels from Same Source
+
+- [[Fatty_Acid_Dietary_Strategies_Z-001-0521]]
+- [[Fatty_Acid_Metabolism_Enzymatic_Pathways_Z-001-0520]]
+- [[Olive_Oil_Mediterranean_Advantage_Z-001-0519]]
+- [[Omega_6_Omega_3_Ratio_Evolutionary_Modern_Z-001-0516]]
+- [[Seven_Countries_Study_Reassessment_Z-001-0518]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Industrial seed oils became dietary staples in the late 20th century, dramatically increasing linoleic acid consumption with profound metabolic consequences.
+
+## Related Zettels from Same Source
+
+- [[Fatty_Acid_Dietary_Strategies_Z-001-0521]]
+- [[Fatty_Acid_Metabolism_Enzymatic_Pathways_Z-001-0520]]
+- [[Olive_Oil_Mediterranean_Advantage_Z-001-0519]]
+- [[Omega_6_Omega_3_Ratio_Evolutionary_Modern_Z-001-0516]]
+- [[Seven_Countries_Study_Reassessment_Z-001-0518]]
+
+## Source
+
+[[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]
+
+## Related Zettels from Same Source
+
+- [[Fatty_Acid_Dietary_Strategies_Z-001-0521]]
+- [[Fatty_Acid_Metabolism_Enzymatic_Pathways_Z-001-0520]]
+- [[Olive_Oil_Mediterranean_Advantage_Z-001-0519]]
+- [[Omega_6_Omega_3_Ratio_Evolutionary_Modern_Z-001-0516]]
+- [[Seven_Countries_Study_Reassessment_Z-001-0518]]
 
 ## Core Principle
 

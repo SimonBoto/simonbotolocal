@@ -12,6 +12,18 @@ extraction-date: 2026-04-15
 ---
 
 # Sequential Therapy — Anabolic to Antiresorptive Strategy
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Principle
 **Anabolic agents build bone mass but have duration limits; antiresorptive agents preserve gains.** Sequential use maximizes benefit.
@@ -185,6 +197,15 @@ Duration:      Long-term antiresorptive
 
 tags: [zettel, sequential-therapy, anabolic, antiresorptive, osteoporosis, treatment-strategy, conscious]
 
+## Related Zettels from Same Source
+
+- [[Abaloparatide_PTHrP_Analog_Anabolic_Agent_Z-001-0106]]
+- [[Bone_Balance_Equation_Resorption_Formation_Coupling_Z-001-0104]]
+- [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]]
+- [[Resting_Phase_Bone_Remodeling_Quiescence_Z-001-0103]]
+- [[Romosozumab_Anti_Sclerostin_Dual_Action_Therapy_Z-001-0107]]
+- [[Teriparatide_PTH_1-34_Intermittent_Anabolic_Therapy_Z-001-0105]]
+
 ## Source
 [[LitNote_Anabolic_Bone_Therapies_L-001-0016]
 
@@ -194,6 +215,15 @@ tags: [zettel, sequential-therapy, anabolic, antiresorptive, osteoporosis, treat
 **Extracted:** 2026-03-06
 
 ---
+
+## Related Zettels from Same Source
+
+- [[Abaloparatide_PTHrP_Analog_Anabolic_Agent_Z-001-0106]]
+- [[Bone_Balance_Equation_Resorption_Formation_Coupling_Z-001-0104]]
+- [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]]
+- [[Resting_Phase_Bone_Remodeling_Quiescence_Z-001-0103]]
+- [[Romosozumab_Anti_Sclerostin_Dual_Action_Therapy_Z-001-0107]]
+- [[Teriparatide_PTH_1-34_Intermittent_Anabolic_Therapy_Z-001-0105]]
 
 ## Connection to Vault
 

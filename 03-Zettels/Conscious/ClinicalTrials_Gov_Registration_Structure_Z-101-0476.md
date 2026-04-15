@@ -12,6 +12,46 @@ status: conscious
 ---
 
 # Trials.gov Registration Structure
+## Related Zettels from Same Source
+
+- [[ClinicalTrials_Gov_Compliance_Checklist_Z-101-0477]]
+- [[METHAP_IRB_Feedback_Action_Items_Z-101-0473]]
+
+## Source
+
+[[LitNote_CGPT_0102_ClinicalTrials_Gov_L-101-0049.md]
+
+## Related Zettels from Same Source
+
+- [[ClinicalTrials_Gov_Compliance_Checklist_Z-101-0477]]
+- [[METHAP_IRB_Feedback_Action_Items_Z-101-0473]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[ClinicalTrials_Gov_Compliance_Checklist_Z-101-0477]]
+- [[METHAP_IRB_Feedback_Action_Items_Z-101-0473]]
+
+## Source
+
+[[LitNote_CGPT_0102_ClinicalTrials_Gov_L-101-0049.md]
+
+## Related Zettels from Same Source
+
+- [[ClinicalTrials_Gov_Compliance_Checklist_Z-101-0477]]
+- [[METHAP_IRB_Feedback_Action_Items_Z-101-0473]]
 
 ## Overview
 ClinicalTrials.gov is the NIH-maintained registry for clinical studies. Registration is mandatory for FDA-regulated trials and strongly encouraged for all clinical .

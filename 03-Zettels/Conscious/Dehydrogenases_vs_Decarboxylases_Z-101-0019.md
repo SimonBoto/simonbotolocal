@@ -13,6 +13,50 @@ extraction-date: 2026-03-02
 ---
 
 # Dehydrogenases vs Decarboxylases
+## Related Zettels from Same Source
+
+- [[CoA_Synthesis_Vitamin_B5_Pathway_Z-101-0017]]
+- [[Decarboxylation_Enzymes_Cofactors_Z-101-0018]]
+- [[Pantothenic_Acid_B5_Deficiency_Clinical_Z-101-0020]]
+
+## Source
+
+[[L-101-0004_CoA_Synthesis_Decarboxylation_Enzymology_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[CoA_Synthesis_Vitamin_B5_Pathway_Z-101-0017]]
+- [[Decarboxylation_Enzymes_Cofactors_Z-101-0018]]
+- [[Pantothenic_Acid_B5_Deficiency_Clinical_Z-101-0020]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[CoA_Synthesis_Vitamin_B5_Pathway_Z-101-0017]]
+- [[Decarboxylation_Enzymes_Cofactors_Z-101-0018]]
+- [[Pantothenic_Acid_B5_Deficiency_Clinical_Z-101-0020]]
+
+## Source
+
+[[L-101-0004_CoA_Synthesis_Decarboxylation_Enzymology_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[CoA_Synthesis_Vitamin_B5_Pathway_Z-101-0017]]
+- [[Decarboxylation_Enzymes_Cofactors_Z-101-0018]]
+- [[Pantothenic_Acid_B5_Deficiency_Clinical_Z-101-0020]]
 
 ## Core Claim
 **Dehydrogenases and decarboxylases represent two fundamental enzyme classes in metabolism — with dehydrogenases catalyzing oxidation-reduction reactions by transferring electrons to NAD⁺ or FAD, while decarboxylases remove carboxyl groups as CO₂ — and many critical enzymes combining both activities (oxidative decarboxylation) to maximize energy extraction, as exemplified by pyruvate dehydrogenase, isocitrate dehydrogenase, and α-ketoglutarate dehydrogenase in the Krebs cycle.**

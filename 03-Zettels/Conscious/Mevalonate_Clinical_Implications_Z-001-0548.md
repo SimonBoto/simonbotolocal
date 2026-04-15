@@ -12,6 +12,18 @@ extraction-date: 2026-03-01
 ---
 
 # Mevalonate Clinical Implications
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Statin therapy, while effectively reducing cholesterol by inhibiting HMG-CoA reductase, inadvertently depletes Coenzyme Q10 and other mevalonate pathway products, causing dose-dependent adverse effects ranging from mild myalgia (5-10%) to rare but life-threatening rhabdomyolysis (<0.1%), necessitating CoQ10 supplementation and careful patient selection to optimize risk-benefit ratio.
@@ -126,6 +138,13 @@ Statin therapy, while effectively reducing cholesterol by inhibiting HMG-CoA red
 - [[HMG_CoA_Reductase_Regulation_Z-001-0546]] — HMGCR regulation
 - [[Mevalonate_Branch_Points_Z-001-0547]] — FPP branch point
 - [[Mevalonate_METHAP_Integration_Z-001-0549]] — METHAP protocol
+
+## Related Zettels from Same Source
+
+- [[HMG_CoA_Reductase_Regulation_Z-001-0546]]
+- [[Mevalonate_Branch_Points_Z-001-0547]]
+- [[Mevalonate_METHAP_Integration_Z-001-0549]]
+- [[Mevalonate_Pathway_Enzymatic_Steps_Z-001-0545]]
 
 ## Source
 [[Mevalonate_Pathway_From_Acetyl-CoA_to_Cholesterol_L-001-0509_CGPT-0393]]

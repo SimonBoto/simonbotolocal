@@ -19,10 +19,30 @@ extraction-date: 2026-04-15
 ---
 
 # HOMA-β — Beta-Cell Function Assessment
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **HOMA-β** estimates pancreatic β-cell function from fasting insulin and fasting glucose. It complements HOMA-IR by distinguishing insulin resistance (compensatory hyperinsulinemia) from β-cell failure (falling insulin secretion).
 
 ---
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Principle
 

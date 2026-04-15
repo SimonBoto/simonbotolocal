@@ -15,6 +15,18 @@ related: []
 ---
 
 # Insulin Resistance as Root Cause of CVD
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Insulin resistance** is the fundamental mechanism linking metabolic syndrome to cardiovascular disease; interventions that reduce insulin resistance (like low-carb diets) address CVD at its root cause rather than just managing symptoms.
@@ -73,6 +85,11 @@ High carbohydrate intake → Elevated insulin → Insulin resistance
 1. **First:** Low-carbohydrate diet (addresses root)
 2. **Second:** Exercise (improves sensitivity)
 3. **Third:** Medications (if needed for symptoms)
+
+## Related Zettels from Same Source
+
+- [[Low_Carbohydrate_Diet_Reverses_Metabolic_Syndrome_Z-002-0641]]
+- [[Low_Carb_Superior_Low_Fat_Lipid_Profile_Z-002-0643]]
 
 ## Source
 - **LitNote:** [[L-002-0169_Carb_Restriction_CVD_Risk]]

@@ -22,6 +22,50 @@ extraction-date: 2026-03-08
 ---
 
 # BHB — Hydroxyacid, Not True Ketone
+## Related Zettels from Same Source
+
+- [[Ketogenesis_Mechanism_Liver_Mitochondria_Z-001-1094]]
+- [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]]
+- [[Three_Ketone_Bodies_Acetoacetate_BHB_Acetone_Z-001-1093]]
+
+## Source
+
+[[LitNote_Ketone_Body_Biochemistry_Clinical_L-001-0602]]
+
+## Related Zettels from Same Source
+
+- [[Ketogenesis_Mechanism_Liver_Mitochondria_Z-001-1094]]
+- [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]]
+- [[Three_Ketone_Bodies_Acetoacetate_BHB_Acetone_Z-001-1093]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Ketogenesis_Mechanism_Liver_Mitochondria_Z-001-1094]]
+- [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]]
+- [[Three_Ketone_Bodies_Acetoacetate_BHB_Acetone_Z-001-1093]]
+
+## Source
+
+[[LitNote_Ketone_Body_Biochemistry_Clinical_L-001-0602]]
+
+## Related Zettels from Same Source
+
+- [[Ketogenesis_Mechanism_Liver_Mitochondria_Z-001-1094]]
+- [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]]
+- [[Three_Ketone_Bodies_Acetoacetate_BHB_Acetone_Z-001-1093]]
 
 ## Core Claim
 **Despite being called a "ketone body," beta-hydroxybutyrate (BHB) is chemically a hydroxyacid (reduced form of acetoacetate), not a true ketone — this distinction is critical because BHB's hydroxyl group enables unique signaling functions beyond energy metabolism** — BHB is the most abundant "ketone body" during ketosis.

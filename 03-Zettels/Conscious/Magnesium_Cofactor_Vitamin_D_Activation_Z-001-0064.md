@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 # Magnesium Cofactor for  Activation
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Magnesium is required as a cofactor for both hydroxylation steps converting vitamin D to active calcitriol: (1) hepatic 25-hydroxylation (25(OH)D), and (2) renal 1α-hydroxylation (1,25(OH)2D). Mg deficiency impairs vitamin D activation even with adequate intake.
 

@@ -22,6 +22,42 @@ status: conscious
 ---
 
 # Personalized  vs Population Guidelines
+## Related Zettels from Same Source
+
+- [[Gallo_2013_Infant_Vitamin_D_Dose_Response_Z-001-0067]]
+- [[Gordon_2008_Adolescent_High_Dose_Protocol_Z-001-0070]]
+- [[High_Dose_Vitamin_D_Monitoring_Protocol_Z-001-0075]]
+- [[Research_Gap_in_Infant_8000_IU_Vitamin_D_Safety_Studies_Z-001-0072]]
+- [[Saadi_2009_2000IU_Infant_Safety_Z-001-0068]]
+- [[Stoss_Therapy_High_Dose_Rickets_Treatment_Z-001-0069]]
+- [[UL_Conservative_vs_Research_Reality_Z-001-0071]]
+
+## Source
+
+[[00-Inbox/Processed/CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]
+
+## Related Zettels from Same Source
+
+- [[Gallo_2013_Infant_Vitamin_D_Dose_Response_Z-001-0067]]
+- [[Gordon_2008_Adolescent_High_Dose_Protocol_Z-001-0070]]
+- [[High_Dose_Vitamin_D_Monitoring_Protocol_Z-001-0075]]
+- [[Research_Gap_in_Infant_8000_IU_Vitamin_D_Safety_Studies_Z-001-0072]]
+- [[Saadi_2009_2000IU_Infant_Safety_Z-001-0068]]
+- [[Stoss_Therapy_High_Dose_Rickets_Treatment_Z-001-0069]]
+- [[UL_Conservative_vs_Research_Reality_Z-001-0071]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Growing recognition that population-wide RDA fails individual needs. Factors creating 10-20x variability in vitamin D requirements: baseline status, BMI (sequestration in adipose), skin pigmentation, latitude/sun exposure, genetics (VDR polymorphisms, CYP24A1), age, kidney/liver function.
 
@@ -39,6 +75,30 @@ Growing recognition that population-wide RDA fails individual needs. Factors cre
 - Adjust maintenance dose
 
 **Vs. guidelines:** Population RDA (600-800 IU) cannot address 20x individual variability. One-size-fits-all guarantees deficiency for many.
+
+## Related Zettels from Same Source
+
+- [[Gallo_2013_Infant_Vitamin_D_Dose_Response_Z-001-0067]]
+- [[Gordon_2008_Adolescent_High_Dose_Protocol_Z-001-0070]]
+- [[High_Dose_Vitamin_D_Monitoring_Protocol_Z-001-0075]]
+- [[Research_Gap_in_Infant_8000_IU_Vitamin_D_Safety_Studies_Z-001-0072]]
+- [[Saadi_2009_2000IU_Infant_Safety_Z-001-0068]]
+- [[Stoss_Therapy_High_Dose_Rickets_Treatment_Z-001-0069]]
+- [[UL_Conservative_vs_Research_Reality_Z-001-0071]]
+
+## Source
+
+[[00-Inbox/Processed/CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]
+
+## Related Zettels from Same Source
+
+- [[Gallo_2013_Infant_Vitamin_D_Dose_Response_Z-001-0067]]
+- [[Gordon_2008_Adolescent_High_Dose_Protocol_Z-001-0070]]
+- [[High_Dose_Vitamin_D_Monitoring_Protocol_Z-001-0075]]
+- [[Research_Gap_in_Infant_8000_IU_Vitamin_D_Safety_Studies_Z-001-0072]]
+- [[Saadi_2009_2000IU_Infant_Safety_Z-001-0068]]
+- [[Stoss_Therapy_High_Dose_Rickets_Treatment_Z-001-0069]]
+- [[UL_Conservative_vs_Research_Reality_Z-001-0071]]
 
 ## Core Principle
 

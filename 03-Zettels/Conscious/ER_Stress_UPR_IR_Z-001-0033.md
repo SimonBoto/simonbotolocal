@@ -13,6 +13,18 @@ created: 2026-02-24
 ---
 
 # ER Stress and UPR in  Resistance
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Metabolic overload creates endoplasmic reticulum stress when protein synthesis demand and lipid synthesis exceed ER capacity, coupled with calcium dysregulation. This triggers the Unfolded Protein Response (UPR).
 

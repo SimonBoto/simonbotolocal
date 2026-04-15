@@ -22,6 +22,54 @@ extraction-date: 2026-03-08
 ---
 
 # Alpha-Keto Acids — Transamination Intermediates
+## Related Zettels from Same Source
+
+- [[Amino_Acid_Krebs_Entry_Points_Map_Z-001-1098]]
+- [[Glucogenic_Amino_Acids_Gluconeogenesis_Support_Z-001-1101]]
+- [[Glycogenic_Ketogenic_Amino_Acid_Classification_Z-001-1097]]
+- [[Transamination_B6_Cofactors_Amino_Acid_Metabolism_Z-001-1100]]
+
+## Source
+
+[[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]]
+
+## Related Zettels from Same Source
+
+- [[Amino_Acid_Krebs_Entry_Points_Map_Z-001-1098]]
+- [[Glucogenic_Amino_Acids_Gluconeogenesis_Support_Z-001-1101]]
+- [[Glycogenic_Ketogenic_Amino_Acid_Classification_Z-001-1097]]
+- [[Transamination_B6_Cofactors_Amino_Acid_Metabolism_Z-001-1100]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Amino_Acid_Krebs_Entry_Points_Map_Z-001-1098]]
+- [[Glucogenic_Amino_Acids_Gluconeogenesis_Support_Z-001-1101]]
+- [[Glycogenic_Ketogenic_Amino_Acid_Classification_Z-001-1097]]
+- [[Transamination_B6_Cofactors_Amino_Acid_Metabolism_Z-001-1100]]
+
+## Source
+
+[[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]]
+
+## Related Zettels from Same Source
+
+- [[Amino_Acid_Krebs_Entry_Points_Map_Z-001-1098]]
+- [[Glucogenic_Amino_Acids_Gluconeogenesis_Support_Z-001-1101]]
+- [[Glycogenic_Ketogenic_Amino_Acid_Classification_Z-001-1097]]
+- [[Transamination_B6_Cofactors_Amino_Acid_Metabolism_Z-001-1100]]
 
 ## Core Claim
 **Alpha-keto acids are the deaminated carbon skeletons of amino acids, serving as the critical link between protein catabolism and central energy pathways via transamination** — this B6-dependent process enables nitrogen transfer while directing carbon skeletons to gluconeogenesis, ketogenesis, or the Krebs cycle.

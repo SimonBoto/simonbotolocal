@@ -12,6 +12,46 @@ status: conscious
 ---
 
 # Vitamin C to Oxalate Chemistry
+## Related Zettels from Same Source
+
+- [[Ascorbate_Oxalate_Measurement_Interference_Z-101-0470]]
+- [[DHA_Metabolism_Pathways_Z-101-0471]]
+
+## Source
+
+[[LitNote_CGPT_0505_Vitamin_C_Oxalate_L-101-0047.md]
+
+## Related Zettels from Same Source
+
+- [[Ascorbate_Oxalate_Measurement_Interference_Z-101-0470]]
+- [[DHA_Metabolism_Pathways_Z-101-0471]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Ascorbate_Oxalate_Measurement_Interference_Z-101-0470]]
+- [[DHA_Metabolism_Pathways_Z-101-0471]]
+
+## Source
+
+[[LitNote_CGPT_0505_Vitamin_C_Oxalate_L-101-0047.md]
+
+## Related Zettels from Same Source
+
+- [[Ascorbate_Oxalate_Measurement_Interference_Z-101-0470]]
+- [[DHA_Metabolism_Pathways_Z-101-0471]]
 
 ## Conversion Overview
 Ascorbic acid (vitamin C) can be metabolically converted to oxalate through a two-step oxidative process.

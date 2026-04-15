@@ -12,6 +12,18 @@ extraction-date: 2026-03-11
 ---
 
 # Metabolic Flexibility — Definition and Fuel Switching Capacity
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Metabolic flexibility is the capacity to efficiently switch between carbohydrate and fatty acid oxidation based on nutrient availability, hormonal signals, and energy demands — a hallmark of metabolic health that is progressively impaired in insulin resistance and type 2 diabetes.
@@ -89,6 +101,11 @@ Metabolic flexibility is the capacity to efficiently switch between carbohydrate
 - [[Hyperinsulinemia_Mechanisms_Z-001-1253]] — Insulin-mediated suppression
 - [[Insulin_Resistance_Beta_Oxidation_Block_Z-001-1255]] — IR mechanisms
 - [[BHB_Production_Fatty_Acids_Z-001-1256]] — Ketone production as flexibility marker
+
+## Related Zettels from Same Source
+
+- [[Hyperinsulinemia_Mechanisms_Z-001-1253]]
+- [[Insulin_Resistance_Beta_Oxidation_Block_Z-001-1255]]
 
 ## Source
 [[L-001-0654_Hyperinsulinemia_Metabolic_Inflexibility_CGPT-0647]]

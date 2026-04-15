@@ -14,6 +14,18 @@ updated: 2026-03-05
 ---
 
 # Sirolimus Induces Pancreatic Beta-Cell Dysfunction and NODAT
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **Core Mechanism:** Pancreatic β-cells are exquisitely sensitive to sirolimus due to high metabolic demand for  secretion and dependence on mitochondrial ATP production.
 

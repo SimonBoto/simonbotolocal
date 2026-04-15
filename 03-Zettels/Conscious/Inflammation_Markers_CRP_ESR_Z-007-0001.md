@@ -20,10 +20,30 @@ extraction-date: 2026-04-15
 ---
 
 # Inflammation Markers — CRP and ESR Clinical Interpretation
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **C-reactive protein (CRP)** and **erythrocyte sedimentation rate (ESR)** are acute phase reactants that indicate systemic inflammation. CRP is more specific; ESR is slower but catches chronic inflammation CRP might miss.
 
 ---
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Principle
 

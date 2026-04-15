@@ -14,6 +14,18 @@ extraction-date: 2026-04-15
 ---
 
 # Medical Establishment Suppression of Pauling
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 The medical establishment's ridicule of Linus Pauling exemplifies a recurring pattern: suppressing paradigm-challenging ideas, especially from outsiders or those who challenge institutional dogma — with attacks on the person rather than engagement with the science.
 
@@ -128,6 +140,16 @@ The medical establishment's ridicule of Linus Pauling exemplifies a recurring pa
 ## Significance
 
 2. **Self-treatment model** — patients could act independently
+
+## Related Zettels from Same Source
+
+- [[High_Dose_Vitamin_C_Cancer_Therapy_Z-001-0626]]
+- [[Human_GULO_Gene_Loss_Vitamin_C_Dependency_Z-001-0621]]
+- [[Orthomolecular_Medicine_Pauling_Legacy_Z-001-0627]]
+- [[Pauling_Scientific_Credentials_Vitamin_C_Z-001-0620]]
+- [[Vitamin_C_Biochemical_Functions_Z-001-0623]]
+- [[Vitamin_C_Evolutionary_Mismatch_Modern_Diet_Z-001-0624]]
+- [[Vitamin_C_RDA_vs_Optimal_Intake_Z-001-0622]]
 
 ## Source
 [[LitNote_KingOfVitamins_Pauling_Vitamin_C_2025_L-001-0656]] — Vitamin King (2025)

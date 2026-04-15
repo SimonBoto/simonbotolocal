@@ -13,6 +13,50 @@ extraction-date: 2026-03-08
 ---
 
 # Metabolic Fossils — Ancient Pathway Remnants
+## Related Zettels from Same Source
+
+- [[Ancient_Metabolic_Pathways_Conservation_Z-001-1107]]
+- [[Prebiotic_Chemistry_Hydrothermal_Vents_Z-001-1108]]
+- [[RNA_World_Hypothesis_Origins_Life_Z-001-1106]]
+
+## Source
+
+[[L-001-0605_Evolutionary_Biochemistry_Metabolism_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Ancient_Metabolic_Pathways_Conservation_Z-001-1107]]
+- [[Prebiotic_Chemistry_Hydrothermal_Vents_Z-001-1108]]
+- [[RNA_World_Hypothesis_Origins_Life_Z-001-1106]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Ancient_Metabolic_Pathways_Conservation_Z-001-1107]]
+- [[Prebiotic_Chemistry_Hydrothermal_Vents_Z-001-1108]]
+- [[RNA_World_Hypothesis_Origins_Life_Z-001-1106]]
+
+## Source
+
+[[L-001-0605_Evolutionary_Biochemistry_Metabolism_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Ancient_Metabolic_Pathways_Conservation_Z-001-1107]]
+- [[Prebiotic_Chemistry_Hydrothermal_Vents_Z-001-1108]]
+- [[RNA_World_Hypothesis_Origins_Life_Z-001-1106]]
 
 ## Mechanism
 

@@ -11,6 +11,50 @@ status: conscious
 ---
 
 # Autoimmune Disease —  Connection
+## Related Zettels from Same Source
+
+- [[Treg_Th17_Balance_VDR_Z-001-1165]]
+- [[VDR_Knockout_Mouse_Phenotypes_Z-001-0987]]
+- [[Vitamin_D_Immunomodulation_Mechanisms_Z-001-1163]]
+
+## Source
+
+[[LitNote_VDR_Knockout_Immune_Function_L-001-0621]
+
+## Related Zettels from Same Source
+
+- [[Treg_Th17_Balance_VDR_Z-001-1165]]
+- [[VDR_Knockout_Mouse_Phenotypes_Z-001-0987]]
+- [[Vitamin_D_Immunomodulation_Mechanisms_Z-001-1163]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Treg_Th17_Balance_VDR_Z-001-1165]]
+- [[VDR_Knockout_Mouse_Phenotypes_Z-001-0987]]
+- [[Vitamin_D_Immunomodulation_Mechanisms_Z-001-1163]]
+
+## Source
+
+[[LitNote_VDR_Knockout_Immune_Function_L-001-0621]
+
+## Related Zettels from Same Source
+
+- [[Treg_Th17_Balance_VDR_Z-001-1165]]
+- [[VDR_Knockout_Mouse_Phenotypes_Z-001-0987]]
+- [[Vitamin_D_Immunomodulation_Mechanisms_Z-001-1163]]
 
 ## Epidemiological Evidence
 

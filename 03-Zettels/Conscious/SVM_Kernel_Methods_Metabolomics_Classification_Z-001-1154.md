@@ -11,6 +11,46 @@ status: conscious
 ---
 
 # SVM Kernel Methods —  Classification
+## Related Zettels from Same Source
+
+- [[Deep_Learning_Neural_Networks_Metabolomics_Z-001-1155]]
+- [[Random_Forest_Classification_Feature_Importance_Z-001-1153]]
+
+## Source
+
+[[LitNote_Machine_Learning_Metabolomics_L-001-0618]
+
+## Related Zettels from Same Source
+
+- [[Deep_Learning_Neural_Networks_Metabolomics_Z-001-1155]]
+- [[Random_Forest_Classification_Feature_Importance_Z-001-1153]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Deep_Learning_Neural_Networks_Metabolomics_Z-001-1155]]
+- [[Random_Forest_Classification_Feature_Importance_Z-001-1153]]
+
+## Source
+
+[[LitNote_Machine_Learning_Metabolomics_L-001-0618]
+
+## Related Zettels from Same Source
+
+- [[Deep_Learning_Neural_Networks_Metabolomics_Z-001-1155]]
+- [[Random_Forest_Classification_Feature_Importance_Z-001-1153]]
 
 ## Overview
 

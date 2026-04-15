@@ -22,6 +22,54 @@ extraction-date: 2026-03-08
 ---
 
 # Iron-Sulfur Clusters — Ancient Cofactors
+## Related Zettels from Same Source
+
+- [[B_Vitamins_Enzyme_Cofactors_Metabolism_Z-001-1102]]
+- [[Cofactor_Deficiency_Metabolite_Patterns_Z-001-1105]]
+- [[Magnesium_Metabolic_Cofactor_ATF_Function_Z-001-1104]]
+- [[Magnesium_Metabolic_Cofactor_ATP_Function_Z-001-1104]]
+
+## Source
+
+[[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]]
+
+## Related Zettels from Same Source
+
+- [[B_Vitamins_Enzyme_Cofactors_Metabolism_Z-001-1102]]
+- [[Cofactor_Deficiency_Metabolite_Patterns_Z-001-1105]]
+- [[Magnesium_Metabolic_Cofactor_ATF_Function_Z-001-1104]]
+- [[Magnesium_Metabolic_Cofactor_ATP_Function_Z-001-1104]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[B_Vitamins_Enzyme_Cofactors_Metabolism_Z-001-1102]]
+- [[Cofactor_Deficiency_Metabolite_Patterns_Z-001-1105]]
+- [[Magnesium_Metabolic_Cofactor_ATF_Function_Z-001-1104]]
+- [[Magnesium_Metabolic_Cofactor_ATP_Function_Z-001-1104]]
+
+## Source
+
+[[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]]
+
+## Related Zettels from Same Source
+
+- [[B_Vitamins_Enzyme_Cofactors_Metabolism_Z-001-1102]]
+- [[Cofactor_Deficiency_Metabolite_Patterns_Z-001-1105]]
+- [[Magnesium_Metabolic_Cofactor_ATF_Function_Z-001-1104]]
+- [[Magnesium_Metabolic_Cofactor_ATP_Function_Z-001-1104]]
 
 ## Core Claim
 **Iron-sulfur (Fe-S) clusters are among the most ancient biological cofactors, essential for electron transfer, enzyme catalysis, and cellular sensing — their prebiotic plausibility and universal conservation suggest they were present in the earliest life forms** — modern mitochondria retain dozens of Fe-S proteins for energy metabolism.

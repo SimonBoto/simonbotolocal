@@ -12,8 +12,28 @@ extraction-date: 2026-03-01
 ---
 
 # Mediterranean Diet — Evidence and s
+## Source
+
+[[LitNote_Oleic_Acid_Clinical_L-001-0506]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > The Mediterranean dietary pattern, characterized by high olive oil consumption, consistently demonstrates cardiovascular and metabolic benefits in  trials.
+
+## Source
+
+[[LitNote_Oleic_Acid_Clinical_L-001-0506]
 
 ## Core Principle
 

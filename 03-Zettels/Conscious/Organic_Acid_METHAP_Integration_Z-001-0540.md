@@ -12,6 +12,18 @@ extraction-date: 2026-03-01
 ---
 
 # Organic Acid METHAP Integration
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Organic acid testing integrates seamlessly into the METHAP framework by providing objective biomarkers for mitochondrial dysfunction at baseline, enabling personalized nutrient-targeted therapy that builds upon existing protocol components (magnesium, B-vitamins, vitamin D/K2), and offering quantifiable outcomes for monitoring metabolic improvement alongside traditional markers like HbA1c and inflammatory indicators.
@@ -108,6 +120,12 @@ Organic acid testing integrates seamlessly into the METHAP framework by providin
 - [[Urine_Organic_Acid_Krebs_Cycle_Markers_Z-001-0537]] — OAT interpretation
 - [[Mitochondrial_Nutrient_Deficiency_Patterns_Z-001-0538]] — Nutrient mapping
 - [[Mitochondrial_Supplementation_Protocol_Z-001-0539]] — Management protocol
+
+## Related Zettels from Same Source
+
+- [[Mitochondrial_Nutrient_Deficiency_Patterns_Z-001-0538]]
+- [[Mitochondrial_Supplementation_Protocol_Z-001-0539]]
+- [[Urine_Organic_Acid_Krebs_Cycle_Markers_Z-001-0537]]
 
 ## Source
 [[Organic_Acid_Krebs_Cycle_Markers_Clinical_L-001-0507_CGPT-0393]]

@@ -13,8 +13,56 @@ updated: 2026-03-05
 ---
 
 # Statistical Issues — Overfitting and Correlation Inflation
+## Related Zettels from Same Source
+
+- [[Confounding_Variables_Diet_Studies_Z-001-0525]]
+- [[Ecological_Fallacy_Nutrition_Research_Z-001-0523]]
+- [[Selection_Bias_Cherry_Picking_Countries_Z-001-0931]]
+- [[Seven_Countries_Study_Design_Structure_Z-001-0522]]
+
+## Source
+
+[[LitNote_Seven_Countries_Methodology_L-001-0504]
+
+## Related Zettels from Same Source
+
+- [[Confounding_Variables_Diet_Studies_Z-001-0525]]
+- [[Ecological_Fallacy_Nutrition_Research_Z-001-0523]]
+- [[Selection_Bias_Cherry_Picking_Countries_Z-001-0931]]
+- [[Seven_Countries_Study_Design_Structure_Z-001-0522]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Severe overfitting (7 countries, many predictors), correlation inflation from aggregation, and implausible R² values undermine statistical validity.
+
+## Related Zettels from Same Source
+
+- [[Confounding_Variables_Diet_Studies_Z-001-0525]]
+- [[Ecological_Fallacy_Nutrition_Research_Z-001-0523]]
+- [[Selection_Bias_Cherry_Picking_Countries_Z-001-0931]]
+- [[Seven_Countries_Study_Design_Structure_Z-001-0522]]
+
+## Source
+
+[[LitNote_Seven_Countries_Methodology_L-001-0504]
+
+## Related Zettels from Same Source
+
+- [[Confounding_Variables_Diet_Studies_Z-001-0525]]
+- [[Ecological_Fallacy_Nutrition_Research_Z-001-0523]]
+- [[Selection_Bias_Cherry_Picking_Countries_Z-001-0931]]
+- [[Seven_Countries_Study_Design_Structure_Z-001-0522]]
 
 ## Core Principle
 

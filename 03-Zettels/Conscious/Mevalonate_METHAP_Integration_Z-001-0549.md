@@ -12,6 +12,18 @@ extraction-date: 2026-03-01
 ---
 
 # Mevalonate METHAP Integration
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 The mevalonate pathway integrates into the METHAP framework through three key connections: (1) Coenzyme Q10 supplementation is mandatory for statin-treated patients to prevent mitochondrial dysfunction; (2) high-dose vitamin D3 therapy remains effective despite statins because skin photoconversion bypasses the blocked cholesterol synthesis pathway; and (3) pathway cofactors (magnesium, B-vitamins, zinc, selenium) support both mevalonate function and broader metabolic health objectives.
@@ -134,6 +146,13 @@ Acetyl-CoA → Mevalonate → Cholesterol → 7-Dehydrocholesterol
 - [[HMG_CoA_Reductase_Regulation_Z-001-0546]] — HMGCR regulation
 - [[Mevalonate_Branch_Points_Z-001-0547]] — FPP branch point
 - [[Mevalonate_Clinical_Implications_Z-001-0548]] — Statin effects
+
+## Related Zettels from Same Source
+
+- [[HMG_CoA_Reductase_Regulation_Z-001-0546]]
+- [[Mevalonate_Branch_Points_Z-001-0547]]
+- [[Mevalonate_Clinical_Implications_Z-001-0548]]
+- [[Mevalonate_Pathway_Enzymatic_Steps_Z-001-0545]]
 
 ## Source
 [[Mevalonate_Pathway_From_Acetyl-CoA_to_Cholesterol_L-001-0509_CGPT-0393]]

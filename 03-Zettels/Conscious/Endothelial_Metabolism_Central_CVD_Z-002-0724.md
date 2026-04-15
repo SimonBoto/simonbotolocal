@@ -14,6 +14,18 @@ related: []
 ---
 
 # Endothelial Metabolism Central to CVD
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Endothelial cell metabolism** plays a central role in cardiovascular disease development — beyond cholesterol, metabolic processes in vessel walls determine disease progression.

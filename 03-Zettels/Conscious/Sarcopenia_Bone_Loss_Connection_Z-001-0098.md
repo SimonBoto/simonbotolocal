@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 # Sarcopenia Bone Loss Connection
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Sarcopenia (age-related muscle loss) and bone loss are connected. Low muscle mass reduces mechanical loading on bone. Protein sufficiency helps maintain both muscle and bone in older adults.
 

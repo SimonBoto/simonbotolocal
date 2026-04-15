@@ -14,6 +14,18 @@ updated: 2026-03-05
 ---
 
 # Epigenomics — Gene Regulation Without DNA Sequence Change
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Epigenomics studies changes in gene function through epigenetic factors that modify the genome **without altering the DNA base sequence**. This is the molecular mechanism linking environment to gene expression.
 

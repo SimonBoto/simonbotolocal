@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 # Osteoblasts Bone Forming Cells
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Osteoblasts are derived from mesenchymal stem cells. They synthesize new bone matrix (osteoid) and initiate mineralization. They secrete osteoprotegerin (OPG), which regulates osteoclast formation by binding RANKL.
 

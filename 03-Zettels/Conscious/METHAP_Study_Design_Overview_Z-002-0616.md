@@ -14,8 +14,56 @@ created: 2026-03-27
 ---
 
 # METHAP Study Design Overview
+## Related Zettels from Same Source
+
+- [[METHAP_Inclusion_Exclusion_Criteria_Z-002-0618]]
+- [[METHAP_Intervention_Protocol_Z-002-0619]]
+- [[METHAP_Metabolomics_Analysis_Plan_Z-002-0620]]
+- [[METHAP_Participant_Selection_Sample_Size_Z-002-0617]]
+
+## Source
+
+[[LitNote_METHAP_Study_Design_Protocol_L-002-0604]
+
+## Related Zettels from Same Source
+
+- [[METHAP_Inclusion_Exclusion_Criteria_Z-002-0618]]
+- [[METHAP_Intervention_Protocol_Z-002-0619]]
+- [[METHAP_Metabolomics_Analysis_Plan_Z-002-0620]]
+- [[METHAP_Participant_Selection_Sample_Size_Z-002-0617]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 METHAP ( and Insulin Resistance s) is a dual-phase study combining cross-sectional biomarker identification with longitudinal dietary intervention.
+
+## Related Zettels from Same Source
+
+- [[METHAP_Inclusion_Exclusion_Criteria_Z-002-0618]]
+- [[METHAP_Intervention_Protocol_Z-002-0619]]
+- [[METHAP_Metabolomics_Analysis_Plan_Z-002-0620]]
+- [[METHAP_Participant_Selection_Sample_Size_Z-002-0617]]
+
+## Source
+
+[[LitNote_METHAP_Study_Design_Protocol_L-002-0604]
+
+## Related Zettels from Same Source
+
+- [[METHAP_Inclusion_Exclusion_Criteria_Z-002-0618]]
+- [[METHAP_Intervention_Protocol_Z-002-0619]]
+- [[METHAP_Metabolomics_Analysis_Plan_Z-002-0620]]
+- [[METHAP_Participant_Selection_Sample_Size_Z-002-0617]]
 
 ## Core Principle
 

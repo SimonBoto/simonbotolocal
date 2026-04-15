@@ -25,6 +25,58 @@ extraction-date: 2026-03-01
 ---
 
 # Transsulfuration Pathway — Cysteine Synthesis
+## Related Zettels from Same Source
+
+- [[Complete_Methionine_Oxidation_Energy_Z-001-0437]]
+- [[Cysteine_Metabolic_Fates_Glutathione_Z-001-0435]]
+- [[Glutathione_Master_Antioxidant_Z-001-0436]]
+- [[Methionine_Cycle_Activation_Regeneration_Z-001-0433]]
+- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]]
+
+## Source
+
+[[LitNote_Methionine_Catabolism_L-001-0406]]
+
+## Related Zettels from Same Source
+
+- [[Complete_Methionine_Oxidation_Energy_Z-001-0437]]
+- [[Cysteine_Metabolic_Fates_Glutathione_Z-001-0435]]
+- [[Glutathione_Master_Antioxidant_Z-001-0436]]
+- [[Methionine_Cycle_Activation_Regeneration_Z-001-0433]]
+- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Complete_Methionine_Oxidation_Energy_Z-001-0437]]
+- [[Cysteine_Metabolic_Fates_Glutathione_Z-001-0435]]
+- [[Glutathione_Master_Antioxidant_Z-001-0436]]
+- [[Methionine_Cycle_Activation_Regeneration_Z-001-0433]]
+- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]]
+
+## Source
+
+[[LitNote_Methionine_Catabolism_L-001-0406]]
+
+## Related Zettels from Same Source
+
+- [[Complete_Methionine_Oxidation_Energy_Z-001-0437]]
+- [[Cysteine_Metabolic_Fates_Glutathione_Z-001-0435]]
+- [[Glutathione_Master_Antioxidant_Z-001-0436]]
+- [[Methionine_Cycle_Activation_Regeneration_Z-001-0433]]
+- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]]
 
 ## Mechanism
 

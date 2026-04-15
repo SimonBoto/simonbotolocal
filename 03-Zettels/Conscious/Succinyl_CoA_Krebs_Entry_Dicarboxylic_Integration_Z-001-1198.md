@@ -13,6 +13,26 @@ extraction-date: 2026-03-08
 ---
 
 # Succinyl-CoA Krebs Entry — Dicarboxylic Acid Integration
+## Source
+
+[[L-001-0629_Adipate_Metabolism_Dicarboxylic_Pathway_CGPT-0586]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[L-001-0629_Adipate_Metabolism_Dicarboxylic_Pathway_CGPT-0586]]
 
 ## Core Claim
 **Succinyl-CoA — produced from adipate through two cycles of β-oxidation — enters the Krebs cycle at the succinyl-CoA synthetase step, generating GTP (substrate-level phosphorylation) and continuing through the remaining cycle steps to produce additional NADH and FADH2, fully integrating dicarboxylic acid metabolism into mitochondrial energy production.**

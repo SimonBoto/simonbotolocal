@@ -15,6 +15,18 @@ related: []
 ---
 
 # Meat Consumption Eliminates Genetic Alzheimer Risk in APOE4 Carriers
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Higher meat consumption eliminates the increased genetic dementia risk in APOE4 carriers** — reducing dementia risk by 55% (HR 0.45) in people with the APOE4 allele who consume relatively high amounts of meat.
@@ -50,6 +62,11 @@ related: []
 ## Significance
 
 tags: [zettel, meat, APOE4, alzheimer, dementia, genetic-risk, nutrition]
+
+## Related Zettels from Same Source
+
+- [[APOE4_Meat_Protective_Effect_Z-002-0757]]
+- [[B12_Critical_Brain_Health_Z-002-0758]]
 
 ## Source
 - **LitNote:** [[L-002-0206_Meat_Consumption_Eliminates_Alzheimer_Genetic_Risk]]

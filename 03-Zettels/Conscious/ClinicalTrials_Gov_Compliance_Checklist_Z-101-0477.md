@@ -12,6 +12,46 @@ status: conscious
 ---
 
 # Trials.gov Compliance Checklist
+## Related Zettels from Same Source
+
+- [[ClinicalTrials_Gov_Registration_Structure_Z-101-0476]]
+- [[METHAP_IRB_Feedback_Action_Items_Z-101-0473]]
+
+## Source
+
+[[LitNote_CGPT_0102_ClinicalTrials_Gov_L-101-0049.md]
+
+## Related Zettels from Same Source
+
+- [[ClinicalTrials_Gov_Registration_Structure_Z-101-0476]]
+- [[METHAP_IRB_Feedback_Action_Items_Z-101-0473]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[ClinicalTrials_Gov_Registration_Structure_Z-101-0476]]
+- [[METHAP_IRB_Feedback_Action_Items_Z-101-0473]]
+
+## Source
+
+[[LitNote_CGPT_0102_ClinicalTrials_Gov_L-101-0049.md]
+
+## Related Zettels from Same Source
+
+- [[ClinicalTrials_Gov_Registration_Structure_Z-101-0476]]
+- [[METHAP_IRB_Feedback_Action_Items_Z-101-0473]]
 
 ## Pre-Registration Requirements
 

@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 # Research Gap in Infant 8,000 IU  Safety Studies
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Despite the corrected RDA calculation showing 7,000-8,000 IU/day is needed for 97.5% population coverage, no research studies have specifically tested 8,000 IU daily safety in 1-year-old children. This gap exists between statistical requirements and evidence base.
 

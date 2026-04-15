@@ -23,6 +23,58 @@ extraction-date: 2026-03-01
 ---
 
 # Adenosylcobalamin — The Mitochondrial B12 Form
+## Related Zettels from Same Source
+
+- [[B12_Exercise_Performance_Energy_Z-001-0440]]
+- [[B12_METHAP_Protocol_Integration_Z-001-0443]]
+- [[B12_Requirements_Supplementation_Z-001-0442]]
+- [[Clinical_Assessment_B12_Status_MMA_Z-001-0441]]
+- [[Methylmalonyl_CoA_Mutase_Energy_Connection_Z-001-0439]]
+
+## Source
+
+[[LitNote_Mitochondrial_B12_Functions_L-001-0407]]
+
+## Related Zettels from Same Source
+
+- [[B12_Exercise_Performance_Energy_Z-001-0440]]
+- [[B12_METHAP_Protocol_Integration_Z-001-0443]]
+- [[B12_Requirements_Supplementation_Z-001-0442]]
+- [[Clinical_Assessment_B12_Status_MMA_Z-001-0441]]
+- [[Methylmalonyl_CoA_Mutase_Energy_Connection_Z-001-0439]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[B12_Exercise_Performance_Energy_Z-001-0440]]
+- [[B12_METHAP_Protocol_Integration_Z-001-0443]]
+- [[B12_Requirements_Supplementation_Z-001-0442]]
+- [[Clinical_Assessment_B12_Status_MMA_Z-001-0441]]
+- [[Methylmalonyl_CoA_Mutase_Energy_Connection_Z-001-0439]]
+
+## Source
+
+[[LitNote_Mitochondrial_B12_Functions_L-001-0407]]
+
+## Related Zettels from Same Source
+
+- [[B12_Exercise_Performance_Energy_Z-001-0440]]
+- [[B12_METHAP_Protocol_Integration_Z-001-0443]]
+- [[B12_Requirements_Supplementation_Z-001-0442]]
+- [[Clinical_Assessment_B12_Status_MMA_Z-001-0441]]
+- [[Methylmalonyl_CoA_Mutase_Energy_Connection_Z-001-0439]]
 
 ## Core Claim
 **Adenosylcobalamin (5'-deoxyadenosylcobalamin) is the mitochondrial form of vitamin B12, characterized by a unique cobalt-carbon bond that enables radical chemistry for methylmalonyl-CoA mutase** — this distinguishes it from methylcobalamin (cytosolic, methylation) and makes it essential for energy metabolism.

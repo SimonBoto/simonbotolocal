@@ -13,6 +13,58 @@ extraction-date: 2026-03-08
 ---
 
 # Oxidative Phosphorylation Clinical Mechanisms
+## Related Zettels from Same Source
+
+- [[Aconitase_Oxidative_Stress_Sensitivity_Z-001-1053]]
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]]
+- [[Krebs_Cycle_Clinical_Biochemistry_Z-001-1048]]
+- [[Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051]]
+- [[TCA_Intermediates_Clinical_Significance_Z-001-1049]]
+
+## Source
+
+[[L-001-0591_Mitochondrial_Biochemistry_Clinicians_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Aconitase_Oxidative_Stress_Sensitivity_Z-001-1053]]
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]]
+- [[Krebs_Cycle_Clinical_Biochemistry_Z-001-1048]]
+- [[Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051]]
+- [[TCA_Intermediates_Clinical_Significance_Z-001-1049]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Aconitase_Oxidative_Stress_Sensitivity_Z-001-1053]]
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]]
+- [[Krebs_Cycle_Clinical_Biochemistry_Z-001-1048]]
+- [[Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051]]
+- [[TCA_Intermediates_Clinical_Significance_Z-001-1049]]
+
+## Source
+
+[[L-001-0591_Mitochondrial_Biochemistry_Clinicians_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Aconitase_Oxidative_Stress_Sensitivity_Z-001-1053]]
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]]
+- [[Krebs_Cycle_Clinical_Biochemistry_Z-001-1048]]
+- [[Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051]]
+- [[TCA_Intermediates_Clinical_Significance_Z-001-1049]]
 
 ## Mechanism
 

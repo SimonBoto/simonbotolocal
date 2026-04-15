@@ -12,8 +12,28 @@ extraction-date: 2026-03-01
 ---
 
 # Oleic Acid Metabolic Benefits
+## Source
+
+[[LitNote_Oleic_Acid_Clinical_L-001-0506]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Oleic acid consumption improves lipid profiles, enhances  sensitivity, and reduces inflammatory markers through multiple cellular s.
+
+## Source
+
+[[LitNote_Oleic_Acid_Clinical_L-001-0506]
 
 ## Core Principle
 

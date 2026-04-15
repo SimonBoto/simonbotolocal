@@ -16,6 +16,18 @@ created: 2026-02-22
 ---
 
 # GSK3 Inhibition and Glycogen Synthesis
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
  promotes hepatic glycogen synthesis by inhibiting GSK3, relieving its suppression of glycogen synthase.
 

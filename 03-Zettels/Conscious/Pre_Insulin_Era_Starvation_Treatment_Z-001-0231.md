@@ -12,8 +12,60 @@ extraction-date: 2026-03-01
 ---
 
 # Pre- Era — The Starvation Treatment for Diabetes
+## Related Zettels from Same Source
+
+- [[Banting_Best_Discovery_1921_Z-001-0232]]
+- [[Insulin_Naming_Islets_Langerhans_Z-001-0235]]
+- [[James_Collip_Purification_Contribution_Z-001-0233]]
+- [[Leonard_Thompson_First_Human_Treatment_1922_Z-001-0234]]
+- [[Nobel_Prize_1923_Controversy_Z-001-0236]]
+
+## Source
+
+[[LitNote_Insulin_History_L-001-0207]
+
+## Related Zettels from Same Source
+
+- [[Banting_Best_Discovery_1921_Z-001-0232]]
+- [[Insulin_Naming_Islets_Langerhans_Z-001-0235]]
+- [[James_Collip_Purification_Contribution_Z-001-0233]]
+- [[Leonard_Thompson_First_Human_Treatment_1922_Z-001-0234]]
+- [[Nobel_Prize_1923_Controversy_Z-001-0236]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Before the discovery of insulin in 1921, Type 1 diabetes was a fatal diagnosis with no effective treatment; the only available therapy was severe caloric restriction (starvation diets) that could prolong life by months at the cost of severe mal.
+
+## Related Zettels from Same Source
+
+- [[Banting_Best_Discovery_1921_Z-001-0232]]
+- [[Insulin_Naming_Islets_Langerhans_Z-001-0235]]
+- [[James_Collip_Purification_Contribution_Z-001-0233]]
+- [[Leonard_Thompson_First_Human_Treatment_1922_Z-001-0234]]
+- [[Nobel_Prize_1923_Controversy_Z-001-0236]]
+
+## Source
+
+[[LitNote_Insulin_History_L-001-0207]
+
+## Related Zettels from Same Source
+
+- [[Banting_Best_Discovery_1921_Z-001-0232]]
+- [[Insulin_Naming_Islets_Langerhans_Z-001-0235]]
+- [[James_Collip_Purification_Contribution_Z-001-0233]]
+- [[Leonard_Thompson_First_Human_Treatment_1922_Z-001-0234]]
+- [[Nobel_Prize_1923_Controversy_Z-001-0236]]
 
 ## Core Principle
 

@@ -15,6 +15,18 @@ related: []
 ---
 
 # Diet Soda Paradox: Associated with Weight Gain
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Diet soda consumption is associated with weight gain and obesity** — the "diet" paradox where calorie-free beverages promote adiposity through metabolic mechanisms.
@@ -25,6 +37,11 @@ related: []
 | **Gut microbiome** | Altered |
 | **Sweet taste receptors** | Metabolic confusion |
 | **Insulin response** | Disrupted |
+
+## Related Zettels from Same Source
+
+- [[Artificial_Sweeteners_Visceral_Fat_Accumulation_Z-002-0741]]
+- [[Aspartame_Saccharin_Independent_Calories_Fat_Z-002-0742]]
 
 ## Source
 - **LitNote:** [[L-002-0201_Artificial_Sweeteners_Increase_Body_Fat]]

@@ -14,6 +14,18 @@ updated: 2026-03-05
 ---
 
 # Systems Biology as Integrative Framework
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Systems biology studies the totality of biomolecules comprising an organism, their interactions, and how they influence biological process functionality. This represents a shift from reductionist approaches (analyzing genes, proteins, or metabolites in isolation) to integrative analysis of all components and their interplay.
 

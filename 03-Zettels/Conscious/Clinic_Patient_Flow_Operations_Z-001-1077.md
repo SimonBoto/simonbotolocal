@@ -13,6 +13,50 @@ extraction-date: 2026-03-08
 ---
 
 # Clinic Patient Flow Operations
+## Related Zettels from Same Source
+
+- [[Clinician_Training_Competency_Checklist_Z-001-1080]]
+- [[Follow_Up_Assessment_Rhythms_Z-001-1079]]
+- [[Metabolomics_Quality_Standards_Z-001-1078]]
+
+## Source
+
+[[L-001-0597_Metabolomics_Clinic_Operations_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Clinician_Training_Competency_Checklist_Z-001-1080]]
+- [[Follow_Up_Assessment_Rhythms_Z-001-1079]]
+- [[Metabolomics_Quality_Standards_Z-001-1078]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Clinician_Training_Competency_Checklist_Z-001-1080]]
+- [[Follow_Up_Assessment_Rhythms_Z-001-1079]]
+- [[Metabolomics_Quality_Standards_Z-001-1078]]
+
+## Source
+
+[[L-001-0597_Metabolomics_Clinic_Operations_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Clinician_Training_Competency_Checklist_Z-001-1080]]
+- [[Follow_Up_Assessment_Rhythms_Z-001-1079]]
+- [[Metabolomics_Quality_Standards_Z-001-1078]]
 
 ## Core Claim
 **Six-stage patient flow operationalization — Assessment → Sample → Analysis → Reporting → Treatment → Follow-up — with standard operating procedures at each stage ensures consistent, high-quality metabolomics care while maintaining quality metrics including <2% pre-analytical error rate and <5-day report turnaround.**

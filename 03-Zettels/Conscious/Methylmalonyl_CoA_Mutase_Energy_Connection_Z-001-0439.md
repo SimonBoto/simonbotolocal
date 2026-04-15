@@ -24,6 +24,58 @@ extraction-date: 2026-03-01
 ---
 
 # Methylmalonyl-CoA Mutase — Energy Connection
+## Related Zettels from Same Source
+
+- [[Adenosylcobalamin_Mitochondrial_B12_Form_Z-001-0438]]
+- [[B12_Exercise_Performance_Energy_Z-001-0440]]
+- [[B12_METHAP_Protocol_Integration_Z-001-0443]]
+- [[B12_Requirements_Supplementation_Z-001-0442]]
+- [[Clinical_Assessment_B12_Status_MMA_Z-001-0441]]
+
+## Source
+
+[[LitNote_Mitochondrial_B12_Functions_L-001-0407]]
+
+## Related Zettels from Same Source
+
+- [[Adenosylcobalamin_Mitochondrial_B12_Form_Z-001-0438]]
+- [[B12_Exercise_Performance_Energy_Z-001-0440]]
+- [[B12_METHAP_Protocol_Integration_Z-001-0443]]
+- [[B12_Requirements_Supplementation_Z-001-0442]]
+- [[Clinical_Assessment_B12_Status_MMA_Z-001-0441]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Adenosylcobalamin_Mitochondrial_B12_Form_Z-001-0438]]
+- [[B12_Exercise_Performance_Energy_Z-001-0440]]
+- [[B12_METHAP_Protocol_Integration_Z-001-0443]]
+- [[B12_Requirements_Supplementation_Z-001-0442]]
+- [[Clinical_Assessment_B12_Status_MMA_Z-001-0441]]
+
+## Source
+
+[[LitNote_Mitochondrial_B12_Functions_L-001-0407]]
+
+## Related Zettels from Same Source
+
+- [[Adenosylcobalamin_Mitochondrial_B12_Form_Z-001-0438]]
+- [[B12_Exercise_Performance_Energy_Z-001-0440]]
+- [[B12_METHAP_Protocol_Integration_Z-001-0443]]
+- [[B12_Requirements_Supplementation_Z-001-0442]]
+- [[Clinical_Assessment_B12_Status_MMA_Z-001-0441]]
 
 ## Core Claim
 **Methylmalonyl-CoA mutase produces succinyl-CoA, linking propionate metabolism to the Krebs cycle with a net energy yield of ~12 ATP per propionate molecule** — this B12-dependent reaction enables energy extraction from fiber, amino acids, and odd-chain fatty acids that would otherwise be lost.

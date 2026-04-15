@@ -14,6 +14,22 @@ created: 2026-02-24
 ---
 
 # BCAAs and Insulin Resistance Risk
+## Source
+
+[[LitNote_Biomarkers_Taxonomy_L-001-0006]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Branched-chain amino acids (leucine, isoleucine, valine) are elevated in insulin resistance and predict T2D risk. Elevated BCAAs indicate altered amino acid  and increased mTOR signaling.
 
@@ -30,6 +46,10 @@ Branched-chain amino acids (leucine, isoleucine, valine) are elevated in insulin
 - Gut microbiome alterations
 
 **Note:** BCAAs are context-dependent — beneficial for muscle protein synthesis in insulin-sensitive individuals, problematic in IR state.
+
+## Source
+
+[[LitNote_Biomarkers_Taxonomy_L-001-0006]
 
 ## Core Principle
 

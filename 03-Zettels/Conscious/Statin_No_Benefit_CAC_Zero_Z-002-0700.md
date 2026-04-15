@@ -14,6 +14,18 @@ related: []
 ---
 
 # Statin Shows No Benefit When CAC is Zero
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 In patients with **CAC = 0** (no coronary plaque), statin therapy shows **no cardiovascular benefit** over 8+ years of follow-up, indicating overtreatment when imaging shows no atherosclerosis.

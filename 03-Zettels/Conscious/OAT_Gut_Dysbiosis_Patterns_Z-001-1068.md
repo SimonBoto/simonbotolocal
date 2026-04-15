@@ -13,6 +13,54 @@ extraction-date: 2026-03-08
 ---
 
 # OAT Gut Dysbiosis Patterns
+## Related Zettels from Same Source
+
+- [[OAT_Category_Interpretation_Framework_Z-001-1065]]
+- [[OAT_Clinical_Action_Mapping_Z-001-1069]]
+- [[OAT_Mitochondrial_Patterns_Z-001-1067]]
+- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]]
+
+## Source
+
+[[L-001-0594_OAT_Interpretation_Clinical_Protocol_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[OAT_Category_Interpretation_Framework_Z-001-1065]]
+- [[OAT_Clinical_Action_Mapping_Z-001-1069]]
+- [[OAT_Mitochondrial_Patterns_Z-001-1067]]
+- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[OAT_Category_Interpretation_Framework_Z-001-1065]]
+- [[OAT_Clinical_Action_Mapping_Z-001-1069]]
+- [[OAT_Mitochondrial_Patterns_Z-001-1067]]
+- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]]
+
+## Source
+
+[[L-001-0594_OAT_Interpretation_Clinical_Protocol_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[OAT_Category_Interpretation_Framework_Z-001-1065]]
+- [[OAT_Clinical_Action_Mapping_Z-001-1069]]
+- [[OAT_Mitochondrial_Patterns_Z-001-1067]]
+- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]]
 
 ## Core Claim
 **Gut-derived OAT markers — indican, hippurate, phenylacetate, HPHPA, and yeast metabolites — provide quantitative assessment of intestinal microbial metabolism, protein malabsorption, and specific bacterial overgrowth patterns, with elevated markers indicating dysbiosis, small intestinal bacterial overgrowth, or Clostridia dominance that may drive systemic inflammation and neuropsychiatric symptoms.**

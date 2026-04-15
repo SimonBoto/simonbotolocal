@@ -15,6 +15,18 @@ related: []
 ---
 
 # Fasting-Mimicking Diet as Adjunct Cancer Therapy
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Fasting-mimicking diets (FMD)** — low-calorie, low-protein, plant-based protocols that mimic fasting's metabolic effects without complete food deprivation — represent a practical clinical intervention to enhance immunotherapy and potentially other cancer treatments with improved patient compliance.
@@ -53,6 +65,11 @@ related: []
 | **FMD + chemotherapy** | Reduced side effects |
 | **FMD + immunotherapy** | Enhanced response |
 | **Tumor sensitization** | Better treatment efficacy |
+
+## Related Zettels from Same Source
+
+- [[Fasting_Enhances_Cancer_Immunotherapy_Response_Z-002-0678]]
+- [[Fasting_Reprograms_Tumor_Microenvironment_Z-002-0679]]
 
 ## Source
 - **LitNote:** [[L-002-0181_Fasting_Enhances_Immunotherapy]]

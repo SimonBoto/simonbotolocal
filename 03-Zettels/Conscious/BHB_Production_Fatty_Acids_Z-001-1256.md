@@ -12,6 +12,18 @@ extraction-date: 2026-03-11
 ---
 
 # BHB Production from Fatty Acids — Quantification and HMG-CoA Pathway
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Beta-hydroxybutyrate (BHB) is synthesized in hepatic mitochondria from fatty acid-derived acetyl-CoA via the HMG-CoA pathway, with one palmitic acid molecule (C16:0) yielding 4 BHB molecules (after accounting for ATP investment in fatty acid activation), providing an efficient water-soluble fuel for extrahepatic tissues during carbohydrate restriction.
@@ -85,6 +97,12 @@ Beta-hydroxybutyrate (BHB) is synthesized in hepatic mitochondria from fatty aci
 - [[Ketolysis_SCOT_Mechanism_Z-001-1257]] — Extrahepatic utilization
 - [[ATP_Yield_Comparison_Z-001-1258]] — Energy efficiency comparison
 - [[Ketone_vs_Glycolysis_Mitochondrial_Entry_Z-001-1259]] — Cellular entry differences
+
+## Related Zettels from Same Source
+
+- [[ATP_Yield_Comparison_Z-001-1258]]
+- [[Ketolysis_SCOT_Mechanism_Z-001-1257]]
+- [[Ketone_vs_Glycolysis_Mitochondrial_Entry_Z-001-1259]]
 
 ## Source
 [[L-001-0655_Ketone_Body_Metabolism_Deep_Dive_CGPT-0647]]

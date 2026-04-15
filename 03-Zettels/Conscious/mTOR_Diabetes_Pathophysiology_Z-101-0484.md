@@ -12,6 +12,42 @@ status: conscious
 ---
 
 # mTOR Diabetes Pathophysiology
+## Related Zettels from Same Source
+
+- [[Sirolimus_mTOR_Mitochondrial_Mechanisms_Z-101-0483]]
+
+## Source
+
+[[LitNote_CGPT_0189_Sirolimus_Diabetes_L-101-0053.md]
+
+## Related Zettels from Same Source
+
+- [[Sirolimus_mTOR_Mitochondrial_Mechanisms_Z-101-0483]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Sirolimus_mTOR_Mitochondrial_Mechanisms_Z-101-0483]]
+
+## Source
+
+[[LitNote_CGPT_0189_Sirolimus_Diabetes_L-101-0053.md]
+
+## Related Zettels from Same Source
+
+- [[Sirolimus_mTOR_Mitochondrial_Mechanisms_Z-101-0483]]
 
 ## Overview
 mTOR (mechanistic target of rapamycin) is a central regulator of . Its inhibition by sirolimus disrupts glucose homeostasis through multiple mechanisms, leading to new-onset diabetes after transplantation (NODAT).

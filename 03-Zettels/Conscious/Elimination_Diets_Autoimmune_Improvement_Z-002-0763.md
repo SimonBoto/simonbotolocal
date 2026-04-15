@@ -15,6 +15,18 @@ related: []
 ---
 
 # Elimination Diets for Autoimmune Improvement — AIP Protocol
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Elimination diets, particularly the Autoimmune Protocol (AIP), produce significant symptom improvement and disease modification in autoimmune conditions** — including IBD, Hashimoto's, rheumatoid arthritis, and psoriasis — by removing dietary triggers and supporting gut healing.
@@ -99,6 +111,11 @@ related: []
 | **Strict elimination** | 30-90 days |
 | **Reintroduction** | 2-6 months |
 | **Personalized maintenance** | Ongoing |
+
+## Related Zettels from Same Source
+
+- [[Autoimmune_Root_Causes_Diet_Lifestyle_Z-002-0762]]
+- [[Leaky_Gut_Autoimmune_Connection_Z-002-0764]]
 
 ## Source
 - **LitNote:** [[L-002-0208_Autoimmune_Diet_Lifestyle_Role]]

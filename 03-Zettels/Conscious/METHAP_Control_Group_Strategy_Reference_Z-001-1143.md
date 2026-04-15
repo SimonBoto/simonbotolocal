@@ -13,6 +13,26 @@ ethical-consideration: control-group-receives-standard-care
 ---
 
 # METHAP Control Group Strategy Reference
+## Source
+
+[[LitNote_PhD_Study_Design_METHAP_L-001-0615]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_PhD_Study_Design_METHAP_L-001-0615]
 
 ## Overview
 The METHAP trial employs a dual control strategy: metabolically healthy participants serve as metabolic reference standards, while non-intervention insulin-resistant participants control for natural disease progression.

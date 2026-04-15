@@ -12,8 +12,56 @@ extraction-date: 2026-03-01
 ---
 
 # Seven Countries Study — Design and Structure
+## Related Zettels from Same Source
+
+- [[Confounding_Variables_Diet_Studies_Z-001-0525]]
+- [[Ecological_Fallacy_Nutrition_Research_Z-001-0523]]
+- [[Selection_Bias_Cherry_Picking_Countries_Z-001-0931]]
+- [[Statistical_Issues_Overfitting_Correlation_Z-001-0933]]
+
+## Source
+
+[[LitNote_Seven_Countries_Methodology_L-001-0504]
+
+## Related Zettels from Same Source
+
+- [[Confounding_Variables_Diet_Studies_Z-001-0525]]
+- [[Ecological_Fallacy_Nutrition_Research_Z-001-0523]]
+- [[Selection_Bias_Cherry_Picking_Countries_Z-001-0931]]
+- [[Statistical_Issues_Overfitting_Correlation_Z-001-0933]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > The Seven Countries Study examined 12,763 men across 16 cohorts in 7 countries using population-level ecological data to investigate diet-heart relationships.
+
+## Related Zettels from Same Source
+
+- [[Confounding_Variables_Diet_Studies_Z-001-0525]]
+- [[Ecological_Fallacy_Nutrition_Research_Z-001-0523]]
+- [[Selection_Bias_Cherry_Picking_Countries_Z-001-0931]]
+- [[Statistical_Issues_Overfitting_Correlation_Z-001-0933]]
+
+## Source
+
+[[LitNote_Seven_Countries_Methodology_L-001-0504]
+
+## Related Zettels from Same Source
+
+- [[Confounding_Variables_Diet_Studies_Z-001-0525]]
+- [[Ecological_Fallacy_Nutrition_Research_Z-001-0523]]
+- [[Selection_Bias_Cherry_Picking_Countries_Z-001-0931]]
+- [[Statistical_Issues_Overfitting_Correlation_Z-001-0933]]
 
 ## Core Principle
 

@@ -13,6 +13,54 @@ extraction-date: 2026-03-08
 ---
 
 # Dicarboxylic Acid Energy Yield — ATP Production Comparison
+## Related Zettels from Same Source
+
+- [[Adipate_Formation_Palmitate_to_Adipic_Acid_Pathway_Z-001-1191]]
+- [[Beta_Oxidation_Mitochondrial_Fatty_Acid_Breakdown_Z-001-1192]]
+- [[Carnitine_Shuttle_Fatty_Acid_Transport_System_Z-001-1194]]
+- [[Complete_Adipate_Metabolism_Formation_to_Krebs_Z-001-1196]]
+
+## Source
+
+[[L-001-0629_Adipate_Metabolism_Dicarboxylic_Pathway_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Adipate_Formation_Palmitate_to_Adipic_Acid_Pathway_Z-001-1191]]
+- [[Beta_Oxidation_Mitochondrial_Fatty_Acid_Breakdown_Z-001-1192]]
+- [[Carnitine_Shuttle_Fatty_Acid_Transport_System_Z-001-1194]]
+- [[Complete_Adipate_Metabolism_Formation_to_Krebs_Z-001-1196]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Adipate_Formation_Palmitate_to_Adipic_Acid_Pathway_Z-001-1191]]
+- [[Beta_Oxidation_Mitochondrial_Fatty_Acid_Breakdown_Z-001-1192]]
+- [[Carnitine_Shuttle_Fatty_Acid_Transport_System_Z-001-1194]]
+- [[Complete_Adipate_Metabolism_Formation_to_Krebs_Z-001-1196]]
+
+## Source
+
+[[L-001-0629_Adipate_Metabolism_Dicarboxylic_Pathway_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Adipate_Formation_Palmitate_to_Adipic_Acid_Pathway_Z-001-1191]]
+- [[Beta_Oxidation_Mitochondrial_Fatty_Acid_Breakdown_Z-001-1192]]
+- [[Carnitine_Shuttle_Fatty_Acid_Transport_System_Z-001-1194]]
+- [[Complete_Adipate_Metabolism_Formation_to_Krebs_Z-001-1196]]
 
 ## Core Claim
 **Dicarboxylic acids (adipate C6, suberate C8, sebacate C10) yield approximately 80% of the ATP that would be produced from complete β-oxidation of their precursor fatty acids — with adipate generating ~32-40 ATP (vs ~50 for 3 acetyl-CoA direct), representing significant energy recovery through the dicarboxylic acid pathway when mitochondrial β-oxidation is impaired.**

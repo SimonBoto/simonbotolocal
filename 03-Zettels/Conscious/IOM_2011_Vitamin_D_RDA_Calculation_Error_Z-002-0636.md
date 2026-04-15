@@ -15,6 +15,18 @@ related: []
 ---
 
 # IOM 2011 Vitamin D RDA Calculation Error
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 The Institute of Medicine's 2011 RDA of 600 IU/day for vitamin D was based on a **fundamental statistical error**: using mean serum 25(OH)D concentrations instead of the 97.5th percentile to estimate population requirements.
@@ -49,6 +61,13 @@ The Institute of Medicine's 2011 RDA of 600 IU/day for vitamin D was based on a 
 - Error persisted despite peer review
 - Corrections published but guidelines not revised
 - Demonstrates institutional inertia in public health recommendations
+
+## Related Zettels from Same Source
+
+- [[Corrected_Vitamin_D_RDA_8900_IU_Z-002-0637]]
+- [[Vitamin_D_Hormone_Function_2000_Genes_Z-002-0639]]
+- [[Vitamin_D_Individual_Variation_Requirements_Z-002-0640]]
+- [[Vitamin_D_Requirements_30_ng_mL_6201_IU_Z-002-0638]]
 
 ## Source
 - **LitNote:** [[L-002-0168_Vitamin_D_RDA_Statistical_Error]]

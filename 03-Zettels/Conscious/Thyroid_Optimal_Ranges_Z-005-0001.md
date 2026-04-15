@@ -19,10 +19,30 @@ extraction-date: 2026-04-15
 ---
 
 # Thyroid Optimal Ranges — TSH, fT3, fT4 Beyond Standard
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Standard thyroid ranges are wide (TSH 0.4-4.0 mIU/L) and miss subclinical dysfunction. **Optimal metabolic function requires tighter targets** — TSH 0.5-2.5, with fT3 and fT4 in upper quartiles.
 
 ---
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Principle
 

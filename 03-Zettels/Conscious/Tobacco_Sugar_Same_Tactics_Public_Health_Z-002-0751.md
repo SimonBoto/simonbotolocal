@@ -15,9 +15,26 @@ related: []
 ---
 
 # Tobacco Sugar Same Tactics Public Health
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 (Content from L-002-0204)
+
+## Related Zettels from Same Source
+
+- [[Industry_Playbook_Hide_Evidence_Delay_Z-002-0750]]
+- [[Regulatory_Capture_Industry_Influence_Z-002-0752]]
 
 ## Source
 - **LitNote:** [[L-002-0204_Tobacco_Sugar_Industry_Tactics]]

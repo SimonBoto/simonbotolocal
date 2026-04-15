@@ -12,6 +12,18 @@ extraction-date: 2026-03-01
 ---
 
 # Aconitase Catalytic Mechanism
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Mechanism
 
@@ -107,6 +119,12 @@ Overall: Citrate ⇌ Isocitrate
 - [[Iron_Sulfur_Cluster_Biochemistry_Z-001-0542]] — Fe-S cluster structure
 - [[Iron_Metabolism_Aconitase_Function_Z-001-0543]] — Iron deficiency effects
 - [[Cytosolic_Aconitase_IRP1_Dual_Function_Z-001-0544]] — IRP1 dual function
+
+## Related Zettels from Same Source
+
+- [[Cytosolic_Aconitase_IRP1_Dual_Function_Z-001-0544]]
+- [[Iron_Metabolism_Aconitase_Function_Z-001-0543]]
+- [[Iron_Sulfur_Cluster_Biochemistry_Z-001-0542]]
 
 ## Source
 [[Aconitase_Enzyme_Structure,_Mechanism,_and_Iron-Sulfur_L-001-0508_CGPT-0393]]

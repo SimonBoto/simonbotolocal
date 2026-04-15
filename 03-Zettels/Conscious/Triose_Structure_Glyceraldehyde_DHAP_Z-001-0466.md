@@ -24,6 +24,54 @@ extraction-date: 2026-03-04
 ---
 
 # Triose Structure — Glyceraldehyde and Dihydroxyacetone
+## Related Zettels from Same Source
+
+- [[Evolutionary_Ancient_Glycolysis_Z-001-0470]]
+- [[Fructose_Glycolytic_Intermediate_Z-001-0468]]
+- [[Glycolysis_Steps_Regulation_Z-001-0467]]
+- [[Pyruvate_Metabolic_Crossroads_Z-001-0469]]
+
+## Source
+
+[[L-001-0045D_Triose_Metabolism_Glycolysis_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Evolutionary_Ancient_Glycolysis_Z-001-0470]]
+- [[Fructose_Glycolytic_Intermediate_Z-001-0468]]
+- [[Glycolysis_Steps_Regulation_Z-001-0467]]
+- [[Pyruvate_Metabolic_Crossroads_Z-001-0469]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Evolutionary_Ancient_Glycolysis_Z-001-0470]]
+- [[Fructose_Glycolytic_Intermediate_Z-001-0468]]
+- [[Glycolysis_Steps_Regulation_Z-001-0467]]
+- [[Pyruvate_Metabolic_Crossroads_Z-001-0469]]
+
+## Source
+
+[[L-001-0045D_Triose_Metabolism_Glycolysis_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Evolutionary_Ancient_Glycolysis_Z-001-0470]]
+- [[Fructose_Glycolytic_Intermediate_Z-001-0468]]
+- [[Glycolysis_Steps_Regulation_Z-001-0467]]
+- [[Pyruvate_Metabolic_Crossroads_Z-001-0469]]
 
 ## Core Claim
 **Trioses (3-carbon sugars) are the simplest monosaccharides — glyceraldehyde (aldotriose) and dihydroxyacetone (ketotriose) are constitutional isomers that interconvert via triose phosphate isomerase, the fastest enzyme known** — these triose phosphates (G3P and DHAP) are the central hub connecting glycolysis, PPP, gluconeogenesis, and photosynthesis.

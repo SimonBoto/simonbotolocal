@@ -13,6 +13,54 @@ extraction-date: 2026-03-08
 ---
 
 # OAT Pattern Recognition Protocol
+## Related Zettels from Same Source
+
+- [[OAT_Category_Interpretation_Framework_Z-001-1065]]
+- [[OAT_Clinical_Action_Mapping_Z-001-1069]]
+- [[OAT_Gut_Dysbiosis_Patterns_Z-001-1068]]
+- [[OAT_Mitochondrial_Patterns_Z-001-1067]]
+
+## Source
+
+[[L-001-0594_OAT_Interpretation_Clinical_Protocol_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[OAT_Category_Interpretation_Framework_Z-001-1065]]
+- [[OAT_Clinical_Action_Mapping_Z-001-1069]]
+- [[OAT_Gut_Dysbiosis_Patterns_Z-001-1068]]
+- [[OAT_Mitochondrial_Patterns_Z-001-1067]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[OAT_Category_Interpretation_Framework_Z-001-1065]]
+- [[OAT_Clinical_Action_Mapping_Z-001-1069]]
+- [[OAT_Gut_Dysbiosis_Patterns_Z-001-1068]]
+- [[OAT_Mitochondrial_Patterns_Z-001-1067]]
+
+## Source
+
+[[L-001-0594_OAT_Interpretation_Clinical_Protocol_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[OAT_Category_Interpretation_Framework_Z-001-1065]]
+- [[OAT_Clinical_Action_Mapping_Z-001-1069]]
+- [[OAT_Gut_Dysbiosis_Patterns_Z-001-1068]]
+- [[OAT_Mitochondrial_Patterns_Z-001-1067]]
 
 ## Core Claim
 **OAT markers cluster in functional "flocks" rather than appearing in isolation — with pattern-level interpretation revealing metabolic dysfunction more reliably than single-marker analysis, requiring clinicians to recognize characteristic signatures for mitochondrial dysfunction, B-vitamin deficiency, gut dysbiosis, and oxidative stress.**

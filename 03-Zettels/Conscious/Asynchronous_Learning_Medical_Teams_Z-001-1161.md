@@ -11,6 +11,26 @@ status: conscious
 ---
 
 # Asynchronous Learning in Medical Teams
+## Source
+
+[[LitNote_Self_Education_Clinical_Team_L-001-0620]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Self_Education_Clinical_Team_L-001-0620]
 
 ## The Problem
 

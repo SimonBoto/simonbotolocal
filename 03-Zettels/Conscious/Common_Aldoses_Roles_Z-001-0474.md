@@ -27,6 +27,54 @@ extraction-date: 2026-03-04
 ---
 
 # Common Aldoses and Their Roles
+## Related Zettels from Same Source
+
+- [[Aldose_vs_Ketose_Chemistry_Z-001-0471]]
+- [[Common_Ketoses_Roles_Z-001-0475]]
+- [[Fructose_Metabolism_Lipogenesis_Z-001-0473]]
+- [[Glucose_Metabolism_Overview_Z-001-0472]]
+
+## Source
+
+[[L-001-0045E_Glucose_Fructose_Aldoses_Ketoses_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Aldose_vs_Ketose_Chemistry_Z-001-0471]]
+- [[Common_Ketoses_Roles_Z-001-0475]]
+- [[Fructose_Metabolism_Lipogenesis_Z-001-0473]]
+- [[Glucose_Metabolism_Overview_Z-001-0472]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Aldose_vs_Ketose_Chemistry_Z-001-0471]]
+- [[Common_Ketoses_Roles_Z-001-0475]]
+- [[Fructose_Metabolism_Lipogenesis_Z-001-0473]]
+- [[Glucose_Metabolism_Overview_Z-001-0472]]
+
+## Source
+
+[[L-001-0045E_Glucose_Fructose_Aldoses_Ketoses_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Aldose_vs_Ketose_Chemistry_Z-001-0471]]
+- [[Common_Ketoses_Roles_Z-001-0475]]
+- [[Fructose_Metabolism_Lipogenesis_Z-001-0473]]
+- [[Glucose_Metabolism_Overview_Z-001-0472]]
 
 ## Core Claim
 **Aldoses are aldehyde-containing sugars classified by carbon number — aldohexoses (glucose, galactose, mannose) serve as primary energy sources and structural components, while aldopentoses (ribose, arabinose, xylose) form nucleic acids and polysaccharides** — each has distinct metabolic fates and clinical significance.

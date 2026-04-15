@@ -12,8 +12,64 @@ extraction-date: 2026-03-01
 ---
 
 # Hematological Overlap — B12 Deficiency vs MM
+## Related Zettels from Same Source
+
+- [[B12_MM_Mimicry_Clinical_Question_Z-001-0419]]
+- [[Bone_Marrow_Differentiation_B12_MM_Z-001-0421]]
+- [[Clinical_Scenarios_Diagnostic_Approach_Z-001-0424]]
+- [[Laboratory_Markers_Distinguishing_Features_Z-001-0422]]
+- [[MTHFR_MM_No_Correlation_Z-001-0423]]
+- [[Treatment_Response_Diagnostic_Test_Z-001-0425]]
+
+## Source
+
+[[LitNote_B12_MM_Mimicry_L-001-0404]
+
+## Related Zettels from Same Source
+
+- [[B12_MM_Mimicry_Clinical_Question_Z-001-0419]]
+- [[Bone_Marrow_Differentiation_B12_MM_Z-001-0421]]
+- [[Clinical_Scenarios_Diagnostic_Approach_Z-001-0424]]
+- [[Laboratory_Markers_Distinguishing_Features_Z-001-0422]]
+- [[MTHFR_MM_No_Correlation_Z-001-0423]]
+- [[Treatment_Response_Diagnostic_Test_Z-001-0425]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Both B12 deficiency and multiple myeloma cause anemia, elevated LDH, and bone marrow abnormalities, but the anemia morphology and  differ critically.
+
+## Related Zettels from Same Source
+
+- [[B12_MM_Mimicry_Clinical_Question_Z-001-0419]]
+- [[Bone_Marrow_Differentiation_B12_MM_Z-001-0421]]
+- [[Clinical_Scenarios_Diagnostic_Approach_Z-001-0424]]
+- [[Laboratory_Markers_Distinguishing_Features_Z-001-0422]]
+- [[MTHFR_MM_No_Correlation_Z-001-0423]]
+- [[Treatment_Response_Diagnostic_Test_Z-001-0425]]
+
+## Source
+
+[[LitNote_B12_MM_Mimicry_L-001-0404]
+
+## Related Zettels from Same Source
+
+- [[B12_MM_Mimicry_Clinical_Question_Z-001-0419]]
+- [[Bone_Marrow_Differentiation_B12_MM_Z-001-0421]]
+- [[Clinical_Scenarios_Diagnostic_Approach_Z-001-0424]]
+- [[Laboratory_Markers_Distinguishing_Features_Z-001-0422]]
+- [[MTHFR_MM_No_Correlation_Z-001-0423]]
+- [[Treatment_Response_Diagnostic_Test_Z-001-0425]]
 
 ## Core Principle
 

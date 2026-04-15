@@ -20,6 +20,26 @@ status: conscious
 ---
 
 # Vitamin D Supplementation Guidelines
+## Source
+
+[[Vitamin_D_and_Calcium_Supplementation_L-001-0045O_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[Vitamin_D_and_Calcium_Supplementation_L-001-0045O_v4.0]]
 
 ## Clinical Context
 Vitamin D supplementation is foundational for osteoporosis treatment and bone health. Adequate vitamin D status is mandatory for all osteoporosis therapies to be effective.

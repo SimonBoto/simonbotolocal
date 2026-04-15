@@ -15,6 +15,46 @@ related: []
 ---
 
 # Calorie Source Affects Metabolism — Not Just Quantity
+## Related Zettels from Same Source
+
+- [[Low_Carb_Increases_Energy_Expenditure_Harvard_Study_Z-002-0850]]
+- [[Metabolic_Advantage_Carbohydrate_Restriction_Weight_Loss_Z-002-0851]]
+
+## Source
+
+[[L-002-0237_Not_All_Calories_Equal_Harvard]]
+
+## Related Zettels from Same Source
+
+- [[Low_Carb_Increases_Energy_Expenditure_Harvard_Study_Z-002-0850]]
+- [[Metabolic_Advantage_Carbohydrate_Restriction_Weight_Loss_Z-002-0851]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Low_Carb_Increases_Energy_Expenditure_Harvard_Study_Z-002-0850]]
+- [[Metabolic_Advantage_Carbohydrate_Restriction_Weight_Loss_Z-002-0851]]
+
+## Source
+
+[[L-002-0237_Not_All_Calories_Equal_Harvard]]
+
+## Related Zettels from Same Source
+
+- [[Low_Carb_Increases_Energy_Expenditure_Harvard_Study_Z-002-0850]]
+- [[Metabolic_Advantage_Carbohydrate_Restriction_Weight_Loss_Z-002-0851]]
 
 ## Core Claim
 **The source of calories affects metabolism, not just quantity** — when carbohydrates are reduced, the body burns more calories, demonstrating that "a calorie is a calorie" is an oversimplification.

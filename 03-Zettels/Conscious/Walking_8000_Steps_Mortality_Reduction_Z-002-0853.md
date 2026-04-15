@@ -12,6 +12,26 @@ extraction-date: 2026-04-15
 ---
 
 # Walking 8000 Steps Reduces Mortality by 50%+
+## Source
+
+[[L-002-0245_Walking_Mortality_Reduction]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[L-002-0245_Walking_Mortality_Reduction]]
 
 ## Core Finding
 

@@ -15,6 +15,18 @@ related: []
 ---
 
 # Fasting Reprograms Tumor Microenvironment
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Fasting-induced metabolic changes — **low glucose, elevated ketones, reduced insulin/IGF-1** — reprogram the tumor microenvironment from immunosuppressive to immune-permissive, reducing immunosuppressive cell populations and enhancing anti-tumor immune cell function.
@@ -49,6 +61,11 @@ Fasting-induced metabolic changes — **low glucose, elevated ketones, reduced i
 | **Treg cells** | Decreased | Less suppression |
 | **Cytotoxic T-cells** | Increased/enhanced | More killing |
 | **NK cells** | Enhanced | More killing |
+
+## Related Zettels from Same Source
+
+- [[Fasting_Enhances_Cancer_Immunotherapy_Response_Z-002-0678]]
+- [[Fasting_Mimicking_Diet_Adjunct_Cancer_Therapy_Z-002-0680]]
 
 ## Source
 - **LitNote:** [[L-002-0181_Fasting_Enhances_Immunotherapy]]

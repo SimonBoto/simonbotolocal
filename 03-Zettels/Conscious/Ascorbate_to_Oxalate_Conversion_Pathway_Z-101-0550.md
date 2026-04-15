@@ -12,6 +12,26 @@ status: conscious
 ---
 
 # Ascorbate to Oxalate Conversion Pathway
+## Source
+
+[[CGPT_0549_LitNote_Draft]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[CGPT_0549_LitNote_Draft]]
 
 ## Metabolic Overview
 

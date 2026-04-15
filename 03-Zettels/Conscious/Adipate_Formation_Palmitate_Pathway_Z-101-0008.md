@@ -13,6 +13,58 @@ extraction-date: 2026-03-02
 ---
 
 # Adipate Formation from Palmitate Pathway
+## Related Zettels from Same Source
+
+- [[Adipate_Metabolism_TCA_Entry_Z-101-0010]]
+- [[Carnitine_Deficiency_Omega_Oxidation_Link_Z-101-0009]]
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]]
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]
+- [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014]]
+
+## Source
+
+[[L-101-0002_Adipic_Acid_Biochemistry_Omega_Oxidation_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Adipate_Metabolism_TCA_Entry_Z-101-0010]]
+- [[Carnitine_Deficiency_Omega_Oxidation_Link_Z-101-0009]]
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]]
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]
+- [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Adipate_Metabolism_TCA_Entry_Z-101-0010]]
+- [[Carnitine_Deficiency_Omega_Oxidation_Link_Z-101-0009]]
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]]
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]
+- [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014]]
+
+## Source
+
+[[L-101-0002_Adipic_Acid_Biochemistry_Omega_Oxidation_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Adipate_Metabolism_TCA_Entry_Z-101-0010]]
+- [[Carnitine_Deficiency_Omega_Oxidation_Link_Z-101-0009]]
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]]
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]
+- [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014]]
 
 ## Core Claim
 **Adipic acid (C6 dicarboxylic acid) is formed when mitochondrial β-oxidation of palmitate (C16:0) is impaired, causing accumulation of hexanoyl-CoA (C6) that undergoes ω-oxidation in the endoplasmic reticulum — serving as a critical urinary biomarker for mitochondrial dysfunction and early insulin resistance in the METHAP research framework.**

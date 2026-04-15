@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 # Fragility Fractures Morbidity Mortality
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Fragility fractures—especially of the hip and vertebra—are associated with significant morbidity, mortality, and reduced functional independence. These fractures occur from minimal trauma due to compromised bone strength.
 

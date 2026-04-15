@@ -13,6 +13,50 @@ extraction-date: 2026-03-08
 ---
 
 # One Carbon Metabolism Folate B12
+## Related Zettels from Same Source
+
+- [[B_Vitamins_Methylation_Epigenetics_Cancer_Z-001-1129]]
+- [[Folate_Cancer_Paradox_Prevention_Progression_Z-001-1130]]
+- [[One_Carbon_Metabolism_Cancer_Nucleotide_Synthesis_Z-001-1128]]
+
+## Source
+
+[[L-001-0593_Vitamin_Mineral_Axis_Biochemistry_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[B_Vitamins_Methylation_Epigenetics_Cancer_Z-001-1129]]
+- [[Folate_Cancer_Paradox_Prevention_Progression_Z-001-1130]]
+- [[One_Carbon_Metabolism_Cancer_Nucleotide_Synthesis_Z-001-1128]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[B_Vitamins_Methylation_Epigenetics_Cancer_Z-001-1129]]
+- [[Folate_Cancer_Paradox_Prevention_Progression_Z-001-1130]]
+- [[One_Carbon_Metabolism_Cancer_Nucleotide_Synthesis_Z-001-1128]]
+
+## Source
+
+[[L-001-0593_Vitamin_Mineral_Axis_Biochemistry_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[B_Vitamins_Methylation_Epigenetics_Cancer_Z-001-1129]]
+- [[Folate_Cancer_Paradox_Prevention_Progression_Z-001-1130]]
+- [[One_Carbon_Metabolism_Cancer_Nucleotide_Synthesis_Z-001-1128]]
 
 ## Core Claim
 **The one-carbon metabolism pathway — integrating folate, vitamin B12, methionine, and homocysteine — serves dual critical functions of providing methyl groups for DNA methylation and epigenetic regulation, while also supplying precursors for DNA synthesis, with dysfunction producing elevated homocysteine, neural tube defects, and increased cardiovascular and neurodegenerative risk.**

@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 # Osteopenia T score Definition Minus 1 to 2.5
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Osteopenia is defined by a T-score between −1.0 and −2.5 on dual-energy X-ray absorptiometry (DXA). It represents bone mineral density lower than normal but not low enough to be classified as osteoporosis.
 

@@ -13,6 +13,54 @@ extraction-date: 2026-03-08
 ---
 
 # Carnitine Shuttle — Fatty Acid Transport System
+## Related Zettels from Same Source
+
+- [[Adipate_Formation_Palmitate_to_Adipic_Acid_Pathway_Z-001-1191]]
+- [[Beta_Oxidation_Mitochondrial_Fatty_Acid_Breakdown_Z-001-1192]]
+- [[Complete_Adipate_Metabolism_Formation_to_Krebs_Z-001-1196]]
+- [[Dicarboxylic_Acid_Energy_Yield_ATP_Z-001-1197]]
+
+## Source
+
+[[L-001-0628_Dicarboxylic_Acid_Formation_Fatty_Acids_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Adipate_Formation_Palmitate_to_Adipic_Acid_Pathway_Z-001-1191]]
+- [[Beta_Oxidation_Mitochondrial_Fatty_Acid_Breakdown_Z-001-1192]]
+- [[Complete_Adipate_Metabolism_Formation_to_Krebs_Z-001-1196]]
+- [[Dicarboxylic_Acid_Energy_Yield_ATP_Z-001-1197]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Adipate_Formation_Palmitate_to_Adipic_Acid_Pathway_Z-001-1191]]
+- [[Beta_Oxidation_Mitochondrial_Fatty_Acid_Breakdown_Z-001-1192]]
+- [[Complete_Adipate_Metabolism_Formation_to_Krebs_Z-001-1196]]
+- [[Dicarboxylic_Acid_Energy_Yield_ATP_Z-001-1197]]
+
+## Source
+
+[[L-001-0628_Dicarboxylic_Acid_Formation_Fatty_Acids_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Adipate_Formation_Palmitate_to_Adipic_Acid_Pathway_Z-001-1191]]
+- [[Beta_Oxidation_Mitochondrial_Fatty_Acid_Breakdown_Z-001-1192]]
+- [[Complete_Adipate_Metabolism_Formation_to_Krebs_Z-001-1196]]
+- [[Dicarboxylic_Acid_Energy_Yield_ATP_Z-001-1197]]
 
 ## Core Claim
 **The carnitine shuttle transports long-chain fatty acids across the inner mitochondrial membrane via CPT1 (outer membrane), carnitine-acylcarnitine translocase, and CPT2 (inner membrane) — with CPT1 being the rate-limiting step and primary regulatory point, and defects causing impaired β-oxidation, dicarboxylic acid accumulation, and hypoketotic hypoglycemia.**

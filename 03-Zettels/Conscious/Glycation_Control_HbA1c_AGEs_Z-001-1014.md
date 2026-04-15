@@ -12,6 +12,26 @@ status: conscious
 ---
 
 # Glycation Control — HbA1c Targets and Advanced Glycation End-Products
+## Source
+
+[[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]
 
 ## Overview
 

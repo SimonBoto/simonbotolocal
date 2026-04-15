@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 # IOM Defensive Response to Statistical Critique
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Despite mathematical proof of statistical error from Veugelers & Ekwaru (2014), the IOM (now National Academy of Medicine) maintained their 2010 calculations were "appropriate and based on available evidence." They cited  concerns (hypercalcemia risk) rather than addressing the statistical validity.
 

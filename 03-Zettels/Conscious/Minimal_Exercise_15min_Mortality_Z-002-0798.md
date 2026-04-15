@@ -15,6 +15,46 @@ related: []
 ---
 
 # Minimal Exercise Dose: 15-20 Minutes Weekly Provides Major Mortality Benefit
+## Related Zettels from Same Source
+
+- [[Exercise_Diminishing_Returns_Z-002-0799]]
+- [[Vigorous_vs_Moderate_Exercise_Z-002-0800]]
+
+## Source
+
+[[L-002-0220_Exercise_Minimal_Dose_Mortality]]
+
+## Related Zettels from Same Source
+
+- [[Exercise_Diminishing_Returns_Z-002-0799]]
+- [[Vigorous_vs_Moderate_Exercise_Z-002-0800]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Exercise_Diminishing_Returns_Z-002-0799]]
+- [[Vigorous_vs_Moderate_Exercise_Z-002-0800]]
+
+## Source
+
+[[L-002-0220_Exercise_Minimal_Dose_Mortality]]
+
+## Related Zettels from Same Source
+
+- [[Exercise_Diminishing_Returns_Z-002-0799]]
+- [[Vigorous_vs_Moderate_Exercise_Z-002-0800]]
 
 ## Core Claim
 **As little as 15-20 minutes of vigorous physical activity per week is associated with 16-40% lower risk of death from all causes** — demonstrating that substantial health benefits can be achieved with minimal time investment, making exercise accessible even to the busiest individuals.

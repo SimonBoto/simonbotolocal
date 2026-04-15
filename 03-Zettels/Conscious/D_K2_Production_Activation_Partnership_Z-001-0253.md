@@ -12,8 +12,60 @@ extraction-date: 2026-03-01
 ---
 
 # D-K2 Production-Activation Partnership
+## Related Zettels from Same Source
+
+- [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]]
+- [[D_K2_Shared_Metabolic_Pathways_Z-001-0256]]
+- [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]]
+- [[MGP_Vascular_Protection_Synergy_Z-001-0255]]
+- [[Osteocalcin_Metabolic_Hormone_D_K2_Z-001-0254]]
+
+## Source
+
+[[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]
+
+## Related Zettels from Same Source
+
+- [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]]
+- [[D_K2_Shared_Metabolic_Pathways_Z-001-0256]]
+- [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]]
+- [[MGP_Vascular_Protection_Synergy_Z-001-0255]]
+- [[Osteocalcin_Metabolic_Hormone_D_K2_Z-001-0254]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 >  and K2 function as a biochemical partnership: D stimulates production of vitamin K-dependent proteins, while K2 activates them through carboxylation. Neither alone is sufficient for optimal metabolic function.
+
+## Related Zettels from Same Source
+
+- [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]]
+- [[D_K2_Shared_Metabolic_Pathways_Z-001-0256]]
+- [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]]
+- [[MGP_Vascular_Protection_Synergy_Z-001-0255]]
+- [[Osteocalcin_Metabolic_Hormone_D_K2_Z-001-0254]]
+
+## Source
+
+[[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]
+
+## Related Zettels from Same Source
+
+- [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]]
+- [[D_K2_Shared_Metabolic_Pathways_Z-001-0256]]
+- [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]]
+- [[MGP_Vascular_Protection_Synergy_Z-001-0255]]
+- [[Osteocalcin_Metabolic_Hormone_D_K2_Z-001-0254]]
 
 ## Mechanism
 

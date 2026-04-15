@@ -13,6 +13,54 @@ extraction-date: 2026-03-08
 ---
 
 # Beta-Oxidation — Mitochondrial Fatty Acid Breakdown
+## Related Zettels from Same Source
+
+- [[Adipate_Formation_Palmitate_to_Adipic_Acid_Pathway_Z-001-1191]]
+- [[Carnitine_Shuttle_Fatty_Acid_Transport_System_Z-001-1194]]
+- [[Complete_Adipate_Metabolism_Formation_to_Krebs_Z-001-1196]]
+- [[Dicarboxylic_Acid_Energy_Yield_ATP_Z-001-1197]]
+
+## Source
+
+[[L-001-0628_Dicarboxylic_Acid_Formation_Fatty_Acids_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Adipate_Formation_Palmitate_to_Adipic_Acid_Pathway_Z-001-1191]]
+- [[Carnitine_Shuttle_Fatty_Acid_Transport_System_Z-001-1194]]
+- [[Complete_Adipate_Metabolism_Formation_to_Krebs_Z-001-1196]]
+- [[Dicarboxylic_Acid_Energy_Yield_ATP_Z-001-1197]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Adipate_Formation_Palmitate_to_Adipic_Acid_Pathway_Z-001-1191]]
+- [[Carnitine_Shuttle_Fatty_Acid_Transport_System_Z-001-1194]]
+- [[Complete_Adipate_Metabolism_Formation_to_Krebs_Z-001-1196]]
+- [[Dicarboxylic_Acid_Energy_Yield_ATP_Z-001-1197]]
+
+## Source
+
+[[L-001-0628_Dicarboxylic_Acid_Formation_Fatty_Acids_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Adipate_Formation_Palmitate_to_Adipic_Acid_Pathway_Z-001-1191]]
+- [[Carnitine_Shuttle_Fatty_Acid_Transport_System_Z-001-1194]]
+- [[Complete_Adipate_Metabolism_Formation_to_Krebs_Z-001-1196]]
+- [[Dicarboxylic_Acid_Energy_Yield_ATP_Z-001-1197]]
 
 ## Core Claim
 **Mitochondrial β-oxidation sequentially cleaves 2-carbon acetyl-CoA units from fatty acids through four enzymatic steps (oxidation, hydration, oxidation, thiolysis) — generating FADH₂ and NADH for ATP production — with carnitine-dependent transport required for long-chain fatty acids, and impairment leading to dicarboxylic acid formation via compensatory ω-oxidation.**

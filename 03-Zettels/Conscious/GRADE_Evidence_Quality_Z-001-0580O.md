@@ -19,8 +19,28 @@ status: conscious
 ---
 
 # GRADE Evidence Quality Assessment
+## Source
+
+[[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > **Definition:** GRADE (Grading of Recommendations Assessment, Development and Evaluation) is a systematic approach for rating the quality of evidence and strength of recommendations in healthcare, assessing confidence in effect estimates based on study design and methodological limitations.
+
+## Source
+
+[[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]
 
 ## Core Principle
 

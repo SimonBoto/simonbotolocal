@@ -15,6 +15,18 @@ related: []
 ---
 
 # Lp(a) No Current Drugs — Trials Underway
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **No drugs currently available to lower Lp(a)** — but clinical trials are active with agents that can reduce Lp(a) up to 95%; outcome data expected in coming years.
@@ -56,6 +68,11 @@ While awaiting specific therapies:
 ## Significance
 
 **No drugs currently available to lower Lp(a)** — but clinical trials are active with agents that can reduce Lp(a) up to 95%; outcome data expected in coming years.
+
+## Related Zettels from Same Source
+
+- [[Lpa_Promotes_Thrombosis_Evolutionary_Origin_Z-002-0813]]
+- [[Lpa_Risk_Levels_Dose_Response_Interpretation_Z-002-0814]]
 
 ## Source
 - **LitNote:** [[L-002-0225_Lpa_Mechanism_Management]]

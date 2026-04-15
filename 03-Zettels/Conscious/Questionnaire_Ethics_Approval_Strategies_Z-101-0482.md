@@ -12,6 +12,26 @@ status: conscious
 ---
 
 # Questionnaire Ethics Approval Strategies
+## Source
+
+[[LitNote_CGPT_0359_Questionnaire_Compliance_L-101-0052.md]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_CGPT_0359_Questionnaire_Compliance_L-101-0052.md]
 
 ## Overview
 Multi-instrument studies require specific ethical considerations beyond standard protocols.

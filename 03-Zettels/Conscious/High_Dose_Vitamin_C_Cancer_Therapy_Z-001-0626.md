@@ -14,6 +14,18 @@ extraction-date: 2026-04-15
 ---
 
 # High Dose Vitamin C Cancer Therapy Controversy
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Pauling's most controversial claim — that high-dose vitamin C (10,000mg+) could prevent and treat cancer — triggered the strongest establishment backlash, yet recent research on IV vitamin C is validating aspects of his hypothesis.
 
@@ -132,6 +144,16 @@ Pauling's most controversial claim — that high-dose vitamin C (10,000mg+) coul
 ## Significance
 
 - Case series of terminal cancer patients
+
+## Related Zettels from Same Source
+
+- [[Human_GULO_Gene_Loss_Vitamin_C_Dependency_Z-001-0621]]
+- [[Medical_Establishment_Suppression_Pauling_Z-001-0625]]
+- [[Orthomolecular_Medicine_Pauling_Legacy_Z-001-0627]]
+- [[Pauling_Scientific_Credentials_Vitamin_C_Z-001-0620]]
+- [[Vitamin_C_Biochemical_Functions_Z-001-0623]]
+- [[Vitamin_C_Evolutionary_Mismatch_Modern_Diet_Z-001-0624]]
+- [[Vitamin_C_RDA_vs_Optimal_Intake_Z-001-0622]]
 
 ## Source
 [[LitNote_KingOfVitamins_Pauling_Vitamin_C_2025_L-001-0656]] — Vitamin King (2025)

@@ -23,10 +23,30 @@ extraction-date: 2026-04-15
 ---
 
 #  Optimal Range 80-150 High Dose Protocol
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **25-Hydroxyvitamin D [25(OH)D]** is the standard clinical measure of vitamin D status. While conventional medicine targets 30 ng/mL (75 nmol/L), metabolic optimization requires **80-150 ng/mL**.
 
 ---
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Principle
 

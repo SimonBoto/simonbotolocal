@@ -13,6 +13,54 @@ extraction-date: 2026-03-03
 ---
 
 # Cholesterol to Steroid Hormone Synthesis
+## Related Zettels from Same Source
+
+- [[Bile_Acid_Synthesis_Cholesterol_Z-001-0573]]
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]]
+- [[Isoprenoids_Terpenes_Overview_Z-001-0569]]
+- [[Vitamin_D_Secosteroid_Synthesis_Z-001-0572]]
+
+## Source
+
+[[L-001-0519_Isoprenoids_Cholesterol_Derivatives_CGPT-0391]]
+
+## Related Zettels from Same Source
+
+- [[Bile_Acid_Synthesis_Cholesterol_Z-001-0573]]
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]]
+- [[Isoprenoids_Terpenes_Overview_Z-001-0569]]
+- [[Vitamin_D_Secosteroid_Synthesis_Z-001-0572]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Bile_Acid_Synthesis_Cholesterol_Z-001-0573]]
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]]
+- [[Isoprenoids_Terpenes_Overview_Z-001-0569]]
+- [[Vitamin_D_Secosteroid_Synthesis_Z-001-0572]]
+
+## Source
+
+[[L-001-0519_Isoprenoids_Cholesterol_Derivatives_CGPT-0391]]
+
+## Related Zettels from Same Source
+
+- [[Bile_Acid_Synthesis_Cholesterol_Z-001-0573]]
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]]
+- [[Isoprenoids_Terpenes_Overview_Z-001-0569]]
+- [[Vitamin_D_Secosteroid_Synthesis_Z-001-0572]]
 
 ## Core Claim
 **Cholesterol serves as the universal precursor for all steroid hormones — synthesized through tissue-specific pathways producing glucocorticoids (cortisol), mineralocorticoids (aldosterone), androgens (testosterone), and estrogens (estradiol) — with the initial conversion to pregnenolone by CYP11A1 being the committed step in steroidogenesis.**

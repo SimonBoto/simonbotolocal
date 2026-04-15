@@ -13,6 +13,50 @@ extraction-date: 2026-03-08
 ---
 
 # TPP — Thiamine Pyrophosphate Mechanism and Enzymes
+## Related Zettels from Same Source
+
+- [[B_Vitamin_Cofactors_Summary_Z-001-1202]]
+- [[Dehydrogenases_vs_Decarboxylases_Comparison_Z-001-1203]]
+- [[PLP_Vitamin_B6_Pyridoxal_Phosphate_Z-001-1201]]
+
+## Source
+
+[[L-001-0630_Decarboxylation_Enzymes_Vitamin_Cofactors_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[B_Vitamin_Cofactors_Summary_Z-001-1202]]
+- [[Dehydrogenases_vs_Decarboxylases_Comparison_Z-001-1203]]
+- [[PLP_Vitamin_B6_Pyridoxal_Phosphate_Z-001-1201]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[B_Vitamin_Cofactors_Summary_Z-001-1202]]
+- [[Dehydrogenases_vs_Decarboxylases_Comparison_Z-001-1203]]
+- [[PLP_Vitamin_B6_Pyridoxal_Phosphate_Z-001-1201]]
+
+## Source
+
+[[L-001-0630_Decarboxylation_Enzymes_Vitamin_Cofactors_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[B_Vitamin_Cofactors_Summary_Z-001-1202]]
+- [[Dehydrogenases_vs_Decarboxylases_Comparison_Z-001-1203]]
+- [[PLP_Vitamin_B6_Pyridoxal_Phosphate_Z-001-1201]]
 
 ## Mechanism
 

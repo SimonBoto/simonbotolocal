@@ -12,8 +12,52 @@ extraction-date: 2026-03-01
 ---
 
 # Procter & Gamble and Crisco — Seed Oil Marketing (1911)
+## Related Zettels from Same Source
+
+- [[Ancel_Keys_Seven_Countries_Study_Z-001-0245]]
+- [[Keys_Criticism_Diet_Heart_Controversy_Z-001-0246]]
+- [[Seed_Oil_Rise_US_Diet_Government_Role_Z-001-0248]]
+
+## Source
+
+[[LitNote_Dietary_Fat_History_L-001-0210]
+
+## Related Zettels from Same Source
+
+- [[Ancel_Keys_Seven_Countries_Study_Z-001-0245]]
+- [[Keys_Criticism_Diet_Heart_Controversy_Z-001-0246]]
+- [[Seed_Oil_Rise_US_Diet_Government_Role_Z-001-0248]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > In 1911, Procter & Gamble introduced Crisco, the first all-vegetable shortening, launching a century of seed oil dominance in American cooking through aggressive marketing that positioned industrial fats as healthier alternatives to traditional animal fats.
+
+## Related Zettels from Same Source
+
+- [[Ancel_Keys_Seven_Countries_Study_Z-001-0245]]
+- [[Keys_Criticism_Diet_Heart_Controversy_Z-001-0246]]
+- [[Seed_Oil_Rise_US_Diet_Government_Role_Z-001-0248]]
+
+## Source
+
+[[LitNote_Dietary_Fat_History_L-001-0210]
+
+## Related Zettels from Same Source
+
+- [[Ancel_Keys_Seven_Countries_Study_Z-001-0245]]
+- [[Keys_Criticism_Diet_Heart_Controversy_Z-001-0246]]
+- [[Seed_Oil_Rise_US_Diet_Government_Role_Z-001-0248]]
 
 ## Core Principle
 

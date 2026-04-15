@@ -16,6 +16,18 @@ created: 2026-02-22
 ---
 
 # INSR Mutations Cause Severe IR
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Mutations in the  receptor gene cause extreme  syndromes, revealing the critical role of INSR in .
 

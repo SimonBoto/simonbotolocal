@@ -13,6 +13,58 @@ extraction-date: 2026-03-08
 ---
 
 # Cofactor Deficiency OAT Signatures
+## Related Zettels from Same Source
+
+- [[Aconitase_Oxidative_Stress_Sensitivity_Z-001-1053]]
+- [[Krebs_Cycle_Clinical_Biochemistry_Z-001-1048]]
+- [[Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050]]
+- [[Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051]]
+- [[TCA_Intermediates_Clinical_Significance_Z-001-1049]]
+
+## Source
+
+[[L-001-0591_Mitochondrial_Biochemistry_Clinicians_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Aconitase_Oxidative_Stress_Sensitivity_Z-001-1053]]
+- [[Krebs_Cycle_Clinical_Biochemistry_Z-001-1048]]
+- [[Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050]]
+- [[Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051]]
+- [[TCA_Intermediates_Clinical_Significance_Z-001-1049]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Aconitase_Oxidative_Stress_Sensitivity_Z-001-1053]]
+- [[Krebs_Cycle_Clinical_Biochemistry_Z-001-1048]]
+- [[Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050]]
+- [[Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051]]
+- [[TCA_Intermediates_Clinical_Significance_Z-001-1049]]
+
+## Source
+
+[[L-001-0591_Mitochondrial_Biochemistry_Clinicians_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Aconitase_Oxidative_Stress_Sensitivity_Z-001-1053]]
+- [[Krebs_Cycle_Clinical_Biochemistry_Z-001-1048]]
+- [[Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050]]
+- [[Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051]]
+- [[TCA_Intermediates_Clinical_Significance_Z-001-1049]]
 
 ## Core Claim
 **Organic acid testing reveals specific B-vitamin and mineral deficiencies through characteristic metabolite elevations — pyruvate for B1, methylmalonate for B12, FIGLU for folate — enabling targeted supplementation based on biochemical evidence rather than empiric guessing.**

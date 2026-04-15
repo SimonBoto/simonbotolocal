@@ -12,8 +12,60 @@ extraction-date: 2026-03-01
 ---
 
 # METHAP  Monitoring Protocol
+## Related Zettels from Same Source
+
+- [[Calcium_Homeostasis_Tight_Regulation_Z-001-0258]]
+- [[Hypercalcemia_Recognition_Management_Z-001-0261]]
+- [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]]
+- [[PTH_Master_Calcium_Regulator_Z-001-0259]]
+- [[Vitamin_D_Calcium_Absorption_Dose_Response_Z-001-0260]]
+
+## Source
+
+[[LitNote_Calcium_PTH_Homeostasis_L-001-0213]
+
+## Related Zettels from Same Source
+
+- [[Calcium_Homeostasis_Tight_Regulation_Z-001-0258]]
+- [[Hypercalcemia_Recognition_Management_Z-001-0261]]
+- [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]]
+- [[PTH_Master_Calcium_Regulator_Z-001-0259]]
+- [[Vitamin_D_Calcium_Absorption_Dose_Response_Z-001-0260]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > High-dose  (8000 IU/day) in the METHAP trial requires systematic monitoring of calcium homeostasis to ensure participant , with scheduled assessments, clear intervention thresholds, and predefined stopping rules.
+
+## Related Zettels from Same Source
+
+- [[Calcium_Homeostasis_Tight_Regulation_Z-001-0258]]
+- [[Hypercalcemia_Recognition_Management_Z-001-0261]]
+- [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]]
+- [[PTH_Master_Calcium_Regulator_Z-001-0259]]
+- [[Vitamin_D_Calcium_Absorption_Dose_Response_Z-001-0260]]
+
+## Source
+
+[[LitNote_Calcium_PTH_Homeostasis_L-001-0213]
+
+## Related Zettels from Same Source
+
+- [[Calcium_Homeostasis_Tight_Regulation_Z-001-0258]]
+- [[Hypercalcemia_Recognition_Management_Z-001-0261]]
+- [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]]
+- [[PTH_Master_Calcium_Regulator_Z-001-0259]]
+- [[Vitamin_D_Calcium_Absorption_Dose_Response_Z-001-0260]]
 
 ## Core Principle
 

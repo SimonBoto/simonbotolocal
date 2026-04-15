@@ -12,8 +12,60 @@ extraction-date: 2026-03-01
 ---
 
 # Histone  — Chromatin Structure
+## Related Zettels from Same Source
+
+- [[DNA_Methylation_Epigenetic_Regulation_Z-001-0409]]
+- [[Methylation_Cancer_Double_Edged_Sword_Z-001-0411]]
+- [[SAH_Methylation_Inhibitor_Ratio_Z-001-0408]]
+- [[SAM_Synthesis_Universal_Methyl_Donor_Z-001-0407]]
+- [[Vitamin_D_Methylation_Cross_Talk_Z-001-0412]]
+
+## Source
+
+[[LitNote_Methylation_Cycle_L-001-0402]
+
+## Related Zettels from Same Source
+
+- [[DNA_Methylation_Epigenetic_Regulation_Z-001-0409]]
+- [[Methylation_Cancer_Double_Edged_Sword_Z-001-0411]]
+- [[SAH_Methylation_Inhibitor_Ratio_Z-001-0408]]
+- [[SAM_Synthesis_Universal_Methyl_Donor_Z-001-0407]]
+- [[Vitamin_D_Methylation_Cross_Talk_Z-001-0412]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Histone methylation at specific lysine and arginine residues alters chromatin structure and gene accessibility, with distinct marks associated with transcriptional activation or repression.
+
+## Related Zettels from Same Source
+
+- [[DNA_Methylation_Epigenetic_Regulation_Z-001-0409]]
+- [[Methylation_Cancer_Double_Edged_Sword_Z-001-0411]]
+- [[SAH_Methylation_Inhibitor_Ratio_Z-001-0408]]
+- [[SAM_Synthesis_Universal_Methyl_Donor_Z-001-0407]]
+- [[Vitamin_D_Methylation_Cross_Talk_Z-001-0412]]
+
+## Source
+
+[[LitNote_Methylation_Cycle_L-001-0402]
+
+## Related Zettels from Same Source
+
+- [[DNA_Methylation_Epigenetic_Regulation_Z-001-0409]]
+- [[Methylation_Cancer_Double_Edged_Sword_Z-001-0411]]
+- [[SAH_Methylation_Inhibitor_Ratio_Z-001-0408]]
+- [[SAM_Synthesis_Universal_Methyl_Donor_Z-001-0407]]
+- [[Vitamin_D_Methylation_Cross_Talk_Z-001-0412]]
 
 ## Core Principle
 

@@ -12,6 +12,18 @@ extraction-date: 2026-03-01
 ---
 
 # Zn Se Synergistic OXPHOS Protection
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Zinc and selenium function synergistically to protect oxidative phosphorylation: zinc-dependent SOD2 converts superoxide (O₂⁻) to hydrogen peroxide (H₂O₂), which selenium-dependent glutathione peroxidase then reduces to water, creating an essential two-step antioxidant cascade that prevents oxidative damage to electron transport chain complexes and mitochondrial membranes.
@@ -136,6 +148,12 @@ Zinc and selenium function synergistically to protect oxidative phosphorylation:
 - [[Zinc_Mitochondrial_Function_Z-001-0550]] — Zinc roles
 - [[Selenium_Mitochondrial_Antioxidant_Z-001-0551]] — Selenium roles
 - [[Zn_Se_Nutritional_Sources_Supplementation_Z-001-0553]] — Sources and dosing
+
+## Related Zettels from Same Source
+
+- [[Selenium_Mitochondrial_Antioxidant_Z-001-0551]]
+- [[Zinc_Mitochondrial_Function_Z-001-0550]]
+- [[Zn_Se_Nutritional_Sources_Supplementation_Z-001-0553]]
 
 ## Source
 [[Zinc_and_Selenium_as_Mitochondrial_Cofactors_L-001-0510_CGPT-0393]]

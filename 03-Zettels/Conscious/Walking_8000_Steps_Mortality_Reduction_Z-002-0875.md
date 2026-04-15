@@ -15,6 +15,46 @@ related: []
 ---
 
 # Walking 8,000 Steps Reduces All-Cause Mortality by More Than Half
+## Related Zettels from Same Source
+
+- [[Movement_Fundamental_Human_Body_Function_Z-002-0877]]
+- [[Physical_Activity_Minimum_Effective_Dose_Z-002-0876]]
+
+## Source
+
+[[L-002-0245_Walking_Mortality_Reduction]]
+
+## Related Zettels from Same Source
+
+- [[Movement_Fundamental_Human_Body_Function_Z-002-0877]]
+- [[Physical_Activity_Minimum_Effective_Dose_Z-002-0876]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Movement_Fundamental_Human_Body_Function_Z-002-0877]]
+- [[Physical_Activity_Minimum_Effective_Dose_Z-002-0876]]
+
+## Source
+
+[[L-002-0245_Walking_Mortality_Reduction]]
+
+## Related Zettels from Same Source
+
+- [[Movement_Fundamental_Human_Body_Function_Z-002-0877]]
+- [[Physical_Activity_Minimum_Effective_Dose_Z-002-0876]]
 
 ## Core Claim
 **8,000 steps 1-2 times per week reduces all-cause mortality risk by over 50% over 10 years** — one of the most powerful health interventions available.

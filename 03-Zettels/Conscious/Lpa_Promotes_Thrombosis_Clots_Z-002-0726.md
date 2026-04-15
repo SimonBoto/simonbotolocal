@@ -14,6 +14,18 @@ related: []
 ---
 
 # Lp(a) Promotes Thrombosis and Clot Formation
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Lp(a) promotes clot formation** through its apolipoprotein(a) component — evolutionary advantage for bleeding cessation becomes liability with modern lifespans.

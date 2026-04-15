@@ -12,8 +12,60 @@ extraction-date: 2026-03-01
 ---
 
 # - Interaction — Hydroxylation Enzymes and Activation
+## Related Zettels from Same Source
+
+- [[Calcium_Homeostasis_Tight_Regulation_Z-001-0258]]
+- [[Hypercalcemia_Recognition_Management_Z-001-0261]]
+- [[METHAP_Calcium_Monitoring_Protocol_Z-001-0262]]
+- [[PTH_Master_Calcium_Regulator_Z-001-0259]]
+- [[Vitamin_D_Calcium_Absorption_Dose_Response_Z-001-0260]]
+
+## Source
+
+[[LitNote_Magnesium_Biochemistry_L-001-0201a]
+
+## Related Zettels from Same Source
+
+- [[Calcium_Homeostasis_Tight_Regulation_Z-001-0258]]
+- [[Hypercalcemia_Recognition_Management_Z-001-0261]]
+- [[METHAP_Calcium_Monitoring_Protocol_Z-001-0262]]
+- [[PTH_Master_Calcium_Regulator_Z-001-0259]]
+- [[Vitamin_D_Calcium_Absorption_Dose_Response_Z-001-0260]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Magnesium is an essential cofactor for the cytochrome P450 hydroxylases that activate vitamin D, making adequate magnesium status critical for optimal vitamin D  and function.
+
+## Related Zettels from Same Source
+
+- [[Calcium_Homeostasis_Tight_Regulation_Z-001-0258]]
+- [[Hypercalcemia_Recognition_Management_Z-001-0261]]
+- [[METHAP_Calcium_Monitoring_Protocol_Z-001-0262]]
+- [[PTH_Master_Calcium_Regulator_Z-001-0259]]
+- [[Vitamin_D_Calcium_Absorption_Dose_Response_Z-001-0260]]
+
+## Source
+
+[[LitNote_Magnesium_Biochemistry_L-001-0201a]
+
+## Related Zettels from Same Source
+
+- [[Calcium_Homeostasis_Tight_Regulation_Z-001-0258]]
+- [[Hypercalcemia_Recognition_Management_Z-001-0261]]
+- [[METHAP_Calcium_Monitoring_Protocol_Z-001-0262]]
+- [[PTH_Master_Calcium_Regulator_Z-001-0259]]
+- [[Vitamin_D_Calcium_Absorption_Dose_Response_Z-001-0260]]
 
 ## Core Principle
 

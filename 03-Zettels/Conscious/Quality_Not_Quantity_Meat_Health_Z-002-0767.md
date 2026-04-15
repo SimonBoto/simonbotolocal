@@ -15,6 +15,18 @@ related: []
 ---
 
 # Quality Not Quantity — Meat Processing Matters More Than Amount
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Meat quality and processing matter more than quantity for health outcomes** — fresh, unprocessed meat consumed within a whole-foods dietary pattern is associated with neutral to positive health outcomes, while processed meats consistently show harm regardless of quantity.
@@ -109,6 +121,11 @@ related: []
 | **Additives** | Few | Many |
 | **Preparation** | Gentle | Often harsh |
 | **Pattern** | Whole foods | Often ultra-processed |
+
+## Related Zettels from Same Source
+
+- [[Hong_Kong_Highest_Meat_Longest_Life_Z-002-0765]]
+- [[Meat_Paradox_Not_Harmful_Context_Z-002-0766]]
 
 ## Source
 - **LitNote:** [[L-002-0209_Hong_Kong_Meat_Longevity_Paradox]]

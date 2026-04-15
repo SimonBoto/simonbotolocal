@@ -19,6 +19,26 @@ status: conscious
 ---
 
 # Vitamin K2 Menaquinone Forms
+## Source
+
+D-K2_Co-Supplementation_Clinical_Evidence_-Studies_L-001-0214_v4.0
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+D-K2_Co-Supplementation_Clinical_Evidence_-Studies_L-001-0214_v4.0
 
 ## Core Thesis
 Vitamin K2 exists in multiple menaquinone (MK) forms with distinct pharmacokinetic properties, tissue distribution, and biological activity, with MK-7 showing superior bioavailability and sustained activity compared to MK-4.

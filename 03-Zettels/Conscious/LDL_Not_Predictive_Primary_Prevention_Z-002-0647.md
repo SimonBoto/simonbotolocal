@@ -15,6 +15,18 @@ related: []
 ---
 
 # LDL Cholesterol Not Predictive in Primary Prevention
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 In adults **without existing cardiovascular disease**, LDL cholesterol levels **do not predict** long-term all-cause or cardiovascular mortality, contradicting the assumption that lowering LDL universally improves outcomes in healthy populations.
@@ -69,6 +81,12 @@ In adults **without existing cardiovascular disease**, LDL cholesterol levels **
 | High + CVD history | Treat (appropriate) | Treat |
 | High + no CVD | Treat (questionable) | Reconsider |
 | Low + metabolic syndrome | Don't treat (incomplete) | Assess holistically |
+
+## Related Zettels from Same Source
+
+- [[LDL_Centric_Risk_Model_Incomplete_Z-002-0648]]
+- [[Metabolic_Health_More_Predictive_Than_LDL_Z-002-0649]]
+- [[Rethinking_Statin_Primary_Prevention_Z-002-0650]]
 
 ## Source
 - **LitNote:** [[L-002-0171_High_LDL_Not_Mortality_Healthy]]

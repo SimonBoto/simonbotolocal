@@ -13,6 +13,54 @@ extraction-date: 2026-03-02
 ---
 
 # Fatty Acid Oxidation Disorder Differential Diagnosis
+## Related Zettels from Same Source
+
+- [[Adipate_Metabolism_TCA_Entry_Z-101-0010]]
+- [[Carnitine_Deficiency_Omega_Oxidation_Link_Z-101-0009]]
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]]
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]
+
+## Source
+
+[[L-101-0003_Dicarboxylic_Acids_Clinical_Markers_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Adipate_Metabolism_TCA_Entry_Z-101-0010]]
+- [[Carnitine_Deficiency_Omega_Oxidation_Link_Z-101-0009]]
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]]
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Adipate_Metabolism_TCA_Entry_Z-101-0010]]
+- [[Carnitine_Deficiency_Omega_Oxidation_Link_Z-101-0009]]
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]]
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]
+
+## Source
+
+[[L-101-0003_Dicarboxylic_Acids_Clinical_Markers_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Adipate_Metabolism_TCA_Entry_Z-101-0010]]
+- [[Carnitine_Deficiency_Omega_Oxidation_Link_Z-101-0009]]
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]]
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]
 
 ## Core Claim
 **Fatty acid oxidation disorders (FAODs) present with distinct biochemical patterns that enable differential diagnosis — with carnitine deficiency showing elevated long-chain acylcarnitines and dicarboxylic acids, MCAD deficiency showing characteristic C8-C10 acylcarnitine elevation, and insulin resistance showing isolated dicarboxylic acid elevation without significant acylcarnitine abnormalities — allowing precise identification of the specific metabolic block through combined urine organic acid and plasma acylcarnitine profiling.**

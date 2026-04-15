@@ -23,6 +23,26 @@ extraction-date: 2026-03-08
 ---
 
 # Pyruvate — Metabolic Hub with Multiple Fates
+## Source
+
+[[LitNote_Metabolic_Pathway_Integration_L-001-0606]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Metabolic_Pathway_Integration_L-001-0606]]
 
 ## Core Claim
 **Pyruvate sits at the metabolic crossroads connecting glycolysis to multiple pathways—its fate (acetyl-CoA, lactate, oxaloacetate, or alanine) is determined by oxygen availability, energy charge, and metabolic demand** — this branch point is regulated by pyruvate dehydrogenase complex (B-vitamin dependent) and lactate dehydrogenase.

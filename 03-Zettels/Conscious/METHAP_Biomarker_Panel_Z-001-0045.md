@@ -14,6 +14,50 @@ extraction-date: 2026-04-15
 ---
 
 # METHAP  Panel Integration
+## Related Zettels from Same Source
+
+- [[Beta_Cell_Exhaustion_Stage_Z-001-0035]]
+- [[Compensatory_IR_Stage_Z-001-0034]]
+- [[ER_Stress_UPR_IR_Z-001-0033]]
+- [[Gut_Derived_Mechanisms_IR_Z-001-0032]]
+- [[Inflammatory_Signaling_IR_Z-001-0031]]
+- [[Lipotoxicity_Pathway_IR_Z-001-0029]]
+- [[Mitochondrial_Dysfunction_IR_Z-001-0030]]
+- [[Overt_Diabetes_Stage_Z-001-0036]]
+- [[Vicious_Cycle_Inflammation_IR_Z-001-0038]]
+- [[Vicious_Cycle_IR_Obesity_Z-001-0037]]
+- [[Vicious_Cycle_Stress_IR_Z-001-0039]]
+
+## Source
+
+Synthesized from clinical practice
+
+## Related Zettels from Same Source
+
+- [[Beta_Cell_Exhaustion_Stage_Z-001-0035]]
+- [[Compensatory_IR_Stage_Z-001-0034]]
+- [[ER_Stress_UPR_IR_Z-001-0033]]
+- [[Gut_Derived_Mechanisms_IR_Z-001-0032]]
+- [[Inflammatory_Signaling_IR_Z-001-0031]]
+- [[Lipotoxicity_Pathway_IR_Z-001-0029]]
+- [[Mitochondrial_Dysfunction_IR_Z-001-0030]]
+- [[Overt_Diabetes_Stage_Z-001-0036]]
+- [[Vicious_Cycle_Inflammation_IR_Z-001-0038]]
+- [[Vicious_Cycle_IR_Obesity_Z-001-0037]]
+- [[Vicious_Cycle_Stress_IR_Z-001-0039]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 The METHAP (Metabolic Health Assessment Protocol) biomarker panel integrates multiple biomarker categories for comprehensive insulin resistance assessment across the disease spectrum — from early detection through monitoring.
 
@@ -33,6 +77,38 @@ The METHAP (Metabolic Health Assessment Protocol) biomarker panel integrates mul
 - **Tier 3 (Research):** Microbiome, telomeres, cytokine panel
 
 **Integration value:** Single biomarkers miss the multifactorial nature of IR; panel approach captures metabolic, inflammatory, nutritional, and microbial dimensions simultaneously.
+
+## Related Zettels from Same Source
+
+- [[Beta_Cell_Exhaustion_Stage_Z-001-0035]]
+- [[Compensatory_IR_Stage_Z-001-0034]]
+- [[ER_Stress_UPR_IR_Z-001-0033]]
+- [[Gut_Derived_Mechanisms_IR_Z-001-0032]]
+- [[Inflammatory_Signaling_IR_Z-001-0031]]
+- [[Lipotoxicity_Pathway_IR_Z-001-0029]]
+- [[Mitochondrial_Dysfunction_IR_Z-001-0030]]
+- [[Overt_Diabetes_Stage_Z-001-0036]]
+- [[Vicious_Cycle_Inflammation_IR_Z-001-0038]]
+- [[Vicious_Cycle_IR_Obesity_Z-001-0037]]
+- [[Vicious_Cycle_Stress_IR_Z-001-0039]]
+
+## Source
+
+Synthesized from clinical practice
+
+## Related Zettels from Same Source
+
+- [[Beta_Cell_Exhaustion_Stage_Z-001-0035]]
+- [[Compensatory_IR_Stage_Z-001-0034]]
+- [[ER_Stress_UPR_IR_Z-001-0033]]
+- [[Gut_Derived_Mechanisms_IR_Z-001-0032]]
+- [[Inflammatory_Signaling_IR_Z-001-0031]]
+- [[Lipotoxicity_Pathway_IR_Z-001-0029]]
+- [[Mitochondrial_Dysfunction_IR_Z-001-0030]]
+- [[Overt_Diabetes_Stage_Z-001-0036]]
+- [[Vicious_Cycle_Inflammation_IR_Z-001-0038]]
+- [[Vicious_Cycle_IR_Obesity_Z-001-0037]]
+- [[Vicious_Cycle_Stress_IR_Z-001-0039]]
 
 ## Core Principle
 

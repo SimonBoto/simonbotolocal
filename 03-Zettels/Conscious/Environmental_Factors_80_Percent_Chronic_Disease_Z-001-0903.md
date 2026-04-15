@@ -14,6 +14,18 @@ updated: 2026-03-05
 ---
 
 # Environmental Factors Drive 80% of Chronic/Autoimmune Disease
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **Critical Statistic:** 80% of chronic and autoimmune diseases are linked to environmental factors.
 

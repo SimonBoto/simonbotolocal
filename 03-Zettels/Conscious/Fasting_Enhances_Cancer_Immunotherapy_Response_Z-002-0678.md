@@ -15,6 +15,18 @@ related: []
 ---
 
 # Fasting Enhances Cancer Immunotherapy Response
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Fasting or fasting-mimicking diets **significantly improve response rates** to immune checkpoint inhibitors and other immunotherapy approaches in cancer patients by creating a metabolic environment that favors anti-tumor immunity and reduces immunosuppression.
@@ -49,6 +61,11 @@ Fasting or fasting-mimicking diets **significantly improve response rates** to i
 | **Low protein** | <10% calories |
 | **Plant-based** | Vegetable soups, teas |
 | **Duration** | 3-5 days pre-immunotherapy |
+
+## Related Zettels from Same Source
+
+- [[Fasting_Mimicking_Diet_Adjunct_Cancer_Therapy_Z-002-0680]]
+- [[Fasting_Reprograms_Tumor_Microenvironment_Z-002-0679]]
 
 ## Source
 - **LitNote:** [[L-002-0181_Fasting_Enhances_Immunotherapy]]

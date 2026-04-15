@@ -15,6 +15,46 @@ related: []
 ---
 
 # Seed Oils: Industrial Processing Causes Oxidation and Lipid Damage
+## Related Zettels from Same Source
+
+- [[Removing_Seed_Oils_Improves_Mitochondrial_Function_Health_Z-002-0854]]
+- [[Traditional_Fats_Safe_Cooking_Olive_Oil_Butter_Ghee_Z-002-0853]]
+
+## Source
+
+[[L-002-0238_Seed_Oils_Traditional_Fats]]
+
+## Related Zettels from Same Source
+
+- [[Removing_Seed_Oils_Improves_Mitochondrial_Function_Health_Z-002-0854]]
+- [[Traditional_Fats_Safe_Cooking_Olive_Oil_Butter_Ghee_Z-002-0853]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Removing_Seed_Oils_Improves_Mitochondrial_Function_Health_Z-002-0854]]
+- [[Traditional_Fats_Safe_Cooking_Olive_Oil_Butter_Ghee_Z-002-0853]]
+
+## Source
+
+[[L-002-0238_Seed_Oils_Traditional_Fats]]
+
+## Related Zettels from Same Source
+
+- [[Removing_Seed_Oils_Improves_Mitochondrial_Function_Health_Z-002-0854]]
+- [[Traditional_Fats_Safe_Cooking_Olive_Oil_Butter_Ghee_Z-002-0853]]
 
 ## Mechanism
 

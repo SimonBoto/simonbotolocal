@@ -21,6 +21,26 @@ status: conscious
 ---
 
 # Menaquinone-7 Pharmacokinetics
+## Source
+
+D-K2_Co-Supplementation_Clinical_Evidence_-Studies_L-001-0214_v4.0
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+D-K2_Co-Supplementation_Clinical_Evidence_-Studies_L-001-0214_v4.0
 
 ## Core Thesis
 Menaquinone-7 (MK-7) exhibits superior pharmacokinetic properties compared to other vitamin K forms, characterized by prolonged half-life, enhanced bioavailability, and preferential distribution to extrahepatic tissues, making it the optimal form for cardiovascular and bone health applications.

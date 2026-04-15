@@ -12,6 +12,18 @@ extraction-date: 2026-04-15
 ---
 
 # FRAX Limitations —  Gaps and Underestimation Risks
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Principle
 FRAX is a **population-level prediction tool** with specific blind spots that require clinical judgment to avoid underestimating individual fracture risk.
@@ -174,6 +186,15 @@ Action: Treat (threshold 10% for glucocorticoids)
 - [[FRAX_Adjustments_TBS_Falls_Glucocorticoids_Z-001-0112]] — How to correct
 - [[FRAX_Output_Thresholds_Treatment_Decisions_Z-001-0110]] — When to override
 
+## Related Zettels from Same Source
+
+- [[Fragility_Fractures_Morbidity_Mortality_Z-001-0078]]
+- [[FRAX_Adjustments_TBS_Falls_Glucocorticoids_Z-001-0112]]
+- [[FRAX_Input_Variables_Clinical_Risk_Factors_Z-001-0109]]
+- [[FRAX_Output_Thresholds_Treatment_Decisions_Z-001-0110]]
+- [[Osteopenia_T_score_Definition_Minus_1_to_2.5_Z-001-0076]]
+- [[Osteoporosis_T_score_Definition_Minus_2.5_Z-001-0077]]
+
 ## Source
 [[LitNote_FRAX_Risk_Assessment_Tool_L-001-0017]
 
@@ -182,6 +203,15 @@ Action: Treat (threshold 10% for glucocorticoids)
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
 
+
+## Related Zettels from Same Source
+
+- [[Fragility_Fractures_Morbidity_Mortality_Z-001-0078]]
+- [[FRAX_Adjustments_TBS_Falls_Glucocorticoids_Z-001-0112]]
+- [[FRAX_Input_Variables_Clinical_Risk_Factors_Z-001-0109]]
+- [[FRAX_Output_Thresholds_Treatment_Decisions_Z-001-0110]]
+- [[Osteopenia_T_score_Definition_Minus_1_to_2.5_Z-001-0076]]
+- [[Osteoporosis_T_score_Definition_Minus_2.5_Z-001-0077]]
 
 ## Related
 - [[Net_Bone_Loss_Resorption_Exceeds_Formation_Z-001-0084]|Z-001-0084]

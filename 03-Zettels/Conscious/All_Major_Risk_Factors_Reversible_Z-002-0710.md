@@ -14,6 +14,18 @@ related: []
 ---
 
 # All Major Risk Factors Are Reversible
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **All five major mortality risk factors are reversible** through evidence-based dietary and lifestyle interventions — no factor is genetically fixed or permanently determined.

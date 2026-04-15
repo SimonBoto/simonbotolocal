@@ -21,6 +21,26 @@ status: conscious
 ---
 
 # VitD-K2 Synergy Mechanism
+## Source
+
+[[Vitamin_D_and_Calcium_Supplementation_L-001-0045O_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[Vitamin_D_and_Calcium_Supplementation_L-001-0045O_v4.0]]
 
 ## Clinical Context
 Vitamin D and vitamin K2 work synergistically to optimize calcium metabolism for bone health. While vitamin D enhances calcium absorption, vitamin K2 directs calcium to bone tissue and prevents vascular calcification.

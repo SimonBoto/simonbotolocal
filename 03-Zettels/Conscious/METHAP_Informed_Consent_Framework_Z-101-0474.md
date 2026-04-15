@@ -12,6 +12,50 @@ status: conscious
 ---
 
 # METHAP Informed Consent Framework
+## Related Zettels from Same Source
+
+- [[METHAP_IRB_Feedback_Action_Items_Z-101-0473]]
+- [[METHAP_Study_Design_Overview_Z-101-0472]]
+- [[METHAP_Supplement_Protocol_Z-101-0475]]
+
+## Source
+
+[[LitNote_CGPT_0081_PhD_Protocol_IRB_L-101-0048.md]
+
+## Related Zettels from Same Source
+
+- [[METHAP_IRB_Feedback_Action_Items_Z-101-0473]]
+- [[METHAP_Study_Design_Overview_Z-101-0472]]
+- [[METHAP_Supplement_Protocol_Z-101-0475]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[METHAP_IRB_Feedback_Action_Items_Z-101-0473]]
+- [[METHAP_Study_Design_Overview_Z-101-0472]]
+- [[METHAP_Supplement_Protocol_Z-101-0475]]
+
+## Source
+
+[[LitNote_CGPT_0081_PhD_Protocol_IRB_L-101-0048.md]
+
+## Related Zettels from Same Source
+
+- [[METHAP_IRB_Feedback_Action_Items_Z-101-0473]]
+- [[METHAP_Study_Design_Overview_Z-101-0472]]
+- [[METHAP_Supplement_Protocol_Z-101-0475]]
 
 ## Purpose
 Ensure participants understand the study, their rights, and protections before enrollment.

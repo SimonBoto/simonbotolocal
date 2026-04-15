@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 # Vitamin K2 Directs Calcium Away from Soft Tissues
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Vitamin K2 (menaquinone) activates calcium-binding proteins that direct calcium to appropriate destinations: osteocalcin (incorporates calcium into bone matrix) and Matrix Gla Protein/MGP (inhibits calcium deposition in arteries/soft tissues). This prevents ectopic calcification from high  + calcium intake.
 

@@ -26,6 +26,54 @@ extraction-date: 2026-03-04
 ---
 
 # Aldose vs Ketose Chemistry
+## Related Zettels from Same Source
+
+- [[Common_Aldoses_Roles_Z-001-0474]]
+- [[Common_Ketoses_Roles_Z-001-0475]]
+- [[Fructose_Metabolism_Lipogenesis_Z-001-0473]]
+- [[Glucose_Metabolism_Overview_Z-001-0472]]
+
+## Source
+
+[[L-001-0045E_Glucose_Fructose_Aldoses_Ketoses_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Common_Aldoses_Roles_Z-001-0474]]
+- [[Common_Ketoses_Roles_Z-001-0475]]
+- [[Fructose_Metabolism_Lipogenesis_Z-001-0473]]
+- [[Glucose_Metabolism_Overview_Z-001-0472]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Common_Aldoses_Roles_Z-001-0474]]
+- [[Common_Ketoses_Roles_Z-001-0475]]
+- [[Fructose_Metabolism_Lipogenesis_Z-001-0473]]
+- [[Glucose_Metabolism_Overview_Z-001-0472]]
+
+## Source
+
+[[L-001-0045E_Glucose_Fructose_Aldoses_Ketoses_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Common_Aldoses_Roles_Z-001-0474]]
+- [[Common_Ketoses_Roles_Z-001-0475]]
+- [[Fructose_Metabolism_Lipogenesis_Z-001-0473]]
+- [[Glucose_Metabolism_Overview_Z-001-0472]]
 
 ## Core Claim
 **Aldoses have an aldehyde group at C1 (terminal carbonyl), while ketoses have a ketone group at C2 (internal carbonyl) — this structural difference determines ring size (pyranose vs furanose), reactivity (aldoses are stronger reducing agents), and metabolic fate** — glucose (aldose) and fructose (ketose) exemplify this fundamental biochemical distinction.

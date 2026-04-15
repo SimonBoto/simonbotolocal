@@ -25,6 +25,62 @@ extraction-date: 2026-03-04
 ---
 
 # BHB is a Hydroxy Acid, Not a Ketone
+## Related Zettels from Same Source
+
+- [[BHB_Energy_Substrate_Brain_Heart_Z-001-0484]]
+- [[BHB_HDAC_Inhibition_Epigenetics_Z-001-0485]]
+- [[BHB_NLRP3_Inflammasome_Inhibition_Z-001-0486]]
+- [[Ketogenesis_Pathway_Regulation_Z-001-0481]]
+- [[Physiological_vs_Pathological_Ketosis_Z-001-0487]]
+- [[Three_Ketone_Bodies_Z-001-0482]]
+
+## Source
+
+[[L-001-0045G_Ketogenesis_BHB_Signaling_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[BHB_Energy_Substrate_Brain_Heart_Z-001-0484]]
+- [[BHB_HDAC_Inhibition_Epigenetics_Z-001-0485]]
+- [[BHB_NLRP3_Inflammasome_Inhibition_Z-001-0486]]
+- [[Ketogenesis_Pathway_Regulation_Z-001-0481]]
+- [[Physiological_vs_Pathological_Ketosis_Z-001-0487]]
+- [[Three_Ketone_Bodies_Z-001-0482]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[BHB_Energy_Substrate_Brain_Heart_Z-001-0484]]
+- [[BHB_HDAC_Inhibition_Epigenetics_Z-001-0485]]
+- [[BHB_NLRP3_Inflammasome_Inhibition_Z-001-0486]]
+- [[Ketogenesis_Pathway_Regulation_Z-001-0481]]
+- [[Physiological_vs_Pathological_Ketosis_Z-001-0487]]
+- [[Three_Ketone_Bodies_Z-001-0482]]
+
+## Source
+
+[[L-001-0045G_Ketogenesis_BHB_Signaling_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[BHB_Energy_Substrate_Brain_Heart_Z-001-0484]]
+- [[BHB_HDAC_Inhibition_Epigenetics_Z-001-0485]]
+- [[BHB_NLRP3_Inflammasome_Inhibition_Z-001-0486]]
+- [[Ketogenesis_Pathway_Regulation_Z-001-0481]]
+- [[Physiological_vs_Pathological_Ketosis_Z-001-0487]]
+- [[Three_Ketone_Bodies_Z-001-0482]]
 
 ## Core Claim
 **Beta-hydroxybutyrate (BHB) is chemically a β-hydroxy acid (CH₃-CHOH-CH₂-COOH), not a true ketone — the name "ketone body" is functional (part of the ketone body system), not structural; BHB lacks a carbonyl group and instead has a hydroxyl at the β-carbon** — this distinction matters for chemistry, interconversion, and nomenclature.

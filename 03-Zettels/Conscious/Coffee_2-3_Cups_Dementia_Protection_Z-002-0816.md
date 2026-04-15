@@ -15,6 +15,46 @@ related: []
 ---
 
 # Coffee 2-3 Cups/Day Provides Optimal Dementia Protection
+## Related Zettels from Same Source
+
+- [[Caffeine_Key_Neuroprotective_Component_Z-002-0817]]
+- [[Long_Term_Coffee_Consumption_Brain_Health_Z-002-0818]]
+
+## Source
+
+[[L-002-0226_Coffee_Dementia_Risk]]
+
+## Related Zettels from Same Source
+
+- [[Caffeine_Key_Neuroprotective_Component_Z-002-0817]]
+- [[Long_Term_Coffee_Consumption_Brain_Health_Z-002-0818]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Caffeine_Key_Neuroprotective_Component_Z-002-0817]]
+- [[Long_Term_Coffee_Consumption_Brain_Health_Z-002-0818]]
+
+## Source
+
+[[L-002-0226_Coffee_Dementia_Risk]]
+
+## Related Zettels from Same Source
+
+- [[Caffeine_Key_Neuroprotective_Component_Z-002-0817]]
+- [[Long_Term_Coffee_Consumption_Brain_Health_Z-002-0818]]
 
 ## Core Claim
 **Moderate coffee consumption of 2-3 cups per day provides optimal protection against dementia** — the 37-year study found this dose range associated with the lowest dementia risk, with both lower and higher intakes showing less benefit.

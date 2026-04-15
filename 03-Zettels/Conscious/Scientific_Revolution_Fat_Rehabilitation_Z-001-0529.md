@@ -12,8 +12,28 @@ extraction-date: 2026-03-01
 ---
 
 # Scientific R — Fat Rehabilitation
+## Source
+
+[[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Starting in the 2000s, accumulating evidence challenged the diet-heart hypothesis, rehabilitating dietary fat and shifting focus to carbohydrate quality.
+
+## Source
+
+[[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]
 
 ## Core Principle
 

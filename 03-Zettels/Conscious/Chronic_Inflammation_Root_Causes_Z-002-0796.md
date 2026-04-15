@@ -15,6 +15,18 @@ related: []
 ---
 
 # Chronic Inflammation Root Causes
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Chronic low-grade inflammation arises from ongoing metabolic damage combined with nutritional deficiencies** — creating a pro-inflammatory state measurable by elevated hsCRP that drives insulin resistance, endothelial dysfunction, and atherosclerosis.
@@ -52,6 +64,11 @@ Damage → Inflammation → Deficiencies → Impaired Healing → Chronic Inflam
 
 ## Clinical Approach
 Address **both sides**: Remove inflammatory stimuli + replenish resolution nutrients.
+
+## Related Zettels from Same Source
+
+- [[hsCRP_CVD_Predictor_Healthy_Population_Z-002-0795]]
+- [[Resolving_Inflammation_CVD_Prevention_Z-002-0797]]
 
 ## Source
 - **LitNote:** [[L-002-0219_Inflammation_CVD_Risk]]

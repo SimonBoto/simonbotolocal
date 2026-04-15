@@ -25,6 +25,54 @@ extraction-date: 2026-03-04
 ---
 
 # Aldehyde vs Ketone Chemistry
+## Related Zettels from Same Source
+
+- [[Keto_Acids_vs_Carboxylic_Acids_Z-001-0476]]
+- [[Propionate_Metabolism_Gluconeogenesis_Z-001-0478]]
+- [[Pyruvate_Central_Metabolic_Role_Z-001-0477]]
+- [[Vitamin_Dependence_Organic_Acid_Metabolism_Z-001-0479]]
+
+## Source
+
+[[LitNote_Keto_Acids_Organic_Acids_L-001-0045F]]
+
+## Related Zettels from Same Source
+
+- [[Keto_Acids_vs_Carboxylic_Acids_Z-001-0476]]
+- [[Propionate_Metabolism_Gluconeogenesis_Z-001-0478]]
+- [[Pyruvate_Central_Metabolic_Role_Z-001-0477]]
+- [[Vitamin_Dependence_Organic_Acid_Metabolism_Z-001-0479]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Keto_Acids_vs_Carboxylic_Acids_Z-001-0476]]
+- [[Propionate_Metabolism_Gluconeogenesis_Z-001-0478]]
+- [[Pyruvate_Central_Metabolic_Role_Z-001-0477]]
+- [[Vitamin_Dependence_Organic_Acid_Metabolism_Z-001-0479]]
+
+## Source
+
+[[LitNote_Keto_Acids_Organic_Acids_L-001-0045F]]
+
+## Related Zettels from Same Source
+
+- [[Keto_Acids_vs_Carboxylic_Acids_Z-001-0476]]
+- [[Propionate_Metabolism_Gluconeogenesis_Z-001-0478]]
+- [[Pyruvate_Central_Metabolic_Role_Z-001-0477]]
+- [[Vitamin_Dependence_Organic_Acid_Metabolism_Z-001-0479]]
 
 ## Core Claim
 **Aldehydes (terminal carbonyl) and ketones (internal carbonyl) differ fundamentally in reactivity and biological function: aldehydes are more reactive (easily oxidized) and define aldose sugars like glucose, while ketones are more stable and define ketose sugars like fructose** — this chemical distinction underlies their different metabolic fates and reducing properties.

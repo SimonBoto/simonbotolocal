@@ -12,8 +12,56 @@ extraction-date: 2026-03-01
 ---
 
 #  Biochemistry — MK-4 vs. MK-7 Forms
+## Related Zettels from Same Source
+
+- [[Magnesium_Vascular_Calcification_Prevention_Z-001-0218]]
+- [[Vitamin_K2_D_Mg_Synergy_Metabolic_Health_Z-001-0230]]
+- [[Vitamin_K2_Glucose_Metabolism_Osteocalcin_Z-001-0229]]
+- [[Vitamin_K2_Vascular_Calcification_MGP_Z-001-0228]]
+
+## Source
+
+[[LitNote_Vitamin_K2_Metabolic_Syndrome_L-001-0206]
+
+## Related Zettels from Same Source
+
+- [[Magnesium_Vascular_Calcification_Prevention_Z-001-0218]]
+- [[Vitamin_K2_D_Mg_Synergy_Metabolic_Health_Z-001-0230]]
+- [[Vitamin_K2_Glucose_Metabolism_Osteocalcin_Z-001-0229]]
+- [[Vitamin_K2_Vascular_Calcification_MGP_Z-001-0228]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Vitamin K2 exists as a family of menaquinones with varying chain lengths, with MK-4 and MK-7 being the most clinically relevant forms, differing in source, bioavailability, dosing, and therapeutic applications.
+
+## Related Zettels from Same Source
+
+- [[Magnesium_Vascular_Calcification_Prevention_Z-001-0218]]
+- [[Vitamin_K2_D_Mg_Synergy_Metabolic_Health_Z-001-0230]]
+- [[Vitamin_K2_Glucose_Metabolism_Osteocalcin_Z-001-0229]]
+- [[Vitamin_K2_Vascular_Calcification_MGP_Z-001-0228]]
+
+## Source
+
+[[LitNote_Vitamin_K2_Metabolic_Syndrome_L-001-0206]
+
+## Related Zettels from Same Source
+
+- [[Magnesium_Vascular_Calcification_Prevention_Z-001-0218]]
+- [[Vitamin_K2_D_Mg_Synergy_Metabolic_Health_Z-001-0230]]
+- [[Vitamin_K2_Glucose_Metabolism_Osteocalcin_Z-001-0229]]
+- [[Vitamin_K2_Vascular_Calcification_MGP_Z-001-0228]]
 
 ## Core Principle
 

@@ -19,9 +19,29 @@ status: conscious
 ---
 
 # Albumin-Clinical Framework
+## Source
+
+[[CKD_Nutritional_Assessment_-_Albumin_vs_Intake-_L-001-0575_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > **Source:** ChatGPT conversation [[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370]] (May 26, 2024)
 > **Core Claim:** A comprehensive clinical framework for albumin management in CKD integrates glycemic control, oxalate metabolism, and nutritional assessment to optimize clinical outcomes.
+
+## Source
+
+[[CKD_Nutritional_Assessment_-_Albumin_vs_Intake-_L-001-0575_v4.0]]
 
 ## Core Concepts
 

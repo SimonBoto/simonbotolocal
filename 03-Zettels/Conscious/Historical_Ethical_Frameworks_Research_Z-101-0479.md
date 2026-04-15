@@ -12,6 +12,26 @@ status: conscious
 ---
 
 # Historical Ethical Frameworks for 
+## Source
+
+[[LitNote_CGPT_0131_Medical_Ethics_L-101-0050.md]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_CGPT_0131_Medical_Ethics_L-101-0050.md]
 
 ## Overview
 Modern research ethics emerged from responses to abuses, particularly Nazi medical experiments. Each framework built upon predecessors to create comprehensive protections.

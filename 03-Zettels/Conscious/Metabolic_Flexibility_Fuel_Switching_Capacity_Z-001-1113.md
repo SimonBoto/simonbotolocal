@@ -23,6 +23,26 @@ extraction-date: 2026-03-08
 ---
 
 # Metabolic Flexibility — Fuel Switching Capacity
+## Source
+
+[[LitNote_Metabolic_Pathway_Integration_L-001-0606]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Metabolic_Pathway_Integration_L-001-0606]]
 
 ## Core Claim
 **Metabolic flexibility is the ability to efficiently switch between glucose (fed state), fatty acids (fasting), and ketones (prolonged fasting) based on availability and demand** — this capacity, regulated by insulin, is impaired in metabolic syndrome, leading to persistent glucose dependence even when fasting.

@@ -13,6 +13,26 @@ extraction-date: 2026-03-08
 ---
 
 # Omega-Oxidation — ER Alternative Pathway
+## Source
+
+[[L-001-0628_Dicarboxylic_Acid_Formation_Fatty_Acids_CGPT-0586]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[L-001-0628_Dicarboxylic_Acid_Formation_Fatty_Acids_CGPT-0586]]
 
 ## Core Claim
 **ω-oxidation in the endoplasmic reticulum serves as a compensatory pathway when mitochondrial β-oxidation is impaired — utilizing cytochrome P450 enzymes to add terminal carboxyl groups to fatty acids, producing dicarboxylic acids that can be excreted or enter the dicarboxylic acid pathway for energy production.**

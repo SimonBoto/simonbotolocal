@@ -14,6 +14,18 @@ related: []
 ---
 
 # Small Dense LDL More Atherogenic Than LDL Quantity
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Small dense LDL (sdLDL) is more atherogenic** than total LDL quantity — created by glucose exposure and oxidation, sdLDL penetrates endothelium more easily and is more oxidizable.

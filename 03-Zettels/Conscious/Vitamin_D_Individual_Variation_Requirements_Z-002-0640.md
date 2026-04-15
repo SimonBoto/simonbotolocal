@@ -15,9 +15,28 @@ related: []
 ---
 
 # Vitamin D Individual Variation in Requirements
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Optimal vitamin D levels and supplementation requirements vary **2-3 fold between individuals** due to genetic polymorphisms, body composition, baseline status, and disease state — necessitating personalized approaches rather than universal RDAs.
+
+## Related Zettels from Same Source
+
+- [[Corrected_Vitamin_D_RDA_8900_IU_Z-002-0637]]
+- [[IOM_2011_Vitamin_D_RDA_Calculation_Error_Z-002-0636]]
+- [[Vitamin_D_Hormone_Function_2000_Genes_Z-002-0639]]
+- [[Vitamin_D_Requirements_30_ng_mL_6201_IU_Z-002-0638]]
 
 ## Sources of Variation
 
@@ -45,6 +64,13 @@ Optimal vitamin D levels and supplementation requirements vary **2-3 fold betwee
 ### 5. Skin Pigmentation
 - **Melanin:** Reduces UVB penetration → lower synthesis per minute of sun
 - **Darker skin:** 5-10× more sun exposure needed for same synthesis
+
+## Related Zettels from Same Source
+
+- [[Corrected_Vitamin_D_RDA_8900_IU_Z-002-0637]]
+- [[IOM_2011_Vitamin_D_RDA_Calculation_Error_Z-002-0636]]
+- [[Vitamin_D_Hormone_Function_2000_Genes_Z-002-0639]]
+- [[Vitamin_D_Requirements_30_ng_mL_6201_IU_Z-002-0638]]
 
 ## Clinical Variation by Condition
 
@@ -85,6 +111,13 @@ Optimal vitamin D levels and supplementation requirements vary **2-3 fold betwee
 
 > "Individual response to supplementation varies 2-3 fold; genetic polymorphisms in VDR, DBP, and CYP2R1 affect metabolism; clinical needs differ by disease state."
 > — Inbox synthesis
+
+## Related Zettels from Same Source
+
+- [[Corrected_Vitamin_D_RDA_8900_IU_Z-002-0637]]
+- [[IOM_2011_Vitamin_D_RDA_Calculation_Error_Z-002-0636]]
+- [[Vitamin_D_Hormone_Function_2000_Genes_Z-002-0639]]
+- [[Vitamin_D_Requirements_30_ng_mL_6201_IU_Z-002-0638]]
 
 ## Source
 - **LitNote:** [[L-002-0168_Vitamin_D_RDA_Statistical_Error]]

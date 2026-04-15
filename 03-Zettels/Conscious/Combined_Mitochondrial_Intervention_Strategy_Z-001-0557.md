@@ -12,8 +12,28 @@ extraction-date: 2026-03-01
 ---
 
 # Combined l Intervention Strategy
+## Source
+
+[[LitNote_Mitochondrial_Health_Strategies_L-001-0511]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Optimal  restoration requires multi-modal approach: diet, exercise, and targeted supplementation guided by .
+
+## Source
+
+[[LitNote_Mitochondrial_Health_Strategies_L-001-0511]
 
 ## Core Principle
 

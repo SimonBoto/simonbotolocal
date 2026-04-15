@@ -13,6 +13,54 @@ extraction-date: 2026-03-08
 ---
 
 # Saturated vs Unsaturated Fatty Acids
+## Related Zettels from Same Source
+
+- [[Chain_Length_Metabolic_Fate_Fatty_Acids_Z-001-1213]]
+- [[Cis_vs_Trans_Fatty_Acids_Z-001-1212]]
+- [[Fatty_Acid_Nomenclature_Numbering_Z-001-1208]]
+- [[Omega_Classification_System_Explained_Z-001-1209]]
+
+## Source
+
+[[L-001-0632_Fatty_Acid_Structure_Classification_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Chain_Length_Metabolic_Fate_Fatty_Acids_Z-001-1213]]
+- [[Cis_vs_Trans_Fatty_Acids_Z-001-1212]]
+- [[Fatty_Acid_Nomenclature_Numbering_Z-001-1208]]
+- [[Omega_Classification_System_Explained_Z-001-1209]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Chain_Length_Metabolic_Fate_Fatty_Acids_Z-001-1213]]
+- [[Cis_vs_Trans_Fatty_Acids_Z-001-1212]]
+- [[Fatty_Acid_Nomenclature_Numbering_Z-001-1208]]
+- [[Omega_Classification_System_Explained_Z-001-1209]]
+
+## Source
+
+[[L-001-0632_Fatty_Acid_Structure_Classification_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Chain_Length_Metabolic_Fate_Fatty_Acids_Z-001-1213]]
+- [[Cis_vs_Trans_Fatty_Acids_Z-001-1212]]
+- [[Fatty_Acid_Nomenclature_Numbering_Z-001-1208]]
+- [[Omega_Classification_System_Explained_Z-001-1209]]
 
 ## Core Claim
 **Saturated fatty acids contain no double bonds (straight chains, solid at room temperature), while unsaturated fatty acids contain one (monounsaturated) or more (polyunsaturated) double bonds that create kinks in the hydrocarbon chain (liquid at room temperature) — with the degree of saturation determining physical properties, metabolic fate, and health effects, and the balance between saturated and unsaturated fats being a key factor in cardiovascular and metabolic health.**

@@ -15,6 +15,18 @@ related: []
 ---
 
 # Low-Carbohydrate Diet Reverses Metabolic Syndrome
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Low-carbohydrate diets improve **all five diagnostic criteria** of metabolic syndrome, making them superior to low-fat diets for metabolic syndrome reversal and cardiovascular disease risk reduction.
@@ -60,6 +72,11 @@ Low-carbohydrate diets improve **all five diagnostic criteria** of metabolic syn
 - Metabolic syndrome increases CVD risk 2-3 fold
 - Reversing metabolic syndrome → proportional risk reduction
 - More effective than treating individual risk factors
+
+## Related Zettels from Same Source
+
+- [[Insulin_Resistance_Root_Cause_CVD_Z-002-0642]]
+- [[Low_Carb_Superior_Low_Fat_Lipid_Profile_Z-002-0643]]
 
 ## Source
 - **LitNote:** [[L-002-0169_Carb_Restriction_CVD_Risk]]

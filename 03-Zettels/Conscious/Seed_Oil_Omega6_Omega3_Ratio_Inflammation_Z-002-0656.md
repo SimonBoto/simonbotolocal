@@ -15,6 +15,18 @@ related: []
 ---
 
 # Seed Oil Omega-6:Omega-3 Ratio Promotes Inflammation
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 The **high omega-6:omega-3 fatty acid ratio** in seed oils promotes systemic inflammation when consumed regularly, contributing to insulin resistance and type 2 diabetes risk beyond the effects of oxidation products from frying.
@@ -123,6 +135,11 @@ High omega-6 intake
 | Fried foods | Baked/grilled |
 | Processed snacks | Whole foods |
 | Corn/soybean oil | Butter, coconut, olive |
+
+## Related Zettels from Same Source
+
+- [[Fried_Potatoes_Seed_Oil_T2D_Risk_20pct_Z-002-0654]]
+- [[Oxidized_Omega6_Disrupts_Insulin_Signaling_Z-002-0655]]
 
 ## Source
 - **LitNote:** [[L-002-0173_Fried_Potatoes_Seed_Oil_T2D_Risk]]

@@ -13,6 +13,26 @@ status: conscious
 parent-index: [[03-Zettels-Conscious]]
 
 # -Oxidative Stress Vicious Cycle
+## Source
+
+[[LitNote_Mitochondrial_Telomere_Axis_Autoimmunity_L-001-0625]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Mitochondrial_Telomere_Axis_Autoimmunity_L-001-0625]
 
 ## The Self-Sustaining Loop
 

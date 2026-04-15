@@ -12,6 +12,26 @@ status: conscious
 ---
 
 # Hydrogenation and Trans Fat Formation in Seed Oils
+## Source
+
+[[LitNote_Industrial_Processing_Toxin_Formation_L-001-0524]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Industrial_Processing_Toxin_Formation_L-001-0524]
 
 ## Core Concept
 

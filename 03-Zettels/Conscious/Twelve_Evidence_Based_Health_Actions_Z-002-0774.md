@@ -15,6 +15,18 @@ related: []
 ---
 
 # Twelve Evidence-Based Health Actions — Comprehensive Lifestyle Framework
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Twelve evidence-based lifestyle actions substantially improve health outcomes, longevity, and quality of life** — addressing diet, movement, sleep, stress, social connection, environment, and mindset in an integrated framework supported by Blue Zones research and lifestyle medicine literature.
@@ -97,6 +109,11 @@ related: []
 ## Significance
 
 **Twelve evidence-based lifestyle actions substantially improve health outcomes, longevity, and quality of life** — addressing diet, movement, sleep, stress, social connection, environment, and mindset in an integrated framework supported by Blue Zones research and lifestyle medicine literature.
+
+## Related Zettels from Same Source
+
+- [[Health_Foundations_Diet_Movement_Sleep_Z-002-0775]]
+- [[Social_Connection_Health_Benefit_Z-002-0776]]
 
 ## Source
 - **LitNote:** [[L-002-0212_Twelve_Actions_Better_Health]]

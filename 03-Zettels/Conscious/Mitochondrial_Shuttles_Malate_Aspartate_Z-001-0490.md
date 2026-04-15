@@ -13,6 +13,54 @@ extraction-date: 2026-03-04
 ---
 
 # Mitochondrial Shuttles — Malate and Aspartate
+## Related Zettels from Same Source
+
+- [[Anaplerosis_Replenishing_Krebs_Cycle_Z-001-0492]]
+- [[Gluconeogenesis_from_Oxaloacetate_Z-001-0489]]
+- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488]]
+- [[PEPCK_Gluconeogenic_Regulation_Z-001-0491]]
+
+## Source
+
+[[L-001-0045H_Oxaloacetate_Gluconeogenesis_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Anaplerosis_Replenishing_Krebs_Cycle_Z-001-0492]]
+- [[Gluconeogenesis_from_Oxaloacetate_Z-001-0489]]
+- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488]]
+- [[PEPCK_Gluconeogenic_Regulation_Z-001-0491]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Anaplerosis_Replenishing_Krebs_Cycle_Z-001-0492]]
+- [[Gluconeogenesis_from_Oxaloacetate_Z-001-0489]]
+- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488]]
+- [[PEPCK_Gluconeogenic_Regulation_Z-001-0491]]
+
+## Source
+
+[[L-001-0045H_Oxaloacetate_Gluconeogenesis_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Anaplerosis_Replenishing_Krebs_Cycle_Z-001-0492]]
+- [[Gluconeogenesis_from_Oxaloacetate_Z-001-0489]]
+- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488]]
+- [[PEPCK_Gluconeogenic_Regulation_Z-001-0491]]
 
 ## Core Claim
 **Oxaloacetate cannot cross the inner mitochondrial membrane — two shuttle systems transfer OAA equivalents to the cytosol for gluconeogenesis: the malate-aspartate shuttle (transfers reducing equivalents as NADH, preferred for gluconeogenesis) and the aspartate shuttle (transfers nitrogen, used when NADH not needed)** — these shuttles coordinate mitochondrial and cytosolic metabolism.

@@ -13,6 +13,26 @@ extraction-date: 2026-03-04
 ---
 
 # Glutamate-Arginine-Urea Cycle Connection
+## Source
+
+[[L-001-0046B_Amino_Acid_Networks_CGPT-0445]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[L-001-0046B_Amino_Acid_Networks_CGPT-0445]]
 
 ## Core Claim
 **Glutamate provides the first nitrogen atom for the urea cycle via N-acetylglutamate (NAG) synthesis — NAG activates carbamoyl phosphate synthetase I (CPS I), the rate-limiting enzyme of ureagenesis** — arginine synthesis from glutamate connects amino acid metabolism to nitrogen disposal, with aspartate providing the second nitrogen atom.

@@ -12,8 +12,64 @@ extraction-date: 2026-03-01
 ---
 
 # Laboratory Markers — Distinguishing Features
+## Related Zettels from Same Source
+
+- [[B12_MM_Mimicry_Clinical_Question_Z-001-0419]]
+- [[Bone_Marrow_Differentiation_B12_MM_Z-001-0421]]
+- [[Clinical_Scenarios_Diagnostic_Approach_Z-001-0424]]
+- [[Hematological_Overlap_B12_MM_Z-001-0420]]
+- [[MTHFR_MM_No_Correlation_Z-001-0423]]
+- [[Treatment_Response_Diagnostic_Test_Z-001-0425]]
+
+## Source
+
+[[LitNote_B12_MM_Mimicry_L-001-0404]
+
+## Related Zettels from Same Source
+
+- [[B12_MM_Mimicry_Clinical_Question_Z-001-0419]]
+- [[Bone_Marrow_Differentiation_B12_MM_Z-001-0421]]
+- [[Clinical_Scenarios_Diagnostic_Approach_Z-001-0424]]
+- [[Hematological_Overlap_B12_MM_Z-001-0420]]
+- [[MTHFR_MM_No_Correlation_Z-001-0423]]
+- [[Treatment_Response_Diagnostic_Test_Z-001-0425]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Serum protein electrophoresis, free light chains, and B12 metabolite levels definitively distinguish B12 deficiency from multiple myeloma.
+
+## Related Zettels from Same Source
+
+- [[B12_MM_Mimicry_Clinical_Question_Z-001-0419]]
+- [[Bone_Marrow_Differentiation_B12_MM_Z-001-0421]]
+- [[Clinical_Scenarios_Diagnostic_Approach_Z-001-0424]]
+- [[Hematological_Overlap_B12_MM_Z-001-0420]]
+- [[MTHFR_MM_No_Correlation_Z-001-0423]]
+- [[Treatment_Response_Diagnostic_Test_Z-001-0425]]
+
+## Source
+
+[[LitNote_B12_MM_Mimicry_L-001-0404]
+
+## Related Zettels from Same Source
+
+- [[B12_MM_Mimicry_Clinical_Question_Z-001-0419]]
+- [[Bone_Marrow_Differentiation_B12_MM_Z-001-0421]]
+- [[Clinical_Scenarios_Diagnostic_Approach_Z-001-0424]]
+- [[Hematological_Overlap_B12_MM_Z-001-0420]]
+- [[MTHFR_MM_No_Correlation_Z-001-0423]]
+- [[Treatment_Response_Diagnostic_Test_Z-001-0425]]
 
 ## Core Principle
 

@@ -12,6 +12,18 @@ extraction-date: 2026-04-15
 ---
 
 # Pro-Inflammatory Eicosanoids — Arachidonic Acid Derived PGE2 and LTB4
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Eicosanoid Synthesis Pathway
 

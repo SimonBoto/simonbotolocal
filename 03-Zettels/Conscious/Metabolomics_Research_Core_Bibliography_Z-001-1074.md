@@ -13,6 +13,46 @@ extraction-date: 2026-03-08
 ---
 
 # Metabolomics Research Core Bibliography
+## Related Zettels from Same Source
+
+- [[Mediterranean_Diet_Metabolic_Evidence_Z-001-1076]]
+- [[Vitamin_D_Safety_Research_Summary_Z-001-1075]]
+
+## Source
+
+[[L-001-0596_Tsoukalas_Research_Bibliography_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Mediterranean_Diet_Metabolic_Evidence_Z-001-1076]]
+- [[Vitamin_D_Safety_Research_Summary_Z-001-1075]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Mediterranean_Diet_Metabolic_Evidence_Z-001-1076]]
+- [[Vitamin_D_Safety_Research_Summary_Z-001-1075]]
+
+## Source
+
+[[L-001-0596_Tsoukalas_Research_Bibliography_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Mediterranean_Diet_Metabolic_Evidence_Z-001-1076]]
+- [[Vitamin_D_Safety_Research_Summary_Z-001-1075]]
 
 ## Core Claim
 **A curated collection of peer-reviewed metabolomics research — spanning organic acid applications, fatty acid metabolic profiling, vitamin D safety studies, and Mediterranean diet trials — provides evidence-based foundations for clinical metabolomics practice, supporting both intervention protocols and patient education.**

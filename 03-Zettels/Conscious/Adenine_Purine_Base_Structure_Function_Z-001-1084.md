@@ -25,6 +25,54 @@ extraction-date: 2026-03-08
 ---
 
 # Adenine — Purine Base Structure and Function
+## Related Zettels from Same Source
+
+- [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083]]
+- [[Nucleoside_Formation_Phosphorylation_Pathways_Z-001-1086]]
+- [[Purine_Salvage_Pathway_Recycling_Mechanism_Z-001-1087]]
+- [[Ribose_Pentose_Backbone_RNA_ATP_Z-001-1085]]
+
+## Source
+
+[[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]]
+
+## Related Zettels from Same Source
+
+- [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083]]
+- [[Nucleoside_Formation_Phosphorylation_Pathways_Z-001-1086]]
+- [[Purine_Salvage_Pathway_Recycling_Mechanism_Z-001-1087]]
+- [[Ribose_Pentose_Backbone_RNA_ATP_Z-001-1085]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083]]
+- [[Nucleoside_Formation_Phosphorylation_Pathways_Z-001-1086]]
+- [[Purine_Salvage_Pathway_Recycling_Mechanism_Z-001-1087]]
+- [[Ribose_Pentose_Backbone_RNA_ATP_Z-001-1085]]
+
+## Source
+
+[[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]]
+
+## Related Zettels from Same Source
+
+- [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083]]
+- [[Nucleoside_Formation_Phosphorylation_Pathways_Z-001-1086]]
+- [[Purine_Salvage_Pathway_Recycling_Mechanism_Z-001-1087]]
+- [[Ribose_Pentose_Backbone_RNA_ATP_Z-001-1085]]
 
 ## Core Claim
 **Adenine is a purine nucleobase that serves dual essential roles: pairing with thymine/uracil in DNA/RNA for genetic information storage, and forming adenosine triphosphate (ATP) for cellular energy currency** — its two-ring structure enables both base-pairing specificity and high-energy phosphate bonding.

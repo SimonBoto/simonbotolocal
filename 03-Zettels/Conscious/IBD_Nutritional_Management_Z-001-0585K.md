@@ -18,8 +18,28 @@ status: conscious
 ---
 
 # IBD Nutritional Management
+## Source
+
+[[Inflammatory_Bowel_Disease_-_Crohn-s_vs_Ulcerati_L-001-0585_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > **Source:** ChatGPT conversation [[CGPT_0209_Gastroenterology_Registrar_Assessment_CGPT-0209]] (November 18, 2025)
+
+## Source
+
+[[Inflammatory_Bowel_Disease_-_Crohn-s_vs_Ulcerati_L-001-0585_v4.0]]
 
 ## Core Claim
 Nutritional management in IBD must account for the distinct metabolic demands and complications of Crohn's disease (malabsorption, vitamin B12 deficiency, small bowel involvement) versus ulcerative colitis (iron deficiency, protein loss, colonic inflammation), with specific dietary approaches for each condition.

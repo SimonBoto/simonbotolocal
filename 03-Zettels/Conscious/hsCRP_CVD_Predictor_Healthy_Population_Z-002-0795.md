@@ -15,6 +15,18 @@ related: []
 ---
 
 # hsCRP Predicts CVD Risk in Healthy Population
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **High-sensitivity CRP (hsCRP) predicts heart attack and cardiovascular events even in apparently healthy individuals without known CVD**, making it a valuable early warning biomarker for subclinical atherosclerosis and inflammation-driven risk.
@@ -49,6 +61,11 @@ Traditional risk factors (cholesterol, BP, smoking) miss **inflammation-driven r
 ## Significance
 
 **High-sensitivity CRP (hsCRP) predicts heart attack and cardiovascular events even in apparently healthy individuals without known CVD**, making it a valuable early warning biomarker for subclinical atherosclerosis and inflammation-driven risk.
+
+## Related Zettels from Same Source
+
+- [[Chronic_Inflammation_Root_Causes_Z-002-0796]]
+- [[Resolving_Inflammation_CVD_Prevention_Z-002-0797]]
 
 ## Source
 - **LitNote:** [[L-002-0219_Inflammation_CVD_Risk]]

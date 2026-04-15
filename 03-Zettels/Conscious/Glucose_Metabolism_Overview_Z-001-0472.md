@@ -25,6 +25,54 @@ extraction-date: 2026-03-04
 ---
 
 # Glucose Metabolism Overview
+## Related Zettels from Same Source
+
+- [[Aldose_vs_Ketose_Chemistry_Z-001-0471]]
+- [[Common_Aldoses_Roles_Z-001-0474]]
+- [[Common_Ketoses_Roles_Z-001-0475]]
+- [[Fructose_Metabolism_Lipogenesis_Z-001-0473]]
+
+## Source
+
+[[L-001-0045E_Glucose_Fructose_Aldoses_Ketoses_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Aldose_vs_Ketose_Chemistry_Z-001-0471]]
+- [[Common_Aldoses_Roles_Z-001-0474]]
+- [[Common_Ketoses_Roles_Z-001-0475]]
+- [[Fructose_Metabolism_Lipogenesis_Z-001-0473]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Aldose_vs_Ketose_Chemistry_Z-001-0471]]
+- [[Common_Aldoses_Roles_Z-001-0474]]
+- [[Common_Ketoses_Roles_Z-001-0475]]
+- [[Fructose_Metabolism_Lipogenesis_Z-001-0473]]
+
+## Source
+
+[[L-001-0045E_Glucose_Fructose_Aldoses_Ketoses_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Aldose_vs_Ketose_Chemistry_Z-001-0471]]
+- [[Common_Aldoses_Roles_Z-001-0474]]
+- [[Common_Ketoses_Roles_Z-001-0475]]
+- [[Fructose_Metabolism_Lipogenesis_Z-001-0473]]
 
 ## Core Claim
 **Glucose is the primary energy source for most organisms, with blood levels tightly regulated (70-100 mg/dL fasting) — cellular uptake occurs via GLUT transporters (insulin-dependent GLUT4 in muscle/adipose, insulin-independent GLUT1/3 in brain/RBCs), and glucose is metabolized via glycolysis, glycogen synthesis, or the pentose phosphate pathway** — the brain consumes ~120g glucose daily and has no glycogen stores, making glucose availability critical.

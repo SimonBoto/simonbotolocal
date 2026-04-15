@@ -12,6 +12,18 @@ extraction-date: 2026-04-15
 ---
 
 # 🔒 03-Zettels/Subconscious — Permanent Notes
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **Purpose:** Ground truth. Zettels that have passed review and are now immutable. **Never modify — only link to.**
 

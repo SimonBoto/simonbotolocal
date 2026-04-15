@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 # Bone Remodeling Cycle Five Phases
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Bone remodeling is a 5-phase cycle: (1) Activation — osteoclast precursors recruited, (2) Resorption — osteoclasts dissolve bone, (3) Reversal — mononuclear cells prepare surface, (4) Formation — osteoblasts deposit osteoid, (5) Resting — quiescent phase. Duration: 3-6 months.
 

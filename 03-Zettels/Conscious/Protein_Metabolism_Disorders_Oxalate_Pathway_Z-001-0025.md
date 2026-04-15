@@ -12,6 +12,26 @@ source-litnote: Synthesized from clinical practice
 ---
 
 # Protein  Disorders & Oxalate Pathway
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Claim
 **Oxalate metabolism demonstrates the metabolite pathway analysis approach** — substrate accumulation, alternative pathway activation, and urinary excretion patterns applicable to adipic acid and other urine organic acid (OA) markers.

@@ -13,6 +13,18 @@ created: 2026-02-24
 ---
 
 # Beta-Cell Exhaustion Stage
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Chronic hyperemia leads to beta-cell burnout through amylin deposition, oxidative stress, ER stress, and eventual apoptosis. Beta-cells can no longer compensate for .
 

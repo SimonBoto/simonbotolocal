@@ -19,10 +19,30 @@ extraction-date: 2026-04-15
 ---
 
 # Folate — 5-MTHF vs Folic Acid
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **Not all folate is equal.** 5-Methyltetrahydrofolate (5-MTHF) is the active form used in methylation. Folic acid is synthetic and requires conversion. **MTHFR variants impair this conversion**, making 5-MTHF essential for many patients.
 
 ---
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Principle
 

@@ -12,6 +12,46 @@ status: conscious
 ---
 
 # DHA  Pathways
+## Related Zettels from Same Source
+
+- [[Ascorbate_Oxalate_Measurement_Interference_Z-101-0470]]
+- [[Vitamin_C_to_Oxalate_Chemistry_Z-101-0469]]
+
+## Source
+
+[[LitNote_CGPT_0505_Vitamin_C_Oxalate_L-101-0047.md]
+
+## Related Zettels from Same Source
+
+- [[Ascorbate_Oxalate_Measurement_Interference_Z-101-0470]]
+- [[Vitamin_C_to_Oxalate_Chemistry_Z-101-0469]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Ascorbate_Oxalate_Measurement_Interference_Z-101-0470]]
+- [[Vitamin_C_to_Oxalate_Chemistry_Z-101-0469]]
+
+## Source
+
+[[LitNote_CGPT_0505_Vitamin_C_Oxalate_L-101-0047.md]
+
+## Related Zettels from Same Source
+
+- [[Ascorbate_Oxalate_Measurement_Interference_Z-101-0470]]
+- [[Vitamin_C_to_Oxalate_Chemistry_Z-101-0469]]
 
 ## Overview
 Dehydroascorbic acid (DHA) is the oxidized form of vitamin C (ascorbic acid). It serves as a metabolic hub with multiple possible fates.

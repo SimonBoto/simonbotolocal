@@ -13,6 +13,58 @@ extraction-date: 2026-03-08
 ---
 
 # Phase 3 Lipidomics Interpretation
+## Related Zettels from Same Source
+
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]]
+- [[Phase_1_Biochemical_Literacy_Foundation_Z-001-1036]]
+- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]]
+- [[Phase_4_Clinical_Integration_Drills_Z-001-1039]]
+- [[Training_Teaching_Style_Framework_Z-001-1040]]
+
+## Source
+
+[[L-001-0589_8_Week_Metabolomics_Bootcamp_Curriculum_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]]
+- [[Phase_1_Biochemical_Literacy_Foundation_Z-001-1036]]
+- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]]
+- [[Phase_4_Clinical_Integration_Drills_Z-001-1039]]
+- [[Training_Teaching_Style_Framework_Z-001-1040]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]]
+- [[Phase_1_Biochemical_Literacy_Foundation_Z-001-1036]]
+- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]]
+- [[Phase_4_Clinical_Integration_Drills_Z-001-1039]]
+- [[Training_Teaching_Style_Framework_Z-001-1040]]
+
+## Source
+
+[[L-001-0589_8_Week_Metabolomics_Bootcamp_Curriculum_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]]
+- [[Phase_1_Biochemical_Literacy_Foundation_Z-001-1036]]
+- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]]
+- [[Phase_4_Clinical_Integration_Drills_Z-001-1039]]
+- [[Training_Teaching_Style_Framework_Z-001-1040]]
 
 ## Core Claim
 **Weeks 5-6 teach ratio-based fatty acid interpretation and lipid signaling — understanding that ratios matter more than absolutes, and that seed oil consumption represents a clinical insult with measurable biochemical consequences.**

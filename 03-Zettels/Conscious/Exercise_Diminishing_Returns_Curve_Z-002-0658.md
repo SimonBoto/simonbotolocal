@@ -15,6 +15,18 @@ related: []
 ---
 
 # Exercise Benefits Follow Diminishing Returns Curve
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 The relationship between exercise volume and mortality reduction follows a **diminishing returns curve**, where the first 15-30 minutes of weekly vigorous activity provides the greatest marginal benefit, with additional exercise continuing to help but at progressively gentler rates.
@@ -98,6 +110,11 @@ The relationship between exercise volume and mortality reduction follows a **dim
 | "150 min/week" requirement | ~20% |
 | "15 min/week" minimum | ~60% |
 | "Any activity helps" | ~80% |
+
+## Related Zettels from Same Source
+
+- [[Minimal_Exercise_15-20min_Mortality_Reduction_Z-002-0657]]
+- [[Vigorous_Activity_More_Efficient_Than_Moderate_Z-002-0659]]
 
 ## Source
 - **LitNote:** [[L-002-0174_Minimal_Exercise_Mortality_Reduction]]

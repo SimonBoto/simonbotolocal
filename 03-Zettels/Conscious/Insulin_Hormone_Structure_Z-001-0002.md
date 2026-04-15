@@ -15,6 +15,22 @@ created: 2026-02-22
 ---
 
 #  Hormone Structure
+## Source
+
+[[High_Glucose_vs_High_Insulin-_Insulin_Matters_More_L-002-0221_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Insulin is a 51-amino acid peptide hormone secreted by pancreatic β-cells in response to elevated blood glucose.
 
@@ -30,6 +46,10 @@ Insulin is a 51-amino acid peptide hormone secreted by pancreatic β-cells in re
 - Secreted as mature insulin + C-peptide (1:1 molar ratio)
 
 ** relevance:** C-peptide levels measure endogenous insulin secretion.
+
+## Source
+
+[[High_Glucose_vs_High_Insulin-_Insulin_Matters_More_L-002-0221_v4.0]]
 
 ## Core Principle
 

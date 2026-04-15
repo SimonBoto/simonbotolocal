@@ -21,6 +21,26 @@ status: conscious
 ---
 
 # K2 Vascular Calcification Protection
+## Source
+
+D-K2_Co-Supplementation_Clinical_Evidence_-Studies_L-001-0214_v4.0
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+D-K2_Co-Supplementation_Clinical_Evidence_-Studies_L-001-0214_v4.0
 
 ## Core Thesis
 Vitamin K2, particularly menaquinone-7 (MK-7), protects against vascular calcification by activating matrix Gla protein (MGP), a potent inhibitor of soft tissue calcification, with clinical evidence demonstrating slowed progression of coronary artery calcification and improved arterial elasticity.

@@ -12,6 +12,18 @@ extraction-date: 2026-04-15
 ---
 
 # Limitation Statement Best Practices in Scientific Writing
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Principle
 **Honest limitation statements strengthen credibility; hidden or minimized limitations destroy trust and lead to irreproducible science.**

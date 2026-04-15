@@ -14,6 +14,18 @@ related: []
 ---
 
 # Vigorous Exercise More Effective Than Moderate
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Vigorous exercise provides greater mortality reduction per minute** than moderate exercise — intensity matters more than duration for health outcomes.

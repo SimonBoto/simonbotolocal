@@ -14,6 +14,18 @@ related: []
 ---
 
 # Low Carb Superior to Low Fat for Metabolic Outcomes
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Low-carbohydrate diets produce **superior metabolic outcomes** compared to low-fat diets across multiple parameters including weight loss, glycemic control, and lipid profiles.

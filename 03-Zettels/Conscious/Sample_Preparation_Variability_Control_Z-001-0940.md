@@ -12,6 +12,18 @@ extraction-date: 2026-04-15
 ---
 
 # Sample Preparation Variability Control in 
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## The Problem
 > "Visual consistency doesn't necessarily confirm statistical significance or biological relevance"
@@ -128,6 +140,11 @@ Sample preparation introduces **greater variation than biological differences** 
 
 Sample preparation introduces **greater variation than biological differences** if not standardized. Pre-analytical variables often exceed disease-related metabolic changes.
 
+## Related Zettels from Same Source
+
+- [[Batch_Effects_Detection_Correction_Metabolomics_Z-001-0939]]
+- [[Instrument_Drift_QC_Monitoring_Requirements_Z-001-0941]]
+
 ## Source
 [[LitNote_Technical_Confounders_Metabolomics_L-001-0520]
 
@@ -136,6 +153,11 @@ Sample preparation introduces **greater variation than biological differences** 
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
 
+
+## Related Zettels from Same Source
+
+- [[Batch_Effects_Detection_Correction_Metabolomics_Z-001-0939]]
+- [[Instrument_Drift_QC_Monitoring_Requirements_Z-001-0941]]
 
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]

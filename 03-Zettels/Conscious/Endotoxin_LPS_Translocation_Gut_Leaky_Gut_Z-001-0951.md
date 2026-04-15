@@ -12,6 +12,18 @@ extraction-date: 2026-04-15
 ---
 
 # Endotoxin LPS Translocation — Gut Barrier Disruption by High Fat Diet
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## The Concept of Metabolic Endotoxemia
 

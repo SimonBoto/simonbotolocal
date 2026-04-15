@@ -15,6 +15,46 @@ related: []
 ---
 
 # Physical Activity Minimum Effective Dose — 1-2 Times Per Week
+## Related Zettels from Same Source
+
+- [[Movement_Fundamental_Human_Body_Function_Z-002-0877]]
+- [[Walking_8000_Steps_Mortality_Reduction_Z-002-0875]]
+
+## Source
+
+[[L-002-0245_Walking_Mortality_Reduction]]
+
+## Related Zettels from Same Source
+
+- [[Movement_Fundamental_Human_Body_Function_Z-002-0877]]
+- [[Walking_8000_Steps_Mortality_Reduction_Z-002-0875]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Movement_Fundamental_Human_Body_Function_Z-002-0877]]
+- [[Walking_8000_Steps_Mortality_Reduction_Z-002-0875]]
+
+## Source
+
+[[L-002-0245_Walking_Mortality_Reduction]]
+
+## Related Zettels from Same Source
+
+- [[Movement_Fundamental_Human_Body_Function_Z-002-0877]]
+- [[Walking_8000_Steps_Mortality_Reduction_Z-002-0875]]
 
 ## Core Claim
 **Even minimal physical activity frequency provides substantial health benefits** — 8,000 steps just 1-2 times per week achieves >50% mortality risk reduction.

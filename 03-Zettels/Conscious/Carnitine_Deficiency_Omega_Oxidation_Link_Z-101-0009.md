@@ -13,6 +13,54 @@ extraction-date: 2026-03-02
 ---
 
 # Carnitine Deficiency and Omega-Oxidation Link
+## Related Zettels from Same Source
+
+- [[Adipate_Metabolism_TCA_Entry_Z-101-0010]]
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]]
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]
+- [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014]]
+
+## Source
+
+[[L-101-0002_Adipic_Acid_Biochemistry_Omega_Oxidation_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Adipate_Metabolism_TCA_Entry_Z-101-0010]]
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]]
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]
+- [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Adipate_Metabolism_TCA_Entry_Z-101-0010]]
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]]
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]
+- [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014]]
+
+## Source
+
+[[L-101-0002_Adipic_Acid_Biochemistry_Omega_Oxidation_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Adipate_Metabolism_TCA_Entry_Z-101-0010]]
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]]
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]
+- [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014]]
 
 ## Core Claim
 **Carnitine deficiency prevents long-chain fatty acids from entering mitochondria via the carnitine shuttle (CPT1/CPT2), causing accumulation of acyl-CoAs in the cytoplasm that are diverted to ω-oxidation in the endoplasmic reticulum — resulting in dicarboxylic aciduria (elevated adipate, suberate) and hypoketotic hypoglycemia, with urinary adipate serving as a diagnostic marker for this transport defect.**

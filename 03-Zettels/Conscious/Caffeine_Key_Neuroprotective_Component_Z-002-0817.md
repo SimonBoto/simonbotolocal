@@ -15,6 +15,46 @@ related: []
 ---
 
 # Caffeine Is Key Neuroprotective Component — Decaf Shows No Benefit
+## Related Zettels from Same Source
+
+- [[Coffee_2-3_Cups_Dementia_Protection_Z-002-0816]]
+- [[Long_Term_Coffee_Consumption_Brain_Health_Z-002-0818]]
+
+## Source
+
+[[L-002-0226_Coffee_Dementia_Risk]]
+
+## Related Zettels from Same Source
+
+- [[Coffee_2-3_Cups_Dementia_Protection_Z-002-0816]]
+- [[Long_Term_Coffee_Consumption_Brain_Health_Z-002-0818]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Coffee_2-3_Cups_Dementia_Protection_Z-002-0816]]
+- [[Long_Term_Coffee_Consumption_Brain_Health_Z-002-0818]]
+
+## Source
+
+[[L-002-0226_Coffee_Dementia_Risk]]
+
+## Related Zettels from Same Source
+
+- [[Coffee_2-3_Cups_Dementia_Protection_Z-002-0816]]
+- [[Long_Term_Coffee_Consumption_Brain_Health_Z-002-0818]]
 
 ## Core Claim
 **Caffeine appears to be the key neuroprotective component in coffee and tea** — the study found protective effects only with caffeinated beverages, with decaffeinated coffee and tea showing no dementia risk reduction.

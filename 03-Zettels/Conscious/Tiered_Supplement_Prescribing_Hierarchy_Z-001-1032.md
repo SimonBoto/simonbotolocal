@@ -13,6 +13,54 @@ extraction-date: 2026-03-08
 ---
 
 # Tiered Supplement Prescribing Hierarchy
+## Related Zettels from Same Source
+
+- [[MCI_Three_Function_Architecture_Z-001-1030]]
+- [[Metabolomics_Chief_Instructor_Role_Definition_Z-001-1029]]
+- [[Six_Stage_Patient_Flow_Framework_Z-001-1031]]
+- [[Socratic_Method_Metabolomics_Training_Z-001-1033]]
+
+## Source
+
+[[L-001-0588_Metabolomics_Chief_Instructor_Framework_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[MCI_Three_Function_Architecture_Z-001-1030]]
+- [[Metabolomics_Chief_Instructor_Role_Definition_Z-001-1029]]
+- [[Six_Stage_Patient_Flow_Framework_Z-001-1031]]
+- [[Socratic_Method_Metabolomics_Training_Z-001-1033]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[MCI_Three_Function_Architecture_Z-001-1030]]
+- [[Metabolomics_Chief_Instructor_Role_Definition_Z-001-1029]]
+- [[Six_Stage_Patient_Flow_Framework_Z-001-1031]]
+- [[Socratic_Method_Metabolomics_Training_Z-001-1033]]
+
+## Source
+
+[[L-001-0588_Metabolomics_Chief_Instructor_Framework_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[MCI_Three_Function_Architecture_Z-001-1030]]
+- [[Metabolomics_Chief_Instructor_Role_Definition_Z-001-1029]]
+- [[Six_Stage_Patient_Flow_Framework_Z-001-1031]]
+- [[Socratic_Method_Metabolomics_Training_Z-001-1033]]
 
 ## Core Claim
 **Systematic supplement prescribing follows a six-tier hierarchy — Foundational → Targeted mitochondrial → Detox/methylation → Gut rebalancing → Lipid repair → Lifestyle — ensuring logical sequencing, avoiding patient overwhelm, and enabling clear attribution of benefits to specific interventions.**

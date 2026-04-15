@@ -15,6 +15,18 @@ related: []
 ---
 
 # Insulin Resistance 14x CAD Risk vs Cholesterol Alone
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Insulin resistance is associated with up to 14 times greater increase in coronary artery disease risk** compared to isolated cholesterol elevation — making it a far more significant cardiovascular risk factor than LDL alone.
@@ -55,6 +67,11 @@ related: []
 
 > "Insulin resistance has been associated with up to 14 times greater increase in risk for coronary artery disease compared to isolated cholesterol elevation."
 > — Metabolic cardiology research
+
+## Related Zettels from Same Source
+
+- [[Endothelial_Metabolism_Central_CVD_Protection_Z-002-0811]]
+- [[Silent_CVD_Progression_Metabolic_Disorders_Z-002-0812]]
 
 ## Source
 - **LitNote:** [[L-002-0224_Metabolism_Heart_Health]]

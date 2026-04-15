@@ -14,6 +14,26 @@ created: 2026-03-08
 ---
 
 # Clinical Metabolic Markers HOMA IR HbA1c
+## Source
+
+[[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]
 
 ## Overview
 Standard clinical metabolic markers provide validated, accessible measures of glucose  and insulin resistance—serving as both diagnostic tools and outcome measures in the METHAP trial.

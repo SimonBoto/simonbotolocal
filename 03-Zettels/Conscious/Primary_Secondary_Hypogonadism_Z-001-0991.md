@@ -12,6 +12,26 @@ status: conscious
 ---
 
 # Primary vs Secondary Hypogonadism — Laboratory Differentiation
+## Source
+
+[[LitNote_Male_Hormone_Assessment_Scenarios_L-001-0578]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Male_Hormone_Assessment_Scenarios_L-001-0578]
 
 ## Core Concept
 

@@ -13,6 +13,26 @@ extraction-date: 2026-03-02
 ---
 
 # Omega-Oxidation vs Ketogenesis Distinction
+## Source
+
+[[L-101-0002_Adipic_Acid_Biochemistry_Omega_Oxidation_CGPT-0586]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[L-101-0002_Adipic_Acid_Biochemistry_Omega_Oxidation_CGPT-0586]]
 
 ## Core Claim
 **Omega-oxidation and ketogenesis are distinct metabolic pathways activated under different conditions — with ω-oxidation producing dicarboxylic acids (adipate, suberate) when mitochondrial β-oxidation is impaired, while ketogenesis produces ketone bodies (β-hydroxybutyrate, acetoacetate) when β-oxidation is functional but glucose is scarce — and the presence of dicarboxylic acids without ketones indicates pathological β-oxidation impairment rather than physiological fasting adaptation.**

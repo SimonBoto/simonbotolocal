@@ -12,6 +12,26 @@ source-litnote: Synthesized from clinical practice
 ---
 
 # Dysbiosis Detection via Metabolomics
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Claim
 **Dysbiosis** (gut microbiome imbalance) is detectable as a distinct metabolic phenotype through **microbial metabolite profiling**, representing a major factor in autoimmune and chronic disease manifestation.

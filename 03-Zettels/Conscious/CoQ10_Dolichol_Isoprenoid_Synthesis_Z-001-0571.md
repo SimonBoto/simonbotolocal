@@ -13,6 +13,54 @@ extraction-date: 2026-03-03
 ---
 
 # CoQ10 and Dolichol Isoprenoid Synthesis
+## Related Zettels from Same Source
+
+- [[Bile_Acid_Synthesis_Cholesterol_Z-001-0573]]
+- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]]
+- [[Isoprenoids_Terpenes_Overview_Z-001-0569]]
+- [[Vitamin_D_Secosteroid_Synthesis_Z-001-0572]]
+
+## Source
+
+[[L-001-0519_Isoprenoids_Cholesterol_Derivatives_CGPT-0391]]
+
+## Related Zettels from Same Source
+
+- [[Bile_Acid_Synthesis_Cholesterol_Z-001-0573]]
+- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]]
+- [[Isoprenoids_Terpenes_Overview_Z-001-0569]]
+- [[Vitamin_D_Secosteroid_Synthesis_Z-001-0572]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Bile_Acid_Synthesis_Cholesterol_Z-001-0573]]
+- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]]
+- [[Isoprenoids_Terpenes_Overview_Z-001-0569]]
+- [[Vitamin_D_Secosteroid_Synthesis_Z-001-0572]]
+
+## Source
+
+[[L-001-0519_Isoprenoids_Cholesterol_Derivatives_CGPT-0391]]
+
+## Related Zettels from Same Source
+
+- [[Bile_Acid_Synthesis_Cholesterol_Z-001-0573]]
+- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]]
+- [[Isoprenoids_Terpenes_Overview_Z-001-0569]]
+- [[Vitamin_D_Secosteroid_Synthesis_Z-001-0572]]
 
 ## Core Claim
 **CoQ10 (ubiquinone) and dolichol — both synthesized from isopentenyl pyrophosphate via the mevalonate pathway — serve critical cellular functions: CoQ10 as an essential electron carrier in mitochondrial oxidative phosphorylation and membrane antioxidant, while dolichol enables N-linked protein glycosylation in the endoplasmic reticulum, with statin-induced mevalonate inhibition depleting both and causing mitochondrial dysfunction and protein processing defects.**

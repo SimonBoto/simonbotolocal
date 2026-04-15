@@ -12,6 +12,26 @@ source-litnote: Synthesized from clinical practice
 ---
 
 # Micronutrients:  as Immunoregulatory Factor
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Claim
 **Vitamin D functions as an immunoregulatory micronutrient** alongside Vitamin E, zinc, omega-3 fatty acids, probiotics, and EGCG — modulating immune function through multiple metabolomic pathways.

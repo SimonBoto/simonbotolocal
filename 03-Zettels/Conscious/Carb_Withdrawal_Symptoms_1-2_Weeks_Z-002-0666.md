@@ -15,6 +15,18 @@ related: []
 ---
 
 # Carb Withdrawal Symptoms Last 1-2 Weeks
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Initiating a low-carbohydrate or ketogenic diet produces **temporary withdrawal symptoms** including fatigue, irritability, mood changes, and carbohydrate cravings that typically **peak in the first week and resolve within 1-2 weeks** as the body adapts to fat metabolism.
@@ -97,6 +109,11 @@ Days 7-14:
 
 > "Randomized clinical trial documents transient carbohydrate withdrawal syndrome with symptoms peaking days 3-7 and resolving by week 2; symptoms include decreased energy, impaired concentration, irritability, and intense carbohydrate cravings — distinct from true hypoglycemia."
 > — Harvey et al., 2019
+
+## Related Zettels from Same Source
+
+- [[Keto_Adaptation_Timeline_3-4_Weeks_Z-002-0667]]
+- [[Patient_Counseling_Carb_Restriction_Adherence_Z-002-0668]]
 
 ## Source
 - **LitNote:** [[L-002-0177_Carb_Withdrawal_Keto_Adaptation]]

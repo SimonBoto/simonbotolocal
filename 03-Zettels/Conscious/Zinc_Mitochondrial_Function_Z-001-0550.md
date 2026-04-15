@@ -12,6 +12,18 @@ extraction-date: 2026-03-01
 ---
 
 # Zinc Mitochondrial Function
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Zinc serves essential structural and catalytic roles in mitochondria, particularly as a stabilizer of manganese superoxide dismutase (MnSOD/SOD2) and as a cofactor for multiple enzymes, while maintaining mitochondrial membrane integrity through cardiolipin stabilization and preventing permeability transition pore opening.
@@ -118,6 +130,12 @@ Zinc serves essential structural and catalytic roles in mitochondria, particular
 - [[Selenium_Mitochondrial_Antioxidant_Z-001-0551]] — Selenium antioxidant function
 - [[Zn_Se_Synergistic_OXPHOS_Protection_Z-001-0552]] — Combined protection
 - [[Zn_Se_Nutritional_Sources_Supplementation_Z-001-0553]] — Sources and dosing
+
+## Related Zettels from Same Source
+
+- [[Selenium_Mitochondrial_Antioxidant_Z-001-0551]]
+- [[Zn_Se_Nutritional_Sources_Supplementation_Z-001-0553]]
+- [[Zn_Se_Synergistic_OXPHOS_Protection_Z-001-0552]]
 
 ## Source
 [[Zinc_and_Selenium_as_Mitochondrial_Cofactors_L-001-0510_CGPT-0393]]

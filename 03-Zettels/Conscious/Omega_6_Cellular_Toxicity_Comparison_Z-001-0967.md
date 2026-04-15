@@ -14,6 +14,26 @@ status: conscious
 parent-index: [[03-Zettels-Conscious]]
 
 # Omega-6 Cellular Toxicity Mechanisms — Comparison to Known Toxins
+## Source
+
+[[LitNote_Seed_Oils_Environmental_Toxins_L-001-0526]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Seed_Oils_Environmental_Toxins_L-001-0526]
 
 ## Core Concept
 

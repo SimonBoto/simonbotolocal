@@ -14,6 +14,46 @@ created: 2026-03-08
 ---
 
 # HBOT Clinical Applications Safety Considerations
+## Related Zettels from Same Source
+
+- [[HBOT_Mechanisms_Cancer_Oxygenation_ROS_Z-001-1138]]
+- [[HBOT_Radiosensitization_Chemotherapy_Enhancement_Z-001-1139]]
+
+## Source
+
+[[LitNote_HBOT_Cancer_L-001-0614]
+
+## Related Zettels from Same Source
+
+- [[HBOT_Mechanisms_Cancer_Oxygenation_ROS_Z-001-1138]]
+- [[HBOT_Radiosensitization_Chemotherapy_Enhancement_Z-001-1139]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[HBOT_Mechanisms_Cancer_Oxygenation_ROS_Z-001-1138]]
+- [[HBOT_Radiosensitization_Chemotherapy_Enhancement_Z-001-1139]]
+
+## Source
+
+[[LitNote_HBOT_Cancer_L-001-0614]
+
+## Related Zettels from Same Source
+
+- [[HBOT_Mechanisms_Cancer_Oxygenation_ROS_Z-001-1138]]
+- [[HBOT_Radiosensitization_Chemotherapy_Enhancement_Z-001-1139]]
 
 ## Overview
 Hyperbaric oxygen therapy has established indications for radiation-related complications and emerging applications in  therapy, with a generally favorable safety profile when properly administered.

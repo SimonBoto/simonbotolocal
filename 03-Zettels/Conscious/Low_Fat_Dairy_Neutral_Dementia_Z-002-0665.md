@@ -15,6 +15,18 @@ related: []
 ---
 
 # Low-Fat Dairy Shows Neutral Effect on Dementia
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Low-fat dairy consumption shows no significant association with dementia risk** — neither protective nor harmful — suggesting that the potential cognitive benefits of dairy are specifically associated with the **fat component or fat-soluble factors** removed in low-fat processing.
@@ -99,6 +111,11 @@ Low-fat milk
 
 > "Direct comparison in 25-year cohort shows high-fat dairy protective, low-fat dairy neutral, implying fat-soluble nutrients (vitamins K2, D, A, E), bioactive lipids, or fermentation compounds in full-fat products may drive the protective association."
 > — Du et al., 2026
+
+## Related Zettels from Same Source
+
+- [[High_Fat_Cheese_Lower_Dementia_Risk_Z-002-0663]]
+- [[Saturated_Fat_Dairy_Not_Harmful_Brain_Z-002-0664]]
 
 ## Source
 - **LitNote:** [[L-002-0176_High_Fat_Cheese_Dementia_Protection]]

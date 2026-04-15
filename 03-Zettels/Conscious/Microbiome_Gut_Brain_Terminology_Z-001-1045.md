@@ -13,6 +13,62 @@ extraction-date: 2026-03-08
 ---
 
 # Microbiome Gut Brain Terminology
+## Related Zettels from Same Source
+
+- [[Health_Philosophy_Core_Concepts_Z-001-1041]]
+- [[Hormonal_Metabolic_Regulation_Terms_Z-001-1044]]
+- [[Metabolism_Metabolomics_Terminology_Z-001-1042]]
+- [[Mitochondrial_Energy_Terminology_Z-001-1043]]
+- [[Nutrition_Macronutrient_Terminology_Z-001-1046]]
+- [[Patient_Communication_Core_Concepts_Z-001-1047]]
+
+## Source
+
+[[L-001-0590_Core_Clinical_Vocabulary_66_Terms_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Health_Philosophy_Core_Concepts_Z-001-1041]]
+- [[Hormonal_Metabolic_Regulation_Terms_Z-001-1044]]
+- [[Metabolism_Metabolomics_Terminology_Z-001-1042]]
+- [[Mitochondrial_Energy_Terminology_Z-001-1043]]
+- [[Nutrition_Macronutrient_Terminology_Z-001-1046]]
+- [[Patient_Communication_Core_Concepts_Z-001-1047]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Health_Philosophy_Core_Concepts_Z-001-1041]]
+- [[Hormonal_Metabolic_Regulation_Terms_Z-001-1044]]
+- [[Metabolism_Metabolomics_Terminology_Z-001-1042]]
+- [[Mitochondrial_Energy_Terminology_Z-001-1043]]
+- [[Nutrition_Macronutrient_Terminology_Z-001-1046]]
+- [[Patient_Communication_Core_Concepts_Z-001-1047]]
+
+## Source
+
+[[L-001-0590_Core_Clinical_Vocabulary_66_Terms_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Health_Philosophy_Core_Concepts_Z-001-1041]]
+- [[Hormonal_Metabolic_Regulation_Terms_Z-001-1044]]
+- [[Metabolism_Metabolomics_Terminology_Z-001-1042]]
+- [[Mitochondrial_Energy_Terminology_Z-001-1043]]
+- [[Nutrition_Macronutrient_Terminology_Z-001-1046]]
+- [[Patient_Communication_Core_Concepts_Z-001-1047]]
 
 ## Core Claim
 **Eight gut-related terms — Microbiome, Dysbiosis, Leaky Gut, SIBO, and Neurotransmitters — describe the gut ecosystem and its bidirectional communication with the brain, where intestinal dysbiosis can drive systemic inflammation, metabolic dysfunction, and neuropsychiatric symptoms.**

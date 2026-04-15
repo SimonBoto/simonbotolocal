@@ -15,6 +15,18 @@ related: []
 ---
 
 # Insulin Resistance and Autoimmune Thyroid Disease
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Insulin resistance** is a key driver of autoimmune activity in Hashimoto's thyroiditis; reducing insulin resistance through carbohydrate restriction modulates immune dysregulation and reduces thyroid autoimmunity.
@@ -80,6 +92,11 @@ High carbohydrate intake → Elevated insulin → Insulin resistance
 | HOMA-IR | <2.0 | Insulin sensitivity index |
 | hs-CRP | <1.0 mg/L | Inflammation marker |
 | TPOAb/TgAb | Declining trend | Autoimmune activity |
+
+## Related Zettels from Same Source
+
+- [[Dietary_Intervention_First_Line_Hashimotos_Z-002-0646]]
+- [[Low_Carb_Reduces_Thyroid_Autoantibodies_Z-002-0644]]
 
 ## Source
 - **LitNote:** [[L-002-0170_Hashimoto_Low_Carb_Autoantibodies]]

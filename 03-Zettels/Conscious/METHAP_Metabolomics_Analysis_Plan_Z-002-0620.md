@@ -14,8 +14,56 @@ created: 2026-03-27
 ---
 
 # METHAP  Analysis Plan
+## Related Zettels from Same Source
+
+- [[METHAP_Inclusion_Exclusion_Criteria_Z-002-0618]]
+- [[METHAP_Intervention_Protocol_Z-002-0619]]
+- [[METHAP_Participant_Selection_Sample_Size_Z-002-0617]]
+- [[METHAP_Study_Design_Overview_Z-002-0616]]
+
+## Source
+
+[[Machine_Learning_in_Metabolomics_METHAP_L-001-0618_v4.0]]
+
+## Related Zettels from Same Source
+
+- [[METHAP_Inclusion_Exclusion_Criteria_Z-002-0618]]
+- [[METHAP_Intervention_Protocol_Z-002-0619]]
+- [[METHAP_Participant_Selection_Sample_Size_Z-002-0617]]
+- [[METHAP_Study_Design_Overview_Z-002-0616]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Gas chromatography-mass spectrometry (GC-MS) for comprehensive metabolic profiling of urine organic acids and plasma free fatty acids.
+
+## Related Zettels from Same Source
+
+- [[METHAP_Inclusion_Exclusion_Criteria_Z-002-0618]]
+- [[METHAP_Intervention_Protocol_Z-002-0619]]
+- [[METHAP_Participant_Selection_Sample_Size_Z-002-0617]]
+- [[METHAP_Study_Design_Overview_Z-002-0616]]
+
+## Source
+
+[[Machine_Learning_in_Metabolomics_METHAP_L-001-0618_v4.0]]
+
+## Related Zettels from Same Source
+
+- [[METHAP_Inclusion_Exclusion_Criteria_Z-002-0618]]
+- [[METHAP_Intervention_Protocol_Z-002-0619]]
+- [[METHAP_Participant_Selection_Sample_Size_Z-002-0617]]
+- [[METHAP_Study_Design_Overview_Z-002-0616]]
 
 ## Core Principle
 

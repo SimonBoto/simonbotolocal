@@ -13,6 +13,18 @@ created: 2026-02-24
 ---
 
 # Inflammatory Signaling in  Resistance
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and free fatty acids), triggering NF-κB nuclear translocation and NLRP3 inflammasome activation.
 

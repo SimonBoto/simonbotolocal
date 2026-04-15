@@ -13,8 +13,56 @@ source-litnote: Synthesized from clinical practice
 ---
 
 # Sirolimus Alters Adipose Tissue Causing Lipotoxicity and Insulin Resistance
+## Related Zettels from Same Source
+
+- [[mTORC2_Akt_Insulin_Signaling_Z-001-0925]]
+- [[NODAT_Risk_Factors_Management_Z-001-0927]]
+- [[Sirolimus_Beta_Cell_Dysfunction_NODAT_Z-001-0924]]
+- [[Sirolimus_GLUT4_Insulin_Resistance_Z-001-0923]]
+
+## Source
+
+Synthesized from clinical practice
+
+## Related Zettels from Same Source
+
+- [[mTORC2_Akt_Insulin_Signaling_Z-001-0925]]
+- [[NODAT_Risk_Factors_Management_Z-001-0927]]
+- [[Sirolimus_Beta_Cell_Dysfunction_NODAT_Z-001-0924]]
+- [[Sirolimus_GLUT4_Insulin_Resistance_Z-001-0923]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **Core Mechanism:** Sirolimus impairs adipogenesis and reduces adiponectin while increasing lipolysis, creating systemic lipotoxicity that worsens insulin resistance.
+
+## Related Zettels from Same Source
+
+- [[mTORC2_Akt_Insulin_Signaling_Z-001-0925]]
+- [[NODAT_Risk_Factors_Management_Z-001-0927]]
+- [[Sirolimus_Beta_Cell_Dysfunction_NODAT_Z-001-0924]]
+- [[Sirolimus_GLUT4_Insulin_Resistance_Z-001-0923]]
+
+## Source
+
+Synthesized from clinical practice
+
+## Related Zettels from Same Source
+
+- [[mTORC2_Akt_Insulin_Signaling_Z-001-0925]]
+- [[NODAT_Risk_Factors_Management_Z-001-0927]]
+- [[Sirolimus_Beta_Cell_Dysfunction_NODAT_Z-001-0924]]
+- [[Sirolimus_GLUT4_Insulin_Resistance_Z-001-0923]]
 
 ## Core Principle
 

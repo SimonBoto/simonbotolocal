@@ -24,6 +24,54 @@ extraction-date: 2026-03-08
 ---
 
 # Glycogenic vs Ketogenic Amino Acid Classification
+## Related Zettels from Same Source
+
+- [[Alpha_Keto_Acids_Transamination_Intermediates_Z-001-1099]]
+- [[Amino_Acid_Krebs_Entry_Points_Map_Z-001-1098]]
+- [[Glucogenic_Amino_Acids_Gluconeogenesis_Support_Z-001-1101]]
+- [[Transamination_B6_Cofactors_Amino_Acid_Metabolism_Z-001-1100]]
+
+## Source
+
+[[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]]
+
+## Related Zettels from Same Source
+
+- [[Alpha_Keto_Acids_Transamination_Intermediates_Z-001-1099]]
+- [[Amino_Acid_Krebs_Entry_Points_Map_Z-001-1098]]
+- [[Glucogenic_Amino_Acids_Gluconeogenesis_Support_Z-001-1101]]
+- [[Transamination_B6_Cofactors_Amino_Acid_Metabolism_Z-001-1100]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Alpha_Keto_Acids_Transamination_Intermediates_Z-001-1099]]
+- [[Amino_Acid_Krebs_Entry_Points_Map_Z-001-1098]]
+- [[Glucogenic_Amino_Acids_Gluconeogenesis_Support_Z-001-1101]]
+- [[Transamination_B6_Cofactors_Amino_Acid_Metabolism_Z-001-1100]]
+
+## Source
+
+[[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]]
+
+## Related Zettels from Same Source
+
+- [[Alpha_Keto_Acids_Transamination_Intermediates_Z-001-1099]]
+- [[Amino_Acid_Krebs_Entry_Points_Map_Z-001-1098]]
+- [[Glucogenic_Amino_Acids_Gluconeogenesis_Support_Z-001-1101]]
+- [[Transamination_B6_Cofactors_Amino_Acid_Metabolism_Z-001-1100]]
 
 ## Core Claim
 **Amino acids are classified by metabolic fate: 18 are glycogenic (convert to glucose), 2 are purely ketogenic (leucine, lysine → ketones), and 4 are both** — this classification determines whether dietary protein can support glucose production or contributes to ketogenesis.

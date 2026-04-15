@@ -12,6 +12,18 @@ extraction-date: 2026-04-15
 ---
 
 # Teriparatide — PTH 1-34 Intermittent Anabolic Therapy
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Principle
 Recombinant human parathyroid hormone (1-34 fragment) given as **daily subcutaneous pulses** stimulates osteoblasts and builds new bone.
@@ -123,6 +135,15 @@ Recombinant human parathyroid hormone (1-34 fragment) given as **daily subcutane
 - [[Sequential_Therapy_Anabolic_to_Antiresorptive_Strategy_Z-001-0108]] — Post-anabolic plan
 - [[Bone_Balance_Equation_Resorption_Formation_Coupling_Z-001-0104]] — Mechanism context
 
+## Related Zettels from Same Source
+
+- [[Abaloparatide_PTHrP_Analog_Anabolic_Agent_Z-001-0106]]
+- [[Bone_Balance_Equation_Resorption_Formation_Coupling_Z-001-0104]]
+- [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]]
+- [[Resting_Phase_Bone_Remodeling_Quiescence_Z-001-0103]]
+- [[Romosozumab_Anti_Sclerostin_Dual_Action_Therapy_Z-001-0107]]
+- [[Sequential_Therapy_Anabolic_to_Antiresorptive_Strategy_Z-001-0108]]
+
 ## Source
 [[LitNote_Anabolic_Bone_Therapies_L-001-0016]
 
@@ -131,6 +152,15 @@ Recombinant human parathyroid hormone (1-34 fragment) given as **daily subcutane
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
 
+
+## Related Zettels from Same Source
+
+- [[Abaloparatide_PTHrP_Analog_Anabolic_Agent_Z-001-0106]]
+- [[Bone_Balance_Equation_Resorption_Formation_Coupling_Z-001-0104]]
+- [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]]
+- [[Resting_Phase_Bone_Remodeling_Quiescence_Z-001-0103]]
+- [[Romosozumab_Anti_Sclerostin_Dual_Action_Therapy_Z-001-0107]]
+- [[Sequential_Therapy_Anabolic_to_Antiresorptive_Strategy_Z-001-0108]]
 
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]

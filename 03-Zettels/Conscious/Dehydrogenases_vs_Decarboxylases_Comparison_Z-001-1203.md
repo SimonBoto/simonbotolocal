@@ -13,6 +13,50 @@ extraction-date: 2026-03-08
 ---
 
 # Dehydrogenases vs Decarboxylases Comparison
+## Related Zettels from Same Source
+
+- [[B_Vitamin_Cofactors_Summary_Z-001-1202]]
+- [[PLP_Vitamin_B6_Pyridoxal_Phosphate_Z-001-1201]]
+- [[TPP_Thiamine_Pyrophosphate_Mechanism_Z-001-1200]]
+
+## Source
+
+[[L-001-0630_Decarboxylation_Enzymes_Vitamin_Cofactors_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[B_Vitamin_Cofactors_Summary_Z-001-1202]]
+- [[PLP_Vitamin_B6_Pyridoxal_Phosphate_Z-001-1201]]
+- [[TPP_Thiamine_Pyrophosphate_Mechanism_Z-001-1200]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[B_Vitamin_Cofactors_Summary_Z-001-1202]]
+- [[PLP_Vitamin_B6_Pyridoxal_Phosphate_Z-001-1201]]
+- [[TPP_Thiamine_Pyrophosphate_Mechanism_Z-001-1200]]
+
+## Source
+
+[[L-001-0630_Decarboxylation_Enzymes_Vitamin_Cofactors_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[B_Vitamin_Cofactors_Summary_Z-001-1202]]
+- [[PLP_Vitamin_B6_Pyridoxal_Phosphate_Z-001-1201]]
+- [[TPP_Thiamine_Pyrophosphate_Mechanism_Z-001-1200]]
 
 ## Core Claim
 **Dehydrogenases catalyze oxidation-reduction reactions by transferring hydride ions to cofactors (NAD+, FAD), while decarboxylases remove carboxyl groups as CO2 — with many enzymes combining both activities (oxidative decarboxylation) to extract maximum energy from substrates, particularly in the Krebs cycle where isocitrate dehydrogenase and α-ketoglutarate dehydrogenase exemplify this dual functionality.**

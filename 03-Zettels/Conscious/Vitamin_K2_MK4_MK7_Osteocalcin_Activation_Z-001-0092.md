@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 #  MK4 MK7 Osteocalcin Activation
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Vitamin K2 (MK-4 and MK-7 isoforms) activates osteocalcin via carboxylation. Carboxylated osteocalcin binds  ions more effectively, anchoring them in bone matrix. MK-4 has short half-life; MK-7 has longer half-life.
 

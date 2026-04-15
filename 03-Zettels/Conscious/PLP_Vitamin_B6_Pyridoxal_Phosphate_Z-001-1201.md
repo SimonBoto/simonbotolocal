@@ -13,6 +13,50 @@ extraction-date: 2026-03-08
 ---
 
 # PLP — Vitamin B6 Pyridoxal Phosphate Mechanism
+## Related Zettels from Same Source
+
+- [[B_Vitamin_Cofactors_Summary_Z-001-1202]]
+- [[Dehydrogenases_vs_Decarboxylases_Comparison_Z-001-1203]]
+- [[TPP_Thiamine_Pyrophosphate_Mechanism_Z-001-1200]]
+
+## Source
+
+[[L-001-0630_Decarboxylation_Enzymes_Vitamin_Cofactors_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[B_Vitamin_Cofactors_Summary_Z-001-1202]]
+- [[Dehydrogenases_vs_Decarboxylases_Comparison_Z-001-1203]]
+- [[TPP_Thiamine_Pyrophosphate_Mechanism_Z-001-1200]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[B_Vitamin_Cofactors_Summary_Z-001-1202]]
+- [[Dehydrogenases_vs_Decarboxylases_Comparison_Z-001-1203]]
+- [[TPP_Thiamine_Pyrophosphate_Mechanism_Z-001-1200]]
+
+## Source
+
+[[L-001-0630_Decarboxylation_Enzymes_Vitamin_Cofactors_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[B_Vitamin_Cofactors_Summary_Z-001-1202]]
+- [[Dehydrogenases_vs_Decarboxylases_Comparison_Z-001-1203]]
+- [[TPP_Thiamine_Pyrophosphate_Mechanism_Z-001-1200]]
 
 ## Core Claim
 **Pyridoxal phosphate (PLP), the active form of vitamin B6, serves as an essential cofactor for over 100 enzymes involved in amino acid metabolism — including transaminases (aminotransferases), decarboxylases, and racemases — through its aldehyde group forming Schiff base intermediates with amino groups, facilitating diverse reactions critical for neurotransmitter synthesis, heme production, and nitrogen metabolism.**

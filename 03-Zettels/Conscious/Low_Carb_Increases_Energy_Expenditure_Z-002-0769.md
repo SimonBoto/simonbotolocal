@@ -15,6 +15,18 @@ related: []
 ---
 
 # Low-Carbohydrate Diets Increase Energy Expenditure — Metabolic Advantage
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Low-carbohydrate diets increase total energy expenditure compared to higher-carbohydrate diets with identical calorie content** — the Framingham feeding study demonstrated a 278 kcal/day metabolic advantage for low-carb vs high-carb diets, suggesting that carbohydrate restriction enhances metabolic rate.
@@ -89,6 +101,11 @@ related: []
 | **Individual variation** | Not everyone responds equally |
 | **Duration** | Effect may attenuate over time |
 | **Study length** | 20 weeks; longer data needed |
+
+## Related Zettels from Same Source
+
+- [[Calories_Not_Equal_Metabolic_Effect_Z-002-0768]]
+- [[Thermic_Effect_Macronutrients_Differ_Z-002-0770]]
 
 ## Source
 - **LitNote:** [[L-002-0210_Not_All_Calories_Equal]]

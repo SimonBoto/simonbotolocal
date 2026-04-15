@@ -13,6 +13,54 @@ extraction-date: 2026-03-08
 ---
 
 # Omega Classification System Explained
+## Related Zettels from Same Source
+
+- [[Chain_Length_Metabolic_Fate_Fatty_Acids_Z-001-1213]]
+- [[Cis_vs_Trans_Fatty_Acids_Z-001-1212]]
+- [[Fatty_Acid_Nomenclature_Numbering_Z-001-1208]]
+- [[Saturated_vs_Unsaturated_Fats_Z-001-1210]]
+
+## Source
+
+[[L-001-0632_Fatty_Acid_Structure_Classification_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Chain_Length_Metabolic_Fate_Fatty_Acids_Z-001-1213]]
+- [[Cis_vs_Trans_Fatty_Acids_Z-001-1212]]
+- [[Fatty_Acid_Nomenclature_Numbering_Z-001-1208]]
+- [[Saturated_vs_Unsaturated_Fats_Z-001-1210]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Chain_Length_Metabolic_Fate_Fatty_Acids_Z-001-1213]]
+- [[Cis_vs_Trans_Fatty_Acids_Z-001-1212]]
+- [[Fatty_Acid_Nomenclature_Numbering_Z-001-1208]]
+- [[Saturated_vs_Unsaturated_Fats_Z-001-1210]]
+
+## Source
+
+[[L-001-0632_Fatty_Acid_Structure_Classification_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Chain_Length_Metabolic_Fate_Fatty_Acids_Z-001-1213]]
+- [[Cis_vs_Trans_Fatty_Acids_Z-001-1212]]
+- [[Fatty_Acid_Nomenclature_Numbering_Z-001-1208]]
+- [[Saturated_vs_Unsaturated_Fats_Z-001-1210]]
 
 ## Core Claim
 **The omega (ω) classification system categorizes polyunsaturated fatty acids based on the position of the first double bond from the methyl (omega) end — with omega-3 and omega-6 being essential fatty acids that humans cannot synthesize, serving as precursors to distinct eicosanoid families with opposing inflammatory properties, and the omega-6:omega-3 ratio being a critical determinant of inflammatory status and cardiovascular risk.**

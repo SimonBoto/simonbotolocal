@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 # Denosumab RANKL Antibody 
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Denosumab is a fully human monoclonal antibody that binds to RANKL, preventing it from activating RANK on osteoclasts. This reduces osteoclast differentiation, activity, and survival, thereby decreasing bone resorption and increasing BMD.
 

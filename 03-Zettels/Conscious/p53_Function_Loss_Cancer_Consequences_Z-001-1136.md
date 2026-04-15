@@ -14,6 +14,26 @@ created: 2026-03-08
 ---
 
 # p53 Function Loss  Consequences
+## Source
+
+[[LitNote_TP53_Multiple_Myeloma_L-001-0613]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_TP53_Multiple_Myeloma_L-001-0613]
 
 ## Overview
 The p53 protein, encoded by the TP53 gene, is the "guardian of the genome." Loss of p53 function removes critical checkpoints for DNA repair, cell cycle control, and apoptosis—enabling malignant transformation and therapeutic resistance.

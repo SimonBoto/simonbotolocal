@@ -13,6 +13,58 @@ extraction-date: 2026-03-08
 ---
 
 # Aconitase Oxidative Stress Sensitivity
+## Related Zettels from Same Source
+
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]]
+- [[Krebs_Cycle_Clinical_Biochemistry_Z-001-1048]]
+- [[Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050]]
+- [[Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051]]
+- [[TCA_Intermediates_Clinical_Significance_Z-001-1049]]
+
+## Source
+
+[[L-001-0591_Mitochondrial_Biochemistry_Clinicians_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]]
+- [[Krebs_Cycle_Clinical_Biochemistry_Z-001-1048]]
+- [[Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050]]
+- [[Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051]]
+- [[TCA_Intermediates_Clinical_Significance_Z-001-1049]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]]
+- [[Krebs_Cycle_Clinical_Biochemistry_Z-001-1048]]
+- [[Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050]]
+- [[Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051]]
+- [[TCA_Intermediates_Clinical_Significance_Z-001-1049]]
+
+## Source
+
+[[L-001-0591_Mitochondrial_Biochemistry_Clinicians_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]]
+- [[Krebs_Cycle_Clinical_Biochemistry_Z-001-1048]]
+- [[Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050]]
+- [[Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051]]
+- [[TCA_Intermediates_Clinical_Significance_Z-001-1049]]
 
 ## Core Claim
 **Aconitase — the iron-sulfur enzyme converting citrate to isocitrate in the Krebs cycle — serves as a sensitive indicator of mitochondrial oxidative stress due to its labile [4Fe-4S] cluster, with its inhibition causing citrate accumulation and serving as a marker of mitochondrial damage and ROS-mediated dysfunction.**

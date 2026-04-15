@@ -21,6 +21,18 @@ status: conscious
 ---
 
 # Carb Context Clinical Integration — Context-Specific Recommendations
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Clinical decisions about protein intake in CKD should be based on carbohydrate context, leading to different recommendations in different metabolic contexts.
 

@@ -16,6 +16,18 @@ created: 2026-02-22
 ---
 
 # Mitochondrial Dysfunction and  Resistance
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Mitochondrial dysfunction increases reactive oxygen species (ROS) and lipid intermediates, contributing to .
 

@@ -14,10 +14,66 @@ created: 2026-03-27
 ---
 
 # Informed Consent in Ethical 
+## Related Zettels from Same Source
+
+- [[Fair_Subject_Selection_Ethics_Z-002-0603]]
+- [[Independent_Review_IRB_Ethics_Z-002-0605]]
+- [[Respect_Enrolled_Subjects_Ethics_Z-002-0607]]
+- [[Risk_Benefit_Ratio_Ethical_Research_Z-002-0604]]
+- [[Scientific_Validity_Ethical_Requirement_Z-002-0602]]
+- [[Social_Clinical_Value_Ethical_Research_Z-002-0601]]
+
+## Source
+
+[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]
+
+## Related Zettels from Same Source
+
+- [[Fair_Subject_Selection_Ethics_Z-002-0603]]
+- [[Independent_Review_IRB_Ethics_Z-002-0605]]
+- [[Respect_Enrolled_Subjects_Ethics_Z-002-0607]]
+- [[Risk_Benefit_Ratio_Ethical_Research_Z-002-0604]]
+- [[Scientific_Validity_Ethical_Requirement_Z-002-0602]]
+- [[Social_Clinical_Value_Ethical_Research_Z-002-0601]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Participants must provide voluntary, informed consent after understanding risks, benefits, and alternatives. Consent is necessary but not sufficient for ethical research.
 
 **Core principle:** Respect for persons requires that individuals make autonomous decisions about participation based on adequate information and free from coercion.
+
+## Related Zettels from Same Source
+
+- [[Fair_Subject_Selection_Ethics_Z-002-0603]]
+- [[Independent_Review_IRB_Ethics_Z-002-0605]]
+- [[Respect_Enrolled_Subjects_Ethics_Z-002-0607]]
+- [[Risk_Benefit_Ratio_Ethical_Research_Z-002-0604]]
+- [[Scientific_Validity_Ethical_Requirement_Z-002-0602]]
+- [[Social_Clinical_Value_Ethical_Research_Z-002-0601]]
+
+## Source
+
+[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]
+
+## Related Zettels from Same Source
+
+- [[Fair_Subject_Selection_Ethics_Z-002-0603]]
+- [[Independent_Review_IRB_Ethics_Z-002-0605]]
+- [[Respect_Enrolled_Subjects_Ethics_Z-002-0607]]
+- [[Risk_Benefit_Ratio_Ethical_Research_Z-002-0604]]
+- [[Scientific_Validity_Ethical_Requirement_Z-002-0602]]
+- [[Social_Clinical_Value_Ethical_Research_Z-002-0601]]
 
 ## Core Principle
 

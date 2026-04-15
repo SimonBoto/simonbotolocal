@@ -13,6 +13,54 @@ extraction-date: 2026-03-08
 ---
 
 # Complete Adipate Metabolism — Formation to Krebs Entry
+## Related Zettels from Same Source
+
+- [[Adipate_Formation_Palmitate_to_Adipic_Acid_Pathway_Z-001-1191]]
+- [[Beta_Oxidation_Mitochondrial_Fatty_Acid_Breakdown_Z-001-1192]]
+- [[Carnitine_Shuttle_Fatty_Acid_Transport_System_Z-001-1194]]
+- [[Dicarboxylic_Acid_Energy_Yield_ATP_Z-001-1197]]
+
+## Source
+
+[[L-001-0629_Adipate_Metabolism_Dicarboxylic_Pathway_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Adipate_Formation_Palmitate_to_Adipic_Acid_Pathway_Z-001-1191]]
+- [[Beta_Oxidation_Mitochondrial_Fatty_Acid_Breakdown_Z-001-1192]]
+- [[Carnitine_Shuttle_Fatty_Acid_Transport_System_Z-001-1194]]
+- [[Dicarboxylic_Acid_Energy_Yield_ATP_Z-001-1197]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Adipate_Formation_Palmitate_to_Adipic_Acid_Pathway_Z-001-1191]]
+- [[Beta_Oxidation_Mitochondrial_Fatty_Acid_Breakdown_Z-001-1192]]
+- [[Carnitine_Shuttle_Fatty_Acid_Transport_System_Z-001-1194]]
+- [[Dicarboxylic_Acid_Energy_Yield_ATP_Z-001-1197]]
+
+## Source
+
+[[L-001-0629_Adipate_Metabolism_Dicarboxylic_Pathway_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Adipate_Formation_Palmitate_to_Adipic_Acid_Pathway_Z-001-1191]]
+- [[Beta_Oxidation_Mitochondrial_Fatty_Acid_Breakdown_Z-001-1192]]
+- [[Carnitine_Shuttle_Fatty_Acid_Transport_System_Z-001-1194]]
+- [[Dicarboxylic_Acid_Energy_Yield_ATP_Z-001-1197]]
 
 ## Core Claim
 **Adipate (C6 dicarboxylic acid) undergoes complete metabolism through two cycles of β-oxidation — first to glutaryl-CoA (C5) releasing acetyl-CoA, then to succinyl-CoA (C4) releasing a second acetyl-CoA — with succinyl-CoA directly entering the Krebs cycle, demonstrating that adipate is not merely a waste product but an energy-yielding intermediate when metabolic capacity is not overwhelmed.**

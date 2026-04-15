@@ -13,6 +13,62 @@ extraction-date: 2026-03-04
 ---
 
 # RNA World Hypothesis and Early Evolution
+## Related Zettels from Same Source
+
+- [[Adenosine_Receptors_Sleep_Regulation_Z-101-0452]]
+- [[Amino_Acids_vs_Nucleobases_Z-101-0462]]
+- [[ATP_Universal_Energy_Currency_Z-101-0451]]
+- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]]
+- [[Meteoritic_Nucleobases_Panspermia_Z-101-0455]]
+- [[Purine_vs_Pyrimidine_Structure_Z-101-0453]]
+
+## Source
+
+[[L-101-0045B_Prebiotic_Chemistry_HCN_Adenine_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Adenosine_Receptors_Sleep_Regulation_Z-101-0452]]
+- [[Amino_Acids_vs_Nucleobases_Z-101-0462]]
+- [[ATP_Universal_Energy_Currency_Z-101-0451]]
+- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]]
+- [[Meteoritic_Nucleobases_Panspermia_Z-101-0455]]
+- [[Purine_vs_Pyrimidine_Structure_Z-101-0453]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Adenosine_Receptors_Sleep_Regulation_Z-101-0452]]
+- [[Amino_Acids_vs_Nucleobases_Z-101-0462]]
+- [[ATP_Universal_Energy_Currency_Z-101-0451]]
+- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]]
+- [[Meteoritic_Nucleobases_Panspermia_Z-101-0455]]
+- [[Purine_vs_Pyrimidine_Structure_Z-101-0453]]
+
+## Source
+
+[[L-101-0045B_Prebiotic_Chemistry_HCN_Adenine_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Adenosine_Receptors_Sleep_Regulation_Z-101-0452]]
+- [[Amino_Acids_vs_Nucleobases_Z-101-0462]]
+- [[ATP_Universal_Energy_Currency_Z-101-0451]]
+- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]]
+- [[Meteoritic_Nucleobases_Panspermia_Z-101-0455]]
+- [[Purine_vs_Pyrimidine_Structure_Z-101-0453]]
 
 ## Core Claim
 **Early life relied on RNA as both genetic material and catalyst (ribozymes) before DNA and proteins became dominant — RNA can store information (like DNA), catalyze reactions (like proteins), and modern ribosomes remain ribozymes with catalytic RNA at their core** — this hypothesis explains the transition from prebiotic chemistry to cellular life through self-replicating RNA molecules.

@@ -14,10 +14,66 @@ created: 2026-03-27
 ---
 
 # Social and Clinical Value as Ethical Requirement
+## Related Zettels from Same Source
+
+- [[Fair_Subject_Selection_Ethics_Z-002-0603]]
+- [[Independent_Review_IRB_Ethics_Z-002-0605]]
+- [[Informed_Consent_Ethical_Research_Z-002-0606]]
+- [[Respect_Enrolled_Subjects_Ethics_Z-002-0607]]
+- [[Risk_Benefit_Ratio_Ethical_Research_Z-002-0604]]
+- [[Scientific_Validity_Ethical_Requirement_Z-002-0602]]
+
+## Source
+
+[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]
+
+## Related Zettels from Same Source
+
+- [[Fair_Subject_Selection_Ethics_Z-002-0603]]
+- [[Independent_Review_IRB_Ethics_Z-002-0605]]
+- [[Informed_Consent_Ethical_Research_Z-002-0606]]
+- [[Respect_Enrolled_Subjects_Ethics_Z-002-0607]]
+- [[Risk_Benefit_Ratio_Ethical_Research_Z-002-0604]]
+- [[Scientific_Validity_Ethical_Requirement_Z-002-0602]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Research without social or clinical value is unethical regardless of other safeguards. The fundamental question must be important enough to justify exposing participants to any risk.
 
 **Core principle:** The potential knowledge gain must meaningfully advance health, science, or social welfare. Trivial questions answered at participant expense constitute exploitation.
+
+## Related Zettels from Same Source
+
+- [[Fair_Subject_Selection_Ethics_Z-002-0603]]
+- [[Independent_Review_IRB_Ethics_Z-002-0605]]
+- [[Informed_Consent_Ethical_Research_Z-002-0606]]
+- [[Respect_Enrolled_Subjects_Ethics_Z-002-0607]]
+- [[Risk_Benefit_Ratio_Ethical_Research_Z-002-0604]]
+- [[Scientific_Validity_Ethical_Requirement_Z-002-0602]]
+
+## Source
+
+[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]
+
+## Related Zettels from Same Source
+
+- [[Fair_Subject_Selection_Ethics_Z-002-0603]]
+- [[Independent_Review_IRB_Ethics_Z-002-0605]]
+- [[Informed_Consent_Ethical_Research_Z-002-0606]]
+- [[Respect_Enrolled_Subjects_Ethics_Z-002-0607]]
+- [[Risk_Benefit_Ratio_Ethical_Research_Z-002-0604]]
+- [[Scientific_Validity_Ethical_Requirement_Z-002-0602]]
 
 ## Core Principle
 

@@ -18,10 +18,30 @@ extraction-date: 2026-04-15
 ---
 
 # Uric Acid — Metabolic Marker Beyond Gout
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **Uric acid** is the end product of purine . While traditionally associated with gout, it's now recognized as a **marker of metabolic syndrome** and independent cardiovascular risk factor. The optimal target is **<5.5 mg/dL**, well below the standard "normal" range.
 
 ---
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Principle
 

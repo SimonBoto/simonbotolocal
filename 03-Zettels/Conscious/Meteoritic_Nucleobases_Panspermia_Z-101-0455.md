@@ -13,6 +13,62 @@ extraction-date: 2026-03-04
 ---
 
 # Meteoritic Nucleobases and Panspermia Hypothesis
+## Related Zettels from Same Source
+
+- [[Adenosine_Receptors_Sleep_Regulation_Z-101-0452]]
+- [[Amino_Acids_vs_Nucleobases_Z-101-0462]]
+- [[ATP_Universal_Energy_Currency_Z-101-0451]]
+- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]]
+- [[Purine_vs_Pyrimidine_Structure_Z-101-0453]]
+- [[RNA_World_Hypothesis_Evolution_Z-101-0456]]
+
+## Source
+
+[[L-101-0045B_Prebiotic_Chemistry_HCN_Adenine_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Adenosine_Receptors_Sleep_Regulation_Z-101-0452]]
+- [[Amino_Acids_vs_Nucleobases_Z-101-0462]]
+- [[ATP_Universal_Energy_Currency_Z-101-0451]]
+- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]]
+- [[Purine_vs_Pyrimidine_Structure_Z-101-0453]]
+- [[RNA_World_Hypothesis_Evolution_Z-101-0456]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Adenosine_Receptors_Sleep_Regulation_Z-101-0452]]
+- [[Amino_Acids_vs_Nucleobases_Z-101-0462]]
+- [[ATP_Universal_Energy_Currency_Z-101-0451]]
+- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]]
+- [[Purine_vs_Pyrimidine_Structure_Z-101-0453]]
+- [[RNA_World_Hypothesis_Evolution_Z-101-0456]]
+
+## Source
+
+[[L-101-0045B_Prebiotic_Chemistry_HCN_Adenine_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Adenosine_Receptors_Sleep_Regulation_Z-101-0452]]
+- [[Amino_Acids_vs_Nucleobases_Z-101-0462]]
+- [[ATP_Universal_Energy_Currency_Z-101-0451]]
+- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]]
+- [[Purine_vs_Pyrimidine_Structure_Z-101-0453]]
+- [[RNA_World_Hypothesis_Evolution_Z-101-0456]]
 
 ## Core Claim
 **The Murchison meteorite (1969) contains adenine, guanine, and other nucleobases with isotope ratios (¹³C/¹²C) distinct from terrestrial carbon — this demonstrates that nucleobases can form in space and were delivered to early Earth via meteorites and comets, supporting the panspermia hypothesis that life's building blocks are distributed throughout the Solar System** — carbonaceous chondrites may have delivered significant quantities of prebiotic organics during the Late Heavy Bombardment.

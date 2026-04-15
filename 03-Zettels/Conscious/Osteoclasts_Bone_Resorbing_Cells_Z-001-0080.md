@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 # Osteoclasts Bone Resorbing Cells
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Osteoclasts are multinucleated cells originating from the monocyte-macrophage lineage. They resorb bone by creating an acidic microenvironment that dissolves the mineral matrix. They attach to bone via integrins and secrete proteolytic enzymes.
 

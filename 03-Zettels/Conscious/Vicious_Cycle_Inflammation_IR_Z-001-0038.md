@@ -13,6 +13,18 @@ created: 2026-02-24
 ---
 
 # Vicious Cycle:  → IR → Inflammation
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Inflammatory cytokines (TNF-α, IL-6) trigger IRS-1 serine phosphorylation, blocking  signaling and creating insulin resistance. The resulting IR produces adipokine dysregulation (↓adiponectin, dysfunctional leptin) that generates more inflammation.
 

@@ -14,6 +14,18 @@ related: []
 ---
 
 # Resolving Inflammation Central to Prevention
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Resolving chronic inflammation is central to disease prevention** — addressing root causes (diet, deficiencies, lifestyle) more effective than managing symptoms.

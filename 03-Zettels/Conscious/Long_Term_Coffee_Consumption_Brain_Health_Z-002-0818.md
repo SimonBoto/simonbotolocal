@@ -15,6 +15,46 @@ related: []
 ---
 
 # Long-Term Coffee Consumption Supports Brain Health Across Decades
+## Related Zettels from Same Source
+
+- [[Caffeine_Key_Neuroprotective_Component_Z-002-0817]]
+- [[Coffee_2-3_Cups_Dementia_Protection_Z-002-0816]]
+
+## Source
+
+[[L-002-0226_Coffee_Dementia_Risk]]
+
+## Related Zettels from Same Source
+
+- [[Caffeine_Key_Neuroprotective_Component_Z-002-0817]]
+- [[Coffee_2-3_Cups_Dementia_Protection_Z-002-0816]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Caffeine_Key_Neuroprotective_Component_Z-002-0817]]
+- [[Coffee_2-3_Cups_Dementia_Protection_Z-002-0816]]
+
+## Source
+
+[[L-002-0226_Coffee_Dementia_Risk]]
+
+## Related Zettels from Same Source
+
+- [[Caffeine_Key_Neuroprotective_Component_Z-002-0817]]
+- [[Coffee_2-3_Cups_Dementia_Protection_Z-002-0816]]
 
 ## Core Claim
 **Long-term coffee consumption over decades supports brain health and reduces dementia risk** — the 37-year follow-up demonstrates that coffee's neuroprotective effects are sustained over long periods, making it a viable lifelong prevention strategy.

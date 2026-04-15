@@ -13,6 +13,50 @@ status: conscious
 parent-index: [[03-Zettels-Conscious]]
 
 # T-Cell Receptor Repertoire Restriction in Autoimmunity
+## Related Zettels from Same Source
+
+- [[CD28_Negative_TCells_Pathogenicity_Z-001-1183]]
+- [[Naive_TCell_Depletion_Autoimmunity_Z-001-1182]]
+- [[Premature_Cardiovascular_Disease_Autoimmunity_Z-001-1185]]
+
+## Source
+
+[[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]
+
+## Related Zettels from Same Source
+
+- [[CD28_Negative_TCells_Pathogenicity_Z-001-1183]]
+- [[Naive_TCell_Depletion_Autoimmunity_Z-001-1182]]
+- [[Premature_Cardiovascular_Disease_Autoimmunity_Z-001-1185]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[CD28_Negative_TCells_Pathogenicity_Z-001-1183]]
+- [[Naive_TCell_Depletion_Autoimmunity_Z-001-1182]]
+- [[Premature_Cardiovascular_Disease_Autoimmunity_Z-001-1185]]
+
+## Source
+
+[[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]
+
+## Related Zettels from Same Source
+
+- [[CD28_Negative_TCells_Pathogenicity_Z-001-1183]]
+- [[Naive_TCell_Depletion_Autoimmunity_Z-001-1182]]
+- [[Premature_Cardiovascular_Disease_Autoimmunity_Z-001-1185]]
 
 ## T-Cell Receptor (TCR) Diversity
 

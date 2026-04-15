@@ -14,6 +14,18 @@ related: []
 ---
 
 # Metabolic Disorders Drive Silent CVD Progression
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Type 2 diabetes, hypertension, obesity, and kidney dysfunction** act for years before symptoms appear, creating silent ground for cardiovascular disease.

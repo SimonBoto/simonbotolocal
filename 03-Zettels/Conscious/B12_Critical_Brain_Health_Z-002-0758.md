@@ -15,6 +15,18 @@ related: []
 ---
 
 # Vitamin B12 Critical for Brain Health — Mechanism in APOE4 Carriers
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Vitamin B12 is critical for brain health** — and meat is the only reliable dietary source. APOE4 carriers may have **increased B12 requirements** or **impaired B12 utilization**, making meat consumption essential for preventing cognitive decline.
@@ -70,6 +82,11 @@ related: []
 | **Serum B12** | >400 pg/mL |
 | **Homocysteine** | <10 μmol/L |
 | **Methylmalonic acid** | Normal range |
+
+## Related Zettels from Same Source
+
+- [[APOE4_Meat_Protective_Effect_Z-002-0757]]
+- [[Meat_Eliminates_Alzheimer_Genetic_Risk_Z-002-0756]]
 
 ## Source
 - **LitNote:** [[L-002-0206_Meat_Consumption_Eliminates_Alzheimer_Genetic_Risk]]

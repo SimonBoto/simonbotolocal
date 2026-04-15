@@ -20,10 +20,30 @@ extraction-date: 2026-04-15
 ---
 
 # TyG Index — Triglyceride-Glucose Index for IR Assessment
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 The **TyG Index** is a simple, inexpensive surrogate marker for insulin resistance using only fasting triglycerides and fasting glucose. It correlates strongly with euglycemic clamp studies and may predict IR earlier than HOMA-IR.
 
 ---
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Principle
 

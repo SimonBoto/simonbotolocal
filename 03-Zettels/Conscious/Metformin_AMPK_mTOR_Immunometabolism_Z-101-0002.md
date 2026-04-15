@@ -14,6 +14,22 @@ extraction-date: 2026-04-15
 ---
 
 # Metformin AMPK mTOR Immuno
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Metformin inhibits mitochondrial Complex I, reducing ATP production and activating AMPK. This triggers metabolic and immunological effects: fatty acid oxidation increases, lipogenesis decreases, and mTORC1 inhibition blocks pro-inflammatory signaling while preserving B-cell antibody production.
 
@@ -27,6 +43,10 @@ Metformin inhibits mitochondrial Complex I, reducing ATP production and activati
 **Clinical applications:** Systemic lupus erythematosus, colitis, arthritis, obesity, PCOS.
 
 **METHAP Parallel:** Both metformin and  activate AMPK — shared anti-inflammatory pathways that may synergize in metabolic syndrome with autoimmune comorbidity.
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Principle
 

@@ -15,6 +15,46 @@ related: []
 ---
 
 # Insulin More Predictive of CVD Than Glucose — The Paradigm Shift
+## Related Zettels from Same Source
+
+- [[ACCORD_Glucose_Lowering_Mortality_Z-002-0802]]
+- [[Insulin_Resistance_Large_Vessel_Damage_Z-002-0803]]
+
+## Source
+
+[[High_Glucose_vs_High_Insulin-_Insulin_Matters_More_L-002-0221_v4.0]]
+
+## Related Zettels from Same Source
+
+- [[ACCORD_Glucose_Lowering_Mortality_Z-002-0802]]
+- [[Insulin_Resistance_Large_Vessel_Damage_Z-002-0803]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[ACCORD_Glucose_Lowering_Mortality_Z-002-0802]]
+- [[Insulin_Resistance_Large_Vessel_Damage_Z-002-0803]]
+
+## Source
+
+[[High_Glucose_vs_High_Insulin-_Insulin_Matters_More_L-002-0221_v4.0]]
+
+## Related Zettels from Same Source
+
+- [[ACCORD_Glucose_Lowering_Mortality_Z-002-0802]]
+- [[Insulin_Resistance_Large_Vessel_Damage_Z-002-0803]]
 
 ## Core Claim
 **Insulin levels and insulin resistance are more predictive of cardiovascular disease and mortality than glucose levels** — the ACCORD study showed intensive glucose control increased deaths, while metformin and lifestyle interventions that improve insulin sensitivity reduce mortality, indicating that the insulin-centric paradigm better explains CVD risk than the glucose-centric paradigm.

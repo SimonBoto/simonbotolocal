@@ -13,6 +13,62 @@ extraction-date: 2026-03-08
 ---
 
 # Hormonal Metabolic Regulation Terms
+## Related Zettels from Same Source
+
+- [[Health_Philosophy_Core_Concepts_Z-001-1041]]
+- [[Metabolism_Metabolomics_Terminology_Z-001-1042]]
+- [[Microbiome_Gut_Brain_Terminology_Z-001-1045]]
+- [[Mitochondrial_Energy_Terminology_Z-001-1043]]
+- [[Nutrition_Macronutrient_Terminology_Z-001-1046]]
+- [[Patient_Communication_Core_Concepts_Z-001-1047]]
+
+## Source
+
+[[L-001-0590_Core_Clinical_Vocabulary_66_Terms_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Health_Philosophy_Core_Concepts_Z-001-1041]]
+- [[Metabolism_Metabolomics_Terminology_Z-001-1042]]
+- [[Microbiome_Gut_Brain_Terminology_Z-001-1045]]
+- [[Mitochondrial_Energy_Terminology_Z-001-1043]]
+- [[Nutrition_Macronutrient_Terminology_Z-001-1046]]
+- [[Patient_Communication_Core_Concepts_Z-001-1047]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Health_Philosophy_Core_Concepts_Z-001-1041]]
+- [[Metabolism_Metabolomics_Terminology_Z-001-1042]]
+- [[Microbiome_Gut_Brain_Terminology_Z-001-1045]]
+- [[Mitochondrial_Energy_Terminology_Z-001-1043]]
+- [[Nutrition_Macronutrient_Terminology_Z-001-1046]]
+- [[Patient_Communication_Core_Concepts_Z-001-1047]]
+
+## Source
+
+[[L-001-0590_Core_Clinical_Vocabulary_66_Terms_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Health_Philosophy_Core_Concepts_Z-001-1041]]
+- [[Metabolism_Metabolomics_Terminology_Z-001-1042]]
+- [[Microbiome_Gut_Brain_Terminology_Z-001-1045]]
+- [[Mitochondrial_Energy_Terminology_Z-001-1043]]
+- [[Nutrition_Macronutrient_Terminology_Z-001-1046]]
+- [[Patient_Communication_Core_Concepts_Z-001-1047]]
 
 ## Core Claim
 **Ten hormonal terms — Insulin, Insulin Resistance, Cortisol, PTH-VitD Axis, Lipid Regulation, and AA/EPA Ratio — describe the systemic control systems that coordinate metabolism across tissues, with insulin resistance representing a central pathological node in modern metabolic disease.**

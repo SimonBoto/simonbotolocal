@@ -13,6 +13,58 @@ extraction-date: 2026-03-08
 ---
 
 # Bootcamp Four Phase Structure
+## Related Zettels from Same Source
+
+- [[Phase_1_Biochemical_Literacy_Foundation_Z-001-1036]]
+- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]]
+- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]]
+- [[Phase_4_Clinical_Integration_Drills_Z-001-1039]]
+- [[Training_Teaching_Style_Framework_Z-001-1040]]
+
+## Source
+
+[[L-001-0589_8_Week_Metabolomics_Bootcamp_Curriculum_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Phase_1_Biochemical_Literacy_Foundation_Z-001-1036]]
+- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]]
+- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]]
+- [[Phase_4_Clinical_Integration_Drills_Z-001-1039]]
+- [[Training_Teaching_Style_Framework_Z-001-1040]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Phase_1_Biochemical_Literacy_Foundation_Z-001-1036]]
+- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]]
+- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]]
+- [[Phase_4_Clinical_Integration_Drills_Z-001-1039]]
+- [[Training_Teaching_Style_Framework_Z-001-1040]]
+
+## Source
+
+[[L-001-0589_8_Week_Metabolomics_Bootcamp_Curriculum_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Phase_1_Biochemical_Literacy_Foundation_Z-001-1036]]
+- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]]
+- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]]
+- [[Phase_4_Clinical_Integration_Drills_Z-001-1039]]
+- [[Training_Teaching_Style_Framework_Z-001-1040]]
 
 ## Core Claim
 **An 8-week metabolomics bootcamp follows four progressive phases — Foundation → OAT Mastery → Lipidomics → Integration — designed to scaffold cognitive transformation from biochemical literacy to clinical reasoning, producing clinicians who can think in metabolomics rather than merely memorize pathways.**

@@ -13,6 +13,54 @@ extraction-date: 2026-03-03
 ---
 
 # Vitamin D Secosteroid Synthesis
+## Related Zettels from Same Source
+
+- [[Bile_Acid_Synthesis_Cholesterol_Z-001-0573]]
+- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]]
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]]
+- [[Isoprenoids_Terpenes_Overview_Z-001-0569]]
+
+## Source
+
+[[L-001-0519_Isoprenoids_Cholesterol_Derivatives_CGPT-0391]]
+
+## Related Zettels from Same Source
+
+- [[Bile_Acid_Synthesis_Cholesterol_Z-001-0573]]
+- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]]
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]]
+- [[Isoprenoids_Terpenes_Overview_Z-001-0569]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Bile_Acid_Synthesis_Cholesterol_Z-001-0573]]
+- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]]
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]]
+- [[Isoprenoids_Terpenes_Overview_Z-001-0569]]
+
+## Source
+
+[[L-001-0519_Isoprenoids_Cholesterol_Derivatives_CGPT-0391]]
+
+## Related Zettels from Same Source
+
+- [[Bile_Acid_Synthesis_Cholesterol_Z-001-0573]]
+- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]]
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]]
+- [[Isoprenoids_Terpenes_Overview_Z-001-0569]]
 
 ## Core Claim
 **Vitamin D is a secosteroid hormone synthesized from 7-dehydrocholesterol in skin upon UV-B exposure — undergoing sequential hydroxylation in liver (25-hydroxylase) and kidney (1α-hydroxylase) to produce calcitriol — functioning as a transcriptional regulator of calcium homeostasis, bone metabolism, and immune function through the vitamin D receptor (VDR).**

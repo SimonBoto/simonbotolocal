@@ -12,6 +12,18 @@ extraction-date: 2026-03-01
 ---
 
 # Mevalonate Branch Points
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Farnesyl pyrophosphate (FPP, C15) represents a critical metabolic crossroads directing carbon flux toward four distinct fates: cholesterol synthesis (via squalene), Coenzyme Q10 production, protein prenylation (farnesylation and geranylgeranylation), and dolichol synthesis for N-glycosylation, with cellular needs determining branch point utilization.
@@ -119,6 +131,13 @@ FPP + IPP → Dolichol (long-chain isoprenoid, C80-C100)
 - [[HMG_CoA_Reductase_Regulation_Z-001-0546]] — HMGCR regulation
 - [[Mevalonate_Clinical_Implications_Z-001-0548]] — Statin effects
 - [[Mevalonate_METHAP_Integration_Z-001-0549]] — METHAP protocol
+
+## Related Zettels from Same Source
+
+- [[HMG_CoA_Reductase_Regulation_Z-001-0546]]
+- [[Mevalonate_Clinical_Implications_Z-001-0548]]
+- [[Mevalonate_METHAP_Integration_Z-001-0549]]
+- [[Mevalonate_Pathway_Enzymatic_Steps_Z-001-0545]]
 
 ## Source
 [[Mevalonate_Pathway_From_Acetyl-CoA_to_Cholesterol_L-001-0509_CGPT-0393]]

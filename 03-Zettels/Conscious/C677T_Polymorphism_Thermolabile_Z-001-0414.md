@@ -12,8 +12,60 @@ extraction-date: 2026-03-01
 ---
 
 # C677T Polymorphism — Thermolabile Variant
+## Related Zettels from Same Source
+
+- [[A1298C_Polymorphism_Regulatory_Z-001-0415]]
+- [[MTHFR_Cancer_Association_Complex_Z-001-0417]]
+- [[MTHFR_Clinical_Management_Folate_Z-001-0416]]
+- [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]]
+- [[MTHFR_Testing_Interpretation_Z-001-0418]]
+
+## Source
+
+[[LitNote_MTHFR_Genetics_L-001-0403]
+
+## Related Zettels from Same Source
+
+- [[A1298C_Polymorphism_Regulatory_Z-001-0415]]
+- [[MTHFR_Cancer_Association_Complex_Z-001-0417]]
+- [[MTHFR_Clinical_Management_Folate_Z-001-0416]]
+- [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]]
+- [[MTHFR_Testing_Interpretation_Z-001-0418]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > The C677T MTHFR polymorphism (rs1801133) substitutes alanine with valine, producing a thermolabile enzyme with reduced activity: heterozygotes (CT) have ~65% activity, homozygotes (TT) have ~30% activity.
+
+## Related Zettels from Same Source
+
+- [[A1298C_Polymorphism_Regulatory_Z-001-0415]]
+- [[MTHFR_Cancer_Association_Complex_Z-001-0417]]
+- [[MTHFR_Clinical_Management_Folate_Z-001-0416]]
+- [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]]
+- [[MTHFR_Testing_Interpretation_Z-001-0418]]
+
+## Source
+
+[[LitNote_MTHFR_Genetics_L-001-0403]
+
+## Related Zettels from Same Source
+
+- [[A1298C_Polymorphism_Regulatory_Z-001-0415]]
+- [[MTHFR_Cancer_Association_Complex_Z-001-0417]]
+- [[MTHFR_Clinical_Management_Folate_Z-001-0416]]
+- [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]]
+- [[MTHFR_Testing_Interpretation_Z-001-0418]]
 
 ## Core Principle
 

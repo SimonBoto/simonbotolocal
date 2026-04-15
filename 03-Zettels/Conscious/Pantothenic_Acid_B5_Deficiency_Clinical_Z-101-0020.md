@@ -13,6 +13,50 @@ extraction-date: 2026-03-02
 ---
 
 # Pantothenic Acid (B5) Deficiency Clinical Aspects
+## Related Zettels from Same Source
+
+- [[CoA_Synthesis_Vitamin_B5_Pathway_Z-101-0017]]
+- [[Decarboxylation_Enzymes_Cofactors_Z-101-0018]]
+- [[Dehydrogenases_vs_Decarboxylases_Z-101-0019]]
+
+## Source
+
+[[L-101-0004_CoA_Synthesis_Decarboxylation_Enzymology_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[CoA_Synthesis_Vitamin_B5_Pathway_Z-101-0017]]
+- [[Decarboxylation_Enzymes_Cofactors_Z-101-0018]]
+- [[Dehydrogenases_vs_Decarboxylases_Z-101-0019]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[CoA_Synthesis_Vitamin_B5_Pathway_Z-101-0017]]
+- [[Decarboxylation_Enzymes_Cofactors_Z-101-0018]]
+- [[Dehydrogenases_vs_Decarboxylases_Z-101-0019]]
+
+## Source
+
+[[L-101-0004_CoA_Synthesis_Decarboxylation_Enzymology_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[CoA_Synthesis_Vitamin_B5_Pathway_Z-101-0017]]
+- [[Decarboxylation_Enzymes_Cofactors_Z-101-0018]]
+- [[Dehydrogenases_vs_Decarboxylases_Z-101-0019]]
 
 ## Core Claim
 **Pantothenic acid (vitamin B5) deficiency is rare due to widespread availability in foods, but when present causes non-specific symptoms including fatigue, irritability, paresthesias, and impaired wound healing — with severe deficiency potentially causing adrenal insufficiency and impaired fatty acid oxidation — while the related disorder PKAN (pantothenate kinase-associated neurodegeneration) represents a genetic defect in CoA synthesis causing severe neurological deterioration and brain iron accumulation.**

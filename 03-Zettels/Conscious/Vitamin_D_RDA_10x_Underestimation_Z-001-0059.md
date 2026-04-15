@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 #  RDA 10x Underestimation
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Corrected calculations using proper statistical methods (accounting for variability to cover 97.5% of population) show the RDA should be 7,000-8,000 IU/day, not the IOM's 600-800 IU. This represents a factor of 10 underestimation affecting global vitamin D status.
 

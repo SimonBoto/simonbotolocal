@@ -14,6 +14,26 @@ created: 2026-03-08
 ---
 
 # METHAP Study Population Recruitment Strategy
+## Source
+
+[[LitNote_PhD_Study_Design_METHAP_L-001-0615]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_PhD_Study_Design_METHAP_L-001-0615]
 
 ## Overview
 The METHAP ( and Insulin Resistance) trial recruits 220 participants stratified by metabolic status to compare  profiles and assess intervention efficacy.

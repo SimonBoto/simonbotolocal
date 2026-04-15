@@ -15,8 +15,56 @@ extraction-date: 2026-04-15
 ---
 
 # Metabotypes — Individual Metabolic Phenotypes
+## Related Zettels from Same Source
+
+- [[Carnitine_Fatty_Acid_Transport_Z-001-0913]]
+- [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0911]]
+- [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0914]]
+- [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912]]
+
+## Source
+
+Synthesized from clinical practice
+
+## Related Zettels from Same Source
+
+- [[Carnitine_Fatty_Acid_Transport_Z-001-0913]]
+- [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0911]]
+- [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0914]]
+- [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 A **metabotype** is an individual's specific metabolic profile that reflects what is actually happening in their body at a given moment under current conditions, manifesting a particular phenotype. It differs fundamentally from genotype, which represents the probability that a genetic variation will be expressed phenotypically.
+
+## Related Zettels from Same Source
+
+- [[Carnitine_Fatty_Acid_Transport_Z-001-0913]]
+- [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0911]]
+- [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0914]]
+- [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912]]
+
+## Source
+
+Synthesized from clinical practice
+
+## Related Zettels from Same Source
+
+- [[Carnitine_Fatty_Acid_Transport_Z-001-0913]]
+- [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0911]]
+- [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0914]]
+- [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912]]
 
 ## Core Principle
 

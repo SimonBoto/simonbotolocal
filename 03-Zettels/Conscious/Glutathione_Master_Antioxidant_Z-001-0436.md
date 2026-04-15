@@ -25,6 +25,58 @@ extraction-date: 2026-03-01
 ---
 
 # Glutathione — The Master Antioxidant
+## Related Zettels from Same Source
+
+- [[Complete_Methionine_Oxidation_Energy_Z-001-0437]]
+- [[Cysteine_Metabolic_Fates_Glutathione_Z-001-0435]]
+- [[Methionine_Cycle_Activation_Regeneration_Z-001-0433]]
+- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]]
+- [[Transsulfuration_Pathway_Cysteine_Synthesis_Z-001-0434]]
+
+## Source
+
+[[LitNote_Methionine_Catabolism_L-001-0406]]
+
+## Related Zettels from Same Source
+
+- [[Complete_Methionine_Oxidation_Energy_Z-001-0437]]
+- [[Cysteine_Metabolic_Fates_Glutathione_Z-001-0435]]
+- [[Methionine_Cycle_Activation_Regeneration_Z-001-0433]]
+- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]]
+- [[Transsulfuration_Pathway_Cysteine_Synthesis_Z-001-0434]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Complete_Methionine_Oxidation_Energy_Z-001-0437]]
+- [[Cysteine_Metabolic_Fates_Glutathione_Z-001-0435]]
+- [[Methionine_Cycle_Activation_Regeneration_Z-001-0433]]
+- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]]
+- [[Transsulfuration_Pathway_Cysteine_Synthesis_Z-001-0434]]
+
+## Source
+
+[[LitNote_Methionine_Catabolism_L-001-0406]]
+
+## Related Zettels from Same Source
+
+- [[Complete_Methionine_Oxidation_Energy_Z-001-0437]]
+- [[Cysteine_Metabolic_Fates_Glutathione_Z-001-0435]]
+- [[Methionine_Cycle_Activation_Regeneration_Z-001-0433]]
+- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]]
+- [[Transsulfuration_Pathway_Cysteine_Synthesis_Z-001-0434]]
 
 ## Core Claim
 **Glutathione (GSH) is the most abundant intracellular antioxidant and detoxification agent, synthesized from cysteine (rate-limiting), glutamate, and glycine** — its GSH:GSSG redox ratio (~100:1 in health) serves as the primary indicator of cellular oxidative stress, and its synthesis depends on methionine-derived cysteine via transsulfuration.

@@ -25,6 +25,58 @@ extraction-date: 2026-03-04
 ---
 
 # Triose Metabolism — G3P and DHAP Integration
+## Related Zettels from Same Source
+
+- [[G6PD_Deficiency_Evolutionary_Trade-offs_Z-001-0461]]
+- [[NADPH_Functions_Antioxidant_Defense_Z-001-0460]]
+- [[Nucleobase_Phosphorylation_Nucleotide_Formation_Z-001-0465]]
+- [[PPP_Oxidative_Phase_Z-001-0457]]
+- [[Ribose_Structure_RNA_Backbone_Z-001-0458]]
+
+## Source
+
+[[L-001-0045C_Ribose_PPP_NADPH_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[G6PD_Deficiency_Evolutionary_Trade-offs_Z-001-0461]]
+- [[NADPH_Functions_Antioxidant_Defense_Z-001-0460]]
+- [[Nucleobase_Phosphorylation_Nucleotide_Formation_Z-001-0465]]
+- [[PPP_Oxidative_Phase_Z-001-0457]]
+- [[Ribose_Structure_RNA_Backbone_Z-001-0458]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[G6PD_Deficiency_Evolutionary_Trade-offs_Z-001-0461]]
+- [[NADPH_Functions_Antioxidant_Defense_Z-001-0460]]
+- [[Nucleobase_Phosphorylation_Nucleotide_Formation_Z-001-0465]]
+- [[PPP_Oxidative_Phase_Z-001-0457]]
+- [[Ribose_Structure_RNA_Backbone_Z-001-0458]]
+
+## Source
+
+[[L-001-0045C_Ribose_PPP_NADPH_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[G6PD_Deficiency_Evolutionary_Trade-offs_Z-001-0461]]
+- [[NADPH_Functions_Antioxidant_Defense_Z-001-0460]]
+- [[Nucleobase_Phosphorylation_Nucleotide_Formation_Z-001-0465]]
+- [[PPP_Oxidative_Phase_Z-001-0457]]
+- [[Ribose_Structure_RNA_Backbone_Z-001-0458]]
 
 ## Core Claim
 **Trioses (3-carbon sugars) are the simplest metabolic intermediates — glyceraldehyde-3-phosphate (G3P) and dihydroxyacetone phosphate (DHAP) connect glycolysis, PPP, gluconeogenesis, and the Calvin cycle** — splitting glucose into 2 trioses evolved ~3.5 billion years ago for energy efficiency.

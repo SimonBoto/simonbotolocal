@@ -13,6 +13,50 @@ extraction-date: 2026-03-08
 ---
 
 # Difficult Conversation Navigation
+## Related Zettels from Same Source
+
+- [[Metabolic_Storytelling_Patient_Framework_Z-001-1070]]
+- [[Metabolomics_Report_Structure_Standards_Z-001-1073]]
+- [[Patient_Objection_Response_Scripts_Z-001-1071]]
+
+## Source
+
+[[L-001-0595_Patient_Communication_Scripts_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Metabolic_Storytelling_Patient_Framework_Z-001-1070]]
+- [[Metabolomics_Report_Structure_Standards_Z-001-1073]]
+- [[Patient_Objection_Response_Scripts_Z-001-1071]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Metabolic_Storytelling_Patient_Framework_Z-001-1070]]
+- [[Metabolomics_Report_Structure_Standards_Z-001-1073]]
+- [[Patient_Objection_Response_Scripts_Z-001-1071]]
+
+## Source
+
+[[L-001-0595_Patient_Communication_Scripts_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Metabolic_Storytelling_Patient_Framework_Z-001-1070]]
+- [[Metabolomics_Report_Structure_Standards_Z-001-1073]]
+- [[Patient_Objection_Response_Scripts_Z-001-1071]]
 
 ## Core Claim
 **Navigating difficult patient conversations — whether challenging medical authority, questioning costs, expressing skepticism, or presenting resistance — requires emotional intelligence, strategic validation, and the ability to de-escalate tension while maintaining therapeutic boundaries and clinical integrity.**

@@ -12,8 +12,60 @@ extraction-date: 2026-03-01
 ---
 
 # MTHFR Enzyme Function — Rate-Limiting Step
+## Related Zettels from Same Source
+
+- [[A1298C_Polymorphism_Regulatory_Z-001-0415]]
+- [[C677T_Polymorphism_Thermolabile_Z-001-0414]]
+- [[MTHFR_Cancer_Association_Complex_Z-001-0417]]
+- [[MTHFR_Clinical_Management_Folate_Z-001-0416]]
+- [[MTHFR_Testing_Interpretation_Z-001-0418]]
+
+## Source
+
+[[LitNote_MTHFR_Genetics_L-001-0403]
+
+## Related Zettels from Same Source
+
+- [[A1298C_Polymorphism_Regulatory_Z-001-0415]]
+- [[C677T_Polymorphism_Thermolabile_Z-001-0414]]
+- [[MTHFR_Cancer_Association_Complex_Z-001-0417]]
+- [[MTHFR_Clinical_Management_Folate_Z-001-0416]]
+- [[MTHFR_Testing_Interpretation_Z-001-0418]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Methylenetetrahydro reductase (MTHFR) catalyzes the conversion of 5,10-methylenetetrahydrofolate to 5-methyltetrahydrofolate (5-MTHF), the rate-limiting step in folate  that produces the active form of folate used for homocysteine re.
+
+## Related Zettels from Same Source
+
+- [[A1298C_Polymorphism_Regulatory_Z-001-0415]]
+- [[C677T_Polymorphism_Thermolabile_Z-001-0414]]
+- [[MTHFR_Cancer_Association_Complex_Z-001-0417]]
+- [[MTHFR_Clinical_Management_Folate_Z-001-0416]]
+- [[MTHFR_Testing_Interpretation_Z-001-0418]]
+
+## Source
+
+[[LitNote_MTHFR_Genetics_L-001-0403]
+
+## Related Zettels from Same Source
+
+- [[A1298C_Polymorphism_Regulatory_Z-001-0415]]
+- [[C677T_Polymorphism_Thermolabile_Z-001-0414]]
+- [[MTHFR_Cancer_Association_Complex_Z-001-0417]]
+- [[MTHFR_Clinical_Management_Folate_Z-001-0416]]
+- [[MTHFR_Testing_Interpretation_Z-001-0418]]
 
 ## Core Principle
 

@@ -12,8 +12,52 @@ extraction-date: 2026-03-01
 ---
 
 # Cornflakes Invention — The Accident (1894)
+## Related Zettels from Same Source
+
+- [[Battle_Creek_Sanitarium_John_Harvey_Kellogg_Z-001-0249]]
+- [[Kellogg_Brothers_John_Harvey_vs_WK_Z-001-0250]]
+- [[Kellogg_Company_Founding_1906_Z-001-0252]]
+
+## Source
+
+[[LitNote_Cereal_History_L-001-0211]
+
+## Related Zettels from Same Source
+
+- [[Battle_Creek_Sanitarium_John_Harvey_Kellogg_Z-001-0249]]
+- [[Kellogg_Brothers_John_Harvey_vs_WK_Z-001-0250]]
+- [[Kellogg_Company_Founding_1906_Z-001-0252]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > In 1894, a kitchen accident at the Battle Creek Sanitarium led to the invention of flaked cereal when boiled wheat was left sitting, softened, and then rolled into flakes—creating the foundation of the multi-billion dollar breakfast cereal industry.
+
+## Related Zettels from Same Source
+
+- [[Battle_Creek_Sanitarium_John_Harvey_Kellogg_Z-001-0249]]
+- [[Kellogg_Brothers_John_Harvey_vs_WK_Z-001-0250]]
+- [[Kellogg_Company_Founding_1906_Z-001-0252]]
+
+## Source
+
+[[LitNote_Cereal_History_L-001-0211]
+
+## Related Zettels from Same Source
+
+- [[Battle_Creek_Sanitarium_John_Harvey_Kellogg_Z-001-0249]]
+- [[Kellogg_Brothers_John_Harvey_vs_WK_Z-001-0250]]
+- [[Kellogg_Company_Founding_1906_Z-001-0252]]
 
 ## Core Principle
 

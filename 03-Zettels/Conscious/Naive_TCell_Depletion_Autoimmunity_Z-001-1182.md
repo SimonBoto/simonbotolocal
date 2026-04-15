@@ -11,6 +11,50 @@ status: conscious
 ---
 
 # Naive T-Cell Depletion in 
+## Related Zettels from Same Source
+
+- [[CD28_Negative_TCells_Pathogenicity_Z-001-1183]]
+- [[Premature_Cardiovascular_Disease_Autoimmunity_Z-001-1185]]
+- [[TCell_Receptor_Repertoire_Restriction_Autoimmunity_Z-001-1184]]
+
+## Source
+
+[[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]
+
+## Related Zettels from Same Source
+
+- [[CD28_Negative_TCells_Pathogenicity_Z-001-1183]]
+- [[Premature_Cardiovascular_Disease_Autoimmunity_Z-001-1185]]
+- [[TCell_Receptor_Repertoire_Restriction_Autoimmunity_Z-001-1184]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[CD28_Negative_TCells_Pathogenicity_Z-001-1183]]
+- [[Premature_Cardiovascular_Disease_Autoimmunity_Z-001-1185]]
+- [[TCell_Receptor_Repertoire_Restriction_Autoimmunity_Z-001-1184]]
+
+## Source
+
+[[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]
+
+## Related Zettels from Same Source
+
+- [[CD28_Negative_TCells_Pathogenicity_Z-001-1183]]
+- [[Premature_Cardiovascular_Disease_Autoimmunity_Z-001-1185]]
+- [[TCell_Receptor_Repertoire_Restriction_Autoimmunity_Z-001-1184]]
 
 ## The Shift in T-Cell Compartments
 

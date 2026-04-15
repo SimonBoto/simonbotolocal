@@ -23,6 +23,46 @@ extraction-date: 2026-03-08
 ---
 
 # Aldoses and Ketoses — Reference Table
+## Related Zettels from Same Source
+
+- [[Amino_Acid_Complete_Classification_Table_Z-001-1115]]
+- [[Organic_Acids_Structures_Functions_Z-001-1116]]
+
+## Source
+
+[[LitNote_Comparative_Biochemistry_Tables_L-001-0607]]
+
+## Related Zettels from Same Source
+
+- [[Amino_Acid_Complete_Classification_Table_Z-001-1115]]
+- [[Organic_Acids_Structures_Functions_Z-001-1116]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Amino_Acid_Complete_Classification_Table_Z-001-1115]]
+- [[Organic_Acids_Structures_Functions_Z-001-1116]]
+
+## Source
+
+[[LitNote_Comparative_Biochemistry_Tables_L-001-0607]]
+
+## Related Zettels from Same Source
+
+- [[Amino_Acid_Complete_Classification_Table_Z-001-1115]]
+- [[Organic_Acids_Structures_Functions_Z-001-1116]]
 
 ## Core Claim
 **Aldoses (carbonyl at C1) and ketoses (carbonyl at C2) represent the two fundamental classes of monosaccharides, with biological roles determined by carbon number and stereochemistry** — glucose (aldohexose) and fructose (ketohexose) dominate metabolism, while ribose (aldopentose) is essential for nucleic acids.

@@ -14,8 +14,60 @@ created: 2026-03-27
 ---
 
 # Declaration of Helsinki on  Ethics
+## Related Zettels from Same Source
+
+- [[Belmont_Report_Ethical_Principles_1979_Z-002-0610]]
+- [[CIOMS_International_Research_Ethics_Z-002-0611]]
+- [[ICH_Good_Clinical_Practice_GCP_Z-002-0612]]
+- [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608]]
+- [[Tuskegee_Syphilis_Study_Ethics_Case_Z-002-0622]]
+
+## Source
+
+[[LitNote_Historical_Ethics_Guidelines_L-002-0602]
+
+## Related Zettels from Same Source
+
+- [[Belmont_Report_Ethical_Principles_1979_Z-002-0610]]
+- [[CIOMS_International_Research_Ethics_Z-002-0611]]
+- [[ICH_Good_Clinical_Practice_GCP_Z-002-0612]]
+- [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608]]
+- [[Tuskegee_Syphilis_Study_Ethics_Case_Z-002-0622]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 World Medical Association's international ethical standard for medical research involving human subjects. First adopted 1964, revised multiple times (1975, 1983, 1989, 1996, 2000, 2008, 2013).
+
+## Related Zettels from Same Source
+
+- [[Belmont_Report_Ethical_Principles_1979_Z-002-0610]]
+- [[CIOMS_International_Research_Ethics_Z-002-0611]]
+- [[ICH_Good_Clinical_Practice_GCP_Z-002-0612]]
+- [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608]]
+- [[Tuskegee_Syphilis_Study_Ethics_Case_Z-002-0622]]
+
+## Source
+
+[[LitNote_Historical_Ethics_Guidelines_L-002-0602]
+
+## Related Zettels from Same Source
+
+- [[Belmont_Report_Ethical_Principles_1979_Z-002-0610]]
+- [[CIOMS_International_Research_Ethics_Z-002-0611]]
+- [[ICH_Good_Clinical_Practice_GCP_Z-002-0612]]
+- [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608]]
+- [[Tuskegee_Syphilis_Study_Ethics_Case_Z-002-0622]]
 
 ## Core Principles
 

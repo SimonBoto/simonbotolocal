@@ -14,6 +14,18 @@ extraction-date: 2026-04-15
 ---
 
 # Vitamin C Biochemical Functions
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Vitamin C serves as an essential cofactor for multiple critical physiological processes: collagen synthesis, free radical neutralization, antioxidant regeneration, neurotransmitter production, and immune function — explaining why deficiency has systemic consequences.
 
@@ -119,6 +131,16 @@ Vitamin C serves as an essential cofactor for multiple critical physiological pr
 ## Core Principle
 
 Vitamin C serves as an essential cofactor for multiple critical physiological processes: collagen synthesis, free radical neutralization, antioxidant regeneration, neurotransmitter production, and immune function — explaining why deficiency has systemic consequences.
+
+## Related Zettels from Same Source
+
+- [[High_Dose_Vitamin_C_Cancer_Therapy_Z-001-0626]]
+- [[Human_GULO_Gene_Loss_Vitamin_C_Dependency_Z-001-0621]]
+- [[Medical_Establishment_Suppression_Pauling_Z-001-0625]]
+- [[Orthomolecular_Medicine_Pauling_Legacy_Z-001-0627]]
+- [[Pauling_Scientific_Credentials_Vitamin_C_Z-001-0620]]
+- [[Vitamin_C_Evolutionary_Mismatch_Modern_Diet_Z-001-0624]]
+- [[Vitamin_C_RDA_vs_Optimal_Intake_Z-001-0622]]
 
 ## Source
 [[LitNote_KingOfVitamins_Pauling_Vitamin_C_2025_L-001-0656]] — Vitamin King (2025)

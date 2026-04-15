@@ -22,6 +22,54 @@ extraction-date: 2026-03-08
 ---
 
 # Nucleoside Formation and Phosphorylation Pathways
+## Related Zettels from Same Source
+
+- [[Adenine_Purine_Base_Structure_Function_Z-001-1084]]
+- [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083]]
+- [[Purine_Salvage_Pathway_Recycling_Mechanism_Z-001-1087]]
+- [[Ribose_Pentose_Backbone_RNA_ATP_Z-001-1085]]
+
+## Source
+
+[[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]]
+
+## Related Zettels from Same Source
+
+- [[Adenine_Purine_Base_Structure_Function_Z-001-1084]]
+- [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083]]
+- [[Purine_Salvage_Pathway_Recycling_Mechanism_Z-001-1087]]
+- [[Ribose_Pentose_Backbone_RNA_ATP_Z-001-1085]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Adenine_Purine_Base_Structure_Function_Z-001-1084]]
+- [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083]]
+- [[Purine_Salvage_Pathway_Recycling_Mechanism_Z-001-1087]]
+- [[Ribose_Pentose_Backbone_RNA_ATP_Z-001-1085]]
+
+## Source
+
+[[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]]
+
+## Related Zettels from Same Source
+
+- [[Adenine_Purine_Base_Structure_Function_Z-001-1084]]
+- [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083]]
+- [[Purine_Salvage_Pathway_Recycling_Mechanism_Z-001-1087]]
+- [[Ribose_Pentose_Backbone_RNA_ATP_Z-001-1085]]
 
 ## Mechanism
 

@@ -14,6 +14,26 @@ created: 2026-03-08
 ---
 
 # Novel vs Traditional Markers Insulin Resistance
+## Source
+
+[[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]
 
 ## Overview
 METHAP compares novel -based s (urine organic acids, plasma fatty acids) to traditional clinical markers (glucose, insulin, HbA1c)—aiming to validate earlier, more sensitive detection of insulin resistance.

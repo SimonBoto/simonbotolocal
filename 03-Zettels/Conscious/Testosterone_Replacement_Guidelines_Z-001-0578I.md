@@ -17,8 +17,28 @@ status: conscious
 ---
 
 # Testosterone Replacement Guidelines
+## Source
+
+[[Male_Hormone_Assessment_-_Clinical_Scenarios_and_L-001-0578_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 This zettel documents evidence-based guidelines for testosterone replacement therapy (TRT) in males with hypogonadism.
+
+## Source
+
+[[Male_Hormone_Assessment_-_Clinical_Scenarios_and_L-001-0578_v4.0]]
 
 ## Core Principle
 

@@ -16,6 +16,18 @@ created: 2026-02-22
 ---
 
 # Akt Substrate Phosphorylation
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Fully activated Akt phosphorylates multiple substrates to execute 's metabolic effects.
 

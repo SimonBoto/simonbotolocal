@@ -14,6 +14,18 @@ related: []
 ---
 
 # Low Carb Superior to Low Fat for Metabolic Syndrome
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Randomized controlled trials demonstrate that **low-carbohydrate diets are superior to low-fat diets** for reversing metabolic syndrome, with greater improvements in weight, glycemic control, and lipid profiles.

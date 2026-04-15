@@ -12,6 +12,18 @@ extraction-date: 2026-03-01
 ---
 
 # Zn Se Nutritional Sources Supplementation
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Optimal zinc and selenium status requires adequate dietary intake from diverse sources, with supplementation indicated for documented deficiency, vegan/vegetarian diets, or malabsorption; zinc supplementation requires caution to avoid copper deficiency (>40 mg/day), while selenium supplementation requires attention to narrow therapeutic window and dramatic regional soil variation affecting food content.
@@ -89,6 +101,12 @@ Optimal zinc and selenium status requires adequate dietary intake from diverse s
 ## Related Zettels
 - [[Zinc_Mitochondrial_Function_Z-001-0550]]
 - [[Selenium_Mitochondrial_Antioxidant_Z-001-0551]]
+- [[Zn_Se_Synergistic_OXPHOS_Protection_Z-001-0552]]
+
+## Related Zettels from Same Source
+
+- [[Selenium_Mitochondrial_Antioxidant_Z-001-0551]]
+- [[Zinc_Mitochondrial_Function_Z-001-0550]]
 - [[Zn_Se_Synergistic_OXPHOS_Protection_Z-001-0552]]
 
 ## Source

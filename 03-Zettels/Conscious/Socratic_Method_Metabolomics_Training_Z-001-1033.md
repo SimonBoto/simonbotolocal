@@ -13,6 +13,54 @@ extraction-date: 2026-03-08
 ---
 
 # Socratic Method Metabolomics Training
+## Related Zettels from Same Source
+
+- [[MCI_Three_Function_Architecture_Z-001-1030]]
+- [[Metabolomics_Chief_Instructor_Role_Definition_Z-001-1029]]
+- [[Six_Stage_Patient_Flow_Framework_Z-001-1031]]
+- [[Tiered_Supplement_Prescribing_Hierarchy_Z-001-1032]]
+
+## Source
+
+[[L-001-0588_Metabolomics_Chief_Instructor_Framework_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[MCI_Three_Function_Architecture_Z-001-1030]]
+- [[Metabolomics_Chief_Instructor_Role_Definition_Z-001-1029]]
+- [[Six_Stage_Patient_Flow_Framework_Z-001-1031]]
+- [[Tiered_Supplement_Prescribing_Hierarchy_Z-001-1032]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[MCI_Three_Function_Architecture_Z-001-1030]]
+- [[Metabolomics_Chief_Instructor_Role_Definition_Z-001-1029]]
+- [[Six_Stage_Patient_Flow_Framework_Z-001-1031]]
+- [[Tiered_Supplement_Prescribing_Hierarchy_Z-001-1032]]
+
+## Source
+
+[[L-001-0588_Metabolomics_Chief_Instructor_Framework_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[MCI_Three_Function_Architecture_Z-001-1030]]
+- [[Metabolomics_Chief_Instructor_Role_Definition_Z-001-1029]]
+- [[Six_Stage_Patient_Flow_Framework_Z-001-1031]]
+- [[Tiered_Supplement_Prescribing_Hierarchy_Z-001-1032]]
 
 ## Core Claim
 **Teaching through guided discovery — letting trainees make errors, modeling correction, and explaining reasoning patterns — develops clinical reasoning rather than mere knowledge memorization, creating clinicians who can think independently rather than follow algorithms.**

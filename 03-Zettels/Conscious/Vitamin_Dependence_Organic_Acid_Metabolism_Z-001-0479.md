@@ -29,6 +29,54 @@ extraction-date: 2026-03-04
 ---
 
 # Vitamin Dependence in Organic Acid Metabolism
+## Related Zettels from Same Source
+
+- [[Aldehyde_vs_Ketone_Chemistry_Z-001-0480]]
+- [[Keto_Acids_vs_Carboxylic_Acids_Z-001-0476]]
+- [[Propionate_Metabolism_Gluconeogenesis_Z-001-0478]]
+- [[Pyruvate_Central_Metabolic_Role_Z-001-0477]]
+
+## Source
+
+[[L-001-0045F_Keto_Acids_Organic_Acids_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Aldehyde_vs_Ketone_Chemistry_Z-001-0480]]
+- [[Keto_Acids_vs_Carboxylic_Acids_Z-001-0476]]
+- [[Propionate_Metabolism_Gluconeogenesis_Z-001-0478]]
+- [[Pyruvate_Central_Metabolic_Role_Z-001-0477]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Aldehyde_vs_Ketone_Chemistry_Z-001-0480]]
+- [[Keto_Acids_vs_Carboxylic_Acids_Z-001-0476]]
+- [[Propionate_Metabolism_Gluconeogenesis_Z-001-0478]]
+- [[Pyruvate_Central_Metabolic_Role_Z-001-0477]]
+
+## Source
+
+[[L-001-0045F_Keto_Acids_Organic_Acids_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Aldehyde_vs_Ketone_Chemistry_Z-001-0480]]
+- [[Keto_Acids_vs_Carboxylic_Acids_Z-001-0476]]
+- [[Propionate_Metabolism_Gluconeogenesis_Z-001-0478]]
+- [[Pyruvate_Central_Metabolic_Role_Z-001-0477]]
 
 ## Core Claim
 **Six B-vitamins are essential cofactors for organic acid metabolism — thiamine (B1), riboflavin (B2), niacin (B3), pantothenate (B5), biotin (B7), and cobalamin (B12) each serve distinct roles in pyruvate oxidation, Krebs cycle function, and carboxylation reactions** — deficiencies cause characteristic organic acidemias and neurological syndromes.

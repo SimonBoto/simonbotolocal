@@ -15,6 +15,18 @@ related: []
 ---
 
 # Social Connection Health Benefit — Relationships Predict Mortality
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Social relationships and community connections are critical determinants of health outcomes** — strong social ties predict longevity as powerfully as smoking predicts mortality, while loneliness and social isolation increase risk of death, cardiovascular disease, depression, and cognitive decline comparable to major biomedical risk factors.
@@ -138,6 +150,11 @@ related: []
 | **Social prescribing** | Connect to groups |
 | **Group medical visits** | Peer support |
 | **Community referrals** | Local resources |
+
+## Related Zettels from Same Source
+
+- [[Health_Foundations_Diet_Movement_Sleep_Z-002-0775]]
+- [[Twelve_Evidence_Based_Health_Actions_Z-002-0774]]
 
 ## Source
 - **LitNote:** [[L-002-0212_Twelve_Actions_Better_Health]]

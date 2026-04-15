@@ -12,9 +12,26 @@ extraction-date: 2026-04-15
 ---
 
 # Batch Effects Detection and Correction in 
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Definition
 **Batch effects** are technical variations introduced when samples are processed or analyzed at different times, by different operators, or with different reagent lots. They often exceed biological variation and drive false discoveries.
+
+## Related Zettels from Same Source
+
+- [[Instrument_Drift_QC_Monitoring_Requirements_Z-001-0941]]
+- [[Sample_Preparation_Variability_Control_Z-001-0940]]
 
 ## Sources of Batch Effects
 
@@ -31,6 +48,11 @@ extraction-date: 2026-04-15
 - Column conditioning changes over run
 - Source contamination builds up
 - Solution: Randomize sample order
+
+## Related Zettels from Same Source
+
+- [[Instrument_Drift_QC_Monitoring_Requirements_Z-001-0941]]
+- [[Sample_Preparation_Variability_Control_Z-001-0940]]
 
 ## Detection Methods
 
@@ -120,6 +142,11 @@ Batch 2: D5, C5, D6, QC, C6, D7, C7, QC, D8, C8...
 
 source-litnote: Synthesized from clinical practice
 
+## Related Zettels from Same Source
+
+- [[Instrument_Drift_QC_Monitoring_Requirements_Z-001-0941]]
+- [[Sample_Preparation_Variability_Control_Z-001-0940]]
+
 ## Source
 [[LitNote_Technical_Confounders_Metabolomics_L-001-0520]
 
@@ -127,6 +154,11 @@ source-litnote: Synthesized from clinical practice
 
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
+
+## Related Zettels from Same Source
+
+- [[Instrument_Drift_QC_Monitoring_Requirements_Z-001-0941]]
+- [[Sample_Preparation_Variability_Control_Z-001-0940]]
 
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]

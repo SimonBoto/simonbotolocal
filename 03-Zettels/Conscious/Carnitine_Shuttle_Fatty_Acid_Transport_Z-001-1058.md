@@ -13,6 +13,54 @@ extraction-date: 2026-03-08
 ---
 
 # Carnitine Shuttle Fatty Acid Transport
+## Related Zettels from Same Source
+
+- [[Beta_Oxidation_Clinical_Mechanisms_Z-001-1054]]
+- [[Fatty_Acid_Ratios_Clinical_Interpretation_Z-001-1056]]
+- [[Fatty_Acid_Subclasses_Desaturase_Pathways_Z-001-1055]]
+- [[Ketosis_Metabolic_Flexibility_Clinical_Z-001-1057]]
+
+## Source
+
+[[L-001-0592_Fatty_Acid_Metabolism_Lipid_Signaling_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Beta_Oxidation_Clinical_Mechanisms_Z-001-1054]]
+- [[Fatty_Acid_Ratios_Clinical_Interpretation_Z-001-1056]]
+- [[Fatty_Acid_Subclasses_Desaturase_Pathways_Z-001-1055]]
+- [[Ketosis_Metabolic_Flexibility_Clinical_Z-001-1057]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Beta_Oxidation_Clinical_Mechanisms_Z-001-1054]]
+- [[Fatty_Acid_Ratios_Clinical_Interpretation_Z-001-1056]]
+- [[Fatty_Acid_Subclasses_Desaturase_Pathways_Z-001-1055]]
+- [[Ketosis_Metabolic_Flexibility_Clinical_Z-001-1057]]
+
+## Source
+
+[[L-001-0592_Fatty_Acid_Metabolism_Lipid_Signaling_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Beta_Oxidation_Clinical_Mechanisms_Z-001-1054]]
+- [[Fatty_Acid_Ratios_Clinical_Interpretation_Z-001-1056]]
+- [[Fatty_Acid_Subclasses_Desaturase_Pathways_Z-001-1055]]
+- [[Ketosis_Metabolic_Flexibility_Clinical_Z-001-1057]]
 
 ## Core Claim
 **The carnitine shuttle system — comprising CPT-I, carnitine-acylcarnitine translocase, and CPT-II — is essential for transporting long-chain fatty acids across the impermeable inner mitochondrial membrane, with carnitine deficiency or translocase dysfunction producing severe metabolic derangements including hypoketotic hypoglycemia and cardiomyopathy.**

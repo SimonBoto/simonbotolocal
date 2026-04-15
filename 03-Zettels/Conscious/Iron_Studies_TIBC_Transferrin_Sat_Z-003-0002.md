@@ -21,10 +21,30 @@ extraction-date: 2026-04-15
 ---
 
 # Iron Studies Panel — TIBC and Transferrin Saturation
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **TIBC (total iron binding capacity)** and **transferrin saturation** measure iron transport capacity and utilization. They differentiate true deficiency from anemia of chronic disease and identify iron overload.
 
 ---
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Principle
 

@@ -15,6 +15,18 @@ related: []
 ---
 
 # Patient Counseling for Carb Restriction Adherence
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Successful adherence to carbohydrate restriction requires **pre-emptive patient counseling** about the temporary nature of withdrawal symptoms, expected timeline (1-2 weeks difficult, 3-4 weeks adaptation), and strategies to manage the transition period — knowledge of the adaptation curve significantly improves long-term compliance.
@@ -100,6 +112,11 @@ Promise me you'll stick with it for 2 weeks before deciding."
 | Mild headache | Persistent vomiting |
 | Irritability | Chest pain |
 | Reduced exercise capacity | Severe dizziness |
+
+## Related Zettels from Same Source
+
+- [[Carb_Withdrawal_Symptoms_1-2_Weeks_Z-002-0666]]
+- [[Keto_Adaptation_Timeline_3-4_Weeks_Z-002-0667]]
 
 ## Source
 - **LitNote:** [[L-002-0177_Carb_Withdrawal_Keto_Adaptation]]

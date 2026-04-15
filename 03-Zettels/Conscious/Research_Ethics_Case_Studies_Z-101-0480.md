@@ -12,6 +12,26 @@ status: conscious
 ---
 
 #  Ethics Case Studies
+## Source
+
+[[LitNote_CGPT_0131_Medical_Ethics_L-101-0050.md]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_CGPT_0131_Medical_Ethics_L-101-0050.md]
 
 ## Purpose
 Learn from historical violations to prevent future abuses and strengthen protections.

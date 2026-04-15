@@ -12,8 +12,60 @@ extraction-date: 2026-03-01
 ---
 
 # MTHFR Testing and Interpretation
+## Related Zettels from Same Source
+
+- [[A1298C_Polymorphism_Regulatory_Z-001-0415]]
+- [[C677T_Polymorphism_Thermolabile_Z-001-0414]]
+- [[MTHFR_Cancer_Association_Complex_Z-001-0417]]
+- [[MTHFR_Clinical_Management_Folate_Z-001-0416]]
+- [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]]
+
+## Source
+
+[[LitNote_MTHFR_Genetics_L-001-0403]
+
+## Related Zettels from Same Source
+
+- [[A1298C_Polymorphism_Regulatory_Z-001-0415]]
+- [[C677T_Polymorphism_Thermolabile_Z-001-0414]]
+- [[MTHFR_Cancer_Association_Complex_Z-001-0417]]
+- [[MTHFR_Clinical_Management_Folate_Z-001-0416]]
+- [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > MTHFR genotyping can guide  supplementation but should be interpreted cautiously as these are common variants, not pathogenic mutations, and dietary folate status remains the dominant factor.
+
+## Related Zettels from Same Source
+
+- [[A1298C_Polymorphism_Regulatory_Z-001-0415]]
+- [[C677T_Polymorphism_Thermolabile_Z-001-0414]]
+- [[MTHFR_Cancer_Association_Complex_Z-001-0417]]
+- [[MTHFR_Clinical_Management_Folate_Z-001-0416]]
+- [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]]
+
+## Source
+
+[[LitNote_MTHFR_Genetics_L-001-0403]
+
+## Related Zettels from Same Source
+
+- [[A1298C_Polymorphism_Regulatory_Z-001-0415]]
+- [[C677T_Polymorphism_Thermolabile_Z-001-0414]]
+- [[MTHFR_Cancer_Association_Complex_Z-001-0417]]
+- [[MTHFR_Clinical_Management_Folate_Z-001-0416]]
+- [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]]
 
 ## Core Principle
 

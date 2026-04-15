@@ -13,6 +13,54 @@ extraction-date: 2026-03-08
 ---
 
 # Six Stage Patient Flow Framework
+## Related Zettels from Same Source
+
+- [[MCI_Three_Function_Architecture_Z-001-1030]]
+- [[Metabolomics_Chief_Instructor_Role_Definition_Z-001-1029]]
+- [[Socratic_Method_Metabolomics_Training_Z-001-1033]]
+- [[Tiered_Supplement_Prescribing_Hierarchy_Z-001-1032]]
+
+## Source
+
+[[L-001-0588_Metabolomics_Chief_Instructor_Framework_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[MCI_Three_Function_Architecture_Z-001-1030]]
+- [[Metabolomics_Chief_Instructor_Role_Definition_Z-001-1029]]
+- [[Socratic_Method_Metabolomics_Training_Z-001-1033]]
+- [[Tiered_Supplement_Prescribing_Hierarchy_Z-001-1032]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[MCI_Three_Function_Architecture_Z-001-1030]]
+- [[Metabolomics_Chief_Instructor_Role_Definition_Z-001-1029]]
+- [[Socratic_Method_Metabolomics_Training_Z-001-1033]]
+- [[Tiered_Supplement_Prescribing_Hierarchy_Z-001-1032]]
+
+## Source
+
+[[L-001-0588_Metabolomics_Chief_Instructor_Framework_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[MCI_Three_Function_Architecture_Z-001-1030]]
+- [[Metabolomics_Chief_Instructor_Role_Definition_Z-001-1029]]
+- [[Socratic_Method_Metabolomics_Training_Z-001-1033]]
+- [[Tiered_Supplement_Prescribing_Hierarchy_Z-001-1032]]
 
 ## Core Claim
 **The complete metabolomics patient journey follows six stages — Assessment → Sample Logistics → Analysis → Reporting → Treatment → Follow-up — with each stage teaching distinct clinical skills and together forming the curriculum for training metabolomics clinicians.**

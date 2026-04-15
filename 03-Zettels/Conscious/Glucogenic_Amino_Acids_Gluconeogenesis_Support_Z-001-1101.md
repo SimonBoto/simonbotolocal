@@ -21,6 +21,54 @@ extraction-date: 2026-03-08
 ---
 
 # Glucogenic Amino Acids — Gluconeogenesis Support
+## Related Zettels from Same Source
+
+- [[Alpha_Keto_Acids_Transamination_Intermediates_Z-001-1099]]
+- [[Amino_Acid_Krebs_Entry_Points_Map_Z-001-1098]]
+- [[Glycogenic_Ketogenic_Amino_Acid_Classification_Z-001-1097]]
+- [[Transamination_B6_Cofactors_Amino_Acid_Metabolism_Z-001-1100]]
+
+## Source
+
+[[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]]
+
+## Related Zettels from Same Source
+
+- [[Alpha_Keto_Acids_Transamination_Intermediates_Z-001-1099]]
+- [[Amino_Acid_Krebs_Entry_Points_Map_Z-001-1098]]
+- [[Glycogenic_Ketogenic_Amino_Acid_Classification_Z-001-1097]]
+- [[Transamination_B6_Cofactors_Amino_Acid_Metabolism_Z-001-1100]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Alpha_Keto_Acids_Transamination_Intermediates_Z-001-1099]]
+- [[Amino_Acid_Krebs_Entry_Points_Map_Z-001-1098]]
+- [[Glycogenic_Ketogenic_Amino_Acid_Classification_Z-001-1097]]
+- [[Transamination_B6_Cofactors_Amino_Acid_Metabolism_Z-001-1100]]
+
+## Source
+
+[[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]]
+
+## Related Zettels from Same Source
+
+- [[Alpha_Keto_Acids_Transamination_Intermediates_Z-001-1099]]
+- [[Amino_Acid_Krebs_Entry_Points_Map_Z-001-1098]]
+- [[Glycogenic_Ketogenic_Amino_Acid_Classification_Z-001-1097]]
+- [[Transamination_B6_Cofactors_Amino_Acid_Metabolism_Z-001-1100]]
 
 ## Core Claim
 **Eighteen of 20 amino acids are glucogenic, meaning they can be converted to glucose via gluconeogenesis — this provides a critical mechanism for maintaining blood glucose during fasting, starvation, and carbohydrate restriction when glycogen stores are depleted** — only leucine and lysine are exclusively ketogenic.

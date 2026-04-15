@@ -12,8 +12,28 @@ extraction-date: 2026-03-01
 ---
 
 # Metabolic Flexibility — Substrate Switch
+## Source
+
+[[LitNote_Mitochondrial_Health_Strategies_L-001-0511]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Metabolic flexibility is the capacity to shift between glucose and fatty acid oxidation based on availability and demand — a hallmark of healthy l function.
+
+## Source
+
+[[LitNote_Mitochondrial_Health_Strategies_L-001-0511]
 
 ## Core Principle
 

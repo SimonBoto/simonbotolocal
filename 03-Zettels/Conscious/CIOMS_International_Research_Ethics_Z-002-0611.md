@@ -14,8 +14,60 @@ created: 2026-03-27
 ---
 
 # CIOMS International  Ethics Guidelines
+## Related Zettels from Same Source
+
+- [[Belmont_Report_Ethical_Principles_1979_Z-002-0610]]
+- [[Declaration_Helsinki_Research_Ethics_Z-002-0609]]
+- [[ICH_Good_Clinical_Practice_GCP_Z-002-0612]]
+- [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608]]
+- [[Tuskegee_Syphilis_Study_Ethics_Case_Z-002-0622]]
+
+## Source
+
+[[LitNote_Historical_Ethics_Guidelines_L-002-0602]
+
+## Related Zettels from Same Source
+
+- [[Belmont_Report_Ethical_Principles_1979_Z-002-0610]]
+- [[Declaration_Helsinki_Research_Ethics_Z-002-0609]]
+- [[ICH_Good_Clinical_Practice_GCP_Z-002-0612]]
+- [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608]]
+- [[Tuskegee_Syphilis_Study_Ethics_Case_Z-002-0622]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Council for International Organizations of Medical Sciences (CIOMS) and WHO guidelines for biomedical research involving human subjects, particularly in resource-limited settings. First 1982, revised 1993, 2002, 2016.
+
+## Related Zettels from Same Source
+
+- [[Belmont_Report_Ethical_Principles_1979_Z-002-0610]]
+- [[Declaration_Helsinki_Research_Ethics_Z-002-0609]]
+- [[ICH_Good_Clinical_Practice_GCP_Z-002-0612]]
+- [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608]]
+- [[Tuskegee_Syphilis_Study_Ethics_Case_Z-002-0622]]
+
+## Source
+
+[[LitNote_Historical_Ethics_Guidelines_L-002-0602]
+
+## Related Zettels from Same Source
+
+- [[Belmont_Report_Ethical_Principles_1979_Z-002-0610]]
+- [[Declaration_Helsinki_Research_Ethics_Z-002-0609]]
+- [[ICH_Good_Clinical_Practice_GCP_Z-002-0612]]
+- [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608]]
+- [[Tuskegee_Syphilis_Study_Ethics_Case_Z-002-0622]]
 
 ## Core Principle
 

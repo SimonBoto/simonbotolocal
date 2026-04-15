@@ -14,6 +14,18 @@ related: []
 ---
 
 # Metabolic Cluster as Insulin Resistance Manifestations
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Hypertension + high triglycerides + low HDL + sdLDL + obesity** are not separate risk factors but **manifestations of insulin resistance** — a unified metabolic problem.

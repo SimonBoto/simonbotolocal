@@ -24,6 +24,54 @@ extraction-date: 2026-03-08
 ---
 
 # Ribose — Pentose Backbone of RNA and ATP
+## Related Zettels from Same Source
+
+- [[Adenine_Purine_Base_Structure_Function_Z-001-1084]]
+- [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083]]
+- [[Nucleoside_Formation_Phosphorylation_Pathways_Z-001-1086]]
+- [[Purine_Salvage_Pathway_Recycling_Mechanism_Z-001-1087]]
+
+## Source
+
+[[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]]
+
+## Related Zettels from Same Source
+
+- [[Adenine_Purine_Base_Structure_Function_Z-001-1084]]
+- [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083]]
+- [[Nucleoside_Formation_Phosphorylation_Pathways_Z-001-1086]]
+- [[Purine_Salvage_Pathway_Recycling_Mechanism_Z-001-1087]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Adenine_Purine_Base_Structure_Function_Z-001-1084]]
+- [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083]]
+- [[Nucleoside_Formation_Phosphorylation_Pathways_Z-001-1086]]
+- [[Purine_Salvage_Pathway_Recycling_Mechanism_Z-001-1087]]
+
+## Source
+
+[[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]]
+
+## Related Zettels from Same Source
+
+- [[Adenine_Purine_Base_Structure_Function_Z-001-1084]]
+- [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083]]
+- [[Nucleoside_Formation_Phosphorylation_Pathways_Z-001-1086]]
+- [[Purine_Salvage_Pathway_Recycling_Mechanism_Z-001-1087]]
 
 ## Core Claim
 **Ribose is a five-carbon aldopentose sugar that forms the structural backbone of RNA and ATP, connecting carbohydrate metabolism (via PPP) to genetic information storage and energy transfer** — its 2'-OH group distinguishes RNA from DNA and enables catalytic functions.

@@ -18,8 +18,28 @@ status: conscious
 ---
 
 # Movement Prescription for Clinical Practice
+## Source
+
+[[Five_Pillars_of_Metabolic_Health_-_Clinical_Conf_L-001-0584_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > **Source:** ChatGPT conversation [[CGPT_0124_Profound_Truths_Revolutionizing_Health_CGPT-0124]] (July 15, 2025)
+
+## Source
+
+[[Five_Pillars_of_Metabolic_Health_-_Clinical_Conf_L-001-0584_v4.0]]
 
 ## Core Concept
 

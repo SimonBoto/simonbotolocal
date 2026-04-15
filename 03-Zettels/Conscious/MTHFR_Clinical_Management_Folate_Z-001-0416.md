@@ -12,8 +12,60 @@ extraction-date: 2026-03-01
 ---
 
 # MTHFR  Management and 
+## Related Zettels from Same Source
+
+- [[A1298C_Polymorphism_Regulatory_Z-001-0415]]
+- [[C677T_Polymorphism_Thermolabile_Z-001-0414]]
+- [[MTHFR_Cancer_Association_Complex_Z-001-0417]]
+- [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]]
+- [[MTHFR_Testing_Interpretation_Z-001-0418]]
+
+## Source
+
+[[LitNote_MTHFR_Genetics_L-001-0403]
+
+## Related Zettels from Same Source
+
+- [[A1298C_Polymorphism_Regulatory_Z-001-0415]]
+- [[C677T_Polymorphism_Thermolabile_Z-001-0414]]
+- [[MTHFR_Cancer_Association_Complex_Z-001-0417]]
+- [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]]
+- [[MTHFR_Testing_Interpretation_Z-001-0418]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > MTHFR polymorphisms increase folate requirements and necessitate using 5-methyltetrahydrofolate (methylfolate) rather than folic acid, as methylfolate bypasses the impaired MTHFR enzyme.
+
+## Related Zettels from Same Source
+
+- [[A1298C_Polymorphism_Regulatory_Z-001-0415]]
+- [[C677T_Polymorphism_Thermolabile_Z-001-0414]]
+- [[MTHFR_Cancer_Association_Complex_Z-001-0417]]
+- [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]]
+- [[MTHFR_Testing_Interpretation_Z-001-0418]]
+
+## Source
+
+[[LitNote_MTHFR_Genetics_L-001-0403]
+
+## Related Zettels from Same Source
+
+- [[A1298C_Polymorphism_Regulatory_Z-001-0415]]
+- [[C677T_Polymorphism_Thermolabile_Z-001-0414]]
+- [[MTHFR_Cancer_Association_Complex_Z-001-0417]]
+- [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]]
+- [[MTHFR_Testing_Interpretation_Z-001-0418]]
 
 ## Core Principle
 

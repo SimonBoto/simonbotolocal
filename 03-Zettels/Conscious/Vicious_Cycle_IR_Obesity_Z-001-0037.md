@@ -13,6 +13,18 @@ created: 2026-02-24
 ---
 
 # Vicious Cycle: IR → Obesity → IR
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
  resistance creates hyperinsulinemia as beta-cells attempt compensation. Elevated insulin promotes fat storage (lipogenesis) and inhibits lipolysis, driving weight gain.
 

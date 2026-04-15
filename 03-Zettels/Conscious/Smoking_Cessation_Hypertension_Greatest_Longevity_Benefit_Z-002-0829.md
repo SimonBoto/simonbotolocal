@@ -15,6 +15,46 @@ related: []
 ---
 
 # Smoking Cessation and Hypertension Control Provide Greatest Longevity Benefits
+## Related Zettels from Same Source
+
+- [[Cholesterol_Weight_Less_Impact_Other_Factors_Controlled_Z-002-0830]]
+- [[Five_Risk_Factors_14_Extra_Years_Women_Men_Z-002-0828]]
+
+## Source
+
+[[L-002-0230_Five_Risk_Factors_14_Years_NEJM]]
+
+## Related Zettels from Same Source
+
+- [[Cholesterol_Weight_Less_Impact_Other_Factors_Controlled_Z-002-0830]]
+- [[Five_Risk_Factors_14_Extra_Years_Women_Men_Z-002-0828]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Cholesterol_Weight_Less_Impact_Other_Factors_Controlled_Z-002-0830]]
+- [[Five_Risk_Factors_14_Extra_Years_Women_Men_Z-002-0828]]
+
+## Source
+
+[[L-002-0230_Five_Risk_Factors_14_Years_NEJM]]
+
+## Related Zettels from Same Source
+
+- [[Cholesterol_Weight_Less_Impact_Other_Factors_Controlled_Z-002-0830]]
+- [[Five_Risk_Factors_14_Extra_Years_Women_Men_Z-002-0828]]
 
 ## Core Claim
 **Among the five modifiable risk factors, smoking cessation provides the greatest longevity benefit, followed by hypertension control** — these two factors have the largest individual impact on life extension.

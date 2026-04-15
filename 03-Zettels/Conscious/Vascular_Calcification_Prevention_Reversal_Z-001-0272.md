@@ -12,8 +12,64 @@ extraction-date: 2026-03-01
 ---
 
 # Vascular Calcification Prevention and Reversal
+## Related Zettels from Same Source
+
+- [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]]
+- [[Measuring_Vascular_Calcification_Z-001-0271]]
+- [[MGP_Body_Defense_Vascular_Calcification_Z-001-0270]]
+- [[MGP_Vascular_Protection_Synergy_Z-001-0255]]
+- [[Vascular_Calcification_Pathophysiology_Z-001-0269]]
+- [[Vascular_Calcification_Silent_Killer_Z-001-0268]]
+
+## Source
+
+[[LitNote_Vascular_Calcification_L-001-0215]
+
+## Related Zettels from Same Source
+
+- [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]]
+- [[Measuring_Vascular_Calcification_Z-001-0271]]
+- [[MGP_Body_Defense_Vascular_Calcification_Z-001-0270]]
+- [[MGP_Vascular_Protection_Synergy_Z-001-0255]]
+- [[Vascular_Calcification_Pathophysiology_Z-001-0269]]
+- [[Vascular_Calcification_Silent_Killer_Z-001-0268]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 >  supplementation may slow progression of established vascular calcification and prevent new calcification, particularly when combined with  and  optimization.
+
+## Related Zettels from Same Source
+
+- [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]]
+- [[Measuring_Vascular_Calcification_Z-001-0271]]
+- [[MGP_Body_Defense_Vascular_Calcification_Z-001-0270]]
+- [[MGP_Vascular_Protection_Synergy_Z-001-0255]]
+- [[Vascular_Calcification_Pathophysiology_Z-001-0269]]
+- [[Vascular_Calcification_Silent_Killer_Z-001-0268]]
+
+## Source
+
+[[LitNote_Vascular_Calcification_L-001-0215]
+
+## Related Zettels from Same Source
+
+- [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]]
+- [[Measuring_Vascular_Calcification_Z-001-0271]]
+- [[MGP_Body_Defense_Vascular_Calcification_Z-001-0270]]
+- [[MGP_Vascular_Protection_Synergy_Z-001-0255]]
+- [[Vascular_Calcification_Pathophysiology_Z-001-0269]]
+- [[Vascular_Calcification_Silent_Killer_Z-001-0268]]
 
 ## Core Principle
 

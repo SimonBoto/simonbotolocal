@@ -13,8 +13,48 @@ source-litnote: Synthesized from clinical practice
 ---
 
 # Sample Size Strategies for PhD  Studies
+## Related Zettels from Same Source
+
+- [[Power_Analysis_Formula_Metabolomics_Z-001-0928]]
+- [[Underpowered_Study_Consequences_Z-001-0929]]
+
+## Source
+
+Synthesized from clinical practice
+
+## Related Zettels from Same Source
+
+- [[Power_Analysis_Formula_Metabolomics_Z-001-0928]]
+- [[Underpowered_Study_Consequences_Z-001-0929]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **Reality:** Most PhD projects cannot achieve 500+ subjects per group. Strategic design allows meaningful science with feasible samples.
+
+## Related Zettels from Same Source
+
+- [[Power_Analysis_Formula_Metabolomics_Z-001-0928]]
+- [[Underpowered_Study_Consequences_Z-001-0929]]
+
+## Source
+
+Synthesized from clinical practice
+
+## Related Zettels from Same Source
+
+- [[Power_Analysis_Formula_Metabolomics_Z-001-0928]]
+- [[Underpowered_Study_Consequences_Z-001-0929]]
 
 ## Core Principle
 

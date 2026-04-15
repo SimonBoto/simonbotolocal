@@ -15,6 +15,46 @@ related: []
 ---
 
 # Low-Carb Meta-Analysis of 174 RCTs Shows Consistent Metabolic Benefits
+## Related Zettels from Same Source
+
+- [[Ketogenic_Greater_Weight_Loss_Not_Higher_CVD_Risk_Z-002-0821]]
+- [[LDL_Increase_Context_Metabolic_Improvements_Z-002-0820]]
+
+## Source
+
+[[L-002-0227_Carb_Restriction_CVD_Meta_Analysis]]
+
+## Related Zettels from Same Source
+
+- [[Ketogenic_Greater_Weight_Loss_Not_Higher_CVD_Risk_Z-002-0821]]
+- [[LDL_Increase_Context_Metabolic_Improvements_Z-002-0820]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Ketogenic_Greater_Weight_Loss_Not_Higher_CVD_Risk_Z-002-0821]]
+- [[LDL_Increase_Context_Metabolic_Improvements_Z-002-0820]]
+
+## Source
+
+[[L-002-0227_Carb_Restriction_CVD_Meta_Analysis]]
+
+## Related Zettels from Same Source
+
+- [[Ketogenic_Greater_Weight_Loss_Not_Higher_CVD_Risk_Z-002-0821]]
+- [[LDL_Increase_Context_Metabolic_Improvements_Z-002-0820]]
 
 ## Core Claim
 **The largest meta-analysis of carbohydrate restriction to date — 174 randomized controlled trials — demonstrates consistent and significant metabolic benefits** across diverse populations and study designs.

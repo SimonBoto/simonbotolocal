@@ -14,6 +14,18 @@ updated: 2026-03-05
 ---
 
 # Transcriptomics — The Transcriptome as Bridge to Proteome
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Transcriptomics studies the complete set of transcription products (RNAs) in an organism — the transcriptome. This represents the **first step of gene expression**, where genetic information flows from DNA to functional molecules.
 

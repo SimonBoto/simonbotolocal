@@ -14,6 +14,18 @@ updated: 2026-03-05
 ---
 
 # Microbiomics — Gut Microbiome as Metabolic Organ
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Microbiomics studies the microbiome — the complete set of microbial genes and molecules produced by the microorganisms inhabiting the human body. The gut microbiome functions as a **metabolic organ** interacting with host physiology.
 

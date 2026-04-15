@@ -12,8 +12,60 @@ extraction-date: 2026-03-01
 ---
 
 # A1298C Polymorphism — Regulatory Variant
+## Related Zettels from Same Source
+
+- [[C677T_Polymorphism_Thermolabile_Z-001-0414]]
+- [[MTHFR_Cancer_Association_Complex_Z-001-0417]]
+- [[MTHFR_Clinical_Management_Folate_Z-001-0416]]
+- [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]]
+- [[MTHFR_Testing_Interpretation_Z-001-0418]]
+
+## Source
+
+[[LitNote_MTHFR_Genetics_L-001-0403]]
+
+## Related Zettels from Same Source
+
+- [[C677T_Polymorphism_Thermolabile_Z-001-0414]]
+- [[MTHFR_Cancer_Association_Complex_Z-001-0417]]
+- [[MTHFR_Clinical_Management_Folate_Z-001-0416]]
+- [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]]
+- [[MTHFR_Testing_Interpretation_Z-001-0418]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > The A1298C MTHFR polymorphism (rs1801131) substitutes glutamate with alanine in the regulatory domain, affecting enzyme regulation rather than catalytic activity, with homozygotes (CC) having ~60% enzyme activity.
+
+## Related Zettels from Same Source
+
+- [[C677T_Polymorphism_Thermolabile_Z-001-0414]]
+- [[MTHFR_Cancer_Association_Complex_Z-001-0417]]
+- [[MTHFR_Clinical_Management_Folate_Z-001-0416]]
+- [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]]
+- [[MTHFR_Testing_Interpretation_Z-001-0418]]
+
+## Source
+
+[[LitNote_MTHFR_Genetics_L-001-0403]]
+
+## Related Zettels from Same Source
+
+- [[C677T_Polymorphism_Thermolabile_Z-001-0414]]
+- [[MTHFR_Cancer_Association_Complex_Z-001-0417]]
+- [[MTHFR_Clinical_Management_Folate_Z-001-0416]]
+- [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]]
+- [[MTHFR_Testing_Interpretation_Z-001-0418]]
 
 ## Core Principle
 

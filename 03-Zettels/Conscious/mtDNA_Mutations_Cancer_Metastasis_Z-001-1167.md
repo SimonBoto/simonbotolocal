@@ -11,6 +11,46 @@ status: conscious
 ---
 
 # mtDNA Mutations in Cancer and Metastasis
+## Related Zettels from Same Source
+
+- [[Mitochondrial_Dynamics_Fusion_Fission_Z-001-1168]]
+- [[Mitochondrial_Knockout_Models_Disease_Z-001-1166]]
+
+## Source
+
+[[LitNote_Mitochondrial_Gene_Knockout_Models_L-001-0622]
+
+## Related Zettels from Same Source
+
+- [[Mitochondrial_Dynamics_Fusion_Fission_Z-001-1168]]
+- [[Mitochondrial_Knockout_Models_Disease_Z-001-1166]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Mitochondrial_Dynamics_Fusion_Fission_Z-001-1168]]
+- [[Mitochondrial_Knockout_Models_Disease_Z-001-1166]]
+
+## Source
+
+[[LitNote_Mitochondrial_Gene_Knockout_Models_L-001-0622]
+
+## Related Zettels from Same Source
+
+- [[Mitochondrial_Dynamics_Fusion_Fission_Z-001-1168]]
+- [[Mitochondrial_Knockout_Models_Disease_Z-001-1166]]
 
 ## The Discovery
 

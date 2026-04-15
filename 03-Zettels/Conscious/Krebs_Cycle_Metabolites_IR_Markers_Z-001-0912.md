@@ -15,8 +15,56 @@ extraction-date: 2026-04-15
 ---
 
 # Krebs Cycle Metabolites as Insulin Resistance Markers
+## Related Zettels from Same Source
+
+- [[Carnitine_Fatty_Acid_Transport_Z-001-0913]]
+- [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0911]]
+- [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0914]]
+- [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0910]]
+
+## Source
+
+Synthesized from clinical practice
+
+## Related Zettels from Same Source
+
+- [[Carnitine_Fatty_Acid_Transport_Z-001-0913]]
+- [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0911]]
+- [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0914]]
+- [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0910]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Krebs cycle (tricarboxylic acid cycle) intermediates serve as functional s of mitochondrial  and insulin sensitivity. Accumulation of specific organic acids reflects enzymatic bottlenecks, cofactor deficiencies, or metabolic pathway dysregulation characteristic of insulin resistance.
+
+## Related Zettels from Same Source
+
+- [[Carnitine_Fatty_Acid_Transport_Z-001-0913]]
+- [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0911]]
+- [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0914]]
+- [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0910]]
+
+## Source
+
+Synthesized from clinical practice
+
+## Related Zettels from Same Source
+
+- [[Carnitine_Fatty_Acid_Transport_Z-001-0913]]
+- [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0911]]
+- [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0914]]
+- [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0910]]
 
 ## Core Principle
 

@@ -13,6 +13,54 @@ extraction-date: 2026-03-03
 ---
 
 # Bile Acid Synthesis from Cholesterol
+## Related Zettels from Same Source
+
+- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]]
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]]
+- [[Isoprenoids_Terpenes_Overview_Z-001-0569]]
+- [[Vitamin_D_Secosteroid_Synthesis_Z-001-0572]]
+
+## Source
+
+[[L-001-0519_Isoprenoids_Cholesterol_Derivatives_CGPT-0391]]
+
+## Related Zettels from Same Source
+
+- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]]
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]]
+- [[Isoprenoids_Terpenes_Overview_Z-001-0569]]
+- [[Vitamin_D_Secosteroid_Synthesis_Z-001-0572]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]]
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]]
+- [[Isoprenoids_Terpenes_Overview_Z-001-0569]]
+- [[Vitamin_D_Secosteroid_Synthesis_Z-001-0572]]
+
+## Source
+
+[[L-001-0519_Isoprenoids_Cholesterol_Derivatives_CGPT-0391]]
+
+## Related Zettels from Same Source
+
+- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]]
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]]
+- [[Isoprenoids_Terpenes_Overview_Z-001-0569]]
+- [[Vitamin_D_Secosteroid_Synthesis_Z-001-0572]]
 
 ## Core Claim
 **Bile acids — synthesized from cholesterol in the liver through 7α-hydroxylation (rate-limiting step) — serve as essential detergents for dietary fat emulsification and absorption, with 95% recycled via enterohepatic circulation, representing the primary pathway for cholesterol excretion and a therapeutic target for hypercholesterolemia through bile acid sequestrants.**

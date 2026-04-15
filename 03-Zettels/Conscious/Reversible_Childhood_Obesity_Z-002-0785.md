@@ -15,6 +15,18 @@ related: []
 ---
 
 # Childhood Obesity Is Reversible — The Window of Opportunity
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Childhood obesity is reversible with appropriate interventions** — while the global trend is alarming, individual and population-level interventions can reverse childhood obesity, especially when targeted during critical developmental windows before metabolic patterns become entrenched.
@@ -103,6 +115,11 @@ related: []
 ### Quote
 > "With decisive action, states can adopt comprehensive and mandatory measures to reshape food environments and ensure children's right to food and proper nutrition."
 > — UNICEF 2025
+
+## Related Zettels from Same Source
+
+- [[Obese_Children_Outnumber_Undernourished_Z-002-0783]]
+- [[UPF_Childhood_Obesity_Drivers_Z-002-0784]]
 
 ## Source
 - **LitNote:** [[L-002-0215_Pediatric_Obesity_Historic_Reversal]]

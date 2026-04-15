@@ -15,6 +15,46 @@ related: []
 ---
 
 # Saturated Fat Not Linked to CVD or Mortality — Tokyo Study
+## Related Zettels from Same Source
+
+- [[Dietary_Guidelines_Saturated_Fat_Not_Evidence_Based_Z-002-0874]]
+- [[Observational_Studies_Cannot_Prove_Causation_Fat_Health_Z-002-0873]]
+
+## Source
+
+[[L-002-0244_Animal_Saturated_Fat_Not_Mortality]]
+
+## Related Zettels from Same Source
+
+- [[Dietary_Guidelines_Saturated_Fat_Not_Evidence_Based_Z-002-0874]]
+- [[Observational_Studies_Cannot_Prove_Causation_Fat_Health_Z-002-0873]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Dietary_Guidelines_Saturated_Fat_Not_Evidence_Based_Z-002-0874]]
+- [[Observational_Studies_Cannot_Prove_Causation_Fat_Health_Z-002-0873]]
+
+## Source
+
+[[L-002-0244_Animal_Saturated_Fat_Not_Mortality]]
+
+## Related Zettels from Same Source
+
+- [[Dietary_Guidelines_Saturated_Fat_Not_Evidence_Based_Z-002-0874]]
+- [[Observational_Studies_Cannot_Prove_Causation_Fat_Health_Z-002-0873]]
 
 ## Core Claim
 **Consumption of animal and saturated fats is not associated with increased cardiovascular risk or mortality** — restricting these fats does not reduce death risk.
@@ -25,6 +65,11 @@ related: []
 | Saturated fat increases CVD risk | **NOT supported** |
 | Saturated fat increases mortality | **NOT supported** |
 | Reducing animal fat improves health | **NOT supported** |
+
+## Related Zettels from Same Source
+
+- [[Dietary_Guidelines_Saturated_Fat_Not_Evidence_Based_Z-002-0874]]
+- [[Observational_Studies_Cannot_Prove_Causation_Fat_Health_Z-002-0873]]
 
 ## Sources of Saturated Fat
 
@@ -40,6 +85,11 @@ related: []
 |------|---------|
 | Cocoa | Present |
 | Coconut oil | High |
+
+## Related Zettels from Same Source
+
+- [[Dietary_Guidelines_Saturated_Fat_Not_Evidence_Based_Z-002-0874]]
+- [[Observational_Studies_Cannot_Prove_Causation_Fat_Health_Z-002-0873]]
 
 ## Key Insight
 > "Consumption of animal and saturated fats is not associated with increased cardiovascular risk or increased mortality."

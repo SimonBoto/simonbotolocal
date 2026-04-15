@@ -11,6 +11,46 @@ status: conscious
 ---
 
 # Stool Changes During Dysbiosis Treatment —  Monitoring
+## Related Zettels from Same Source
+
+- [[Die_Off_Reaction_Herxheimer_Gut_Treatment_Z-001-1221]]
+- [[Herbal_Antimicrobials_Dysbiosis_Protocol_Z-001-1223]]
+
+## Source
+
+[[LitNote_Dysbiosis_Treatment_Die_Off_L-001-0635]
+
+## Related Zettels from Same Source
+
+- [[Die_Off_Reaction_Herxheimer_Gut_Treatment_Z-001-1221]]
+- [[Herbal_Antimicrobials_Dysbiosis_Protocol_Z-001-1223]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Die_Off_Reaction_Herxheimer_Gut_Treatment_Z-001-1221]]
+- [[Herbal_Antimicrobials_Dysbiosis_Protocol_Z-001-1223]]
+
+## Source
+
+[[LitNote_Dysbiosis_Treatment_Die_Off_L-001-0635]
+
+## Related Zettels from Same Source
+
+- [[Die_Off_Reaction_Herxheimer_Gut_Treatment_Z-001-1221]]
+- [[Herbal_Antimicrobials_Dysbiosis_Protocol_Z-001-1223]]
 
 ## Overview
 

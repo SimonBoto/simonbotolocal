@@ -15,6 +15,18 @@ related: []
 ---
 
 # Keto-Adaptation Timeline 3-4 Weeks
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Full keto-adaptation requires approximately 3-4 weeks**, during which the body progressively upregulates fat oxidation, ketone production, and mitochondrial efficiency — after adaptation, energy levels, mood, and cognitive function typically **exceed pre-diet baseline**.
@@ -95,6 +107,11 @@ related: []
 | **Initial evaluation** | Not before week 2 |
 | **Benefit assessment** | Week 4 or later |
 | **Long-term adherence** | Easier after week 3 |
+
+## Related Zettels from Same Source
+
+- [[Carb_Withdrawal_Symptoms_1-2_Weeks_Z-002-0666]]
+- [[Patient_Counseling_Carb_Restriction_Adherence_Z-002-0668]]
 
 ## Source
 - **LitNote:** [[L-002-0177_Carb_Withdrawal_Keto_Adaptation]]

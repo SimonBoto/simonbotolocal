@@ -13,8 +13,48 @@ source-litnote: Synthesized from clinical practice
 ---
 
 # Power Analysis Formula and Sample Size Calculation for 
+## Related Zettels from Same Source
+
+- [[Sample_Size_Strategies_PhD_Z-001-0930]]
+- [[Underpowered_Study_Consequences_Z-001-0929]]
+
+## Source
+
+Synthesized from clinical practice
+
+## Related Zettels from Same Source
+
+- [[Sample_Size_Strategies_PhD_Z-001-0930]]
+- [[Underpowered_Study_Consequences_Z-001-0929]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **Core Formula:** Sample size depends on effect size, desired power, significance level, and number of groups.
+
+## Related Zettels from Same Source
+
+- [[Sample_Size_Strategies_PhD_Z-001-0930]]
+- [[Underpowered_Study_Consequences_Z-001-0929]]
+
+## Source
+
+Synthesized from clinical practice
+
+## Related Zettels from Same Source
+
+- [[Sample_Size_Strategies_PhD_Z-001-0930]]
+- [[Underpowered_Study_Consequences_Z-001-0929]]
 
 ## Core Principle
 

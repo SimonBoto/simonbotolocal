@@ -12,8 +12,52 @@ extraction-date: 2026-03-01
 ---
 
 # The Kellogg Brothers — John Harvey vs. Will Keith
+## Related Zettels from Same Source
+
+- [[Battle_Creek_Sanitarium_John_Harvey_Kellogg_Z-001-0249]]
+- [[Cornflakes_Invention_Accident_1894_Z-001-0251]]
+- [[Kellogg_Company_Founding_1906_Z-001-0252]]
+
+## Source
+
+[[LitNote_Cereal_History_L-001-0211]
+
+## Related Zettels from Same Source
+
+- [[Battle_Creek_Sanitarium_John_Harvey_Kellogg_Z-001-0249]]
+- [[Cornflakes_Invention_Accident_1894_Z-001-0251]]
+- [[Kellogg_Company_Founding_1906_Z-001-0252]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > The contrasting philosophies of physician John Harvey Kellogg (health mission) and businessman Will Keith Kellogg (commercial vision) led to both the invention of cornflakes and the creation of the breakfast cereal industry—along with a permanent family rift.
+
+## Related Zettels from Same Source
+
+- [[Battle_Creek_Sanitarium_John_Harvey_Kellogg_Z-001-0249]]
+- [[Cornflakes_Invention_Accident_1894_Z-001-0251]]
+- [[Kellogg_Company_Founding_1906_Z-001-0252]]
+
+## Source
+
+[[LitNote_Cereal_History_L-001-0211]
+
+## Related Zettels from Same Source
+
+- [[Battle_Creek_Sanitarium_John_Harvey_Kellogg_Z-001-0249]]
+- [[Cornflakes_Invention_Accident_1894_Z-001-0251]]
+- [[Kellogg_Company_Founding_1906_Z-001-0252]]
 
 ## Core Principle
 

@@ -12,6 +12,26 @@ source-litnote: Synthesized from clinical practice
 ---
 
 # Oxidative Stress Biomarkers in Metabolomics
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Claim
 Metabolomics detects **oxidative stress biomarkers** that connect to metabolic syndrome and related pathologies, providing functional assessment of cellular redox status.

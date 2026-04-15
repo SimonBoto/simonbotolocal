@@ -12,6 +12,18 @@ extraction-date: 2026-04-15
 ---
 
 # Cross-Validation Strategies for Omics Prediction Models
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Principle
 **Cross-validation (CV) estimates how well a model generalizes to new data by training on subsets and testing on held-out samples.**

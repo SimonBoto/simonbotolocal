@@ -14,6 +14,18 @@ related: []
 ---
 
 # Five Modifiable Factors Provide 14 Extra Years of Life
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 The absence of five major modifiable risk factors (smoking, high BP, cholesterol, diabetes, abnormal weight) is associated with **14.5 extra years for women and 11.8 for men** — all reversible through lifestyle.

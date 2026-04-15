@@ -12,8 +12,56 @@ extraction-date: 2026-03-01
 ---
 
 # D-K2 Key Studies Summary
+## Related Zettels from Same Source
+
+- [[D_K2_Co_Supplementation_Evidence_Overview_Z-001-0263]]
+- [[D_K2_Metabolic_Outcomes_Co_Supplementation_Z-001-0265]]
+- [[D_K2_Research_Limitations_Gaps_Z-001-0266]]
+- [[METHAP_Evidence_Contribution_Z-001-0267]]
+
+## Source
+
+[[LitNote_D_K2_Co_Supplementation_Evidence_L-001-0214]
+
+## Related Zettels from Same Source
+
+- [[D_K2_Co_Supplementation_Evidence_Overview_Z-001-0263]]
+- [[D_K2_Metabolic_Outcomes_Co_Supplementation_Z-001-0265]]
+- [[D_K2_Research_Limitations_Gaps_Z-001-0266]]
+- [[METHAP_Evidence_Contribution_Z-001-0267]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Three landmark studies establish the evidence base for D-K2 co-supplementation: Knapen et al. (2013) on arterial stiffness, Shea et al. (2015) on coronary calcification, and Van Ballegooijen et al. (2017) on metabolic associations.
+
+## Related Zettels from Same Source
+
+- [[D_K2_Co_Supplementation_Evidence_Overview_Z-001-0263]]
+- [[D_K2_Metabolic_Outcomes_Co_Supplementation_Z-001-0265]]
+- [[D_K2_Research_Limitations_Gaps_Z-001-0266]]
+- [[METHAP_Evidence_Contribution_Z-001-0267]]
+
+## Source
+
+[[LitNote_D_K2_Co_Supplementation_Evidence_L-001-0214]
+
+## Related Zettels from Same Source
+
+- [[D_K2_Co_Supplementation_Evidence_Overview_Z-001-0263]]
+- [[D_K2_Metabolic_Outcomes_Co_Supplementation_Z-001-0265]]
+- [[D_K2_Research_Limitations_Gaps_Z-001-0266]]
+- [[METHAP_Evidence_Contribution_Z-001-0267]]
 
 ## Core Principle
 

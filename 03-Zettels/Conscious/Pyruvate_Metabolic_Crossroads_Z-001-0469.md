@@ -25,6 +25,54 @@ extraction-date: 2026-03-04
 ---
 
 # Pyruvate — Metabolic Crossroads
+## Related Zettels from Same Source
+
+- [[Evolutionary_Ancient_Glycolysis_Z-001-0470]]
+- [[Fructose_Glycolytic_Intermediate_Z-001-0468]]
+- [[Glycolysis_Steps_Regulation_Z-001-0467]]
+- [[Triose_Structure_Glyceraldehyde_DHAP_Z-001-0466]]
+
+## Source
+
+[[L-001-0045D_Triose_Metabolism_Glycolysis_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Evolutionary_Ancient_Glycolysis_Z-001-0470]]
+- [[Fructose_Glycolytic_Intermediate_Z-001-0468]]
+- [[Glycolysis_Steps_Regulation_Z-001-0467]]
+- [[Triose_Structure_Glyceraldehyde_DHAP_Z-001-0466]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Evolutionary_Ancient_Glycolysis_Z-001-0470]]
+- [[Fructose_Glycolytic_Intermediate_Z-001-0468]]
+- [[Glycolysis_Steps_Regulation_Z-001-0467]]
+- [[Triose_Structure_Glyceraldehyde_DHAP_Z-001-0466]]
+
+## Source
+
+[[L-001-0045D_Triose_Metabolism_Glycolysis_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Evolutionary_Ancient_Glycolysis_Z-001-0470]]
+- [[Fructose_Glycolytic_Intermediate_Z-001-0468]]
+- [[Glycolysis_Steps_Regulation_Z-001-0467]]
+- [[Triose_Structure_Glyceraldehyde_DHAP_Z-001-0466]]
 
 ## Core Claim
 **Pyruvate is the 3-carbon α-keto acid at the metabolic crossroads — its fate (acetyl-CoA, lactate, oxaloacetate, or alanine) is determined by oxygen availability, energy charge, and metabolic demand, with the pyruvate dehydrogenase complex requiring 5 B-vitamin cofactors** — this branch point connects glycolysis to aerobic energy, anaerobic survival, gluconeogenesis, and amino acid metabolism.

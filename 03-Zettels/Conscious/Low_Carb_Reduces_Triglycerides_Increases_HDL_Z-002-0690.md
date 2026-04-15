@@ -14,6 +14,18 @@ related: []
 ---
 
 # Low Carb Reduces Triglycerides Increases HDL
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Low-carbohydrate diets consistently produce **superior lipid profiles** compared to low-fat diets — specifically reducing triglycerides and increasing HDL cholesterol, two key markers of cardiovascular risk.

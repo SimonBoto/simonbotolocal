@@ -12,6 +12,18 @@ extraction-date: 2026-03-01
 ---
 
 # LDL Cholesterol — Structure, Function, and Risk
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 LDL delivers cholesterol to peripheral cells via receptor-mediated endocytosis; elevated LDL-C and small dense LDL particles are the primary drivers of atherosclerotic cardiovascular disease, with each 1 mmol/L (~40 mg/dL) reduction yielding ~20-25% relative risk reduction.
@@ -87,6 +99,22 @@ Cholesterol released → Regulates SREBP-2 → Feedback inhibition of synthesis
 - [[Lipoproteins_Transport_System_Z-001-0502]] — Lipoprotein classes
 - [[Lipid_Peroxidation_Oxidized_LDL_Z-001-0505]] — Oxidized LDL
 - [[Advanced_Lipid_Markers_Beyond_LDL_HDL_Z-001-0508]] — Advanced testing
+
+## Related Zettels from Same Source
+
+- [[Advanced_Lipid_Markers_Beyond_LDL_HDL_Z-001-0506]]
+- [[Advanced_Lipid_Markers_Beyond_LDL_HDL_Z-001-0508]]
+- [[Cellular_Cholesterol_Homeostasis_Z-001-0503]]
+- [[Cholesterol_Aging_Cellular_Dysfunction_Z-001-0504]]
+- [[Cholesterol_Cellular_Aging_Z-001-0506]]
+- [[Cholesterol_Synthesis_Mevalonate_Pathway_Z-001-0501]]
+- [[HDL_Cholesterol_Reverse_Cholesterol_Transport_Z-001-0504]]
+- [[Inflammation_Cholesterol_Metabolic_Syndrome_Z-001-0507]]
+- [[Inflammation_Lipid_Metabolism_Reciprocal_Z-001-0505]]
+- [[Lipid_Peroxidation_Oxidized_LDL_Z-001-0505]]
+- [[Lipoprotein_Classes_Transport_Functions_Z-001-0502]]
+- [[Lipoproteins_Transport_System_Z-001-0502]]
+- [[Therapeutic_Targets_Cholesterol_Lowering_Z-001-0507]]
 
 ## Source
 [[Cholesterol_Biology_and_Lipid_Metabolism_in_L-001-0501_CGPT-0086]]

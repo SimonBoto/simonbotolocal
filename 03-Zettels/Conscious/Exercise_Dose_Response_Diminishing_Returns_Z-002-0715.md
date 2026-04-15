@@ -14,6 +14,18 @@ related: []
 ---
 
 # Exercise Dose-Response Has Diminishing Returns
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Exercise shows diminishing returns** — the greatest mortality benefits occur at low doses, with additional exercise providing smaller incremental gains.

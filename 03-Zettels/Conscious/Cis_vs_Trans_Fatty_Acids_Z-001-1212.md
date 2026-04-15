@@ -13,6 +13,54 @@ extraction-date: 2026-03-08
 ---
 
 # Cis vs Trans Fatty Acids
+## Related Zettels from Same Source
+
+- [[Chain_Length_Metabolic_Fate_Fatty_Acids_Z-001-1213]]
+- [[Fatty_Acid_Nomenclature_Numbering_Z-001-1208]]
+- [[Omega_Classification_System_Explained_Z-001-1209]]
+- [[Saturated_vs_Unsaturated_Fats_Z-001-1210]]
+
+## Source
+
+[[L-001-0632_Fatty_Acid_Structure_Classification_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Chain_Length_Metabolic_Fate_Fatty_Acids_Z-001-1213]]
+- [[Fatty_Acid_Nomenclature_Numbering_Z-001-1208]]
+- [[Omega_Classification_System_Explained_Z-001-1209]]
+- [[Saturated_vs_Unsaturated_Fats_Z-001-1210]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Chain_Length_Metabolic_Fate_Fatty_Acids_Z-001-1213]]
+- [[Fatty_Acid_Nomenclature_Numbering_Z-001-1208]]
+- [[Omega_Classification_System_Explained_Z-001-1209]]
+- [[Saturated_vs_Unsaturated_Fats_Z-001-1210]]
+
+## Source
+
+[[L-001-0632_Fatty_Acid_Structure_Classification_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Chain_Length_Metabolic_Fate_Fatty_Acids_Z-001-1213]]
+- [[Fatty_Acid_Nomenclature_Numbering_Z-001-1208]]
+- [[Omega_Classification_System_Explained_Z-001-1209]]
+- [[Saturated_vs_Unsaturated_Fats_Z-001-1210]]
 
 ## Core Claim
 **Cis and trans fatty acids are geometric isomers that differ in the spatial arrangement of hydrogen atoms around double bonds — with cis configuration (hydrogens on same side) being the natural form that creates chain kinks, while trans configuration (hydrogens on opposite sides) produces straight chains similar to saturated fats — with industrial trans fats from partial hydrogenation being strongly associated with cardiovascular disease, leading to regulatory bans in many countries.**

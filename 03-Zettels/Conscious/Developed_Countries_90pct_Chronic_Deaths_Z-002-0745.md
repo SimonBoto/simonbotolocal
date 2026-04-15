@@ -15,6 +15,18 @@ related: []
 ---
 
 # Developed Countries 90% Chronic Deaths
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Developed countries have 90% of deaths from chronic disease.
@@ -22,6 +34,11 @@ Developed countries have 90% of deaths from chronic disease.
 ## Significance
 
 tags: [zettel, chronic-disease, developed-countries]
+
+## Related Zettels from Same Source
+
+- [[Chronic_Disease_74pct_Global_Mortality_Z-002-0744]]
+- [[Epidemiological_Transition_Chronic_Disease_Z-002-0746]]
 
 ## Source
 - **LitNote:** [[L-002-0202_Chronic_Disease_74pct_Global_Deaths]]

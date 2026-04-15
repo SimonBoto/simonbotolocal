@@ -12,8 +12,52 @@ extraction-date: 2026-03-01
 ---
 
 # Battle Creek Sanitarium — John Harvey Kellogg's Wellness Institute
+## Related Zettels from Same Source
+
+- [[Cornflakes_Invention_Accident_1894_Z-001-0251]]
+- [[Kellogg_Brothers_John_Harvey_vs_WK_Z-001-0250]]
+- [[Kellogg_Company_Founding_1906_Z-001-0252]]
+
+## Source
+
+[[LitNote_Cereal_History_L-001-0211]
+
+## Related Zettels from Same Source
+
+- [[Cornflakes_Invention_Accident_1894_Z-001-0251]]
+- [[Kellogg_Brothers_John_Harvey_vs_WK_Z-001-0250]]
+- [[Kellogg_Company_Founding_1906_Z-001-0252]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > The Battle Creek Sanitarium, founded in 1866 and led by Dr. John Harvey Kellogg from 1876, became America's most famous health resort, attracting wealthy and famous patients to its regime of vegetarianism, hydrotherapy, and "biologic living."
+
+## Related Zettels from Same Source
+
+- [[Cornflakes_Invention_Accident_1894_Z-001-0251]]
+- [[Kellogg_Brothers_John_Harvey_vs_WK_Z-001-0250]]
+- [[Kellogg_Company_Founding_1906_Z-001-0252]]
+
+## Source
+
+[[LitNote_Cereal_History_L-001-0211]
+
+## Related Zettels from Same Source
+
+- [[Cornflakes_Invention_Accident_1894_Z-001-0251]]
+- [[Kellogg_Brothers_John_Harvey_vs_WK_Z-001-0250]]
+- [[Kellogg_Company_Founding_1906_Z-001-0252]]
 
 ## Core Principle
 

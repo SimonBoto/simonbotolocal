@@ -14,6 +14,18 @@ related: []
 ---
 
 # Metabolic Health More Important Than LDL Alone
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Overall metabolic health** — including insulin sensitivity, inflammation status, and metabolic syndrome components — is a stronger predictor of cardiovascular outcomes than LDL cholesterol alone.

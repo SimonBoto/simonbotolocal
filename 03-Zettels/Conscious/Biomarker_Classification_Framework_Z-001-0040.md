@@ -13,6 +13,18 @@ created: 2026-02-24
 ---
 
 #  Classification Framework
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
  can be classified across five dimensions to evaluate  utility and appropriate application. Not all biomarkers are equal — early vs late, specific vs general, and actionable vs observational distinctions matter for clinical decision-making.
 

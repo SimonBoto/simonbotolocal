@@ -13,6 +13,54 @@ extraction-date: 2026-03-02
 ---
 
 # Clinical Scenarios of Dicarboxylic Acid Elevation
+## Related Zettels from Same Source
+
+- [[Adipate_Metabolism_TCA_Entry_Z-101-0010]]
+- [[Carnitine_Deficiency_Omega_Oxidation_Link_Z-101-0009]]
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]
+- [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014]]
+
+## Source
+
+[[L-101-0003_Dicarboxylic_Acids_Clinical_Markers_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Adipate_Metabolism_TCA_Entry_Z-101-0010]]
+- [[Carnitine_Deficiency_Omega_Oxidation_Link_Z-101-0009]]
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]
+- [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Adipate_Metabolism_TCA_Entry_Z-101-0010]]
+- [[Carnitine_Deficiency_Omega_Oxidation_Link_Z-101-0009]]
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]
+- [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014]]
+
+## Source
+
+[[L-101-0003_Dicarboxylic_Acids_Clinical_Markers_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Adipate_Metabolism_TCA_Entry_Z-101-0010]]
+- [[Carnitine_Deficiency_Omega_Oxidation_Link_Z-101-0009]]
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]
+- [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014]]
 
 ## Core Claim
 **Dicarboxylic acid elevation occurs in diverse clinical scenarios — including insulin resistance (most common, gradual onset), carnitine deficiency (transport defect, hypoketotic hypoglycemia), MCAD deficiency (medium-chain enzyme defect, fasting crisis), and ethanol consumption (acute mitochondrial toxicity) — with the pattern, severity, and clinical context enabling specific diagnosis and targeted intervention in both pediatric and adult populations.**

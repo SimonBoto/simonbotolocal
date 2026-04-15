@@ -12,6 +12,26 @@ status: conscious
 ---
 
 # Screening Protocols for Systematic Reviews — Dual Review and Conflict Resolution
+## Source
+
+[[LitNote_Meta_Analysis_Methodology_L-001-0580]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Meta_Analysis_Methodology_L-001-0580]
 
 ## Overview
 

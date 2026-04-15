@@ -15,6 +15,18 @@ related: []
 ---
 
 # Historic Reversal: Obese Children Now Outnumber Undernourished
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 For the **first time in human history**, obese children now outnumber undernourished children globally — a historic reversal driven by ultra-processed food consumption that represents a catastrophic failure of modern food systems and public health policy.
@@ -86,6 +98,11 @@ For the **first time in human history**, obese children now outnumber undernouri
 | **Metabolic syndrome** | Starting in childhood |
 | **Lifelong disease** | Early onset = longer duration |
 | **Healthcare burden** | Unsustainable costs |
+
+## Related Zettels from Same Source
+
+- [[Food_System_Failure_Requires_Policy_Intervention_Z-002-0674]]
+- [[Ultra_Processed_Foods_Drive_Pediatric_Metabolic_Disease_Z-002-0673]]
 
 ## Source
 - **LitNote:** [[L-002-0179_Childhood_Obesity_Exceeds_Undernutrition]]

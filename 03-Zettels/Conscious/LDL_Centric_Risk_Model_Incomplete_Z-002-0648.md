@@ -15,6 +15,18 @@ related: []
 ---
 
 # LDL-Centric Risk Model is Incomplete
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 The medical paradigm of using **LDL cholesterol as the primary target** for cardiovascular risk assessment and intervention is **incomplete** and may lead to over-treatment, as LDL alone fails to predict mortality in healthy populations.
@@ -94,6 +106,12 @@ Metabolic Dysfunction → Inflammation → Endothelial Dysfunction
 - **Assess metabolic health** (insulin, glucose, waist circumference)
 - **Measure inflammation** (hs-CRP)
 - **Consider Lp(a)** for additional risk stratification
+
+## Related Zettels from Same Source
+
+- [[LDL_Not_Predictive_Primary_Prevention_Z-002-0647]]
+- [[Metabolic_Health_More_Predictive_Than_LDL_Z-002-0649]]
+- [[Rethinking_Statin_Primary_Prevention_Z-002-0650]]
 
 ## Source
 - **LitNote:** [[L-002-0171_High_LDL_Not_Mortality_Healthy]]

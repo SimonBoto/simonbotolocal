@@ -24,6 +24,58 @@ extraction-date: 2026-03-01
 ---
 
 # Methylmalonyl-CoA Mutase — B12 and Radical Mechanism
+## Related Zettels from Same Source
+
+- [[Amino_Acid_Sources_Propionyl_CoA_Z-001-0430]]
+- [[Odd_Chain_Fatty_Acid_Oxidation_Z-001-0431]]
+- [[Propionate_Sources_Metabolic_Fate_Z-001-0426]]
+- [[Propionyl_CoA_Carboxylase_Biotin_Z-001-0427]]
+- [[Succinyl_CoA_Krebs_Anaplerosis_Z-001-0429]]
+
+## Source
+
+[[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]]
+
+## Related Zettels from Same Source
+
+- [[Amino_Acid_Sources_Propionyl_CoA_Z-001-0430]]
+- [[Odd_Chain_Fatty_Acid_Oxidation_Z-001-0431]]
+- [[Propionate_Sources_Metabolic_Fate_Z-001-0426]]
+- [[Propionyl_CoA_Carboxylase_Biotin_Z-001-0427]]
+- [[Succinyl_CoA_Krebs_Anaplerosis_Z-001-0429]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Amino_Acid_Sources_Propionyl_CoA_Z-001-0430]]
+- [[Odd_Chain_Fatty_Acid_Oxidation_Z-001-0431]]
+- [[Propionate_Sources_Metabolic_Fate_Z-001-0426]]
+- [[Propionyl_CoA_Carboxylase_Biotin_Z-001-0427]]
+- [[Succinyl_CoA_Krebs_Anaplerosis_Z-001-0429]]
+
+## Source
+
+[[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]]
+
+## Related Zettels from Same Source
+
+- [[Amino_Acid_Sources_Propionyl_CoA_Z-001-0430]]
+- [[Odd_Chain_Fatty_Acid_Oxidation_Z-001-0431]]
+- [[Propionate_Sources_Metabolic_Fate_Z-001-0426]]
+- [[Propionyl_CoA_Carboxylase_Biotin_Z-001-0427]]
+- [[Succinyl_CoA_Krebs_Anaplerosis_Z-001-0429]]
 
 ## Mechanism
 

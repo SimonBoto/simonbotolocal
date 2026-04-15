@@ -19,9 +19,29 @@ status: conscious
 ---
 
 # Albumin-Dietary Assessment
+## Source
+
+[[CKD_Nutritional_Assessment_-_Albumin_vs_Intake-_L-001-0575_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > **Source:** ChatGPT conversation [[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370]] (May 26, 2024)
 > **Core Claim:** Comprehensive nutritional assessment in CKD requires simultaneous evaluation of serum albumin (status marker) and dietary protein intake (modifiable factor) to guide appropriate clinical interventions.
+
+## Source
+
+[[CKD_Nutritional_Assessment_-_Albumin_vs_Intake-_L-001-0575_v4.0]]
 
 ## Core Concepts
 

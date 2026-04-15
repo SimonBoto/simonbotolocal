@@ -12,6 +12,18 @@ extraction-date: 2026-03-08
 ---
 
 # Folate Cancer Paradox Prevention Progression
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Folate exhibits a paradoxical relationship with cancer: adequate intake reduces cancer risk by maintaining DNA stability and proper methylation, but high folate intake may accelerate growth in existing tumors by fueling nucleotide synthesis—highlighting the critical importance of timing and context in nutritional interventions for cancer.
@@ -70,6 +82,12 @@ Folate exhibits a paradoxical relationship with cancer: adequate intake reduces 
 ## Related Zettels
 - [[One_Carbon_Metabolism_Cancer_Nucleotide_Synthesis_Z-001-1128]] — One-carbon metabolism
 - [[B_Vitamins_Methylation_Epigenetics_Cancer_Z-001-1129]] — Methylation
+
+## Related Zettels from Same Source
+
+- [[B_Vitamins_Methylation_Epigenetics_Cancer_Z-001-1129]]
+- [[One_Carbon_Metabolism_Cancer_Nucleotide_Synthesis_Z-001-1128]]
+- [[One_Carbon_Metabolism_Folate_B12_Z-001-1062]]
 
 ## Source
 [[B-Vitamins_and_Cancer_Metabolism_L-001-0611_CGPT-0264]]

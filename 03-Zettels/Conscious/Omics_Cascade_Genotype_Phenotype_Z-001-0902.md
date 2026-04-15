@@ -15,6 +15,22 @@ extraction-date: 2026-04-15
 ---
 
 # Omics Cascade: Genotype to Phenotype Flow
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 The omics sciences form a hierarchical cascade tracking genetic information flow from genotype to phenotype:
 
@@ -22,6 +38,10 @@ The omics sciences form a hierarchical cascade tracking genetic information flow
 GENOTYPE → TRANSCRIPTOME → PROTEOME → METABOLOME → PHENOTYPE
    (DNA)      (mRNA)       (Proteins)  (Metabolites)  (Observable traits)
 ```
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Principle
 

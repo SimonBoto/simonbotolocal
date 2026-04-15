@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 # High-Dose  Monitoring Protocol
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
  studies (Gallo, Saadi, Gordon, Stoss therapy) demonstrate safety of doses 2-50x RDA with systematic monitoring. Essential parameters: serum 25(OH)D, , phosphate, creatinine/eGFR, urinary calcium/creatinine ratio.
 

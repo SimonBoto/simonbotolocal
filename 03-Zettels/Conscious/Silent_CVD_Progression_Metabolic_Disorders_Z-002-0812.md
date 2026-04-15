@@ -15,6 +15,18 @@ related: []
 ---
 
 # Silent CVD Progression from Metabolic Disorders
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Type 2 diabetes, hypertension, obesity, and kidney dysfunction** act **silently for years** before symptoms appear, creating the groundwork for cardiovascular disease long before clinical manifestation.
@@ -67,6 +79,11 @@ related: []
 
 > "Conditions such as type 2 diabetes, hypertension, obesity, and kidney dysfunction act silently for years and create the ground for cardiovascular disease before symptoms appear."
 > — Metabolic cardiology analysis
+
+## Related Zettels from Same Source
+
+- [[Endothelial_Metabolism_Central_CVD_Protection_Z-002-0811]]
+- [[Insulin_Resistance_14x_CAD_Risk_vs_Cholesterol_Alone_Z-002-0810]]
 
 ## Source
 - **LitNote:** [[L-002-0224_Metabolism_Heart_Health]]

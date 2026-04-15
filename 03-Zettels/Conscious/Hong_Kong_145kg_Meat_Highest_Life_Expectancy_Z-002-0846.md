@@ -15,6 +15,46 @@ related: []
 ---
 
 # Hong Kong: 145kg Meat Annually, Highest Life Expectancy Globally
+## Related Zettels from Same Source
+
+- [[High_Meat_Coexists_Longevity_Not_Harmful_Z-002-0847]]
+- [[Meat_Paradox_Context_Quality_Not_Quantity_Alone_Z-002-0848]]
+
+## Source
+
+[[L-002-0236_Hong_Kong_Meat_Longevity]]
+
+## Related Zettels from Same Source
+
+- [[High_Meat_Coexists_Longevity_Not_Harmful_Z-002-0847]]
+- [[Meat_Paradox_Context_Quality_Not_Quantity_Alone_Z-002-0848]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[High_Meat_Coexists_Longevity_Not_Harmful_Z-002-0847]]
+- [[Meat_Paradox_Context_Quality_Not_Quantity_Alone_Z-002-0848]]
+
+## Source
+
+[[L-002-0236_Hong_Kong_Meat_Longevity]]
+
+## Related Zettels from Same Source
+
+- [[High_Meat_Coexists_Longevity_Not_Harmful_Z-002-0847]]
+- [[Meat_Paradox_Context_Quality_Not_Quantity_Alone_Z-002-0848]]
 
 ## Core Claim
 **Hong Kong residents consume ~145 kg of meat per person annually — the highest globally — while having the highest life expectancy in the world** — high meat intake does not necessarily reduce lifespan.

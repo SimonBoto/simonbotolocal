@@ -13,6 +13,54 @@ extraction-date: 2026-03-08
 ---
 
 # MCI Three Function Architecture
+## Related Zettels from Same Source
+
+- [[Metabolomics_Chief_Instructor_Role_Definition_Z-001-1029]]
+- [[Six_Stage_Patient_Flow_Framework_Z-001-1031]]
+- [[Socratic_Method_Metabolomics_Training_Z-001-1033]]
+- [[Tiered_Supplement_Prescribing_Hierarchy_Z-001-1032]]
+
+## Source
+
+[[L-001-0588_Metabolomics_Chief_Instructor_Framework_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Metabolomics_Chief_Instructor_Role_Definition_Z-001-1029]]
+- [[Six_Stage_Patient_Flow_Framework_Z-001-1031]]
+- [[Socratic_Method_Metabolomics_Training_Z-001-1033]]
+- [[Tiered_Supplement_Prescribing_Hierarchy_Z-001-1032]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Metabolomics_Chief_Instructor_Role_Definition_Z-001-1029]]
+- [[Six_Stage_Patient_Flow_Framework_Z-001-1031]]
+- [[Socratic_Method_Metabolomics_Training_Z-001-1033]]
+- [[Tiered_Supplement_Prescribing_Hierarchy_Z-001-1032]]
+
+## Source
+
+[[L-001-0588_Metabolomics_Chief_Instructor_Framework_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Metabolomics_Chief_Instructor_Role_Definition_Z-001-1029]]
+- [[Six_Stage_Patient_Flow_Framework_Z-001-1031]]
+- [[Socratic_Method_Metabolomics_Training_Z-001-1033]]
+- [[Tiered_Supplement_Prescribing_Hierarchy_Z-001-1032]]
 
 ## Core Claim
 **The Metabolomics Chief Instructor operates through three integrated functions — Architect of Knowledge (curriculum design), Cognitive Coach (reasoning development), and Operational Integrator (systems thinking) — each addressing distinct training needs while supporting the others for comprehensive clinician development.**

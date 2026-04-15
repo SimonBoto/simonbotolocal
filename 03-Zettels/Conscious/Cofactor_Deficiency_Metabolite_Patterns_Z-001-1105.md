@@ -22,6 +22,54 @@ extraction-date: 2026-03-08
 ---
 
 # Cofactor Deficiency — Metabolite Patterns
+## Related Zettels from Same Source
+
+- [[B_Vitamins_Enzyme_Cofactors_Metabolism_Z-001-1102]]
+- [[Iron_Sulfur_Clusters_Ancient_Cofactors_Z-001-1103]]
+- [[Magnesium_Metabolic_Cofactor_ATF_Function_Z-001-1104]]
+- [[Magnesium_Metabolic_Cofactor_ATP_Function_Z-001-1104]]
+
+## Source
+
+[[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]]
+
+## Related Zettels from Same Source
+
+- [[B_Vitamins_Enzyme_Cofactors_Metabolism_Z-001-1102]]
+- [[Iron_Sulfur_Clusters_Ancient_Cofactors_Z-001-1103]]
+- [[Magnesium_Metabolic_Cofactor_ATF_Function_Z-001-1104]]
+- [[Magnesium_Metabolic_Cofactor_ATP_Function_Z-001-1104]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[B_Vitamins_Enzyme_Cofactors_Metabolism_Z-001-1102]]
+- [[Iron_Sulfur_Clusters_Ancient_Cofactors_Z-001-1103]]
+- [[Magnesium_Metabolic_Cofactor_ATF_Function_Z-001-1104]]
+- [[Magnesium_Metabolic_Cofactor_ATP_Function_Z-001-1104]]
+
+## Source
+
+[[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]]
+
+## Related Zettels from Same Source
+
+- [[B_Vitamins_Enzyme_Cofactors_Metabolism_Z-001-1102]]
+- [[Iron_Sulfur_Clusters_Ancient_Cofactors_Z-001-1103]]
+- [[Magnesium_Metabolic_Cofactor_ATF_Function_Z-001-1104]]
+- [[Magnesium_Metabolic_Cofactor_ATP_Function_Z-001-1104]]
 
 ## Core Claim
 **Specific metabolite accumulation patterns in blood or urine reveal cofactor deficiencies — elevated substrates indicate blocked enzymatic reactions, enabling targeted nutritional intervention before clinical symptoms develop** — functional medicine uses these patterns for personalized supplementation.

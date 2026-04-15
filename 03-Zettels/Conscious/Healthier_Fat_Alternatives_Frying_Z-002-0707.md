@@ -14,6 +14,18 @@ related: []
 ---
 
 # Healthier Fat Alternatives for Frying
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Saturated and monounsaturated fats** (tallow, lard, coconut oil, olive oil) are safer for frying than seed oils due to greater oxidative stability and lower formation of toxic byproducts.

@@ -12,6 +12,26 @@ source-litnote: Synthesized from clinical practice
 ---
 
 # Inherited Metabolic Diseases & Newborn Screening Paradigm
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Claim
 **Newborn screening for 49 inherited metabolic diseases via  establishes the precedent for metabolite-based diagnosis** — validating that enzymatic dysfunction → metabolite accumulation → pattern recognition → disease diagnosis.

@@ -12,8 +12,60 @@ extraction-date: 2026-03-01
 ---
 
 # SAH — Methylation Inhibitor and SAM/SAH Ratio
+## Related Zettels from Same Source
+
+- [[DNA_Methylation_Epigenetic_Regulation_Z-001-0409]]
+- [[Histone_Methylation_Chromatin_Structure_Z-001-0410]]
+- [[Methylation_Cancer_Double_Edged_Sword_Z-001-0411]]
+- [[SAM_Synthesis_Universal_Methyl_Donor_Z-001-0407]]
+- [[Vitamin_D_Methylation_Cross_Talk_Z-001-0412]]
+
+## Source
+
+[[LitNote_Methylation_Cycle_L-001-0402]
+
+## Related Zettels from Same Source
+
+- [[DNA_Methylation_Epigenetic_Regulation_Z-001-0409]]
+- [[Histone_Methylation_Chromatin_Structure_Z-001-0410]]
+- [[Methylation_Cancer_Double_Edged_Sword_Z-001-0411]]
+- [[SAM_Synthesis_Universal_Methyl_Donor_Z-001-0407]]
+- [[Vitamin_D_Methylation_Cross_Talk_Z-001-0412]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > After donating its methyl group, SAM becomes S-adenosylhomocysteine (SAH), a potent product inhibitor of methyltransferases. The SAM/SAH ratio serves as the cellular index of methylation capacity.
+
+## Related Zettels from Same Source
+
+- [[DNA_Methylation_Epigenetic_Regulation_Z-001-0409]]
+- [[Histone_Methylation_Chromatin_Structure_Z-001-0410]]
+- [[Methylation_Cancer_Double_Edged_Sword_Z-001-0411]]
+- [[SAM_Synthesis_Universal_Methyl_Donor_Z-001-0407]]
+- [[Vitamin_D_Methylation_Cross_Talk_Z-001-0412]]
+
+## Source
+
+[[LitNote_Methylation_Cycle_L-001-0402]
+
+## Related Zettels from Same Source
+
+- [[DNA_Methylation_Epigenetic_Regulation_Z-001-0409]]
+- [[Histone_Methylation_Chromatin_Structure_Z-001-0410]]
+- [[Methylation_Cancer_Double_Edged_Sword_Z-001-0411]]
+- [[SAM_Synthesis_Universal_Methyl_Donor_Z-001-0407]]
+- [[Vitamin_D_Methylation_Cross_Talk_Z-001-0412]]
 
 ## Core Principle
 

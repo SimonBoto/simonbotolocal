@@ -12,8 +12,56 @@ extraction-date: 2026-03-01
 ---
 
 # Vitamin K2 and Vascular Calcification — MGP Mechanism
+## Related Zettels from Same Source
+
+- [[Magnesium_Vascular_Calcification_Prevention_Z-001-0218]]
+- [[Vitamin_K2_Biochemistry_Forms_MK4_MK7_Z-001-0227]]
+- [[Vitamin_K2_D_Mg_Synergy_Metabolic_Health_Z-001-0230]]
+- [[Vitamin_K2_Glucose_Metabolism_Osteocalcin_Z-001-0229]]
+
+## Source
+
+[[LitNote_Vitamin_K2_Metabolic_Syndrome_L-001-0206]
+
+## Related Zettels from Same Source
+
+- [[Magnesium_Vascular_Calcification_Prevention_Z-001-0218]]
+- [[Vitamin_K2_Biochemistry_Forms_MK4_MK7_Z-001-0227]]
+- [[Vitamin_K2_D_Mg_Synergy_Metabolic_Health_Z-001-0230]]
+- [[Vitamin_K2_Glucose_Metabolism_Osteocalcin_Z-001-0229]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Vitamin K2 prevents vascular calcification through activation of Matrix Gla Protein (MGP), the body's most potent inhibitor of arterial mineralization, representing a critical protective mechanism against cardiovascular disease in metabolic syndrome.
+
+## Related Zettels from Same Source
+
+- [[Magnesium_Vascular_Calcification_Prevention_Z-001-0218]]
+- [[Vitamin_K2_Biochemistry_Forms_MK4_MK7_Z-001-0227]]
+- [[Vitamin_K2_D_Mg_Synergy_Metabolic_Health_Z-001-0230]]
+- [[Vitamin_K2_Glucose_Metabolism_Osteocalcin_Z-001-0229]]
+
+## Source
+
+[[LitNote_Vitamin_K2_Metabolic_Syndrome_L-001-0206]
+
+## Related Zettels from Same Source
+
+- [[Magnesium_Vascular_Calcification_Prevention_Z-001-0218]]
+- [[Vitamin_K2_Biochemistry_Forms_MK4_MK7_Z-001-0227]]
+- [[Vitamin_K2_D_Mg_Synergy_Metabolic_Health_Z-001-0230]]
+- [[Vitamin_K2_Glucose_Metabolism_Osteocalcin_Z-001-0229]]
 
 ## Core Principle
 

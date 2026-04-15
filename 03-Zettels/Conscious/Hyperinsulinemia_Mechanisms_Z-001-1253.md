@@ -12,6 +12,18 @@ extraction-date: 2026-03-11
 ---
 
 # Hyperinsulinemia Mechanisms — Lipolysis Suppression and CPT-1 Inhibition
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Mechanism
 
@@ -109,6 +121,11 @@ Available    Entry
 - [[Metabolic_Flexibility_Definition_Z-001-1254]] — Fuel switching capacity
 - [[Insulin_Resistance_Beta_Oxidation_Block_Z-001-1255]] — IR paradox
 - [[BHB_Production_Fatty_Acids_Z-001-1256]] — Alternative fuel pathways
+
+## Related Zettels from Same Source
+
+- [[Insulin_Resistance_Beta_Oxidation_Block_Z-001-1255]]
+- [[Metabolic_Flexibility_Definition_Z-001-1254]]
 
 ## Source
 [[L-001-0654_Hyperinsulinemia_Metabolic_Inflexibility_CGPT-0647]]

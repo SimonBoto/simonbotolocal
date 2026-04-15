@@ -14,6 +14,26 @@ status: conscious
 parent-index: [[03-Zettels-Conscious]]
 
 # Peer Review Best Practices — Structure, Tone, and Decision Framework
+## Source
+
+[[LitNote_Manuscript_Review_Critical_Concerns_L-001-0586]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Manuscript_Review_Critical_Concerns_L-001-0586]
 
 ## Overview
 

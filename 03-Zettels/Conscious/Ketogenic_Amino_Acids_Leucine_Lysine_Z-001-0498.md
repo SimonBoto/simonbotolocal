@@ -13,6 +13,62 @@ extraction-date: 2026-03-04
 ---
 
 # Ketogenic Amino Acids — Leucine and Lysine
+## Related Zettels from Same Source
+
+- [[Amino_Acids_Alpha_Ketoglutarate_Hub_Z-001-0494]]
+- [[Amino_Acids_Fumarate_Phenylalanine_Tyrosine_Z-001-0496]]
+- [[Amino_Acids_Oxaloacetate_Aspartate_Z-001-0493]]
+- [[Amino_Acids_Pyruvate_Alanine_Serine_Glycine_Z-001-0497]]
+- [[Amino_Acids_Succinyl_CoA_B12_Z-001-0495]]
+- [[Glucogenic_vs_Ketogenic_Classification_Z-001-0499]]
+
+## Source
+
+[[L-001-0046A_Amino_Acids_Krebs_Entry_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Amino_Acids_Alpha_Ketoglutarate_Hub_Z-001-0494]]
+- [[Amino_Acids_Fumarate_Phenylalanine_Tyrosine_Z-001-0496]]
+- [[Amino_Acids_Oxaloacetate_Aspartate_Z-001-0493]]
+- [[Amino_Acids_Pyruvate_Alanine_Serine_Glycine_Z-001-0497]]
+- [[Amino_Acids_Succinyl_CoA_B12_Z-001-0495]]
+- [[Glucogenic_vs_Ketogenic_Classification_Z-001-0499]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Amino_Acids_Alpha_Ketoglutarate_Hub_Z-001-0494]]
+- [[Amino_Acids_Fumarate_Phenylalanine_Tyrosine_Z-001-0496]]
+- [[Amino_Acids_Oxaloacetate_Aspartate_Z-001-0493]]
+- [[Amino_Acids_Pyruvate_Alanine_Serine_Glycine_Z-001-0497]]
+- [[Amino_Acids_Succinyl_CoA_B12_Z-001-0495]]
+- [[Glucogenic_vs_Ketogenic_Classification_Z-001-0499]]
+
+## Source
+
+[[L-001-0046A_Amino_Acids_Krebs_Entry_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Amino_Acids_Alpha_Ketoglutarate_Hub_Z-001-0494]]
+- [[Amino_Acids_Fumarate_Phenylalanine_Tyrosine_Z-001-0496]]
+- [[Amino_Acids_Oxaloacetate_Aspartate_Z-001-0493]]
+- [[Amino_Acids_Pyruvate_Alanine_Serine_Glycine_Z-001-0497]]
+- [[Amino_Acids_Succinyl_CoA_B12_Z-001-0495]]
+- [[Glucogenic_vs_Ketogenic_Classification_Z-001-0499]]
 
 ## Core Claim
 **Leucine and lysine are the only purely ketogenic amino acids — they cannot be converted to glucose because they yield only acetyl-CoA or acetoacetyl-CoA without producing oxaloacetate or other glucogenic intermediates** — leucine also allosterically activates mTOR, signaling protein synthesis and anabolism.

@@ -15,6 +15,18 @@ related: []
 ---
 
 # Dietary Modification Reduces Uric Acid
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Targeted dietary interventions — **reducing fructose** (sugar-sweetened beverages, high-fructose corn syrup), **limiting alcohol** (especially beer), and **avoiding purine-rich processed foods** — effectively lower serum uric acid and reduce gout flare risk.
@@ -116,6 +128,11 @@ Targeted dietary interventions — **reducing fructose** (sugar-sweetened bevera
 | **Mild hyperuricemia** | Dietary modification alone |
 | **Moderate** | Diet + medication |
 | **Severe/recurrent gout** | Medication primary, diet adjunct |
+
+## Related Zettels from Same Source
+
+- [[Alcohol_Increases_Uric_Acid_Multiple_Mechanisms_Z-002-0661]]
+- [[Fructose_Metabolism_Produces_Uric_Acid_Z-002-0660]]
 
 ## Source
 - **LitNote:** [[L-002-0175_Elevated_Uric_Acid_Fructose_Alcohol]]

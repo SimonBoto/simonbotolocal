@@ -15,6 +15,46 @@ related: []
 ---
 
 # PUFA Seed Oils Oxidize Easily, Especially When Heated, Causing Cellular Damage
+## Related Zettels from Same Source
+
+- [[Saturated_Fat_Carbohydrate_Reduction_Synergy_Z-002-0842]]
+- [[Saturated_Fat_Saturated_Bonds_Oxidation_Resistant_Z-002-0840]]
+
+## Source
+
+[[L-002-0234_Saturated_Fat_Stability_Health]]
+
+## Related Zettels from Same Source
+
+- [[Saturated_Fat_Carbohydrate_Reduction_Synergy_Z-002-0842]]
+- [[Saturated_Fat_Saturated_Bonds_Oxidation_Resistant_Z-002-0840]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Saturated_Fat_Carbohydrate_Reduction_Synergy_Z-002-0842]]
+- [[Saturated_Fat_Saturated_Bonds_Oxidation_Resistant_Z-002-0840]]
+
+## Source
+
+[[L-002-0234_Saturated_Fat_Stability_Health]]
+
+## Related Zettels from Same Source
+
+- [[Saturated_Fat_Carbohydrate_Reduction_Synergy_Z-002-0842]]
+- [[Saturated_Fat_Saturated_Bonds_Oxidation_Resistant_Z-002-0840]]
 
 ## Core Claim
 **Polyunsaturated fatty acids (PUFAs) in seed oils contain multiple double bonds that make them highly susceptible to oxidation** — when heated, they generate harmful compounds that cause cellular damage.

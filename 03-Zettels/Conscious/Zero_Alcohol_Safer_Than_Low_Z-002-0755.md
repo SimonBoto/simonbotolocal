@@ -15,9 +15,26 @@ related: []
 ---
 
 # Zero Alcohol Safer Than Low
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 (Content from source)
+
+## Related Zettels from Same Source
+
+- [[Alcohol_1.8_Million_Annual_Deaths_Z-002-0753]]
+- [[Alcohol_Chronic_Disease_Link_Z-002-0754]]
 
 ## Source
 - **LitNote:** [[L-002-0205_Alcohol_1.8_Million_Deaths]]

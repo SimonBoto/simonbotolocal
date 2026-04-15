@@ -15,6 +15,18 @@ related: []
 ---
 
 # Minimal Exercise Dose 15-20 Min Reduces Mortality 16-40%
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 As little as **15-20 minutes of vigorous physical activity per week** provides **16-40% reduction in all-cause mortality**, demonstrating that exercise benefits follow a curve of diminishing returns where the smallest doses provide the greatest relative protection.
@@ -107,6 +119,11 @@ Reduction
 ## Significance
 
 tags: [zettel, exercise, minimal-dose, mortality, physical-activity, vigorous]
+
+## Related Zettels from Same Source
+
+- [[Exercise_Diminishing_Returns_Curve_Z-002-0658]]
+- [[Vigorous_Activity_More_Efficient_Than_Moderate_Z-002-0659]]
 
 ## Source
 - **LitNote:** [[L-002-0174_Minimal_Exercise_Mortality_Reduction]]

@@ -11,12 +11,32 @@ status: active
 ---
 
 # 🏗️ 03-Zettels/Conscious — Working Notes
+## Source
+
+Index note for folder structure
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **Purpose:** Zettels under active development. Reviewable, may contain errors, subject to change. **Promote to Subconscious after 30+ days.**
 
 > *"Conscious zettels are honest about their uncertainty."*
 
 ---
+
+## Source
+
+Index note for folder structure
 
 ## Core Principle
 

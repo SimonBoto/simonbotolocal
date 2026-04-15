@@ -14,6 +14,50 @@ created: 2026-03-08
 ---
 
 # Validation Cross Validation Model Robustness
+## Related Zettels from Same Source
+
+- [[Multivariate_Analysis_PLS_OPLS_Regression_Z-001-1151]]
+- [[PCA_Metabolomics_Dimensionality_Reduction_Z-001-1150]]
+- [[Power_Analysis_Sample_Size_METHAP_Z-001-1149]]
+
+## Source
+
+[[LitNote_Statistical_Analysis_Omics_L-001-0617]
+
+## Related Zettels from Same Source
+
+- [[Multivariate_Analysis_PLS_OPLS_Regression_Z-001-1151]]
+- [[PCA_Metabolomics_Dimensionality_Reduction_Z-001-1150]]
+- [[Power_Analysis_Sample_Size_METHAP_Z-001-1149]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Multivariate_Analysis_PLS_OPLS_Regression_Z-001-1151]]
+- [[PCA_Metabolomics_Dimensionality_Reduction_Z-001-1150]]
+- [[Power_Analysis_Sample_Size_METHAP_Z-001-1149]]
+
+## Source
+
+[[LitNote_Statistical_Analysis_Omics_L-001-0617]
+
+## Related Zettels from Same Source
+
+- [[Multivariate_Analysis_PLS_OPLS_Regression_Z-001-1151]]
+- [[PCA_Metabolomics_Dimensionality_Reduction_Z-001-1150]]
+- [[Power_Analysis_Sample_Size_METHAP_Z-001-1149]]
 
 ## Overview
 Validation strategies in  ensure that multivariate models are robust, generalizable, and not overfitted to the training data—critical for reliable  discovery in the METHAP trial.

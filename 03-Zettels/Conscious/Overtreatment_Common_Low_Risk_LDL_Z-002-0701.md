@@ -14,6 +14,18 @@ related: []
 ---
 
 # Overtreatment Common in Low Risk Despite High LDL
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Overtreatment with statins is common** in individuals with elevated LDL but low actual cardiovascular risk (CAC = 0 or low), exposing patients to medication risks without commensurate benefit.

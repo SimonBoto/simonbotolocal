@@ -14,6 +14,18 @@ extraction-date: 2026-04-15
 ---
 
 # Plant Crossing for Metabolic Discovery
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 The nicotine biosynthesis discovery required **massive-scale plant crossing**: 643 inbred lines from 26 parent tobacco plants, representing one of the largest forward genetics efforts in plant metabolism.
 

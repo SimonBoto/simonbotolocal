@@ -15,6 +15,46 @@ related: []
 ---
 
 # Personalized Vitamin D Dosing Reduces Heart Attack Risk by 52%
+## Related Zettels from Same Source
+
+- [[Metabolomic_Personalization_Z-002-0790]]
+- [[Targeted_Micronutrient_Repletion_Z-002-0791]]
+
+## Source
+
+[[L-002-0217_Personalized_Nutrition_Halves_CVD]]
+
+## Related Zettels from Same Source
+
+- [[Metabolomic_Personalization_Z-002-0790]]
+- [[Targeted_Micronutrient_Repletion_Z-002-0791]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Metabolomic_Personalization_Z-002-0790]]
+- [[Targeted_Micronutrient_Repletion_Z-002-0791]]
+
+## Source
+
+[[L-002-0217_Personalized_Nutrition_Halves_CVD]]
+
+## Related Zettels from Same Source
+
+- [[Metabolomic_Personalization_Z-002-0790]]
+- [[Targeted_Micronutrient_Repletion_Z-002-0791]]
 
 ## Core Claim
 **Personalized vitamin D supplementation with dosing adjusted every 3 months to maintain blood levels of 40-80 ng/mL reduces heart attack risk by 52%** compared to standard care in adults with established cardiovascular disease.

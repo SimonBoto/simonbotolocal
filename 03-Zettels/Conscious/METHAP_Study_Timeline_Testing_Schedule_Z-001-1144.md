@@ -14,6 +14,26 @@ created: 2026-03-08
 ---
 
 # METHAP Study Timeline Testing Schedule
+## Source
+
+[[PhD_Study_Design_METHAP_L-001-0615_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[PhD_Study_Design_METHAP_L-001-0615_v4.0]]
 
 ## Overview
 The METHAP trial follows a structured timeline with baseline assessment, 12-week intervention, and post-intervention retesting to measure metabolic changes.

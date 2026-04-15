@@ -25,6 +25,54 @@ extraction-date: 2026-03-04
 ---
 
 # Fructose Metabolism and Lipogenesis
+## Related Zettels from Same Source
+
+- [[Aldose_vs_Ketose_Chemistry_Z-001-0471]]
+- [[Common_Aldoses_Roles_Z-001-0474]]
+- [[Common_Ketoses_Roles_Z-001-0475]]
+- [[Glucose_Metabolism_Overview_Z-001-0472]]
+
+## Source
+
+[[L-001-0045E_Glucose_Fructose_Aldoses_Ketoses_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Aldose_vs_Ketose_Chemistry_Z-001-0471]]
+- [[Common_Aldoses_Roles_Z-001-0474]]
+- [[Common_Ketoses_Roles_Z-001-0475]]
+- [[Glucose_Metabolism_Overview_Z-001-0472]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Aldose_vs_Ketose_Chemistry_Z-001-0471]]
+- [[Common_Aldoses_Roles_Z-001-0474]]
+- [[Common_Ketoses_Roles_Z-001-0475]]
+- [[Glucose_Metabolism_Overview_Z-001-0472]]
+
+## Source
+
+[[L-001-0045E_Glucose_Fructose_Aldoses_Ketoses_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Aldose_vs_Ketose_Chemistry_Z-001-0471]]
+- [[Common_Aldoses_Roles_Z-001-0474]]
+- [[Common_Ketoses_Roles_Z-001-0475]]
+- [[Glucose_Metabolism_Overview_Z-001-0472]]
 
 ## Core Claim
 **~90% of dietary fructose is metabolized by the liver, bypassing the PFK-1 regulatory step and insulin control — rapid phosphorylation to fructose-1-phosphate drives high metabolic flux, generating excess acetyl-CoA for fatty acid synthesis and elevating triglycerides, VLDL, and uric acid** — this unregulated entry into metabolism distinguishes fructose from glucose and links it to metabolic syndrome.

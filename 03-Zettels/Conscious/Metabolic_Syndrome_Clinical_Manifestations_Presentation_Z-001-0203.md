@@ -12,8 +12,60 @@ extraction-date: 2026-03-01
 ---
 
 # Metabolic Syndrome — Clinical Manifestations and Presentation
+## Related Zettels from Same Source
+
+- [[Metabolic_Syndrome_Complications_CVD_Diabetes_NAFLD_Z-001-0204]]
+- [[Metabolic_Syndrome_Definition_Diagnostic_Criteria_Z-001-0200]]
+- [[Metabolic_Syndrome_Epidemiology_Global_Prevalence_Z-001-0201]]
+- [[Metabolic_Syndrome_Management_Lifestyle_Pharmacology_Z-001-0205]]
+- [[Metabolic_Syndrome_Pathophysiology_Insulin_Resistance_Z-001-0202]]
+
+## Source
+
+[[LitNote_Metabolic_Syndrome_Overview_L-001-0200]
+
+## Related Zettels from Same Source
+
+- [[Metabolic_Syndrome_Complications_CVD_Diabetes_NAFLD_Z-001-0204]]
+- [[Metabolic_Syndrome_Definition_Diagnostic_Criteria_Z-001-0200]]
+- [[Metabolic_Syndrome_Epidemiology_Global_Prevalence_Z-001-0201]]
+- [[Metabolic_Syndrome_Management_Lifestyle_Pharmacology_Z-001-0205]]
+- [[Metabolic_Syndrome_Pathophysiology_Insulin_Resistance_Z-001-0202]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Clinical presentation of metabolic syndrome is often subtle until complications develop, making screening essential for early detection.
+
+## Related Zettels from Same Source
+
+- [[Metabolic_Syndrome_Complications_CVD_Diabetes_NAFLD_Z-001-0204]]
+- [[Metabolic_Syndrome_Definition_Diagnostic_Criteria_Z-001-0200]]
+- [[Metabolic_Syndrome_Epidemiology_Global_Prevalence_Z-001-0201]]
+- [[Metabolic_Syndrome_Management_Lifestyle_Pharmacology_Z-001-0205]]
+- [[Metabolic_Syndrome_Pathophysiology_Insulin_Resistance_Z-001-0202]]
+
+## Source
+
+[[LitNote_Metabolic_Syndrome_Overview_L-001-0200]
+
+## Related Zettels from Same Source
+
+- [[Metabolic_Syndrome_Complications_CVD_Diabetes_NAFLD_Z-001-0204]]
+- [[Metabolic_Syndrome_Definition_Diagnostic_Criteria_Z-001-0200]]
+- [[Metabolic_Syndrome_Epidemiology_Global_Prevalence_Z-001-0201]]
+- [[Metabolic_Syndrome_Management_Lifestyle_Pharmacology_Z-001-0205]]
+- [[Metabolic_Syndrome_Pathophysiology_Insulin_Resistance_Z-001-0202]]
 
 ## Core Clinical Features
 

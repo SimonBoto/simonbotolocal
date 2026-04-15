@@ -14,6 +14,18 @@ extraction-date: 2026-04-15
 ---
 
 # Human Body Regeneration Timeline
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Visual summary of tissue-specific regeneration rates, illustrating the body's continuous self-renewal capacity (Boettcher, 2025).
 

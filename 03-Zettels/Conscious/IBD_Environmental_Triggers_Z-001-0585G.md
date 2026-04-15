@@ -18,8 +18,28 @@ status: conscious
 ---
 
 # IBD Environmental Triggers
+## Source
+
+[[Inflammatory_Bowel_Disease_-_Crohn-s_vs_Ulcerati_L-001-0585_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > **Source:** ChatGPT conversation [[CGPT_0209_Gastroenterology_Registrar_Assessment_CGPT-0209]] (November 18, 2025)
+
+## Source
+
+[[Inflammatory_Bowel_Disease_-_Crohn-s_vs_Ulcerati_L-001-0585_v4.0]]
 
 ## Core Claim
 Environmental factors including diet, smoking, medications, and microbial exposures interact with genetic susceptibility to trigger and modulate IBD activity, with distinct patterns observed between Crohn's disease (smoking increases risk) and ulcerative colitis (smoking is protective).

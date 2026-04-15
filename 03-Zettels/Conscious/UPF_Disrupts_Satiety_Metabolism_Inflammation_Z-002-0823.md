@@ -15,6 +15,18 @@ related: []
 ---
 
 # UPF Disrupts Satiety, Metabolism, and Causes Inflammation
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Ultra-processed foods disrupt the body's ability to regulate food intake**, leading to overconsumption, while causing insulin resistance, gut dysbiosis, and chronic inflammation.
@@ -64,6 +76,11 @@ More UPF cravings (addictive properties)
 | **Eat whole foods** | Proper nutrient intake |
 | **Increase fiber/protein** | Improved satiety |
 | **Time to eat** | Allow satiety to register |
+
+## Related Zettels from Same Source
+
+- [[Minimally_Processed_Foods_Nutrient_Dense_Alternatives_Z-002-0824]]
+- [[UPF_Multiple_Health_Risks_Umbrella_Review_45_Studies_Z-002-0822]]
 
 ## Source
 - **LitNote:** [[L-002-0228_UPF_Death_CVD_Obesity_Diabetes]]

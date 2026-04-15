@@ -11,6 +11,50 @@ status: conscious
 ---
 
 # Iodine Supplementation — Thyroid and Detox Protocol
+## Related Zettels from Same Source
+
+- [[B_Complex_Ratios_Clinical_Analysis_Z-001-1233]]
+- [[MTHFR_Methylation_Support_Protocol_Z-001-1232]]
+- [[Selenium_Iodine_Synergy_Toxicity_Z-001-1231]]
+
+## Source
+
+[[LitNote_Iodine_Thyroid_MTHFR_L-001-0638]
+
+## Related Zettels from Same Source
+
+- [[B_Complex_Ratios_Clinical_Analysis_Z-001-1233]]
+- [[MTHFR_Methylation_Support_Protocol_Z-001-1232]]
+- [[Selenium_Iodine_Synergy_Toxicity_Z-001-1231]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[B_Complex_Ratios_Clinical_Analysis_Z-001-1233]]
+- [[MTHFR_Methylation_Support_Protocol_Z-001-1232]]
+- [[Selenium_Iodine_Synergy_Toxicity_Z-001-1231]]
+
+## Source
+
+[[LitNote_Iodine_Thyroid_MTHFR_L-001-0638]
+
+## Related Zettels from Same Source
+
+- [[B_Complex_Ratios_Clinical_Analysis_Z-001-1233]]
+- [[MTHFR_Methylation_Support_Protocol_Z-001-1232]]
+- [[Selenium_Iodine_Synergy_Toxicity_Z-001-1231]]
 
 ## Overview
 

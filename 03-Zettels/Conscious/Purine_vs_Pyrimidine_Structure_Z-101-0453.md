@@ -13,6 +13,62 @@ extraction-date: 2026-03-04
 ---
 
 # Purine vs Pyrimidine Structure and Chemistry
+## Related Zettels from Same Source
+
+- [[Adenosine_Receptors_Sleep_Regulation_Z-101-0452]]
+- [[Amino_Acids_vs_Nucleobases_Z-101-0462]]
+- [[ATP_Universal_Energy_Currency_Z-101-0451]]
+- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]]
+- [[Meteoritic_Nucleobases_Panspermia_Z-101-0455]]
+- [[RNA_World_Hypothesis_Evolution_Z-101-0456]]
+
+## Source
+
+[[L-101-0045A_Adenosine_Adenine_Biochemistry_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Adenosine_Receptors_Sleep_Regulation_Z-101-0452]]
+- [[Amino_Acids_vs_Nucleobases_Z-101-0462]]
+- [[ATP_Universal_Energy_Currency_Z-101-0451]]
+- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]]
+- [[Meteoritic_Nucleobases_Panspermia_Z-101-0455]]
+- [[RNA_World_Hypothesis_Evolution_Z-101-0456]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Adenosine_Receptors_Sleep_Regulation_Z-101-0452]]
+- [[Amino_Acids_vs_Nucleobases_Z-101-0462]]
+- [[ATP_Universal_Energy_Currency_Z-101-0451]]
+- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]]
+- [[Meteoritic_Nucleobases_Panspermia_Z-101-0455]]
+- [[RNA_World_Hypothesis_Evolution_Z-101-0456]]
+
+## Source
+
+[[L-101-0045A_Adenosine_Adenine_Biochemistry_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[Adenosine_Receptors_Sleep_Regulation_Z-101-0452]]
+- [[Amino_Acids_vs_Nucleobases_Z-101-0462]]
+- [[ATP_Universal_Energy_Currency_Z-101-0451]]
+- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]]
+- [[Meteoritic_Nucleobases_Panspermia_Z-101-0455]]
+- [[RNA_World_Hypothesis_Evolution_Z-101-0456]]
 
 ## Core Claim
 **Purines (adenine, guanine) are larger double-ring structures that pair with smaller single-ring pyrimidines (cytosine, thymine/uracil) through specific hydrogen bonding — A-T pairs form 2 hydrogen bonds while G-C pairs form 3, making G-C rich DNA more stable** — purines are harder to synthesize prebiotically (require HCN polymerization) while pyrimidines form more readily.

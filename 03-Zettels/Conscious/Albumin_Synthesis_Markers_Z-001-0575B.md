@@ -18,9 +18,29 @@ status: conscious
 ---
 
 # Serum Albumin as Prognostic Marker
+## Source
+
+[[CKD_Nutritional_Assessment_-_Albumin_vs_Intake-_L-001-0575_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > **Source:** ChatGPT conversation [[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370]] (May 26, 2024)
 > **Core Claim:** Serum albumin is a critical prognostic indicator in CKD progression that reflects oncotic pressure maintenance, transport function, antioxidant properties, and inflammation status.
+
+## Source
+
+[[CKD_Nutritional_Assessment_-_Albumin_vs_Intake-_L-001-0575_v4.0]]
 
 ## Core Concepts
 

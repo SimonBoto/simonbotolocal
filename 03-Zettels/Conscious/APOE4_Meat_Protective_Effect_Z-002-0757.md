@@ -15,6 +15,18 @@ related: []
 ---
 
 # APOE4 Meat Protective Effect — Evolutionary Mismatch Hypothesis
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **APOE4 is the evolutionarily oldest APOE variant** — adapted to meat-rich, low-carbohydrate Paleolithic environments. Modern plant-based diets create an **evolutionary mismatch** that disadvantages APOE4 carriers, increasing their dementia risk.
@@ -56,6 +68,11 @@ related: []
 - **Emphasize meat consumption** — matches evolutionary adaptation
 - **Monitor B12, iron, zinc** — critical nutrients
 - **Consider genotype** in dietary recommendations
+
+## Related Zettels from Same Source
+
+- [[B12_Critical_Brain_Health_Z-002-0758]]
+- [[Meat_Eliminates_Alzheimer_Genetic_Risk_Z-002-0756]]
 
 ## Source
 - **LitNote:** [[L-002-0206_Meat_Consumption_Eliminates_Alzheimer_Genetic_Risk]]

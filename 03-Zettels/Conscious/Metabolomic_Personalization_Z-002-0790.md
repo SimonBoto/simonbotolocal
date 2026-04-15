@@ -15,6 +15,46 @@ related: []
 ---
 
 # Standard Vitamin D Dosing Is Inadequate for Most Patients
+## Related Zettels from Same Source
+
+- [[Personalized_Nutrition_50pct_Risk_Reduction_Z-002-0789]]
+- [[Targeted_Micronutrient_Repletion_Z-002-0791]]
+
+## Source
+
+[[L-002-0217_Personalized_Nutrition_Halves_CVD]]
+
+## Related Zettels from Same Source
+
+- [[Personalized_Nutrition_50pct_Risk_Reduction_Z-002-0789]]
+- [[Targeted_Micronutrient_Repletion_Z-002-0791]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Personalized_Nutrition_50pct_Risk_Reduction_Z-002-0789]]
+- [[Targeted_Micronutrient_Repletion_Z-002-0791]]
+
+## Source
+
+[[L-002-0217_Personalized_Nutrition_Halves_CVD]]
+
+## Related Zettels from Same Source
+
+- [[Personalized_Nutrition_50pct_Risk_Reduction_Z-002-0789]]
+- [[Targeted_Micronutrient_Repletion_Z-002-0791]]
 
 ## Core Claim
 **Standard fixed-dose vitamin D supplementation (e.g., 800 IU/day) is inadequate for most patients to reach optimal levels** — the TARGET-D study found 85% of participants started below 40 ng/mL, and nearly half needed >5,000 IU/day to reach target, suggesting current FDA recommendations are insufficient for many individuals.

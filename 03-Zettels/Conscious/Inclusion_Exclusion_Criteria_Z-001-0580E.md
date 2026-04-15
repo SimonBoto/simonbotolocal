@@ -19,8 +19,28 @@ status: conscious
 ---
 
 # Inclusion and Exclusion Criteria
+## Source
+
+[[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > **Definition:** Inclusion and exclusion criteria are explicit, pre-defined conditions used to determine which studies are eligible for inclusion in a systematic review based on their methodological characteristics, population, interventions, outcomes, and study design.
+
+## Source
+
+[[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]
 
 ## Core Principle
 

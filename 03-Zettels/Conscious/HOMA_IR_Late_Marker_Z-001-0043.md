@@ -14,6 +14,22 @@ extraction-date: 2026-04-15
 ---
 
 # HOMA-IR is a Late Marker Despite Its Name
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 HOMA-IR (Homeostatic Model Assessment for  Resistance) requires elevated glucose to calculate — meaning beta-cell dysfunction must already be present. Despite being called an "insulin resistance" index, it primarily reflects beta-cell inadequacy.
 
@@ -22,6 +38,10 @@ HOMA-IR (Homeostatic Model Assessment for  Resistance) requires elevated glucose
 **Clinical consequence:** Patients with significant IR but preserved beta-cell compensation (compensatory stage) have "normal" HOMA-IR, missing the early intervention window.
 
 **Better approach:** Use fasting insulin alone (elevated in Stage 1) or early metabolic markers like adipic acid (elevated before glucose changes).
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Principle
 

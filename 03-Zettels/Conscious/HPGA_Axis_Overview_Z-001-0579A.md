@@ -19,8 +19,28 @@ status: conscious
 ---
 
 # HPGA Axis Overview
+## Source
+
+[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 The hypothalamic-pituitary-gonadal (HPG) axis is the endocrine system responsible for regulating reproductive function, sexual development, and hormone production. It operates through a cascade of hormonal signals that maintain homeostasis and coordinate physiological responses.
+
+## Source
+
+[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]
 
 ## Core Components
 

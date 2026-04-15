@@ -13,6 +13,26 @@ extraction-date: 2026-03-04
 ---
 
 # Glutamate — The Central Amino Acid Hub
+## Source
+
+[[L-001-0046B_Amino_Acid_Networks_CGPT-0445]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[L-001-0046B_Amino_Acid_Networks_CGPT-0445]]
 
 ## Core Claim
 **Glutamate is the metabolic crossroads of amino acid metabolism — it serves as the primary amino group acceptor from most amino acids (via transamination), the amino group donor for amino acid synthesis, a neurotransmitter in the brain, and an entry point to the Krebs cycle as α-ketoglutarate** — this central position makes glutamate essential for nitrogen metabolism, energy production, and neural function.

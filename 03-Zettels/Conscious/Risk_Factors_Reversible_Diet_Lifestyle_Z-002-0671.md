@@ -15,6 +15,18 @@ related: []
 ---
 
 # Risk Factors Reversible Through Diet and Lifestyle
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **All five major mortality risk factors are reversible** through evidence-based dietary and lifestyle interventions — including smoking cessation, blood pressure reduction through diet, weight normalization, diabetes remission, and metabolic optimization.
@@ -110,6 +122,11 @@ related: []
 | Address all 5 factors | +11-14 years of life |
 | | +10-13 healthy years |
 | | Quality improvement |
+
+## Related Zettels from Same Source
+
+- [[Five_Risk_Factors_11-14_Extra_Years_Life_Z-002-0669]]
+- [[Smoking_BP_Greatest_Impact_Longevity_Z-002-0670]]
 
 ## Source
 - **LitNote:** [[L-002-0178_Lifestyle_Diet_Disease_Determinants]]

@@ -12,6 +12,18 @@ status: conscious
 ---
 
 # Abaloparatide — PTHrP Analog Anabolic Agent
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Principle
 Synthetic analog of parathyroid hormone-related protein (PTHrP) that stimulates bone formation through PTH1 receptor with distinct signaling kinetics from teriparatide.
@@ -125,6 +137,15 @@ Same as teriparatide:
 - [[Romosozumab_Anti_Sclerostin_Dual_Action_Therapy_Z-001-0107]] — Non-PTH anabolic
 - [[Sequential_Therapy_Anabolic_to_Antiresorptive_Strategy_Z-001-0108]] — Post-anabolic plan
 
+## Related Zettels from Same Source
+
+- [[Bone_Balance_Equation_Resorption_Formation_Coupling_Z-001-0104]]
+- [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]]
+- [[Resting_Phase_Bone_Remodeling_Quiescence_Z-001-0103]]
+- [[Romosozumab_Anti_Sclerostin_Dual_Action_Therapy_Z-001-0107]]
+- [[Sequential_Therapy_Anabolic_to_Antiresorptive_Strategy_Z-001-0108]]
+- [[Teriparatide_PTH_1-34_Intermittent_Anabolic_Therapy_Z-001-0105]]
+
 ## Source
 [[LitNote_Anabolic_Bone_Therapies_L-001-0016]
 
@@ -133,6 +154,15 @@ Same as teriparatide:
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
 
+
+## Related Zettels from Same Source
+
+- [[Bone_Balance_Equation_Resorption_Formation_Coupling_Z-001-0104]]
+- [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]]
+- [[Resting_Phase_Bone_Remodeling_Quiescence_Z-001-0103]]
+- [[Romosozumab_Anti_Sclerostin_Dual_Action_Therapy_Z-001-0107]]
+- [[Sequential_Therapy_Anabolic_to_Antiresorptive_Strategy_Z-001-0108]]
+- [[Teriparatide_PTH_1-34_Intermittent_Anabolic_Therapy_Z-001-0105]]
 
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]

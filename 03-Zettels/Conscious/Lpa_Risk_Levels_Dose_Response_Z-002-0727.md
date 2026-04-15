@@ -14,6 +14,18 @@ related: []
 ---
 
 # Lp(a) Risk Levels Show Dose-Response
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Lp(a) risk increases in dose-response fashion** — ~10% risk increase for every 20 mg/dL elevation.

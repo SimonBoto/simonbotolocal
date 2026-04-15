@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 # Stoss Therapy — High-Dose  for Rickets
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Stoss therapy uses single high-dose vitamin D (50,000-600,000 IU) to rapidly correct severe deficiency or treat rickets in children. Dose calculated by body weight; administered as single dose or divided over several days. Requires strict medical supervision with calcium monitoring.
 

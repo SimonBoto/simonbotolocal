@@ -15,6 +15,18 @@ related: []
 ---
 
 # Chronic Disease 74% Global Mortality
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Chronic diseases cause 74% of deaths globally, 90% in developed countries.
@@ -22,6 +34,11 @@ Chronic diseases cause 74% of deaths globally, 90% in developed countries.
 ## Significance
 
 tags: [zettel, chronic-disease, mortality, global]
+
+## Related Zettels from Same Source
+
+- [[Developed_Countries_90pct_Chronic_Deaths_Z-002-0745]]
+- [[Epidemiological_Transition_Chronic_Disease_Z-002-0746]]
 
 ## Source
 - **LitNote:** [[L-002-0202_Chronic_Disease_74pct_Global_Deaths]]

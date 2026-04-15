@@ -12,8 +12,64 @@ extraction-date: 2026-03-01
 ---
 
 # MGP Vascular Protection — D-K2 Synergy
+## Related Zettels from Same Source
+
+- [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]]
+- [[Measuring_Vascular_Calcification_Z-001-0271]]
+- [[MGP_Body_Defense_Vascular_Calcification_Z-001-0270]]
+- [[Vascular_Calcification_Pathophysiology_Z-001-0269]]
+- [[Vascular_Calcification_Prevention_Reversal_Z-001-0272]]
+- [[Vascular_Calcification_Silent_Killer_Z-001-0268]]
+
+## Source
+
+[[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]
+
+## Related Zettels from Same Source
+
+- [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]]
+- [[Measuring_Vascular_Calcification_Z-001-0271]]
+- [[MGP_Body_Defense_Vascular_Calcification_Z-001-0270]]
+- [[Vascular_Calcification_Pathophysiology_Z-001-0269]]
+- [[Vascular_Calcification_Prevention_Reversal_Z-001-0272]]
+- [[Vascular_Calcification_Silent_Killer_Z-001-0268]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Matrix Gla Protein (MGP) is the body's strongest inhibitor of vascular calcification. Its protective function requires both  (for synthesis) and  (for activation), making the D-K2 synergy essential for cardiovascular health.
+
+## Related Zettels from Same Source
+
+- [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]]
+- [[Measuring_Vascular_Calcification_Z-001-0271]]
+- [[MGP_Body_Defense_Vascular_Calcification_Z-001-0270]]
+- [[Vascular_Calcification_Pathophysiology_Z-001-0269]]
+- [[Vascular_Calcification_Prevention_Reversal_Z-001-0272]]
+- [[Vascular_Calcification_Silent_Killer_Z-001-0268]]
+
+## Source
+
+[[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]
+
+## Related Zettels from Same Source
+
+- [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]]
+- [[Measuring_Vascular_Calcification_Z-001-0271]]
+- [[MGP_Body_Defense_Vascular_Calcification_Z-001-0270]]
+- [[Vascular_Calcification_Pathophysiology_Z-001-0269]]
+- [[Vascular_Calcification_Prevention_Reversal_Z-001-0272]]
+- [[Vascular_Calcification_Silent_Killer_Z-001-0268]]
 
 ## Core Principle
 

@@ -28,6 +28,58 @@ updated: "2026-04-09"
 ---
 
 # Vitamin C Pro-Oxidant Cancer Selective Toxicity
+## Related Zettels from Same Source
+
+- [[Vitamin_C_Clinical_Evidence_Cancer_Controversies_Z-001-1127]]
+- [[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_Z-001-1126]]
+- [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_Z-001-1125,]]
+- [[[[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_Z-001-1126]],]]
+- [[[[Vitamin_C_Clinical_Evidence_Cancer_Controversies_Z-001-1127]]]]
+
+## Source
+
+[[L-001-0610_High_Dose_Vitamin_C_Oncology_CGPT-0264]]
+
+## Related Zettels from Same Source
+
+- [[Vitamin_C_Clinical_Evidence_Cancer_Controversies_Z-001-1127]]
+- [[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_Z-001-1126]]
+- [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_Z-001-1125,]]
+- [[[[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_Z-001-1126]],]]
+- [[[[Vitamin_C_Clinical_Evidence_Cancer_Controversies_Z-001-1127]]]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Vitamin_C_Clinical_Evidence_Cancer_Controversies_Z-001-1127]]
+- [[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_Z-001-1126]]
+- [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_Z-001-1125,]]
+- [[[[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_Z-001-1126]],]]
+- [[[[Vitamin_C_Clinical_Evidence_Cancer_Controversies_Z-001-1127]]]]
+
+## Source
+
+[[L-001-0610_High_Dose_Vitamin_C_Oncology_CGPT-0264]]
+
+## Related Zettels from Same Source
+
+- [[Vitamin_C_Clinical_Evidence_Cancer_Controversies_Z-001-1127]]
+- [[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_Z-001-1126]]
+- [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_Z-001-1125,]]
+- [[[[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_Z-001-1126]],]]
+- [[[[Vitamin_C_Clinical_Evidence_Cancer_Controversies_Z-001-1127]]]]
 
 ## Core Claim
 Pharmacological doses of intravenous vitamin C (achieving plasma concentrations >1,000 μM) generate hydrogen peroxide (H₂O₂) through auto-oxidation, which is selectively toxic to cancer cells due to their relative deficiency in catalase—the enzyme that detoxifies H₂O₂—while normal cells remain protected, creating a therapeutic window for selective cancer cell killing.

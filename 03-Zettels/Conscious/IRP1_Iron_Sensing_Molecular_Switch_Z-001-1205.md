@@ -13,6 +13,50 @@ extraction-date: 2026-03-08
 ---
 
 # IRP1 — The Iron-Sensing Molecular Switch
+## Related Zettels from Same Source
+
+- [[Aconitase_Mechanism_Iron_Sulfur_Cluster_Z-001-1204]]
+- [[IRE_IRP_System_Molecular_Details_Z-001-1207]]
+- [[Iron_Homeostasis_Post_Transcriptional_Z-001-1206]]
+
+## Source
+
+[[L-001-0631_Aconitase_Iron_Metabolism_IRP1_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Aconitase_Mechanism_Iron_Sulfur_Cluster_Z-001-1204]]
+- [[IRE_IRP_System_Molecular_Details_Z-001-1207]]
+- [[Iron_Homeostasis_Post_Transcriptional_Z-001-1206]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Aconitase_Mechanism_Iron_Sulfur_Cluster_Z-001-1204]]
+- [[IRE_IRP_System_Molecular_Details_Z-001-1207]]
+- [[Iron_Homeostasis_Post_Transcriptional_Z-001-1206]]
+
+## Source
+
+[[L-001-0631_Aconitase_Iron_Metabolism_IRP1_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Aconitase_Mechanism_Iron_Sulfur_Cluster_Z-001-1204]]
+- [[IRE_IRP_System_Molecular_Details_Z-001-1207]]
+- [[Iron_Homeostasis_Post_Transcriptional_Z-001-1206]]
 
 ## Core Claim
 **IRP1 functions as a dual-purpose protein that switches between enzymatic and regulatory roles based on cellular iron status — acting as cytosolic aconitase (with intact [4Fe-4S] cluster) when iron is abundant, and as an RNA-binding protein that regulates iron uptake and storage when iron is scarce and the Fe-S cluster disassembles, providing rapid post-transcriptional control of iron homeostasis.**

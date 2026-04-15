@@ -14,8 +14,52 @@ created: 2026-03-27
 ---
 
 # IRB Communication Template
+## Related Zettels from Same Source
+
+- [[Independent_Review_IRB_Ethics_Z-002-0605]]
+- [[IRB_Escalation_Pathways_Z-002-0615]]
+- [[IRB_Non_Response_Protocol_Z-002-0613]]
+
+## Source
+
+[[LitNote_Ethics_Committee_Communication_L-002-0603]
+
+## Related Zettels from Same Source
+
+- [[Independent_Review_IRB_Ethics_Z-002-0605]]
+- [[IRB_Escalation_Pathways_Z-002-0615]]
+- [[IRB_Non_Response_Protocol_Z-002-0613]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Professional, effective communication with ethics committees requires clarity, respect, and appropriate tone. Templates ensure consistency and completeness.
+
+## Related Zettels from Same Source
+
+- [[Independent_Review_IRB_Ethics_Z-002-0605]]
+- [[IRB_Escalation_Pathways_Z-002-0615]]
+- [[IRB_Non_Response_Protocol_Z-002-0613]]
+
+## Source
+
+[[LitNote_Ethics_Committee_Communication_L-002-0603]
+
+## Related Zettels from Same Source
+
+- [[Independent_Review_IRB_Ethics_Z-002-0605]]
+- [[IRB_Escalation_Pathways_Z-002-0615]]
+- [[IRB_Non_Response_Protocol_Z-002-0613]]
 
 ## Core Principle
 

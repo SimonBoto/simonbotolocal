@@ -16,10 +16,30 @@ extraction-date: 2026-04-15
 ---
 
 # CBC — Complete Blood Count Patterns
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 The **CBC** provides baseline hematologic status. Beyond anemia detection, patterns reveal , hydration, and chronic disease states.
 
 ---
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Principle
 

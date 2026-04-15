@@ -12,6 +12,26 @@ status: conscious
 ---
 
 # Sydney Diet-Heart Study Reanalysis —  and Mortality
+## Source
+
+[[LitNote_Epidemiological_Evidence_L-001-0525]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Epidemiological_Evidence_L-001-0525]
 
 ## Study Overview
 

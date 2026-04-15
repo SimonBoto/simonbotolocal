@@ -13,6 +13,62 @@ extraction-date: 2026-03-04
 ---
 
 # BHB as Energy Substrate for Brain and Heart
+## Related Zettels from Same Source
+
+- [[BHB_HDAC_Inhibition_Epigenetics_Z-001-0485]]
+- [[BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483]]
+- [[BHB_NLRP3_Inflammasome_Inhibition_Z-001-0486]]
+- [[Ketogenesis_Pathway_Regulation_Z-001-0481]]
+- [[Physiological_vs_Pathological_Ketosis_Z-001-0487]]
+- [[Three_Ketone_Bodies_Z-001-0482]]
+
+## Source
+
+[[L-001-0045G_Ketogenesis_BHB_Signaling_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[BHB_HDAC_Inhibition_Epigenetics_Z-001-0485]]
+- [[BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483]]
+- [[BHB_NLRP3_Inflammasome_Inhibition_Z-001-0486]]
+- [[Ketogenesis_Pathway_Regulation_Z-001-0481]]
+- [[Physiological_vs_Pathological_Ketosis_Z-001-0487]]
+- [[Three_Ketone_Bodies_Z-001-0482]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[BHB_HDAC_Inhibition_Epigenetics_Z-001-0485]]
+- [[BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483]]
+- [[BHB_NLRP3_Inflammasome_Inhibition_Z-001-0486]]
+- [[Ketogenesis_Pathway_Regulation_Z-001-0481]]
+- [[Physiological_vs_Pathological_Ketosis_Z-001-0487]]
+- [[Three_Ketone_Bodies_Z-001-0482]]
+
+## Source
+
+[[L-001-0045G_Ketogenesis_BHB_Signaling_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[BHB_HDAC_Inhibition_Epigenetics_Z-001-0485]]
+- [[BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483]]
+- [[BHB_NLRP3_Inflammasome_Inhibition_Z-001-0486]]
+- [[Ketogenesis_Pathway_Regulation_Z-001-0481]]
+- [[Physiological_vs_Pathological_Ketosis_Z-001-0487]]
+- [[Three_Ketone_Bodies_Z-001-0482]]
 
 ## Core Claim
 **BHB crosses the blood-brain barrier via monocarboxylate transporters (MCTs) without insulin, providing an alternative fuel for the brain during glucose scarcity — after adaptation, ketones supply 60-70% of brain energy, sparing glucose for obligate users and reducing protein catabolism** — the heart also readily uses BHB, with more efficient ATP production per oxygen than fatty acids.

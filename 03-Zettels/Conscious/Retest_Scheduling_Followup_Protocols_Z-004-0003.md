@@ -16,6 +16,18 @@ connections:
 ---
 
 # Retest Scheduling — Clinical Follow-up Protocols
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **Timing matters.** Retest too early, you waste money and patient patience. Retest too late, you miss opportunities to course-correct. These evidence-based intervals optimize monitoring for metabolic interventions.
 

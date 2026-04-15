@@ -15,6 +15,18 @@ related: []
 ---
 
 # Low-Carb Superior to Low-Fat for Lipid Profile
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Low-carbohydrate diets are **superior to low-fat diets** for improving cardiovascular lipid profiles, specifically reducing triglycerides and increasing HDL cholesterol — key independent markers of CVD risk.
@@ -86,6 +98,11 @@ Low-carbohydrate diets are **superior to low-fat diets** for improving cardiovas
 - Current guidelines emphasize LDL reduction
 - Ignore triglyceride/HDL ratio despite stronger CVD prediction
 - Low-carb superiority not reflected in standard advice
+
+## Related Zettels from Same Source
+
+- [[Insulin_Resistance_Root_Cause_CVD_Z-002-0642]]
+- [[Low_Carbohydrate_Diet_Reverses_Metabolic_Syndrome_Z-002-0641]]
 
 ## Source
 - **LitNote:** [[L-002-0169_Carb_Restriction_CVD_Risk]]

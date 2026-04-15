@@ -13,6 +13,46 @@ extraction-date: 2026-03-08
 ---
 
 # Mediterranean Diet Metabolic Evidence
+## Related Zettels from Same Source
+
+- [[Metabolomics_Research_Core_Bibliography_Z-001-1074]]
+- [[Vitamin_D_Safety_Research_Summary_Z-001-1075]]
+
+## Source
+
+[[L-001-0596_Tsoukalas_Research_Bibliography_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Metabolomics_Research_Core_Bibliography_Z-001-1074]]
+- [[Vitamin_D_Safety_Research_Summary_Z-001-1075]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Metabolomics_Research_Core_Bibliography_Z-001-1074]]
+- [[Vitamin_D_Safety_Research_Summary_Z-001-1075]]
+
+## Source
+
+[[L-001-0596_Tsoukalas_Research_Bibliography_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Metabolomics_Research_Core_Bibliography_Z-001-1074]]
+- [[Vitamin_D_Safety_Research_Summary_Z-001-1075]]
 
 ## Core Claim
 **The Mediterranean diet — characterized by high olive oil, nuts, fish, fruits, vegetables, and whole grains with moderate wine consumption — has demonstrated significant cardiovascular and metabolic health benefits in randomized controlled trials including PREDIMED, providing evidence-based dietary recommendations for metabolic syndrome and cardiovascular risk reduction.**

@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 # Denosumab Hypocalcemia Risk
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Denosumab reduces bone resorption and calcium release from bone, creating risk of hypocalcemia. Particularly dangerous in patients with hypoparathyroidism,  deficiency, or severe renal impairment. Monitor serum calcium closely.
 

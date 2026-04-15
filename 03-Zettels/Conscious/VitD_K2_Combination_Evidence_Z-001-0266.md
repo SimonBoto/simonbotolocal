@@ -21,6 +21,26 @@ status: conscious
 ---
 
 # VitD-K2 Combination Evidence
+## Source
+
+D-K2_Co-Supplementation_Clinical_Evidence_-Studies_L-001-0214_v4.0
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+D-K2_Co-Supplementation_Clinical_Evidence_-Studies_L-001-0214_v4.0
 
 ## Core Thesis
 Vitamin D and K2 co-supplementation demonstrates synergistic effects on metabolic health, vascular function, and bone metabolism that exceed the benefits of either nutrient alone, supported by clinical evidence from RCTs and observational studies.

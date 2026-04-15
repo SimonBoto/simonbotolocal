@@ -12,6 +12,18 @@ extraction-date: 2026-03-11
 ---
 
 # Insulin Resistance and Beta-Oxidation Block — The Metabolic Paradox
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Insulin resistance creates a metabolic paradox where elevated circulating free fatty acids (due to adipose insulin resistance) coexist with impaired fatty acid oxidation (due to persistent hyperinsulinemia and malonyl-CoA-mediated CPT-1 inhibition), resulting in lipotoxicity and ectopic fat accumulation.
@@ -92,6 +104,11 @@ HIGH CIRCULATING FFAs    +    BLOCKED BETA-OXIDATION
 - [[Hyperinsulinemia_Mechanisms_Z-001-1253]] — Insulin-mediated mechanisms
 - [[Metabolic_Flexibility_Definition_Z-001-1254]] — Fuel switching capacity
 - [[BHB_Production_Fatty_Acids_Z-001-1256]] — Alternative fuel pathways
+
+## Related Zettels from Same Source
+
+- [[Hyperinsulinemia_Mechanisms_Z-001-1253]]
+- [[Metabolic_Flexibility_Definition_Z-001-1254]]
 
 ## Source
 [[L-001-0654_Hyperinsulinemia_Metabolic_Inflexibility_CGPT-0647]]

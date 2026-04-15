@@ -13,6 +13,18 @@ created: 2026-02-24
 ---
 
 # Immuno and the Warburg Effect in Inflammation
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Immune cell function is regulated by metabolic state. Pro-inflammatory cells (M1 macrophages, activated T-cells) rely on aerobic glycolysis (the Warburg effect), while anti-inflammatory cells (M2 macrophages, regulatory T-cells) use oxidative phosphorylation. This metabolic dichotomy offers therapeutic targets.
 

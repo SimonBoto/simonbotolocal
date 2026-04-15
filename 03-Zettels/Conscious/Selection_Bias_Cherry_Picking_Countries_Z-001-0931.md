@@ -13,8 +13,56 @@ updated: 2026-03-05
 ---
 
 # Selection Bias — Cherry-Picking Countries
+## Related Zettels from Same Source
+
+- [[Confounding_Variables_Diet_Studies_Z-001-0525]]
+- [[Ecological_Fallacy_Nutrition_Research_Z-001-0523]]
+- [[Seven_Countries_Study_Design_Structure_Z-001-0522]]
+- [[Statistical_Issues_Overfitting_Correlation_Z-001-0933]]
+
+## Source
+
+[[LitNote_Seven_Countries_Methodology_L-001-0504]
+
+## Related Zettels from Same Source
+
+- [[Confounding_Variables_Diet_Studies_Z-001-0525]]
+- [[Ecological_Fallacy_Nutrition_Research_Z-001-0523]]
+- [[Seven_Countries_Study_Design_Structure_Z-001-0522]]
+- [[Statistical_Issues_Overfitting_Correlation_Z-001-0933]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Countries were selected post-hoc from 22 considered based on preliminary data, excluding France (high SFA, low CHD) and others that contradicted the saturated fat hypothesis.
+
+## Related Zettels from Same Source
+
+- [[Confounding_Variables_Diet_Studies_Z-001-0525]]
+- [[Ecological_Fallacy_Nutrition_Research_Z-001-0523]]
+- [[Seven_Countries_Study_Design_Structure_Z-001-0522]]
+- [[Statistical_Issues_Overfitting_Correlation_Z-001-0933]]
+
+## Source
+
+[[LitNote_Seven_Countries_Methodology_L-001-0504]
+
+## Related Zettels from Same Source
+
+- [[Confounding_Variables_Diet_Studies_Z-001-0525]]
+- [[Ecological_Fallacy_Nutrition_Research_Z-001-0523]]
+- [[Seven_Countries_Study_Design_Structure_Z-001-0522]]
+- [[Statistical_Issues_Overfitting_Correlation_Z-001-0933]]
 
 ## Core Principle
 

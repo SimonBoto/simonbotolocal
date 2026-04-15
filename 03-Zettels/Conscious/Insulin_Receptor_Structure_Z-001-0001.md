@@ -15,6 +15,22 @@ created: 2026-02-22
 ---
 
 #  Receptor Structure
+## Source
+
+[[High_Glucose_vs_High_Insulin-_Insulin_Matters_More_L-002-0221_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 The insulin receptor (INSR) is a tetrameric receptor tyrosine kinase expressed on plasma membranes of metabolically active tissues (muscle, adipose, liver).
 
@@ -27,6 +43,10 @@ The insulin receptor (INSR) is a tetrameric receptor tyrosine kinase expressed o
 **Key feature:** α and β subunits are covalently linked by disulfide bonds. No insulin binding occurs without both subunits intact.
 
 **Isoforms:** INSR-A (fetal, high IGF-2 affinity) vs. INSR-B (adult, exon 11)
+
+## Source
+
+[[High_Glucose_vs_High_Insulin-_Insulin_Matters_More_L-002-0221_v4.0]]
 
 ## Core Principle
 

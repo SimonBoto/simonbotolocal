@@ -19,9 +19,29 @@ status: conscious
 ---
 
 # Albumin-Inflammation Confounder
+## Source
+
+[[CKD_Nutritional_Assessment_-_Albumin_vs_Intake-_L-001-0575_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > **Source:** ChatGPT conversation [[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370]] (May 26, 2024)
 > **Core Claim:** Low serum albumin in CKD patients is often confounded by inflammation, making it a marker of both nutritional status and inflammatory burden rather than protein deficiency alone.
+
+## Source
+
+[[CKD_Nutritional_Assessment_-_Albumin_vs_Intake-_L-001-0575_v4.0]]
 
 ## Core Concepts
 

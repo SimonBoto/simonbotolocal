@@ -11,6 +11,26 @@ status: conscious
 ---
 
 #  Preprocessing and Quality Control
+## Source
+
+[[LitNote_Metabolomics_Data_Processing_L-001-0619]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Metabolomics_Data_Processing_L-001-0619]
 
 ## Mechanism
 
@@ -214,19 +234,99 @@ raw_data <- readMSData(files, mode = "onDisk")
 ### XCMS Pipeline (R)
 ```r
 # 1. Read data
+## Source
+
+[[LitNote_Metabolomics_Data_Processing_L-001-0619]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 raw_data <- readMSData(files, mode = "onDisk")
 
 # 2. Peak detection
+## Source
+
+[[LitNote_Metabolomics_Data_Processing_L-001-0619]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 cwp <- CentWaveParam(ppm = 25, peakwidth = c(20, 50))
 xdata <- findChromPeaks(raw_data, param = cwp)
 
 # 3. Alignment
+## Source
+
+[[LitNote_Metabolomics_Data_Processing_L-001-0619]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 xdata <- adjustRtime(xdata, param = ObiwarpParam())
 
 # 4. Correspondence
+## Source
+
+[[LitNote_Metabolomics_Data_Processing_L-001-0619]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 xdata <- groupChromPeaks(xdata, param = PeakDensityParam())
 
 # 5. Fill missing
+## Source
+
+[[LitNote_Metabolomics_Data_Processing_L-001-0619]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 xdata <- fillChromPeaks(xdata, param = FillChromPeaksParam())
 ```
 
@@ -237,6 +337,10 @@ xdata <- fillChromPeaks(xdata, param = FillChromPeaksParam())
 - Values: Peak intensities (area)
 
 ---
+
+## Source
+
+[[LitNote_Metabolomics_Data_Processing_L-001-0619]
 
 ## Mechanism
 

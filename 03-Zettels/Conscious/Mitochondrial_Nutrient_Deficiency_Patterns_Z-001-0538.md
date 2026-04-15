@@ -12,6 +12,18 @@ extraction-date: 2026-03-01
 ---
 
 # Mitochondrial Nutrient Deficiency Patterns
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Specific nutrient deficiencies produce characteristic organic acid patterns that reveal which mitochondrial cofactors are lacking, enabling targeted supplementation: magnesium deficiency causes citrate/aconitate accumulation; CoQ10 deficiency impairs electron transport; B-vitamin deficiencies affect multiple dehydrogenases; and carnitine deficiency elevates 3-HMGA through impaired fatty acid oxidation.
@@ -108,6 +120,12 @@ Specific nutrient deficiencies produce characteristic organic acid patterns that
 - [[Urine_Organic_Acid_Krebs_Cycle_Markers_Z-001-0537]] — OAT interpretation
 - [[Mitochondrial_Supplementation_Protocol_Z-001-0539]] — Management protocol
 - [[Organic_Acid_METHAP_Integration_Z-001-0540]] — METHAP integration
+
+## Related Zettels from Same Source
+
+- [[Mitochondrial_Supplementation_Protocol_Z-001-0539]]
+- [[Organic_Acid_METHAP_Integration_Z-001-0540]]
+- [[Urine_Organic_Acid_Krebs_Cycle_Markers_Z-001-0537]]
 
 ## Source
 [[Organic_Acid_Krebs_Cycle_Markers_Clinical_L-001-0507_CGPT-0393]]

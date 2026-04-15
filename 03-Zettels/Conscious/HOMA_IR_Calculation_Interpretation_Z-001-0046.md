@@ -21,10 +21,30 @@ extraction-date: 2026-04-15
 ---
 
 # HOMA-IR Calculation and Clinical Interpretation
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **HOMA-IR** (Homeostatic Model Assessment for Insulin Resistance) estimates insulin resistance from fasting glucose and fasting insulin. It's the most widely used clinical surrogate for insulin clamp studies.
 
 ---
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Principle
 

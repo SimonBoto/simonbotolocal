@@ -15,8 +15,56 @@ extraction-date: 2026-04-15
 ---
 
 # Cofactor → Metabolite Biomarker Logic — The B12 Model
+## Related Zettels from Same Source
+
+- [[Carnitine_Fatty_Acid_Transport_Z-001-0913]]
+- [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0914]]
+- [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912]]
+- [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0910]]
+
+## Source
+
+Synthesized from clinical practice
+
+## Related Zettels from Same Source
+
+- [[Carnitine_Fatty_Acid_Transport_Z-001-0913]]
+- [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0914]]
+- [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912]]
+- [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0910]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 The relationship between **cofactor availability**, **enzyme function**, and **metabolite accumulation** forms the mechanistic basis for metabolite biomarkers. The Vitamin B12 → methylmalonic acid pathway serves as the paradigmatic example.
+
+## Related Zettels from Same Source
+
+- [[Carnitine_Fatty_Acid_Transport_Z-001-0913]]
+- [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0914]]
+- [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912]]
+- [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0910]]
+
+## Source
+
+Synthesized from clinical practice
+
+## Related Zettels from Same Source
+
+- [[Carnitine_Fatty_Acid_Transport_Z-001-0913]]
+- [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0914]]
+- [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912]]
+- [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0910]]
 
 ## Core Principle
 

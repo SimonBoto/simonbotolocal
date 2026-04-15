@@ -15,6 +15,18 @@ related: []
 ---
 
 # Health Is Not Determined by Genetics Alone — Epigenetics and Gene Expression
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Health outcomes are not determined solely by genetics** — while DNA sequence is fixed, gene expression is highly modifiable through lifestyle factors via epigenetic mechanisms (DNA methylation, histone modification, miRNA), meaning environmental and behavioral choices can activate or silence genes, effectively changing genetic destiny.
@@ -122,6 +134,11 @@ related: []
 | **Family history** | Important but not deterministic |
 | **Lifestyle** | Primary modifiable factor |
 | **Epigenetic age** | May differ from chronological |
+
+## Related Zettels from Same Source
+
+- [[Disease_Factors_Lifestyle_Modifiable_Z-002-0777]]
+- [[Prevention_Through_Lifestyle_Change_Z-002-0778]]
 
 ## Source
 - **LitNote:** [[L-002-0213_Lifestyle_Factors_Modifiable]]

@@ -15,6 +15,18 @@ related: []
 ---
 
 # Meat Paradox — Meat Not Inherently Harmful, Context Determines Health Impact
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Meat is not inherently harmful** — epidemiological associations between meat and disease are confounded by processing, preparation, dietary pattern, and lifestyle factors. Context determines whether meat consumption is health-promoting or detrimental.
@@ -95,6 +107,11 @@ related: []
 - Not "meat is good" or "meat is bad"
 - **"It depends"** — on type, preparation, context
 - Individual variation matters
+
+## Related Zettels from Same Source
+
+- [[Hong_Kong_Highest_Meat_Longest_Life_Z-002-0765]]
+- [[Quality_Not_Quantity_Meat_Health_Z-002-0767]]
 
 ## Source
 - **LitNote:** [[L-002-0209_Hong_Kong_Meat_Longevity_Paradox]]

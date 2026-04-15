@@ -12,6 +12,18 @@ extraction-date: 2026-03-01
 ---
 
 # Inflammation, Cholesterol, and Metabolic Syndrome
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Metabolic syndrome represents a pro-inflammatory, pro-atherogenic lipid profile (elevated TG, low HDL, small dense LDL predominance) driven by insulin resistance, with reciprocal regulation between inflammation and lipid metabolism creating a self-amplifying cycle of metabolic dysfunction.
@@ -99,6 +111,22 @@ Elevated plasma TG, substrate for sdLDL formation
 - [[HDL_Cholesterol_Reverse_Cholesterol_Transport_Z-001-0504]] — HDL function
 - [[Lipid_Peroxidation_Oxidized_LDL_Z-001-0505]] — Oxidation and inflammation
 - [[Advanced_Lipid_Markers_Beyond_LDL_HDL_Z-001-0508]] — Advanced testing
+
+## Related Zettels from Same Source
+
+- [[Advanced_Lipid_Markers_Beyond_LDL_HDL_Z-001-0506]]
+- [[Advanced_Lipid_Markers_Beyond_LDL_HDL_Z-001-0508]]
+- [[Cellular_Cholesterol_Homeostasis_Z-001-0503]]
+- [[Cholesterol_Aging_Cellular_Dysfunction_Z-001-0504]]
+- [[Cholesterol_Cellular_Aging_Z-001-0506]]
+- [[Cholesterol_Synthesis_Mevalonate_Pathway_Z-001-0501]]
+- [[HDL_Cholesterol_Reverse_Cholesterol_Transport_Z-001-0504]]
+- [[Inflammation_Lipid_Metabolism_Reciprocal_Z-001-0505]]
+- [[LDL_Cholesterol_Structure_Function_Risk_Z-001-0503]]
+- [[Lipid_Peroxidation_Oxidized_LDL_Z-001-0505]]
+- [[Lipoprotein_Classes_Transport_Functions_Z-001-0502]]
+- [[Lipoproteins_Transport_System_Z-001-0502]]
+- [[Therapeutic_Targets_Cholesterol_Lowering_Z-001-0507]]
 
 ## Source
 [[Cholesterol_Biology_and_Lipid_Metabolism_in_L-001-0501_CGPT-0086]]

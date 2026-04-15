@@ -12,8 +12,60 @@ extraction-date: 2026-03-01
 ---
 
 # B12 Absorption and Transport
+## Related Zettels from Same Source
+
+- [[B12_Deficiency_Manifestations_Z-001-0406]]
+- [[Homocysteine_Metabolism_Z-001-0405]]
+- [[Methyl_Trap_B12_Folate_Z-001-0404]]
+- [[One_Carbon_Metabolism_Overview_Z-001-0401]]
+- [[Vitamin_B12_Cofactor_Enzymes_Z-001-0402]]
+
+## Source
+
+[[LitNote_One_Carbon_Metabolism_B12_L-001-0401]
+
+## Related Zettels from Same Source
+
+- [[B12_Deficiency_Manifestations_Z-001-0406]]
+- [[Homocysteine_Metabolism_Z-001-0405]]
+- [[Methyl_Trap_B12_Folate_Z-001-0404]]
+- [[One_Carbon_Metabolism_Overview_Z-001-0401]]
+- [[Vitamin_B12_Cofactor_Enzymes_Z-001-0402]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Vitamin B12 absorption is a complex, multi-step process requiring gastric acid, intrinsic factor, and specific ileal receptors, making it vulnerable to disruption at multiple points.
+
+## Related Zettels from Same Source
+
+- [[B12_Deficiency_Manifestations_Z-001-0406]]
+- [[Homocysteine_Metabolism_Z-001-0405]]
+- [[Methyl_Trap_B12_Folate_Z-001-0404]]
+- [[One_Carbon_Metabolism_Overview_Z-001-0401]]
+- [[Vitamin_B12_Cofactor_Enzymes_Z-001-0402]]
+
+## Source
+
+[[LitNote_One_Carbon_Metabolism_B12_L-001-0401]
+
+## Related Zettels from Same Source
+
+- [[B12_Deficiency_Manifestations_Z-001-0406]]
+- [[Homocysteine_Metabolism_Z-001-0405]]
+- [[Methyl_Trap_B12_Folate_Z-001-0404]]
+- [[One_Carbon_Metabolism_Overview_Z-001-0401]]
+- [[Vitamin_B12_Cofactor_Enzymes_Z-001-0402]]
 
 ## Core Principle
 

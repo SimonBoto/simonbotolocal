@@ -12,6 +12,18 @@ extraction-date: 2026-03-01
 ---
 
 # Cytosolic Aconitase IRP1 Dual Function
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Mammalian cytosolic aconitase (ACO1) functions as a dual-purpose protein: when iron is abundant, its [4Fe-4S] cluster enables catalytic conversion of citrate to isocitrate; when iron is scarce, the cluster disassembles, converting the protein into iron regulatory protein 1 (IRP1), which binds iron-responsive elements (IREs) to regulate translation of ferritin and transferrin receptor, creating an elegant molecular switch linking energy metabolism to iron homeostasis.
@@ -114,6 +126,12 @@ Transferrin receptor synthesis enhanced
 - [[Aconitase_Catalytic_Mechanism_Z-001-0541]] — Aconitase mechanism
 - [[Iron_Sulfur_Cluster_Biochemistry_Z-001-0542]] — Fe-S cluster structure
 - [[Iron_Metabolism_Aconitase_Function_Z-001-0543]] — Iron deficiency effects
+
+## Related Zettels from Same Source
+
+- [[Aconitase_Catalytic_Mechanism_Z-001-0541]]
+- [[Iron_Metabolism_Aconitase_Function_Z-001-0543]]
+- [[Iron_Sulfur_Cluster_Biochemistry_Z-001-0542]]
 
 ## Source
 [[Aconitase_Enzyme_Structure,_Mechanism,_and_Iron-Sulfur_L-001-0508_CGPT-0393]]

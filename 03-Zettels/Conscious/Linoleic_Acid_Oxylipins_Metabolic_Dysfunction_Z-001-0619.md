@@ -14,6 +14,18 @@ extraction-date: 2026-04-15
 ---
 
 # Linoleic Acid Oxylipins and Metabolic Dysfunction
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Mouse study demonstrating the mechanistic link between dietary linoleic acid (from soybean oil), liver oxylipin production, and metabolic dysfunction (PŪNGAO, 2025).
 

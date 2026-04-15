@@ -15,6 +15,18 @@ related: []
 ---
 
 # Metabolic Cluster Covers 80 Percent of CVD Risk
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Hypertension + high triglycerides + low HDL + sdLDL + obesity** are not separate risk factors but **manifestations of insulin resistance** — together covering ~80% of cardiovascular risk.
@@ -57,6 +69,11 @@ related: []
 
 > "Hypertension, elevated triglycerides, low HDL, small dense LDL (sdLDL), and increased body weight are closely linked to insulin resistance and constitute basic manifestations of accompanying metabolic dysfunction."
 > — Risk factor analysis
+
+## Related Zettels from Same Source
+
+- [[LDL_Number_10_CVD_Risk_Hierarchy_Z-002-0807]]
+- [[sdLDL_Quality_Matters_More_Than_LDL_Quantity_Z-002-0809]]
 
 ## Source
 - **LitNote:** [[L-002-0223_CVD_Risk_Factors_Ranking]]

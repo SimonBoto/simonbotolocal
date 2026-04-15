@@ -15,6 +15,18 @@ related: []
 ---
 
 # Personalized Nutrition Reduces Heart Attack Risk 50%
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Personalized nutritional interventions based on **individual metabolic profiles, genetics, and cardiovascular risk factors** reduce heart attack risk by approximately **50%** in adults with established cardiovascular disease — demonstrating superiority of individualized approaches over generic dietary advice.
@@ -68,6 +80,11 @@ Personalized nutritional interventions based on **individual metabolic profiles,
 | **Inflammatory markers** | CRP, etc. |
 | **Genetic testing** | Nutrigenomics (APOE, FTO, etc.) |
 | **Microbiome analysis** | Gut-based recommendations |
+
+## Related Zettels from Same Source
+
+- [[Genetic_Microbiome_Factors_Personalized_Nutrition_Z-002-0677]]
+- [[Individual_Metabolic_Response_Determines_Optimal_Diet_Z-002-0676]]
 
 ## Source
 - **LitNote:** [[L-002-0180_Personalized_Nutrition_Halves_Heart_Attack_Risk]]

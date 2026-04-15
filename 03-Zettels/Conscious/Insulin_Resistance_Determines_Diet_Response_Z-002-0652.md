@@ -15,6 +15,18 @@ related: []
 ---
 
 # Insulin Resistance Determines Diet Response
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Individual metabolic health status determines optimal dietary approach** — insulin-resistant patients benefit significantly more from carbohydrate restriction than from fat restriction, while metabolically healthy individuals may tolerate either approach.
@@ -130,6 +142,11 @@ Further insulin sensitivity improvement
 - **If insulin resistant:** Prioritize carbohydrate quality/quantity
 - **If metabolically healthy:** More dietary flexibility
 - **Track response** — biomarkers don't lie
+
+## Related Zettels from Same Source
+
+- [[Low_Carb_Better_Lipid_Satiety_Z-002-0653]]
+- [[Low_Carb_Superior_Weight_Glycemic_Control_Z-002-0651]]
 
 ## Source
 - **LitNote:** [[L-002-0172_Low_Carb_vs_Low_Fat_Comparison]]

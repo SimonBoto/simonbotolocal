@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 # Gallo 2013 — Infant  Dose-Response Study
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Gallo et al. (2013) randomized controlled trial tested 400, 800, 1,200, and 1,600 IU/day in infants (1-12 months). Higher doses increased serum 25(OH)D without toxicity. 1,600 IU/day was highest dose tested; 400 IU sufficient for >20 ng/mL in most infants.
 

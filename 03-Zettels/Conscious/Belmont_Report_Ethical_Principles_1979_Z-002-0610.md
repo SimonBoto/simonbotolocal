@@ -14,8 +14,60 @@ created: 2026-03-27
 ---
 
 # Belmont Report Ethical Principles (1979)
+## Related Zettels from Same Source
+
+- [[CIOMS_International_Research_Ethics_Z-002-0611]]
+- [[Declaration_Helsinki_Research_Ethics_Z-002-0609]]
+- [[ICH_Good_Clinical_Practice_GCP_Z-002-0612]]
+- [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608]]
+- [[Tuskegee_Syphilis_Study_Ethics_Case_Z-002-0622]]
+
+## Source
+
+[[LitNote_Historical_Ethics_Guidelines_L-002-0602]
+
+## Related Zettels from Same Source
+
+- [[CIOMS_International_Research_Ethics_Z-002-0611]]
+- [[Declaration_Helsinki_Research_Ethics_Z-002-0609]]
+- [[ICH_Good_Clinical_Practice_GCP_Z-002-0612]]
+- [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608]]
+- [[Tuskegee_Syphilis_Study_Ethics_Case_Z-002-0622]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 U.S. National Commission for the Protection of Human Subjects landmark report establishing three core ethical principles: Respect for Persons, Beneficence, and Justice. Foundation for U.S.  regulations (45 CFR 46, Common Rule).
+
+## Related Zettels from Same Source
+
+- [[CIOMS_International_Research_Ethics_Z-002-0611]]
+- [[Declaration_Helsinki_Research_Ethics_Z-002-0609]]
+- [[ICH_Good_Clinical_Practice_GCP_Z-002-0612]]
+- [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608]]
+- [[Tuskegee_Syphilis_Study_Ethics_Case_Z-002-0622]]
+
+## Source
+
+[[LitNote_Historical_Ethics_Guidelines_L-002-0602]
+
+## Related Zettels from Same Source
+
+- [[CIOMS_International_Research_Ethics_Z-002-0611]]
+- [[Declaration_Helsinki_Research_Ethics_Z-002-0609]]
+- [[ICH_Good_Clinical_Practice_GCP_Z-002-0612]]
+- [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608]]
+- [[Tuskegee_Syphilis_Study_Ethics_Case_Z-002-0622]]
 
 ## Core Principle
 

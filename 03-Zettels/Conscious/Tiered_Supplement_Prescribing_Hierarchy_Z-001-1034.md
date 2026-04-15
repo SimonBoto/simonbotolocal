@@ -14,6 +14,26 @@ created: 2026-03-08
 ---
 
 # Tiered Supplement Prescribing Hierarchy
+## Source
+
+[[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]
 
 ## Overview
 A structured, sequential approach to supplementation that prioritizes foundational support before targeted interventions. Prevents random supplement shopping.

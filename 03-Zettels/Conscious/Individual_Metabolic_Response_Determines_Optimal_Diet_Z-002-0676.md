@@ -15,6 +15,18 @@ related: []
 ---
 
 # Individual Metabolic Response Determines Optimal Diet
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Individual variation in metabolic response to foods — including postprandial glucose, insulin sensitivity, and lipid handling — means that the **"optimal diet" varies significantly between individuals**; personalized nutrition matches dietary prescriptions to individual metabolic phenotypes for maximum benefit.
@@ -58,6 +70,11 @@ Individual variation in metabolic response to foods — including postprandial g
 | **Identify problematic foods** | Personal glucose map |
 | **Optimize meal timing** | Circadian patterns |
 | **Match exercise to meals** | Glucose management |
+
+## Related Zettels from Same Source
+
+- [[Genetic_Microbiome_Factors_Personalized_Nutrition_Z-002-0677]]
+- [[Personalized_Nutrition_Halves_Heart_Attack_Risk_Z-002-0675]]
 
 ## Source
 - **LitNote:** [[L-002-0180_Personalized_Nutrition_Halves_Heart_Attack_Risk]]

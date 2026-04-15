@@ -13,6 +13,54 @@ extraction-date: 2026-03-08
 ---
 
 # OAT Category Interpretation Framework
+## Related Zettels from Same Source
+
+- [[OAT_Clinical_Action_Mapping_Z-001-1069]]
+- [[OAT_Gut_Dysbiosis_Patterns_Z-001-1068]]
+- [[OAT_Mitochondrial_Patterns_Z-001-1067]]
+- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]]
+
+## Source
+
+[[L-001-0594_OAT_Interpretation_Clinical_Protocol_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[OAT_Clinical_Action_Mapping_Z-001-1069]]
+- [[OAT_Gut_Dysbiosis_Patterns_Z-001-1068]]
+- [[OAT_Mitochondrial_Patterns_Z-001-1067]]
+- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[OAT_Clinical_Action_Mapping_Z-001-1069]]
+- [[OAT_Gut_Dysbiosis_Patterns_Z-001-1068]]
+- [[OAT_Mitochondrial_Patterns_Z-001-1067]]
+- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]]
+
+## Source
+
+[[L-001-0594_OAT_Interpretation_Clinical_Protocol_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[OAT_Clinical_Action_Mapping_Z-001-1069]]
+- [[OAT_Gut_Dysbiosis_Patterns_Z-001-1068]]
+- [[OAT_Mitochondrial_Patterns_Z-001-1067]]
+- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]]
 
 ## Core Claim
 **Systematic OAT interpretation requires reviewing markers by functional category — glycolysis, TCA cycle, fatty acid oxidation, B-vitamin dependent enzymes, mitochondrial distress, gut metabolites, and oxidative stress — with each category telling a distinct metabolic story that must be integrated into a coherent clinical picture.**

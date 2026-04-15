@@ -15,8 +15,56 @@ status: conscious
 ---
 
 # METHAP Contribution to D-K2 Evidence Base
+## Related Zettels from Same Source
+
+- [[D_K2_Co_Supplementation_Evidence_Overview_Z-001-0263]]
+- [[D_K2_Key_Studies_Summary_Z-001-0264]]
+- [[D_K2_Metabolic_Outcomes_Co_Supplementation_Z-001-0265]]
+- [[D_K2_Research_Limitations_Gaps_Z-001-0266]]
+
+## Source
+
+[[LitNote_D_K2_Co_Supplementation_Evidence_L-001-0214]]
+
+## Related Zettels from Same Source
+
+- [[D_K2_Co_Supplementation_Evidence_Overview_Z-001-0263]]
+- [[D_K2_Key_Studies_Summary_Z-001-0264]]
+- [[D_K2_Metabolic_Outcomes_Co_Supplementation_Z-001-0265]]
+- [[D_K2_Research_Limitations_Gaps_Z-001-0266]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 METHAP (Metabolic Health and Adipic Acid Protocol) addresses critical gaps in the D-K2 co-supplementation literature by studying metabolic syndrome populations with systematic monitoring, high-dose protocols, and comprehensive nutrient synergy including magnesium as a third cofactor.
+
+## Related Zettels from Same Source
+
+- [[D_K2_Co_Supplementation_Evidence_Overview_Z-001-0263]]
+- [[D_K2_Key_Studies_Summary_Z-001-0264]]
+- [[D_K2_Metabolic_Outcomes_Co_Supplementation_Z-001-0265]]
+- [[D_K2_Research_Limitations_Gaps_Z-001-0266]]
+
+## Source
+
+[[LitNote_D_K2_Co_Supplementation_Evidence_L-001-0214]]
+
+## Related Zettels from Same Source
+
+- [[D_K2_Co_Supplementation_Evidence_Overview_Z-001-0263]]
+- [[D_K2_Key_Studies_Summary_Z-001-0264]]
+- [[D_K2_Metabolic_Outcomes_Co_Supplementation_Z-001-0265]]
+- [[D_K2_Research_Limitations_Gaps_Z-001-0266]]
 
 ## Core Principle
 

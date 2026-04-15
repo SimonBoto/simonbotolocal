@@ -12,6 +12,26 @@ status: conscious
 ---
 
 # Tyrosine Kinase Inhibitors — FGFR, VEGFR, PDGFR Blockade in Fibrosis
+## Source
+
+[[LitNote_Nintedanib_Ofev_TKI_L-001-0583]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Nintedanib_Ofev_TKI_L-001-0583]
 
 ## Overview
 

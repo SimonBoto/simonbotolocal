@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 # IOM Mean vs 97.5th Percentile Statistical Error
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 The IOM (Institute of Medicine, now National Academy of Medicine) made a fundamental statistical error in calculating  RDA: they used the mean (average) intake required to achieve target serum levels instead of the 97.5th percentile. This meant the RDA was designed for 50% of population coverage, not the stated 97.5%.
 

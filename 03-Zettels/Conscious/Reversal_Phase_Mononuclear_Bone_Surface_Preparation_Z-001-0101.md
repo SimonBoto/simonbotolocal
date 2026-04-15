@@ -12,6 +12,18 @@ extraction-date: 2026-04-15
 ---
 
 # Reversal Phase — Mononuclear Cells Prepare Bone Surface
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Principle
 The **reversal phase** bridges bone resorption and formation, with mononuclear cells clearing debris and preparing the surface for new osteoid deposition.
@@ -71,6 +83,17 @@ Factors released during bone degradation signal formation to begin:
 - [[Formation_Phase_Osteoid_Deposition_Mineralization_Z-001-0102]] — Following phase
 - [[Bone_Balance_Equation_Resorption_Formation_Coupling_Z-001-0104]] — System context
 
+## Related Zettels from Same Source
+
+- [[Activation_Phase_RANKL_MCSF_Osteoclast_Differentiation_Z-001-0099]]
+- [[Bone_Balance_Equation_Resorption_Formation_Coupling_Z-001-0104]]
+- [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]]
+- [[Formation_Phase_Osteoid_Deposition_Mineralization_Z-001-0102]]
+- [[Osteoblasts_Bone_Forming_Cells_Z-001-0081]]
+- [[Osteoclasts_Bone_Resorbing_Cells_Z-001-0080]]
+- [[Resorption_Phase_Osteoclast_Acid_Protease_Activity_Z-001-0100]]
+- [[Resting_Phase_Bone_Remodeling_Quiescence_Z-001-0103]]
+
 ## Source
 [[LitNote_Bone_Remodeling_Cycle_Dynamics_L-001-0015]
 
@@ -80,6 +103,17 @@ Factors released during bone degradation signal formation to begin:
 **Extracted:** 2026-03-06
 
 ---
+
+## Related Zettels from Same Source
+
+- [[Activation_Phase_RANKL_MCSF_Osteoclast_Differentiation_Z-001-0099]]
+- [[Bone_Balance_Equation_Resorption_Formation_Coupling_Z-001-0104]]
+- [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]]
+- [[Formation_Phase_Osteoid_Deposition_Mineralization_Z-001-0102]]
+- [[Osteoblasts_Bone_Forming_Cells_Z-001-0081]]
+- [[Osteoclasts_Bone_Resorbing_Cells_Z-001-0080]]
+- [[Resorption_Phase_Osteoclast_Acid_Protease_Activity_Z-001-0100]]
+- [[Resting_Phase_Bone_Remodeling_Quiescence_Z-001-0103]]
 
 ## Connection to Vault
 

@@ -12,8 +12,28 @@ extraction-date: 2026-03-01
 ---
 
 # Olive Oil —  Implementation
+## Source
+
+[[LitNote_Oleic_Acid_Clinical_L-001-0506]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Clinical implementation should prioritize extra virgin olive oil as primary dietary fat with specific dosing (2-4 tbsp/day) and quality considerations.
+
+## Source
+
+[[LitNote_Oleic_Acid_Clinical_L-001-0506]
 
 ## Core Principle
 

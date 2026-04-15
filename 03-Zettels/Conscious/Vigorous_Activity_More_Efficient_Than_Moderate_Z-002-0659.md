@@ -15,6 +15,18 @@ related: []
 ---
 
 # Vigorous Activity More Efficient Than Moderate
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Vigorous physical activity** (high intensity) provides **greater mortality reduction per minute** than moderate activity, making it more time-efficient for busy individuals seeking health benefits from minimal exercise investment.
@@ -116,6 +128,11 @@ related: []
 ## Significance
 
 tags: [zettel, vigorous-exercise, moderate-exercise, efficiency, time, intensity, mortality]
+
+## Related Zettels from Same Source
+
+- [[Exercise_Diminishing_Returns_Curve_Z-002-0658]]
+- [[Minimal_Exercise_15-20min_Mortality_Reduction_Z-002-0657]]
 
 ## Source
 - **LitNote:** [[L-002-0174_Minimal_Exercise_Mortality_Reduction]]

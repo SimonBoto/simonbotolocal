@@ -13,6 +13,50 @@ extraction-date: 2026-03-08
 ---
 
 # Metabolomics Report Structure Standards
+## Related Zettels from Same Source
+
+- [[Difficult_Conversation_Navigation_Z-001-1072]]
+- [[Metabolic_Storytelling_Patient_Framework_Z-001-1070]]
+- [[Patient_Objection_Response_Scripts_Z-001-1071]]
+
+## Source
+
+[[L-001-0595_Patient_Communication_Scripts_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Difficult_Conversation_Navigation_Z-001-1072]]
+- [[Metabolic_Storytelling_Patient_Framework_Z-001-1070]]
+- [[Patient_Objection_Response_Scripts_Z-001-1071]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Difficult_Conversation_Navigation_Z-001-1072]]
+- [[Metabolic_Storytelling_Patient_Framework_Z-001-1070]]
+- [[Patient_Objection_Response_Scripts_Z-001-1071]]
+
+## Source
+
+[[L-001-0595_Patient_Communication_Scripts_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Difficult_Conversation_Navigation_Z-001-1072]]
+- [[Metabolic_Storytelling_Patient_Framework_Z-001-1070]]
+- [[Patient_Objection_Response_Scripts_Z-001-1071]]
 
 ## Core Claim
 **Standardized metabolomics report formats — whether delivered live in consultation or via email — must follow a concise, visual, and actionable structure that prioritizes patient comprehension over technical completeness, using clear headings, color coding, and plain language to transform complex data into meaningful health insights.**

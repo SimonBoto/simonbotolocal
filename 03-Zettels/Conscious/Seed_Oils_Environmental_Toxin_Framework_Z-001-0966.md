@@ -12,6 +12,26 @@ status: conscious
 ---
 
 # Seed Oils as Environmental Toxin — Public Health Framework Application
+## Source
+
+[[LitNote_Seed_Oils_Environmental_Toxins_L-001-0526]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_Seed_Oils_Environmental_Toxins_L-001-0526]
 
 ## Core Concept
 

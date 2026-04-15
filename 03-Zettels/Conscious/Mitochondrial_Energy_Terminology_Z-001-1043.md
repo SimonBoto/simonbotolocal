@@ -13,6 +13,62 @@ extraction-date: 2026-03-08
 ---
 
 # Mitochondrial Energy Terminology
+## Related Zettels from Same Source
+
+- [[Health_Philosophy_Core_Concepts_Z-001-1041]]
+- [[Hormonal_Metabolic_Regulation_Terms_Z-001-1044]]
+- [[Metabolism_Metabolomics_Terminology_Z-001-1042]]
+- [[Microbiome_Gut_Brain_Terminology_Z-001-1045]]
+- [[Nutrition_Macronutrient_Terminology_Z-001-1046]]
+- [[Patient_Communication_Core_Concepts_Z-001-1047]]
+
+## Source
+
+[[L-001-0590_Core_Clinical_Vocabulary_66_Terms_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Health_Philosophy_Core_Concepts_Z-001-1041]]
+- [[Hormonal_Metabolic_Regulation_Terms_Z-001-1044]]
+- [[Metabolism_Metabolomics_Terminology_Z-001-1042]]
+- [[Microbiome_Gut_Brain_Terminology_Z-001-1045]]
+- [[Nutrition_Macronutrient_Terminology_Z-001-1046]]
+- [[Patient_Communication_Core_Concepts_Z-001-1047]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Health_Philosophy_Core_Concepts_Z-001-1041]]
+- [[Hormonal_Metabolic_Regulation_Terms_Z-001-1044]]
+- [[Metabolism_Metabolomics_Terminology_Z-001-1042]]
+- [[Microbiome_Gut_Brain_Terminology_Z-001-1045]]
+- [[Nutrition_Macronutrient_Terminology_Z-001-1046]]
+- [[Patient_Communication_Core_Concepts_Z-001-1047]]
+
+## Source
+
+[[L-001-0590_Core_Clinical_Vocabulary_66_Terms_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Health_Philosophy_Core_Concepts_Z-001-1041]]
+- [[Hormonal_Metabolic_Regulation_Terms_Z-001-1044]]
+- [[Metabolism_Metabolomics_Terminology_Z-001-1042]]
+- [[Microbiome_Gut_Brain_Terminology_Z-001-1045]]
+- [[Nutrition_Macronutrient_Terminology_Z-001-1046]]
+- [[Patient_Communication_Core_Concepts_Z-001-1047]]
 
 ## Core Claim
 **Thirteen essential terms — Mitochondria, ATP, Krebs Cycle, Glycolysis, OXPHOS, NAD+/NADH, Beta-Oxidation, and Ketosis — describe the cellular energy economy, where mitochondria function not merely as power plants but as regulatory hubs integrating metabolism, signaling, and cell fate decisions.**

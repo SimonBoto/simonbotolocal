@@ -15,6 +15,46 @@ related: []
 ---
 
 # ACCORD Study: Intensive Glucose Lowering Increased Mortality
+## Related Zettels from Same Source
+
+- [[Insulin_More_Predictive_CVD_Glucose_Z-002-0801]]
+- [[Insulin_Resistance_Large_Vessel_Damage_Z-002-0803]]
+
+## Source
+
+[[L-002-0221_Glucose_vs_Insulin_CVD]]
+
+## Related Zettels from Same Source
+
+- [[Insulin_More_Predictive_CVD_Glucose_Z-002-0801]]
+- [[Insulin_Resistance_Large_Vessel_Damage_Z-002-0803]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Insulin_More_Predictive_CVD_Glucose_Z-002-0801]]
+- [[Insulin_Resistance_Large_Vessel_Damage_Z-002-0803]]
+
+## Source
+
+[[L-002-0221_Glucose_vs_Insulin_CVD]]
+
+## Related Zettels from Same Source
+
+- [[Insulin_More_Predictive_CVD_Glucose_Z-002-0801]]
+- [[Insulin_Resistance_Large_Vessel_Damage_Z-002-0803]]
 
 ## Core Claim
 **The ACCORD study definitively showed that intensive glucose lowering to near-normal levels (HbA1c <6.0%) in type 2 diabetes increased mortality by 22% and did not significantly reduce cardiovascular events** — challenging the "lower is better" glucose paradigm and suggesting harm from aggressive treatment.

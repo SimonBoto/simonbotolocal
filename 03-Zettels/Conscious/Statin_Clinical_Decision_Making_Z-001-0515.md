@@ -24,8 +24,64 @@ extraction-date: 2026-03-01
 ---
 
 # Statin  Decision Making
+## Related Zettels from Same Source
+
+- [[Framingham_Reassessment_Cholesterol_Hypothesis_Z-001-0511]]
+- [[Non_Statin_Lipid_Lowering_Options_Z-001-0514]]
+- [[Statin_Intolerance_Myopathy_Management_Z-001-0919]]
+- [[Statin_Major_Clinical_Trials_Z-001-0510]]
+- [[Statin_Mechanism_HMG_CoA_Reductase_Z-001-0509]]
+- [[Statin_Pharmacogenomics_SLCO1B1_Z-001-0920]]
+
+## Source
+
+[[LitNote_Statin_Pharmacology_L-001-0502]]
+
+## Related Zettels from Same Source
+
+- [[Framingham_Reassessment_Cholesterol_Hypothesis_Z-001-0511]]
+- [[Non_Statin_Lipid_Lowering_Options_Z-001-0514]]
+- [[Statin_Intolerance_Myopathy_Management_Z-001-0919]]
+- [[Statin_Major_Clinical_Trials_Z-001-0510]]
+- [[Statin_Mechanism_HMG_CoA_Reductase_Z-001-0509]]
+- [[Statin_Pharmacogenomics_SLCO1B1_Z-001-0920]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Statin decisions integrate absolute cardiovascular risk, baseline LDL, comorbidities, and patient preferences, with intensity matched to risk level.
+
+## Related Zettels from Same Source
+
+- [[Framingham_Reassessment_Cholesterol_Hypothesis_Z-001-0511]]
+- [[Non_Statin_Lipid_Lowering_Options_Z-001-0514]]
+- [[Statin_Intolerance_Myopathy_Management_Z-001-0919]]
+- [[Statin_Major_Clinical_Trials_Z-001-0510]]
+- [[Statin_Mechanism_HMG_CoA_Reductase_Z-001-0509]]
+- [[Statin_Pharmacogenomics_SLCO1B1_Z-001-0920]]
+
+## Source
+
+[[LitNote_Statin_Pharmacology_L-001-0502]]
+
+## Related Zettels from Same Source
+
+- [[Framingham_Reassessment_Cholesterol_Hypothesis_Z-001-0511]]
+- [[Non_Statin_Lipid_Lowering_Options_Z-001-0514]]
+- [[Statin_Intolerance_Myopathy_Management_Z-001-0919]]
+- [[Statin_Major_Clinical_Trials_Z-001-0510]]
+- [[Statin_Mechanism_HMG_CoA_Reductase_Z-001-0509]]
+- [[Statin_Pharmacogenomics_SLCO1B1_Z-001-0920]]
 
 ## Core Principle
 

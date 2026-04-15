@@ -12,8 +12,60 @@ extraction-date: 2026-03-01
 ---
 
 # PTH — Master Calcium Regulator
+## Related Zettels from Same Source
+
+- [[Calcium_Homeostasis_Tight_Regulation_Z-001-0258]]
+- [[Hypercalcemia_Recognition_Management_Z-001-0261]]
+- [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]]
+- [[METHAP_Calcium_Monitoring_Protocol_Z-001-0262]]
+- [[Vitamin_D_Calcium_Absorption_Dose_Response_Z-001-0260]]
+
+## Source
+
+[[LitNote_Calcium_PTH_Homeostasis_L-001-0213]
+
+## Related Zettels from Same Source
+
+- [[Calcium_Homeostasis_Tight_Regulation_Z-001-0258]]
+- [[Hypercalcemia_Recognition_Management_Z-001-0261]]
+- [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]]
+- [[METHAP_Calcium_Monitoring_Protocol_Z-001-0262]]
+- [[Vitamin_D_Calcium_Absorption_Dose_Response_Z-001-0260]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Parathyroid hormone (PTH) is the principal regulator of calcium homeostasis, responding within minutes to serum calcium changes through coordinated actions on bone, kidney, and intestine to maintain calcium within the narrow physiological range.
+
+## Related Zettels from Same Source
+
+- [[Calcium_Homeostasis_Tight_Regulation_Z-001-0258]]
+- [[Hypercalcemia_Recognition_Management_Z-001-0261]]
+- [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]]
+- [[METHAP_Calcium_Monitoring_Protocol_Z-001-0262]]
+- [[Vitamin_D_Calcium_Absorption_Dose_Response_Z-001-0260]]
+
+## Source
+
+[[LitNote_Calcium_PTH_Homeostasis_L-001-0213]
+
+## Related Zettels from Same Source
+
+- [[Calcium_Homeostasis_Tight_Regulation_Z-001-0258]]
+- [[Hypercalcemia_Recognition_Management_Z-001-0261]]
+- [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]]
+- [[METHAP_Calcium_Monitoring_Protocol_Z-001-0262]]
+- [[Vitamin_D_Calcium_Absorption_Dose_Response_Z-001-0260]]
 
 ## Core Principle
 

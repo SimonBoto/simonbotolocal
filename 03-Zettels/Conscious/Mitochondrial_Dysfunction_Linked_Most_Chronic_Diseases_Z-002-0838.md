@@ -15,6 +15,46 @@ related: []
 ---
 
 # Mitochondrial Dysfunction Linked to Most Chronic Diseases
+## Related Zettels from Same Source
+
+- [[Fatigue_Mitochondrial_Dysfunction_Energy_Production_Z-002-0837]]
+- [[Metabolomic_Interventions_Improve_90_Percent_Patients_Z-002-0839]]
+
+## Source
+
+[[L-002-0233_Fatigue_Mitochondrial_Dysfunction]]
+
+## Related Zettels from Same Source
+
+- [[Fatigue_Mitochondrial_Dysfunction_Energy_Production_Z-002-0837]]
+- [[Metabolomic_Interventions_Improve_90_Percent_Patients_Z-002-0839]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Fatigue_Mitochondrial_Dysfunction_Energy_Production_Z-002-0837]]
+- [[Metabolomic_Interventions_Improve_90_Percent_Patients_Z-002-0839]]
+
+## Source
+
+[[L-002-0233_Fatigue_Mitochondrial_Dysfunction]]
+
+## Related Zettels from Same Source
+
+- [[Fatigue_Mitochondrial_Dysfunction_Energy_Production_Z-002-0837]]
+- [[Metabolomic_Interventions_Improve_90_Percent_Patients_Z-002-0839]]
 
 ## Core Claim
 **Mitochondrial dysfunction is linked to the development and progression of most chronic diseases** — autoimmune diseases, cardiovascular disease, diabetes, and cancer all show mitochondrial impairment.

@@ -15,6 +15,18 @@ related: []
 ---
 
 # Vitamin D Requirements for 30 ng/mL Target
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 To achieve the higher serum 25(OH)D target of **30 ng/mL** (associated with optimal health outcomes), approximately **6,201 IU/day** is required for 97.5% of adults — still 10× the current RDA.
@@ -75,6 +87,13 @@ To achieve the higher serum 25(OH)D target of **30 ng/mL** (associated with opti
 ## Significance
 
 To achieve the higher serum 25(OH)D target of **30 ng/mL** (associated with optimal health outcomes), approximately **6,201 IU/day** is required for 97.5% of adults — still 10× the current RDA.
+
+## Related Zettels from Same Source
+
+- [[Corrected_Vitamin_D_RDA_8900_IU_Z-002-0637]]
+- [[IOM_2011_Vitamin_D_RDA_Calculation_Error_Z-002-0636]]
+- [[Vitamin_D_Hormone_Function_2000_Genes_Z-002-0639]]
+- [[Vitamin_D_Individual_Variation_Requirements_Z-002-0640]]
 
 ## Source
 - **LitNote:** [[L-002-0168_Vitamin_D_RDA_Statistical_Error]]

@@ -12,6 +12,18 @@ extraction-date: 2026-04-15
 ---
 
 # Instrument Drift and QC Monitoring Requirements in Mass Spectrometry
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## The Problem
 Mass spectrometers are **not stable** over time. Sensitivity, resolution, and mass accuracy drift during runs, across days, and between maintenance events. Without monitoring, drift appears as false biological signals.
@@ -146,6 +158,11 @@ Mass spectrometers are **not stable** over time. Sensitivity, resolution, and ma
 
 source-litnote: Synthesized from clinical practice
 
+## Related Zettels from Same Source
+
+- [[Batch_Effects_Detection_Correction_Metabolomics_Z-001-0939]]
+- [[Sample_Preparation_Variability_Control_Z-001-0940]]
+
 ## Source
 [[LitNote_Technical_Confounders_Metabolomics_L-001-0520]
 
@@ -153,6 +170,11 @@ source-litnote: Synthesized from clinical practice
 
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
+
+## Related Zettels from Same Source
+
+- [[Batch_Effects_Detection_Correction_Metabolomics_Z-001-0939]]
+- [[Sample_Preparation_Variability_Control_Z-001-0940]]
 
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]

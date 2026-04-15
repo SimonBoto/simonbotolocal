@@ -16,6 +16,18 @@ created: 2026-02-22
 ---
 
 # Cbl-CAP Pathway and Lipid Raft Signaling
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 An alternative  signaling pathway involves Cbl-CAP complex and lipid raft localization, independent of IRS-PI3K.
 

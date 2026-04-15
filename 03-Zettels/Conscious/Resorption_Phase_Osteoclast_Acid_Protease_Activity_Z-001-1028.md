@@ -14,6 +14,18 @@ extraction-date: 2026-04-15
 parent-index: [[03-Zettels-Conscious]]
 
 # Resorption Phase — Osteoclast Acid and Protease Activity
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Principle
 Mature osteoclasts create a **sealed acidic microenvironment** that dissolves bone mineral and enzymatically degrades collagen matrix.

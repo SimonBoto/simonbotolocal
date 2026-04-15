@@ -14,6 +14,18 @@ extraction-date: 2026-04-15
 ---
 
 # Single Point Mutation Blocking Nicotine Production
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 A **single C→T nucleotide substitution** is sufficient to completely block nicotine biosynthesis, demonstrating the fragility of metabolic pathways and the power of point mutations to abolish complex phenotypes.
 

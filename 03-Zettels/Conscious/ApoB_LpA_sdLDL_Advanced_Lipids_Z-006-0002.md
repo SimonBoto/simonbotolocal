@@ -20,6 +20,18 @@ connections:
 ---
 
 # ApoB, Lp(a), sdLDL — Advanced Lipid Risk Markers
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **Beyond standard lipids:** ApoB measures atherogenic particle number, Lp(a) captures genetic CVD risk, and sdLDL identifies dangerous small dense particles. These markers refine risk stratification beyond LDL-C.
 

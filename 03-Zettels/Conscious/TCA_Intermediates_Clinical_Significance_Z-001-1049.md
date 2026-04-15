@@ -13,6 +13,58 @@ extraction-date: 2026-03-08
 ---
 
 # TCA Intermediates Clinical Significance
+## Related Zettels from Same Source
+
+- [[Aconitase_Oxidative_Stress_Sensitivity_Z-001-1053]]
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]]
+- [[Krebs_Cycle_Clinical_Biochemistry_Z-001-1048]]
+- [[Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050]]
+- [[Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051]]
+
+## Source
+
+[[L-001-0591_Mitochondrial_Biochemistry_Clinicians_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Aconitase_Oxidative_Stress_Sensitivity_Z-001-1053]]
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]]
+- [[Krebs_Cycle_Clinical_Biochemistry_Z-001-1048]]
+- [[Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050]]
+- [[Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Aconitase_Oxidative_Stress_Sensitivity_Z-001-1053]]
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]]
+- [[Krebs_Cycle_Clinical_Biochemistry_Z-001-1048]]
+- [[Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050]]
+- [[Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051]]
+
+## Source
+
+[[L-001-0591_Mitochondrial_Biochemistry_Clinicians_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Aconitase_Oxidative_Stress_Sensitivity_Z-001-1053]]
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]]
+- [[Krebs_Cycle_Clinical_Biochemistry_Z-001-1048]]
+- [[Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050]]
+- [[Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051]]
 
 ## Core Claim
 **Individual TCA cycle intermediates — Citrate, Isocitrate, α-Ketoglutarate, Succinate, Fumarate, Malate, and Oxaloacetate — each possess distinct clinical significance beyond energy production, serving as biosynthetic precursors, signaling molecules, and diagnostic markers for specific metabolic dysfunctions.**

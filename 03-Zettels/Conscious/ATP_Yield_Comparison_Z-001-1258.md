@@ -11,6 +11,18 @@ extraction-date: 2026-03-11
 ---
 
 # ATP Yield Comparison — Glucose vs BHB vs Fatty Acids
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 While glucose yields 30-32 ATP per molecule and BHB yields ~22.5 ATP, fatty acids like palmitic acid generate substantially more ATP (~129 ATP) due to their higher carbon content and the reducing equivalents produced during beta-oxidation; ketone bodies serve as an efficient transportable fuel derived from fatty acids, providing ~70% of glucose's ATP yield while sparing glucose for obligate glucose-dependent tissues.
@@ -105,6 +117,12 @@ While glucose yields 30-32 ATP per molecule and BHB yields ~22.5 ATP, fatty acid
 - [[BHB_Production_Fatty_Acids_Z-001-1256]] — Ketone production
 - [[Ketolysis_SCOT_Mechanism_Z-001-1257]] — Ketone utilization
 - [[Ketone_vs_Glycolysis_Mitochondrial_Entry_Z-001-1259]] — Entry mechanisms
+
+## Related Zettels from Same Source
+
+- [[BHB_Production_Fatty_Acids_Z-001-1256]]
+- [[Ketolysis_SCOT_Mechanism_Z-001-1257]]
+- [[Ketone_vs_Glycolysis_Mitochondrial_Entry_Z-001-1259]]
 
 ## Source
 [[L-001-0655_Ketone_Body_Metabolism_Deep_Dive_CGPT-0647]]

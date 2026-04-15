@@ -13,6 +13,62 @@ extraction-date: 2026-03-04
 ---
 
 # BHB HDAC Inhibition and Epigenetic Effects
+## Related Zettels from Same Source
+
+- [[BHB_Energy_Substrate_Brain_Heart_Z-001-0484]]
+- [[BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483]]
+- [[BHB_NLRP3_Inflammasome_Inhibition_Z-001-0486]]
+- [[Ketogenesis_Pathway_Regulation_Z-001-0481]]
+- [[Physiological_vs_Pathological_Ketosis_Z-001-0487]]
+- [[Three_Ketone_Bodies_Z-001-0482]]
+
+## Source
+
+[[L-001-0045G_Ketogenesis_BHB_Signaling_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[BHB_Energy_Substrate_Brain_Heart_Z-001-0484]]
+- [[BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483]]
+- [[BHB_NLRP3_Inflammasome_Inhibition_Z-001-0486]]
+- [[Ketogenesis_Pathway_Regulation_Z-001-0481]]
+- [[Physiological_vs_Pathological_Ketosis_Z-001-0487]]
+- [[Three_Ketone_Bodies_Z-001-0482]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[BHB_Energy_Substrate_Brain_Heart_Z-001-0484]]
+- [[BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483]]
+- [[BHB_NLRP3_Inflammasome_Inhibition_Z-001-0486]]
+- [[Ketogenesis_Pathway_Regulation_Z-001-0481]]
+- [[Physiological_vs_Pathological_Ketosis_Z-001-0487]]
+- [[Three_Ketone_Bodies_Z-001-0482]]
+
+## Source
+
+[[L-001-0045G_Ketogenesis_BHB_Signaling_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[BHB_Energy_Substrate_Brain_Heart_Z-001-0484]]
+- [[BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483]]
+- [[BHB_NLRP3_Inflammasome_Inhibition_Z-001-0486]]
+- [[Ketogenesis_Pathway_Regulation_Z-001-0481]]
+- [[Physiological_vs_Pathological_Ketosis_Z-001-0487]]
+- [[Three_Ketone_Bodies_Z-001-0482]]
 
 ## Core Claim
 **BHB functions as an endogenous histone deacetylase (HDAC) inhibitor — by inhibiting Class I and IIa HDACs, BHB increases histone acetylation, relaxes chromatin, and upregulates genes for oxidative stress resistance (FOXO3A, MT2) and metabolic efficiency** — this signaling role is distinct from its energy function and may explain longevity benefits of fasting/ketosis.

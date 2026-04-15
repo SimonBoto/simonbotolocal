@@ -13,6 +13,62 @@ extraction-date: 2026-03-04
 ---
 
 # BHB NLRP3 Inflammasome Inhibition
+## Related Zettels from Same Source
+
+- [[BHB_Energy_Substrate_Brain_Heart_Z-001-0484]]
+- [[BHB_HDAC_Inhibition_Epigenetics_Z-001-0485]]
+- [[BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483]]
+- [[Ketogenesis_Pathway_Regulation_Z-001-0481]]
+- [[Physiological_vs_Pathological_Ketosis_Z-001-0487]]
+- [[Three_Ketone_Bodies_Z-001-0482]]
+
+## Source
+
+[[L-001-0045G_Ketogenesis_BHB_Signaling_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[BHB_Energy_Substrate_Brain_Heart_Z-001-0484]]
+- [[BHB_HDAC_Inhibition_Epigenetics_Z-001-0485]]
+- [[BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483]]
+- [[Ketogenesis_Pathway_Regulation_Z-001-0481]]
+- [[Physiological_vs_Pathological_Ketosis_Z-001-0487]]
+- [[Three_Ketone_Bodies_Z-001-0482]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[BHB_Energy_Substrate_Brain_Heart_Z-001-0484]]
+- [[BHB_HDAC_Inhibition_Epigenetics_Z-001-0485]]
+- [[BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483]]
+- [[Ketogenesis_Pathway_Regulation_Z-001-0481]]
+- [[Physiological_vs_Pathological_Ketosis_Z-001-0487]]
+- [[Three_Ketone_Bodies_Z-001-0482]]
+
+## Source
+
+[[L-001-0045G_Ketogenesis_BHB_Signaling_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[BHB_Energy_Substrate_Brain_Heart_Z-001-0484]]
+- [[BHB_HDAC_Inhibition_Epigenetics_Z-001-0485]]
+- [[BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483]]
+- [[Ketogenesis_Pathway_Regulation_Z-001-0481]]
+- [[Physiological_vs_Pathological_Ketosis_Z-001-0487]]
+- [[Three_Ketone_Bodies_Z-001-0482]]
 
 ## Core Claim
 **BHB directly inhibits the NLRP3 inflammasome — a multi-protein complex that activates caspase-1, cleaving pro-IL-1β and pro-IL-18 into active inflammatory cytokines — by blocking NLRP3 ATPase activity and preventing ASC oligomerization, BHB reduces IL-1β/IL-18 production and pyroptosis** — this anti-inflammatory mechanism is independent of BHB's energy function.

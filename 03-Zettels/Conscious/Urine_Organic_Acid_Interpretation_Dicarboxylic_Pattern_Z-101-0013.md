@@ -13,6 +13,50 @@ extraction-date: 2026-03-02
 ---
 
 # Urine Organic Acid Interpretation — Dicarboxylic Pattern
+## Related Zettels from Same Source
+
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]]
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]
+- [[Dicarboxylic_Aciduria_vs_Ketone_Distinction_Z-101-0015]]
+
+## Source
+
+[[L-101-0003_Dicarboxylic_Acids_Clinical_Markers_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]]
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]
+- [[Dicarboxylic_Aciduria_vs_Ketone_Distinction_Z-101-0015]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]]
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]
+- [[Dicarboxylic_Aciduria_vs_Ketone_Distinction_Z-101-0015]]
+
+## Source
+
+[[L-101-0003_Dicarboxylic_Acids_Clinical_Markers_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]]
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]
+- [[Dicarboxylic_Aciduria_vs_Ketone_Distinction_Z-101-0015]]
 
 ## Core Claim
 **Urine organic acid analysis revealing elevated dicarboxylic acids (adipate, suberate, sebacate) with a characteristic pattern of adipate > suberate > sebacate indicates impaired mitochondrial β-oxidation — distinguishing physiological fasting adaptation (where ketones are elevated) from pathological fatty acid oxidation disorders (where dicarboxylic acids are elevated without corresponding ketosis), and serving as a diagnostic tool for insulin resistance, carnitine deficiency, and MCAD deficiency in clinical and research settings.**

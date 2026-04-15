@@ -12,10 +12,30 @@ status: conscious
 ---
 
 # METHAP PhD Data Export Structure — CSV Schema
+## Source
+
+Extracted from Biochemical Report Template v2.0
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > **Standardized data export format for METHAP trial analysis**
 
 ---
+
+## Source
+
+Extracted from Biochemical Report Template v2.0
 
 ## Core Principle
 

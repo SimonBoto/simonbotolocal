@@ -14,6 +14,46 @@ created: 2026-03-08
 ---
 
 # HBOT Radiosensitization Chemotherapy Enhancement
+## Related Zettels from Same Source
+
+- [[HBOT_Clinical_Applications_Safety_Considerations_Z-001-1140]]
+- [[HBOT_Mechanisms_Cancer_Oxygenation_ROS_Z-001-1138]]
+
+## Source
+
+[[LitNote_HBOT_Cancer_L-001-0614]
+
+## Related Zettels from Same Source
+
+- [[HBOT_Clinical_Applications_Safety_Considerations_Z-001-1140]]
+- [[HBOT_Mechanisms_Cancer_Oxygenation_ROS_Z-001-1138]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[HBOT_Clinical_Applications_Safety_Considerations_Z-001-1140]]
+- [[HBOT_Mechanisms_Cancer_Oxygenation_ROS_Z-001-1138]]
+
+## Source
+
+[[LitNote_HBOT_Cancer_L-001-0614]
+
+## Related Zettels from Same Source
+
+- [[HBOT_Clinical_Applications_Safety_Considerations_Z-001-1140]]
+- [[HBOT_Mechanisms_Cancer_Oxygenation_ROS_Z-001-1138]]
 
 ## Overview
 Hyperbaric oxygen therapy enhances the efficacy of radiation and chemotherapy by overcoming tumor hypoxia—a major cause of treatment resistance—and improving drug delivery and ROS-mediated cytotoxicity.

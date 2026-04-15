@@ -15,6 +15,46 @@ related: []
 ---
 
 # Ketogenic Diets Achieve Greater Weight Loss Without Increased CVD Risk
+## Related Zettels from Same Source
+
+- [[LDL_Increase_Context_Metabolic_Improvements_Z-002-0820]]
+- [[Low_Carb_Meta_Analysis_174_RCTs_Benefits_Z-002-0819]]
+
+## Source
+
+[[L-002-0227_Carb_Restriction_CVD_Meta_Analysis]]
+
+## Related Zettels from Same Source
+
+- [[LDL_Increase_Context_Metabolic_Improvements_Z-002-0820]]
+- [[Low_Carb_Meta_Analysis_174_RCTs_Benefits_Z-002-0819]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[LDL_Increase_Context_Metabolic_Improvements_Z-002-0820]]
+- [[Low_Carb_Meta_Analysis_174_RCTs_Benefits_Z-002-0819]]
+
+## Source
+
+[[L-002-0227_Carb_Restriction_CVD_Meta_Analysis]]
+
+## Related Zettels from Same Source
+
+- [[LDL_Increase_Context_Metabolic_Improvements_Z-002-0820]]
+- [[Low_Carb_Meta_Analysis_174_RCTs_Benefits_Z-002-0819]]
 
 ## Core Claim
 **Ketogenic diets (<10% calories from carbohydrates) achieve greater weight loss than moderate carbohydrate restriction, with larger LDL increases, but are NOT associated with increased cardiovascular risk** — the metabolic benefits outweigh the lipid changes.

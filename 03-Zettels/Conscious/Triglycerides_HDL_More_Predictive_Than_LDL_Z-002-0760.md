@@ -15,6 +15,18 @@ related: []
 ---
 
 # Triglycerides and HDL More Predictive Than LDL Alone
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Triglycerides and HDL cholesterol are often more predictive of cardiovascular risk than LDL alone** — especially in metabolic syndrome and insulin resistance, where the TG/HDL ratio captures atherogenic dyslipidemia better than isolated LDL levels.
@@ -82,6 +94,11 @@ related: []
 | **Exercise** | Improves both |
 | **Weight loss** | Best intervention |
 | **Omega-3s** | Lowers TG |
+
+## Related Zettels from Same Source
+
+- [[LDL_Lowering_Not_Always_CVD_Protection_Z-002-0759]]
+- [[Statin_Benefit_Context_Dependent_Z-002-0761]]
 
 ## Source
 - **LitNote:** [[L-002-0207_LDL_Lowering_Not_Always_Protection]]

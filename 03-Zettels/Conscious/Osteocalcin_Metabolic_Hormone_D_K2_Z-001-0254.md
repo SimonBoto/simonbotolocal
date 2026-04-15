@@ -12,8 +12,60 @@ extraction-date: 2026-03-01
 ---
 
 # Osteocalcin as Metabolic Hormone — D-K2 Regulation
+## Related Zettels from Same Source
+
+- [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]]
+- [[D_K2_Production_Activation_Partnership_Z-001-0253]]
+- [[D_K2_Shared_Metabolic_Pathways_Z-001-0256]]
+- [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]]
+- [[MGP_Vascular_Protection_Synergy_Z-001-0255]]
+
+## Source
+
+[[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]
+
+## Related Zettels from Same Source
+
+- [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]]
+- [[D_K2_Production_Activation_Partnership_Z-001-0253]]
+- [[D_K2_Shared_Metabolic_Pathways_Z-001-0256]]
+- [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]]
+- [[MGP_Vascular_Protection_Synergy_Z-001-0255]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Osteocalcin exists in two forms: carboxylated (bone-structural) and undercarboxylated (metabolic-hormonal). The D-K2 synergy determines the balance between these forms, directly influencing  sensitivity and metabolic health.
+
+## Related Zettels from Same Source
+
+- [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]]
+- [[D_K2_Production_Activation_Partnership_Z-001-0253]]
+- [[D_K2_Shared_Metabolic_Pathways_Z-001-0256]]
+- [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]]
+- [[MGP_Vascular_Protection_Synergy_Z-001-0255]]
+
+## Source
+
+[[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]
+
+## Related Zettels from Same Source
+
+- [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]]
+- [[D_K2_Production_Activation_Partnership_Z-001-0253]]
+- [[D_K2_Shared_Metabolic_Pathways_Z-001-0256]]
+- [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]]
+- [[MGP_Vascular_Protection_Synergy_Z-001-0255]]
 
 ## Core Principle
 

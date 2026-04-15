@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 # Denosumab Rebound Fractures Discontinuation
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Upon discontinuation of denosumab, patients may experience rapid increase in bone turnover and decline in BMD. Multiple vertebral fractures can occur—the rebound effect. This is due to sudden unopposed RANKL activity after potent suppression.
 

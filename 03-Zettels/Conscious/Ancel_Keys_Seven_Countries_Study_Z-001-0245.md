@@ -12,8 +12,52 @@ extraction-date: 2026-03-01
 ---
 
 # Ancel Keys and the Seven Countries Study (1958-1964)
+## Related Zettels from Same Source
+
+- [[Keys_Criticism_Diet_Heart_Controversy_Z-001-0246]]
+- [[Procter_Gamble_Crisco_Seed_Oil_Marketing_Z-001-0247]]
+- [[Seed_Oil_Rise_US_Diet_Government_Role_Z-001-0248]]
+
+## Source
+
+[[LitNote_Dietary_Fat_History_L-001-0210]
+
+## Related Zettels from Same Source
+
+- [[Keys_Criticism_Diet_Heart_Controversy_Z-001-0246]]
+- [[Procter_Gamble_Crisco_Seed_Oil_Marketing_Z-001-0247]]
+- [[Seed_Oil_Rise_US_Diet_Government_Role_Z-001-0248]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Ancel Keys' Seven Countries Study became the most influential  in  history, establishing the diet-heart hypothesis that linked saturated fat intake to cardiovascular disease and shaped global dietary guidelines for half a century.
+
+## Related Zettels from Same Source
+
+- [[Keys_Criticism_Diet_Heart_Controversy_Z-001-0246]]
+- [[Procter_Gamble_Crisco_Seed_Oil_Marketing_Z-001-0247]]
+- [[Seed_Oil_Rise_US_Diet_Government_Role_Z-001-0248]]
+
+## Source
+
+[[LitNote_Dietary_Fat_History_L-001-0210]
+
+## Related Zettels from Same Source
+
+- [[Keys_Criticism_Diet_Heart_Controversy_Z-001-0246]]
+- [[Procter_Gamble_Crisco_Seed_Oil_Marketing_Z-001-0247]]
+- [[Seed_Oil_Rise_US_Diet_Government_Role_Z-001-0248]]
 
 ## Core Principle
 

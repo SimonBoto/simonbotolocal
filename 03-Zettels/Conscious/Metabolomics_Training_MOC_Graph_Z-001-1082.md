@@ -13,6 +13,42 @@ extraction-date: 2026-03-08
 ---
 
 # Metabolomics Training MOC Graph
+## Related Zettels from Same Source
+
+- [[CGPT_0022_Curriculum_Master_Index_Z-001-1081]]
+
+## Source
+
+[[L-001-0598_CGPT-0022_Training_Curriculum_Integration_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[CGPT_0022_Curriculum_Master_Index_Z-001-1081]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[CGPT_0022_Curriculum_Master_Index_Z-001-1081]]
+
+## Source
+
+[[L-001-0598_CGPT-0022_Training_Curriculum_Integration_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[CGPT_0022_Curriculum_Master_Index_Z-001-1081]]
 
 ## Core Claim
 **This knowledge graph maps all 53 CGPT-0022 zettels to their respective MOC clusters — Energy Metabolism, Lipid Signaling, Micronutrients, OAT Analysis, Clinical Practice, and Evidence Base — revealing cross-domain connections that enable integrated understanding and clinical application.**

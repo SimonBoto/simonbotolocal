@@ -13,6 +13,54 @@ extraction-date: 2026-03-08
 ---
 
 # Fatty Acid Nomenclature and Numbering
+## Related Zettels from Same Source
+
+- [[Chain_Length_Metabolic_Fate_Fatty_Acids_Z-001-1213]]
+- [[Cis_vs_Trans_Fatty_Acids_Z-001-1212]]
+- [[Omega_Classification_System_Explained_Z-001-1209]]
+- [[Saturated_vs_Unsaturated_Fats_Z-001-1210]]
+
+## Source
+
+[[L-001-0632_Fatty_Acid_Structure_Classification_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Chain_Length_Metabolic_Fate_Fatty_Acids_Z-001-1213]]
+- [[Cis_vs_Trans_Fatty_Acids_Z-001-1212]]
+- [[Omega_Classification_System_Explained_Z-001-1209]]
+- [[Saturated_vs_Unsaturated_Fats_Z-001-1210]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Chain_Length_Metabolic_Fate_Fatty_Acids_Z-001-1213]]
+- [[Cis_vs_Trans_Fatty_Acids_Z-001-1212]]
+- [[Omega_Classification_System_Explained_Z-001-1209]]
+- [[Saturated_vs_Unsaturated_Fats_Z-001-1210]]
+
+## Source
+
+[[L-001-0632_Fatty_Acid_Structure_Classification_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Chain_Length_Metabolic_Fate_Fatty_Acids_Z-001-1213]]
+- [[Cis_vs_Trans_Fatty_Acids_Z-001-1212]]
+- [[Omega_Classification_System_Explained_Z-001-1209]]
+- [[Saturated_vs_Unsaturated_Fats_Z-001-1210]]
 
 ## Core Claim
 **Fatty acids are named using systematic conventions that specify chain length, number and position of double bonds — with the delta (Δ) system counting from the carboxyl end and the omega (ω) system counting from the methyl end — enabling precise communication of structure and metabolic properties across biochemical and clinical contexts.**

@@ -15,6 +15,18 @@ related: []
 ---
 
 # Lp(a) Genetically Determined Not Modified by Lifestyle
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Lp(a) levels are 80-90% genetically determined** by the LPA gene and remain stable throughout life — they are **not significantly affected by diet, exercise, or statin therapy**, making Lp(a) a unique cardiovascular risk factor that requires different management approaches than modifiable risk factors.
@@ -76,6 +88,11 @@ related: []
 
 > "Lp(a) levels are genetically determined by the LPA gene and remain stable throughout life; diet, exercise, and statins do not significantly lower Lp(a), requiring alternative management strategies focused on aggressive control of other risk factors and emerging targeted therapies."
 > — (Lp(a) genetics literature)
+
+## Related Zettels from Same Source
+
+- [[Lp(a)_Independent_Risk_Factor_CVD_Stroke_Z-002-0684]]
+- [[Lpa_Management_Aggressive_Risk_Control_Emerging_Therapies_Z-002-0686]]
 
 ## Source
 - **LitNote:** [[L-002-0183_Lipoprotein_a_Lpa_Risk]]

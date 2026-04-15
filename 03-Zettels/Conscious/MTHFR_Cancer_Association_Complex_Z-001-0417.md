@@ -12,8 +12,60 @@ extraction-date: 2026-03-01
 ---
 
 # MTHFR  Association — Complex Relationship
+## Related Zettels from Same Source
+
+- [[A1298C_Polymorphism_Regulatory_Z-001-0415]]
+- [[C677T_Polymorphism_Thermolabile_Z-001-0414]]
+- [[MTHFR_Clinical_Management_Folate_Z-001-0416]]
+- [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]]
+- [[MTHFR_Testing_Interpretation_Z-001-0418]]
+
+## Source
+
+[[LitNote_MTHFR_Genetics_L-001-0403]
+
+## Related Zettels from Same Source
+
+- [[A1298C_Polymorphism_Regulatory_Z-001-0415]]
+- [[C677T_Polymorphism_Thermolabile_Z-001-0414]]
+- [[MTHFR_Clinical_Management_Folate_Z-001-0416]]
+- [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]]
+- [[MTHFR_Testing_Interpretation_Z-001-0418]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > MTHFR polymorphisms have complex, context-dependent associations with cancer risk that vary by cancer type, folate status, alcohol intake, and interaction with other genetic factors.
+
+## Related Zettels from Same Source
+
+- [[A1298C_Polymorphism_Regulatory_Z-001-0415]]
+- [[C677T_Polymorphism_Thermolabile_Z-001-0414]]
+- [[MTHFR_Clinical_Management_Folate_Z-001-0416]]
+- [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]]
+- [[MTHFR_Testing_Interpretation_Z-001-0418]]
+
+## Source
+
+[[LitNote_MTHFR_Genetics_L-001-0403]
+
+## Related Zettels from Same Source
+
+- [[A1298C_Polymorphism_Regulatory_Z-001-0415]]
+- [[C677T_Polymorphism_Thermolabile_Z-001-0414]]
+- [[MTHFR_Clinical_Management_Folate_Z-001-0416]]
+- [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]]
+- [[MTHFR_Testing_Interpretation_Z-001-0418]]
 
 ## Core Principle
 

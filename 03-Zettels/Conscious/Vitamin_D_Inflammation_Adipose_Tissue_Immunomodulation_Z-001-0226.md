@@ -12,8 +12,52 @@ extraction-date: 2026-03-01
 ---
 
 #  and Inflammation in Adipose Tissue
+## Related Zettels from Same Source
+
+- [[Vitamin_D_Biochemistry_Synthesis_Activation_Z-001-0223]]
+- [[Vitamin_D_Insulin_Sensitivity_Glucose_Metabolism_Z-001-0224]]
+- [[Vitamin_D_Lipid_Metabolism_HDL_Triglycerides_Z-001-0225]]
+
+## Source
+
+[[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]
+
+## Related Zettels from Same Source
+
+- [[Vitamin_D_Biochemistry_Synthesis_Activation_Z-001-0223]]
+- [[Vitamin_D_Insulin_Sensitivity_Glucose_Metabolism_Z-001-0224]]
+- [[Vitamin_D_Lipid_Metabolism_HDL_Triglycerides_Z-001-0225]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Vitamin D exerts potent anti-inflammatory effects in adipose tissue, modulating adipokine production, macrophage polarization, and inflammatory signaling pathways that drive metabolic dysfunction in obesity and metabolic syndrome.
+
+## Related Zettels from Same Source
+
+- [[Vitamin_D_Biochemistry_Synthesis_Activation_Z-001-0223]]
+- [[Vitamin_D_Insulin_Sensitivity_Glucose_Metabolism_Z-001-0224]]
+- [[Vitamin_D_Lipid_Metabolism_HDL_Triglycerides_Z-001-0225]]
+
+## Source
+
+[[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]
+
+## Related Zettels from Same Source
+
+- [[Vitamin_D_Biochemistry_Synthesis_Activation_Z-001-0223]]
+- [[Vitamin_D_Insulin_Sensitivity_Glucose_Metabolism_Z-001-0224]]
+- [[Vitamin_D_Lipid_Metabolism_HDL_Triglycerides_Z-001-0225]]
 
 ## Core Principle
 

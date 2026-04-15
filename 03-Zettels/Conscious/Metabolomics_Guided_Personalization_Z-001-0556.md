@@ -12,8 +12,28 @@ extraction-date: 2026-03-01
 ---
 
 # -Guided Personalization
+## Source
+
+[[LitNote_Mitochondrial_Health_Strategies_L-001-0511]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Urinary organic acid profiling provides objective s for assessing mitochondrial function and personalizing interventions.
+
+## Source
+
+[[LitNote_Mitochondrial_Health_Strategies_L-001-0511]
 
 ## Core Principle
 

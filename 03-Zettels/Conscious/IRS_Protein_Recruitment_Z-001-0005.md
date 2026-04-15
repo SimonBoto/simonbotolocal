@@ -16,6 +16,18 @@ created: 2026-02-22
 ---
 
 # IRS Recruitment to Activated INSR
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 IRS proteins ( Receptor Substrates) are cytosolic adapter proteins that bridge activated INSR to downstream PI3K signaling.
 

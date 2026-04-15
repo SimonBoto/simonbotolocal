@@ -18,8 +18,28 @@ status: conscious
 ---
 
 # IBD Diagnostic Criteria
+## Source
+
+[[Inflammatory_Bowel_Disease_-_Crohn-s_vs_Ulcerati_L-001-0585_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > **Source:** ChatGPT conversation [[CGPT_0209_Gastroenterology_Registrar_Assessment_CGPT-0209]] (November 18, 2025)
+
+## Source
+
+[[Inflammatory_Bowel_Disease_-_Crohn-s_vs_Ulcerati_L-001-0585_v4.0]]
 
 ## Core Claim
 Diagnostic criteria for IBD integrate clinical presentation, endoscopic findings, histopathological assessment, serological markers, and imaging modalities, with specific algorithms for differentiating Crohn's disease from ulcerative colitis based on characteristic patterns.

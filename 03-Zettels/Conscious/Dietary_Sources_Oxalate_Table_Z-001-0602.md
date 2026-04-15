@@ -12,6 +12,18 @@ created: 2026-03-04
 ---
 
 # Dietary Sources of 
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Very High Oxalate Foods (>100 mg/serving)
 

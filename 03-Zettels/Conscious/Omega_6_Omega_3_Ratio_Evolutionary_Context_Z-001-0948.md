@@ -12,6 +12,18 @@ extraction-date: 2026-04-15
 ---
 
 # Omega-6 to Omega-3 Ratio — Evolutionary and Clinical Context
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Evolutionary Perspective
 

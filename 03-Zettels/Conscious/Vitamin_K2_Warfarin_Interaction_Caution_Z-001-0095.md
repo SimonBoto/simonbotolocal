@@ -16,6 +16,18 @@ extraction-date: 2026-04-15
 ---
 
 #  Warfarin Interaction Caution
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Patients on vitamin K antagonists (warfarin) require close supervision when taking K2 supplements. Vitamin K can antagonize warfarin's effect. Coordinate with prescribing physician and monitor INR closely.
 

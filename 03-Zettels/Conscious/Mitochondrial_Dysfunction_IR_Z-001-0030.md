@@ -13,6 +13,18 @@ created: 2026-02-24
 ---
 
 # Mitochondrial Dysfunction in  Resistance
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Mitochondrial overload from chronic nutrient excess creates oxidative stress when reactive oxygen species (ROS) production exceeds antioxidant capacity. This damages mitochondrial DNA and impairs electron transport chain function.
 

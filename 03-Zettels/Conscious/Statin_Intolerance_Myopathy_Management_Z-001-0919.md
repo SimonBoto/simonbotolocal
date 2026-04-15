@@ -27,8 +27,64 @@ updated: 2026-03-05
 ---
 
 # Statin Intolerance — Myopathy Management
+## Related Zettels from Same Source
+
+- [[Framingham_Reassessment_Cholesterol_Hypothesis_Z-001-0511]]
+- [[Non_Statin_Lipid_Lowering_Options_Z-001-0514]]
+- [[Statin_Clinical_Decision_Making_Z-001-0515]]
+- [[Statin_Major_Clinical_Trials_Z-001-0510]]
+- [[Statin_Mechanism_HMG_CoA_Reductase_Z-001-0509]]
+- [[Statin_Pharmacogenomics_SLCO1B1_Z-001-0920]]
+
+## Source
+
+[[LitNote_Statin_Pharmacology_L-001-0502]]
+
+## Related Zettels from Same Source
+
+- [[Framingham_Reassessment_Cholesterol_Hypothesis_Z-001-0511]]
+- [[Non_Statin_Lipid_Lowering_Options_Z-001-0514]]
+- [[Statin_Clinical_Decision_Making_Z-001-0515]]
+- [[Statin_Major_Clinical_Trials_Z-001-0510]]
+- [[Statin_Mechanism_HMG_CoA_Reductase_Z-001-0509]]
+- [[Statin_Pharmacogenomics_SLCO1B1_Z-001-0920]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Statin intolerance affects 5-10% of patients, with myopathy representing the most common concern requiring systematic evaluation and management.
+
+## Related Zettels from Same Source
+
+- [[Framingham_Reassessment_Cholesterol_Hypothesis_Z-001-0511]]
+- [[Non_Statin_Lipid_Lowering_Options_Z-001-0514]]
+- [[Statin_Clinical_Decision_Making_Z-001-0515]]
+- [[Statin_Major_Clinical_Trials_Z-001-0510]]
+- [[Statin_Mechanism_HMG_CoA_Reductase_Z-001-0509]]
+- [[Statin_Pharmacogenomics_SLCO1B1_Z-001-0920]]
+
+## Source
+
+[[LitNote_Statin_Pharmacology_L-001-0502]]
+
+## Related Zettels from Same Source
+
+- [[Framingham_Reassessment_Cholesterol_Hypothesis_Z-001-0511]]
+- [[Non_Statin_Lipid_Lowering_Options_Z-001-0514]]
+- [[Statin_Clinical_Decision_Making_Z-001-0515]]
+- [[Statin_Major_Clinical_Trials_Z-001-0510]]
+- [[Statin_Mechanism_HMG_CoA_Reductase_Z-001-0509]]
+- [[Statin_Pharmacogenomics_SLCO1B1_Z-001-0920]]
 
 ## Core Principle
 

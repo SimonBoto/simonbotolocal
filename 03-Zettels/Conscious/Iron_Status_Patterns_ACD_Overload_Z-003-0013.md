@@ -18,10 +18,30 @@ extraction-date: 2026-04-15
 ---
 
 # Iron Status Patterns — Deficiency, ACD, Overload
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Iron status cannot be assessed by ferritin alone. **Three distinct patterns** require different interpretations and interventions: true deficiency, anemia of chronic disease (functional deficiency), and iron overload.
 
 ---
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Principle
 

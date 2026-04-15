@@ -13,6 +13,50 @@ extraction-date: 2026-03-03
 ---
 
 # HMG-CoA Reductase Regulation
+## Related Zettels from Same Source
+
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]]
+- [[Mevalonate_Pathway_Energy_Cost_Z-001-0568]]
+- [[Mevalonate_Pathway_Step_by_Step_Z-001-0566]]
+
+## Source
+
+[[L-001-0518_Mevalonate_Pathway_Biochemistry_CGPT-0391]]
+
+## Related Zettels from Same Source
+
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]]
+- [[Mevalonate_Pathway_Energy_Cost_Z-001-0568]]
+- [[Mevalonate_Pathway_Step_by_Step_Z-001-0566]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]]
+- [[Mevalonate_Pathway_Energy_Cost_Z-001-0568]]
+- [[Mevalonate_Pathway_Step_by_Step_Z-001-0566]]
+
+## Source
+
+[[L-001-0518_Mevalonate_Pathway_Biochemistry_CGPT-0391]]
+
+## Related Zettels from Same Source
+
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]]
+- [[Mevalonate_Pathway_Energy_Cost_Z-001-0568]]
+- [[Mevalonate_Pathway_Step_by_Step_Z-001-0566]]
 
 ## Core Claim
 **HMG-CoA reductase — the rate-limiting enzyme of cholesterol synthesis — is controlled through multiple regulatory layers including SREBP-2 transcriptional control, AMPK phosphorylation-mediated inhibition, and cholesterol-dependent degradation, making it the primary target of statin drugs and a central node in metabolic homeostasis.**

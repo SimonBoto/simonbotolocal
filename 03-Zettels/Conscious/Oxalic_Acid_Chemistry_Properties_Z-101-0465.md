@@ -12,6 +12,50 @@ status: conscious
 ---
 
 # Oxalic Acid Chemistry and Properties
+## Related Zettels from Same Source
+
+- [[Amino_Acid_to_Oxalate_Metabolism_Z-101-0467]]
+- [[Oxalate_Clinical_Relevance_Z-101-0468]]
+- [[Oxalic_Acid_Dietary_Sources_Z-101-0466]]
+
+## Source
+
+[[LitNote_CGPT_0413_Oxalic_Acid_Chemistry_L-101-0046.md]
+
+## Related Zettels from Same Source
+
+- [[Amino_Acid_to_Oxalate_Metabolism_Z-101-0467]]
+- [[Oxalate_Clinical_Relevance_Z-101-0468]]
+- [[Oxalic_Acid_Dietary_Sources_Z-101-0466]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Amino_Acid_to_Oxalate_Metabolism_Z-101-0467]]
+- [[Oxalate_Clinical_Relevance_Z-101-0468]]
+- [[Oxalic_Acid_Dietary_Sources_Z-101-0466]]
+
+## Source
+
+[[LitNote_CGPT_0413_Oxalic_Acid_Chemistry_L-101-0046.md]
+
+## Related Zettels from Same Source
+
+- [[Amino_Acid_to_Oxalate_Metabolism_Z-101-0467]]
+- [[Oxalate_Clinical_Relevance_Z-101-0468]]
+- [[Oxalic_Acid_Dietary_Sources_Z-101-0466]]
 
 ## Basic Structure
 - **Molecular formula:** C₂H₂O₄

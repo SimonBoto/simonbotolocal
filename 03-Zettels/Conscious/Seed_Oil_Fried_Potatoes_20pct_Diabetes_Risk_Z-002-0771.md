@@ -15,6 +15,18 @@ related: []
 ---
 
 # Seed Oil Fried Potatoes Increase Type 2 Diabetes Risk by 20%
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Frequent consumption of potatoes fried in seed oils (soybean, canola, corn oil) increases type 2 diabetes risk by approximately 20%** — the risk is dose-dependent and driven by oil oxidation, advanced glycation end-products (AGEs), and pro-inflammatory omega-6 fatty acids, not the potato itself.
@@ -95,6 +107,11 @@ related: []
 | **French fries** | Baked potato wedges |
 | **Hash browns (fried)** | Oven-roasted potatoes |
 | **Potato chips** | Air-popped or baked |
+
+## Related Zettels from Same Source
+
+- [[Healthier_Fat_Alternatives_Frying_Z-002-0773]]
+- [[Oxidized_Omega6_Metabolic_Damage_Z-002-0772]]
 
 ## Source
 - **LitNote:** [[L-002-0211_Fried_Potatoes_Seed_Oils_Diabetes]]

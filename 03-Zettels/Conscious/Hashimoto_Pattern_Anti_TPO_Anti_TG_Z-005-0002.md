@@ -19,10 +19,30 @@ extraction-date: 2026-04-15
 ---
 
 # Hashimoto Pattern — Anti-TPO and Anti-TG Thyroid Autoimmunity
+## Source
+
+Synthesized from clinical practice
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **Hashimoto's thyroiditis** is the most common cause of hypothyroidism. **Anti-TPO (thyroid peroxidase)** and **Anti-TG (thyroglobulin)** antibodies mark the autoimmune attack. Early detection allows intervention before overt hypothyroidism develops.
 
 ---
+
+## Source
+
+Synthesized from clinical practice
 
 ## Core Principle
 

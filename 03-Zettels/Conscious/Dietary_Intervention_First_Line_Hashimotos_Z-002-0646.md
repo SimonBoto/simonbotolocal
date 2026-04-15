@@ -15,6 +15,18 @@ related: []
 ---
 
 # Dietary Intervention as First-Line Hashimoto's Therapy
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 Low-carbohydrate dietary intervention should be considered **first-line therapy** for Hashimoto's thyroiditis, potentially reducing medication requirements in early-stage disease and preserving thyroid function before irreversible damage occurs.
@@ -88,6 +100,11 @@ Low-carbohydrate dietary intervention should be considered **first-line therapy*
 - **Empowerment:** Active role in disease management
 - **Side benefit:** Weight loss, energy improvement common
 - **Sustainable:** Easier long-term than medication alone
+
+## Related Zettels from Same Source
+
+- [[Insulin_Resistance_Autoimmune_Thyroid_Z-002-0645]]
+- [[Low_Carb_Reduces_Thyroid_Autoantibodies_Z-002-0644]]
 
 ## Source
 - **LitNote:** [[L-002-0170_Hashimoto_Low_Carb_Autoantibodies]]

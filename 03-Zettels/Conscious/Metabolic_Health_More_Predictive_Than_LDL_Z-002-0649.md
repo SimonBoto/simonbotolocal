@@ -15,6 +15,18 @@ related: []
 ---
 
 # Metabolic Health More Predictive Than LDL
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **Overall metabolic health** (insulin sensitivity, inflammation status, body composition) is **more predictive** of cardiovascular and all-cause mortality than isolated LDL cholesterol values in primary prevention populations.
@@ -94,6 +106,12 @@ Poor metabolic health (insulin resistance, inflammation)
 | 2 | Reduce inflammation (omega-3, weight loss) | Direct benefit |
 | 3 | Optimize body composition | Metabolic improvement |
 | 4 | Consider LDL modification | If still elevated after metabolic optimization |
+
+## Related Zettels from Same Source
+
+- [[LDL_Centric_Risk_Model_Incomplete_Z-002-0648]]
+- [[LDL_Not_Predictive_Primary_Prevention_Z-002-0647]]
+- [[Rethinking_Statin_Primary_Prevention_Z-002-0650]]
 
 ## Source
 - **LitNote:** [[L-002-0171_High_LDL_Not_Mortality_Healthy]]

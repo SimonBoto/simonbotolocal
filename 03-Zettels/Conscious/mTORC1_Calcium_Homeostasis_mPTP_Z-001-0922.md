@@ -14,6 +14,18 @@ updated: 2026-03-05
 ---
 
 # mTORC1 Inhibition Disrupts Calcium Homeostasis and mPTP Opening
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **Core Mechanism:** Sirolimus disrupts l calcium buffering, leading to calcium overload, mPTP opening, and cell death.
 

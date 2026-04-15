@@ -12,8 +12,60 @@ extraction-date: 2026-03-01
 ---
 
 # Standard vs Optimal Ranges —  Philosophy
+## Related Zettels from Same Source
+
+- [[B12_Reference_Optimal_Values_Z-001-0445]]
+- [[Folate_Serum_vs_RBC_Assessment_Z-001-0446]]
+- [[Homocysteine_Ranges_Cardiovascular_Risk_Z-001-0447]]
+- [[Integrated_B12_Assessment_Complete_Picture_Z-001-0449]]
+- [[MMA_Sensitive_B12_Marker_Z-001-0448]]
+
+## Source
+
+[[LitNote_B12_Clinical_Assessment_L-001-0408]
+
+## Related Zettels from Same Source
+
+- [[B12_Reference_Optimal_Values_Z-001-0445]]
+- [[Folate_Serum_vs_RBC_Assessment_Z-001-0446]]
+- [[Homocysteine_Ranges_Cardiovascular_Risk_Z-001-0447]]
+- [[Integrated_B12_Assessment_Complete_Picture_Z-001-0449]]
+- [[MMA_Sensitive_B12_Marker_Z-001-0448]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > Standard laboratory ranges are derived from population averages and may miss functional deficiencies, while optimal ranges target peak physiological performance and prevention.
+
+## Related Zettels from Same Source
+
+- [[B12_Reference_Optimal_Values_Z-001-0445]]
+- [[Folate_Serum_vs_RBC_Assessment_Z-001-0446]]
+- [[Homocysteine_Ranges_Cardiovascular_Risk_Z-001-0447]]
+- [[Integrated_B12_Assessment_Complete_Picture_Z-001-0449]]
+- [[MMA_Sensitive_B12_Marker_Z-001-0448]]
+
+## Source
+
+[[LitNote_B12_Clinical_Assessment_L-001-0408]
+
+## Related Zettels from Same Source
+
+- [[B12_Reference_Optimal_Values_Z-001-0445]]
+- [[Folate_Serum_vs_RBC_Assessment_Z-001-0446]]
+- [[Homocysteine_Ranges_Cardiovascular_Risk_Z-001-0447]]
+- [[Integrated_B12_Assessment_Complete_Picture_Z-001-0449]]
+- [[MMA_Sensitive_B12_Marker_Z-001-0448]]
 
 ## Core Principle
 

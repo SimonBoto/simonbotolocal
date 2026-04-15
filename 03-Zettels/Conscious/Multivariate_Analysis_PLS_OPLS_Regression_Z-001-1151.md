@@ -14,6 +14,50 @@ created: 2026-03-08
 ---
 
 # Multivariate Analysis PLS OPLS Regression
+## Related Zettels from Same Source
+
+- [[PCA_Metabolomics_Dimensionality_Reduction_Z-001-1150]]
+- [[Power_Analysis_Sample_Size_METHAP_Z-001-1149]]
+- [[Validation_Cross_Validation_Model_Robustness_Z-001-1152]]
+
+## Source
+
+[[LitNote_Statistical_Analysis_Omics_L-001-0617]
+
+## Related Zettels from Same Source
+
+- [[PCA_Metabolomics_Dimensionality_Reduction_Z-001-1150]]
+- [[Power_Analysis_Sample_Size_METHAP_Z-001-1149]]
+- [[Validation_Cross_Validation_Model_Robustness_Z-001-1152]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[PCA_Metabolomics_Dimensionality_Reduction_Z-001-1150]]
+- [[Power_Analysis_Sample_Size_METHAP_Z-001-1149]]
+- [[Validation_Cross_Validation_Model_Robustness_Z-001-1152]]
+
+## Source
+
+[[LitNote_Statistical_Analysis_Omics_L-001-0617]
+
+## Related Zettels from Same Source
+
+- [[PCA_Metabolomics_Dimensionality_Reduction_Z-001-1150]]
+- [[Power_Analysis_Sample_Size_METHAP_Z-001-1149]]
+- [[Validation_Cross_Validation_Model_Robustness_Z-001-1152]]
 
 ## Overview
 Partial Least Squares Discriminant Analysis (PLS-DA) and Orthogonal PLS (OPLS) are supervised multivariate methods that maximize separation between groups while modeling  data—identifying s that discriminate insulin-resistant from healthy individuals.

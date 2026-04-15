@@ -24,6 +24,58 @@ extraction-date: 2026-03-04
 ---
 
 # Ribose Structure and RNA Backbone Role
+## Related Zettels from Same Source
+
+- [[G6PD_Deficiency_Evolutionary_Trade-offs_Z-001-0461]]
+- [[NADPH_Functions_Antioxidant_Defense_Z-001-0460]]
+- [[Nucleobase_Phosphorylation_Nucleotide_Formation_Z-001-0465]]
+- [[PPP_Oxidative_Phase_Z-001-0457]]
+- [[Triose_Metabolism_G3P_DHAP_Z-001-0459]]
+
+## Source
+
+[[L-001-0045C_Ribose_PPP_NADPH_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[G6PD_Deficiency_Evolutionary_Trade-offs_Z-001-0461]]
+- [[NADPH_Functions_Antioxidant_Defense_Z-001-0460]]
+- [[Nucleobase_Phosphorylation_Nucleotide_Formation_Z-001-0465]]
+- [[PPP_Oxidative_Phase_Z-001-0457]]
+- [[Triose_Metabolism_G3P_DHAP_Z-001-0459]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[G6PD_Deficiency_Evolutionary_Trade-offs_Z-001-0461]]
+- [[NADPH_Functions_Antioxidant_Defense_Z-001-0460]]
+- [[Nucleobase_Phosphorylation_Nucleotide_Formation_Z-001-0465]]
+- [[PPP_Oxidative_Phase_Z-001-0457]]
+- [[Triose_Metabolism_G3P_DHAP_Z-001-0459]]
+
+## Source
+
+[[L-001-0045C_Ribose_PPP_NADPH_CGPT-0445]]
+
+## Related Zettels from Same Source
+
+- [[G6PD_Deficiency_Evolutionary_Trade-offs_Z-001-0461]]
+- [[NADPH_Functions_Antioxidant_Defense_Z-001-0460]]
+- [[Nucleobase_Phosphorylation_Nucleotide_Formation_Z-001-0465]]
+- [[PPP_Oxidative_Phase_Z-001-0457]]
+- [[Triose_Metabolism_G3P_DHAP_Z-001-0459]]
 
 ## Core Claim
 **Ribose is a 5-carbon pentose sugar (C₅H₁₀O₅) that forms the structural backbone of RNA and ATP, with its 2'-OH group distinguishing RNA from DNA and enabling catalytic functions** — all nucleotide coenzymes (NAD⁺, FAD, CoA) contain ribose, making it essential for metabolism.

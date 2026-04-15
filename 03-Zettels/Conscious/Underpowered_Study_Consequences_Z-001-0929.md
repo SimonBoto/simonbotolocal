@@ -13,8 +13,56 @@ source-litnote: Synthesized from clinical practice
 ---
 
 # Consequences of Underpowered Studies in Omics Research
+## Related Zettels from Same Source
+
+- [[Corn_Fed_Chicken_Omega6_Fatty_Acid_Profile_Z-001-0562]]
+- [[Egg_Yolk_Fatty_Acid_Profile_Diet_Dependent_Z-001-0563]]
+- [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564]]
+- [[Poultry_Fatty_Acid_Measurements_Reference_Z-001-0565]]
+
+## Source
+
+Synthesized from clinical practice
+
+## Related Zettels from Same Source
+
+- [[Corn_Fed_Chicken_Omega6_Fatty_Acid_Profile_Z-001-0562]]
+- [[Egg_Yolk_Fatty_Acid_Profile_Diet_Dependent_Z-001-0563]]
+- [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564]]
+- [[Poultry_Fatty_Acid_Measurements_Reference_Z-001-0565]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 **Core Problem:** Small sample sizes with high-dimensional data create a perfect storm for false discoveries and unreliable findings.
+
+## Related Zettels from Same Source
+
+- [[Corn_Fed_Chicken_Omega6_Fatty_Acid_Profile_Z-001-0562]]
+- [[Egg_Yolk_Fatty_Acid_Profile_Diet_Dependent_Z-001-0563]]
+- [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564]]
+- [[Poultry_Fatty_Acid_Measurements_Reference_Z-001-0565]]
+
+## Source
+
+Synthesized from clinical practice
+
+## Related Zettels from Same Source
+
+- [[Corn_Fed_Chicken_Omega6_Fatty_Acid_Profile_Z-001-0562]]
+- [[Egg_Yolk_Fatty_Acid_Profile_Diet_Dependent_Z-001-0563]]
+- [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564]]
+- [[Poultry_Fatty_Acid_Measurements_Reference_Z-001-0565]]
 
 ## Core Principle
 

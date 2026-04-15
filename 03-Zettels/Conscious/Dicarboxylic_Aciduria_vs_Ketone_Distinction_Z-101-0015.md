@@ -13,6 +13,50 @@ extraction-date: 2026-03-02
 ---
 
 # Dicarboxylic Aciduria vs Ketone Distinction
+## Related Zettels from Same Source
+
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]]
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]
+- [[Urine_Organic_Acid_Interpretation_Dicarboxylic_Pattern_Z-101-0013]]
+
+## Source
+
+[[L-101-0003_Dicarboxylic_Acids_Clinical_Markers_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]]
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]
+- [[Urine_Organic_Acid_Interpretation_Dicarboxylic_Pattern_Z-101-0013]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]]
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]
+- [[Urine_Organic_Acid_Interpretation_Dicarboxylic_Pattern_Z-101-0013]]
+
+## Source
+
+[[L-101-0003_Dicarboxylic_Acids_Clinical_Markers_CGPT-0586]]
+
+## Related Zettels from Same Source
+
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]]
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]
+- [[Urine_Organic_Acid_Interpretation_Dicarboxylic_Pattern_Z-101-0013]]
 
 ## Core Claim
 **The combination of urine organic acid analysis for dicarboxylic acids and ketone assessment enables distinction between physiological fasting adaptation (elevated ketones, normal dicarboxylic acids) and pathological fatty acid oxidation disorders (elevated dicarboxylic acids with low/absent ketones) — with the dicarboxylic acid-to-ketone ratio serving as a diagnostic discriminator that identifies β-oxidation impairment requiring clinical intervention versus normal metabolic flexibility.**

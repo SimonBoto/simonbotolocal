@@ -26,6 +26,58 @@ extraction-date: 2026-03-01
 ---
 
 # B12 and Exercise Performance
+## Related Zettels from Same Source
+
+- [[Adenosylcobalamin_Mitochondrial_B12_Form_Z-001-0438]]
+- [[B12_METHAP_Protocol_Integration_Z-001-0443]]
+- [[B12_Requirements_Supplementation_Z-001-0442]]
+- [[Clinical_Assessment_B12_Status_MMA_Z-001-0441]]
+- [[Methylmalonyl_CoA_Mutase_Energy_Connection_Z-001-0439]]
+
+## Source
+
+[[LitNote_Mitochondrial_B12_Functions_L-001-0407]]
+
+## Related Zettels from Same Source
+
+- [[Adenosylcobalamin_Mitochondrial_B12_Form_Z-001-0438]]
+- [[B12_METHAP_Protocol_Integration_Z-001-0443]]
+- [[B12_Requirements_Supplementation_Z-001-0442]]
+- [[Clinical_Assessment_B12_Status_MMA_Z-001-0441]]
+- [[Methylmalonyl_CoA_Mutase_Energy_Connection_Z-001-0439]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Adenosylcobalamin_Mitochondrial_B12_Form_Z-001-0438]]
+- [[B12_METHAP_Protocol_Integration_Z-001-0443]]
+- [[B12_Requirements_Supplementation_Z-001-0442]]
+- [[Clinical_Assessment_B12_Status_MMA_Z-001-0441]]
+- [[Methylmalonyl_CoA_Mutase_Energy_Connection_Z-001-0439]]
+
+## Source
+
+[[LitNote_Mitochondrial_B12_Functions_L-001-0407]]
+
+## Related Zettels from Same Source
+
+- [[Adenosylcobalamin_Mitochondrial_B12_Form_Z-001-0438]]
+- [[B12_METHAP_Protocol_Integration_Z-001-0443]]
+- [[B12_Requirements_Supplementation_Z-001-0442]]
+- [[Clinical_Assessment_B12_Status_MMA_Z-001-0441]]
+- [[Methylmalonyl_CoA_Mutase_Energy_Connection_Z-001-0439]]
 
 ## Core Claim
 **B12 deficiency impairs exercise performance through reduced ATP production from amino acid and odd-chain fatty acid oxidation, leading to fatigue, weakness, and reduced exercise tolerance** — athletes and active individuals may have increased B12 requirements due to high metabolic turnover and protein intake.

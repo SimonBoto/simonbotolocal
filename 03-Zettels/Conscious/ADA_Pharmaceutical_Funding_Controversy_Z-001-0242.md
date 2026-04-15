@@ -12,8 +12,52 @@ extraction-date: 2026-03-01
 ---
 
 # ADA Pharmaceutical Funding — $53.6M+ Conflict of Interest
+## Related Zettels from Same Source
+
+- [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]]
+- [[ADA_Founding_Mission_1940_Z-001-0241]]
+- [[ADA_Guideline_Controversies_Evolution_Z-001-0243]]
+
+## Source
+
+[[LitNote_ADA_History_L-001-0209]]
+
+## Related Zettels from Same Source
+
+- [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]]
+- [[ADA_Founding_Mission_1940_Z-001-0241]]
+- [[ADA_Guideline_Controversies_Evolution_Z-001-0243]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 > The American  Association receives substantial funding from pharmaceutical companies, including over $53.6 million from  manufacturers, raising concerns about potential conflicts of interest and influence on diabetes care guidelines.
+
+## Related Zettels from Same Source
+
+- [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]]
+- [[ADA_Founding_Mission_1940_Z-001-0241]]
+- [[ADA_Guideline_Controversies_Evolution_Z-001-0243]]
+
+## Source
+
+[[LitNote_ADA_History_L-001-0209]]
+
+## Related Zettels from Same Source
+
+- [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]]
+- [[ADA_Founding_Mission_1940_Z-001-0241]]
+- [[ADA_Guideline_Controversies_Evolution_Z-001-0243]]
 
 ## Core Principle
 

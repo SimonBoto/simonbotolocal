@@ -16,6 +16,18 @@ created: 2026-02-22
 ---
 
 # MAPK Pathway for Mitogenic Signaling
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
  activates the Ras/MAPK pathway for mitogenic (growth) responses, distinct from metabolic signaling via PI3K.
 

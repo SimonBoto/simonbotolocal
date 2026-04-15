@@ -15,9 +15,26 @@ related: []
 ---
 
 # Regulatory Capture Industry Influence
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 (Content from L-002-0204)
+
+## Related Zettels from Same Source
+
+- [[Industry_Playbook_Hide_Evidence_Delay_Z-002-0750]]
+- [[Tobacco_Sugar_Same_Tactics_Public_Health_Z-002-0751]]
 
 ## Source
 - **LitNote:** [[L-002-0204_Tobacco_Sugar_Industry_Tactics]]

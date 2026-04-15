@@ -11,6 +11,26 @@ status: conscious
 ---
 
 #  and K2 — Synergistic Mechanism
+## Source
+
+[[LitNote_VitD_K2_Synergy_MetS_L-001-0639]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Source
+
+[[LitNote_VitD_K2_Synergy_MetS_L-001-0639]
 
 ## Overview
 

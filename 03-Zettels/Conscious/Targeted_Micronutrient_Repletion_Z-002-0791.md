@@ -15,6 +15,46 @@ related: []
 ---
 
 # Targeted Micronutrient Repletion Requires Blood Testing and Adjustment
+## Related Zettels from Same Source
+
+- [[Metabolomic_Personalization_Z-002-0790]]
+- [[Personalized_Nutrition_50pct_Risk_Reduction_Z-002-0789]]
+
+## Source
+
+[[L-002-0217_Personalized_Nutrition_Halves_CVD]]
+
+## Related Zettels from Same Source
+
+- [[Metabolomic_Personalization_Z-002-0790]]
+- [[Personalized_Nutrition_50pct_Risk_Reduction_Z-002-0789]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Metabolomic_Personalization_Z-002-0790]]
+- [[Personalized_Nutrition_50pct_Risk_Reduction_Z-002-0789]]
+
+## Source
+
+[[L-002-0217_Personalized_Nutrition_Halves_CVD]]
+
+## Related Zettels from Same Source
+
+- [[Metabolomic_Personalization_Z-002-0790]]
+- [[Personalized_Nutrition_50pct_Risk_Reduction_Z-002-0789]]
 
 ## Core Claim
 **Effective micronutrient repletion requires regular blood testing and dose adjustment** — the TARGET-D protocol of measuring levels at baseline, adjusting dose every 3 months until target reached (40-80 ng/mL), then annual monitoring represents a model for personalized nutrition intervention.

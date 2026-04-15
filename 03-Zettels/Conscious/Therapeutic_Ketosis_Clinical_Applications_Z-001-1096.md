@@ -22,6 +22,50 @@ extraction-date: 2026-03-08
 ---
 
 # Therapeutic Ketosis — Clinical Applications
+## Related Zettels from Same Source
+
+- [[BHB_Hydroxyacid_Not_True_Ketone_Z-001-1095]]
+- [[Ketogenesis_Mechanism_Liver_Mitochondria_Z-001-1094]]
+- [[Three_Ketone_Bodies_Acetoacetate_BHB_Acetone_Z-001-1093]]
+
+## Source
+
+[[LitNote_Ketone_Body_Biochemistry_Clinical_L-001-0602]]
+
+## Related Zettels from Same Source
+
+- [[BHB_Hydroxyacid_Not_True_Ketone_Z-001-1095]]
+- [[Ketogenesis_Mechanism_Liver_Mitochondria_Z-001-1094]]
+- [[Three_Ketone_Bodies_Acetoacetate_BHB_Acetone_Z-001-1093]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[BHB_Hydroxyacid_Not_True_Ketone_Z-001-1095]]
+- [[Ketogenesis_Mechanism_Liver_Mitochondria_Z-001-1094]]
+- [[Three_Ketone_Bodies_Acetoacetate_BHB_Acetone_Z-001-1093]]
+
+## Source
+
+[[LitNote_Ketone_Body_Biochemistry_Clinical_L-001-0602]]
+
+## Related Zettels from Same Source
+
+- [[BHB_Hydroxyacid_Not_True_Ketone_Z-001-1095]]
+- [[Ketogenesis_Mechanism_Liver_Mitochondria_Z-001-1094]]
+- [[Three_Ketone_Bodies_Acetoacetate_BHB_Acetone_Z-001-1093]]
 
 ## Core Claim
 **Ketogenic diets and therapeutic ketosis provide established benefits for drug-resistant epilepsy (50% seizure reduction in ~50% of patients) and emerging applications in neurodegenerative diseases, metabolic syndrome, and as cancer adjunctive therapy** — mechanisms include enhanced GABA synthesis, improved mitochondrial function, and alternative brain fuel.

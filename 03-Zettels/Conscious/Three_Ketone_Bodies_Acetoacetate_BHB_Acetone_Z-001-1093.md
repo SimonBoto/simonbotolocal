@@ -25,6 +25,50 @@ extraction-date: 2026-03-08
 ---
 
 # Three Ketone Bodies — Acetoacetate, BHB, and Acetone
+## Related Zettels from Same Source
+
+- [[BHB_Hydroxyacid_Not_True_Ketone_Z-001-1095]]
+- [[Ketogenesis_Mechanism_Liver_Mitochondria_Z-001-1094]]
+- [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]]
+
+## Source
+
+[[LitNote_Ketone_Body_Biochemistry_Clinical_L-001-0602]]
+
+## Related Zettels from Same Source
+
+- [[BHB_Hydroxyacid_Not_True_Ketone_Z-001-1095]]
+- [[Ketogenesis_Mechanism_Liver_Mitochondria_Z-001-1094]]
+- [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[BHB_Hydroxyacid_Not_True_Ketone_Z-001-1095]]
+- [[Ketogenesis_Mechanism_Liver_Mitochondria_Z-001-1094]]
+- [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]]
+
+## Source
+
+[[LitNote_Ketone_Body_Biochemistry_Clinical_L-001-0602]]
+
+## Related Zettels from Same Source
+
+- [[BHB_Hydroxyacid_Not_True_Ketone_Z-001-1095]]
+- [[Ketogenesis_Mechanism_Liver_Mitochondria_Z-001-1094]]
+- [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]]
 
 ## Core Claim
 **The liver produces three ketone bodies from fatty acid oxidation: acetoacetate (the primary ketone, ~20% circulating), beta-hydroxybutyrate (BHB, reduced form, ~78% circulating), and acetone (non-utilizable waste, ~2%)** — BHB is the major transport form despite being chemically a hydroxyacid, not a true ketone.

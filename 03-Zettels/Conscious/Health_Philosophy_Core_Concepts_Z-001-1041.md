@@ -13,6 +13,62 @@ extraction-date: 2026-03-08
 ---
 
 # Health Philosophy Core Concepts
+## Related Zettels from Same Source
+
+- [[Hormonal_Metabolic_Regulation_Terms_Z-001-1044]]
+- [[Metabolism_Metabolomics_Terminology_Z-001-1042]]
+- [[Microbiome_Gut_Brain_Terminology_Z-001-1045]]
+- [[Mitochondrial_Energy_Terminology_Z-001-1043]]
+- [[Nutrition_Macronutrient_Terminology_Z-001-1046]]
+- [[Patient_Communication_Core_Concepts_Z-001-1047]]
+
+## Source
+
+[[L-001-0590_Core_Clinical_Vocabulary_66_Terms_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Hormonal_Metabolic_Regulation_Terms_Z-001-1044]]
+- [[Metabolism_Metabolomics_Terminology_Z-001-1042]]
+- [[Microbiome_Gut_Brain_Terminology_Z-001-1045]]
+- [[Mitochondrial_Energy_Terminology_Z-001-1043]]
+- [[Nutrition_Macronutrient_Terminology_Z-001-1046]]
+- [[Patient_Communication_Core_Concepts_Z-001-1047]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Hormonal_Metabolic_Regulation_Terms_Z-001-1044]]
+- [[Metabolism_Metabolomics_Terminology_Z-001-1042]]
+- [[Microbiome_Gut_Brain_Terminology_Z-001-1045]]
+- [[Mitochondrial_Energy_Terminology_Z-001-1043]]
+- [[Nutrition_Macronutrient_Terminology_Z-001-1046]]
+- [[Patient_Communication_Core_Concepts_Z-001-1047]]
+
+## Source
+
+[[L-001-0590_Core_Clinical_Vocabulary_66_Terms_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Hormonal_Metabolic_Regulation_Terms_Z-001-1044]]
+- [[Metabolism_Metabolomics_Terminology_Z-001-1042]]
+- [[Microbiome_Gut_Brain_Terminology_Z-001-1045]]
+- [[Mitochondrial_Energy_Terminology_Z-001-1043]]
+- [[Nutrition_Macronutrient_Terminology_Z-001-1046]]
+- [[Patient_Communication_Core_Concepts_Z-001-1047]]
 
 ## Core Claim
 **Clinical metabolomics rests on 14 foundational philosophical concepts — Health, Disease, Homeostasis, Adaptation, Self-regulation, Allostatic Load, and Oxidative Stress — that define health not as absence of disease but as optimal function and adaptive capacity.**

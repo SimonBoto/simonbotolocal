@@ -15,6 +15,46 @@ related: []
 ---
 
 # Movement Is Fundamental to Human Body Function
+## Related Zettels from Same Source
+
+- [[Physical_Activity_Minimum_Effective_Dose_Z-002-0876]]
+- [[Walking_8000_Steps_Mortality_Reduction_Z-002-0875]]
+
+## Source
+
+[[L-002-0245_Walking_Mortality_Reduction]]
+
+## Related Zettels from Same Source
+
+- [[Physical_Activity_Minimum_Effective_Dose_Z-002-0876]]
+- [[Walking_8000_Steps_Mortality_Reduction_Z-002-0875]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Physical_Activity_Minimum_Effective_Dose_Z-002-0876]]
+- [[Walking_8000_Steps_Mortality_Reduction_Z-002-0875]]
+
+## Source
+
+[[L-002-0245_Walking_Mortality_Reduction]]
+
+## Related Zettels from Same Source
+
+- [[Physical_Activity_Minimum_Effective_Dose_Z-002-0876]]
+- [[Walking_8000_Steps_Mortality_Reduction_Z-002-0875]]
 
 ## Core Claim
 **The human body is designed to move** — walking and physical activity are not optional "extras" but fundamental requirements for optimal physiological function.

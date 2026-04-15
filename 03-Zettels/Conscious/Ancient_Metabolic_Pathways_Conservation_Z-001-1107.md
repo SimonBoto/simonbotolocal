@@ -23,6 +23,50 @@ extraction-date: 2026-03-08
 ---
 
 # Ancient Metabolic Pathways — Evolutionary Conservation
+## Related Zettels from Same Source
+
+- [[Metabolic_Fossils_Ancient_Pathway_Remants_Z-001-1109]]
+- [[Prebiotic_Chemistry_Hydrothermal_Vents_Z-001-1108]]
+- [[RNA_World_Hypothesis_Origins_Life_Z-001-1106]]
+
+## Source
+
+[[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]]
+
+## Related Zettels from Same Source
+
+- [[Metabolic_Fossils_Ancient_Pathway_Remants_Z-001-1109]]
+- [[Prebiotic_Chemistry_Hydrothermal_Vents_Z-001-1108]]
+- [[RNA_World_Hypothesis_Origins_Life_Z-001-1106]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Metabolic_Fossils_Ancient_Pathway_Remants_Z-001-1109]]
+- [[Prebiotic_Chemistry_Hydrothermal_Vents_Z-001-1108]]
+- [[RNA_World_Hypothesis_Origins_Life_Z-001-1106]]
+
+## Source
+
+[[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]]
+
+## Related Zettels from Same Source
+
+- [[Metabolic_Fossils_Ancient_Pathway_Remants_Z-001-1109]]
+- [[Prebiotic_Chemistry_Hydrothermal_Vents_Z-001-1108]]
+- [[RNA_World_Hypothesis_Origins_Life_Z-001-1106]]
 
 ## Core Claim
 **Glycolysis, the pentose phosphate pathway, and core amino acid biosynthesis pathways are universally conserved across all domains of life, representing metabolic solutions developed in early evolution (possibly the RNA world) that have been maintained for billions of years** — this conservation indicates these pathways are optimal solutions to fundamental metabolic challenges.

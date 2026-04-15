@@ -13,6 +13,42 @@ extraction-date: 2026-03-08
 ---
 
 # CGPT-0022 Curriculum Master Index
+## Related Zettels from Same Source
+
+- [[Metabolomics_Training_MOC_Graph_Z-001-1082]]
+
+## Source
+
+[[L-001-0598_CGPT-0022_Training_Curriculum_Integration_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Metabolomics_Training_MOC_Graph_Z-001-1082]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Metabolomics_Training_MOC_Graph_Z-001-1082]]
+
+## Source
+
+[[L-001-0598_CGPT-0022_Training_Curriculum_Integration_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Metabolomics_Training_MOC_Graph_Z-001-1082]]
 
 ## Core Claim
 **This master index provides complete navigation of all 53 zettels and 12 LitNotes extracted from CGPT-0022, organized by training phase and topic domain, enabling systematic progression through the 8-week metabolomics training curriculum.**

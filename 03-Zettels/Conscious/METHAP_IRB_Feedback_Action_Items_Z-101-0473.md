@@ -12,9 +12,33 @@ status: conscious
 ---
 
 # METHAP IRB Feedback Action Items
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[METHAP_Informed_Consent_Framework_Z-101-0474]]
+- [[METHAP_Study_Design_Overview_Z-101-0472]]
+- [[METHAP_Supplement_Protocol_Z-101-0475]]
 
 ## Source
 Ethics Committee (Ε.Η.Δ.Ε.) review of PhD protocol application — February 2025
+
+## Related Zettels from Same Source
+
+- [[METHAP_Informed_Consent_Framework_Z-101-0474]]
+- [[METHAP_Study_Design_Overview_Z-101-0472]]
+- [[METHAP_Supplement_Protocol_Z-101-0475]]
 
 ## Critical Issues (Must Resolve)
 

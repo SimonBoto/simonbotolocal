@@ -14,6 +14,18 @@ related: []
 ---
 
 # Lp(a) No Current Drugs Available Trials Underway
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 ## Core Claim
 **No drugs currently available to lower Lp(a)** — clinical trials underway (pelacarsen, olpasiran) can reduce Lp(a) up to 95%, but outcome data pending.

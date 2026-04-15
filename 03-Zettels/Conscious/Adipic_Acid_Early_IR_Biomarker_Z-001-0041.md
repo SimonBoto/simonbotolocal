@@ -13,6 +13,18 @@ created: 2026-02-24
 ---
 
 # Adipic Acid as Early IR 
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
 
 Adipic acid (hexanedioic acid) is a urinary organic acid marker indicating impaired beta-oxidation of fatty acids. Elevated levels signal mitochondrial dysfunction and lipotoxicity before glucose abnormalities appear.
 

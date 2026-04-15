@@ -13,6 +13,58 @@ extraction-date: 2026-03-08
 ---
 
 # Gut Microbiome OAT Markers
+## Related Zettels from Same Source
+
+- [[Magnesium_Biochemistry_Clinical_Roles_Z-001-1060]]
+- [[Neurotransmitter_Synthesis_Biochemistry_Z-001-1063]]
+- [[One_Carbon_Metabolism_Folate_B12_Z-001-1062]]
+- [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]]
+- [[Vitamin_K2_Calcium_Direction_MGP_Z-001-1061]]
+
+## Source
+
+[[L-001-0593_Vitamin_Mineral_Axis_Biochemistry_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Magnesium_Biochemistry_Clinical_Roles_Z-001-1060]]
+- [[Neurotransmitter_Synthesis_Biochemistry_Z-001-1063]]
+- [[One_Carbon_Metabolism_Folate_B12_Z-001-1062]]
+- [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]]
+- [[Vitamin_K2_Calcium_Direction_MGP_Z-001-1061]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending
+
+
+## Related Zettels from Same Source
+
+- [[Magnesium_Biochemistry_Clinical_Roles_Z-001-1060]]
+- [[Neurotransmitter_Synthesis_Biochemistry_Z-001-1063]]
+- [[One_Carbon_Metabolism_Folate_B12_Z-001-1062]]
+- [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]]
+- [[Vitamin_K2_Calcium_Direction_MGP_Z-001-1061]]
+
+## Source
+
+[[L-001-0593_Vitamin_Mineral_Axis_Biochemistry_CGPT-0022]]
+
+## Related Zettels from Same Source
+
+- [[Magnesium_Biochemistry_Clinical_Roles_Z-001-1060]]
+- [[Neurotransmitter_Synthesis_Biochemistry_Z-001-1063]]
+- [[One_Carbon_Metabolism_Folate_B12_Z-001-1062]]
+- [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]]
+- [[Vitamin_K2_Calcium_Direction_MGP_Z-001-1061]]
 
 ## Core Claim
 **Organic acid testing provides quantitative assessment of gut microbial metabolism through specific bacterial and fungal metabolites — including indican (tryptophan metabolism), hippurate (phenylalanine conjugation), HPHPA (Clostridia metabolite), and yeast markers — enabling objective evaluation of dysbiosis, small intestinal bacterial overgrowth, and potential gut-brain axis dysfunction.**
