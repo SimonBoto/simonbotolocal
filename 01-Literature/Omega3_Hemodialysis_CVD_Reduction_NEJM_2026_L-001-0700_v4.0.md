@@ -18,7 +18,7 @@ parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-15"
 source-litnote: "[[Omega3_Hemodialysis_CVD_NEJM_2026-04-15]]"
 tags:
-  - lit-note
+  - litnote
   - omega-3
   - hemodialysis
   - cardiovascular

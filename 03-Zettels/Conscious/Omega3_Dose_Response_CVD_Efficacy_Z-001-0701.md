@@ -17,6 +17,10 @@ parent-index: "[[03-Zettels-Conscious]]"
 status: conscious
 source-litnote: "[[Omega3_Hemodialysis_CVD_Reduction_NEJM_2026_L-001-0700]]"
 extraction-date: "2026-04-15"
+related:
+  - "[[Hemodialysis_Metabolic_Dysfunction_Model_Z-001-0702]]"
+  - "[[Omega3_CVD_Protection_Mechanisms_Z-001-0703]]"
+  - "[[Omega3_Meta_Analysis_CVD_Benefit_Z-001-0704]]"
 ---
 
 # Omega-3 Dose-Response Pattern in CVD Efficacy
@@ -52,7 +56,17 @@ Minimum effective dose threshold likely exists between 1-2g/day. Subtherapeutic 
 - [[Omega3_Meta_Analysis_CVD_Benefit_Z-001-0704]]
 
 ## Source
-[[Omega3_Hemodialysis_CVD_Reduction_NEJM_2026_L-001-0700]]
+- LitNote: [[Omega3_Hemodialysis_CVD_Reduction_NEJM_2026_L-001-0700]]
+- Reference: [[R-001-0700_Lok_Omega3_Hemodialysis_NEJM_2026]]
+
+## Status Checklist
+
+- [x] Core Principle articulated
+- [x] Evidence/Examples included
+- [x] Lateral connections to siblings
+- [x] Source linked (YAML + visible)
+- [ ] RON review completed
+- [ ] 30-day review pending
 
 ---
 *Status: Conscious (reviewable)*

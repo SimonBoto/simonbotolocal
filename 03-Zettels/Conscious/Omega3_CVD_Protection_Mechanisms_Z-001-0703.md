@@ -18,6 +18,10 @@ parent-index: "[[03-Zettels-Conscious]]"
 status: conscious
 source-litnote: "[[Omega3_Hemodialysis_CVD_Reduction_NEJM_2026_L-001-0700]]"
 extraction-date: "2026-04-15"
+related:
+  - "[[Omega3_Dose_Response_CVD_Efficacy_Z-001-0701]]"
+  - "[[Hemodialysis_Metabolic_Dysfunction_Model_Z-001-0702]]"
+  - "[[Omega3_Meta_Analysis_CVD_Benefit_Z-001-0704]]"
 ---
 
 # Omega-3 CVD Protection Mechanisms
@@ -56,7 +60,17 @@ Unlike single-mechanism drugs, omega-3 acts on multiple CVD pathways simultaneou
 - [[Omega3_Meta_Analysis_CVD_Benefit_Z-001-0704]]
 
 ## Source
-[[Omega3_Hemodialysis_CVD_Reduction_NEJM_2026_L-001-0700]]
+- LitNote: [[Omega3_Hemodialysis_CVD_Reduction_NEJM_2026_L-001-0700]]
+- Reference: [[R-001-0700_Lok_Omega3_Hemodialysis_NEJM_2026]]
+
+## Status Checklist
+
+- [x] Core Principle articulated
+- [x] Evidence/Examples included
+- [x] Lateral connections to siblings
+- [x] Source linked (YAML + visible)
+- [ ] RON review completed
+- [ ] 30-day review pending
 
 ---
 *Status: Conscious (reviewable)*
