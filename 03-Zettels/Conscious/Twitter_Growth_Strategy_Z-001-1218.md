@@ -267,6 +267,10 @@ parent-index: [[03-Zettels-Conscious]]
 ---
 parent-index: [[03-Zettels-Conscious]]
 
+## Significance
+
+- What fulfills you? (Helping patients, educating, research)
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

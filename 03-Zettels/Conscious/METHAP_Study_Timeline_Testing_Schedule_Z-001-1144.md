@@ -147,6 +147,10 @@ The METHAP trial follows a structured timeline with baseline assessment, 12-week
 
 ---
 
+## Significance
+
+| **Clinical** | All baseline clinical markers repeated |
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

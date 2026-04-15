@@ -101,6 +101,10 @@ extraction-date: 2026-03-01
 
 > Landmark trials established statin efficacy in secondary and primary prevention, demonstrating consistent cardiovascular event and mortality reductions.
 
+## Significance
+
+> Landmark trials established statin efficacy in secondary and primary prevention, demonstrating consistent cardiovascular event and mortality reductions.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

@@ -70,6 +70,10 @@ Mature osteoclasts create a **sealed acidic microenvironment** that dissolves bo
 - [[Osteoclasts_Bone_Resorbing_Cells_Z-001-0080]] — Cell biology
 - [[Formation_Phase_Osteoid_Deposition_Mineralization_Z-001-0102]] — Next phase
 
+## Significance
+
+- **Genetic deficiency:** Pycnodysostosis (dense bone disease)
+
 ## Source
 [[LitNote_Bone_Remodeling_Cycle_Dynamics_L-001-0015]
 

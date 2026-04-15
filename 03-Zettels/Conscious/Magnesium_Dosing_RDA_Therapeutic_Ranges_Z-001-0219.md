@@ -176,6 +176,10 @@ extraction-date: 2026-03-01
 
 > While the RDA for magnesium prevents deficiency, therapeutic dosing for metabolic syndrome requires higher intakes to correct deficiency, optimize metabolic function, and achieve  benefits.
 
+## Significance
+
+tags: [zettel, magnesium, dosing, RDA, therapeutic, metabolic-syndrome]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

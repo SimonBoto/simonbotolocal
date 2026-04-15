@@ -78,6 +78,10 @@ extraction-date: 2026-03-01
 
 > Ancel Keys' Seven Countries Study shaped global dietary guidelines, but modern reassessment reveals complexities in the saturated fat-heart disease hypothesis.
 
+## Significance
+
+> Ancel Keys' Seven Countries Study shaped global dietary guidelines, but modern reassessment reveals complexities in the saturated fat-heart disease hypothesis.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

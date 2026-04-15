@@ -25,7 +25,15 @@ extraction-date: 2026-03-08
 
 # Adenosine — Metabolic Roles in Energy and Signaling
 
+## Mechanism
+
+**Adenosine (adenine + ribose) serves as the universal metabolic hub connecting energy status (ATP/ADP/AMP), neural signaling (sleep promotion), and genetic information (RNA/DNA)** — its phosphorylation state signals cellular energy charge, while free adenosine regulates sleep-wake cycles.
+
 ## Core Claim
+**Adenosine (adenine + ribose) serves as the universal metabolic hub connecting energy status (ATP/ADP/AMP), neural signaling (sleep promotion), and genetic information (RNA/DNA)** — its phosphorylation state signals cellular energy charge, while free adenosine regulates sleep-wake cycles.
+
+## Mechanism
+
 **Adenosine (adenine + ribose) serves as the universal metabolic hub connecting energy status (ATP/ADP/AMP), neural signaling (sleep promotion), and genetic information (RNA/DNA)** — its phosphorylation state signals cellular energy charge, while free adenosine regulates sleep-wake cycles.
 
 ## Evidence

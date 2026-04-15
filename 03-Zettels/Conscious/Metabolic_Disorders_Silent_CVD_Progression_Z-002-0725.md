@@ -31,6 +31,10 @@ related: []
 | **Early intervention** | Before symptoms |
 | **Metabolic correction** | During silent phase |
 
+## Significance
+
+**Type 2 diabetes, hypertension, obesity, and kidney dysfunction** act for years before symptoms appear, creating silent ground for cardiovascular disease.
+
 ## Source
 - **LitNote:** [[L-002-0196_Metabolism_Heart_Health]]
 

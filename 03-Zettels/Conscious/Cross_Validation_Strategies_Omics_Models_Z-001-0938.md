@@ -134,6 +134,10 @@ External Validation:
 - [[Biomarker_Validation_Pipeline_Requirements_Z-001-0560]] — Full pipeline
 - [[OPLS_DA_Overfitting_Risks_Small_Samples_Z-001-0935] — Overfitting context
 
+## Significance
+
+source-litnote: Synthesized from clinical practice
+
 ## Source
 [[LitNote_Multivariate_Analysis_Pitfalls_L-001-0517]
 

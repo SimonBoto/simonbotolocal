@@ -149,6 +149,10 @@ Validation strategies in  ensure that multivariate models are robust, generaliza
 
 ---
 
+## Significance
+
+| **Metabolomics risk** | High (many metabolites, limited samples) |
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

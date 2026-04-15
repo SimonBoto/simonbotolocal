@@ -19,6 +19,10 @@ related: []
 ## Core Claim
 Chronic diseases cause 74% of deaths globally, 90% in developed countries.
 
+## Significance
+
+tags: [zettel, chronic-disease, mortality, global]
+
 ## Source
 - **LitNote:** [[L-002-0202_Chronic_Disease_74pct_Global_Deaths]]
 

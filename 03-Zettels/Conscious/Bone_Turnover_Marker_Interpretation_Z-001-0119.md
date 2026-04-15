@@ -29,6 +29,10 @@ status: conscious
 - **Non-response:** <30% increase suggests possible non-adherence or biological resistance
 - **Temporal pattern:** Formation markers rise before resorption markers fall
 
+## Significance
+
+- **Clinical correlation:** Resorption marker suppression correlates with fracture risk reduction
+
 ## Discordant Patterns
 | Pattern | Interpretation | Action |
 |---------|----------------|--------|

@@ -125,6 +125,10 @@ A neutral body must independently review research protocols to ensure unbiased e
 
 A neutral body must independently review research protocols to ensure unbiased ethical judgment. Institutional Review Boards (IRBs) serve as community representatives and ethical gatekeepers.
 
+## Significance
+
+**Core principle:** Researchers cannot be the sole judges of their own ethics. Independent review prevents conflicts of interest and ensures diverse perspectives on risk and benefit.
+
 ## Connection to Vault
 
 - Up: [[MOC-Methylation]]

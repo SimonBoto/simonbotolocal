@@ -125,6 +125,10 @@ The medical establishment's ridicule of Linus Pauling exemplifies a recurring pa
 
 The medical establishment's ridicule of Linus Pauling exemplifies a recurring pattern: suppressing paradigm-challenging ideas, especially from outsiders or those who challenge institutional dogma — with attacks on the person rather than engagement with the science.
 
+## Significance
+
+2. **Self-treatment model** — patients could act independently
+
 ## Source
 [[LitNote_KingOfVitamins_Pauling_Vitamin_C_2025_L-001-0656]] — Vitamin King (2025)
 

@@ -85,6 +85,10 @@ status: conscious
 
 > **Definition:** Subgroup analysis is a method for exploring whether the effect of an intervention differs across predefined subgroups of participants, interventions, or study characteristics in a meta-analysis.
 
+## Significance
+
+- **Clinical rationale:** Subgroups should be based on biologically or clinically meaningful characteristics
+
 ## Related Concepts
 
 - [[Sensitivity_Analysis_Meta_Z-001-0580L]]

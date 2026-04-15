@@ -124,6 +124,10 @@ Sample preparation introduces **greater variation than biological differences** 
 - [[Batch_Effects_Detection_Correction_Metabolomics_Z-001-0939]] — Analytical variation
 - [[Instrument_Drift_QC_Monitoring_Requirements_Z-001-0941]] — Instrument variation
 
+## Significance
+
+Sample preparation introduces **greater variation than biological differences** if not standardized. Pre-analytical variables often exceed disease-related metabolic changes.
+
 ## Source
 [[LitNote_Technical_Confounders_Metabolomics_L-001-0520]
 

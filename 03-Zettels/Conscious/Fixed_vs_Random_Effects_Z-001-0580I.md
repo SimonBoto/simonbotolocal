@@ -86,6 +86,10 @@ status: conscious
 
 > **Definition:** Fixed-effects and random-effects models are two fundamental statistical approaches for combining effect estimates in meta-analysis, differing in their assumptions about the distribution of true effects across studies.
 
+## Significance
+
+- **Clinical judgment:** Assessment of clinical and methodological heterogeneity
+
 ## Related Concepts
 
 - [[Heterogeneity_Statistics_Z-001-0580H]]

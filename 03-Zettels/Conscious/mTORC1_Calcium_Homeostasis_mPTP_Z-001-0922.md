@@ -172,6 +172,10 @@ Sirolimus → Mitochondrial dysfunction
 
 **Core Mechanism:** Sirolimus disrupts l calcium buffering, leading to calcium overload, mPTP opening, and cell death.
 
+## Significance
+
+- **Neurons:** Excitotoxicity risk, Ca²⁺ signaling central
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

@@ -159,6 +159,10 @@ Humanized monoclonal antibody against **sclerostin** that uniquely stimulates bo
 - [[Teriparatide_PTH_1-34_Intermittent_Anabolic_Therapy_Z-001-0105]] — Alternative anabolic
 - [[Sequential_Therapy_Anabolic_to_Antiresorptive_Strategy_Z-001-0108]] — Required transition
 
+## Significance
+
+- **Clinical fractures:** Significant reduction in high-risk populations
+
 ## Source
 [[LitNote_Anabolic_Bone_Therapies_L-001-0016]
 

@@ -13,7 +13,15 @@ extraction-date: 2026-03-01
 
 # Aconitase Catalytic Mechanism
 
+## Mechanism
+
+Aconitase catalyzes the stereospecific isomerization of citrate to isocitrate via cis-aconitate through a dehydration-rehydration mechanism, with the Fe-S cluster's unique iron (Feₐ) acting as a Lewis acid to coordinate substrate and facilitate the precise stereochemical rearrangement required for subsequent oxidative decarboxylations in the Krebs cycle.
+
 ## Core Claim
+Aconitase catalyzes the stereospecific isomerization of citrate to isocitrate via cis-aconitate through a dehydration-rehydration mechanism, with the Fe-S cluster's unique iron (Feₐ) acting as a Lewis acid to coordinate substrate and facilitate the precise stereochemical rearrangement required for subsequent oxidative decarboxylations in the Krebs cycle.
+
+## Mechanism
+
 Aconitase catalyzes the stereospecific isomerization of citrate to isocitrate via cis-aconitate through a dehydration-rehydration mechanism, with the Fe-S cluster's unique iron (Feₐ) acting as a Lewis acid to coordinate substrate and facilitate the precise stereochemical rearrangement required for subsequent oxidative decarboxylations in the Krebs cycle.
 
 ## Evidence

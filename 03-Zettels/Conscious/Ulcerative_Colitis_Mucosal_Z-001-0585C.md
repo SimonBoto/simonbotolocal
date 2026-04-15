@@ -49,5 +49,9 @@ Mucosal inflammation → Continuous → Colon only → Crypt abscesses → Th2 i
 - [[IBD_Immune_Mechanisms_Z-001-0585D]]
 - [[IBD_Complications_Management_Z-001-0585N]]
 
+## Significance
+
+Ulcerative colitis is characterized by superficial (mucosal) inflammation that is continuous and limited to the colon, always involving the rectum, leading to complications such as dysplasia and requiring mucosal healing as the therapeutic goal.
+
 ## References
 - [[CGPT_0209_Gastroenterology_Registrar_Assessment_CGPT-0209]]

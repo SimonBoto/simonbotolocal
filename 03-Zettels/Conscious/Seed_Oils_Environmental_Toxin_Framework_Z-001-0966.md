@@ -305,6 +305,10 @@ Seed oils meet criteria for environmental toxin consideration:
 
 ---
 
+## Significance
+
+| 1-2% calories (traditional) | Low metabolic disease |
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

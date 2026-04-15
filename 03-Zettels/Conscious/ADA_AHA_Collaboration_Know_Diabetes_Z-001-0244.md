@@ -116,6 +116,10 @@ extraction-date: 2026-03-01
 
 > The American Diabetes Association and American Heart Association jointly launched the "Know Diabetes by Heart™" initiative to address the leading cause of death in people with Type 2 diabetes—cardiovascular disease—through education, research, and community outreach.
 
+## Significance
+
+> The American Diabetes Association and American Heart Association jointly launched the "Know Diabetes by Heart™" initiative to address the leading cause of death in people with Type 2 diabetes—cardiovascular disease—through education, research, and community outreach.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

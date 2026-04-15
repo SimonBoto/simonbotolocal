@@ -14,7 +14,15 @@ extraction-date: 2026-03-08
 
 # Adipate Formation — Palmitate to Adipic Acid Pathway
 
+## Mechanism
+
+**Adipic acid (C6 dicarboxylic acid) is formed through ω-oxidation in the endoplasmic reticulum when mitochondrial β-oxidation is impaired — serving as a critical urinary biomarker for mitochondrial dysfunction and early insulin resistance, with formation requiring cytochrome P450-mediated terminal hydroxylation of hexanoyl-CoA derived from incomplete palmitate oxidation.**
+
 ## Core Claim
+**Adipic acid (C6 dicarboxylic acid) is formed through ω-oxidation in the endoplasmic reticulum when mitochondrial β-oxidation is impaired — serving as a critical urinary biomarker for mitochondrial dysfunction and early insulin resistance, with formation requiring cytochrome P450-mediated terminal hydroxylation of hexanoyl-CoA derived from incomplete palmitate oxidation.**
+
+## Mechanism
+
 **Adipic acid (C6 dicarboxylic acid) is formed through ω-oxidation in the endoplasmic reticulum when mitochondrial β-oxidation is impaired — serving as a critical urinary biomarker for mitochondrial dysfunction and early insulin resistance, with formation requiring cytochrome P450-mediated terminal hydroxylation of hexanoyl-CoA derived from incomplete palmitate oxidation.**
 
 ## Evidence

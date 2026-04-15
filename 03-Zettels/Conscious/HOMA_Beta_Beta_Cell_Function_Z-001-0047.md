@@ -196,6 +196,10 @@ patient_id,visit,homa_beta,beta_cell_status,ir_status_combined
 
 **HOMA-β** estimates pancreatic β-cell function from fasting insulin and fasting glucose. It complements HOMA-IR by distinguishing insulin resistance (compensatory hyperinsulinemia) from β-cell failure (falling insulin secretion).
 
+## Significance
+
+source-litnote: Synthesized from clinical practice
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

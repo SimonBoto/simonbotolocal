@@ -181,6 +181,10 @@ patient_id,visit,sbp_mmhg,dbp_mmhg,bp_status,htn_grade
 
 **Blood pressure** is a vital sign with profound metabolic implications. Hypertension is both a criterion for metabolic syndrome and a consequence of  resistance. The **optimal target is <120/80 mmHg**, not just the standard <140/90.
 
+## Significance
+
+tags: [zettel, biomarker, blood-pressure, status/optimal, clinical-protocol]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

@@ -19,7 +19,15 @@ extraction-date: 2026-04-15
 
 Vitamin K2 (MK-4 and MK-7 isoforms) activates osteocalcin via carboxylation. Carboxylated osteocalcin binds  ions more effectively, anchoring them in bone matrix. MK-4 has short half-life; MK-7 has longer half-life.
 
+## Mechanism
+
+Vitamin K2 (MK-4 and MK-7 isoforms) activates osteocalcin via carboxylation. Carboxylated osteocalcin binds  ions more effectively, anchoring them in bone matrix. MK-4 has short half-life; MK-7 has longer half-life.
+
 ## Core Principle
+
+Vitamin K2 (MK-4 and MK-7 isoforms) activates osteocalcin via carboxylation. Carboxylated osteocalcin binds  ions more effectively, anchoring them in bone matrix. MK-4 has short half-life; MK-7 has longer half-life.
+
+## Mechanism
 
 Vitamin K2 (MK-4 and MK-7 isoforms) activates osteocalcin via carboxylation. Carboxylated osteocalcin binds  ions more effectively, anchoring them in bone matrix. MK-4 has short half-life; MK-7 has longer half-life.
 
@@ -34,7 +42,15 @@ Vitamin K2 (MK-4 and MK-7 isoforms) activates osteocalcin via carboxylation. Car
 *UID: Z-001-0092 | Domain: 001 | Created: 2026-03-01*
 
 
+## Mechanism
+
+Vitamin K2 (MK-4 and MK-7 isoforms) activates osteocalcin via carboxylation. Carboxylated osteocalcin binds  ions more effectively, anchoring them in bone matrix. MK-4 has short half-life; MK-7 has longer half-life.
+
 ## Core Principle
+
+Vitamin K2 (MK-4 and MK-7 isoforms) activates osteocalcin via carboxylation. Carboxylated osteocalcin binds  ions more effectively, anchoring them in bone matrix. MK-4 has short half-life; MK-7 has longer half-life.
+
+## Mechanism
 
 Vitamin K2 (MK-4 and MK-7 isoforms) activates osteocalcin via carboxylation. Carboxylated osteocalcin binds  ions more effectively, anchoring them in bone matrix. MK-4 has short half-life; MK-7 has longer half-life.
 
@@ -43,7 +59,15 @@ Vitamin K2 (MK-4 and MK-7 isoforms) activates osteocalcin via carboxylation. Car
 
 ---
 
+## Mechanism
+
+Vitamin K2 (MK-4 and MK-7 isoforms) activates osteocalcin via carboxylation. Carboxylated osteocalcin binds  ions more effectively, anchoring them in bone matrix. MK-4 has short half-life; MK-7 has longer half-life.
+
 ## Core Principle
+
+Vitamin K2 (MK-4 and MK-7 isoforms) activates osteocalcin via carboxylation. Carboxylated osteocalcin binds  ions more effectively, anchoring them in bone matrix. MK-4 has short half-life; MK-7 has longer half-life.
+
+## Mechanism
 
 Vitamin K2 (MK-4 and MK-7 isoforms) activates osteocalcin via carboxylation. Carboxylated osteocalcin binds  ions more effectively, anchoring them in bone matrix. MK-4 has short half-life; MK-7 has longer half-life.
 

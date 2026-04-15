@@ -181,6 +181,10 @@ patient_id,visit,fasting_glucose_mg_dl,fasting_insulin_uu_ml,homa_ir,homa_ir_sta
 
 **HOMA-IR** (Homeostatic Model Assessment for Insulin Resistance) estimates insulin resistance from fasting glucose and fasting insulin. It's the most widely used clinical surrogate for insulin clamp studies.
 
+## Significance
+
+source-litnote: Synthesized from clinical practice
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

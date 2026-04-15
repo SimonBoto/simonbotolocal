@@ -14,8 +14,16 @@ extraction-date: 2026-03-08
 
 # Metabolic Fossils — Ancient Pathway Remnants
 
+## Mechanism
+
+| **Ribosomes** | rRNA catalyzes peptide bonds (peptidyl transferase) |
+
 ## Core Claim
 **Modern metabolism retains "metabolic fossils" — features reflecting evolutionary history including RNA catalysts (ribosomes, RNase P), iron-sulfur clusters (pre-organic cofactors), and reversible reactions from the pre-oxygen era** — these remnants reveal how metabolism emerged and evolved over billions of years, with the RNA world leaving particularly strong evidence in modern cells.
+
+## Mechanism
+
+| **Ribosomes** | rRNA catalyzes peptide bonds (peptidyl transferase) |
 
 ## Evidence
 

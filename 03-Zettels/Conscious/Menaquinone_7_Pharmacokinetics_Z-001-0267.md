@@ -68,6 +68,10 @@ Menaquinone-7 (MK-7) exhibits superior pharmacokinetic properties compared to ot
 - Combined with high-dose vitamin D to maximize synthesis of K-dependent proteins
 - Dosing protocol optimized for PK profile (once-daily, consistent timing)
 
+## Significance
+
+- **Lower effective doses:** 100-200 mcg/day sufficient for therapeutic effect
+
 ## Safety Considerations
 - No adverse effects reported at doses up to 450 mcg/day
 - No interactions with anticoagulants at therapeutic doses

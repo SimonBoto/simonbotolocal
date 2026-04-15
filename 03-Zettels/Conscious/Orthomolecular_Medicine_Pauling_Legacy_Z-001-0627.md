@@ -135,6 +135,10 @@ Pauling founded orthomolecular medicine — the practice of preventing and treat
 
 Pauling founded orthomolecular medicine — the practice of preventing and treating disease by providing the body with optimal amounts of natural substances it requires — a paradigm that challenges deficiency-based medicine and is gaining scientific validation decades later.
 
+## Significance
+
+Pauling founded orthomolecular medicine — the practice of preventing and treating disease by providing the body with optimal amounts of natural substances it requires — a paradigm that challenges deficiency-based medicine and is gaining scientific validation decades later.
+
 ## Source
 [[LitNote_KingOfVitamins_Pauling_Vitamin_C_2025_L-001-0656]] — Vitamin King (2025)
 

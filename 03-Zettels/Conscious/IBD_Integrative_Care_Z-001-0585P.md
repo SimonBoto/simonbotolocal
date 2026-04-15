@@ -48,5 +48,9 @@ Crohn's: Transmural healing → Fistulas/strictures prevention → Surgery often
 - [[IBD_Medical_Therapy_Z-001-0585L]]
 - [[IBD_Nutritional_Management_Z-001-0585K]]
 
+## Significance
+
+Integrative care approaches for IBD must be tailored to the distinct pathophysiological patterns of Crohn's disease (focusing on barrier repair, microbiome modulation, and transmural healing) versus ulcerative colitis (focusing on mucosal integrity, anti-inflammatory approaches, and rectal delivery systems).
+
 ## References
 - [[CGPT_0209_Gastroenterology_Registrar_Assessment_CGPT-0209]]

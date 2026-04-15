@@ -306,6 +306,10 @@ Glycemic control in diabetic chronic kidney disease (CKD) requires balancing ben
 
 ---
 
+## Significance
+
+Glycemic control in diabetic chronic kidney disease (CKD) requires balancing benefits of reduced microvascular complications against risks of hypoglycemia, particularly as kidney function declines.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

@@ -85,6 +85,10 @@ status: conscious
 
 > **Definition:** Meta-regression is a statistical technique that examines the relationship between study-level characteristics (covariates) and effect sizes in a meta-analysis, allowing exploration of sources of heterogeneity.
 
+## Significance
+
+- **Participant characteristics:** Mean age, percentage female, disease severity
+
 ## Related Concepts
 
 - [[Subgroup_Analysis_Meta_Z-001-0580M]]

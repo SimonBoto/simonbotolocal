@@ -113,6 +113,10 @@ status: conscious
 
 ---
 
+## Significance
+
+- Effective DMARD treatment associated with immune "rejuvenation"
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

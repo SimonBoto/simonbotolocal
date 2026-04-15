@@ -66,6 +66,10 @@ studies (Gallo, Saadi, Gordon, Stoss therapy) demonstrate safety of doses 2-50x 
 
 studies (Gallo, Saadi, Gordon, Stoss therapy) demonstrate safety of doses 2-50x RDA with systematic monitoring. Essential parameters: serum 25(OH)D, , phosphate, creatinine/eGFR, urinary calcium/creatinine ratio.
 
+## Significance
+
+tags: [zettel, vitamin-d, monitoring, safety-protocol, clinical-practice]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

@@ -75,6 +75,10 @@ Research without social or clinical value is unethical regardless of other safeg
 
 Research without social or clinical value is unethical regardless of other safeguards. The fundamental question must be important enough to justify exposing participants to any risk.
 
+## Significance
+
+tags: [zettel, research-ethics, clinical-trials, emmanuel-seven]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

@@ -85,6 +85,10 @@ extraction-date: 2026-03-01
 
 > Response to B12 therapy is itself diagnostic: reticulocytosis peaks at 5-7 days, hemoglobin rises by 2 months; no response suggests alternative diagnosis.
 
+## Significance
+
+tags: [zettel, treatment, response, b12, diagnosis]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

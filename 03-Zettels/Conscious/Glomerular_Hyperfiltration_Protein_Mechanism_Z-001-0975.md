@@ -13,7 +13,15 @@ status: conscious
 
 # Glomerular Hyperfiltration — Protein-Induced 
 
+## Mechanism
+
+High protein intake increases glomerular filtration rate (GFR) through multiple mechanisms, potentially accelerating kidney damage in susceptible individuals.
+
 ## Core Concept
+
+High protein intake increases glomerular filtration rate (GFR) through multiple mechanisms, potentially accelerating kidney damage in susceptible individuals.
+
+## Mechanism
 
 High protein intake increases glomerular filtration rate (GFR) through multiple mechanisms, potentially accelerating kidney damage in susceptible individuals.
 

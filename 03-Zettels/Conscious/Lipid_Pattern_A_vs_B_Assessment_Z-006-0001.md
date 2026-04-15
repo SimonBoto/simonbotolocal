@@ -229,6 +229,10 @@ patient_id,visit,ldl_c_mg_dl,apo_b_mg_dl,ldl_apob_ratio,pattern_type,tg_hdl_rati
 
 **Lipid patterns** describe LDL particle size and density. Pattern A (large, buoyant LDL) is low risk; Pattern B (small, dense LDL) is high risk and strongly associated with insulin resistance.
 
+## Significance
+
+tags: [zettel, biomarker, lipid-metabolism, status/optimal, clinical-protocol]
+
 ## Connection to Vault
 
 - Up: [[MOC-Mitochondrial-Function]]

@@ -59,6 +59,10 @@ This zettel documents evidence-based guidelines for testosterone replacement the
 
 This zettel documents evidence-based guidelines for testosterone replacement therapy (TRT) in males with hypogonadism.
 
+## Significance
+
+- Prostate cancer or untreated prostate cancer risk
+
 ## Monitoring Parameters
 
 - Testosterone levels (trough levels)

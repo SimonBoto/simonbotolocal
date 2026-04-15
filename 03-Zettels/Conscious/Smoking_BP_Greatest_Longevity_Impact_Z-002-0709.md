@@ -27,6 +27,10 @@ Among the five modifiable risk factors, **smoking cessation and blood pressure c
 | 3 | Weight/diabetes | Significant |
 | 5 | Cholesterol | Minimal |
 
+## Significance
+
+Among the five modifiable risk factors, **smoking cessation and blood pressure control provide the greatest individual contributions to longevity**, while cholesterol shows minimal independent impact.
+
 ## Source
 - **LitNote:** [[L-002-0191_Lifestyle_Diet_Disease_Determinants]]
 

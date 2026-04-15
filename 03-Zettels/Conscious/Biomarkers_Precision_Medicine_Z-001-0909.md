@@ -183,6 +183,10 @@ Precision medicine aims to deliver **"the right treatment, to the right patient,
 
 Precision medicine aims to deliver **"the right treatment, to the right patient, at the right time."**  are the foundation — objectively measurable characteristics that reflect biological processes, pathology, or pharmacological responses.
 
+## Significance
+
+tags: [zettel, biomarkers, precision-medicine, predictive, prognostic, pharmacodynamic, clinical-translation, conscious]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

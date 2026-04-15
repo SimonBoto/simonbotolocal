@@ -78,6 +78,10 @@ extraction-date: 2026-03-01
 
 > Despite affecting folate  and bone marrow function, MTHFR polymorphisms are not directly correlated with multiple myeloma pathogenesis.
 
+## Significance
+
+- MTHFR variants not enriched in MM patients
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

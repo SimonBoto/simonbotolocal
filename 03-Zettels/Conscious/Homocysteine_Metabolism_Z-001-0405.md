@@ -148,6 +148,10 @@ Cystathionine → Cysteine + α-ketobutyrate
 
 > Homocysteine sits at a critical metabolic crossroads between re to methionine (B12/folate-dependent) and transsulfuration to cysteine (B6-dependent), with elevated levels serving as a cardiovascular risk factor.
 
+## Significance
+
+> Homocysteine sits at a critical metabolic crossroads between re to methionine (B12/folate-dependent) and transsulfuration to cysteine (B6-dependent), with elevated levels serving as a cardiovascular risk factor.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

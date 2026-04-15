@@ -48,5 +48,9 @@ Dysregulated immune response → Gut microbiota interaction → Barrier defect �
 - [[Ulcerative_Colitis_Mucosal_Z-001-0585C]]
 - [[IBD_Immune_Mechanisms_Z-001-0585D]]
 
+## Significance
+
+This clinical synthesis establishes the fundamental pathophysiological distinctions between Crohn's disease and ulcerative colitis, providing a comprehensive framework for differential diagnosis based on distribution patterns, inflammation depth, histological features, serological markers, and treatment approaches.
+
 ## References
 - [[CGPT_0209_Gastroenterology_Registrar_Assessment_CGPT-0209]]

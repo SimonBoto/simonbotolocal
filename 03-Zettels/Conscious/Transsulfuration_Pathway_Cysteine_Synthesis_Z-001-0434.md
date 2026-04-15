@@ -26,7 +26,15 @@ extraction-date: 2026-03-01
 
 # Transsulfuration Pathway — Cysteine Synthesis
 
+## Mechanism
+
+**The transsulfuration pathway converts homocysteine to cysteine via cystathionine, serving as the primary endogenous source of cysteine for glutathione synthesis** — this B6-dependent pathway is activated by high SAM (methionine abundance), creating a metabolic switch that diverts homocysteine toward antioxidant production when methylation capacity is sufficient.
+
 ## Core Claim
+**The transsulfuration pathway converts homocysteine to cysteine via cystathionine, serving as the primary endogenous source of cysteine for glutathione synthesis** — this B6-dependent pathway is activated by high SAM (methionine abundance), creating a metabolic switch that diverts homocysteine toward antioxidant production when methylation capacity is sufficient.
+
+## Mechanism
+
 **The transsulfuration pathway converts homocysteine to cysteine via cystathionine, serving as the primary endogenous source of cysteine for glutathione synthesis** — this B6-dependent pathway is activated by high SAM (methionine abundance), creating a metabolic switch that diverts homocysteine toward antioxidant production when methylation capacity is sufficient.
 
 ## Evidence

@@ -15,7 +15,15 @@ extraction-date: 2026-03-01
 
 > Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
 
+## Mechanism
+
+> Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
+
 ## Core Principle
+
+> Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
+
+## Mechanism
 
 > Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
 
@@ -41,7 +49,15 @@ extraction-date: 2026-03-01
 - Mg stimulates prostacyclin (PGI₂) synthesis
 - PGI₂: Potent vasodilator and platelet inhibitor
 
+## Mechanism
+
+> Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
+
 ## Core Principle
+
+> Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
+
+## Mechanism
 
 > Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
 
@@ -64,7 +80,15 @@ extraction-date: 2026-03-01
 - Reduces angiotensin II-mediated vasoconstriction
 - Supports physiological RAAS regulation
 
+## Mechanism
+
+> Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
+
 ## Core Principle
+
+> Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
+
+## Mechanism
 
 > Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
 
@@ -96,7 +120,15 @@ extraction-date: 2026-03-01
 - Higher baseline BP
 - Longer duration of supplementation
 
+## Mechanism
+
+> Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
+
 ## Core Principle
+
+> Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
+
+## Mechanism
 
 > Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
 
@@ -120,7 +152,15 @@ extraction-date: 2026-03-01
 - Slow onset (weeks)
 - Variable bioavailability
 
+## Mechanism
+
+> Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
+
 ## Core Principle
+
+> Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
+
+## Mechanism
 
 > Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
 
@@ -147,7 +187,15 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 
+## Mechanism
+
+> Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
+
 ## Core Principle
+
+> Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
+
+## Mechanism
 
 > Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
 
@@ -159,7 +207,15 @@ extraction-date: 2026-03-01
 
 ---
 
+## Mechanism
+
+> Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
+
 ## Core Principle
+
+> Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
+
+## Mechanism
 
 > Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
 

@@ -50,6 +50,10 @@ related: []
 - **Metabolic context** improves (insulin sensitivity, inflammation)
 - **Overall risk profile** improves despite higher LDL
 
+## Significance
+
+**Low-carbohydrate diets produce minor increases in LDL cholesterol (+5 mg/dL) and total cholesterol (+4 mg/dL), but these increases do NOT negate overall metabolic benefits or increase CVD risk** when accompanied by improvements in triglycerides, HDL, blood pressure, and inflammation.
+
 ## Conclusion
 Statin-like LDL reduction is **not necessary** when metabolic markers improve. The net effect is **CVD risk reduction**.
 

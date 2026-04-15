@@ -110,6 +110,10 @@ See: [[Vitamin_C_to_Oxalate_Chemistry_Z-101-0469]
 
 ---
 
+## Significance
+
+- **Clinical relevance:** Kidney stone risk
+
 ## Connection to Vault
 
 - Up: [[MOC-Vitamin-Metabolism]]

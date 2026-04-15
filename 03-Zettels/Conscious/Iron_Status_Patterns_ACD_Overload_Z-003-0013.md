@@ -182,6 +182,10 @@ Iron status cannot be assessed by ferritin alone. **Three distinct patterns** re
 
 Iron status cannot be assessed by ferritin alone. **Three distinct patterns** require different interpretations and interventions: true deficiency, anemia of chronic disease (functional deficiency), and iron overload.
 
+## Significance
+
+tags: [zettel, biomarker, iron, status/deficient, status/toxic, clinical-protocol]
+
 ## Connection to Vault
 
 - Up: [[MOC-Vitamin-Metabolism]]

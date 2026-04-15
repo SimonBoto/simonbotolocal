@@ -49,5 +49,9 @@ Dysregulated immune response → Gut microbiota interaction → Barrier defect �
 - [[IBD_Complications_Management_Z-001-0585N]]
 - [[IBD_Nutritional_Management_Z-001-0585K]]
 
+## Significance
+
+Metabolic bone disease is a significant comorbidity in IBD, with increased prevalence in Crohn's disease due to malabsorption, vitamin D deficiency, and chronic inflammation, while in ulcerative colitis it's primarily related to chronic inflammation and corticosteroid use.
+
 ## References
 - [[CGPT_0209_Gastroenterology_Registrar_Assessment_CGPT-0209]]

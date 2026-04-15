@@ -86,6 +86,10 @@ status: conscious
 
 > **Definition:** GRADE (Grading of Recommendations Assessment, Development and Evaluation) is a systematic approach for rating the quality of evidence and strength of recommendations in healthcare, assessing confidence in effect estimates based on study design and methodological limitations.
 
+## Significance
+
+3. **Indirectness:** Differences in populations, interventions, or outcomes
+
 ## Related Concepts
 
 - [[Risk_of_Bias_Assessment_Z-001-0580G]]

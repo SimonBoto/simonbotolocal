@@ -105,6 +105,10 @@ Ethical obligations to participants continue throughout the study and beyond. Pr
 
 Ethical obligations to participants continue throughout the study and beyond. Privacy must be protected, confidentiality maintained, and well-being monitored continuously.
 
+## Significance
+
+| **New information** | Share emerging risks or findings |
+
 ## Connection to Vault
 
 - Up: [[MOC-Methylation]]

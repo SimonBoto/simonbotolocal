@@ -170,6 +170,10 @@ Standard thyroid ranges are wide (TSH 0.4-4.0 mIU/L) and miss subclinical dysfun
 
 Standard thyroid ranges are wide (TSH 0.4-4.0 mIU/L) and miss subclinical dysfunction. **Optimal metabolic function requires tighter targets** — TSH 0.5-2.5, with fT3 and fT4 in upper quartiles.
 
+## Significance
+
+tags: [zettel, biomarker, thyroid, status/optimal, clinical-protocol]
+
 ## Connection to Vault
 
 - Up: [[MOC-Vitamin-Metabolism]]

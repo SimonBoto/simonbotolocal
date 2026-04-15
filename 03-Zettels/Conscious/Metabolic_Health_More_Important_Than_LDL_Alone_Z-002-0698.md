@@ -27,6 +27,10 @@ related: []
 | **Metabolic syndrome** | High |
 | **LDL alone** | Lower |
 
+## Significance
+
+**Overall metabolic health** — including insulin sensitivity, inflammation status, and metabolic syndrome components — is a stronger predictor of cardiovascular outcomes than LDL cholesterol alone.
+
 ## Source
 - **LitNote:** [[L-002-0187_High_LDL_No_Mortality_Healthy]]
 

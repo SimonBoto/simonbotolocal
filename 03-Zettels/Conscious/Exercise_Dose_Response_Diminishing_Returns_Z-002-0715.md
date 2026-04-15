@@ -37,6 +37,10 @@ Mortality benefit
 | "Some is much better than none" | Biggest benefit at low end |
 | "More is better, but gentler slope" | Don't discourage if not optimal |
 
+## Significance
+
+**Exercise shows diminishing returns** — the greatest mortality benefits occur at low doses, with additional exercise providing smaller incremental gains.
+
 ## Source
 - **LitNote:** [[L-002-0193_Minimal_Exercise_Dose_Mortality]]
 

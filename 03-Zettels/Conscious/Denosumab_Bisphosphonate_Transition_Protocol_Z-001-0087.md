@@ -48,6 +48,10 @@ When discontinuing denosumab, guidelines recommend transitioning to bisphosphona
 
 When discontinuing denosumab, guidelines recommend transitioning to bisphosphonate therapy to mitigate rebound bone loss and fracture risk. Timing is critical—bisphosphonate should be initiated before denosumab wears off completely.
 
+## Significance
+
+When discontinuing denosumab, guidelines recommend transitioning to bisphosphonate therapy to mitigate rebound bone loss and fracture risk. Timing is critical—bisphosphonate should be initiated before denosumab wears off completely.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

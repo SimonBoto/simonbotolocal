@@ -132,6 +132,10 @@ When standard follow-up fails, structured escalation protects your interests whi
 
 When standard follow-up fails, structured escalation protects your interests while preserving professional relationships. Escalation should be proportional and documented.
 
+## Significance
+
+| **Appear impatient** | Document timeline, show reasonableness |
+
 ## Connection to Vault
 
 - Up: [[MOC-Research-Ethics]]

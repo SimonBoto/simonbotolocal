@@ -135,6 +135,10 @@ Reference          Natural course           Treatment effect
 
 ---
 
+## Significance
+
+The METHAP trial employs a dual control strategy: metabolically healthy participants serve as metabolic reference standards, while non-intervention insulin-resistant participants control for natural disease progression.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

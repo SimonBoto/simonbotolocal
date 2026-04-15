@@ -25,7 +25,15 @@ extraction-date: 2026-03-01
 
 # Methionine Cycle — Activation and Regeneration
 
+## Mechanism
+
+**The methionine cycle activates methionine to SAM (universal methyl donor) for methylation reactions, then processes the byproduct SAH to homocysteine, which is either remethylated to methionine (B12-dependent) or enters transsulfuration (B6-dependent)** — this creates a metabolic switch between methylation and antioxidant synthesis.
+
 ## Core Claim
+**The methionine cycle activates methionine to SAM (universal methyl donor) for methylation reactions, then processes the byproduct SAH to homocysteine, which is either remethylated to methionine (B12-dependent) or enters transsulfuration (B6-dependent)** — this creates a metabolic switch between methylation and antioxidant synthesis.
+
+## Mechanism
+
 **The methionine cycle activates methionine to SAM (universal methyl donor) for methylation reactions, then processes the byproduct SAH to homocysteine, which is either remethylated to methionine (B12-dependent) or enters transsulfuration (B6-dependent)** — this creates a metabolic switch between methylation and antioxidant synthesis.
 
 ## Evidence

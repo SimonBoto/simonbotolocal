@@ -153,6 +153,10 @@ extraction-date: 2026-03-01
 
 > Ancel Keys' Seven Countries Study became the most influential  in  history, establishing the diet-heart hypothesis that linked saturated fat intake to cardiovascular disease and shaped global dietary guidelines for half a century.
 
+## Significance
+
+> Ancel Keys' Seven Countries Study became the most influential  in  history, establishing the diet-heart hypothesis that linked saturated fat intake to cardiovascular disease and shaped global dietary guidelines for half a century.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

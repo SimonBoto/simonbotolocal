@@ -83,6 +83,10 @@ status: conscious
 
 > **Definition:** Inclusion and exclusion criteria are explicit, pre-defined conditions used to determine which studies are eligible for inclusion in a systematic review based on their methodological characteristics, population, interventions, outcomes, and study design.
 
+## Significance
+
+> **Definition:** Inclusion and exclusion criteria are explicit, pre-defined conditions used to determine which studies are eligible for inclusion in a systematic review based on their methodological characteristics, population, interventions, outcomes, and study design.
+
 ## Related Concepts
 
 - [[Systematic_Review_Principles_Z-001-0580B]]

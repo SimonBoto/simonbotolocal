@@ -79,6 +79,10 @@ extraction-date: 2026-03-01
 
 > The Seven Countries Study examined 12,763 men across 16 cohorts in 7 countries using population-level ecological data to investigate diet-heart relationships.
 
+## Significance
+
+**MUFA/SFA** claimed to predict 85-96% mortality variance
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

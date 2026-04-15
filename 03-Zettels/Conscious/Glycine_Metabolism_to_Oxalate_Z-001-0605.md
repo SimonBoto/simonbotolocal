@@ -82,6 +82,10 @@ Glyoxylate → Oxalate (oxidation)
 
 ---
 
+## Significance
+
+- [[Primary_Hyperoxaluria_Genetic_Z-001-0610] — PH1 disease
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

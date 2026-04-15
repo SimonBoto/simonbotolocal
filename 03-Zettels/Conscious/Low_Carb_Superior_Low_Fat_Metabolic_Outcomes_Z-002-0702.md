@@ -27,6 +27,10 @@ Low-carbohydrate diets produce **superior metabolic outcomes** compared to low-f
 | **Triglycerides** | Lower | Higher |
 | **HDL** | Higher | Lower |
 
+## Significance
+
+tags: [zettel, low-carb, low-fat, metabolic-outcomes, comparison]
+
 ## Source
 - **LitNote:** [[L-002-0189_Low_Carb_vs_Low_Fat]]
 

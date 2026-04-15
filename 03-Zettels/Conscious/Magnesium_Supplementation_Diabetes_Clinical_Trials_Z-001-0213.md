@@ -166,6 +166,10 @@ extraction-date: 2026-03-01
 
 > Randomized controlled trials demonstrate that magnesium supplementation improves  sensitivity, reduces inflammatory markers, and may improve glycemic control, particularly in magnesium-deficient individuals.
 
+## Significance
+
+tags: [zettel, magnesium, clinical-trials, supplementation, diabetes, metabolic-syndrome]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

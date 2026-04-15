@@ -57,6 +57,10 @@ This zettel addresses fertility preservation strategies for men undergoing testo
 
 This zettel addresses fertility preservation strategies for men undergoing testosterone replacement therapy.
 
+## Significance
+
+- Document informed consent regarding fertility risks
+
 ## Evidence-Based Recommendations
 
 - hCG (1000-2000 IU 2-3x/week) maintains testicular size and spermatogenesis

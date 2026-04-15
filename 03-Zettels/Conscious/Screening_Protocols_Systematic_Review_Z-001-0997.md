@@ -371,6 +371,10 @@ Study screening is the process of evaluating search results against inclusion an
 
 ---
 
+## Significance
+
+| **Setting** | Outpatient | Inpatient only |
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

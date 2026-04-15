@@ -145,6 +145,10 @@ Before claiming "biomarker identified":
 
 ---
 
+## Significance
+
+source-litnote: Synthesized from clinical practice
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

@@ -150,6 +150,10 @@ Result: Low circulating vitamin D despite adequate intake/sun
 
 > Magnesium is an essential cofactor for the cytochrome P450 hydroxylases that activate vitamin D, making adequate magnesium status critical for optimal vitamin D  and function.
 
+## Significance
+
+- Explains "vitamin D resistance" in Mg-deficient patients
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

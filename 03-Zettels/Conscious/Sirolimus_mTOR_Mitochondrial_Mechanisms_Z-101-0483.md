@@ -174,6 +174,10 @@ mTORC1 inhibited → Autophagy induced → Cellular component clearance
 
 ---
 
+## Significance
+
+| **Heart** | Very high | High (cardiomyopathy risk) |
+
 ## Connection to Vault
 
 - Up: [[MOC-Mitochondrial-Function]]

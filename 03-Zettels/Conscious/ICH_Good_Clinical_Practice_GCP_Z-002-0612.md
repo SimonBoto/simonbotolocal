@@ -83,6 +83,10 @@ While METHAP is not a pharmaceutical trial, GCP principles apply:
 
 ---
 
+## Significance
+
+aliases: [Z-002-0612, ich-gcp, clinical-trial-standards]
+
 ## Connection to Vault
 
 - Up: [[MOC-Research-Ethics]]

@@ -182,6 +182,10 @@ patient_id,visit,anti_tpo_iu_ml,anti_tg_iu_ml,hashimoto_status
 
 **Hashimoto's thyroiditis** is the most common cause of hypothyroidism. **Anti-TPO (thyroid peroxidase)** and **Anti-TG (thyroglobulin)** antibodies mark the autoimmune attack. Early detection allows intervention before overt hypothyroidism develops.
 
+## Significance
+
+tags: [zettel, biomarker, thyroid, autoimmune, clinical-protocol]
+
 ## Connection to Vault
 
 - Up: [[MOC-Vitamin-Metabolism]]

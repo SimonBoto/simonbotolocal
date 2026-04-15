@@ -257,6 +257,10 @@ Severe T2DM (HbA1c>9) vs. healthy: Effect size f=0.35, need n=100/group
 
 **Reality:** Most PhD projects cannot achieve 500+ subjects per group. Strategic design allows meaningful science with feasible samples.
 
+## Significance
+
+source-litnote: Synthesized from clinical practice
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

@@ -49,5 +49,9 @@ Distribution: Any GI vs Colon only → Pattern: Skip vs Continuous → Depth: Tr
 - [[Crohns_Disease_Transmural_Z-001-0585B]]
 - [[Ulcerative_Colitis_Mucosal_Z-001-0585C]]
 
+## Significance
+
+The immune mechanisms underlying IBD differ fundamentally between Crohn's disease (Th1/Th17 dominance) and ulcerative colitis (Th2 dominance), explaining the distinct inflammatory patterns, serological markers, and treatment responses.
+
 ## References
 - [[CGPT_0209_Gastroenterology_Registrar_Assessment_CGPT-0209]]

@@ -19,6 +19,10 @@ related: []
 ## Core Claim
 Developed countries have 90% of deaths from chronic disease.
 
+## Significance
+
+tags: [zettel, chronic-disease, developed-countries]
+
 ## Source
 - **LitNote:** [[L-002-0202_Chronic_Disease_74pct_Global_Deaths]]
 

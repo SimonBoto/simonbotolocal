@@ -49,5 +49,9 @@ Transmural inflammation → Skip lesions → Any GI segment → Granulomas → T
 - [[IBD_Immune_Mechanisms_Z-001-0585D]]
 - [[IBD_Complications_Management_Z-001-0585N]]
 
+## Significance
+
+Crohn's disease is characterized by transmural (full-thickness) inflammation that affects any part of the gastrointestinal tract, leading to complications such as fistulas, strictures, and transmural healing requirements.
+
 ## References
 - [[CGPT_0209_Gastroenterology_Registrar_Assessment_CGPT-0209]]

@@ -39,6 +39,10 @@ Low-carbohydrate diets consistently produce **superior lipid profiles** compared
 > "Low-carbohydrate diets reduce triglycerides and increase HDL cholesterol compared to low-fat diets, improving the lipid profile in ways associated with reduced cardiovascular risk."
 > — Carbohydrate restriction studies
 
+## Significance
+
+Low-carbohydrate diets consistently produce **superior lipid profiles** compared to low-fat diets — specifically reducing triglycerides and increasing HDL cholesterol, two key markers of cardiovascular risk.
+
 ## Source
 - **LitNote:** [[L-002-0185_Carb_Restriction_CVD_Risk]]
 

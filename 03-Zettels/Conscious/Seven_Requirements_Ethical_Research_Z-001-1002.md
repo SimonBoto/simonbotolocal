@@ -293,6 +293,10 @@ Ethical research requires more than informed consent. All seven requirements mus
 
 ---
 
+## Significance
+
+tags: [zettel, research-ethics, emanuel, seven-requirements, informed-consent, scientific-validity, risk-benefit, irb, conscious]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

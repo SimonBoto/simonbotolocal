@@ -96,6 +96,10 @@ extraction-date: 2026-03-01
 
 > The Framingham Heart Study's reassessment revealed age-dependent complexities in the cholesterol-CVD relationship, informing modern precision medicine approaches.
 
+## Significance
+
+- Cholesterol identified as CVD risk factor (1948)
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

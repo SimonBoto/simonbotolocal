@@ -125,6 +125,10 @@ extraction-date: 2026-03-01
 
 > B12 deficiency causes functional folate deficiency through the 'methyl trap' , where 5-MTHF accumulates and cannot be converted back to THF for DNA synthesis, despite normal or elevated serum folate levels.
 
+## Significance
+
+- B12 treatment → Resolves both B12 and folate trap
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

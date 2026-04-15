@@ -86,6 +86,10 @@ extraction-date: 2026-03-01
 
 > Bone marrow biopsy is diagnostic: B12 deficiency shows megaloblastic erythropoiesis without clonal plasma cells; MM shows >10% clonal plasma cells with light chain restriction.
 
+## Significance
+
+> Bone marrow biopsy is diagnostic: B12 deficiency shows megaloblastic erythropoiesis without clonal plasma cells; MM shows >10% clonal plasma cells with light chain restriction.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

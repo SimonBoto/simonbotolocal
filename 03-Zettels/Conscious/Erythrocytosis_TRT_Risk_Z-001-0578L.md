@@ -58,6 +58,10 @@ This zettel documents the risk of erythrocytosis (increased red blood cell mass)
 
 This zettel documents the risk of erythrocytosis (increased red blood cell mass) associated with testosterone replacement therapy.
 
+## Significance
+
+This zettel documents the risk of erythrocytosis (increased red blood cell mass) associated with testosterone replacement therapy.
+
 ## Management
 
 - Monitor hematocrit every 3-6 months initially, then annually

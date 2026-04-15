@@ -275,6 +275,10 @@ status: conscious
 
 ---
 
+## Significance
+
+**Question:** Can short-term high protein intake be used to correct hypoalbuminemia in CKD patients?
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

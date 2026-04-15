@@ -33,9 +33,17 @@ Low-dose methotrexate (1/100th of  dose) treats autoimmunity through a mechanism
 
 **METHAP Connection:** Demonstrates how metabolic pathway interventions (purine , AMPK) can treat autoimmunity — similar logic applies to adipic acid/VitD metabolic intervention.
 
+## Mechanism
+
+title: Methotrexate Low-Dose Mechanism via Adenosine
+
 ## Core Principle
 
 Low-dose methotrexate (1/100th of  dose) treats autoimmunity through a mechanism distinct from folate antagonism: AICAR transformylase inhibition causes intracellular AICAR accumulation, which releases extracellular adenosine with potent anti-inflammatory effects.
+
+## Mechanism
+
+title: Methotrexate Low-Dose Mechanism via Adenosine
 
 ## Key Details
 
@@ -46,9 +54,17 @@ Low-dose methotrexate (1/100th of  dose) treats autoimmunity through a mechanism
 | Mechanism | Adenosine anti-inflammatory | Cytotoxicity |
 | Folate rescue | Not needed | Required |
 
+## Mechanism
+
+title: Methotrexate Low-Dose Mechanism via Adenosine
+
 ## Core Principle
 
 Low-dose methotrexate (1/100th of  dose) treats autoimmunity through a mechanism distinct from folate antagonism: AICAR transformylase inhibition causes intracellular AICAR accumulation, which releases extracellular adenosine with potent anti-inflammatory effects.
+
+## Mechanism
+
+title: Methotrexate Low-Dose Mechanism via Adenosine
 
 ## Links
 
@@ -56,9 +72,17 @@ Low-dose methotrexate (1/100th of  dose) treats autoimmunity through a mechanism
 - **Parallel:** [[Metformin_AMPK_mTOR_Immunometabolism_Z-101-0002.md] — Also activates AMPK
 - **Downstream:** , 
 
+## Mechanism
+
+title: Methotrexate Low-Dose Mechanism via Adenosine
+
 ## Core Principle
 
 Low-dose methotrexate (1/100th of  dose) treats autoimmunity through a mechanism distinct from folate antagonism: AICAR transformylase inhibition causes intracellular AICAR accumulation, which releases extracellular adenosine with potent anti-inflammatory effects.
+
+## Mechanism
+
+title: Methotrexate Low-Dose Mechanism via Adenosine
 
 ## Context
 
@@ -71,9 +95,17 @@ Low-dose methotrexate (1/100th of  dose) treats autoimmunity through a mechanism
 *UID: Z-101-0005 | Domain: 101 | Created: 2026-02-24*
 
 
+## Mechanism
+
+title: Methotrexate Low-Dose Mechanism via Adenosine
+
 ## Core Principle
 
 Low-dose methotrexate (1/100th of  dose) treats autoimmunity through a mechanism distinct from folate antagonism: AICAR transformylase inhibition causes intracellular AICAR accumulation, which releases extracellular adenosine with potent anti-inflammatory effects.
+
+## Mechanism
+
+title: Methotrexate Low-Dose Mechanism via Adenosine
 
 ## RELATED FILES
 - [[CRP_[B-002-0001]|Biomarker Family]
@@ -84,9 +116,17 @@ Low-dose methotrexate (1/100th of  dose) treats autoimmunity through a mechanism
 
 ---
 
+## Mechanism
+
+title: Methotrexate Low-Dose Mechanism via Adenosine
+
 ## Core Principle
 
 Low-dose methotrexate (1/100th of  dose) treats autoimmunity through a mechanism distinct from folate antagonism: AICAR transformylase inhibition causes intracellular AICAR accumulation, which releases extracellular adenosine with potent anti-inflammatory effects.
+
+## Mechanism
+
+title: Methotrexate Low-Dose Mechanism via Adenosine
 
 ## Connection to Vault
 

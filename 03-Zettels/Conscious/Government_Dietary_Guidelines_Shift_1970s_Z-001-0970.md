@@ -315,6 +315,10 @@ The 1977-1980 dietary guideline shift:
 
 ---
 
+## Significance
+
+By the 1970s, concern about heart disease reached political levels. Senator George McGovern's committee hearings led to the first official US dietary recommendations, marking a watershed moment in the relationship between government, science, and food.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

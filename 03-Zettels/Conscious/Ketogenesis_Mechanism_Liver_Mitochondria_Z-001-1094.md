@@ -25,7 +25,15 @@ extraction-date: 2026-03-08
 
 # Ketogenesis Mechanism — Liver Mitochondria
 
+## Mechanism
+
+**Ketogenesis is the liver-specific process that converts fatty acid-derived acetyl-CoA into ketone bodies (BHB, acetoacetate, acetone) during low-insulin states, providing an alternative fuel for brain and muscle when glucose is scarce** — this HMG-CoA-dependent pathway is essential for survival during fasting.
+
 ## Core Claim
+**Ketogenesis is the liver-specific process that converts fatty acid-derived acetyl-CoA into ketone bodies (BHB, acetoacetate, acetone) during low-insulin states, providing an alternative fuel for brain and muscle when glucose is scarce** — this HMG-CoA-dependent pathway is essential for survival during fasting.
+
+## Mechanism
+
 **Ketogenesis is the liver-specific process that converts fatty acid-derived acetyl-CoA into ketone bodies (BHB, acetoacetate, acetone) during low-insulin states, providing an alternative fuel for brain and muscle when glucose is scarce** — this HMG-CoA-dependent pathway is essential for survival during fasting.
 
 ## Evidence

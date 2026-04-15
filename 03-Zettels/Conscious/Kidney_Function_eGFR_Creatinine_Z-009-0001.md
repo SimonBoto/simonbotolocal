@@ -174,6 +174,10 @@ patient_id,visit,creatinine_mg_dl,egfr_ml_min,urea_mg_dl,uric_acid_mg_dl,kidney_
 
 **Estimated glomerular filtration rate (eGFR)** is the best overall measure of kidney function. **Creatinine** is the filtration marker, but interpretation requires consideration of muscle mass, diet, and medications.
 
+## Significance
+
+tags: [zettel, biomarker, kidney, status/optimal, clinical-protocol]
+
 ## Connection to Vault
 
 - Up: [[MOC-Mitochondrial-Function]]

@@ -137,6 +137,10 @@ Homocysteine ──[BHMT: betaine]──> Methionine
 
 **Homocysteine** is a sulfur-containing amino acid that accumulates when methylation is impaired. It's a **composite marker** — elevated homocysteine indicates dysfunction in B12, folate, B6, or iron . **If homocysteine is high, methylation is broken.**
 
+## Significance
+
+tags: [zettel, biomarker, methylation, status/optimal, clinical-protocol, phd-methap]
+
 ## Connection to Vault
 
 - Up: [[MOC-Vitamin-Metabolism]]

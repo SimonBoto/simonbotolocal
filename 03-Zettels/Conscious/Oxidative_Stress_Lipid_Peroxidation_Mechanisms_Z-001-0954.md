@@ -13,9 +13,17 @@ status: conscious
 
 # Oxidative Stress — Lipid Peroxidation Mechanisms
 
+## Mechanism
+
+- Two-step process via prostaglandin-like intermediates
+
 ## Core Concept
 
 Polyunsaturated fatty acids (PUFAs), particularly omega-6 linoleic acid, are **highly susceptible to oxidation** due to multiple double bonds. This lipid peroxidation generates reactive aldehydes that cause cellular damage and propagate oxidative stress.
+
+## Mechanism
+
+- Two-step process via prostaglandin-like intermediates
 
 ## Why PUFAs Are Vulnerable
 

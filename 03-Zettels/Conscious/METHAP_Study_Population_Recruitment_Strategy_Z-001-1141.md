@@ -126,6 +126,10 @@ The METHAP ( and Insulin Resistance) trial recruits 220 participants stratified 
 
 ---
 
+## Significance
+
+| **No metabolic disease** | No diabetes, CVD, metabolic syndrome |
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

@@ -14,7 +14,15 @@ extraction-date: 2026-03-03
 
 # Mevalonate Pathway Step by Step
 
+## Mechanism
+
+**The mevalonate pathway converts three acetyl-CoA molecules into isopentenyl pyrophosphate (IPP) through six enzymatic steps — with HMG-CoA reductase as the rate-limiting regulatory point — consuming 2 NADPH and 2 ATP to produce the central building block for cholesterol, CoQ10, and all isoprenoid biomolecules.**
+
 ## Core Claim
+**The mevalonate pathway converts three acetyl-CoA molecules into isopentenyl pyrophosphate (IPP) through six enzymatic steps — with HMG-CoA reductase as the rate-limiting regulatory point — consuming 2 NADPH and 2 ATP to produce the central building block for cholesterol, CoQ10, and all isoprenoid biomolecules.**
+
+## Mechanism
+
 **The mevalonate pathway converts three acetyl-CoA molecules into isopentenyl pyrophosphate (IPP) through six enzymatic steps — with HMG-CoA reductase as the rate-limiting regulatory point — consuming 2 NADPH and 2 ATP to produce the central building block for cholesterol, CoQ10, and all isoprenoid biomolecules.**
 
 ## Evidence

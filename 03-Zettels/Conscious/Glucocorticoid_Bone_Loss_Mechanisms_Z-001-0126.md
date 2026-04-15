@@ -40,6 +40,10 @@ status: conscious
 - **Moderate risk:** DXA every 18–24 months
 - **Low risk:** Clinical assessment only
 
+## Significance
+
+| **Low** | <2.5 mg/day, age <30, no risk factors | Consider monitoring only |
+
 ## Related Zettels
 - [[Glucocorticoid_Osteoporosis_Pathophysiology_Z-001-0125]]
 - [[Glucocorticoid_Osteoporosis_Prevention_Z-001-0127]]

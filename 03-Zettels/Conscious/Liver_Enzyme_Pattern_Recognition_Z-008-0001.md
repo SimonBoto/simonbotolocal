@@ -164,6 +164,10 @@ Liver enzyme elevations follow predictable patterns. Recognizing **hepatocellula
 
 Liver enzyme elevations follow predictable patterns. Recognizing **hepatocellular vs cholestatic vs alcoholic patterns** localizes the problem and guides diagnosis.
 
+## Significance
+
+tags: [zettel, biomarker, liver, status/optimal, clinical-protocol]
+
 ## Connection to Vault
 
 - Up: [[MOC-Mitochondrial-Function]]

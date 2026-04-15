@@ -172,6 +172,10 @@ extraction-date: 2026-03-01
 
 > Vitamin D improves insulin sensitivity through direct actions on pancreatic β-cells, enhanced peripheral glucose uptake, and suppression of inflammatory and oxidative pathways that drive insulin resistance.
 
+## Significance
+
+- Deficient patients: Impaired first-phase insulin response
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

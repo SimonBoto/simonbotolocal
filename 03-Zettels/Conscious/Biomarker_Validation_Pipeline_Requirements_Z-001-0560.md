@@ -208,6 +208,10 @@ Every biomarker paper must state:
 
 ---
 
+## Significance
+
+tags: [zettel, biomarkers, validation, clinical-translation, study-design, research-standards]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

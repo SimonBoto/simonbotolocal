@@ -131,6 +131,10 @@ status: conscious
 
 ---
 
+## Significance
+
+**Key Finding:** Somatic mtDNA mutations accumulate in cancer cells, distinct from germline mitochondrial diseases.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

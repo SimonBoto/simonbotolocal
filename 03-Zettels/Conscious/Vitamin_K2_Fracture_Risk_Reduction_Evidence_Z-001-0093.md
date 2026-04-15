@@ -48,6 +48,10 @@ Several Asian studies demonstrate fracture risk reduction with MK-4 supplementat
 
 Several Asian studies demonstrate fracture risk reduction with MK-4 supplementation in postmenopausal women. Meta-analysis (Cockayne et al., 2006) suggests K2 improves BMD and decreases fracture incidence. Western population data still emerging.
 
+## Significance
+
+Several Asian studies demonstrate fracture risk reduction with MK-4 supplementation in postmenopausal women. Meta-analysis (Cockayne et al., 2006) suggests K2 improves BMD and decreases fracture incidence. Western population data still emerging.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

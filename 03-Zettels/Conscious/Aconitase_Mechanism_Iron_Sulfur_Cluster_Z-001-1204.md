@@ -14,7 +14,15 @@ extraction-date: 2026-03-08
 
 # Aconitase Mechanism and Iron-Sulfur Cluster
 
+## Mechanism
+
+**Aconitase catalyzes the isomerization of citrate to isocitrate via cis-aconitate intermediate in the Krebs cycle — utilizing a catalytic [4Fe-4S] iron-sulfur cluster that binds substrate and facilitates dehydration-rehydration — with the enzyme serving dual functions as both a metabolic catalyst and, when the Fe-S cluster is disassembled, as the iron regulatory protein IRP1.**
+
 ## Core Claim
+**Aconitase catalyzes the isomerization of citrate to isocitrate via cis-aconitate intermediate in the Krebs cycle — utilizing a catalytic [4Fe-4S] iron-sulfur cluster that binds substrate and facilitates dehydration-rehydration — with the enzyme serving dual functions as both a metabolic catalyst and, when the Fe-S cluster is disassembled, as the iron regulatory protein IRP1.**
+
+## Mechanism
+
 **Aconitase catalyzes the isomerization of citrate to isocitrate via cis-aconitate intermediate in the Krebs cycle — utilizing a catalytic [4Fe-4S] iron-sulfur cluster that binds substrate and facilitates dehydration-rehydration — with the enzyme serving dual functions as both a metabolic catalyst and, when the Fe-S cluster is disassembled, as the iron regulatory protein IRP1.**
 
 ## Evidence

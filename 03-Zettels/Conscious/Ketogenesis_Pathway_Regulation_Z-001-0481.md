@@ -26,7 +26,15 @@ extraction-date: 2026-03-04
 
 # Ketogenesis Pathway and Regulation
 
+## Mechanism
+
+**The liver produces ketone bodies from fatty acid β-oxidation during low-insulin states (fasting, ketogenic diet) — acetyl-CoA condenses to acetoacetate via HMG-CoA, which is then reduced to BHB (the major circulating ketone) or spontaneously decarboxylates to acetone** — HMG-CoA synthase is rate-limiting and induced by glucagon/cortisol, while insulin inhibits ketogenesis via malonyl-CoA-mediated CPT-I inhibition.
+
 ## Core Claim
+**The liver produces ketone bodies from fatty acid β-oxidation during low-insulin states (fasting, ketogenic diet) — acetyl-CoA condenses to acetoacetate via HMG-CoA, which is then reduced to BHB (the major circulating ketone) or spontaneously decarboxylates to acetone** — HMG-CoA synthase is rate-limiting and induced by glucagon/cortisol, while insulin inhibits ketogenesis via malonyl-CoA-mediated CPT-I inhibition.
+
+## Mechanism
+
 **The liver produces ketone bodies from fatty acid β-oxidation during low-insulin states (fasting, ketogenic diet) — acetyl-CoA condenses to acetoacetate via HMG-CoA, which is then reduced to BHB (the major circulating ketone) or spontaneously decarboxylates to acetone** — HMG-CoA synthase is rate-limiting and induced by glucagon/cortisol, while insulin inhibits ketogenesis via malonyl-CoA-mediated CPT-I inhibition.
 
 ## Evidence

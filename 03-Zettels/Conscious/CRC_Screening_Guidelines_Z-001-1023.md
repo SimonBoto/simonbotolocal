@@ -371,6 +371,10 @@ parent-index: [[03-Zettels-Conscious]]
 ---
 parent-index: [[03-Zettels-Conscious]]
 
+## Significance
+
+Colorectal cancer (CRC) is the third most common cancer and second leading cause of cancer death. Screening reduces mortality through detection of early-stage cancer and removal of precancerous adenomas.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

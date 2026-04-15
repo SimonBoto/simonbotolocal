@@ -19,6 +19,10 @@ related: []
 ## Core Claim
 Global shift from infectious to chronic disease as primary mortality cause.
 
+## Significance
+
+tags: [zettel, epidemiological-transition, chronic-disease]
+
 ## Source
 - **LitNote:** [[L-002-0202_Chronic_Disease_74pct_Global_Deaths]]
 

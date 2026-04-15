@@ -295,6 +295,10 @@ Histamine + O2 + H2O → Imidazoleacetaldehyde + NH3 + H2O2
 
 ---
 
+## Significance
+
+Diamine oxidase (DAO), also known as histaminase, is the primary enzyme responsible for degrading dietary histamine and maintaining histamine homeostasis in the body. It is distinct from monoamine oxidase (MAO) in structure, function, and clinical significance.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

@@ -191,6 +191,10 @@ Standardized template for documenting and presenting clinical cases in metabolom
 
 ---
 
+## Significance
+
+tags: [zettel, template, case-study, metabolomics, clinical, documentation]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

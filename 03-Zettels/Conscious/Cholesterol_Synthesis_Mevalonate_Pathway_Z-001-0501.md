@@ -13,8 +13,16 @@ extraction-date: 2026-03-01
 
 # Cholesterol Synthesis — Mevalonate Pathway
 
+## Mechanism
+
+- Cholesterol synthesis assessment via OAT markers (mevalonate, HMG metabolites)
+
 ## Core Claim
 HMG-CoA reductase is the rate-limiting enzyme in cholesterol synthesis, subject to multi-level regulation (feedback inhibition, SREBP-2 transcriptional control, and statin blockade), making it the primary therapeutic target for reducing endogenous cholesterol production.
+
+## Mechanism
+
+- Cholesterol synthesis assessment via OAT markers (mevalonate, HMG metabolites)
 
 ## Evidence
 

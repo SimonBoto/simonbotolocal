@@ -79,6 +79,10 @@ METHAP must adhere to Helsinki principles:
 
 ---
 
+## Significance
+
+- **Non-therapeutic:** Benefit to science/society only, not individual
+
 ## Connection to Vault
 
 - Up: [[MOC-Research-Ethics]]

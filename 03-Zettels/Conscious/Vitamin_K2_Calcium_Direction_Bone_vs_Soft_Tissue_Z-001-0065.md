@@ -58,6 +58,10 @@ Vitamin K2 (menaquinone) activates calcium-binding proteins that direct calcium 
 
 Vitamin K2 (menaquinone) activates calcium-binding proteins that direct calcium to appropriate destinations: osteocalcin (incorporates calcium into bone matrix) and Matrix Gla Protein/MGP (inhibits calcium deposition in arteries/soft tissues). This prevents ectopic calcification from high  + calcium intake.
 
+## Significance
+
+**Safety implication:** High-dose vitamin D without K2 increases calcification risk. K2 is mandatory cofactor for safe high-dose protocols.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

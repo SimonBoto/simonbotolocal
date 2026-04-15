@@ -49,6 +49,10 @@ Denosumab reduces bone resorption and calcium release from bone, creating risk o
 
 Denosumab reduces bone resorption and calcium release from bone, creating risk of hypocalcemia. Particularly dangerous in patients with hypoparathyroidism,  deficiency, or severe renal impairment. Monitor serum calcium closely.
 
+## Significance
+
+Denosumab reduces bone resorption and calcium release from bone, creating risk of hypocalcemia. Particularly dangerous in patients with hypoparathyroidism,  deficiency, or severe renal impairment. Monitor serum calcium closely.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

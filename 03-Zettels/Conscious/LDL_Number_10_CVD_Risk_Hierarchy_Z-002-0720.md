@@ -36,6 +36,10 @@ related: []
 |---------|----------|
 | LDL-only focus | Rebalance to metabolic health |
 
+## Significance
+
+tags: [zettel, ldl, cvd, risk-hierarchy, ranking, paradigm]
+
 ## Source
 - **LitNote:** [[L-002-0195_CVD_Risk_Factor_Ranking]]
 

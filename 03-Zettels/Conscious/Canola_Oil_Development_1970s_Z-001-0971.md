@@ -254,6 +254,10 @@ Canola represents:
 
 ---
 
+## Significance
+
+- Need for crop rotation (break pest/disease cycles)
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

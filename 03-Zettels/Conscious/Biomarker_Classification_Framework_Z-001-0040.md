@@ -77,6 +77,10 @@ can be classified across five dimensions to evaluate  utility and appropriate ap
 
 can be classified across five dimensions to evaluate  utility and appropriate application. Not all biomarkers are equal — early vs late, specific vs general, and actionable vs observational distinctions matter for clinical decision-making.
 
+## Significance
+
+ can be classified across five dimensions to evaluate  utility and appropriate application. Not all biomarkers are equal — early vs late, specific vs general, and actionable vs observational distinctions matter for clinical decision-making.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

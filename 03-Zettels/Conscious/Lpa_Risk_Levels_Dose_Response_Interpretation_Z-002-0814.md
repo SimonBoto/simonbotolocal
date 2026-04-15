@@ -52,6 +52,10 @@ related: []
 | **Personal CVD at young age** | Test once |
 | **General population** | Consider testing |
 
+## Significance
+
+tags: [zettel, lpa, risk-levels, dose-response, 30-mg, 50-mg]
+
 ## Source
 - **LitNote:** [[L-002-0225_Lpa_Mechanism_Management]]
 

@@ -169,6 +169,10 @@ Coffee motility → Prevent stagnation/SIBO risk
 
 ---
 
+## Significance
+
+Coffee motility → Prevent stagnation/SIBO risk
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

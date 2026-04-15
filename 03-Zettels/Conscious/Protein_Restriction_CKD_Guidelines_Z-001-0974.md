@@ -187,6 +187,10 @@ status: conscious
 
 ---
 
+## Significance
+
+- Evidence-based clinical practice guidelines
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

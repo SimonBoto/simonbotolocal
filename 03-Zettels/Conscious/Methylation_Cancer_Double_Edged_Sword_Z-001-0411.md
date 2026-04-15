@@ -115,6 +115,10 @@ extraction-date: 2026-03-01
 
 > Aberrant DNA methylation patterns contribute to carcinogenesis through hypermethylation (silencing tumor suppressors) and hypomethylation (activating oncogenes and genomic instability), creating complex therapeutic challenges.
 
+## Significance
+
+> Aberrant DNA methylation patterns contribute to carcinogenesis through hypermethylation (silencing tumor suppressors) and hypomethylation (activating oncogenes and genomic instability), creating complex therapeutic challenges.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

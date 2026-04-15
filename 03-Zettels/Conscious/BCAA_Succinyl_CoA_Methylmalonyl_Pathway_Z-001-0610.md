@@ -98,6 +98,10 @@ While not directly in this pathway, **MSUD** affects the **earlier step** of BCA
 
 ---
 
+## Significance
+
+- **Cardiovascular:** BCAA metabolites associated with CVD risk
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

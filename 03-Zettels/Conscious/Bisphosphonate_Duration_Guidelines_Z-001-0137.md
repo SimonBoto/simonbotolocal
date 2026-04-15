@@ -36,6 +36,10 @@ status: conscious
 | **Zoledronic acid** | 3 years | Up to 6 years | High fracture risk, T-score < -3.5, ongoing GC therapy |
 | **Pamidronate** | 2–3 years | Up to 5 years | Same criteria, less data |
 
+## Significance
+
+| **Alendronate** | 5 years | Up to 10 years | High fracture risk, T-score < -3.5, ongoing GC therapy |
+
 ## Drug Holiday Considerations
 
 - **Indications for holiday:** Low fracture risk, improved BMD, no new fractures

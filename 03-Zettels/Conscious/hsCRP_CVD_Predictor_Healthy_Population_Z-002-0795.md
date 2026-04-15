@@ -46,6 +46,10 @@ related: []
 ## Why It Matters
 Traditional risk factors (cholesterol, BP, smoking) miss **inflammation-driven risk**. hsCRP captures the inflammatory component of atherosclerosis that other markers cannot.
 
+## Significance
+
+**High-sensitivity CRP (hsCRP) predicts heart attack and cardiovascular events even in apparently healthy individuals without known CVD**, making it a valuable early warning biomarker for subclinical atherosclerosis and inflammation-driven risk.
+
 ## Source
 - **LitNote:** [[L-002-0219_Inflammation_CVD_Risk]]
 - **Reference:** Kurt B, et al. Eur Heart J, 2025. PMID: 41378999

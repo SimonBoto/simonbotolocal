@@ -46,6 +46,10 @@ Dietary recall (practical) vs UUN (gold standard) → Different accuracy levels
 - [[Albumin_Protein_Dilemma_Z-001-0575A]]
 - [[Albumin_Protein_Integration_Z-001-0575E]]
 
+## Significance
+
+> **Core Claim:** Comprehensive nutritional assessment in CKD requires simultaneous evaluation of serum albumin (status marker) and dietary protein intake (modifiable factor) to guide appropriate clinical interventions.
+
 ## References
 - [[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370]]
 

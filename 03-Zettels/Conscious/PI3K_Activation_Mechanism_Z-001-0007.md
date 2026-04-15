@@ -33,18 +33,34 @@ Class IA PI3K is a lipid kinase activated by IRS recruitment, generating the sec
 
 **Clinical:** PI3K inhibitors ( therapy) cause severe  resistance.
 
+## Mechanism
+
+- **p85 regulatory subunit:** Contains SH2 domains (binds IRS phosphotyrosines)
+
 ## Core Principle
 
 Class IA PI3K is a lipid kinase activated by IRS recruitment, generating the second messenger PIP3.
+
+## Mechanism
+
+- **p85 regulatory subunit:** Contains SH2 domains (binds IRS phosphotyrosines)
 
 ## Links
 
 - **Upstream:** [[IRS_Protein_Recruitment_Z-001-0005]] — Adapter docking
 - **Downstream:** [[Akt_Recruitment_by_PIP3_Z-001-0009]] — Second messenger function
 
+## Mechanism
+
+- **p85 regulatory subunit:** Contains SH2 domains (binds IRS phosphotyrosines)
+
 ## Core Principle
 
 Class IA PI3K is a lipid kinase activated by IRS recruitment, generating the second messenger PIP3.
+
+## Mechanism
+
+- **p85 regulatory subunit:** Contains SH2 domains (binds IRS phosphotyrosines)
 
 ## Context
 
@@ -53,9 +69,17 @@ Class IA PI3K is a lipid kinase activated by IRS recruitment, generating the sec
 **Isoforms:** p110α dominant in ; p110β compensates when α lost
 
 
+## Mechanism
+
+- **p85 regulatory subunit:** Contains SH2 domains (binds IRS phosphotyrosines)
+
 ## Core Principle
 
 Class IA PI3K is a lipid kinase activated by IRS recruitment, generating the second messenger PIP3.
+
+## Mechanism
+
+- **p85 regulatory subunit:** Contains SH2 domains (binds IRS phosphotyrosines)
 
 ## RELATED FILES
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
@@ -63,9 +87,17 @@ Class IA PI3K is a lipid kinase activated by IRS recruitment, generating the sec
 
 ---
 
+## Mechanism
+
+- **p85 regulatory subunit:** Contains SH2 domains (binds IRS phosphotyrosines)
+
 ## Core Principle
 
 Class IA PI3K is a lipid kinase activated by IRS recruitment, generating the second messenger PIP3.
+
+## Mechanism
+
+- **p85 regulatory subunit:** Contains SH2 domains (binds IRS phosphotyrosines)
 
 ## Connection to Vault
 

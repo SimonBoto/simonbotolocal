@@ -87,6 +87,10 @@ Poorly designed  that cannot yield reliable knowledge is unethical. Methodologic
 
 Poorly designed  that cannot yield reliable knowledge is unethical. Methodological rigor is not merely a scientific preference—it is an ethical obligation to participants who accept risk.
 
+## Significance
+
+Poorly designed  that cannot yield reliable knowledge is unethical. Methodological rigor is not merely a scientific preference—it is an ethical obligation to participants who accept risk.
+
 ## Connection to Vault
 
 - Up: [[MOC-Methylation]]

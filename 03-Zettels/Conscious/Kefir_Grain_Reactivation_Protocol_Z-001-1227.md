@@ -97,6 +97,10 @@ This protocol is essential for the Kefir-Broth-Coffee fast and any clinical gut-
 
 Dormant kefir grains require gradual reactivation to restore full metabolic activity and microbial diversity before use in therapeutic fasting protocols or daily probiotic consumption.
 
+## Significance
+
+Dormant kefir grains require gradual reactivation to restore full metabolic activity and microbial diversity before use in therapeutic fasting protocols or daily probiotic consumption.
+
 ## Links — Two Types
 
 ### Structural (Navigation)

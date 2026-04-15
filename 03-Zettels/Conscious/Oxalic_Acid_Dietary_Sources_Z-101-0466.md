@@ -83,6 +83,10 @@ Oxalic acid occurs naturally in many plant foods. Content varies dramatically by
 
 ---
 
+## Significance
+
+- **Complete exclusion risk:** May create nutritional deficiencies if not substituted
+
 ## Connection to Vault
 
 - Up: [[MOC-Vitamin-Metabolism]]

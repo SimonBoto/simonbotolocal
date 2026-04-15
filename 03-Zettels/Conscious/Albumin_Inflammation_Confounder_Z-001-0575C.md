@@ -46,6 +46,10 @@ Albumin is an inverse acute phase reactant → decreases during inflammation
 - [[Albumin_Protein_Dilemma_Z-001-0575A]]
 - [[Albumin_Protein_Integration_Z-001-0575D]]
 
+## Significance
+
+> **Core Claim:** Low serum albumin in CKD patients is often confounded by inflammation, making it a marker of both nutritional status and inflammatory burden rather than protein deficiency alone.
+
 ## References
 - [[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370]]
 

@@ -14,7 +14,15 @@ extraction-date: 2026-03-02
 
 # CoA Synthesis from Vitamin B5 Pathway
 
+## Mechanism
+
+**Coenzyme A (CoA) is synthesized from pantothenic acid (vitamin B5) through a five-step enzymatic pathway — involving phosphorylation, cysteine addition, decarboxylation, adenylation, and final phosphorylation — with pantothenate kinase (PanK) being the rate-limiting and regulated step, and defects in this pathway causing rare but severe neurological and metabolic disorders due to impaired fatty acid oxidation and energy metabolism.**
+
 ## Core Claim
+**Coenzyme A (CoA) is synthesized from pantothenic acid (vitamin B5) through a five-step enzymatic pathway — involving phosphorylation, cysteine addition, decarboxylation, adenylation, and final phosphorylation — with pantothenate kinase (PanK) being the rate-limiting and regulated step, and defects in this pathway causing rare but severe neurological and metabolic disorders due to impaired fatty acid oxidation and energy metabolism.**
+
+## Mechanism
+
 **Coenzyme A (CoA) is synthesized from pantothenic acid (vitamin B5) through a five-step enzymatic pathway — involving phosphorylation, cysteine addition, decarboxylation, adenylation, and final phosphorylation — with pantothenate kinase (PanK) being the rate-limiting and regulated step, and defects in this pathway causing rare but severe neurological and metabolic disorders due to impaired fatty acid oxidation and energy metabolism.**
 
 ## Evidence

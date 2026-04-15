@@ -69,6 +69,10 @@ Also bind oxalate, though less clinically significant than calcium.
 
 ---
 
+## Significance
+
+- Ratio of calcium:oxalate important for stone risk
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

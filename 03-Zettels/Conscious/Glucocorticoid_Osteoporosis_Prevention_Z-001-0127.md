@@ -41,6 +41,10 @@ status: conscious
 - **Denosumab:** Alternative for patients intolerant to oral bisphosphonates
 - **Avoid:** Estrogen therapy (not approved for GIOP)
 
+## Significance
+
+- **Denosumab:** Alternative for patients intolerant to oral bisphosphonates
+
 ## Related Zettels
 - [[Glucocorticoid_Osteoporosis_Pathophysiology_Z-001-0125]]
 - [[Glucocorticoid_Bone_Loss_Mechanisms_Z-001-0126]]

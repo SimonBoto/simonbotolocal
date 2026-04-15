@@ -14,7 +14,15 @@ extraction-date: 2026-03-03
 
 # Mevalonate Pathway Energy Cost
 
+## Mechanism
+
+**The mevalonate pathway is metabolically expensive — requiring 2 NADPH and 2 ATP per IPP molecule (42 ATP equivalents total opportunity cost) — with cholesterol synthesis consuming approximately 250+ ATP equivalents per molecule, explaining the tight regulatory control and evolutionary pressure to maintain efficient cholesterol recycling through enterohepatic circulation.**
+
 ## Core Claim
+**The mevalonate pathway is metabolically expensive — requiring 2 NADPH and 2 ATP per IPP molecule (42 ATP equivalents total opportunity cost) — with cholesterol synthesis consuming approximately 250+ ATP equivalents per molecule, explaining the tight regulatory control and evolutionary pressure to maintain efficient cholesterol recycling through enterohepatic circulation.**
+
+## Mechanism
+
 **The mevalonate pathway is metabolically expensive — requiring 2 NADPH and 2 ATP per IPP molecule (42 ATP equivalents total opportunity cost) — with cholesterol synthesis consuming approximately 250+ ATP equivalents per molecule, explaining the tight regulatory control and evolutionary pressure to maintain efficient cholesterol recycling through enterohepatic circulation.**
 
 ## Evidence

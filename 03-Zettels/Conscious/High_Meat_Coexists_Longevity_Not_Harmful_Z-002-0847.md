@@ -37,6 +37,10 @@ related: []
 | **Efficient healthcare** | Early intervention |
 | **Lifestyle factors** | Activity, social connections |
 
+## Significance
+
+| **Low smoking rates** | Reduced CVD/cancer risk |
+
 ## The Paradox Resolved
 - Meat consumption **alone** does not determine health outcomes
 - Overall **dietary pattern** and **lifestyle context** are critical

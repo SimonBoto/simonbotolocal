@@ -426,6 +426,10 @@ MELD-Na = MELD + 1.32×(137-Na) - [0.033×MELD×(137-Na)]
 
 ---
 
+## Significance
+
+Cirrhosis represents end-stage liver disease with fibrosis, regenerative nodules, and architectural distortion leading to portal hypertension and hepatic synthetic dysfunction. Management requires understanding staging, complications, and interventional options.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

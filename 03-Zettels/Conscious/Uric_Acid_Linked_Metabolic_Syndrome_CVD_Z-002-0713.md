@@ -27,6 +27,10 @@ related: []
 | **CVD** | Independent risk factor |
 | **Kidney disease** | Bidirectional relationship |
 
+## Significance
+
+**Elevated uric acid is associated with metabolic syndrome and cardiovascular disease** — independent of gout, hyperuricemia is a cardiovascular risk factor.
+
 ## Source
 - **LitNote:** [[L-002-0192_Uric_Acid_Fructose_Alcohol]]
 

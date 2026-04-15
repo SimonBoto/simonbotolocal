@@ -25,6 +25,10 @@ related: []
 | **Energy metabolism** | Cell health, repair |
 | **Nutrient sensing** | Adaptive responses |
 
+## Significance
+
+**Endothelial cell metabolism** plays a central role in cardiovascular disease development — beyond cholesterol, metabolic processes in vessel walls determine disease progression.
+
 ## Source
 - **LitNote:** [[L-002-0196_Metabolism_Heart_Health]]
 

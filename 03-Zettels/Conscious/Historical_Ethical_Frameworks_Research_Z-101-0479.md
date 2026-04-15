@@ -146,6 +146,10 @@ Ongoing — Revisions adapting to new research contexts
 
 ---
 
+## Significance
+
+| **No expectation of death/disability** | Prohibited as outcome |
+
 ## Connection to Vault
 
 - Up: [[MOC-Research-Ethics]]

@@ -155,6 +155,10 @@ status: conscious
 
 ---
 
+## Significance
+
+tags: [zettel, mdrd, protein-restriction, ckd, clinical-trial, landmark, rct, conscious]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

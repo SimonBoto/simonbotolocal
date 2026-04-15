@@ -258,6 +258,10 @@ Focused evaluation                  Consider TRT
 
 ---
 
+## Significance
+
+tags: [zettel, erectile-dysfunction, ed, hormonal-workup, testosterone, prolactin, fsh, lh, diagnostic-algorithm, conscious]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

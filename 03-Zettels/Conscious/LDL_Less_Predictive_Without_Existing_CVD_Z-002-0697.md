@@ -25,6 +25,10 @@ related: []
 | **Secondary prevention** | Strong |
 | **Primary prevention** | Weak |
 
+## Significance
+
+tags: [zettel, ldl, predictive, cvd, risk-stratification]
+
 ## Source
 - **LitNote:** [[L-002-0187_High_LDL_No_Mortality_Healthy]]
 

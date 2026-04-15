@@ -25,7 +25,15 @@ extraction-date: 2026-03-08
 
 # Purine Salvage Pathway — Recycling Mechanism
 
+## Mechanism
+
+**The purine salvage pathway recovers free purine bases (hypoxanthine, guanine, adenine) from nucleotide degradation and converts them back to nucleotides using PRPP, saving ~4-5 ATP per nucleotide compared to de novo synthesis** — brain and bone marrow are highly dependent on salvage due to limited de novo capacity.
+
 ## Core Claim
+**The purine salvage pathway recovers free purine bases (hypoxanthine, guanine, adenine) from nucleotide degradation and converts them back to nucleotides using PRPP, saving ~4-5 ATP per nucleotide compared to de novo synthesis** — brain and bone marrow are highly dependent on salvage due to limited de novo capacity.
+
+## Mechanism
+
 **The purine salvage pathway recovers free purine bases (hypoxanthine, guanine, adenine) from nucleotide degradation and converts them back to nucleotides using PRPP, saving ~4-5 ATP per nucleotide compared to de novo synthesis** — brain and bone marrow are highly dependent on salvage due to limited de novo capacity.
 
 ## Evidence

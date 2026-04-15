@@ -122,6 +122,10 @@ Urine organic acids testing (OAT) provides a comprehensive metabolic snapshot by
 
 ---
 
+## Significance
+
+| **Preclinical changes** | Detect before glucose abnormalities |
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

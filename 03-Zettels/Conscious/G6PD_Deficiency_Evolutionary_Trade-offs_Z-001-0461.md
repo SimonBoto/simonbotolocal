@@ -86,6 +86,10 @@ source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_
 
 ---
 
+## Significance
+
+- High oxygen exposure → oxidative stress risk
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

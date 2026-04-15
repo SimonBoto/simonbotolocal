@@ -244,6 +244,10 @@ extraction-date: 2026-03-01
 
 > Magnesium supplementation has an excellent safety profile with diarrhea being the primary dose-limiting side effect; monitoring serum levels and adjusting for renal function ensures safe therapeutic use.
 
+## Significance
+
+> Magnesium supplementation has an excellent safety profile with diarrhea being the primary dose-limiting side effect; monitoring serum levels and adjusting for renal function ensures safe therapeutic use.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

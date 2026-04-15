@@ -85,6 +85,10 @@ Hydroxyproline → 4-Hydroxy-2-oxoglutarate → Glyoxylate → Oxalate
 
 ---
 
+## Significance
+
+- [[Primary_Hyperoxaluria_Genetic_Z-001-0610] — PH2 disease
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

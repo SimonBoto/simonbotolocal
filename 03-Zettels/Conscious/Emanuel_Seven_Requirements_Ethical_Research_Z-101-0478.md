@@ -13,6 +13,10 @@ status: conscious
 
 # Emanuel's Seven Requirements for Ethical 
 
+## Significance
+
+tags: [zettel, research-ethics, emanuel-framework, clinical-trials, irb, seven-requirements, conscious]
+
 ## Source
 Emanuel EJ, Wendler D, Grady C. What makes  research ethical? *JAMA*. 2000;283(20):2701-2711.
 

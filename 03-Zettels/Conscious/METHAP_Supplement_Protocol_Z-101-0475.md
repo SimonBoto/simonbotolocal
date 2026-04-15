@@ -160,6 +160,10 @@ See: [[Ascorbate_Oxalate_Measurement_Interference_Z-101-0470]
 
 ---
 
+## Significance
+
+- Potential bleeding risk at high doses (caution with anticoagulants)
+
 ## Connection to Vault
 
 - Up: [[MOC-Vitamin-Metabolism]]

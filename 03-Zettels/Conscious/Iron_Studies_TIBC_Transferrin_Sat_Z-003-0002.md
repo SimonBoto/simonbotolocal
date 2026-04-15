@@ -171,6 +171,10 @@ patient_id,visit,tibc_ug_dl,transferrin_sat_pct,iron_status_pattern
 
 **TIBC (total iron binding capacity)** and **transferrin saturation** measure iron transport capacity and utilization. They differentiate true deficiency from anemia of chronic disease and identify iron overload.
 
+## Significance
+
+tags: [zettel, biomarker, iron, status/optimal, clinical-protocol]
+
 ## Connection to Vault
 
 - Up: [[MOC-Vitamin-Metabolism]]

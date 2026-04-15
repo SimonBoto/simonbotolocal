@@ -92,6 +92,10 @@ Branched-chain amino acids (leucine, isoleucine, valine) are elevated in insulin
 
 Branched-chain amino acids (leucine, isoleucine, valine) are elevated in insulin resistance and predict T2D risk. Elevated BCAAs indicate altered amino acid  and increased mTOR signaling.
 
+## Significance
+
+Branched-chain amino acids (leucine, isoleucine, valine) are elevated in insulin resistance and predict T2D risk. Elevated BCAAs indicate altered amino acid  and increased mTOR signaling.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

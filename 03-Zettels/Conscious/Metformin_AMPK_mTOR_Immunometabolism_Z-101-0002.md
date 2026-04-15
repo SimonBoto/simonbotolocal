@@ -84,6 +84,10 @@ Metformin inhibits mitochondrial Complex I, reducing ATP production and activati
 
 Metformin inhibits mitochondrial Complex I, reducing ATP production and activating AMPK. This triggers metabolic and immunological effects: fatty acid oxidation increases, lipogenesis decreases, and mTORC1 inhibition blocks pro-inflammatory signaling while preserving B-cell antibody production.
 
+## Significance
+
+source-litnote: Synthesized from clinical practice
+
 ## Connection to Vault
 
 - Up: [[MOC-Mitochondrial-Function]]

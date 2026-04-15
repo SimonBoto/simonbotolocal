@@ -128,6 +128,10 @@ If 80% of disease risk comes from **environmental modulation of phenotype**, the
 
 **Critical Statistic:** 80% of chronic and autoimmune diseases are linked to environmental factors.
 
+## Significance
+
+tags: [zettel, environmental-factors, chronic-disease, autoimmune, 80-percent-statistic, epigenetics, conscious]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

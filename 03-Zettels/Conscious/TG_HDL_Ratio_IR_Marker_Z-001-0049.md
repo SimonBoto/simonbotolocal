@@ -208,6 +208,10 @@ The **TG/HDL ratio** is a simple, powerful proxy for insulin resistance and LDL 
 
 The **TG/HDL ratio** is a simple, powerful proxy for insulin resistance and LDL particle size. It correlates strongly with HOMA-IR and predicts cardiovascular risk independent of total cholesterol.
 
+## Significance
+
+source-litnote: Synthesized from clinical practice
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

@@ -31,6 +31,10 @@ status: conscious
 - **Utility:** Sensitive marker of osteoblast activity
 - **Limitations:** Circadian variation, renal clearance
 
+## Significance
+
+- **Limitations:** Liver disease confounds interpretation
+
 ## Procollagen Type I N-terminal Propeptide (P1NP)
 - **Source:** Cleavage product of type I collagen synthesis
 - **Timing:** Rapid rise (1–2 months) on anabolic therapy

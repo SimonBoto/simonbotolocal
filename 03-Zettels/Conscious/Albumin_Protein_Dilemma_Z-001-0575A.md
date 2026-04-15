@@ -45,6 +45,10 @@ Albumin (prognostic marker) ≠ Protein intake (modifiable factor)
 - [[Serum_Albumin_Prognostic_Z-001-0575B]]
 - [[Albumin_Protein_Integration_Z-001-0575D]]
 
+## Significance
+
+> **Core Claim:** Serum albumin and dietary protein intake serve different clinical functions in CKD management — albumin is a prognostic marker of inflammation and nutrition, while protein intake is a modifiable factor that must be optimized in context-specific ways.
+
 ## References
 - [[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370]]
 

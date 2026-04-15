@@ -33,6 +33,10 @@ related: []
 |------------|---------|
 | Treating each separately | Root insulin resistance |
 
+## Significance
+
+**Hypertension + high triglycerides + low HDL + sdLDL + obesity** are not separate risk factors but **manifestations of insulin resistance** — a unified metabolic problem.
+
 ## Source
 - **LitNote:** [[L-002-0195_CVD_Risk_Factor_Ranking]]
 

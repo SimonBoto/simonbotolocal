@@ -37,6 +37,10 @@ status: conscious
 | **Hypercalcemia** | Contraindicated | Not contraindicated |
 | **Hypersensitivity** | Teriparatide allergy | Denosumab allergy |
 
+## Significance
+
+| **Cardiac history** | No CV disease | Recent MI/stroke (avoid ROMO) |
+
 ## Shared Decision-Making Elements
 
 - **Efficacy:** Anabolic agents provide higher fracture reduction

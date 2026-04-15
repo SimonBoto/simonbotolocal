@@ -48,5 +48,9 @@ Crohn's: Transmural healing → Fistulas/strictures prevention → Surgery often
 - [[IBD_Medical_Therapy_Z-001-0585L]]
 - [[IBD_Complications_Management_Z-001-0585N]]
 
+## Significance
+
+Nutritional management in IBD must account for the distinct metabolic demands and complications of Crohn's disease (malabsorption, vitamin B12 deficiency, small bowel involvement) versus ulcerative colitis (iron deficiency, protein loss, colonic inflammation), with specific dietary approaches for each condition.
+
 ## References
 - [[CGPT_0209_Gastroenterology_Registrar_Assessment_CGPT-0209]]

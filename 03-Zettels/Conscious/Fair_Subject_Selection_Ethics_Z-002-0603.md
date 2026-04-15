@@ -90,6 +90,10 @@ Subjects must be selected based on scientific objectives, not vulnerability or c
 
 Subjects must be selected based on scientific objectives, not vulnerability or convenience. Fair selection ensures equitable distribution of research burdens and benefits across populations.
 
+## Significance
+
+- **Exclusion:** Pregnancy, severe renal disease ( concerns)
+
 ## Connection to Vault
 
 - Up: [[MOC-Methylation]]

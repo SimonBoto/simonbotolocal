@@ -159,6 +159,10 @@ Yes → Consider Taurate or Orotate
 
 > The choice of magnesium salt significantly impacts absorption, tolerability, and clinical efficacy, with organic salts (citrate, glycinate) demonstrating superior bioavailability compared to inorganic forms (oxide).
 
+## Significance
+
+> The choice of magnesium salt significantly impacts absorption, tolerability, and clinical efficacy, with organic salts (citrate, glycinate) demonstrating superior bioavailability compared to inorganic forms (oxide).
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

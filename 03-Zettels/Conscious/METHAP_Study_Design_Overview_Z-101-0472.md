@@ -122,6 +122,10 @@ Specific patterns of urinary organic acids and plasma free fatty acids can discr
 
 ---
 
+## Significance
+
+tags: [zettel, methap, phd, study-design, clinical-trial, metabolomics, insulin-resistance, conscious]
+
 ## Connection to Vault
 
 - Up: [[MOC-Vitamin-Metabolism]]

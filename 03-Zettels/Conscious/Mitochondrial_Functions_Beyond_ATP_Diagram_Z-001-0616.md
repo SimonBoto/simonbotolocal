@@ -72,6 +72,10 @@ These functions reveal mitochondria as **signaling hubs**, not just power plants
 
 Visual summary of six critical mitochondrial functions extending far beyond energy production, based on Wallace (2026).
 
+## Significance
+
+- **Clinical relevance:** Aging, metabolic disease
+
 ## Source
 - **Image:** [[2026-01-02_X_DrWilliamWallac_Mitochondrial_Functions.jpg]]
 - **Metadata:** [[2026-01-02_X_DrWilliamWallac_Mitochondrial_Functions]]

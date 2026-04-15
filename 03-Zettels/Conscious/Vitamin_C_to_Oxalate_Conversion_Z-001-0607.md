@@ -65,6 +65,10 @@ Ascorbate → Dehydroascorbate → Oxalate + Threonate
 
 ---
 
+## Significance
+
+- Doses >1000 mg/day may increase stone risk
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

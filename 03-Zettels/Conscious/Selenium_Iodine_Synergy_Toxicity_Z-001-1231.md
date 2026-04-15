@@ -169,6 +169,10 @@ Monitor every 6-8 weeks:
 
 ---
 
+## Significance
+
+Selenium and iodine have an intimate synergistic relationship in thyroid health. Selenium is absolutely required when supplementing with high-dose iodine to prevent thyroid oxidative damage. However, selenium itself has a narrow therapeutic window with toxicity risks.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

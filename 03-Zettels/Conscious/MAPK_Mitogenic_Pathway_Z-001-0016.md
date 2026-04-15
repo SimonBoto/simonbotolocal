@@ -38,7 +38,15 @@ created: 2026-02-22
 - Some insulin analogs have differential pathway activation
 -  cells exploit mitogenic signaling
 
+## Mechanism
+
+activates the Ras/MAPK pathway for mitogenic (growth) responses, distinct from metabolic signaling via PI3K.
+
 ## Core Principle
+
+activates the Ras/MAPK pathway for mitogenic (growth) responses, distinct from metabolic signaling via PI3K.
+
+## Mechanism
 
 activates the Ras/MAPK pathway for mitogenic (growth) responses, distinct from metabolic signaling via PI3K.
 
@@ -47,7 +55,15 @@ activates the Ras/MAPK pathway for mitogenic (growth) responses, distinct from m
 - **Upstream:** [[Insulin_Receptor_Structure_Z-001-0001]] — Receptor source
 - **Parallel:** _Z-001-0007] — Metabolic pathway
 
+## Mechanism
+
+activates the Ras/MAPK pathway for mitogenic (growth) responses, distinct from metabolic signaling via PI3K.
+
 ## Core Principle
+
+activates the Ras/MAPK pathway for mitogenic (growth) responses, distinct from metabolic signaling via PI3K.
+
+## Mechanism
 
 activates the Ras/MAPK pathway for mitogenic (growth) responses, distinct from metabolic signaling via PI3K.
 
@@ -58,7 +74,15 @@ activates the Ras/MAPK pathway for mitogenic (growth) responses, distinct from m
 **Note:** MAPK pathway does not directly mediate glucose transport
 
 
+## Mechanism
+
+activates the Ras/MAPK pathway for mitogenic (growth) responses, distinct from metabolic signaling via PI3K.
+
 ## Core Principle
+
+activates the Ras/MAPK pathway for mitogenic (growth) responses, distinct from metabolic signaling via PI3K.
+
+## Mechanism
 
 activates the Ras/MAPK pathway for mitogenic (growth) responses, distinct from metabolic signaling via PI3K.
 
@@ -67,7 +91,15 @@ activates the Ras/MAPK pathway for mitogenic (growth) responses, distinct from m
 
 ---
 
+## Mechanism
+
+activates the Ras/MAPK pathway for mitogenic (growth) responses, distinct from metabolic signaling via PI3K.
+
 ## Core Principle
+
+activates the Ras/MAPK pathway for mitogenic (growth) responses, distinct from metabolic signaling via PI3K.
+
+## Mechanism
 
 activates the Ras/MAPK pathway for mitogenic (growth) responses, distinct from metabolic signaling via PI3K.
 

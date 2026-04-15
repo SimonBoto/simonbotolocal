@@ -93,6 +93,10 @@ Hydroxyproline → Glyoxylate → Oxalate
 
 ---
 
+## Significance
+
+- **Marker challenge:** Hard to distinguish sources in clinical samples
+
 ## Connection to Vault
 
 - Up: [[MOC-Vitamin-Metabolism]]

@@ -26,6 +26,10 @@ Consumption of **fried potatoes in seed oils increases type 2 diabetes risk by a
 | **Mechanism** | Oxidized omega-6 |
 | **Calorie-independent** | Yes |
 
+## Significance
+
+tags: [zettel, seed-oils, fried-potatoes, diabetes, risk, omega-6]
+
 ## Source
 - **LitNote:** [[L-002-0190_Seed_Oils_Diabetes_Risk]]
 

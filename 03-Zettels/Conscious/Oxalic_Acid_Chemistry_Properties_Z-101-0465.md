@@ -61,6 +61,10 @@ status: conscious
 
 ---
 
+## Significance
+
+- **Analytical consideration:** Both dicarboxylic acids — similar chromatographic behavior, different clinical meaning
+
 ## Connection to Vault
 
 - Up: [[MOC-Vitamin-Metabolism]]

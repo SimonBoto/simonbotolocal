@@ -75,6 +75,10 @@ status: conscious
 
 > **Definition:** A forest plot is a graphical representation of the results of individual studies and the overall meta-analyzed effect estimate in a systematic review, displaying effect sizes, confidence intervals, and study weights.
 
+## Significance
+
+- Interpretation of clinical and statistical significance
+
 ## Related Concepts
 
 - [[Fixed_vs_Random_Effects_Z-001-0580I]]

@@ -154,6 +154,10 @@ ClinicalTrials.gov is the NIH-maintained registry for clinical studies. Registra
 
 ---
 
+## Significance
+
+tags: [zettel, clinicaltrials-gov, trial-registration, nih, methap, phd, regulatory, conscious]
+
 ## Connection to Vault
 
 - Up: [[MOC-Mitochondrial-Function]]

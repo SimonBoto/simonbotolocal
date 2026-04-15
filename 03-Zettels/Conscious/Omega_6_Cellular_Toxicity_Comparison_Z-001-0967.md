@@ -307,6 +307,10 @@ parent-index: [[03-Zettels-Conscious]]
 ---
 parent-index: [[03-Zettels-Conscious]]
 
+## Significance
+
+- Deficiency harmful (skin disease, growth failure)
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

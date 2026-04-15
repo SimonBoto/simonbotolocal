@@ -315,6 +315,10 @@ status: conscious
 
 ---
 
+## Significance
+
+- POLG mutations common cause of mitochondrial disease
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

@@ -68,6 +68,10 @@ IRS-1 and IRS-2 are the primary  receptor substrates with distinct tissue distri
 
 IRS-1 and IRS-2 are the primary  receptor substrates with distinct tissue distributions and metabolic functions.
 
+## Significance
+
+**Therapeutic insight:** Tissue-selective IRS activation could treat metabolic disease
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

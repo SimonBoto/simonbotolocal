@@ -156,6 +156,10 @@ Mitochondrial uncoupling + Apoptosis signaling
 
 ---
 
+## Significance
+
+- T2DM patients show elevated oxidized cardiolipin in skeletal muscle
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

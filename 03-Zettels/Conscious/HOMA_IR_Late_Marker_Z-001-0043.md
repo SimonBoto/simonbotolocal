@@ -74,6 +74,10 @@ HOMA-IR (Homeostatic Model Assessment for  Resistance) requires elevated glucose
 
 HOMA-IR (Homeostatic Model Assessment for  Resistance) requires elevated glucose to calculate — meaning beta-cell dysfunction must already be present. Despite being called an "insulin resistance" index, it primarily reflects beta-cell inadequacy.
 
+## Significance
+
+source-litnote: Synthesized from clinical practice
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

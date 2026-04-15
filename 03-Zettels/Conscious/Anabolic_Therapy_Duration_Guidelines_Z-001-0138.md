@@ -38,6 +38,10 @@ status: conscious
 | **Standard duration** | 12 months | Optimal BMD and fracture reduction |
 | **Early discontinuation** | If CV events, severe reaction | Safety concerns |
 
+## Significance
+
+| **Maximum duration** | 2 years lifetime | Theoretical osteosarcoma risk in rats |
+
 ## Sequential Therapy Timing
 
 - **Teriparatide → antiresorptive:** Within 1 week of final dose

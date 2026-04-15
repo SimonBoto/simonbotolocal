@@ -12,9 +12,17 @@ status: conscious
 
 #  Preprocessing and Quality Control
 
+## Mechanism
+
+**1. RSD (Relative Standard Deviation)**
+
 ## Core Principle
 
 raw_data <- readMSData(files, mode = "onDisk")
+
+## Mechanism
+
+**1. RSD (Relative Standard Deviation)**
 
 ## Overview
 
@@ -22,9 +30,17 @@ Raw metabolomics data requires systematic preprocessing—baseline correction, p
 
 ---
 
+## Mechanism
+
+**1. RSD (Relative Standard Deviation)**
+
 ## Core Principle
 
 raw_data <- readMSData(files, mode = "onDisk")
+
+## Mechanism
+
+**1. RSD (Relative Standard Deviation)**
 
 ## Preprocessing Pipeline
 
@@ -63,9 +79,17 @@ raw_data <- readMSData(files, mode = "onDisk")
 
 ---
 
+## Mechanism
+
+**1. RSD (Relative Standard Deviation)**
+
 ## Core Principle
 
 raw_data <- readMSData(files, mode = "onDisk")
+
+## Mechanism
+
+**1. RSD (Relative Standard Deviation)**
 
 ## Quality Control (QC) Strategy
 
@@ -101,9 +125,17 @@ raw_data <- readMSData(files, mode = "onDisk")
 
 ---
 
+## Mechanism
+
+**1. RSD (Relative Standard Deviation)**
+
 ## Core Principle
 
 raw_data <- readMSData(files, mode = "onDisk")
+
+## Mechanism
+
+**1. RSD (Relative Standard Deviation)**
 
 ## METHAP QC Protocol
 
@@ -126,9 +158,17 @@ raw_data <- readMSData(files, mode = "onDisk")
 
 ---
 
+## Mechanism
+
+**1. RSD (Relative Standard Deviation)**
+
 ## Core Principle
 
 raw_data <- readMSData(files, mode = "onDisk")
+
+## Mechanism
+
+**1. RSD (Relative Standard Deviation)**
 
 ## Common Artifacts
 
@@ -157,9 +197,17 @@ raw_data <- readMSData(files, mode = "onDisk")
 
 ---
 
+## Mechanism
+
+**1. RSD (Relative Standard Deviation)**
+
 ## Core Principle
 
 raw_data <- readMSData(files, mode = "onDisk")
+
+## Mechanism
+
+**1. RSD (Relative Standard Deviation)**
 
 ## Software Workflow
 
@@ -190,9 +238,17 @@ xdata <- fillChromPeaks(xdata, param = FillChromPeaksParam())
 
 ---
 
+## Mechanism
+
+**1. RSD (Relative Standard Deviation)**
+
 ## Core Principle
 
 raw_data <- readMSData(files, mode = "onDisk")
+
+## Mechanism
+
+**1. RSD (Relative Standard Deviation)**
 
 ## Acceptance Criteria Summary
 
@@ -206,9 +262,17 @@ raw_data <- readMSData(files, mode = "onDisk")
 
 ---
 
+## Mechanism
+
+**1. RSD (Relative Standard Deviation)**
+
 ## Core Principle
 
 raw_data <- readMSData(files, mode = "onDisk")
+
+## Mechanism
+
+**1. RSD (Relative Standard Deviation)**
 
 ## Related
 
@@ -220,18 +284,34 @@ raw_data <- readMSData(files, mode = "onDisk")
 
 *Source: [[LitNote_Metabolomics_Data_Processing_L-001-0619]] | 2026-03-09*
 
+## Mechanism
+
+**1. RSD (Relative Standard Deviation)**
+
 ## Core Principle
 
 raw_data <- readMSData(files, mode = "onDisk")
+
+## Mechanism
+
+**1. RSD (Relative Standard Deviation)**
 
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 
 ---
 
+## Mechanism
+
+**1. RSD (Relative Standard Deviation)**
+
 ## Core Principle
 
 raw_data <- readMSData(files, mode = "onDisk")
+
+## Mechanism
+
+**1. RSD (Relative Standard Deviation)**
 
 ## Connection to Vault
 

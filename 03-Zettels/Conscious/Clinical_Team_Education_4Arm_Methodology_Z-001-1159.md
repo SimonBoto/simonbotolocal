@@ -78,6 +78,10 @@ Structured approach for clinical teams to analyze topics from complementary pers
 
 ---
 
+## Significance
+
+tags: [zettel, education, clinical-team, methodology, metabolomics]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

@@ -187,6 +187,10 @@ Learn from historical violations to prevent future abuses and strengthen protect
 
 ---
 
+## Significance
+
+| **Deception** | Told they were receiving treatment for "bad blood"; actually given placebo |
+
 ## Connection to Vault
 
 - Up: [[MOC-Methylation]]

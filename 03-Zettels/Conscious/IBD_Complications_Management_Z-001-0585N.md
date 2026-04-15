@@ -49,5 +49,9 @@ Dysregulated immune response → Gut microbiota interaction → Barrier defect �
 - [[Crohns_Disease_Transmural_Z-001-0585B]]
 - [[Ulcerative_Colitis_Mucosal_Z-001-0585C]]
 
+## Significance
+
+Complication management in IBD requires disease-specific approaches: Crohn's disease complications include strictures, fistulas, and malnutrition requiring surgical and medical interventions, while ulcerative colitis complications focus on dysplasia surveillance, toxic megacolon, and surgical management of medically refractory disease.
+
 ## References
 - [[CGPT_0209_Gastroenterology_Registrar_Assessment_CGPT-0209]]

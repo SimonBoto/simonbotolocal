@@ -105,6 +105,10 @@ The RDA of 90mg vitamin C is based on preventing acute deficiency (scurvy), not 
 
 The RDA of 90mg vitamin C is based on preventing acute deficiency (scurvy), not achieving optimal physiological function — representing an 18th-century standard applied to 21st-century health.
 
+## Significance
+
+| **Pauling's target** | 2,000-10,000mg/day | Evolutionary precedent, therapeutic potential |
+
 ## Source
 [[LitNote_KingOfVitamins_Pauling_Vitamin_C_2025_L-001-0656]] — Vitamin King (2025)
 

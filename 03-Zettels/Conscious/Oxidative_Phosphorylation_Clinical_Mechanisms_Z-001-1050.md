@@ -14,7 +14,15 @@ extraction-date: 2026-03-08
 
 # Oxidative Phosphorylation Clinical Mechanisms
 
+## Mechanism
+
+**Oxidative phosphorylation — comprising electron transport Complexes I-IV and ATP synthase — generates ~90% of cellular ATP through chemiosmotic coupling, with dysfunction producing characteristic clinical syndromes ranging from fatigue to neurodegeneration and requiring oxygen, membrane potential, and intact mitochondrial DNA.**
+
 ## Core Claim
+**Oxidative phosphorylation — comprising electron transport Complexes I-IV and ATP synthase — generates ~90% of cellular ATP through chemiosmotic coupling, with dysfunction producing characteristic clinical syndromes ranging from fatigue to neurodegeneration and requiring oxygen, membrane potential, and intact mitochondrial DNA.**
+
+## Mechanism
+
 **Oxidative phosphorylation — comprising electron transport Complexes I-IV and ATP synthase — generates ~90% of cellular ATP through chemiosmotic coupling, with dysfunction producing characteristic clinical syndromes ranging from fatigue to neurodegeneration and requiring oxygen, membrane potential, and intact mitochondrial DNA.**
 
 ## Evidence

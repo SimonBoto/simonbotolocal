@@ -23,7 +23,15 @@ Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and 
 
 **Critical insight:** The insulin receptor itself remains functional — signaling is blocked downstream at IRS-1 through serine phosphorylation that prevents tyrosine phosphorylation and downstream PI3K/Akt activation.
 
+## Mechanism
+
+Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and free fatty acids), triggering NF-κB nuclear translocation and NLRP3 inflammasome activation.
+
 ## Core Principle
+
+Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and free fatty acids), triggering NF-κB nuclear translocation and NLRP3 inflammasome activation.
+
+## Mechanism
 
 Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and free fatty acids), triggering NF-κB nuclear translocation and NLRP3 inflammasome activation.
 
@@ -35,7 +43,15 @@ Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and 
 | IL-6 | SOCS3 induction | IRS degradation |
 | IL-1β | Proteasome pathway | IRS degradation |
 
+## Mechanism
+
+Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and free fatty acids), triggering NF-κB nuclear translocation and NLRP3 inflammasome activation.
+
 ## Core Principle
+
+Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and free fatty acids), triggering NF-κB nuclear translocation and NLRP3 inflammasome activation.
+
+## Mechanism
 
 Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and free fatty acids), triggering NF-κB nuclear translocation and NLRP3 inflammasome activation.
 
@@ -45,7 +61,15 @@ Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and 
 - **Parallel:** l_Dysfunction_IR_Z-001-0030.md] — Oxidative stress activates same pathways
 - **Downstream:** [[Vicious_Cycle_Inflammation_IR_Z-001-0038.md] — Vicious cycle: inflammation ↔ IR
 
+## Mechanism
+
+Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and free fatty acids), triggering NF-κB nuclear translocation and NLRP3 inflammasome activation.
+
 ## Core Principle
+
+Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and free fatty acids), triggering NF-κB nuclear translocation and NLRP3 inflammasome activation.
+
+## Mechanism
 
 Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and free fatty acids), triggering NF-κB nuclear translocation and NLRP3 inflammasome activation.
 
@@ -60,7 +84,15 @@ Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and 
 *UID: Z-001-0031 | Domain: 001 | Created: 2026-02-24*
 
 
+## Mechanism
+
+Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and free fatty acids), triggering NF-κB nuclear translocation and NLRP3 inflammasome activation.
+
 ## Core Principle
+
+Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and free fatty acids), triggering NF-κB nuclear translocation and NLRP3 inflammasome activation.
+
+## Mechanism
 
 Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and free fatty acids), triggering NF-κB nuclear translocation and NLRP3 inflammasome activation.
 
@@ -71,7 +103,15 @@ Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and 
 
 ---
 
+## Mechanism
+
+Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and free fatty acids), triggering NF-κB nuclear translocation and NLRP3 inflammasome activation.
+
 ## Core Principle
+
+Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and free fatty acids), triggering NF-κB nuclear translocation and NLRP3 inflammasome activation.
+
+## Mechanism
 
 Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and free fatty acids), triggering NF-κB nuclear translocation and NLRP3 inflammasome activation.
 

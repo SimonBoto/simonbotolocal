@@ -48,5 +48,9 @@ Crohn's: Transmural healing → Fistulas/strictures prevention → Surgery often
 - [[IBD_Medical_Therapy_Z-001-0585L]]
 - [[IBD_Complications_Management_Z-001-0585N]]
 
+## Significance
+
+Surgical indications differ fundamentally between Crohn's disease (often palliative or for complications like strictures/fistulas) and ulcerative colitis (curative for medically refractory disease), reflecting their distinct pathophysiological patterns and long-term management strategies.
+
 ## References
 - [[CGPT_0209_Gastroenterology_Registrar_Assessment_CGPT-0209]]

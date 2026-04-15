@@ -81,6 +81,10 @@ Beta-cell mass becomes insufficient to maintain glycemic control, resulting in a
 
 Beta-cell mass becomes insufficient to maintain glycemic control, resulting in absolute  deficiency relative to the degree of . This is the end-stage of untreated or poorly managed insulin resistance.
 
+## Significance
+
+- Macrovascular: cardiovascular disease, stroke
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

@@ -73,6 +73,10 @@ created: 2026-03-04
 
 ---
 
+## Significance
+
+**Kidney stone risk:** High oxalate intake increases urinary oxalate excretion, raising  oxalate stone risk.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

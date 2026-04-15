@@ -148,6 +148,10 @@ extraction-date: 2026-03-01
 
 > The Battle Creek Sanitarium, founded in 1866 and led by Dr. John Harvey Kellogg from 1876, became America's most famous health resort, attracting wealthy and famous patients to its regime of vegetarianism, hydrotherapy, and "biologic living."
 
+## Significance
+
+> The Battle Creek Sanitarium, founded in 1866 and led by Dr. John Harvey Kellogg from 1876, became America's most famous health resort, attracting wealthy and famous patients to its regime of vegetarianism, hydrotherapy, and "biologic living."
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

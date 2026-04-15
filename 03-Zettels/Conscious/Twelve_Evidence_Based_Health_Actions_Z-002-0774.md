@@ -94,6 +94,10 @@ related: []
 | **5** | Prioritize relationships |
 | **6** | Stress management |
 
+## Significance
+
+**Twelve evidence-based lifestyle actions substantially improve health outcomes, longevity, and quality of life** — addressing diet, movement, sleep, stress, social connection, environment, and mindset in an integrated framework supported by Blue Zones research and lifestyle medicine literature.
+
 ## Source
 - **LitNote:** [[L-002-0212_Twelve_Actions_Better_Health]]
 - **Reference:** Lifestyle Medicine, Blue Zones research

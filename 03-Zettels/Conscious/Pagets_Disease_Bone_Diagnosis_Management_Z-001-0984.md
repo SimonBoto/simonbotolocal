@@ -281,6 +281,10 @@ Result: Disorganized woven bone, enlarged, weak
 
 ---
 
+## Significance
+
+tags: [zettel, pagets-disease, bone, alp, alkaline-phosphatase, osteitis-deformans, bone-scan, bisphosphonates, conscious]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

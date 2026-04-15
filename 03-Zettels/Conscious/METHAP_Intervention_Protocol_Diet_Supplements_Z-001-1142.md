@@ -272,6 +272,10 @@ The METHAP intervention combines targeted dietary modifications with evidence-ba
 
 ---
 
+## Significance
+
+| **Kidney disease** | Magnesium caution |
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

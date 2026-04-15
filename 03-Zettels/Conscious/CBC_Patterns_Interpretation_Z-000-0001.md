@@ -190,6 +190,10 @@ The **CBC** provides baseline hematologic status. Beyond anemia detection, patte
 
 The **CBC** provides baseline hematologic status. Beyond anemia detection, patterns reveal , hydration, and chronic disease states.
 
+## Significance
+
+tags: [zettel, biomarker, cbc, hematology, clinical-protocol]
+
 ## Connection to Vault
 
 - Up: [[MOC-Vitamin-Metabolism]]

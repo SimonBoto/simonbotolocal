@@ -36,6 +36,10 @@ status: conscious
 - **Trend analysis:** Use same machine, same technologist, same analysis software
 - **Vertebral fracture assessment (VFA):** When DXA done, assess for vertebral fractures
 
+## Significance
+
+| **High-risk patients** | 12 months | Monitor rapid bone loss |
+
 ## Alternative Imaging Options
 
 | Modality | Indication | Frequency |

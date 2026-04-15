@@ -84,6 +84,10 @@ Chronic stress (psychological or physiological) activates the HPA axis, elevatin
 
 Chronic stress (psychological or physiological) activates the HPA axis, elevating cortisol. Cortisol increases gluconeogenesis and promotes visceral fat redistribution, both driving  resistance.
 
+## Significance
+
+**Clinical relevance:** Stress is often overlooked in metabolic disease — chronically elevated cortisol can be the primary driver of IR independent of diet.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

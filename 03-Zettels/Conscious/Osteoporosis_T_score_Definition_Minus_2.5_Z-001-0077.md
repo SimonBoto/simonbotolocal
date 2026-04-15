@@ -47,6 +47,10 @@ Osteoporosis is diagnosed when the T-score is ≤ −2.5 on DXA. It is a skeleta
 
 Osteoporosis is diagnosed when the T-score is ≤ −2.5 on DXA. It is a skeletal disorder of compromised bone strength, predisposing to increased fracture risk. Microarchitectural deterioration accompanies bone mass loss.
 
+## Significance
+
+tags: [zettel, bone-health, vitamin-d, clinical]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

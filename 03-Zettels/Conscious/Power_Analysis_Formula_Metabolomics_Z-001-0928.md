@@ -171,6 +171,10 @@ n = 66 per group
 
 **Core Formula:** Sample size depends on effect size, desired power, significance level, and number of groups.
 
+## Significance
+
+source-litnote: Synthesized from clinical practice
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

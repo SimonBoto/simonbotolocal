@@ -262,6 +262,10 @@ Consider bone-specific ALP or isoenzyme electrophoresis
 
 ---
 
+## Significance
+
+tags: [zettel, alp, alkaline-phosphatase, isoenzymes, liver, bone, intestinal, placental, clinical-chemistry, conscious]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

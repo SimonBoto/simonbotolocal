@@ -361,6 +361,10 @@ Informed consent is the process by which potential participants learn about a  s
 
 ---
 
+## Significance
+
+- Research nature, procedures, risks, benefits
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

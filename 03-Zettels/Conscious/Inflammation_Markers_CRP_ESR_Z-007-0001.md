@@ -166,6 +166,10 @@ patient_id,visit,hs_crp_mg_l,esr_mm_hr,inflammation_status
 
 **C-reactive protein (CRP)** and **erythrocyte sedimentation rate (ESR)** are acute phase reactants that indicate systemic inflammation. CRP is more specific; ESR is slower but catches chronic inflammation CRP might miss.
 
+## Significance
+
+tags: [zettel, biomarker, inflammation, status/optimal, clinical-protocol]
+
 ## Connection to Vault
 
 - Up: [[MOC-Vitamin-Metabolism]]

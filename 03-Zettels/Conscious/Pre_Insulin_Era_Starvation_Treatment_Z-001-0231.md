@@ -161,6 +161,10 @@ extraction-date: 2026-03-01
 
 > Before the discovery of insulin in 1921, Type 1 diabetes was a fatal diagnosis with no effective treatment; the only available therapy was severe caloric restriction (starvation diets) that could prolong life by months at the cost of severe mal.
 
+## Significance
+
+tags: [zettel, insulin, history, diabetes, starvation-treatment, 1920s]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

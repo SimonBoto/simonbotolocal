@@ -261,6 +261,10 @@ The seed oil story exemplifies how:
 
 ---
 
+## Significance
+
+- Sydney Diet-Heart mortality data (unpublished 1973-2013)
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

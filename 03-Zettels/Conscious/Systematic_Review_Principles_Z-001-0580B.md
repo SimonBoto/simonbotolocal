@@ -65,6 +65,10 @@ status: conscious
 
 > **Definition:** A systematic review is a comprehensive, structured, and reproducible method for identifying, selecting, appraising, and synthesizing all relevant research on a specific question.
 
+## Significance
+
+- **Critical appraisal:** Assessment of methodological quality and risk of bias in included studies
+
 ## Related Concepts
 
 - [[Meta_Analysis_Overview_Z-001-0580A]]

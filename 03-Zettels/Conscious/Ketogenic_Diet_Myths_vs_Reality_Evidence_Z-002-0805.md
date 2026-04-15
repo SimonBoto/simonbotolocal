@@ -46,6 +46,10 @@ Common concerns about ketogenic diets are **not supported by scientific evidence
 | **PURE study** | Higher carb = higher mortality |
 | **Multiple RCTs** | Low-carb safe and effective |
 
+## Significance
+
+Common concerns about ketogenic diets are **not supported by scientific evidence** — the largest study found higher carb intake, not lower, associated with increased mortality.
+
 ## Source
 - **LitNote:** [[L-002-0222_Stopping_Sugar_Carbs_Metabolic_Effects]]
 - **Reference:** Dehghan M, et al. *Lancet*. 2017;390(10107):2050-2062.

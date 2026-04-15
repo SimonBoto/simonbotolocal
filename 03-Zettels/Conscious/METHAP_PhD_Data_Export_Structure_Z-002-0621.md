@@ -83,6 +83,10 @@ patient_id,date,visit_number,age,bmi,waist_hip,vit_d_ng_ml,tsh_ft3_ft4,anti_tpo,
 
 > **Standardized data export format for METHAP trial analysis**
 
+## Significance
+
+patient_id,date,visit_number,age,bmi,waist_hip,vit_d_ng_ml,tsh_ft3_ft4,anti_tpo,anti_tg,glucose,insulin,homa_ir,homa_beta,hba1c,tg_hdl_ratio,tyg_index,crp,esr,homocysteine,ferritin,b12,folate_5mthf,lipid_ratios,supplement_protocol
+
 ## Related
 
 - [[METHAP_Study_Design_Overview_Z-002-0616]

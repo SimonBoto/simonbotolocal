@@ -63,6 +63,10 @@ related: []
 > "Hyperinsulinemia promotes cardiovascular disease through multiple mechanisms that operate independently of blood glucose levels."
 > — Zhao et al., 2019
 
+## Significance
+
+**Hyperinsulinemia promotes cardiovascular disease through multiple mechanisms** — including endothelial dysfunction, sympathetic activation, sodium retention, and dyslipidemia — that operate **independently of blood glucose levels**.
+
 ## Source
 - **LitNote:** [[L-002-0182_High_Glucose_vs_Insulin_What_Matters]]
 - **Reference:** Zhao Y, et al. 2019.

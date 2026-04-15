@@ -28,7 +28,15 @@ created: 2026-02-22
 
 **Critical:** All three tyrosines must be phosphorylated for maximum kinase activity. Partial phosphorylation reduces signaling efficiency.
 
+## Mechanism
+
+binding triggers a conformational change that activates the β subunit tyrosine kinase domain, initiating signal transduction.
+
 ## Core Principle
+
+binding triggers a conformational change that activates the β subunit tyrosine kinase domain, initiating signal transduction.
+
+## Mechanism
 
 binding triggers a conformational change that activates the β subunit tyrosine kinase domain, initiating signal transduction.
 
@@ -37,7 +45,15 @@ binding triggers a conformational change that activates the β subunit tyrosine 
 - **Prerequisite:** [[Insulin_Receptor_Structure_Z-001-0001]] — Receptor architecture
 - **Downstream:** [[IRS_Protein_Recruitment_Z-001-0005]] — Adapter binding
 
+## Mechanism
+
+binding triggers a conformational change that activates the β subunit tyrosine kinase domain, initiating signal transduction.
+
 ## Core Principle
+
+binding triggers a conformational change that activates the β subunit tyrosine kinase domain, initiating signal transduction.
+
+## Mechanism
 
 binding triggers a conformational change that activates the β subunit tyrosine kinase domain, initiating signal transduction.
 
@@ -48,7 +64,15 @@ binding triggers a conformational change that activates the β subunit tyrosine 
 **Mechanism source:** PMC3083885 | Gutiérrez-Rodelo et al., 2017
 
 
+## Mechanism
+
+binding triggers a conformational change that activates the β subunit tyrosine kinase domain, initiating signal transduction.
+
 ## Core Principle
+
+binding triggers a conformational change that activates the β subunit tyrosine kinase domain, initiating signal transduction.
+
+## Mechanism
 
 binding triggers a conformational change that activates the β subunit tyrosine kinase domain, initiating signal transduction.
 
@@ -57,7 +81,15 @@ binding triggers a conformational change that activates the β subunit tyrosine 
 
 ---
 
+## Mechanism
+
+binding triggers a conformational change that activates the β subunit tyrosine kinase domain, initiating signal transduction.
+
 ## Core Principle
+
+binding triggers a conformational change that activates the β subunit tyrosine kinase domain, initiating signal transduction.
+
+## Mechanism
 
 binding triggers a conformational change that activates the β subunit tyrosine kinase domain, initiating signal transduction.
 

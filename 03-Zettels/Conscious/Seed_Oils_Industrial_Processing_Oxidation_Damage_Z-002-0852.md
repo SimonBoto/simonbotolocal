@@ -16,7 +16,15 @@ related: []
 
 # Seed Oils: Industrial Processing Causes Oxidation and Lipid Damage
 
+## Mechanism
+
+**Industrial seed oils undergo extensive processing that damages lipids through oxidation** — damage worsens with air exposure and intensifies during cooking/frying.
+
 ## Core Claim
+**Industrial seed oils undergo extensive processing that damages lipids through oxidation** — damage worsens with air exposure and intensifies during cooking/frying.
+
+## Mechanism
+
 **Industrial seed oils undergo extensive processing that damages lipids through oxidation** — damage worsens with air exposure and intensifies during cooking/frying.
 
 ## Industrial Processing Damage

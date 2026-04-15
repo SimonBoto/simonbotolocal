@@ -98,6 +98,10 @@ METHAP trial designed with 220 participants to provide 80% statistical power to 
 
 ---
 
+## Significance
+
+tags: [zettel, power-analysis, sample-size, methap, statistics, clinical-trial]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

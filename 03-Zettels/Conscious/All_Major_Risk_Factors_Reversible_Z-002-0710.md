@@ -28,6 +28,10 @@ related: []
 | **Diabetes** | Carb restriction, weight loss |
 | **Cholesterol** | Diet, metabolic health |
 
+## Significance
+
+tags: [zettel, reversible, risk-factors, lifestyle, diet, intervention]
+
 ## Source
 - **LitNote:** [[L-002-0191_Lifestyle_Diet_Disease_Determinants]]
 

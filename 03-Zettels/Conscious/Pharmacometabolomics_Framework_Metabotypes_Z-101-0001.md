@@ -79,6 +79,10 @@ Pharmacometabolomics uses pre-treatment metabolic profiles (metabotypes) to cate
 
 Pharmacometabolomics uses pre-treatment metabolic profiles (metabotypes) to categorize patients as good or poor responders to therapy, enabling personalized treatment selection based on biochemical individuality rather than empirical trial-and-error.
 
+## Significance
+
+source-litnote: Synthesized from clinical practice
+
 ## Connection to Vault
 
 - Up: MOC-Gut-Microbiome

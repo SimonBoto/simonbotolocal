@@ -172,6 +172,10 @@ HOMA-IR = (Fasting insulin μU/mL × Fasting glucose mmol/L) ÷ 22.5
 
 ---
 
+## Significance
+
+tags: [zettel, clinical, markers, homa-ir, hba1c, insulin-resistance]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

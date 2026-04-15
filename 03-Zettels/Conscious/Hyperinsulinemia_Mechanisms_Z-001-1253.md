@@ -13,7 +13,15 @@ extraction-date: 2026-03-11
 
 # Hyperinsulinemia Mechanisms — Lipolysis Suppression and CPT-1 Inhibition
 
+## Mechanism
+
+Hyperinsulinemia systematically blocks fatty acid oxidation through dual mechanisms: (1) PDE3B-mediated suppression of hormone-sensitive lipase (HSL) preventing free fatty acid release from adipose, and (2) ACC-stimulated malonyl-CoA production allosterically inhibiting CPT-1, preventing mitochondrial fatty acid entry.
+
 ## Core Claim
+Hyperinsulinemia systematically blocks fatty acid oxidation through dual mechanisms: (1) PDE3B-mediated suppression of hormone-sensitive lipase (HSL) preventing free fatty acid release from adipose, and (2) ACC-stimulated malonyl-CoA production allosterically inhibiting CPT-1, preventing mitochondrial fatty acid entry.
+
+## Mechanism
+
 Hyperinsulinemia systematically blocks fatty acid oxidation through dual mechanisms: (1) PDE3B-mediated suppression of hormone-sensitive lipase (HSL) preventing free fatty acid release from adipose, and (2) ACC-stimulated malonyl-CoA production allosterically inhibiting CPT-1, preventing mitochondrial fatty acid entry.
 
 ## Evidence

@@ -126,6 +126,10 @@ Break conclusions into individual sentences/claims. Example from CGPT-0328:
 - [[Limitation_Statement_Best_Practices_Z-001-0943]] — Honest limitations
 - [[Rewriting_Overstated_Claims_Cautious_Language_Z-001-0944]] — Fix strategies
 
+## Significance
+
+source-litnote: Synthesized from clinical practice
+
 ## Source
 [[LitNote_Critical_Assessment_Methodology_L-001-0521]
 

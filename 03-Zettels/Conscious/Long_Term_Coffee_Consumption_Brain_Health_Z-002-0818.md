@@ -46,6 +46,10 @@ related: []
 - Even modest individual risk reduction
 - Translates to **significant public health benefit**
 
+## Significance
+
+**Long-term coffee consumption over decades supports brain health and reduces dementia risk** — the 37-year follow-up demonstrates that coffee's neuroprotective effects are sustained over long periods, making it a viable lifelong prevention strategy.
+
 ## Conclusion
 Coffee's neuroprotective effects are not short-term but sustained across decades, supporting its role in long-term dementia prevention strategies.
 

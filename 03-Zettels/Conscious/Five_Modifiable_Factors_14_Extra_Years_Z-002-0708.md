@@ -33,6 +33,10 @@ The absence of five major modifiable risk factors (smoking, high BP, cholesterol
 | **Women** | +14.5 years |
 | **Men** | +11.8 years |
 
+## Significance
+
+The absence of five major modifiable risk factors (smoking, high BP, cholesterol, diabetes, abnormal weight) is associated with **14.5 extra years for women and 11.8 for men** — all reversible through lifestyle.
+
 ## Source
 - **LitNote:** [[L-002-0191_Lifestyle_Diet_Disease_Determinants]]
 

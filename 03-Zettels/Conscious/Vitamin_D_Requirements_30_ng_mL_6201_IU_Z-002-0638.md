@@ -72,6 +72,10 @@ To achieve the higher serum 25(OH)D target of **30 ng/mL** (associated with opti
 > "6,201 IU/day is needed for 97.5% of adults to achieve serum 25(OH)D >30 ng/mL."
 > — Heaney et al., 2015
 
+## Significance
+
+To achieve the higher serum 25(OH)D target of **30 ng/mL** (associated with optimal health outcomes), approximately **6,201 IU/day** is required for 97.5% of adults — still 10× the current RDA.
+
 ## Source
 - **LitNote:** [[L-002-0168_Vitamin_D_RDA_Statistical_Error]]
 - **Reference:** Heaney RP et al. Letter to Veugelers and Ekwaru. *Nutrients*. 2015;7(3):1688-1690.

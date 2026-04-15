@@ -209,6 +209,10 @@ Without explicit "exploratory" framing, readers may interpret findings as more r
 
 ---
 
+## Significance
+
+source-litnote: Synthesized from clinical practice
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

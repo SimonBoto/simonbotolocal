@@ -126,6 +126,10 @@ Principal components = linear combinations of original variables
 
 ---
 
+## Significance
+
+| **p >> n risk** | Overfitting potential |
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

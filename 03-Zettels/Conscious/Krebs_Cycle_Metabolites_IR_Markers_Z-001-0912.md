@@ -163,6 +163,10 @@ Krebs cycle (tricarboxylic acid cycle) intermediates serve as functional s of mi
 
 Krebs cycle (tricarboxylic acid cycle) intermediates serve as functional s of mitochondrial  and insulin sensitivity. Accumulation of specific organic acids reflects enzymatic bottlenecks, cofactor deficiencies, or metabolic pathway dysregulation characteristic of insulin resistance.
 
+## Significance
+
+source-litnote: Synthesized from clinical practice
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

@@ -219,6 +219,10 @@ extraction-date: 2026-03-01
 
 > The 1923 Nobel Prize in Physiology or Medicine was awarded to Frederick Banting and John MacLeod for the discovery of , sparking controversy over credit allocation that led both laureates to share their prize money with their colleagues Charles Best and James Collip.
 
+## Significance
+
+- Who made it clinically usable? (Collip)
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

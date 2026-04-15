@@ -61,6 +61,10 @@ Despite mathematical proof of statistical error from Veugelers & Ekwaru (2014), 
 
 Despite mathematical proof of statistical error from Veugelers & Ekwaru (2014), the IOM (now National Academy of Medicine) maintained their 2010 calculations were "appropriate and based on available evidence." They cited  concerns (hypercalcemia risk) rather than addressing the statistical validity.
 
+## Significance
+
+Despite mathematical proof of statistical error from Veugelers & Ekwaru (2014), the IOM (now National Academy of Medicine) maintained their 2010 calculations were "appropriate and based on available evidence." They cited  concerns (hypercalcemia risk) rather than addressing the statistical validity.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

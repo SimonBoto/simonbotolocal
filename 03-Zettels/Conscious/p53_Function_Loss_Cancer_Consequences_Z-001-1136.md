@@ -123,6 +123,10 @@ The p53 protein, encoded by the TP53 gene, is the "guardian of the genome." Loss
 
 ---
 
+## Significance
+
+The p53 protein, encoded by the TP53 gene, is the "guardian of the genome." Loss of p53 function removes critical checkpoints for DNA repair, cell cycle control, and apoptosis—enabling malignant transformation and therapeutic resistance.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

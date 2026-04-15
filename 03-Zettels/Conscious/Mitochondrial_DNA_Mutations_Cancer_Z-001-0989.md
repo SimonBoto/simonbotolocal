@@ -358,6 +358,10 @@ AMPK activation
 
 ---
 
+## Significance
+
+- Diabetic patients on metformin: Lower cancer incidence
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

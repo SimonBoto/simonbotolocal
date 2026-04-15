@@ -31,6 +31,10 @@ MRI quantitative assessment demonstrates that **low-carbohydrate diets reduce th
 > "MRI quantitative assessment demonstrates reduced thyroid inflammation following low-carbohydrate dietary intervention in Hashimoto's patients."
 > — Huang XS et al.
 
+## Significance
+
+> "MRI quantitative assessment demonstrates reduced thyroid inflammation following low-carbohydrate dietary intervention in Hashimoto's patients."
+
 ## Source
 - **LitNote:** [[L-002-0186_Hashimoto_Low_Carb_Autoantibodies]]
 

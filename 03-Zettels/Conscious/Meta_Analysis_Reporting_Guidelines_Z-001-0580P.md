@@ -88,6 +88,10 @@ status: conscious
 
 > **Definition:** Reporting guidelines are standardized checklists and frameworks that specify essential information to be reported in systematic reviews and meta-analyses to ensure transparency, completeness, and reproducibility of methods and results.
 
+## Significance
+
+3. **Methods:** Protocol registration, eligibility criteria, information sources, search strategy, study selection, data collection, risk of bias assessment, effect measures, synthesis methods
+
 ## Related Concepts
 
 - [[PRISMA_Flow_Diagram_Z-001-0580F]]

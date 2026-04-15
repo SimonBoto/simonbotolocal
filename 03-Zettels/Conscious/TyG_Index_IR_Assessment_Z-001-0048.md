@@ -215,6 +215,10 @@ The **TyG Index** is a simple, inexpensive surrogate marker for insulin resistan
 
 The **TyG Index** is a simple, inexpensive surrogate marker for insulin resistance using only fasting triglycerides and fasting glucose. It correlates strongly with euglycemic clamp studies and may predict IR earlier than HOMA-IR.
 
+## Significance
+
+source-litnote: Synthesized from clinical practice
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

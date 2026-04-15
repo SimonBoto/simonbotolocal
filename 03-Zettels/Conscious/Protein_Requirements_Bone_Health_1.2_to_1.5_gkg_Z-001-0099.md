@@ -47,6 +47,10 @@ Standard protein: 1.0–1.2 g/kg/day. For sarcopenia or high fracture risk: up t
 
 Standard protein: 1.0–1.2 g/kg/day. For sarcopenia or high fracture risk: up to 1.5 g/kg/day. Sources: lean meats, dairy, eggs, legumes. Distributed across meals for optimal muscle protein synthesis.
 
+## Significance
+
+Standard protein: 1.0–1.2 g/kg/day. For sarcopenia or high fracture risk: up to 1.5 g/kg/day. Sources: lean meats, dairy, eggs, legumes. Distributed across meals for optimal muscle protein synthesis.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

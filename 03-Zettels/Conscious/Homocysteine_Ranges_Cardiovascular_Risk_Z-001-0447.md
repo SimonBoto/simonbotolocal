@@ -84,6 +84,10 @@ extraction-date: 2026-03-01
 
 > Homocysteine >10-12 μmol/L is associated with increased cardiovascular risk, while optimal levels are <8-10 μmol/L.
 
+## Significance
+
+tags: [zettel, homocysteine, ranges, cardiovascular, risk]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

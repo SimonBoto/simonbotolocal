@@ -14,8 +14,16 @@ extraction-date: 2026-03-08
 
 # Beta Oxidation Clinical Mechanisms
 
+## Mechanism
+
+| Acetyl-CoA | 8 | 80 ATP (via TCA) |
+
 ## Core Claim
 **Beta-oxidation is the mitochondrial process of breaking down fatty acids into acetyl-CoA units — generating NADH and FADH₂ for the electron transport chain — with clinical dysfunction manifesting as impaired energy production, hypoketotic hypoglycemia, and characteristic OAT markers (elevated adipate, suberate).**
+
+## Mechanism
+
+| Acetyl-CoA | 8 | 80 ATP (via TCA) |
 
 ## Evidence
 

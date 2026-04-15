@@ -48,5 +48,9 @@ p-ANCA+ → UC-like (60-70%) → ASCA+ → Crohn's-like (50-60%) → Diagnostic 
 - [[IBD_Genetic_Predisposition_Z-001-0585F]]
 - [[IBD_Environmental_Triggers_Z-001-0585G]]
 
+## Significance
+
+Dysbiosis and altered host-microbiota interactions are central to IBD pathogenesis, with microbial composition differences between Crohn's disease and ulcerative colitis contributing to distinct immune responses and inflammation patterns.
+
 ## References
 - [[CGPT_0209_Gastroenterology_Registrar_Assessment_CGPT-0209]]

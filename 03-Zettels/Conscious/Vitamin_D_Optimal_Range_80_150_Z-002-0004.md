@@ -203,6 +203,10 @@ patient_id,visit,vit_d_dose_iu_daily,vit_d_25_oh_ng_ml,vit_d_status
 
 **25-Hydroxyvitamin D [25(OH)D]** is the standard clinical measure of vitamin D status. While conventional medicine targets 30 ng/mL (75 nmol/L), metabolic optimization requires **80-150 ng/mL**.
 
+## Significance
+
+tags: [zettel, biomarker, vitamin-d, status/optimal, clinical-protocol, phd-methap]
+
 ## Connection to Vault
 
 - Up: [[MOC-Vitamin-Metabolism]]

@@ -32,6 +32,10 @@ related: []
 | +20 mg/dL | ~10% higher |
 | +40 mg/dL | ~20% higher |
 
+## Significance
+
+tags: [zettel, lpa, risk-levels, dose-response]
+
 ## Source
 - **LitNote:** [[L-002-0197_Lpa_Mechanism_Management]]
 

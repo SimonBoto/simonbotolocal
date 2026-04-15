@@ -229,6 +229,10 @@ Decision: Anabolic therapy indicated
 - [[FRAX_Output_Thresholds_Treatment_Decisions_Z-001-0110]] — Using adjusted scores
 - [[Glucocorticoid_Induced_Osteoporosis_Pathophysiology_Z-001-XXXX] — Steroid 
 
+## Significance
+
+tags: [zettel, frax, adjustments, tbs, falls, glucocorticoids, risk-modification, conscious]
+
 ## Source
 [[LitNote_FRAX_Risk_Assessment_Tool_L-001-0017]
 

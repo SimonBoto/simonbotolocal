@@ -185,6 +185,10 @@ extraction-date: 2026-03-01
 
 > Vitamin K2 exists as a family of menaquinones with varying chain lengths, with MK-4 and MK-7 being the most clinically relevant forms, differing in source, bioavailability, dosing, and therapeutic applications.
 
+## Significance
+
+> Vitamin K2 exists as a family of menaquinones with varying chain lengths, with MK-4 and MK-7 being the most clinically relevant forms, differing in source, bioavailability, dosing, and therapeutic applications.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

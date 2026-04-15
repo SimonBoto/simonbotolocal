@@ -179,6 +179,10 @@ extraction-date: 2026-03-01
 
 > High-dose  (8000 IU/day) in the METHAP trial requires systematic monitoring of calcium homeostasis to ensure participant , with scheduled assessments, clear intervention thresholds, and predefined stopping rules.
 
+## Significance
+
+- Granulomatous disease (sarcoidosis, TB)
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

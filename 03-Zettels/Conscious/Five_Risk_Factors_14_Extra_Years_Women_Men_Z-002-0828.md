@@ -40,6 +40,10 @@ related: []
 | **Women** | 25% (1 in 4) |
 | **Men** | 33% (1 in 3) |
 
+## Significance
+
+tags: [zettel, five-risk-factors, modifiable, longevity, 14-years, nejm]
+
 ## Study Scale
 - **2 million people**
 - **39 countries**

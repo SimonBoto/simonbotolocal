@@ -60,6 +60,10 @@ Current IOM Upper Limits (UL) for  are substantially lower than doses proven saf
 
 Current IOM Upper Limits (UL) for  are substantially lower than doses proven safe in  research. Pediatric studies demonstrate safety at doses 2-4x UL, creating evidence gap that affects clinical practice and regulatory policy.
 
+## Significance
+
+Current IOM Upper Limits (UL) for  are substantially lower than doses proven safe in  research. Pediatric studies demonstrate safety at doses 2-4x UL, creating evidence gap that affects clinical practice and regulatory policy.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

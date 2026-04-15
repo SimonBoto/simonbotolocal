@@ -82,6 +82,10 @@ Six proteins that bind and protect telomeres:
 
 ---
 
+## Significance
+
+- Autoimmune diseases (accelerated shortening)
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

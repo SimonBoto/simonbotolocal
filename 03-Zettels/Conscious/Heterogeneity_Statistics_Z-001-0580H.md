@@ -70,6 +70,10 @@ status: conscious
 
 > **Definition:** Heterogeneity statistics quantify the degree of variability in effect estimates across studies included in a meta-analysis that cannot be attributed to random sampling error alone.
 
+## Significance
+
+- **Clinical heterogeneity:** Differences in populations, interventions, outcomes, or settings
+
 ## Related Concepts
 
 - [[Fixed_vs_Random_Effects_Z-001-0580I]]

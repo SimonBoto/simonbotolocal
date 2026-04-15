@@ -47,6 +47,10 @@ related: []
 - **One-size-fits-all** nutrition fails
 - **Genetics** determines optimal diet
 
+## Significance
+
+tags: [zettel, meat, APOE4, alzheimer, dementia, genetic-risk, nutrition]
+
 ## Source
 - **LitNote:** [[L-002-0206_Meat_Consumption_Eliminates_Alzheimer_Genetic_Risk]]
 - **Reference:** Norgren J, et al. 2026

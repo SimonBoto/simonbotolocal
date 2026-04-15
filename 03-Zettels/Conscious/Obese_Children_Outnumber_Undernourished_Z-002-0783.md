@@ -70,6 +70,10 @@ related: []
 > "Unhealthy foods and beverages, including ultra-processed, are widely available, cheap, and aggressively promoted where children live, learn, and play."
 > — UNICEF 2025 Child Nutrition Report
 
+## Significance
+
+| **Autoimmune diseases** | Linked to obesity |
+
 ## Source
 - **LitNote:** [[L-002-0215_Pediatric_Obesity_Historic_Reversal]]
 - **Reference:** UNICEF 2025 Child Nutrition Report

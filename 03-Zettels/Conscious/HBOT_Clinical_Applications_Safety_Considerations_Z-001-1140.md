@@ -177,6 +177,10 @@ Hyperbaric oxygen therapy has established indications for radiation-related comp
 
 ---
 
+## Significance
+
+tags: [zettel, hbot, clinical, safety, contraindications]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

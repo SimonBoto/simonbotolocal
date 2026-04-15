@@ -83,6 +83,10 @@ Orthogonal Partial Least Squares Discriminant Analysis (OPLS-DA) can achieve **p
 - [[Underpowered_Study_Consequences_Z-001-0929]] — Small sample issues
 - [[Benjamini_Hochberg_Procedure_Z-001-0524]] — Multiple testing
 
+## Significance
+
+source-litnote: Synthesized from clinical practice
+
 ## Source
 [[LitNote_Multivariate_Analysis_Pitfalls_L-001-0517]
 

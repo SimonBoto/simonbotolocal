@@ -97,6 +97,10 @@ Understanding epidemiology informs:
 
 > Metabolic syndrome has reached epidemic proportions worldwide, representing one of the major public health challenges of the 21st century.
 
+## Significance
+
+- **Higher risk:** South Asian, Hispanic, African American, Native American
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

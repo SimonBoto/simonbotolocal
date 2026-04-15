@@ -126,6 +126,10 @@ U.S. National Commission for the Protection of Human Subjects landmark report es
 
 U.S. National Commission for the Protection of Human Subjects landmark report establishing three core ethical principles: Respect for Persons, Beneficence, and Justice. Foundation for U.S.  regulations (45 CFR 46, Common Rule).
 
+## Significance
+
+- 600 Black men denied syphilis treatment
+
 ## Connection to Vault
 
 - Up: [[MOC-Research-Ethics]]

@@ -14,8 +14,16 @@ extraction-date: 2026-03-04
 
 # Formamide Chemistry — Alternative Prebiotic Pathway
 
+## Mechanism
+
+- **METHAP relevance:** Understanding alternative pathways shows metabolic origins are robust and redundant — core biochemistry emerged through multiple mechanisms
+
 ## Core Claim
 **Formamide (NH₂CHO) is a more stable and less toxic alternative to HCN for prebiotic nucleobase synthesis — as the amide of formic acid with a boiling point of 210°C, formamide can produce both purines and pyrimidines under heated conditions with mineral catalysts (TiO₂, silica, meteorite dust)** — this pathway may have complemented or superseded HCN chemistry on early Earth.
+
+## Mechanism
+
+- **METHAP relevance:** Understanding alternative pathways shows metabolic origins are robust and redundant — core biochemistry emerged through multiple mechanisms
 
 ## Evidence
 

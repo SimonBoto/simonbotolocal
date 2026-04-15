@@ -33,6 +33,10 @@ related: []
 | **Risk stratification** | CAC scoring |
 | **Personalized therapy** | Treat based on plaque burden |
 
+## Significance
+
+title: "Overtreatment Common in Low Risk Despite High LDL"
+
 ## Source
 - **LitNote:** [[L-002-0188_Chol_Lowering_CAC_Stratification]]
 

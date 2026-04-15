@@ -60,6 +60,10 @@ Despite modern understanding that vitamin D toxicity is rare and requires massiv
 
 Despite modern understanding that vitamin D toxicity is rare and requires massive supplemental intake (far exceeding physiological production), the toxicity myth persists in public consciousness, medical education, and  practice. This persistence stems from 1950s regulatory responses and failure to update curricula with genetic discoveries.
 
+## Significance
+
+tags: [zettel, vitamin-d, toxicity-myth, misinformation, clinical-practice]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

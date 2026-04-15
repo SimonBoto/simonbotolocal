@@ -48,6 +48,10 @@ status: conscious
 
 ---
 
+## Significance
+
+- **Bias evaluation:** Assessment of risk of bias in individual studies and across the body of evidence
+
 ## Related Concepts
 
 - [[Systematic_Review_Principles_Z-001-0580B]]

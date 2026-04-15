@@ -61,6 +61,10 @@ extraction-date: 2026-03-05
 
 ---
 
+## Significance
+
+- **Maple syrup urine disease:** Defective BCAA → succinyl-CoA pathway
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

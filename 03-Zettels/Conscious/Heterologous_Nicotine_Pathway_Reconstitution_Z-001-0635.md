@@ -17,9 +17,17 @@ status: conscious
 
 The complete nicotine biosynthesis pathway was functionally **reconstituted in four different species** — yeast, tomato, eggplant, and peas — demonstrating portability and validating the complete enzyme set.
 
+## Mechanism
+
+- Functional validation via metabolite detection
+
 ## Core Principle
 
 The complete nicotine biosynthesis pathway was functionally **reconstituted in four different species** — yeast, tomato, eggplant, and peas — demonstrating portability and validating the complete enzyme set.
+
+## Mechanism
+
+- Functional validation via metabolite detection
 
 ## Species Successfully Transformed
 
@@ -30,9 +38,17 @@ The complete nicotine biosynthesis pathway was functionally **reconstituted in f
 | **Eggplant** | Vegetable | Solanaceae relative (like tobacco) |
 | **Pea** | Legume | Distant relative — proves portability |
 
+## Mechanism
+
+- Functional validation via metabolite detection
+
 ## Core Principle
 
 The complete nicotine biosynthesis pathway was functionally **reconstituted in four different species** — yeast, tomato, eggplant, and peas — demonstrating portability and validating the complete enzyme set.
+
+## Mechanism
+
+- Functional validation via metabolite detection
 
 ## Why This Matters
 
@@ -51,9 +67,17 @@ The complete nicotine biosynthesis pathway was functionally **reconstituted in f
 - Enzymes function across kingdoms
 - Foundation for pathway engineering
 
+## Mechanism
+
+- Functional validation via metabolite detection
+
 ## Core Principle
 
 The complete nicotine biosynthesis pathway was functionally **reconstituted in four different species** — yeast, tomato, eggplant, and peas — demonstrating portability and validating the complete enzyme set.
+
+## Mechanism
+
+- Functional validation via metabolite detection
 
 ## Technical Achievement
 
@@ -62,9 +86,17 @@ Reconstituting a **200-year mystery pathway** in four species required:
 - Proper expression and localization
 - Functional validation via metabolite detection
 
+## Mechanism
+
+- Functional validation via metabolite detection
+
 ## Core Principle
 
 The complete nicotine biosynthesis pathway was functionally **reconstituted in four different species** — yeast, tomato, eggplant, and peas — demonstrating portability and validating the complete enzyme set.
+
+## Mechanism
+
+- Functional validation via metabolite detection
 
 ## Future Directions
 
@@ -72,9 +104,17 @@ The complete nicotine biosynthesis pathway was functionally **reconstituted in f
 - Engineer nicotine analogs
 - Study pathway regulation
 
+## Mechanism
+
+- Functional validation via metabolite detection
+
 ## Core Principle
 
 The complete nicotine biosynthesis pathway was functionally **reconstituted in four different species** — yeast, tomato, eggplant, and peas — demonstrating portability and validating the complete enzyme set.
+
+## Mechanism
+
+- Functional validation via metabolite detection
 
 ## Source
 [[LitNote_McCarty_Nicotine_Biosynthesis_2026_L-001-0606]] — McCarty (2026)

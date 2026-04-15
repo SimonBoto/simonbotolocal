@@ -178,6 +178,10 @@ patient_id,visit,uric_acid_mg_dl,uric_acid_target_status
 
 **Uric acid** is the end product of purine . While traditionally associated with gout, it's now recognized as a **marker of metabolic syndrome** and independent cardiovascular risk factor. The optimal target is **<5.5 mg/dL**, well below the standard "normal" range.
 
+## Significance
+
+tags: [zettel, biomarker, uric-acid, status/optimal, clinical-protocol]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

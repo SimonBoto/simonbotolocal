@@ -98,6 +98,10 @@ METHAP represents the translation of mechanistic understanding (D-K2-Mg synergy)
 
 METHAP (Metabolic Health and Adipic Acid Protocol) addresses critical gaps in the D-K2 co-supplementation literature by studying metabolic syndrome populations with systematic monitoring, high-dose protocols, and comprehensive nutrient synergy including magnesium as a third cofactor.
 
+## Significance
+
+tags: [zettel, methap, vitamin-d, vitamin-k2, clinical-trial, evidence]
+
 ## Links — Two Types
 
 ### Structural (Navigation)

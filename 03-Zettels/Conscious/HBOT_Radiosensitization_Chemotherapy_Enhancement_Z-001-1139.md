@@ -154,6 +154,10 @@ HBOT increases tissue O₂ → More DNA damage fixed → Enhanced cell kill
 
 ---
 
+## Significance
+
+Hyperbaric oxygen therapy enhances the efficacy of radiation and chemotherapy by overcoming tumor hypoxia—a major cause of treatment resistance—and improving drug delivery and ROS-mediated cytotoxicity.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

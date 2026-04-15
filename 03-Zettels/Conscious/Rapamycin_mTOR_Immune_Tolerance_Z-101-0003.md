@@ -87,6 +87,10 @@ Rapamycin (sirolimus) induces immune tolerance by inhibiting mTOR, a central reg
 
 Rapamycin (sirolimus) induces immune tolerance by inhibiting mTOR, a central regulator of cellular  and immune cell activation. mTOR hyperactivation precedes SLE onset and correlates with comorbidity presence — making it a therapeutic target for restoring immune homeostasis.
 
+## Significance
+
+Rapamycin (sirolimus) induces immune tolerance by inhibiting mTOR, a central regulator of cellular  and immune cell activation. mTOR hyperactivation precedes SLE onset and correlates with comorbidity presence — making it a therapeutic target for restoring immune homeostasis.
+
 ## Connection to Vault
 
 - Up: [[MOC-Inflammation]]

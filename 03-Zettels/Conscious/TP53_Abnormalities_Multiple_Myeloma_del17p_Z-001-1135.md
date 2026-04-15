@@ -114,6 +114,10 @@ TP53 abnormalities, particularly deletion of chromosome 17p (del(17p)) containin
 
 ---
 
+## Significance
+
+TP53 abnormalities, particularly deletion of chromosome 17p (del(17p)) containing the TP53 gene, represent the highest-risk cytogenetic feature in multiple myeloma, associated with poor prognosis and treatment resistance.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

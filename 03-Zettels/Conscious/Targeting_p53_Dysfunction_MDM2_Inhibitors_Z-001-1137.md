@@ -136,6 +136,10 @@ Stress/DNA damage → p53 activation → Cell cycle arrest/apoptosis
 
 ---
 
+## Significance
+
+MDM2 inhibitors represent a promising therapeutic strategy for s with wild-type TP53 by blocking the negative regulator of p53, thereby reactivating p53-mediated tumor suppression.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

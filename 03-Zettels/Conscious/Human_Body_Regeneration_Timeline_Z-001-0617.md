@@ -80,6 +80,10 @@ The body is **never static** — complete cellular replacement occurs over time:
 
 Visual summary of tissue-specific regeneration rates, illustrating the body's continuous self-renewal capacity (Boettcher, 2025).
 
+## Significance
+
+- **Clinical relevance:** Liver disease, toxin exposure, partial hepatectomy
+
 ## Source
 - **Image:** [[2025-12-26_X_BrettBoettcher_Body_Regeneration_Timeline.jpg]]
 - **Metadata:** [[2025-12-26_X_BrettBoettcher_Body_Regeneration_Timeline]]

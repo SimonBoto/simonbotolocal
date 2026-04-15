@@ -90,6 +90,10 @@ Potential benefits must outweigh risks, with risks minimized to the extent possi
 
 Potential benefits must outweigh risks, with risks minimized to the extent possible. This assessment must be systematic, thorough, and ongoing throughout the research.
 
+## Significance
+
+aliases: [Z-002-0604, ethics-risk-benefit]
+
 ## Connection to Vault
 
 - Up: [[MOC-Methylation]]

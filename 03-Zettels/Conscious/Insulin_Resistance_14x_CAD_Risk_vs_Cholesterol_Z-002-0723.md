@@ -30,6 +30,10 @@ related: []
 |-------|----------|
 | LDL-centric | Metabolic health |
 
+## Significance
+
+tags: [zettel, insulin-resistance, cad, cholesterol, risk]
+
 ## Source
 - **LitNote:** [[L-002-0196_Metabolism_Heart_Health]]
 

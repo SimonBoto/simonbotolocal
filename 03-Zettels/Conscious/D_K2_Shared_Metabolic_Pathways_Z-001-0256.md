@@ -15,9 +15,17 @@ extraction-date: 2026-03-01
 
 > Vitamins D and K2 converge on multiple metabolic pathways—calcium homeostasis,  signaling, inflammation, and lipid —creating synergistic effects that exceed their individual contributions to metabolic health.
 
+## Mechanism
+
+### Vitamin K2 Actions (via ucOC)
+
 ## Core Principle
 
 > Vitamins D and K2 converge on multiple metabolic pathways—calcium homeostasis,  signaling, inflammation, and lipid —creating synergistic effects that exceed their individual contributions to metabolic health.
+
+## Mechanism
+
+### Vitamin K2 Actions (via ucOC)
 
 ## 1. Calcium Homeostasis
 
@@ -40,9 +48,17 @@ K2: Directs calcium to bone/away from arteries
 Result: Optimal bone mineralization + vascular safety
 ```
 
+## Mechanism
+
+### Vitamin K2 Actions (via ucOC)
+
 ## Core Principle
 
 > Vitamins D and K2 converge on multiple metabolic pathways—calcium homeostasis,  signaling, inflammation, and lipid —creating synergistic effects that exceed their individual contributions to metabolic health.
+
+## Mechanism
+
+### Vitamin K2 Actions (via ucOC)
 
 ## 2. Insulin Sensitivity
 
@@ -65,9 +81,17 @@ K2: Enhances insulin secretion + adipokine profile
 Result: Dual mechanism glucose control
 ```
 
+## Mechanism
+
+### Vitamin K2 Actions (via ucOC)
+
 ## Core Principle
 
 > Vitamins D and K2 converge on multiple metabolic pathways—calcium homeostasis,  signaling, inflammation, and lipid —creating synergistic effects that exceed their individual contributions to metabolic health.
+
+## Mechanism
+
+### Vitamin K2 Actions (via ucOC)
 
 ## 3. Inflammation
 
@@ -90,9 +114,17 @@ K2: Additional anti-inflammatory layer
 Result: Greater reduction in chronic inflammation
 ```
 
+## Mechanism
+
+### Vitamin K2 Actions (via ucOC)
+
 ## Core Principle
 
 > Vitamins D and K2 converge on multiple metabolic pathways—calcium homeostasis,  signaling, inflammation, and lipid —creating synergistic effects that exceed their individual contributions to metabolic health.
+
+## Mechanism
+
+### Vitamin K2 Actions (via ucOC)
 
 ## 4. Lipid Metabolism
 
@@ -110,9 +142,17 @@ Result: Greater reduction in chronic inflammation
 - Complementary lipid benefits
 - Combined cardiovascular protection
 
+## Mechanism
+
+### Vitamin K2 Actions (via ucOC)
+
 ## Core Principle
 
 > Vitamins D and K2 converge on multiple metabolic pathways—calcium homeostasis,  signaling, inflammation, and lipid —creating synergistic effects that exceed their individual contributions to metabolic health.
+
+## Mechanism
+
+### Vitamin K2 Actions (via ucOC)
 
 ## Integration Diagram
 
@@ -135,9 +175,17 @@ Result: Greater reduction in chronic inflammation
                     BENEFITS
 ```
 
+## Mechanism
+
+### Vitamin K2 Actions (via ucOC)
+
 ## Core Principle
 
 > Vitamins D and K2 converge on multiple metabolic pathways—calcium homeostasis,  signaling, inflammation, and lipid —creating synergistic effects that exceed their individual contributions to metabolic health.
+
+## Mechanism
+
+### Vitamin K2 Actions (via ucOC)
 
 ## METHAP Implications
 
@@ -156,9 +204,17 @@ Result: Greater reduction in chronic inflammation
 *Source: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]*  
 *Extracted: 2026-03-01*
 
+## Mechanism
+
+### Vitamin K2 Actions (via ucOC)
+
 ## Core Principle
 
 > Vitamins D and K2 converge on multiple metabolic pathways—calcium homeostasis,  signaling, inflammation, and lipid —creating synergistic effects that exceed their individual contributions to metabolic health.
+
+## Mechanism
+
+### Vitamin K2 Actions (via ucOC)
 
 ## RELATED FILES
 - [[CRP_[B-002-0001]|Biomarker Family]
@@ -168,9 +224,17 @@ Result: Greater reduction in chronic inflammation
 
 ---
 
+## Mechanism
+
+### Vitamin K2 Actions (via ucOC)
+
 ## Core Principle
 
 > Vitamins D and K2 converge on multiple metabolic pathways—calcium homeostasis,  signaling, inflammation, and lipid —creating synergistic effects that exceed their individual contributions to metabolic health.
+
+## Mechanism
+
+### Vitamin K2 Actions (via ucOC)
 
 ## Connection to Vault
 

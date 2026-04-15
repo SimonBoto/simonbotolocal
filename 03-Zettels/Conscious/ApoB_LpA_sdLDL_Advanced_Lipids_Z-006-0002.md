@@ -173,6 +173,10 @@ patient_id,visit,apo_b_mg_dl,lp_a_mg_dl,sdldl_mg_dl,advanced_lipid_status
 
 **Beyond standard lipids:** ApoB measures atherogenic particle number, Lp(a) captures genetic CVD risk, and sdLDL identifies dangerous small dense particles. These markers refine risk stratification beyond LDL-C.
 
+## Significance
+
+**Beyond standard lipids:** ApoB measures atherogenic particle number, Lp(a) captures genetic CVD risk, and sdLDL identifies dangerous small dense particles. These markers refine risk stratification beyond LDL-C.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

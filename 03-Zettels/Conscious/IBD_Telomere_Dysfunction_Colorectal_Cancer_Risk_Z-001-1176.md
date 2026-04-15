@@ -164,6 +164,10 @@ parent-index: [[03-Zettels-Conscious]]
 ---
 parent-index: [[03-Zettels-Conscious]]
 
+## Significance
+
+tags: [zettel, ibd, crohns, ulcerative-colitis, telomeres, cancer-risk, colorectal-cancer]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

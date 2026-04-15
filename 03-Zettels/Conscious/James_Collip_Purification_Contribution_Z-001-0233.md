@@ -159,6 +159,10 @@ extraction-date: 2026-03-01
 
 > Biochemist James Collip's purification of  in late 1921 was the critical step that transformed crude pancreatic extracts into a safe, effective, and clinically usable medication, enabling the first successful human treatment.
 
+## Significance
+
+> Biochemist James Collip's purification of  in late 1921 was the critical step that transformed crude pancreatic extracts into a safe, effective, and clinically usable medication, enabling the first successful human treatment.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

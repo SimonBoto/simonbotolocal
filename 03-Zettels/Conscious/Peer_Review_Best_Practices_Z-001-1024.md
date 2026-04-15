@@ -386,6 +386,10 @@ parent-index: [[03-Zettels-Conscious]]
 ---
 parent-index: [[03-Zettels-Conscious]]
 
+## Significance
+
+> "The study is underpowered. With the observed effect size and variance, approximately 200 participants would be needed for 80% power. The current n=85 risks Type II error. Consider power analysis and acknowledge limitations or expand sample." (Page 8, Methods)
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

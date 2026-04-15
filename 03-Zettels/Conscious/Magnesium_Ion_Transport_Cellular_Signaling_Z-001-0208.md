@@ -15,7 +15,15 @@ extraction-date: 2026-03-01
 
 > Magnesium regulates critical ion channels and serves as a physiological calcium antagonist, modulating neuronal excitability, muscle contraction, and intracellular signaling cascades.
 
+## Mechanism
+
+> Magnesium regulates critical ion channels and serves as a physiological calcium antagonist, modulating neuronal excitability, muscle contraction, and intracellular signaling cascades.
+
 ## Core Principle
+
+> Magnesium regulates critical ion channels and serves as a physiological calcium antagonist, modulating neuronal excitability, muscle contraction, and intracellular signaling cascades.
+
+## Mechanism
 
 > Magnesium regulates critical ion channels and serves as a physiological calcium antagonist, modulating neuronal excitability, muscle contraction, and intracellular signaling cascades.
 
@@ -42,7 +50,15 @@ extraction-date: 2026-03-01
 - **TRPM7:** Ubiquitous; cellular Mg uptake, also kinase activity
 - **Mutations:** Cause primary hypomagnesemia with secondary hypocalcemia
 
+## Mechanism
+
+> Magnesium regulates critical ion channels and serves as a physiological calcium antagonist, modulating neuronal excitability, muscle contraction, and intracellular signaling cascades.
+
 ## Core Principle
+
+> Magnesium regulates critical ion channels and serves as a physiological calcium antagonist, modulating neuronal excitability, muscle contraction, and intracellular signaling cascades.
+
+## Mechanism
 
 > Magnesium regulates critical ion channels and serves as a physiological calcium antagonist, modulating neuronal excitability, muscle contraction, and intracellular signaling cascades.
 
@@ -66,7 +82,15 @@ extraction-date: 2026-03-01
 - Hypomagnesemia → Ca²⁺ overload → vasospasm, tetany, arrhythmias
 - Hypermagnesemia (therapeutic) → Ca²⁺ antagonism → vasodilation, muscle relaxation
 
+## Mechanism
+
+> Magnesium regulates critical ion channels and serves as a physiological calcium antagonist, modulating neuronal excitability, muscle contraction, and intracellular signaling cascades.
+
 ## Core Principle
+
+> Magnesium regulates critical ion channels and serves as a physiological calcium antagonist, modulating neuronal excitability, muscle contraction, and intracellular signaling cascades.
+
+## Mechanism
 
 > Magnesium regulates critical ion channels and serves as a physiological calcium antagonist, modulating neuronal excitability, muscle contraction, and intracellular signaling cascades.
 
@@ -85,7 +109,15 @@ extraction-date: 2026-03-01
 - GTP-binding to G-proteins requires Mg²⁺
 - Affects all GPCR-mediated signaling
 
+## Mechanism
+
+> Magnesium regulates critical ion channels and serves as a physiological calcium antagonist, modulating neuronal excitability, muscle contraction, and intracellular signaling cascades.
+
 ## Core Principle
+
+> Magnesium regulates critical ion channels and serves as a physiological calcium antagonist, modulating neuronal excitability, muscle contraction, and intracellular signaling cascades.
+
+## Mechanism
 
 > Magnesium regulates critical ion channels and serves as a physiological calcium antagonist, modulating neuronal excitability, muscle contraction, and intracellular signaling cascades.
 
@@ -106,7 +138,15 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 
+## Mechanism
+
+> Magnesium regulates critical ion channels and serves as a physiological calcium antagonist, modulating neuronal excitability, muscle contraction, and intracellular signaling cascades.
+
 ## Core Principle
+
+> Magnesium regulates critical ion channels and serves as a physiological calcium antagonist, modulating neuronal excitability, muscle contraction, and intracellular signaling cascades.
+
+## Mechanism
 
 > Magnesium regulates critical ion channels and serves as a physiological calcium antagonist, modulating neuronal excitability, muscle contraction, and intracellular signaling cascades.
 
@@ -117,9 +157,21 @@ extraction-date: 2026-03-01
 
 ---
 
+## Mechanism
+
+> Magnesium regulates critical ion channels and serves as a physiological calcium antagonist, modulating neuronal excitability, muscle contraction, and intracellular signaling cascades.
+
 ## Core Principle
 
 > Magnesium regulates critical ion channels and serves as a physiological calcium antagonist, modulating neuronal excitability, muscle contraction, and intracellular signaling cascades.
+
+## Mechanism
+
+> Magnesium regulates critical ion channels and serves as a physiological calcium antagonist, modulating neuronal excitability, muscle contraction, and intracellular signaling cascades.
+
+## Significance
+
+- Hypermagnesemia (therapeutic) → Ca²⁺ antagonism → vasodilation, muscle relaxation
 
 ## Connection to Vault
 

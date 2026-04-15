@@ -341,6 +341,10 @@ Respect for communities affected by research.
 
 ---
 
+## Significance
+
+- Local populations bore risks without benefits
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

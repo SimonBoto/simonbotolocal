@@ -192,6 +192,10 @@ patient_id,visit,rbc_folate_ng_ml,5_mthf_ng_ml,mthfr_genotype,folate_form_used
 
 **Not all folate is equal.** 5-Methyltetrahydrofolate (5-MTHF) is the active form used in methylation. Folic acid is synthetic and requires conversion. **MTHFR variants impair this conversion**, making 5-MTHF essential for many patients.
 
+## Significance
+
+tags: [zettel, biomarker, methylation, folate, mthfr, clinical-protocol]
+
 ## Connection to Vault
 
 - Up: [[MOC-Vitamin-Metabolism]]

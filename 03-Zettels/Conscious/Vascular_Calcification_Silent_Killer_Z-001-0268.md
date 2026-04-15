@@ -113,6 +113,10 @@ extraction-date: 2026-03-01
 
 > Vascular calcification—the deposition of  phosphate crystals in arterial walls—affects 90% of adults over 70, increases cardiovascular risk independent of traditional factors, and often remains asymptomatic until advanced stages.
 
+## Significance
+
+> Vascular calcification—the deposition of  phosphate crystals in arterial walls—affects 90% of adults over 70, increases cardiovascular risk independent of traditional factors, and often remains asymptomatic until advanced stages.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

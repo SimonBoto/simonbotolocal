@@ -118,6 +118,10 @@ status: conscious
 
 ---
 
+## Significance
+
+tags: [zettel, education, asynchronous-learning, clinical-team, time-management]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

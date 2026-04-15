@@ -85,6 +85,10 @@ response       ↓
 
 > Red flags for B12 deficiency masquerading as malignancy include macrocytic anemia with hypercellular marrow, no monoclonal protein, and risk factors for B12 deficiency.
 
+## Significance
+
+tags: [zettel, clinical, diagnosis, b12, multiple-myeloma]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

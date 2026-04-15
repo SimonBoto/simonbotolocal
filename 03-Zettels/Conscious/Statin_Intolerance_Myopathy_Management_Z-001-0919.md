@@ -108,6 +108,10 @@ updated: 2026-03-05
 
 > Statin intolerance affects 5-10% of patients, with myopathy representing the most common concern requiring systematic evaluation and management.
 
+## Significance
+
+> Statin intolerance affects 5-10% of patients, with myopathy representing the most common concern requiring systematic evaluation and management.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

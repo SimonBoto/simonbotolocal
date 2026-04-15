@@ -15,7 +15,15 @@ extraction-date: 2026-03-01
 
 >  and K2 function as a biochemical partnership: D stimulates production of vitamin K-dependent proteins, while K2 activates them through carboxylation. Neither alone is sufficient for optimal metabolic function.
 
+## Mechanism
+
+>  and K2 function as a biochemical partnership: D stimulates production of vitamin K-dependent proteins, while K2 activates them through carboxylation. Neither alone is sufficient for optimal metabolic function.
+
 ## Core Principle
+
+>  and K2 function as a biochemical partnership: D stimulates production of vitamin K-dependent proteins, while K2 activates them through carboxylation. Neither alone is sufficient for optimal metabolic function.
+
+## Mechanism
 
 >  and K2 function as a biochemical partnership: D stimulates production of vitamin K-dependent proteins, while K2 activates them through carboxylation. Neither alone is sufficient for optimal metabolic function.
 
@@ -37,7 +45,15 @@ extraction-date: 2026-03-01
 - But no upregulation potential
 - Limited response to metabolic demands
 
+## Mechanism
+
+>  and K2 function as a biochemical partnership: D stimulates production of vitamin K-dependent proteins, while K2 activates them through carboxylation. Neither alone is sufficient for optimal metabolic function.
+
 ## Core Principle
+
+>  and K2 function as a biochemical partnership: D stimulates production of vitamin K-dependent proteins, while K2 activates them through carboxylation. Neither alone is sufficient for optimal metabolic function.
+
+## Mechanism
 
 >  and K2 function as a biochemical partnership: D stimulates production of vitamin K-dependent proteins, while K2 activates them through carboxylation. Neither alone is sufficient for optimal metabolic function.
 
@@ -61,7 +77,15 @@ extraction-date: 2026-03-01
 - Non-functional despite high production
 - "Useless abundance"
 
+## Mechanism
+
+>  and K2 function as a biochemical partnership: D stimulates production of vitamin K-dependent proteins, while K2 activates them through carboxylation. Neither alone is sufficient for optimal metabolic function.
+
 ## Core Principle
+
+>  and K2 function as a biochemical partnership: D stimulates production of vitamin K-dependent proteins, while K2 activates them through carboxylation. Neither alone is sufficient for optimal metabolic function.
+
+## Mechanism
 
 >  and K2 function as a biochemical partnership: D stimulates production of vitamin K-dependent proteins, while K2 activates them through carboxylation. Neither alone is sufficient for optimal metabolic function.
 
@@ -82,7 +106,15 @@ Normal Production + High Activity = Limited Capacity
 High Production + High Activity = Maximal Function
 ```
 
+## Mechanism
+
+>  and K2 function as a biochemical partnership: D stimulates production of vitamin K-dependent proteins, while K2 activates them through carboxylation. Neither alone is sufficient for optimal metabolic function.
+
 ## Core Principle
+
+>  and K2 function as a biochemical partnership: D stimulates production of vitamin K-dependent proteins, while K2 activates them through carboxylation. Neither alone is sufficient for optimal metabolic function.
+
+## Mechanism
 
 >  and K2 function as a biochemical partnership: D stimulates production of vitamin K-dependent proteins, while K2 activates them through carboxylation. Neither alone is sufficient for optimal metabolic function.
 
@@ -104,7 +136,15 @@ High Production + High Activity = Maximal Function
 *Source: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]*  
 *Extracted: 2026-03-01*
 
+## Mechanism
+
+>  and K2 function as a biochemical partnership: D stimulates production of vitamin K-dependent proteins, while K2 activates them through carboxylation. Neither alone is sufficient for optimal metabolic function.
+
 ## Core Principle
+
+>  and K2 function as a biochemical partnership: D stimulates production of vitamin K-dependent proteins, while K2 activates them through carboxylation. Neither alone is sufficient for optimal metabolic function.
+
+## Mechanism
 
 >  and K2 function as a biochemical partnership: D stimulates production of vitamin K-dependent proteins, while K2 activates them through carboxylation. Neither alone is sufficient for optimal metabolic function.
 
@@ -113,7 +153,15 @@ High Production + High Activity = Maximal Function
 
 ---
 
+## Mechanism
+
+>  and K2 function as a biochemical partnership: D stimulates production of vitamin K-dependent proteins, while K2 activates them through carboxylation. Neither alone is sufficient for optimal metabolic function.
+
 ## Core Principle
+
+>  and K2 function as a biochemical partnership: D stimulates production of vitamin K-dependent proteins, while K2 activates them through carboxylation. Neither alone is sufficient for optimal metabolic function.
+
+## Mechanism
 
 >  and K2 function as a biochemical partnership: D stimulates production of vitamin K-dependent proteins, while K2 activates them through carboxylation. Neither alone is sufficient for optimal metabolic function.
 

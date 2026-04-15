@@ -223,6 +223,10 @@ patient_id,visit,ferritin_ng_ml,crp_mg_l,sTfR_mg_l,iron_status
 
 **Ferritin** is the primary iron storage protein. However, it's also an **acute phase reactant** — elevated by inflammation independent of iron status. This dual nature makes interpretation nuanced.
 
+## Significance
+
+tags: [zettel, biomarker, iron, status/optimal, clinical-protocol]
+
 ## Connection to Vault
 
 - Up: [[MOC-Vitamin-Metabolism]]

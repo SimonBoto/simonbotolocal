@@ -50,6 +50,10 @@ source-reference: "[[Yang_2025_Aspirin_Metastasis_TXA2_Nature_R-001-0100]]"
 | COX-1 inhibition → ↓ TXA2 → ↓ platelet aggregation | COX-1 inhibition → ↓ TXA2 → ↑ T-cell function |
 | Same molecular target, different physiological outcome |
 
+## Significance
+
+| Same molecular target, different physiological outcome |
+
 ## Related
 - [[Aspirin_TXA2_Mechanism_Metastasis_Prevention_Z-002-0875]]
 - [[Aspirin_Dosing_Cancer_Prevention_Low_Dose_Sufficient_Z-002-0879]]

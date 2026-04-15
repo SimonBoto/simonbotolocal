@@ -133,6 +133,10 @@ Despite limitations, consistent findings:
 
 > Despite limited high-quality RCTs, existing studies on  and K2 co-supplementation consistently show metabolic and cardiovascular benefits exceeding those of either nutrient alone, establishing proof-of-concept for synergistic therapeutic potential.
 
+## Significance
+
+tags: [zettel, vitamin-d, vitamin-k2, evidence, clinical-trials, research]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

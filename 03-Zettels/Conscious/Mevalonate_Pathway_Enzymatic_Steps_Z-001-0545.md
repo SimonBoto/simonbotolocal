@@ -13,7 +13,15 @@ extraction-date: 2026-03-01
 
 # Mevalonate Pathway Enzymatic Steps
 
+## Mechanism
+
+The mevalonate pathway converts acetyl-CoA to cholesterol through 13 discrete enzymatic steps across four phases, with HMG-CoA reductase serving as the committed rate-limiting enzyme that controls flux into all downstream isoprenoid products including cholesterol, CoQ10, and protein prenylation substrates.
+
 ## Core Claim
+The mevalonate pathway converts acetyl-CoA to cholesterol through 13 discrete enzymatic steps across four phases, with HMG-CoA reductase serving as the committed rate-limiting enzyme that controls flux into all downstream isoprenoid products including cholesterol, CoQ10, and protein prenylation substrates.
+
+## Mechanism
+
 The mevalonate pathway converts acetyl-CoA to cholesterol through 13 discrete enzymatic steps across four phases, with HMG-CoA reductase serving as the committed rate-limiting enzyme that controls flux into all downstream isoprenoid products including cholesterol, CoQ10, and protein prenylation substrates.
 
 ## Evidence

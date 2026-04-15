@@ -152,6 +152,10 @@ For borderline cases (15–25% major fracture):
 - [[FRAX_Adjustments_TBS_Falls_Glucocorticoids_Z-001-0112]] — Refining thresholds
 - [[Osteoporosis_T_score_Definition_Minus_2.5_Z-001-0077]] — BMD threshold
 
+## Significance
+
+tags: [zettel, frax, treatment-thresholds, osteoporosis, guidelines, intervention, conscious]
+
 ## Source
 [[LitNote_FRAX_Risk_Assessment_Tool_L-001-0017]
 

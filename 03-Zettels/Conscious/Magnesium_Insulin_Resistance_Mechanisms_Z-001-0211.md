@@ -15,7 +15,15 @@ extraction-date: 2026-03-01
 
 > Magnesium deficiency and  form a bidirectional, vicious relationship where each condition exacerbates the other through multiple cellular and systemic mechanisms.
 
+## Mechanism
+
+> Magnesium deficiency and  form a bidirectional, vicious relationship where each condition exacerbates the other through multiple cellular and systemic mechanisms.
+
 ## Core Principle
+
+> Magnesium deficiency and  form a bidirectional, vicious relationship where each condition exacerbates the other through multiple cellular and systemic mechanisms.
+
+## Mechanism
 
 > Magnesium deficiency and  form a bidirectional, vicious relationship where each condition exacerbates the other through multiple cellular and systemic mechanisms.
 
@@ -62,7 +70,15 @@ extraction-date: 2026-03-01
 - Oxidative stress impairs insulin signaling
 - Reduced antioxidant enzyme activity (many are Mg-dependent)
 
+## Mechanism
+
+> Magnesium deficiency and  form a bidirectional, vicious relationship where each condition exacerbates the other through multiple cellular and systemic mechanisms.
+
 ## Core Principle
+
+> Magnesium deficiency and  form a bidirectional, vicious relationship where each condition exacerbates the other through multiple cellular and systemic mechanisms.
+
+## Mechanism
 
 > Magnesium deficiency and  form a bidirectional, vicious relationship where each condition exacerbates the other through multiple cellular and systemic mechanisms.
 
@@ -86,7 +102,15 @@ extraction-date: 2026-03-01
 - Low whole grains, nuts, leafy greens
 - High sugar increases both IR and Mg excretion
 
+## Mechanism
+
+> Magnesium deficiency and  form a bidirectional, vicious relationship where each condition exacerbates the other through multiple cellular and systemic mechanisms.
+
 ## Core Principle
+
+> Magnesium deficiency and  form a bidirectional, vicious relationship where each condition exacerbates the other through multiple cellular and systemic mechanisms.
+
+## Mechanism
 
 > Magnesium deficiency and  form a bidirectional, vicious relationship where each condition exacerbates the other through multiple cellular and systemic mechanisms.
 
@@ -103,7 +127,15 @@ Mg Deficiency → Insulin Resistance
 - Improved insulin sensitivity reduces Mg wasting
 - Positive feedback loop established
 
+## Mechanism
+
+> Magnesium deficiency and  form a bidirectional, vicious relationship where each condition exacerbates the other through multiple cellular and systemic mechanisms.
+
 ## Core Principle
+
+> Magnesium deficiency and  form a bidirectional, vicious relationship where each condition exacerbates the other through multiple cellular and systemic mechanisms.
+
+## Mechanism
 
 > Magnesium deficiency and  form a bidirectional, vicious relationship where each condition exacerbates the other through multiple cellular and systemic mechanisms.
 
@@ -124,7 +156,15 @@ Mg Deficiency → Insulin Resistance
 *Extracted: 2026-03-01*
 
 
+## Mechanism
+
+> Magnesium deficiency and  form a bidirectional, vicious relationship where each condition exacerbates the other through multiple cellular and systemic mechanisms.
+
 ## Core Principle
+
+> Magnesium deficiency and  form a bidirectional, vicious relationship where each condition exacerbates the other through multiple cellular and systemic mechanisms.
+
+## Mechanism
 
 > Magnesium deficiency and  form a bidirectional, vicious relationship where each condition exacerbates the other through multiple cellular and systemic mechanisms.
 
@@ -137,7 +177,15 @@ Mg Deficiency → Insulin Resistance
 
 ---
 
+## Mechanism
+
+> Magnesium deficiency and  form a bidirectional, vicious relationship where each condition exacerbates the other through multiple cellular and systemic mechanisms.
+
 ## Core Principle
+
+> Magnesium deficiency and  form a bidirectional, vicious relationship where each condition exacerbates the other through multiple cellular and systemic mechanisms.
+
+## Mechanism
 
 > Magnesium deficiency and  form a bidirectional, vicious relationship where each condition exacerbates the other through multiple cellular and systemic mechanisms.
 

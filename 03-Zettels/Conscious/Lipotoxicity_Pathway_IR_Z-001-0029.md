@@ -21,9 +21,17 @@ Chronic nutrient overflow leads to adipose tissue expansion beyond vascular capa
 
 **Molecular mechanism:** Ceramide and diacylglycerol (DAG) accumulate in target tissues. DAG activates protein kinase C (PKC), which phosphorylates IRS-1 at serine residues (Ser307, Ser312, Ser1101), blocking insulin-stimulated tyrosine phosphorylation and downstream PI3K/Akt signaling.
 
+## Mechanism
+
+**Molecular mechanism:** Ceramide and diacylglycerol (DAG) accumulate in target tissues. DAG activates protein kinase C (PKC), which phosphorylates IRS-1 at serine residues (Ser307, Ser312, Ser1101), blocking insulin-stimulated tyrosine phosphorylation and downstream PI3K/Akt signaling.
+
 ## Core Principle
 
 Chronic nutrient overflow leads to adipose tissue expansion beyond vascular capacity, creating hypoxic, fibrotic tissue that attracts pro-inflammatory M1 macrophages. Adipokine dysregulation follows: adiponectin (insulin-sensitizing) decreases while leptin increases, leading to leptin resistance.
+
+## Mechanism
+
+**Molecular mechanism:** Ceramide and diacylglycerol (DAG) accumulate in target tissues. DAG activates protein kinase C (PKC), which phosphorylates IRS-1 at serine residues (Ser307, Ser312, Ser1101), blocking insulin-stimulated tyrosine phosphorylation and downstream PI3K/Akt signaling.
 
 ## Key Details
 
@@ -36,9 +44,17 @@ Chronic nutrient overflow leads to adipose tissue expansion beyond vascular capa
 
 **:** Elevated urinary adipic acid indicates impaired beta-oxidation and serves as early lipotoxicity indicator.
 
+## Mechanism
+
+**Molecular mechanism:** Ceramide and diacylglycerol (DAG) accumulate in target tissues. DAG activates protein kinase C (PKC), which phosphorylates IRS-1 at serine residues (Ser307, Ser312, Ser1101), blocking insulin-stimulated tyrosine phosphorylation and downstream PI3K/Akt signaling.
+
 ## Core Principle
 
 Chronic nutrient overflow leads to adipose tissue expansion beyond vascular capacity, creating hypoxic, fibrotic tissue that attracts pro-inflammatory M1 macrophages. Adipokine dysregulation follows: adiponectin (insulin-sensitizing) decreases while leptin increases, leading to leptin resistance.
+
+## Mechanism
+
+**Molecular mechanism:** Ceramide and diacylglycerol (DAG) accumulate in target tissues. DAG activates protein kinase C (PKC), which phosphorylates IRS-1 at serine residues (Ser307, Ser312, Ser1101), blocking insulin-stimulated tyrosine phosphorylation and downstream PI3K/Akt signaling.
 
 ## Links
 
@@ -46,9 +62,17 @@ Chronic nutrient overflow leads to adipose tissue expansion beyond vascular capa
 - **Parallel:** [[Mitochondrial_Dysfunction_IR_Z-001-0030.md] — Mitochondrial dysfunction co-occurs
 - **Downstream:** [[Compensatory_IR_Stage_Z-001-0034.md] — Compensatory hyperinsulinemia results
 
+## Mechanism
+
+**Molecular mechanism:** Ceramide and diacylglycerol (DAG) accumulate in target tissues. DAG activates protein kinase C (PKC), which phosphorylates IRS-1 at serine residues (Ser307, Ser312, Ser1101), blocking insulin-stimulated tyrosine phosphorylation and downstream PI3K/Akt signaling.
+
 ## Core Principle
 
 Chronic nutrient overflow leads to adipose tissue expansion beyond vascular capacity, creating hypoxic, fibrotic tissue that attracts pro-inflammatory M1 macrophages. Adipokine dysregulation follows: adiponectin (insulin-sensitizing) decreases while leptin increases, leading to leptin resistance.
+
+## Mechanism
+
+**Molecular mechanism:** Ceramide and diacylglycerol (DAG) accumulate in target tissues. DAG activates protein kinase C (PKC), which phosphorylates IRS-1 at serine residues (Ser307, Ser312, Ser1101), blocking insulin-stimulated tyrosine phosphorylation and downstream PI3K/Akt signaling.
 
 ## Context
 
@@ -60,9 +84,17 @@ Chronic nutrient overflow leads to adipose tissue expansion beyond vascular capa
 
 *UID: Z-001-0029 | Domain: 001 | Created: 2026-02-24*
 
+## Mechanism
+
+**Molecular mechanism:** Ceramide and diacylglycerol (DAG) accumulate in target tissues. DAG activates protein kinase C (PKC), which phosphorylates IRS-1 at serine residues (Ser307, Ser312, Ser1101), blocking insulin-stimulated tyrosine phosphorylation and downstream PI3K/Akt signaling.
+
 ## Core Principle
 
 Chronic nutrient overflow leads to adipose tissue expansion beyond vascular capacity, creating hypoxic, fibrotic tissue that attracts pro-inflammatory M1 macrophages. Adipokine dysregulation follows: adiponectin (insulin-sensitizing) decreases while leptin increases, leading to leptin resistance.
+
+## Mechanism
+
+**Molecular mechanism:** Ceramide and diacylglycerol (DAG) accumulate in target tissues. DAG activates protein kinase C (PKC), which phosphorylates IRS-1 at serine residues (Ser307, Ser312, Ser1101), blocking insulin-stimulated tyrosine phosphorylation and downstream PI3K/Akt signaling.
 
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -73,9 +105,21 @@ Chronic nutrient overflow leads to adipose tissue expansion beyond vascular capa
 
 ---
 
+## Mechanism
+
+**Molecular mechanism:** Ceramide and diacylglycerol (DAG) accumulate in target tissues. DAG activates protein kinase C (PKC), which phosphorylates IRS-1 at serine residues (Ser307, Ser312, Ser1101), blocking insulin-stimulated tyrosine phosphorylation and downstream PI3K/Akt signaling.
+
 ## Core Principle
 
 Chronic nutrient overflow leads to adipose tissue expansion beyond vascular capacity, creating hypoxic, fibrotic tissue that attracts pro-inflammatory M1 macrophages. Adipokine dysregulation follows: adiponectin (insulin-sensitizing) decreases while leptin increases, leading to leptin resistance.
+
+## Mechanism
+
+**Molecular mechanism:** Ceramide and diacylglycerol (DAG) accumulate in target tissues. DAG activates protein kinase C (PKC), which phosphorylates IRS-1 at serine residues (Ser307, Ser312, Ser1101), blocking insulin-stimulated tyrosine phosphorylation and downstream PI3K/Akt signaling.
+
+## Significance
+
+source-litnote: Synthesized from clinical practice
 
 ## Connection to Vault
 

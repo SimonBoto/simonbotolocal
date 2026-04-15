@@ -271,6 +271,10 @@ Crisco's 1911 launch marked:
 
 ---
 
+## Significance
+
+- No link between fat type and heart disease
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

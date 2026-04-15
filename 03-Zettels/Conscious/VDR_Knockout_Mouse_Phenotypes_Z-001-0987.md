@@ -282,6 +282,10 @@ Bone demineralization (rickets/osteomalacia)
 
 ---
 
+## Significance
+
+- Increased susceptibility to autoimmune diseases
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

@@ -113,6 +113,10 @@ related: []
 **Time investment:** Minimal
 **Benefit:** 16-40% mortality reduction
 
+## Significance
+
+tags: [zettel, vigorous-exercise, moderate-exercise, efficiency, time, intensity, mortality]
+
 ## Source
 - **LitNote:** [[L-002-0174_Minimal_Exercise_Mortality_Reduction]]
 - **Reference:** Polo-López A, et al. *Prog Cardiovasc Dis*. 2024.

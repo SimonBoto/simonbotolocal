@@ -196,6 +196,10 @@ Connect differential metabolites to known metabolic pathways for biological inte
 
 ---
 
+## Significance
+
+**Significance:** Potential regulatory points, therapeutic targets
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

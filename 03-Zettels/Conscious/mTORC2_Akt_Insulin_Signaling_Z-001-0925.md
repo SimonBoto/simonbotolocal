@@ -17,7 +17,15 @@ updated: 2026-03-05
 
 **Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
 
+## Mechanism
+
+**Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
+
 ## Core Principle
+
+**Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
+
+## Mechanism
 
 **Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
 
@@ -34,7 +42,15 @@ updated: 2026-03-05
 - **Key functions:** Cell survival, metabolism, cytoskeleton
 - **Substrates:** Akt, SGK, PKC
 
+## Mechanism
+
+**Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
+
 ## Core Principle
+
+**Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
+
+## Mechanism
 
 **Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
 
@@ -56,7 +72,15 @@ updated: 2026-03-05
 | **mTORC1** | Activation | Protein synthesis |
 | **BAD** | Phosphorylation | Cell survival |
 
+## Mechanism
+
+**Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
+
 ## Core Principle
+
+**Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
+
+## Mechanism
 
 **Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
 
@@ -79,7 +103,15 @@ updated: 2026-03-05
 - More severe metabolic dysfunction
 - Broader impact on insulin signaling
 
+## Mechanism
+
+**Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
+
 ## Core Principle
+
+**Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
+
+## Mechanism
 
 **Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
 
@@ -100,7 +132,15 @@ updated: 2026-03-05
 - Correlation with duration/dose and diabetes risk
 - Some evidence of mTORC2 disruption in PBMCs
 
+## Mechanism
+
+**Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
+
 ## Core Principle
+
+**Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
+
+## Mechanism
 
 **Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
 
@@ -121,7 +161,15 @@ updated: 2026-03-05
 - mTORC2 loss → altered lipid storage
 - Contributes to lipotoxicity
 
+## Mechanism
+
+**Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
+
 ## Core Principle
+
+**Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
+
+## Mechanism
 
 **Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
 
@@ -155,7 +203,15 @@ updated: 2026-03-05
 *See also: [[Sirolimus_Beta_Cell_Dysfunction_NODAT_Z-001-0924]*
 
 
+## Mechanism
+
+**Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
+
 ## Core Principle
+
+**Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
+
+## Mechanism
 
 **Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
 
@@ -168,7 +224,15 @@ updated: 2026-03-05
 
 ---
 
+## Mechanism
+
+**Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
+
 ## Core Principle
+
+**Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
+
+## Mechanism
 
 **Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
 

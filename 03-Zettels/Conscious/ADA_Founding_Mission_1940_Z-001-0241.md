@@ -99,6 +99,10 @@ extraction-date: 2026-03-01
 
 > Founded in 1940, the American Diabetes Association emerged as the leading organization for diabetes care, research, and advocacy in the United States, filling a critical need for coordinated action against the growing diabetes epidemic.
 
+## Significance
+
+- Diabetes treatment established but expanding
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

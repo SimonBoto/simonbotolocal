@@ -264,6 +264,10 @@ Observed d = 0.25 (closer to truth)
 
 **Core Problem:** Small sample sizes with high-dimensional data create a perfect storm for false discoveries and unreliable findings.
 
+## Significance
+
+source-litnote: Synthesized from clinical practice
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

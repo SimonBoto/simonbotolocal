@@ -81,6 +81,10 @@ Fasting insulin alone is superior to HOMA-IR for detecting early insulin resista
 
 Fasting insulin alone is superior to HOMA-IR for detecting early insulin resistance because it becomes elevated during the compensatory stage — when beta-cells are still maintaining normal glucose through hyperinsulinemia.
 
+## Significance
+
+source-litnote: Synthesized from clinical practice
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

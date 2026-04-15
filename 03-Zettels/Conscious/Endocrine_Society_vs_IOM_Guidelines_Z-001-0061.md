@@ -59,6 +59,10 @@ The Endocrine Society (clinical endocrinologists) recommends 1,500-2,000 IU/day 
 
 The Endocrine Society (clinical endocrinologists) recommends 1,500-2,000 IU/day for adults—significantly higher than IOM's 600-800 IU. This divergence reflects different interpretations of evidence and clinical vs. population health perspectives.
 
+## Significance
+
+tags: [zettel, vitamin-d, guidelines, Endocrine-Society, IOM, clinical-practice]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

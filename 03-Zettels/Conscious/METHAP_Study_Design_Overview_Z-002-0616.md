@@ -100,6 +100,10 @@ METHAP ( and Insulin Resistance s) is a dual-phase study combining cross-section
 
 METHAP ( and Insulin Resistance s) is a dual-phase study combining cross-sectional biomarker identification with longitudinal dietary intervention.
 
+## Significance
+
+tags: [zettel, methap, study-design, clinical-trial, metabolomics]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

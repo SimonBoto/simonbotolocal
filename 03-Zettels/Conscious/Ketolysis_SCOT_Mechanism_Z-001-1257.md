@@ -12,7 +12,15 @@ extraction-date: 2026-03-11
 
 # Ketolysis and SCOT Mechanism — Extrahepatic Ketone Utilization
 
+## Mechanism
+
+Extrahepatic tissues utilize ketone bodies through ketolysis, converting BHB back to acetyl-CoA via the enzyme succinyl-CoA:3-oxoacid-CoA transferase (SCOT); the liver lacks SCOT, creating a unidirectional flow that prevents futile cycling and ensures ketones serve as export fuel for peripheral tissues during fasting.
+
 ## Core Claim
+Extrahepatic tissues utilize ketone bodies through ketolysis, converting BHB back to acetyl-CoA via the enzyme succinyl-CoA:3-oxoacid-CoA transferase (SCOT); the liver lacks SCOT, creating a unidirectional flow that prevents futile cycling and ensures ketones serve as export fuel for peripheral tissues during fasting.
+
+## Mechanism
+
 Extrahepatic tissues utilize ketone bodies through ketolysis, converting BHB back to acetyl-CoA via the enzyme succinyl-CoA:3-oxoacid-CoA transferase (SCOT); the liver lacks SCOT, creating a unidirectional flow that prevents futile cycling and ensures ketones serve as export fuel for peripheral tissues during fasting.
 
 ## Evidence

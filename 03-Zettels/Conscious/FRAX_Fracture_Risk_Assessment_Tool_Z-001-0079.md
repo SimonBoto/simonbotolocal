@@ -47,6 +47,10 @@ FRAX® is a fracture risk assessment tool that integrates  risk factors (age, pr
 
 FRAX® is a fracture risk assessment tool that integrates  risk factors (age, prior fracture, smoking, family history, hormone status) with BMD to guide treatment thresholds. It estimates 10-year probability of major osteoporotic fracture.
 
+## Significance
+
+tags: [zettel, bone-health, vitamin-d, clinical]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

@@ -19,6 +19,10 @@ related: []
 ## Core Claim
 Unhealthy diet causes 11 million deaths annually worldwide.
 
+## Significance
+
+tags: [zettel, diet, mortality, 11-million]
+
 ## Source
 - **LitNote:** [[L-002-0203_Diet_11_Million_Deaths_Annually]]
 

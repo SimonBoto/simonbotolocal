@@ -119,6 +119,10 @@ status: conscious
 
 ---
 
+## Significance
+
+tags: [zettel, telomerase, TERT, TERC, immune-cells, cellular-immortality]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

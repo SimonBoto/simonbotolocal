@@ -129,6 +129,10 @@ FRAX algorithm integrates **demographic, clinical, and BMD variables** to estima
 - [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]] — What's missing
 - [[Osteopenia_T_score_Definition_Minus_1_to_2.5_Z-001-0076]] — BMD component
 
+## Significance
+
+tags: [zettel, frax, risk-factors, osteoporosis, fracture-prediction, clinical-assessment, conscious]
+
 ## Source
 [[LitNote_FRAX_Risk_Assessment_Tool_L-001-0017]
 

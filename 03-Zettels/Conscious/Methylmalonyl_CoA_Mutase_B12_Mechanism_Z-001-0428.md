@@ -25,7 +25,15 @@ extraction-date: 2026-03-01
 
 # Methylmalonyl-CoA Mutase — B12 and Radical Mechanism
 
+## Mechanism
+
+**Methylmalonyl-CoA mutase catalyzes the vitamin B12-dependent rearrangement of L-methylmalonyl-CoA to succinyl-CoA, enabling propionate-derived carbons to enter the Krebs cycle** — this adenosylcobalamin-dependent reaction uses a radical mechanism (Co-C bond homolysis) and is the definitive marker of functional B12 status via methylmalonic acid (MMA).
+
 ## Core Claim
+**Methylmalonyl-CoA mutase catalyzes the vitamin B12-dependent rearrangement of L-methylmalonyl-CoA to succinyl-CoA, enabling propionate-derived carbons to enter the Krebs cycle** — this adenosylcobalamin-dependent reaction uses a radical mechanism (Co-C bond homolysis) and is the definitive marker of functional B12 status via methylmalonic acid (MMA).
+
+## Mechanism
+
 **Methylmalonyl-CoA mutase catalyzes the vitamin B12-dependent rearrangement of L-methylmalonyl-CoA to succinyl-CoA, enabling propionate-derived carbons to enter the Krebs cycle** — this adenosylcobalamin-dependent reaction uses a radical mechanism (Co-C bond homolysis) and is the definitive marker of functional B12 status via methylmalonic acid (MMA).
 
 ## Evidence

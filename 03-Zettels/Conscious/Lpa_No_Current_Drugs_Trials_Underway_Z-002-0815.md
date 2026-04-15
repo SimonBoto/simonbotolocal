@@ -53,6 +53,10 @@ While awaiting specific therapies:
 | Optimal target level? | Undefined |
 | Cost-effectiveness? | To be determined |
 
+## Significance
+
+**No drugs currently available to lower Lp(a)** — but clinical trials are active with agents that can reduce Lp(a) up to 95%; outcome data expected in coming years.
+
 ## Source
 - **LitNote:** [[L-002-0225_Lpa_Mechanism_Management]]
 

@@ -49,5 +49,9 @@ Dysregulated immune response → Gut microbiota interaction → Barrier defect �
 - [[Gut_Microbiome_IBD_Role_Z-001-0585E]]
 - [[IBD_Genetic_Predisposition_Z-001-0585F]]
 
+## Significance
+
+Environmental factors including diet, smoking, medications, and microbial exposures interact with genetic susceptibility to trigger and modulate IBD activity, with distinct patterns observed between Crohn's disease (smoking increases risk) and ulcerative colitis (smoking is protective).
+
 ## References
 - [[CGPT_0209_Gastroenterology_Registrar_Assessment_CGPT-0209]]

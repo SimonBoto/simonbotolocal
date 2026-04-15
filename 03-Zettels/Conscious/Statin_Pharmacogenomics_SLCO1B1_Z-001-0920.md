@@ -106,6 +106,10 @@ updated: 2026-03-05
 
 > Genetic polymorphisms in SLCO1B1 and CYP enzymes substantially affect statin pharmacokinetics and myopathy risk, enabling precision dosing.
 
+## Significance
+
+> Genetic polymorphisms in SLCO1B1 and CYP enzymes substantially affect statin pharmacokinetics and myopathy risk, enabling precision dosing.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

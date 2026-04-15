@@ -23,7 +23,15 @@ extraction-date: 2026-03-08
 
 # Nucleoside Formation and Phosphorylation Pathways
 
+## Mechanism
+
+**Nucleotide synthesis from bases occurs via two sequential steps: nucleoside formation (base + ribose) followed by progressive phosphorylation (NMP → NDP → NTP), with each phosphate addition requiring ATP investment** — this energy investment creates the high-energy phosphate bonds that power cellular work.
+
 ## Core Claim
+**Nucleotide synthesis from bases occurs via two sequential steps: nucleoside formation (base + ribose) followed by progressive phosphorylation (NMP → NDP → NTP), with each phosphate addition requiring ATP investment** — this energy investment creates the high-energy phosphate bonds that power cellular work.
+
+## Mechanism
+
 **Nucleotide synthesis from bases occurs via two sequential steps: nucleoside formation (base + ribose) followed by progressive phosphorylation (NMP → NDP → NTP), with each phosphate addition requiring ATP investment** — this energy investment creates the high-energy phosphate bonds that power cellular work.
 
 ## Evidence

@@ -336,6 +336,10 @@ Can the research be conducted with non-vulnerable populations?
 
 ---
 
+## Significance
+
+**Category 1:** Research not involving greater than minimal risk
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

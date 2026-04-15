@@ -19,6 +19,10 @@ related: []
 ## Core Claim
 Processed foods are major contributors to global disease burden.
 
+## Significance
+
+tags: [zettel, processed-food, disease-burden]
+
 ## Source
 - **LitNote:** [[L-002-0203_Diet_11_Million_Deaths_Annually]]
 

@@ -135,6 +135,10 @@ Aggregate predictions (majority vote)
 
 ---
 
+## Significance
+
+**Binary outcome:** Insulin-resistant vs. Metabolically healthy
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

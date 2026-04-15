@@ -47,6 +47,10 @@ Osteopenia is defined by a T-score between −1.0 and −2.5 on dual-energy X-ra
 
 Osteopenia is defined by a T-score between −1.0 and −2.5 on dual-energy X-ray absorptiometry (DXA). It represents bone mineral density lower than normal but not low enough to be classified as osteoporosis.
 
+## Significance
+
+tags: [zettel, bone-health, vitamin-d, clinical]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

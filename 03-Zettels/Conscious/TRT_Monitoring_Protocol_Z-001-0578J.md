@@ -48,6 +48,10 @@ This zettel documents the comprehensive monitoring protocol for patients undergo
 
 This zettel documents the comprehensive monitoring protocol for patients undergoing testosterone replacement therapy.
 
+## Significance
+
+This zettel documents the comprehensive monitoring protocol for patients undergoing testosterone replacement therapy.
+
 ## Red Flags Requiring Immediate Evaluation
 
 - Hematocrit >54%

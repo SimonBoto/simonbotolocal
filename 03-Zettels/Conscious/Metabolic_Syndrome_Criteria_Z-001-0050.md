@@ -237,6 +237,10 @@ patient_id,visit,waist_cm,tg_mg_dl,hdl_c_mg_dl,sbp,dbp,glucose,criteria_count,me
 
 **Metabolic Syndrome** (Syndrome X, Insulin Resistance Syndrome) is a cluster of cardiovascular risk factors with insulin resistance as the underlying mechanism. Diagnosis requires **3 of 5 ATP III criteria**.
 
+## Significance
+
+tags: [zettel, biomarker, ir-core, clinical-protocol, phd-methap]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

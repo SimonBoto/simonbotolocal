@@ -253,6 +253,10 @@ status: conscious
 
 ---
 
+## Significance
+
+**Paget's disease of the breast** (mammary Paget's disease) is a **completely separate disease** from Paget's disease of bone. They share a name only — both were described by Sir James Paget in the 19th century, but they have different pathophysiology, presentation, and treatment.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

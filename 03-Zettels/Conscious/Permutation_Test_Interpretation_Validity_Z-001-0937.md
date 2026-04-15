@@ -106,6 +106,10 @@ For biomarker claims:
 - [[Cross_Validation_Strategies_Omics_Models_Z-001-0938]] — Next validation level
 - [[Biomarker_Validation_Pipeline_Requirements_Z-001-0560]] — Full pipeline
 
+## Significance
+
+source-litnote: Synthesized from clinical practice
+
 ## Source
 [[LitNote_Multivariate_Analysis_Pitfalls_L-001-0517]
 

@@ -14,7 +14,15 @@ extraction-date: 2026-03-08
 
 # TPP — Thiamine Pyrophosphate Mechanism and Enzymes
 
+## Mechanism
+
+**Thiamine pyrophosphate (TPP), the active form of vitamin B1, serves as an essential cofactor for three critical α-ketoacid dehydrogenase complexes — pyruvate dehydrogenase, α-ketoglutarate dehydrogenase, and branched-chain α-ketoacid dehydrogenase — through its reactive thiazole ring carbanion that stabilizes decarboxylation intermediates, with deficiency causing lactic acidosis and neurological dysfunction due to impaired energy metabolism.**
+
 ## Core Claim
+**Thiamine pyrophosphate (TPP), the active form of vitamin B1, serves as an essential cofactor for three critical α-ketoacid dehydrogenase complexes — pyruvate dehydrogenase, α-ketoglutarate dehydrogenase, and branched-chain α-ketoacid dehydrogenase — through its reactive thiazole ring carbanion that stabilizes decarboxylation intermediates, with deficiency causing lactic acidosis and neurological dysfunction due to impaired energy metabolism.**
+
+## Mechanism
+
 **Thiamine pyrophosphate (TPP), the active form of vitamin B1, serves as an essential cofactor for three critical α-ketoacid dehydrogenase complexes — pyruvate dehydrogenase, α-ketoglutarate dehydrogenase, and branched-chain α-ketoacid dehydrogenase — through its reactive thiazole ring carbanion that stabilizes decarboxylation intermediates, with deficiency causing lactic acidosis and neurological dysfunction due to impaired energy metabolism.**
 
 ## Evidence

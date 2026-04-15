@@ -41,6 +41,10 @@ status: conscious
 - **FRAX increase:** >20% increase in 10-year major osteoporotic fracture risk
 - **Worsening risk factors:** New glucocorticoid therapy, significant weight loss, or other clinical changes
 
+## Significance
+
+- **Low fracture risk:** FRAX score < 10% 10-year major osteoporotic fracture risk
+
 ## Special Considerations
 
 - **Bisphosphonates:** Most common candidates for drug holidays due to long skeletal half-life

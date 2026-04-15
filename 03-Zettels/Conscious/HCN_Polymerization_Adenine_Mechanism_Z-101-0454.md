@@ -14,7 +14,15 @@ extraction-date: 2026-03-04
 
 # HCN Polymerization to Adenine Mechanism
 
+## Mechanism
+
+**Hydrogen cyanide (HCN) polymerizes to form adenine (C₅H₅N₅) through oligomerization and cyclization reactions — 5 HCN molecules condense through formamidine intermediates to 4-aminoimidazole-5-carbonitrile (AICN), which then reacts with additional HCN to form adenine** — this prebiotically plausible pathway requires anoxic conditions (CH₄, NH₃, H₂O, H₂) and energy input (UV radiation, lightning, or volcanic heat).
+
 ## Core Claim
+**Hydrogen cyanide (HCN) polymerizes to form adenine (C₅H₅N₅) through oligomerization and cyclization reactions — 5 HCN molecules condense through formamidine intermediates to 4-aminoimidazole-5-carbonitrile (AICN), which then reacts with additional HCN to form adenine** — this prebiotically plausible pathway requires anoxic conditions (CH₄, NH₃, H₂O, H₂) and energy input (UV radiation, lightning, or volcanic heat).
+
+## Mechanism
+
 **Hydrogen cyanide (HCN) polymerizes to form adenine (C₅H₅N₅) through oligomerization and cyclization reactions — 5 HCN molecules condense through formamidine intermediates to 4-aminoimidazole-5-carbonitrile (AICN), which then reacts with additional HCN to form adenine** — this prebiotically plausible pathway requires anoxic conditions (CH₄, NH₃, H₂O, H₂) and energy input (UV radiation, lightning, or volcanic heat).
 
 ## Evidence

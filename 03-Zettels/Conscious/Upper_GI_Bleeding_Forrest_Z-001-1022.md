@@ -343,6 +343,10 @@ parent-index: [[03-Zettels-Conscious]]
 ---
 parent-index: [[03-Zettels-Conscious]]
 
+## Significance
+
+Upper gastrointestinal bleeding (UGIB) is a common medical emergency with significant morbidity and mortality. Endoscopic assessment using the Forrest classification guides risk stratification and management decisions.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

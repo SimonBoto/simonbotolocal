@@ -157,6 +157,10 @@ parent-index: [[03-Zettels-Conscious]]
 
 ---
 
+## Significance
+
+**Unique Aspect:** Primary pathology in the cell type most affected by the disease
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

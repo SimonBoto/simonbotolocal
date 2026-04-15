@@ -26,7 +26,15 @@ The skin has built-in protection against vitamin D toxicity from sun exposure: p
 
 **Clinical implication:** Sun-derived vitamin D cannot cause toxicity—body has hard ceiling. Oral supplementation bypasses this mechanism, requiring caution at extreme doses.
 
+## Mechanism
+
+The skin has built-in protection against vitamin D toxicity from sun exposure: photodegradation. Once sufficient previtamin D3 and vitamin D3 accumulate, continued UV exposure converts excess into inactive metabolites (tachysterol, lumisterol), preventing overdose from sunlight alone.
+
 ## Core Principle
+
+The skin has built-in protection against vitamin D toxicity from sun exposure: photodegradation. Once sufficient previtamin D3 and vitamin D3 accumulate, continued UV exposure converts excess into inactive metabolites (tachysterol, lumisterol), preventing overdose from sunlight alone.
+
+## Mechanism
 
 The skin has built-in protection against vitamin D toxicity from sun exposure: photodegradation. Once sufficient previtamin D3 and vitamin D3 accumulate, continued UV exposure converts excess into inactive metabolites (tachysterol, lumisterol), preventing overdose from sunlight alone.
 
@@ -41,7 +49,15 @@ The skin has built-in protection against vitamin D toxicity from sun exposure: p
 *UID: Z-001-0063 | Domain: 001 | Created: 2026-03-01*
 
 
+## Mechanism
+
+The skin has built-in protection against vitamin D toxicity from sun exposure: photodegradation. Once sufficient previtamin D3 and vitamin D3 accumulate, continued UV exposure converts excess into inactive metabolites (tachysterol, lumisterol), preventing overdose from sunlight alone.
+
 ## Core Principle
+
+The skin has built-in protection against vitamin D toxicity from sun exposure: photodegradation. Once sufficient previtamin D3 and vitamin D3 accumulate, continued UV exposure converts excess into inactive metabolites (tachysterol, lumisterol), preventing overdose from sunlight alone.
+
+## Mechanism
 
 The skin has built-in protection against vitamin D toxicity from sun exposure: photodegradation. Once sufficient previtamin D3 and vitamin D3 accumulate, continued UV exposure converts excess into inactive metabolites (tachysterol, lumisterol), preventing overdose from sunlight alone.
 
@@ -52,7 +68,15 @@ The skin has built-in protection against vitamin D toxicity from sun exposure: p
 
 ---
 
+## Mechanism
+
+The skin has built-in protection against vitamin D toxicity from sun exposure: photodegradation. Once sufficient previtamin D3 and vitamin D3 accumulate, continued UV exposure converts excess into inactive metabolites (tachysterol, lumisterol), preventing overdose from sunlight alone.
+
 ## Core Principle
+
+The skin has built-in protection against vitamin D toxicity from sun exposure: photodegradation. Once sufficient previtamin D3 and vitamin D3 accumulate, continued UV exposure converts excess into inactive metabolites (tachysterol, lumisterol), preventing overdose from sunlight alone.
+
+## Mechanism
 
 The skin has built-in protection against vitamin D toxicity from sun exposure: photodegradation. Once sufficient previtamin D3 and vitamin D3 accumulate, continued UV exposure converts excess into inactive metabolites (tachysterol, lumisterol), preventing overdose from sunlight alone.
 

@@ -174,6 +174,10 @@ connections:
 
 **Timing matters.** Retest too early, you waste money and patient patience. Retest too late, you miss opportunities to course-correct. These evidence-based intervals optimize monitoring for metabolic interventions.
 
+## Significance
+
+tags: [zettel, clinical-protocol, workflow, monitoring]
+
 ## Connection to Vault
 
 - Up: [[MOC-Vitamin-Metabolism]]

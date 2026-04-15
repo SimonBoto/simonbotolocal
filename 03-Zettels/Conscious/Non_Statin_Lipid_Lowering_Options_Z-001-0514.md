@@ -114,6 +114,10 @@ extraction-date: 2026-03-01
 
 > For statin intolerance or insufficient response, several non-statin agents provide complementary pathways to achieve lipid goals.
 
+## Significance
+
+**Trials:** FOURIER, ODYSSEY showed outcome benefit
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

@@ -41,6 +41,10 @@ related: []
 | **Minimal radiation** | ~1 mSv |
 | **High predictive value** | Direct visualization of disease |
 
+## Significance
+
+title: "CAC Stratification Avoids Overtreatment and Targets Therapy Appropriately"
+
 ## "Test, Don't Guess" Approach
 - Directly visualize coronary atherosclerosis
 - Make informed treatment decisions

@@ -45,6 +45,10 @@ Albumin <2.5 g/dL → Significant edema risk; Trend > single value
 - [[Albumin_Protein_Dilemma_Z-001-0575A]]
 - [[Albumin_Inflammation_Confounder_Z-001-0575C]]
 
+## Significance
+
+> **Core Claim:** Serum albumin is a critical prognostic indicator in CKD progression that reflects oncotic pressure maintenance, transport function, antioxidant properties, and inflammation status.
+
 ## References
 - [[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370]]
 

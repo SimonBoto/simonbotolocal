@@ -32,6 +32,10 @@ related: []
 | **Risk assessment** | Measure once |
 | **Other factors** | Aggressive control |
 
+## Significance
+
+**No drugs currently available to lower Lp(a)** — clinical trials underway (pelacarsen, olpasiran) can reduce Lp(a) up to 95%, but outcome data pending.
+
 ## Source
 - **LitNote:** [[L-002-0197_Lpa_Mechanism_Management]]
 

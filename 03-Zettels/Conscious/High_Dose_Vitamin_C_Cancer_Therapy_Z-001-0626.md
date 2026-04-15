@@ -129,6 +129,10 @@ Pauling's most controversial claim — that high-dose vitamin C (10,000mg+) coul
 
 Pauling's most controversial claim — that high-dose vitamin C (10,000mg+) could prevent and treat cancer — triggered the strongest establishment backlash, yet recent research on IV vitamin C is validating aspects of his hypothesis.
 
+## Significance
+
+- Case series of terminal cancer patients
+
 ## Source
 [[LitNote_KingOfVitamins_Pauling_Vitamin_C_2025_L-001-0656]] — Vitamin King (2025)
 

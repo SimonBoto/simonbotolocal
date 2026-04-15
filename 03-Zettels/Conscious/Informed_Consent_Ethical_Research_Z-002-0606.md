@@ -104,6 +104,10 @@ Participants must provide voluntary, informed consent after understanding risks,
 
 Participants must provide voluntary, informed consent after understanding risks, benefits, and alternatives. Consent is necessary but not sufficient for ethical research.
 
+## Significance
+
+Participants must provide voluntary, informed consent after understanding risks, benefits, and alternatives. Consent is necessary but not sufficient for ethical research.
+
 ## Connection to Vault
 
 - Up: [[MOC-Methylation]]

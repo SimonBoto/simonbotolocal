@@ -168,6 +168,10 @@ PRIMARY              SECONDARY             Complex/Mixed
 
 ---
 
+## Significance
+
+Hypogonadism (testosterone deficiency) is classified by the level of dysfunction: **primary** (testicular failure) or **secondary** (pituitary/hypothalamic failure). The distinction is critical for diagnosis, treatment, and prognosis.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

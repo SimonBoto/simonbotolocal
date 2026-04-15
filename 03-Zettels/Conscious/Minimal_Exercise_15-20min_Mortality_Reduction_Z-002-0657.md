@@ -104,6 +104,10 @@ Reduction
 | "All-or-nothing" | "Every minute counts" |
 | "Minimum effective dose" | "Any activity helps" |
 
+## Significance
+
+tags: [zettel, exercise, minimal-dose, mortality, physical-activity, vigorous]
+
 ## Source
 - **LitNote:** [[L-002-0174_Minimal_Exercise_Mortality_Reduction]]
 - **Reference:** Polo-López A, et al. Minimal physical activity and mortality risk. *Prog Cardiovasc Dis*. 2024.

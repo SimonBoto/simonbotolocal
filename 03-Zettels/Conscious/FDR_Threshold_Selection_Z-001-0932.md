@@ -162,6 +162,10 @@ The choice between FDR thresholds reflects a **fundamental trade-off** between s
 
 ---
 
+## Significance
+
+source-litnote: Synthesized from clinical practice
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

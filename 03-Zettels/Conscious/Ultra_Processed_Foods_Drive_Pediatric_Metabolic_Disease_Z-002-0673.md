@@ -78,6 +78,10 @@ related: []
 | **Autonomy limited** | Parents control food environment |
 | **Long exposure** | Earlier onset = more damage |
 
+## Significance
+
+tags: [zettel, ultra-processed-foods, upf, pediatric, metabolic-disease, obesity, children]
+
 ## Source
 - **LitNote:** [[L-002-0179_Childhood_Obesity_Exceeds_Undernutrition]]
 - **Reference:** Kavanagh ME, et al. 2026.

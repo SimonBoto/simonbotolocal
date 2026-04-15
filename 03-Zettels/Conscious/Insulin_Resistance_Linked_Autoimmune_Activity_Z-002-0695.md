@@ -31,6 +31,10 @@ related: []
 > "Insulin resistance creates a pro-inflammatory environment that may exacerbate autoimmune activity in susceptible individuals."
 > — Metabolic-autoimmune literature
 
+## Significance
+
+**Insulin resistance** promotes autoimmune activity through chronic low-grade inflammation, providing a mechanistic link between metabolic dysfunction and autoimmune thyroid disease.
+
 ## Source
 - **LitNote:** [[L-002-0186_Hashimoto_Low_Carb_Autoantibodies]]
 

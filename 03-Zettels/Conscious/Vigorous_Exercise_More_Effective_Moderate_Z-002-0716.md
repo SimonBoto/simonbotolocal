@@ -32,6 +32,10 @@ related: []
 | **15 min available** | Make it vigorous |
 | **30 min available** | Mix vigorous + moderate |
 
+## Significance
+
+tags: [zettel, vigorous-exercise, moderate, intensity, mortality]
+
 ## Source
 - **LitNote:** [[L-002-0193_Minimal_Exercise_Dose_Mortality]]
 

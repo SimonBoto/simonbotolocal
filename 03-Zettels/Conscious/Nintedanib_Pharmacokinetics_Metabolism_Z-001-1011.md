@@ -306,6 +306,10 @@ BIBF 1202-glucuronide (inactive)
 
 ---
 
+## Significance
+
+- Limited clinically significant interactions known
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

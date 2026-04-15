@@ -26,6 +26,10 @@ related: []
 | **Add anti-inflammatory** | Omega-3s, polyphenols |
 | **Correct deficiencies** | Vitamins, minerals |
 
+## Significance
+
+**Resolving chronic inflammation is central to disease prevention** — addressing root causes (diet, deficiencies, lifestyle) more effective than managing symptoms.
+
 ## Source
 - **LitNote:** [[L-002-0194_Inflammation_CRP_CVD_Risk]]
 

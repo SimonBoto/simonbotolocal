@@ -216,6 +216,10 @@ extraction-date: 2026-04-15
 
 **Magnesium, zinc, and selenium** are essential cofactors for metabolic and thyroid function. Unlike sodium and potassium (tightly regulated), these minerals often show suboptimal levels in metabolic patients and require targeted assessment.
 
+## Significance
+
+tags: [zettel, biomarker, electrolytes, minerals, clinical-protocol]
+
 ## Connection to Vault
 
 - Up: [[MOC-Vitamin-Metabolism]]

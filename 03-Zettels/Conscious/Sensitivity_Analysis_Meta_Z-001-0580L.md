@@ -87,6 +87,10 @@ status: conscious
 
 > **Definition:** Sensitivity analysis is a systematic approach to assess the robustness of meta-analysis conclusions by examining how results change when different assumptions, methods, or subsets of studies are used.
 
+## Significance
+
+- **Quality assessment:** Excluding studies with high risk of bias
+
 ## Related Concepts
 
 - [[Heterogeneity_Statistics_Z-001-0580H]]

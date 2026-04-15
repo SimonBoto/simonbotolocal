@@ -49,5 +49,9 @@ Dysregulated immune response → Gut microbiota interaction → Barrier defect �
 - [[Gut_Microbiome_IBD_Role_Z-001-0585E]]
 - [[IBD_Environmental_Triggers_Z-001-0585G]]
 
+## Significance
+
+Genetic susceptibility plays a critical role in IBD pathogenesis, with distinct genetic risk variants associated with Crohn's disease (NOD2/CARD15, IL23R) versus ulcerative colitis (HLA alleles, IL10, IL26), contributing to differential immune dysregulation.
+
 ## References
 - [[CGPT_0209_Gastroenterology_Registrar_Assessment_CGPT-0209]]

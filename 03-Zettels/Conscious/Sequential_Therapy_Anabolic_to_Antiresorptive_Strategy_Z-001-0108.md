@@ -181,6 +181,10 @@ Duration:      Long-term antiresorptive
 - _Z-001-0085] — Antiresorptive follow-up option
 - [[Bone_Balance_Equation_Resorption_Formation_Coupling_Z-001-0104]] — Physiological basis
 
+## Significance
+
+tags: [zettel, sequential-therapy, anabolic, antiresorptive, osteoporosis, treatment-strategy, conscious]
+
 ## Source
 [[LitNote_Anabolic_Bone_Therapies_L-001-0016]
 

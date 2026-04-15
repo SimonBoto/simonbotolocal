@@ -37,6 +37,10 @@ related: []
 - Benefits continue but at slower rate
 - Suggests minimum threshold effect with plateau
 
+## Significance
+
+**Exercise benefits follow a diminishing returns pattern** — the largest mortality reductions occur with relatively small amounts of vigorous activity, with continued but more gradual improvements as exercise volume increases beyond the optimal point.
+
 ## Key Insight
 Most benefits achieved with minimal doses — additional exercise provides smaller incremental gains. This is encouraging for sedentary individuals starting exercise programs.
 

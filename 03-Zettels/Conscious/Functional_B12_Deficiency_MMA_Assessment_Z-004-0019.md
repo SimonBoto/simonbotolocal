@@ -260,6 +260,10 @@ patient_id,visit,serum_b12_pg_ml,mma_nmol_l,homocysteine_umol_l,functional_statu
 
 **Functional B12 deficiency** occurs when serum B12 appears normal (200-900 pg/mL) but tissue B12 is inadequate. Methylmalonic acid (MMA) and homocysteine reveal the true status. **If methylation is broken, nothing works.**
 
+## Significance
+
+tags: [zettel, biomarker, methylation, b12, status/deficient, clinical-protocol]
+
 ## Connection to Vault
 
 - Up: [[MOC-Vitamin-Metabolism]]

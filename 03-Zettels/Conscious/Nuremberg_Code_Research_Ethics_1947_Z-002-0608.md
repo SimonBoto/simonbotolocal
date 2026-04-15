@@ -95,6 +95,10 @@ The first international ethics code for human subjects research, established dur
 
 The first international ethics code for human subjects research, established during the Nuremberg Doctors' Trial in response to Nazi medical atrocities. Introduced the absolute requirement for voluntary informed consent.
 
+## Significance
+
+| 5. No death/disability expectation | Research should not cause these outcomes |
+
 ## Connection to Vault
 
 - Up: [[MOC-Lipid-Metabolism]]

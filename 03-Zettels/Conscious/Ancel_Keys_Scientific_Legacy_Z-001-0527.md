@@ -94,6 +94,10 @@ SFA → ↑  → Atherosclerosis → CHD
 
 > Ancel Keys (1904-2004) developed the diet-heart hypothesis that dietary saturated fat causes cardiovascular disease, shaping global  policy for decades through ambitious studies and charismatic advocacy.
 
+## Significance
+
+> Ancel Keys (1904-2004) developed the diet-heart hypothesis that dietary saturated fat causes cardiovascular disease, shaping global  policy for decades through ambitious studies and charismatic advocacy.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

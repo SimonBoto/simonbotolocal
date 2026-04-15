@@ -69,6 +69,10 @@ Mutations in the  receptor gene cause extreme  syndromes, revealing the critical
 
 Mutations in the  receptor gene cause extreme  syndromes, revealing the critical role of INSR in .
 
+## Significance
+
+tags: [zettel, insulin, receptor, mutation, disease, leprechaunism]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

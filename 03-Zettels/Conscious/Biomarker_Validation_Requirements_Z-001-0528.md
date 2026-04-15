@@ -226,6 +226,10 @@ Studies show **<50% replication rate** for omics biomarkers:
 
 ---
 
+## Significance
+
+tags: [zettel, biomarkers, validation, clinical-translation, study-design, replication, research-standards]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

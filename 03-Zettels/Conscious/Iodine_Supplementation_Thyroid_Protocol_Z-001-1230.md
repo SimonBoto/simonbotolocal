@@ -145,6 +145,10 @@ Coupling → T3 (triiodothyronine), T4 (thyroxine)
 
 ---
 
+## Significance
+
+- **Active hyperthyroidism** (Graves' disease flare)
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

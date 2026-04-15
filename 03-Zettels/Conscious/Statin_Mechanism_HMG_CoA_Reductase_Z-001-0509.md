@@ -117,6 +117,10 @@ Enhanced LDL clearance
 
 > Statins are competitive inhibitors of HMG-CoA reductase, the rate-limiting enzyme in  synthesis, triggering compensatory upregulation of LDL receptors and enhanced clearance of circulating LDL.
 
+## Significance
+
+**Lipophilic:** Cross membranes, enter muscle/brain, higher myopathy risk
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

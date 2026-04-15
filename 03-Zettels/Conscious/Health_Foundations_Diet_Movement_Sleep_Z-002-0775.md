@@ -109,6 +109,10 @@ related: []
 | **Screens before bed** | Blue light blocking |
 | **Caffeine late** | Cut off 2pm |
 
+## Significance
+
+**Diet, physical movement, and sleep are the three foundational pillars of health** — these core lifestyle factors have the strongest evidence base for preventing chronic disease, extending lifespan, and improving quality of life. Master these before optimizing other factors.
+
 ## Source
 - **LitNote:** [[L-002-0212_Twelve_Actions_Better_Health]]
 - **Reference:** Lifestyle Medicine literature

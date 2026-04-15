@@ -60,6 +60,10 @@ The 1950s hypercalcemia incidents triggered regulatory overreaction: strict limi
 
 The 1950s hypercalcemia incidents triggered regulatory overreaction: strict limits or outright bans on vitamin D fortification, especially in foods for children. This response was based on incomplete understanding (genetic factors unknown) and created lasting barriers to adequate vitamin D intake for populations.
 
+## Significance
+
+**Modern perspective:** Regulations established in fear era (1950s-60s) still influence current guidelines, despite genetic understanding clarifying true risk profile.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

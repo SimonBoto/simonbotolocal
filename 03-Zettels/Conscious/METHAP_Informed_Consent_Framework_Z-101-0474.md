@@ -133,6 +133,10 @@ Participants may contact:
 
 ---
 
+## Significance
+
+tags: [zettel, methap, informed-consent, ethics, gdpr, clinical-trial, phd, conscious]
+
 ## Connection to Vault
 
 - Up: [[MOC-Vitamin-Metabolism]]

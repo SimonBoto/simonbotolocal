@@ -135,6 +135,10 @@ status: conscious
 
 ---
 
+## Significance
+
+tags: [zettel, sle, lupus, telomeres, disease-activity, biomarker]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

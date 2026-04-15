@@ -55,6 +55,10 @@ Fragility fractures—especially of the hip and vertebra—are associated with s
 
 Fragility fractures—especially of the hip and vertebra—are associated with significant morbidity, mortality, and reduced functional independence. These fractures occur from minimal trauma due to compromised bone strength.
 
+## Significance
+
+tags: [zettel, bone-health, vitamin-d, clinical]
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

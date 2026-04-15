@@ -154,6 +154,10 @@ status: conscious
 
 ---
 
+## Significance
+
+tags: [zettel, clinicaltrials-gov, compliance, nih, regulatory, checklist, methap, conscious]
+
 ## Connection to Vault
 
 - Up: [[MOC-Methylation]]

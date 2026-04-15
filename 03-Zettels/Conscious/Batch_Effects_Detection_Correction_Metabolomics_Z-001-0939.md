@@ -116,6 +116,10 @@ Batch 2: D5, C5, D6, QC, C6, D7, C7, QC, D8, C8...
 - [[Instrument_Drift_QC_Monitoring_Requirements_Z-001-0941]] — Instrument stability
 - [[OPLS_DA_Overfitting_Risks_Small_Samples_Z-001-0935] — Model validation
 
+## Significance
+
+source-litnote: Synthesized from clinical practice
+
 ## Source
 [[LitNote_Technical_Confounders_Metabolomics_L-001-0520]
 

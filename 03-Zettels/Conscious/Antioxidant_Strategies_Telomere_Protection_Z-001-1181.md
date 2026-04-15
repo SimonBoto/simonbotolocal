@@ -163,6 +163,10 @@ status: conscious
 
 ---
 
+## Significance
+
+- Supplements don't replace disease-modifying therapy
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

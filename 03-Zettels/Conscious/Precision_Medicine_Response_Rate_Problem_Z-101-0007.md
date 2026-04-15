@@ -86,6 +86,10 @@ Approved therapies for chronic diseases show only 30-60% effectiveness, with sig
 
 Approved therapies for chronic diseases show only 30-60% effectiveness, with significant heterogeneity in patient response. This empirical approach — treating chronic conditions reactively after damage occurs — results in unnecessary adverse effects, costs, and delayed optimal care.
 
+## Significance
+
+source-litnote: Synthesized from clinical practice
+
 ## Connection to Vault
 
 - Up: [[MOC-Metabolomics]]

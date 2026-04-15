@@ -146,6 +146,10 @@ extraction-date: 2026-03-01
 
 > Large-scale epidemiological studies consistently demonstrate that higher magnesium intake and status are associated with significantly reduced risk of type 2 diabetes.
 
+## Significance
+
+> Large-scale epidemiological studies consistently demonstrate that higher magnesium intake and status are associated with significantly reduced risk of type 2 diabetes.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]

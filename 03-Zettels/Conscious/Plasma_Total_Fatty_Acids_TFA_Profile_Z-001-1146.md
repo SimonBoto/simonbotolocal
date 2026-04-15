@@ -140,6 +140,10 @@ Plasma total fatty acid (TFA) analysis provides a comprehensive profile of membr
 
 ---
 
+## Significance
+
+Plasma total fatty acid (TFA) analysis provides a comprehensive profile of membrane composition and dietary fat intake—reflecting inflammatory status, metabolic health, and cardiovascular risk in insulin resistance.
+
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]
