@@ -1,0 +1,50 @@
+---
+uid: Z-001-0137
+type: zettel
+title: "Bisphosphonate Duration Guidelines"
+aliases:
+  - Z-001-0137
+  - Bisphosphonate-Duration
+  - Oral-Bisphosphonates
+  - IV-Bisphosphonates
+domain: 001
+tags:
+  - zettel
+  - bisphosphonates
+  - medication-duration
+  - osteoporosis
+parent-moc: "[[MOC-Clinical-Protocols]]"
+source-litnote: "Medication_Duration_Guidelines_L-001-0045L_v4.0"
+status: conscious
+---
+
+# Bisphosphonate Duration Guidelines
+
+## Oral Bisphosphonates
+
+| Medication | Standard Duration | Extended Duration | Criteria for Extension |
+|------------|-------------------|---------------------|------------------------|
+| **Alendronate** | 5 years | Up to 10 years | High fracture risk, T-score < -3.5, ongoing GC therapy |
+| **Risedronate** | 5 years | Up to 10 years | Same as alendronate |
+| **Ibandronate** | 3 years | Up to 5 years | Same criteria, less data |
+
+## IV Bisphosphonates
+
+| Medication | Standard Duration | Extended Duration | Criteria for Extension |
+|------------|-------------------|---------------------|------------------------|
+| **Zoledronic acid** | 3 years | Up to 6 years | High fracture risk, T-score < -3.5, ongoing GC therapy |
+| **Pamidronate** | 2–3 years | Up to 5 years | Same criteria, less data |
+
+## Drug Holiday Considerations
+
+- **Indications for holiday:** Low fracture risk, improved BMD, no new fractures
+- **Monitoring during holiday:** DXA every 2 years, clinical assessment annually
+- **Restart criteria:** BMD decline >5%, new fracture, FRAX increase >20%
+
+---
+
+**Integration Notes:**
+- Linked to: [[Bisphosphonates_Mechanism_Side_Effects_Z-001-0084]]
+- Clinical application requires individualized risk assessment
+
+*Zettel created: 2026-04-15 | Status: conscious*

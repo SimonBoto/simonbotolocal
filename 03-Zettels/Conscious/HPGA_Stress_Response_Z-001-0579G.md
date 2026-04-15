@@ -1,0 +1,49 @@
+---
+uid: Z-001-0579G
+type: zettel
+title: "HPGA Stress Response"
+aliases:
+  - Z-001-0579G
+  - HPGA_Stress
+  - Stress_Hypogonadism
+domain: 001
+tags:
+  - zettel
+  - endocrinology
+  - hpg
+  - stress
+  - cortisol
+parent-moc: "[[MOC-Endocrinology]]"
+source-litnote: "[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]"
+status: conscious
+---
+
+# HPGA Stress Response
+
+The hypothalamic-pituitary-gonadal axis is highly sensitive to stress, with acute and chronic stress causing suppression of reproductive function through multiple neuroendocrine pathways.
+
+## Stress Pathways
+
+- **HPA axis activation**: Corticotropin-releasing hormone (CRH) inhibits GnRH secretion
+- **Cortisol effects**: Direct suppression of GnRH neurons and pituitary gonadotropes
+- **Catecholamine influence**: Norepinephrine modulates GnRH neuronal activity
+- **Inflammatory cytokines**: IL-1, IL-6, TNF-α suppress HPGA axis activity
+
+## Physiological Responses
+
+- **Acute stress**: Transient suppression of LH pulses
+- **Chronic stress**: Sustained inhibition leading to functional hypothalamic amenorrhea or hypogonadism
+- **Energy deficit**: Leptin deficiency links metabolic stress to reproductive suppression
+- **Psychological stress**: Modulates limbic system inputs to hypothalamus
+
+## Clinical Significance
+
+- **Functional hypothalamic amenorrhea**: Common cause of secondary amenorrhea in athletes and women with eating disorders
+- **Critical illness**: HPGA suppression contributes to catabolic state
+- **Chronic disease**: Inflammatory conditions cause reproductive dysfunction
+
+## Key Research Findings
+
+- CRH is the primary mediator of stress-induced HPGA suppression
+- Cortisol inhibits kisspeptin neurons in the hypothalamus
+- Stress-induced suppression is reversible with stress reduction and nutritional restoration

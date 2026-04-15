@@ -1,0 +1,51 @@
+---
+uid: Z-001-0585K
+type: zettel
+title: "IBD Nutritional Management"
+aliases:
+  - Z-001-0585K
+  - IBD-Nutritional-Management
+  - Nutritional-Management-IBD
+domain: 001
+tags:
+  - zettel
+  - gastroenterology
+  - nutrition
+parent-moc: "[[MOC-Gastroenterology]]"
+source-litnote: "[[Inflammatory_Bowel_Disease_-_Crohn-s_vs_Ulcerati_L-001-0585_v4.0]]"
+status: conscious
+---
+
+# IBD Nutritional Management
+
+> **Source:** ChatGPT conversation [[CGPT_0209_Gastroenterology_Registrar_Assessment_CGPT-0209]] (November 18, 2025)
+
+## Core Claim
+Nutritional management in IBD must account for the distinct metabolic demands and complications of Crohn's disease (malabsorption, vitamin B12 deficiency, small bowel involvement) versus ulcerative colitis (iron deficiency, protein loss, colonic inflammation), with specific dietary approaches for each condition.
+
+## Key Concepts
+
+### Treatment Approach Framework
+
+**Category:** Clinical Management
+
+**Key Process:** 
+```
+Crohn's: Transmural healing → Fistulas/strictures prevention → Surgery often needed → UC: Mucosal healing → Surgery curative → Rectal therapy important
+```
+
+**Mechanism/Steps:**
+1. Crohn's treatment targets deeper (transmural) healing, prevention of strictures/fistulas, and often requires surgery
+2. UC treatment targets mucosal healing, with surgery (proctocolectomy) being curative
+3. Biologic selection: anti-TNF, anti-integrin, anti-IL12/23 for Crohn's; anti-TNF, anti-integrin, JAK inhibitors for UC
+4. Rectal therapy is particularly important in UC management
+
+**Purpose/Significance:** Guides therapy selection and management expectations based on disease-specific pathophysiology
+
+## Related Concepts
+- [[IBD_Pathophysiology_Overview_Z-001-0585A]]
+- [[IBD_Medical_Therapy_Z-001-0585L]]
+- [[IBD_Complications_Management_Z-001-0585N]]
+
+## References
+- [[CGPT_0209_Gastroenterology_Registrar_Assessment_CGPT-0209]]
