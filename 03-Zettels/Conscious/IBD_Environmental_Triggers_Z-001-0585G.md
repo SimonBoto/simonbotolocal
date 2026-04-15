@@ -2,12 +2,12 @@
 uid: Z-001-0585G
 type: zettel
 title: "IBD Environmental Triggers"
-aliases:
+aliases: []
   - Z-001-0585G
   - IBD-Environmental-Triggers
   - Environmental-IBD-Triggers
 domain: 001
-tags:
+tags: []
   - zettel
   - gastroenterology
   - environment

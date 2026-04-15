@@ -2,12 +2,12 @@
 uid: Z-001-0579N
 type: zettel
 title: "HPGA Clinical Assessment"
-aliases:
+aliases: []
   - Z-001-0579N
   - HPGA_Assessment
   - Clinical_Endocrinology
 domain: 001
-tags:
+tags: []
   - zettel
   - endocrinology
   - hpg

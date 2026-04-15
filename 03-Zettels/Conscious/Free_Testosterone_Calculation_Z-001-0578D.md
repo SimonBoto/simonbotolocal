@@ -2,10 +2,10 @@
 uid: Z-001-0578D
 type: zettel
 title: "Free Testosterone Calculation"
-aliases:
+aliases: []
   - Z-001-0578D
 domain: 001
-tags:
+tags: []
   - zettel
   - hormones
   - male

@@ -2,12 +2,12 @@
 uid: Z-001-0125
 type: zettel
 title: "Glucocorticoid Osteoporosis Pathophysiology"
-aliases:
+aliases: []
   - Z-001-0125
   - Glucocorticoid_Pathophysiology_Osteoblast_Osteocyte_Effects
   - GIOP_Pathophysiology
 domain: 001
-tags:
+tags: []
   - zettel
   - glucocorticoid
   - osteoporosis

@@ -2,11 +2,11 @@
 uid: Z-001-0575A
 type: zettel
 title: "Albumin-Protein Intake Dilemma"
-aliases:
+aliases: []
   - Z-001-0575A
   - Albumin-Protein-Dilemma
 domain: 001
-tags:
+tags: []
   - zettel
   - kidney
   - nutrition

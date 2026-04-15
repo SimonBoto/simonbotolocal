@@ -2,12 +2,12 @@
 uid: Z-001-0119
 type: zettel
 title: "Bone Turnover Marker Interpretation"
-aliases:
+aliases: []
   - Z-001-0119
   - BTM-Interpretation
   - Marker-Interpretation
 domain: 001
-tags:
+tags: []
   - zettel
   - interpretation
   - biomarkers

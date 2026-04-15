@@ -2,13 +2,13 @@
 uid: Z-001-0470
 type: zettel
 title: Evolutionary Ancient Glycolysis
-aliases:
+aliases: []
   - Z-001-0470
   - Ancient-Glycolysis
   - Universal-Pathway
   - Evolution
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - evolution
   - glycolysis

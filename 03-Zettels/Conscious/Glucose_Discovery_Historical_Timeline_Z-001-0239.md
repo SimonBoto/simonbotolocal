@@ -2,12 +2,12 @@
 uid: Z-001-0239
 type: zettel
 title: "Glucose Discovery Historical Timeline"
-aliases:
+aliases: []
   - Z-001-0239
   - Glucose-Discovery-Timeline
   - Historical-Glucose-Timeline
 domain: 001
-tags:
+tags: []
   - zettel
   - glucose-history
   - timeline

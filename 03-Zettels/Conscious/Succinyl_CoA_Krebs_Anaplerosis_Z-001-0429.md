@@ -2,14 +2,14 @@
 uid: Z-001-0429
 type: zettel
 title: Succinyl-CoA — Krebs Cycle Anaplerosis
-aliases:
+aliases: []
   - Z-001-0429
   - Succinyl-CoA
   - Krebs-Cycle
   - Anaplerosis
   - Energy
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - succinyl-coa
   - krebs

@@ -2,14 +2,14 @@
 uid: Z-001-0459
 type: zettel
 title: Triose Metabolism — G3P and DHAP Integration
-aliases:
+aliases: []
   - Z-001-0459
   - Triose
   - G3P
   - DHAP
   - Glycolysis
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - trioses
   - g3p

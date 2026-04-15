@@ -2,15 +2,15 @@
 uid: Z-001-0478
 type: zettel
 title: Propionate Metabolism and Gluconeogenesis
-aliases:
+aliases: []
   - Z-001-0478
   - Propionate
   - SCFA
   - Gluconeogenesis
   - B12
   - B7
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - propionate
   - scfa

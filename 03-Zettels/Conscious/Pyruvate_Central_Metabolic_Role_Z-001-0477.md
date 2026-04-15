@@ -2,14 +2,14 @@
 uid: Z-001-0477
 type: zettel
 title: Pyruvate — Central Metabolic Role
-aliases:
+aliases: []
   - Z-001-0477
   - Pyruvate
   - PDH
   - Crossroads
   - Glycolysis-End
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - pyruvate
   - metabolism

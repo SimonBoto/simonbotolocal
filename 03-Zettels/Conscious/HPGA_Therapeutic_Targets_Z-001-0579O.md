@@ -2,12 +2,12 @@
 uid: Z-001-0579O
 type: zettel
 title: "HPGA Therapeutic Targets"
-aliases:
+aliases: []
   - Z-001-0579O
   - HPGA_Therapeutics
   - Hormone_Therapy
 domain: 001
-tags:
+tags: []
   - zettel
   - endocrinology
   - hpg

@@ -2,12 +2,12 @@
 uid: Z-001-0585H
 type: zettel
 title: "IBD Clinical Presentation"
-aliases:
+aliases: []
   - Z-001-0585H
   - IBD-Clinical-Presentation
   - Clinical-Presentation-IBD
 domain: 001
-tags:
+tags: []
   - zettel
   - gastroenterology
   - clinical

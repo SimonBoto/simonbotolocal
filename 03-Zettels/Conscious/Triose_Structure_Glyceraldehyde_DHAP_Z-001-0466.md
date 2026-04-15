@@ -2,13 +2,13 @@
 uid: Z-001-0466
 type: zettel
 title: Triose Structure — Glyceraldehyde and Dihydroxyacetone
-aliases:
+aliases: []
   - Z-001-0466
   - Triose-Structure
   - Glyceraldehyde
   - DHAP
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - trioses
   - glyceraldehyde

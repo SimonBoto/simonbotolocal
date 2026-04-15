@@ -2,11 +2,11 @@
 uid: Z-001-0585A
 type: zettel
 title: "IBD Pathophysiology Overview"
-aliases:
+aliases: []
   - Z-001-0585A
   - IBD-Pathophysiology-Overview
 domain: 001
-tags:
+tags: []
   - zettel
   - gastroenterology
   - ibd

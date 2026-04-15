@@ -2,14 +2,14 @@
 uid: Z-001-0435
 type: zettel
 title: Cysteine — Metabolic Fates
-aliases:
+aliases: []
   - Z-001-0435
   - Cysteine
   - Glutathione
   - Taurine
   - Sulfate
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - cysteine
   - glutathione

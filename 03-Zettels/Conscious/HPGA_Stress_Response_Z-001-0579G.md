@@ -2,12 +2,12 @@
 uid: Z-001-0579G
 type: zettel
 title: "HPGA Stress Response"
-aliases:
+aliases: []
   - Z-001-0579G
   - HPGA_Stress
   - Stress_Hypogonadism
 domain: 001
-tags:
+tags: []
   - zettel
   - endocrinology
   - hpg

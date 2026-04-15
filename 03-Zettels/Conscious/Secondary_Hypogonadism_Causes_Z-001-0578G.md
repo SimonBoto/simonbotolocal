@@ -2,10 +2,10 @@
 uid: Z-001-0578G
 type: zettel
 title: "Secondary Hypogonadism Causes"
-aliases:
+aliases: []
   - Z-001-0578G
 domain: 001
-tags:
+tags: []
   - zettel
   - hormones
   - male

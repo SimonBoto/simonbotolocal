@@ -1,6 +1,6 @@
 ---
 uid: Z-101-0002
-type: zettel-mech
+type: zettel
 title: Metformin AMPK mTOR Immunometabolism
 aliases: [Z-101-0002, Metformin-AMPK, mTOR-Immunometabolism]
 domain: 101

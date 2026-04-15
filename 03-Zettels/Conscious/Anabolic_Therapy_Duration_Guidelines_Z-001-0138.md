@@ -2,14 +2,14 @@
 uid: Z-001-0138
 type: zettel
 title: "Anabolic Therapy Duration Guidelines"
-aliases:
+aliases: []
   - Z-001-0138
   - Anabolic-Therapy
   - Teriparatide
   - Abaloparatide
   - Romosozumab
 domain: 001
-tags:
+tags: []
   - zettel
   - anabolic-therapy
   - medication-duration

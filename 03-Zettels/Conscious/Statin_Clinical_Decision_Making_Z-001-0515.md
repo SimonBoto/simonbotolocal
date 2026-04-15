@@ -2,13 +2,13 @@
 uid: Z-001-0515
 type: zettel
 title: Statin Clinical Decision Making
-aliases:
+aliases: []
   - Statin-Decision
   - Risk-Stratification
   - ASCVD
   - Primary-Prevention
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - statin
   - decision

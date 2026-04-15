@@ -2,13 +2,13 @@
 uid: Z-001-0124
 type: zettel
 title: "Calcium Absorption Optimization"
-aliases:
+aliases: []
   - Z-001-0124
   - Calcium-Absorption
   - Absorption-Optimization
   - Ca-Optimization
 domain: 001
-tags:
+tags: []
   - zettel
   - calcium
   - absorption

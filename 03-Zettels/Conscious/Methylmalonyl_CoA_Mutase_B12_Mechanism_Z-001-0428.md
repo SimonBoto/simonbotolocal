@@ -2,14 +2,14 @@
 uid: Z-001-0428
 type: zettel
 title: Methylmalonyl-CoA Mutase — B12 and Radical Mechanism
-aliases:
+aliases: []
   - Z-001-0428
   - Methylmalonyl-CoA-Mutase
   - B12
   - Adenosylcobalamin
   - Radical
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - methylmalonyl-coa-mutase
   - b12

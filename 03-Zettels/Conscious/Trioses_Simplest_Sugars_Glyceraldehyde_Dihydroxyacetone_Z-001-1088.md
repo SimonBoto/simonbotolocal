@@ -2,13 +2,13 @@
 uid: Z-001-1088
 type: zettel
 title: Trioses — Simplest Sugars (Glyceraldehyde & Dihydroxyacetone)
-aliases:
+aliases: []
   - Z-001-1088
   - Trioses
   - Glyceraldehyde
   - Dihydroxyacetone
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - triose
   - glyceraldehyde

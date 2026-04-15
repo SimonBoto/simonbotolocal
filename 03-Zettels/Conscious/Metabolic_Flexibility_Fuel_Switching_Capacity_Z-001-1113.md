@@ -2,12 +2,12 @@
 uid: Z-001-1113
 type: zettel
 title: Metabolic Flexibility — Fuel Switching Capacity
-aliases:
+aliases: []
   - Z-001-1113
   - Metabolic-Flexibility
   - Fuel-Switching
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - metabolic-flexibility
   - fuel-switching

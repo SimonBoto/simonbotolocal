@@ -1,6 +1,6 @@
 ---
 uid: Z-101-0004
-type: zettel-mech
+type: zettel
 title: Immunometabolism and the Warburg Effect in Inflammation
 aliases: [Z-101-0004, Immunometabolism, Warburg-Effect, M1-M2]
 domain: 101

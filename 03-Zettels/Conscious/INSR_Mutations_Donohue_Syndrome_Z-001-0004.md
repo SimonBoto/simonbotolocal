@@ -1,6 +1,6 @@
 ---
 uid: Z-001-0004
-type: zettel-mech
+type: zettel
 status: conscious
 title: INSR Mutations and Donohue Syndrome
 aliases: [Z-001-0004, INSR_Mutations, Donohue_Syndrome]

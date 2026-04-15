@@ -2,14 +2,14 @@
 uid: Z-001-0480
 type: zettel
 title: Aldehyde vs Ketone Chemistry
-aliases:
+aliases: []
   - Z-001-0480
   - aldehyde
   - ketone
   - carbonyl
   - chemistry
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - aldehyde
   - ketone

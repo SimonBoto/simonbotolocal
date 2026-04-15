@@ -2,11 +2,11 @@
 uid: Z-001-0584J
 type: zettel
 title: "Movement Prescription for Clinical Practice"
-aliases:
+aliases: []
   - Z-001-0584J
   - Movement-Prescription
 domain: 001
-tags:
+tags: []
   - zettel
   - metabolic
   - movement

@@ -2,14 +2,14 @@
 uid: Z-001-0426
 type: zettel
 title: Propionate — Sources and Metabolic Fate
-aliases:
+aliases: []
   - Z-001-0426
   - Propionate
   - SCFA
   - Gut-Microbiome
   - Gluconeogenesis
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - propionate
   - scfa

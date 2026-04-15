@@ -2,13 +2,13 @@
 uid: Z-001-0438
 type: zettel
 title: Adenosylcobalamin — The Mitochondrial B12 Form
-aliases:
+aliases: []
   - Z-001-0438
   - Adenosylcobalamin
   - Mitochondrial-B12
   - Co-C-Bond
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - adenosylcobalamin
   - mitochondrial

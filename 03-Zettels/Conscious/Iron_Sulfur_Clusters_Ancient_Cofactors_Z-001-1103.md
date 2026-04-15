@@ -2,12 +2,12 @@
 uid: Z-001-1103
 type: zettel
 title: Iron-Sulfur Clusters — Ancient Cofactors
-aliases:
+aliases: []
   - Z-001-1103
   - Fe-S-Clusters
   - Iron-Sulfur
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - iron-sulfur
   - cofactors

@@ -2,14 +2,14 @@
 uid: Z-001-0467
 type: zettel
 title: Glycolysis Steps and Regulation
-aliases:
+aliases: []
   - Z-001-0467
   - Glycolysis
   - PFK-1
   - Hexokinase
   - Regulation
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - glycolysis
   - regulation

@@ -2,11 +2,11 @@
 uid: Z-001-0584L
 type: zettel
 title: "Stress Management and Cortisol Regulation"
-aliases:
+aliases: []
   - Z-001-0584L
   - Stress-Management
 domain: 001
-tags:
+tags: []
   - zettel
   - metabolic
   - stress

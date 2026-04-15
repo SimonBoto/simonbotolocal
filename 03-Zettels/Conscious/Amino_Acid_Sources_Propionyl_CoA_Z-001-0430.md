@@ -2,14 +2,14 @@
 uid: Z-001-0430
 type: zettel
 title: Amino Acid Sources of Propionyl-CoA
-aliases:
+aliases: []
   - Z-001-0430
   - Amino-Acids
   - Propionyl-CoA
   - Catabolism
   - BCAAs
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - amino-acids
   - propionyl-coa

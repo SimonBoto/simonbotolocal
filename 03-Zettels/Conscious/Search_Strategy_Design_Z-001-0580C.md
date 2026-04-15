@@ -2,12 +2,12 @@
 uid: Z-001-0580C
 type: zettel
 title: "Search Strategy Design"
-aliases:
+aliases: []
   - Z-001-0580C
   - Search-Strategy-Design
   - Literature-Search
  domain: 001
-tags:
+tags: []
   - zettel
   - search-strategy
   - systematic-review

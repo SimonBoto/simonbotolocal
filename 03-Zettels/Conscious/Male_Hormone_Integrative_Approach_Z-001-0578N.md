@@ -2,10 +2,10 @@
 uid: Z-001-0578N
 type: zettel
 title: "Male Hormone Integrative Approach"
-aliases:
+aliases: []
   - Z-001-0578N
 domain: 001
-tags:
+tags: []
   - zettel
   - hormones
   - male

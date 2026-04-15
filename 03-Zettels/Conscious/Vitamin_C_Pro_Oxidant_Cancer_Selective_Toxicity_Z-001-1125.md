@@ -2,11 +2,11 @@
 uid: Z-001-1125
 type: zettel
 title: "Vitamin C Pro-Oxidant Cancer Selective Toxicity"
-aliases:
+aliases: []
   - Z-001-1125
   - Vitamin-C-Pro-Oxidant
 domain: 001
-tags:
+tags: []
   - zettel
   - vitamin-c
   - pro-oxidant

@@ -2,13 +2,13 @@
 uid: Z-001-0268
 type: zettel
 title: "K2 Vascular Calcification Protection"
-aliases:
+aliases: []
   - Z-001-0268
   - K2-Vascular-Protection
   - Vascular-Calcification-K2
   - MGP-Activation
 domain: 001
-tags:
+tags: []
   - zettel
   - vitamin-k2
   - vascular-health

@@ -2,13 +2,13 @@
 uid: Z-001-1104
 type: zettel
 title: Magnesium — Metabolic Cofactor for ATP Function
-aliases:
+aliases: []
   - Z-001-1104
   - Magnesium
   - ATP
   - Cofactor
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - magnesium
   - atp

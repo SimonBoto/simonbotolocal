@@ -2,11 +2,11 @@
 uid: Z-001-0576A
 type: zettel
 title: "ALP Isoenzymes and Tissue Sources"
-aliases:
+aliases: []
   - Z-001-0576A
   - ALP-Isoenzymes
 domain: 001
-tags:
+tags: []
   - zettel
   - biomarkers
   - alkaline-phosphatase

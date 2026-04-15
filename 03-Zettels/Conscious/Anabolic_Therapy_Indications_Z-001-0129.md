@@ -2,11 +2,11 @@
 uid: Z-001-0129
 type: zettel
 title: "Anabolic Therapy Indications"
-aliases:
+aliases: []
   - Z-001-0129
   - Anabolic-Indications
 domain: 001
-tags:
+tags: []
   - zettel
   - therapy-selection
   - osteoporosis

@@ -2,15 +2,15 @@
 uid: Z-001-0440
 type: zettel
 title: B12 and Exercise Performance
-aliases:
+aliases: []
   - Z-001-0440
   - B12
   - Exercise
   - Performance
   - Energy
   - Fatigue
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - b12
   - exercise

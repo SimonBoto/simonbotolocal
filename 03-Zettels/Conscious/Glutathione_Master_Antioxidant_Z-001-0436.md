@@ -2,14 +2,14 @@
 uid: Z-001-0436
 type: zettel
 title: Glutathione — The Master Antioxidant
-aliases:
+aliases: []
   - Z-001-0436
   - Glutathione
   - GSH
   - Antioxidant
   - Detoxification
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - glutathione
   - gsh

@@ -2,12 +2,12 @@
 uid: Z-001-1096
 type: zettel
 title: Therapeutic Ketosis — Clinical Applications
-aliases:
+aliases: []
   - Z-001-1096
   - Therapeutic-Ketosis
   - Ketogenic-Diet
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - ketogenic-diet
   - epilepsy

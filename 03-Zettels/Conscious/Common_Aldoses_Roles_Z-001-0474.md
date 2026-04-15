@@ -2,15 +2,15 @@
 uid: Z-001-0474
 type: zettel
 title: Common Aldoses and Their Roles
-aliases:
+aliases: []
   - Z-001-0474
   - Aldoses
   - Glucose
   - Galactose
   - Ribose
   - Mannose
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - aldoses
   - glucose

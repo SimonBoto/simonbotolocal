@@ -2,10 +2,10 @@
 uid: Z-001-0578M
 type: zettel
 title: "Sleep Apnea TRT Caution"
-aliases:
+aliases: []
   - Z-001-0578M
 domain: 001
-tags:
+tags: []
   - zettel
   - hormones
   - male

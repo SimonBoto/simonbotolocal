@@ -2,12 +2,12 @@
 uid: Z-001-0585O
 type: zettel
 title: "IBD Metabolic Bone Disease"
-aliases:
+aliases: []
   - Z-001-0585O
   - IBD-Metabolic-Bone-Disease
   - Metabolic-Bone-Disease-IBD
 domain: 001
-tags:
+tags: []
   - zettel
   - gastroenterology
   - bone

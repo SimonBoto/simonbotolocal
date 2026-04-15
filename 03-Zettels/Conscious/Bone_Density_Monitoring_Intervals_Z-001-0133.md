@@ -2,12 +2,12 @@
 uid: Z-001-0133
 type: zettel
 title: "Bone Density Monitoring Intervals"
-aliases:
+aliases: []
   - Z-001-0133
   - Bone_Density_Monitoring
   - DXA_Monitoring_Intervals
 domain: 001
-tags:
+tags: []
   - zettel
   - monitoring
   - DXA

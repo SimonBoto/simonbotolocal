@@ -2,12 +2,12 @@
 uid: Z-001-0241
 type: zettel
 title: "Metabolic Syndrome Evolution"
-aliases:
+aliases: []
   - Z-001-0241
   - Metabolic-Syndrome-History
   - Syndrome-X-Evolution
 domain: 001
-tags:
+tags: []
   - zettel
   - metabolic-syndrome
   - history

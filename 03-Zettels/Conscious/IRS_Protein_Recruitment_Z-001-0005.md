@@ -1,6 +1,6 @@
 ---
 uid: Z-001-0005
-type: zettel-mech
+type: zettel
 status: conscious
 title: IRS Protein Recruitment
 aliases: [Z-001-0005, IRS, IRS_Recruitment]

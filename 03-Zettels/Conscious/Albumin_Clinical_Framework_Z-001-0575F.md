@@ -2,11 +2,11 @@
 uid: Z-001-0575F
 type: zettel
 title: "Albumin-Clinical Framework"
-aliases:
+aliases: []
   - Z-001-0575F
   - Albumin-Clinical-Framework
 domain: 001
-tags:
+tags: []
   - zettel
   - kidney
   - albumin

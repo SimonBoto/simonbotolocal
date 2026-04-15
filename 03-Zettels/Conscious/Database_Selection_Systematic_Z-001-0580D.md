@@ -2,12 +2,12 @@
 uid: Z-001-0580D
 type: zettel
 title: "Database Selection for Systematic Reviews"
-aliases:
+aliases: []
   - Z-001-0580D
   - Database-Selection
   - Systematic-Review-Databases
  domain: 001
-tags:
+tags: []
   - zettel
   - databases
   - systematic-review

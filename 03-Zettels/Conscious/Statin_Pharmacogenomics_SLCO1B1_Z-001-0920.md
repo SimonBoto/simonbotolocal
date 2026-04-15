@@ -2,15 +2,15 @@
 uid: Z-001-0920
 type: zettel
 title: Statin Pharmacogenomics — SLCO1B1
-aliases:
+aliases: []
   - Z-001-0920
   - Z-001-0513-deprecated
   - Pharmacogenomics
   - SLCO1B1
   - CYP3A4
   - Statin-Response
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - pharmacogenomics
   - slco1b1

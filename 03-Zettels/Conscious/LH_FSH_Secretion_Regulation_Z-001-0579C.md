@@ -2,12 +2,12 @@
 uid: Z-001-0579C
 type: zettel
 title: "LH/FSH Secretion Regulation"
-aliases:
+aliases: []
   - Z-001-0579C
   - LH_FSH_Regulation
   - Gonadotropin_Regulation
 domain: 001
-tags:
+tags: []
   - zettel
   - endocrinology
   - hpg

@@ -2,14 +2,14 @@
 uid: Z-001-0433
 type: zettel
 title: Methionine Cycle — Activation and Regeneration
-aliases:
+aliases: []
   - Z-001-0433
   - Methionine-Cycle
   - SAM
   - SAH
   - Regeneration
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - methionine-cycle
   - sam

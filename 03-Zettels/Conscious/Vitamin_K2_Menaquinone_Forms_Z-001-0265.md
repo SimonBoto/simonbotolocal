@@ -2,12 +2,12 @@
 uid: Z-001-0265
 type: zettel
 title: "Vitamin K2 Menaquinone Forms"
-aliases:
+aliases: []
   - Z-001-0265
   - Vitamin-K2-Forms
   - Menaquinone-Forms
 domain: 001
-tags:
+tags: []
   - zettel
   - vitamin-k2
   - menaquinone

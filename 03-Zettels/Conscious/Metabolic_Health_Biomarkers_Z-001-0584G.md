@@ -2,11 +2,11 @@
 uid: Z-001-0584G
 type: zettel
 title: "Metabolic Health Biomarkers"
-aliases:
+aliases: []
   - Z-001-0584G
   - Biomarkers
 domain: 001
-tags:
+tags: []
   - zettel
   - metabolic
   - biomarkers

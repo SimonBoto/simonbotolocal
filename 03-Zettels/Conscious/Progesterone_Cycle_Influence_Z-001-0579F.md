@@ -2,12 +2,12 @@
 uid: Z-001-0579F
 type: zettel
 title: "Progesterone Cycle Influence"
-aliases:
+aliases: []
   - Z-001-0579F
   - Progesterone_Cycle
   - Progesterone_Regulation
 domain: 001
-tags:
+tags: []
   - zettel
   - endocrinology
   - hpg

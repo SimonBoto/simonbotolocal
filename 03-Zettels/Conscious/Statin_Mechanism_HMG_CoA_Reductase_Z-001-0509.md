@@ -2,12 +2,12 @@
 uid: Z-001-0509
 type: zettel
 title: Statin Mechanism — HMG-CoA Reductase Inhibition
-aliases:
+aliases: []
   - Statin-Mechanism
   - HMG-CoA-Reductase
   - LDL-Receptor-Upregulation
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - statin
   - mechanism

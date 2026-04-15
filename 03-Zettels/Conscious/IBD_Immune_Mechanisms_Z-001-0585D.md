@@ -2,12 +2,12 @@
 uid: Z-001-0585D
 type: zettel
 title: "IBD Immune Mechanisms"
-aliases:
+aliases: []
   - Z-001-0585D
   - IBD-Immune-Mechanisms
   - Immune-Mechanisms-IBD
 domain: 001
-tags:
+tags: []
   - zettel
   - gastroenterology
   - immunology

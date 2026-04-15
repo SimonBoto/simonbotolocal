@@ -2,12 +2,12 @@
 uid: Z-001-0240
 type: zettel
 title: "Insulin Discovery: Banting and Best"
-aliases:
+aliases: []
   - Z-001-0240
   - Banting-Best-Insulin
   - Insulin-Discovery-1921
 domain: 001
-tags:
+tags: []
   - zettel
   - insulin-history
   - diabetes-history

@@ -2,12 +2,12 @@
 uid: Z-001-0585J
 type: zettel
 title: "IBD Disease Activity Indices"
-aliases:
+aliases: []
   - Z-001-0585J
   - IBD-Disease-Activity
   - Disease-Activity-Indices-IBD
 domain: 001
-tags:
+tags: []
   - zettel
   - gastroenterology
   - clinical

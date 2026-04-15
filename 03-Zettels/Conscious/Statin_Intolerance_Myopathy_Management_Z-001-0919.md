@@ -2,15 +2,15 @@
 uid: Z-001-0919
 type: zettel
 title: Statin Intolerance — Myopathy Management
-aliases:
+aliases: []
   - Z-001-0919
   - Z-001-0512-deprecated
   - Statin-Intolerance
   - Myopathy
   - Myalgia
   - Rhabdomyolysis
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - statin
   - intolerance

@@ -2,12 +2,12 @@
 uid: Z-001-0579H
 type: zettel
 title: "HPGA Sleep Regulation"
-aliases:
+aliases: []
   - Z-001-0579H
   - HPGA_Sleep
   - Sleep_Hormones
 domain: 001
-tags:
+tags: []
   - zettel
   - endocrinology
   - hpg

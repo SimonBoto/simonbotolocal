@@ -2,12 +2,12 @@
 uid: Z-001-1086
 type: zettel
 title: Nucleoside Formation and Phosphorylation Pathways
-aliases:
+aliases: []
   - Z-001-1086
   - Nucleoside-Formation
   - Phosphorylation
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - nucleoside
   - phosphorylation

@@ -2,13 +2,13 @@
 uid: Z-001-0576E
 type: zettel
 title: "Differentiating ALP Sources"
-aliases:
+aliases: []
   - Z-001-0576E
   - ALP-Differentiation
   - Hepatic-vs-Bone-ALP
   - GGT-Interpretation
 domain: 001
-tags:
+tags: []
   - zettel
   - biomarkers
   - alkaline-phosphatase

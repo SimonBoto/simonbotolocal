@@ -2,13 +2,13 @@
 uid: Z-001-1108
 type: zettel
 title: Prebiotic Chemistry — Hydrothermal Vents
-aliases:
+aliases: []
   - Z-001-1108
   - Prebiotic-Chemistry
   - Hydrothermal-Vents
   - Iron-Sulfur-World
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - prebiotic
   - hydrothermal

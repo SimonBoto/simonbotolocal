@@ -1,6 +1,6 @@
 ---
 uid: Z-101-0006
-type: zettel-mech
+type: zettel
 title: DMF Nrf2 Antioxidant Pathway Activation
 aliases: [Z-101-0006, DMF, Nrf2, Antioxidant, Dimethyl-Fumarate]
 domain: 101

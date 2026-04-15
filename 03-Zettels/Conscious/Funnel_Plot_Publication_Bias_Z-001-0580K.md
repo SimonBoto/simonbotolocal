@@ -2,13 +2,13 @@
 uid: Z-001-0580K
 type: zettel
 title: "Funnel Plot and Publication Bias"
-aliases:
+aliases: []
   - Z-001-0580K
   - Funnel-Plot
   - Publication-Bias
   - Small-Study-Effect
  domain: 001
-tags:
+tags: []
   - zettel
   - publication-bias
   - meta-analysis

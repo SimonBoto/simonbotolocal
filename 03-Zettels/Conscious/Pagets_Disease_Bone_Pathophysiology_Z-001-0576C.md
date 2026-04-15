@@ -2,13 +2,13 @@
 uid: Z-001-0576C
 type: zettel
 title: "Paget's Disease Bone Pathophysiology"
-aliases:
+aliases: []
   - Z-001-0576C
   - Pagets-Disease
   - Bone-Remodeling
   - Pagets-Pathophysiology
 domain: 001
-tags:
+tags: []
   - zettel
   - biomarkers
   - alkaline-phosphatase

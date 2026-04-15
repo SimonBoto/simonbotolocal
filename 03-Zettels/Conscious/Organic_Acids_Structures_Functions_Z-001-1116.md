@@ -2,13 +2,13 @@
 uid: Z-001-1116
 type: zettel
 title: Organic Acids — Structures and Functions
-aliases:
+aliases: []
   - Z-001-1116
   - Organic-Acids
   - OAT
   - Reference-Table
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - organic-acids
   - oat

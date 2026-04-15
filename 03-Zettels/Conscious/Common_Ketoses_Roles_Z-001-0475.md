@@ -2,15 +2,15 @@
 uid: Z-001-0475
 type: zettel
 title: Common Ketoses and Their Roles
-aliases:
+aliases: []
   - Z-001-0475
   - Ketoses
   - Fructose
   - Ribulose
   - Xylulose
   - Sorbose
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - ketoses
   - fructose

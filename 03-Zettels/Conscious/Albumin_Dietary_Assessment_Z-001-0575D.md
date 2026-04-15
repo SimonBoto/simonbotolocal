@@ -2,11 +2,11 @@
 uid: Z-001-0575D
 type: zettel
 title: "Albumin-Dietary Assessment"
-aliases:
+aliases: []
   - Z-001-0575D
   - Albumin-Dietary-Assessment
 domain: 001
-tags:
+tags: []
   - zettel
   - kidney
   - albumin

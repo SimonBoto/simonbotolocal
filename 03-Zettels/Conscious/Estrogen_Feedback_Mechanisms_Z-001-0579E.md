@@ -2,12 +2,12 @@
 uid: Z-001-0579E
 type: zettel
 title: "Estrogen Feedback Mechanisms"
-aliases:
+aliases: []
   - Z-001-0579E
   - Estrogen_Feedback
   - Estradiol_Regulation
 domain: 001
-tags:
+tags: []
   - zettel
   - endocrinology
   - hpg

@@ -2,12 +2,12 @@
 uid: Z-001-0579L
 type: zettel
 title: "Female HPGA Cycle"
-aliases:
+aliases: []
   - Z-001-0579L
   - Female_HPGA
   - Menstrual_Cycle
 domain: 001
-tags:
+tags: []
   - zettel
   - endocrinology
   - hpg

@@ -2,13 +2,13 @@
 uid: Z-001-0468
 type: zettel
 title: Fructose as Glycolytic Intermediate
-aliases:
+aliases: []
   - Z-001-0468
   - Fructose-Intermediate
   - F6P
   - F1,6BP
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - fructose
   - glycolysis

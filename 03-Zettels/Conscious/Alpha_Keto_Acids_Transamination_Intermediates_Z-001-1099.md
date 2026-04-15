@@ -2,12 +2,12 @@
 uid: Z-001-1099
 type: zettel
 title: Alpha-Keto Acids — Transamination Intermediates
-aliases:
+aliases: []
   - Z-001-1099
   - Alpha-Keto-Acids
   - Transamination
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - alpha-keto
   - transamination

@@ -2,12 +2,12 @@
 uid: Z-001-0115
 type: zettel
 title: "Drug Holiday Transition"
-aliases:
+aliases: []
   - Z-001-0115
   - Drug-Holiday
   - Treatment-Hiatus
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - drug-transition
   - sequential-therapy

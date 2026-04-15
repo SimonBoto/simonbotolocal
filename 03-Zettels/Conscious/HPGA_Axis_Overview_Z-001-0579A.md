@@ -2,12 +2,12 @@
 uid: Z-001-0579A
 type: zettel
 title: "HPGA Axis Overview"
-aliases:
+aliases: []
   - Z-001-0579A
   - HPGA_Axis_Overview
   - HPG_Axis_Overview
 domain: 001
-tags:
+tags: []
   - zettel
   - endocrinology
   - hpg

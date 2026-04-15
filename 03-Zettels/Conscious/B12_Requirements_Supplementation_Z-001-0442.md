@@ -2,14 +2,14 @@
 uid: Z-001-0442
 type: zettel
 title: B12 Requirements and Supplementation
-aliases:
+aliases: []
   - Z-001-0442
   - B12-Requirements
   - Supplementation
   - Dosing
   - Forms
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - b12
   - requirements

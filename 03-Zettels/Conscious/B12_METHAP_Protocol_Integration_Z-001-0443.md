@@ -2,14 +2,14 @@
 uid: Z-001-0443
 type: zettel
 title: B12 METHAP Protocol Integration
-aliases:
+aliases: []
   - Z-001-0443
   - B12-METHAP
   - Protocol
   - Integration
   - Synergy
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - b12
   - methap

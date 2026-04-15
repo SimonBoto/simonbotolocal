@@ -2,12 +2,12 @@
 uid: Z-001-1095
 type: zettel
 title: BHB — Hydroxyacid, Not True Ketone
-aliases:
+aliases: []
   - Z-001-1095
   - BHB-Structure
   - Hydroxyacid
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - bhb
   - hydroxyacid

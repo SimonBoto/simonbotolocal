@@ -2,12 +2,12 @@
 uid: Z-001-0585B
 type: zettel
 title: "Crohn's Disease Transmural"
-aliases:
+aliases: []
   - Z-001-0585B
   - Crohns-Transmural
   - CD-Transmural
 domain: 001
-tags:
+tags: []
   - zettel
   - gastroenterology
   - crohns

@@ -2,12 +2,12 @@
 uid: Z-001-0585M
 type: zettel
 title: "IBD Surgical Indications"
-aliases:
+aliases: []
   - Z-001-0585M
   - IBD-Surgical-Indications
   - Surgical-Indications-IBD
 domain: 001
-tags:
+tags: []
   - zettel
   - gastroenterology
   - surgery

@@ -2,13 +2,13 @@
 uid: Z-001-1091
 type: zettel
 title: Glucose-Ribose Interconversion via PPP
-aliases:
+aliases: []
   - Z-001-1091
   - Glucose-Ribose
   - PPP
   - Nucleotide-Synthesis
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - glucose
   - ribose

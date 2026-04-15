@@ -2,10 +2,10 @@
 uid: Z-001-0578B
 type: zettel
 title: "Testosterone Laboratory Ranges"
-aliases:
+aliases: []
   - Z-001-0578B
 domain: 001
-tags:
+tags: []
   - zettel
   - hormones
   - male

@@ -2,11 +2,11 @@
 uid: Z-001-0574B
 type: zettel
 title: "Carb Context Problem — Research Methodology Flaw"
-aliases:
+aliases: []
   - Z-001-0574B
   - Carb-Context-Problem
 domain: 001
-tags:
+tags: []
   - zettel
   - research-methodology
   - kidney

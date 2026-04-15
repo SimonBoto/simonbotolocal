@@ -2,13 +2,13 @@
 uid: Z-001-1087
 type: zettel
 title: Purine Salvage Pathway — Recycling Mechanism
-aliases:
+aliases: []
   - Z-001-1087
   - Salvage-Pathway
   - HGPRT
   - Purine-Recycling
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - salvage
   - purine

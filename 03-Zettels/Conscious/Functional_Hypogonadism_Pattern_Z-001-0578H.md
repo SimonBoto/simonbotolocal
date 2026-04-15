@@ -2,10 +2,10 @@
 uid: Z-001-0578H
 type: zettel
 title: "Functional Hypogonadism Pattern"
-aliases:
+aliases: []
   - Z-001-0578H
 domain: 001
-tags:
+tags: []
   - zettel
   - hormones
   - male

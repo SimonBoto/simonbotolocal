@@ -2,14 +2,14 @@
 uid: Z-001-0135
 type: zettel
 title: "Fracture Risk Reassessment"
-aliases:
+aliases: []
   - Z-001-0135
   - Fracture_Risk
   - FRAX
   - Risk_Reassessment
   - Fragility_Fractures
 domain: 001
-tags:
+tags: []
   - zettel
   - monitoring
   - fracture-risk

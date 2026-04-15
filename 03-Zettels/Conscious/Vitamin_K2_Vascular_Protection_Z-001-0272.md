@@ -2,14 +2,14 @@
 uid: Z-001-0272
 type: zettel
 title: "Vitamin K2 — Vascular Protection"
-aliases:
+aliases: []
   - Z-001-0272
   - Vitamin-K2
   - K2-Vascular-Protection
   - MK-7
   - MK-4
 domain: 001
-tags:
+tags: []
   - zettel
   - vascular-calcification
   - vitamin-K

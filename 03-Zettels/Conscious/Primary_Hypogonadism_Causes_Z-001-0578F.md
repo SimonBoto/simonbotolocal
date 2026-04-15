@@ -2,10 +2,10 @@
 uid: Z-001-0578F
 type: zettel
 title: "Primary Hypogonadism Causes"
-aliases:
+aliases: []
   - Z-001-0578F
 domain: 001
-tags:
+tags: []
   - zettel
   - hormones
   - male

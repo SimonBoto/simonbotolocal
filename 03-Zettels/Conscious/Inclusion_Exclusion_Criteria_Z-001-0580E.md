@@ -2,13 +2,13 @@
 uid: Z-001-0580E
 type: zettel
 title: "Inclusion and Exclusion Criteria"
-aliases:
+aliases: []
   - Z-001-0580E
   - Inclusion-Criteria
   - Exclusion-Criteria
   - Selection-Criteria
  domain: 001
-tags:
+tags: []
   - zettel
   - inclusion-criteria
   - systematic-review

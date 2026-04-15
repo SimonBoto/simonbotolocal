@@ -2,12 +2,12 @@
 uid: Z-001-0585L
 type: zettel
 title: "IBD Medical Therapy"
-aliases:
+aliases: []
   - Z-001-0585L
   - IBD-Medical-Therapy
   - Medical-Therapy-IBD
 domain: 001
-tags:
+tags: []
   - zettel
   - gastroenterology
   - therapeutics

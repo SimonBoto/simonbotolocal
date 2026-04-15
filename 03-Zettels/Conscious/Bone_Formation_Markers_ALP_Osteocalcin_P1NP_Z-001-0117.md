@@ -2,12 +2,12 @@
 uid: Z-001-0117
 type: zettel
 title: "Bone Formation Markers: ALP, Osteocalcin, P1NP"
-aliases:
+aliases: []
   - Z-001-0117
   - Bone-Formation-Markers
   - ALP-Osteocalcin-P1NP
 domain: 001
-tags:
+tags: []
   - zettel
   - bone-formation
   - biomarkers

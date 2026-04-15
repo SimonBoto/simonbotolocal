@@ -2,12 +2,12 @@
 uid: Z-001-0585F
 type: zettel
 title: "IBD Genetic Predisposition"
-aliases:
+aliases: []
   - Z-001-0585F
   - IBD-Genetic-Predisposition
   - Genetic-IBD-Predisposition
 domain: 001
-tags:
+tags: []
   - zettel
   - gastroenterology
   - genetics

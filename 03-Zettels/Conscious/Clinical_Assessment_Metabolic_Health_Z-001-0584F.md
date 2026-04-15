@@ -2,11 +2,11 @@
 uid: Z-001-0584F
 type: zettel
 title: "Clinical Assessment of Metabolic Health"
-aliases:
+aliases: []
   - Z-001-0584F
   - Clinical-Assessment
 domain: 001
-tags:
+tags: []
   - zettel
   - metabolic
   - clinical

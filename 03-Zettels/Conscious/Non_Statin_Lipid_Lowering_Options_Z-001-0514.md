@@ -2,14 +2,14 @@
 uid: Z-001-0514
 type: zettel
 title: Non-Statin Lipid-Lowering Options
-aliases:
+aliases: []
   - Non-Statin
   - Ezetimibe
   - PCSK9
   - Bempedoic-Acid
   - Fibrate
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - non-statin
   - ezetimibe

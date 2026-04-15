@@ -2,12 +2,12 @@
 uid: Z-001-1101
 type: zettel
 title: Glucogenic Amino Acids — Gluconeogenesis Support
-aliases:
+aliases: []
   - Z-001-1101
   - Glucogenic-AAs
   - Gluconeogenesis
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - glucogenic
   - gluconeogenesis

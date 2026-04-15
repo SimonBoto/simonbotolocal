@@ -2,13 +2,13 @@
 uid: Z-001-0123
 type: zettel
 title: "VitD-K2 Synergy Mechanism"
-aliases:
+aliases: []
   - Z-001-0123
   - VitD-K2-Synergy
   - Vitamin-D-K2
   - D-K2-Mechanism
 domain: 001
-tags:
+tags: []
   - zettel
   - vitamin-d
   - vitamin-k2

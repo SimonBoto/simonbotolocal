@@ -1,6 +1,6 @@
 ---
 uid: Z-001-0011
-type: zettel-mech
+type: zettel
 status: conscious
 title: GLUT4 Vesicle Translocation
 aliases: [Z-001-0011, GLUT4, GLUT4_Translocation]

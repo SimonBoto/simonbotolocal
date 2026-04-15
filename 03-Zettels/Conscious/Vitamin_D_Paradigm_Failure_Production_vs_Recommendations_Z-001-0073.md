@@ -2,12 +2,12 @@
 uid: Z-001-0073
 type: zettel
 title: Vitamin D Paradigm Failure — Production vs Recommendations
-aliases:
+aliases: []
   - Z-001-0073
   - VitD-Paradigm-Failure
-domain: 1
+domain: 001
 domain-name: Insulin Signaling
-tags:
+tags: []
   - zettel
   - vitamin-d
   - paradigm-failure

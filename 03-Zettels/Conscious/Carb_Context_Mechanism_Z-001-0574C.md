@@ -2,11 +2,11 @@
 uid: Z-001-0574C
 type: zettel
 title: "Carb Context Mechanism — Metabolic Interactions"
-aliases:
+aliases: []
   - Z-001-0574C
   - Carb-Context-Mechanism
 domain: 001
-tags:
+tags: []
   - zettel
   - mechanism
   - metabolic-physiology

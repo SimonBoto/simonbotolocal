@@ -1,6 +1,6 @@
 ---
 uid: Z-001-0010
-type: zettel-mech
+type: zettel
 status: conscious
 title: Akt Substrate Phosphorylation
 aliases: [Z-001-0010, Akt_Substrates, Akt_Phosphorylation]

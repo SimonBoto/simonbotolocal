@@ -2,14 +2,14 @@
 uid: Z-001-0482
 type: zettel
 title: The Three Ketone Bodies
-aliases:
+aliases: []
   - Z-001-0482
   - Acetoacetate
   - BHB
   - Acetone
   - Ketones
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - acetoacetate
   - bhb

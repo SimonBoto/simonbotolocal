@@ -2,14 +2,14 @@
 uid: Z-001-0441
 type: zettel
 title: Clinical Assessment of B12 Status — MMA
-aliases:
+aliases: []
   - Z-001-0441
   - B12-Assessment
   - MMA
   - Methylmalonic-Acid
   - Biomarker
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - b12
   - assessment

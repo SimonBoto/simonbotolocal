@@ -1,6 +1,6 @@
 ---
 uid: Z-001-0007
-type: zettel-mech
+type: zettel
 status: conscious
 title: PI3K Activation Mechanism
 aliases: [Z-001-0007, PI3K, PI3K_Activation]

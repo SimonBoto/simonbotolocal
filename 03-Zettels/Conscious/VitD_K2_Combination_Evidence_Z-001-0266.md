@@ -2,13 +2,13 @@
 uid: Z-001-0266
 type: zettel
 title: "VitD-K2 Combination Evidence"
-aliases:
+aliases: []
   - Z-001-0266
   - D_K2_Combination
   - Vitamin-D-K2-Evidence
   - Synergistic-Evidence
 domain: 001
-tags:
+tags: []
   - zettel
   - vitamin-d
   - vitamin-k2

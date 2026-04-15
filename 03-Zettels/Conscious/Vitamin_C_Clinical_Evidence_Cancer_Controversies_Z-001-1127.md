@@ -2,11 +2,11 @@
 uid: Z-001-1127
 type: zettel
 title: "Vitamin C Clinical Evidence Cancer Controversies"
-aliases:
+aliases: []
   - Z-001-1127
   - Vitamin-C-Clinical-Evidence
 domain: 001
-tags:
+tags: []
   - zettel
   - vitamin-c
   - clinical-evidence

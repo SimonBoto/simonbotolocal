@@ -2,14 +2,14 @@
 uid: Z-001-0472
 type: zettel
 title: Glucose Metabolism Overview
-aliases:
+aliases: []
   - Z-001-0472
   - Glucose
   - Blood-Sugar
   - Glycolysis
   - Insulin
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - glucose
   - metabolism

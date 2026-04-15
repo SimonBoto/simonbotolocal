@@ -2,12 +2,12 @@
 uid: Z-001-0580M
 type: zettel
 title: "Subgroup Analysis in Meta-Analysis"
-aliases:
+aliases: []
   - Z-001-0580M
   - Subgroup-Analysis
   - Meta-Analysis-Subgroups
  domain: 001
-tags:
+tags: []
   - zettel
   - subgroup-analysis
   - meta-analysis

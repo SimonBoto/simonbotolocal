@@ -2,15 +2,15 @@
 uid: Z-001-0471
 type: zettel
 title: Aldose vs Ketose Chemistry
-aliases:
+aliases: []
   - Z-001-0471
   - Aldose
   - Ketose
   - Carbonyl
   - Glucose
   - Fructose
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - aldose
   - ketose

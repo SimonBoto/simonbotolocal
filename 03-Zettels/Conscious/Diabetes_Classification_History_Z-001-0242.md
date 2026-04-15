@@ -2,12 +2,12 @@
 uid: Z-001-0242
 type: zettel
 title: "Diabetes Classification History"
-aliases:
+aliases: []
   - Z-001-0242
   - Diabetes-Classification-History
   - Type-1-Type-2-Evolution
 domain: 001
-tags:
+tags: []
   - zettel
   - diabetes-history
   - classification

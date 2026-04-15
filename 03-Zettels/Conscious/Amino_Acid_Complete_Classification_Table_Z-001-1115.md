@@ -2,12 +2,12 @@
 uid: Z-001-1115
 type: zettel
 title: Amino Acid Complete Classification Table
-aliases:
+aliases: []
   - Z-001-1115
   - AA-Classification
   - Reference-Table
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - amino-acids
   - classification

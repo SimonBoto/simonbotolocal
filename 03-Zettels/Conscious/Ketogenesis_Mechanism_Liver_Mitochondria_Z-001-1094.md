@@ -2,13 +2,13 @@
 uid: Z-001-1094
 type: zettel
 title: Ketogenesis Mechanism — Liver Mitochondria
-aliases:
+aliases: []
   - Z-001-1094
   - Ketogenesis
   - Ketone-Bodies
   - HMG-CoA
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - ketogenesis
   - liver

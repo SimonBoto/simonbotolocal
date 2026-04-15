@@ -1,6 +1,6 @@
 ---
 uid: Z-001-0016
-type: zettel-mech
+type: zettel
 status: conscious
 title: MAPK Pathway for Mitogenic Signaling
 aliases: [Z-001-0016, MAPK, Ras_MAPK, Mitogenic_Pathway]

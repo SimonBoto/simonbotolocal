@@ -2,12 +2,12 @@
 uid: Z-001-0580A
 type: zettel
 title: "Meta-Analysis Overview"
-aliases:
+aliases: []
   - Z-001-0580A
   - Meta-Analysis-Overview
   - Meta-Analysis-Introduction
 domain: 001
-tags:
+tags: []
   - zettel
   - meta-analysis
   - research-methodology

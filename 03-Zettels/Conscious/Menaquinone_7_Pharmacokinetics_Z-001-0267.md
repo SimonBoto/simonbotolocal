@@ -2,13 +2,13 @@
 uid: Z-001-0267
 type: zettel
 title: "Menaquinone-7 Pharmacokinetics"
-aliases:
+aliases: []
   - Z-001-0267
   - MK-7-Pharmacokinetics
   - Menaquinone-7-PK
   - Vitamin-K2-PK
 domain: 001
-tags:
+tags: []
   - zettel
   - vitamin-k2
   - menaquinone-7

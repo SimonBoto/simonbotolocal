@@ -2,14 +2,14 @@
 uid: Z-001-0510
 type: zettel
 title: Statin Major Clinical Trials
-aliases:
+aliases: []
   - Statin-Trials
   - 4S
   - WOSCOPS
   - JUPITER
   - TNT
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - statin
   - trials

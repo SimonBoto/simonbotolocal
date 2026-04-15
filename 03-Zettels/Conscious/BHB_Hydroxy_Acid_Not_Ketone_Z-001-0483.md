@@ -2,14 +2,14 @@
 uid: Z-001-0483
 type: zettel
 title: BHB is a Hydroxy Acid, Not a Ketone
-aliases:
+aliases: []
   - Z-001-0483
   - BHB
   - Hydroxy-Acid
   - Chemistry
   - Structure
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - bhb
   - hydroxy-acid

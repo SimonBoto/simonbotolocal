@@ -2,11 +2,11 @@
 uid: Z-001-0584B
 type: zettel
 title: "Metabolic Health Pillar: Movement"
-aliases:
+aliases: []
   - Z-001-0584B
   - Movement-Pillar
 domain: 001
-tags:
+tags: []
   - zettel
   - metabolic
   - movement

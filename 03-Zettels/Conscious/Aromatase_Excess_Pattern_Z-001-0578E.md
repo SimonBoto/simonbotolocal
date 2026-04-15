@@ -2,10 +2,10 @@
 uid: Z-001-0578E
 type: zettel
 title: "Aromatase Excess Pattern"
-aliases:
+aliases: []
   - Z-001-0578E
 domain: 001
-tags:
+tags: []
   - zettel
   - hormones
   - male

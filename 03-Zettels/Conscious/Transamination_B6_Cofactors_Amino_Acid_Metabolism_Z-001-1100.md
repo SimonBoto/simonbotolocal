@@ -2,13 +2,13 @@
 uid: Z-001-1100
 type: zettel
 title: Transamination — B6 Cofactors in Amino Acid Metabolism
-aliases:
+aliases: []
   - Z-001-1100
   - Transamination
   - B6
   - PLP
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - transamination
   - b6

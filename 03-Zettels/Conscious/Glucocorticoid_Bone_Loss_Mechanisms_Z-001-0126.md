@@ -2,12 +2,12 @@
 uid: Z-001-0126
 type: zettel
 title: "Glucocorticoid Bone Loss Mechanisms"
-aliases:
+aliases: []
   - Z-001-0126
   - Glucocorticoid_Risk_Assessment_Screening
   - GIOP_Risk_Assessment
 domain: 001
-tags:
+tags: []
   - zettel
   - glucocorticoid
   - osteoporosis

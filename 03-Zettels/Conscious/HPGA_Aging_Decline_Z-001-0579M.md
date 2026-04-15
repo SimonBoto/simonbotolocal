@@ -2,12 +2,12 @@
 uid: Z-001-0579M
 type: zettel
 title: "HPGA Aging Decline"
-aliases:
+aliases: []
   - Z-001-0579M
   - HPGA_Aging
   - Andropause_Menopause
 domain: 001
-tags:
+tags: []
   - zettel
   - endocrinology
   - hpg

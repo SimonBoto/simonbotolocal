@@ -2,13 +2,13 @@
 uid: Z-001-1084
 type: zettel
 title: Adenine — Purine Base Structure and Function
-aliases:
+aliases: []
   - Z-001-1084
   - Adenine
   - Purine
   - Nucleobase
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - adenine
   - purine

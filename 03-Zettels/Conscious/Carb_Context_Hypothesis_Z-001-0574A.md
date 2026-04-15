@@ -2,11 +2,11 @@
 uid: Z-001-0574A
 type: zettel
 title: "Carb Context Hypothesis — Carbohydrate Context Modifies Protein Effects"
-aliases:
+aliases: []
   - Z-001-0574A
   - Carb-Context-Hypothesis
 domain: 001
-tags:
+tags: []
   - zettel
   - hypothesis
   - kidney

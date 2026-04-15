@@ -2,11 +2,11 @@
 uid: Z-001-0575C
 type: zettel
 title: "Albumin-Inflammation Confounder"
-aliases:
+aliases: []
   - Z-001-0575C
   - Albumin-Inflammation-Confounder
 domain: 001
-tags:
+tags: []
   - zettel
   - kidney
   - albumin

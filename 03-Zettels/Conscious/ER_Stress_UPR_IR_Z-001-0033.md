@@ -1,6 +1,6 @@
 ---
 uid: Z-001-0033
-type: zettel-mech
+type: zettel
 title: ER Stress and UPR in Insulin Resistance
 aliases: [Z-001-0033, ER-Stress-UPR-IR]
 domain: 001

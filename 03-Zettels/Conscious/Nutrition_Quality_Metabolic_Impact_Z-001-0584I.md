@@ -2,11 +2,11 @@
 uid: Z-001-0584I
 type: zettel
 title: "Nutrition Quality and Metabolic Impact"
-aliases:
+aliases: []
   - Z-001-0584I
   - Nutrition-Quality
 domain: 001
-tags:
+tags: []
   - zettel
   - metabolic
   - nutrition

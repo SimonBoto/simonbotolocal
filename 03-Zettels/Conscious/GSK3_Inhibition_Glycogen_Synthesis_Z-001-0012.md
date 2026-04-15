@@ -1,6 +1,6 @@
 ---
 uid: Z-001-0012
-type: zettel-mech
+type: zettel
 status: conscious
 title: GSK3 Inhibition and Glycogen Synthesis
 aliases: [Z-001-0012, GSK3, Glycogen_Synthesis]

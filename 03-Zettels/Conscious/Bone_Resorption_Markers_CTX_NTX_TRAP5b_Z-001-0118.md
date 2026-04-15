@@ -2,12 +2,12 @@
 uid: Z-001-0118
 type: zettel
 title: "Bone Resorption Markers: CTX, NTX, TRAP5b"
-aliases:
+aliases: []
   - Z-001-0118
   - Bone-Resorption-Markers
   - CTX-NTX-TRAP5b
 domain: 001
-tags:
+tags: []
   - zettel
   - bone-resorption
   - biomarkers

@@ -2,12 +2,12 @@
 uid: Z-001-0132
 type: zettel
 title: "Anabolic Therapy Safety and Contraindications"
-aliases:
+aliases: []
   - Z-001-0132
   - Anabolic-Safety
   - Therapy-Contraindications
 domain: 001
-tags:
+tags: []
   - zettel
   - therapy-safety
   - osteoporosis

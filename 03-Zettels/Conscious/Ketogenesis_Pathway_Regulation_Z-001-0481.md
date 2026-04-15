@@ -2,14 +2,14 @@
 uid: Z-001-0481
 type: zettel
 title: Ketogenesis Pathway and Regulation
-aliases:
+aliases: []
   - Z-001-0481
   - Ketogenesis
   - HMG-CoA
   - Liver
   - Ketones
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - ketogenesis
   - bhb

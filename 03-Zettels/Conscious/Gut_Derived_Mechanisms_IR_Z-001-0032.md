@@ -1,6 +1,6 @@
 ---
 uid: Z-001-0032
-type: zettel-mech
+type: zettel
 title: Gut-Derived Mechanisms in Insulin Resistance
 aliases: [Z-001-0032, Gut-IR-Mechanisms]
 domain: 001

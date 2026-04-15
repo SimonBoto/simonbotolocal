@@ -2,12 +2,12 @@
 uid: Z-001-0579I
 type: zettel
 title: "HPGA Nutrition Impact"
-aliases:
+aliases: []
   - Z-001-0579I
   - HPGA_Nutrition
   - Nutrition_Hormones
 domain: 001
-tags:
+tags: []
   - zettel
   - endocrinology
   - hpg

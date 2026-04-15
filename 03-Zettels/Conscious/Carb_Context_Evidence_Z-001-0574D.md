@@ -2,11 +2,11 @@
 uid: Z-001-0574D
 type: zettel
 title: "Carb Context Evidence — Evidence Gap in Research"
-aliases:
+aliases: []
   - Z-001-0574D
   - Carb-Context-Evidence
 domain: 001
-tags:
+tags: []
   - zettel
   - evidence
   - research-methodology

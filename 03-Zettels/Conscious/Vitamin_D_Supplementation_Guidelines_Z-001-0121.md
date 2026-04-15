@@ -2,13 +2,13 @@
 uid: Z-001-0121
 type: zettel
 title: "Vitamin D Supplementation Guidelines"
-aliases:
+aliases: []
   - Z-001-0121
   - Vitamin-D-Guidelines
   - Vitamin-D-Supplementation
   - D-Guidelines
 domain: 001
-tags:
+tags: []
   - zettel
   - vitamin-d
   - supplementation

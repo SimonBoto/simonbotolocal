@@ -2,13 +2,13 @@
 uid: Z-001-0458
 type: zettel
 title: Ribose Structure and RNA Backbone Role
-aliases:
+aliases: []
   - Z-001-0458
   - Ribose
   - RNA-Backbone
   - Pentose
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - ribose
   - pentose

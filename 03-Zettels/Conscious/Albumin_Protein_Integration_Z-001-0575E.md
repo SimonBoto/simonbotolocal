@@ -2,11 +2,11 @@
 uid: Z-001-0575E
 type: zettel
 title: "Albumin-Protein Integration"
-aliases:
+aliases: []
   - Z-001-0575E
   - Albumin-Protein-Integration
 domain: 001
-tags:
+tags: []
   - zettel
   - kidney
   - albumin

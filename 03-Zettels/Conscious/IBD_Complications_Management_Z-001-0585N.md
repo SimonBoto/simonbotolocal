@@ -2,12 +2,12 @@
 uid: Z-001-0585N
 type: zettel
 title: "IBD Complications Management"
-aliases:
+aliases: []
   - Z-001-0585N
   - IBD-Complications-Management
   - Complications-Management-IBD
 domain: 001
-tags:
+tags: []
   - zettel
   - gastroenterology
   - complications

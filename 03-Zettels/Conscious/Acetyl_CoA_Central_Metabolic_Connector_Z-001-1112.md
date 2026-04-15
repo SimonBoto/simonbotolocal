@@ -2,12 +2,12 @@
 uid: Z-001-1112
 type: zettel
 title: Acetyl-CoA — Central Metabolic Connector
-aliases:
+aliases: []
   - Z-001-1112
   - Acetyl-CoA
   - Metabolic-Hub
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - acetyl-coa
   - connector

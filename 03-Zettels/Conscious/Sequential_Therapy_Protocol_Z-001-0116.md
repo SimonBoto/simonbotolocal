@@ -2,12 +2,12 @@
 uid: Z-001-0116
 type: zettel
 title: "Sequential Therapy Protocol"
-aliases:
+aliases: []
   - Z-001-0116
   - Sequential-Therapy
   - Therapy-Sequence
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - drug-transition
   - sequential-therapy

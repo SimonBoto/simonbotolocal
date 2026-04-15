@@ -2,14 +2,14 @@
 uid: Z-001-0439
 type: zettel
 title: Methylmalonyl-CoA Mutase — Energy Connection
-aliases:
+aliases: []
   - Z-001-0439
   - Methylmalonyl-CoA-Mutase
   - Energy
   - Krebs-Cycle
   - Succinyl-CoA
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - methylmalonyl-coa-mutase
   - energy

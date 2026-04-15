@@ -2,12 +2,12 @@
 uid: Z-001-0131
 type: zettel
 title: "Sequential Therapy Strategy"
-aliases:
+aliases: []
   - Z-001-0131
   - Sequential-Therapy
   - Therapy-Sequence
 domain: 001
-tags:
+tags: []
   - zettel
   - therapy-sequence
   - osteoporosis

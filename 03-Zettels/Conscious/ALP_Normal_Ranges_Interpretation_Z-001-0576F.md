@@ -2,13 +2,13 @@
 uid: Z-001-0576F
 type: zettel
 title: "ALP Normal Ranges and Interpretation"
-aliases:
+aliases: []
   - Z-001-0576F
   - ALP-Normal-Ranges
   - ALP-Interpretation
   - Clinical-Biochemistry
 domain: 001
-tags:
+tags: []
   - zettel
   - biomarkers
   - alkaline-phosphatase

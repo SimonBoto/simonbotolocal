@@ -2,12 +2,12 @@
 uid: Z-001-1089
 type: zettel
 title: Triose Roles — Glycolysis, PPP, and Krebs Integration
-aliases:
+aliases: []
   - Z-001-1089
   - Triose-Integration
   - Metabolic-Crossroads
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - triose
   - glycolysis

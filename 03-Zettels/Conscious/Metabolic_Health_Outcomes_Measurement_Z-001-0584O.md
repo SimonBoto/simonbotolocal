@@ -2,11 +2,11 @@
 uid: Z-001-0584O
 type: zettel
 title: "Metabolic Health Outcomes Measurement"
-aliases:
+aliases: []
   - Z-001-0584O
   - Outcomes-Measurement
 domain: 001
-tags:
+tags: []
   - zettel
   - metabolic
   - outcomes

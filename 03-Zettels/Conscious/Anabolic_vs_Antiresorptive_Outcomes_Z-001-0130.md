@@ -2,11 +2,11 @@
 uid: Z-001-0130
 type: zettel
 title: "Anabolic vs Antiresorptive Outcomes"
-aliases:
+aliases: []
   - Z-001-0130
   - Therapy-Outcomes-Comparison
 domain: 001
-tags:
+tags: []
   - zettel
   - therapy-comparison
   - osteoporosis

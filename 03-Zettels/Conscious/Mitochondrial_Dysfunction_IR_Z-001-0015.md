@@ -1,6 +1,6 @@
 ---
 uid: Z-001-0015
-type: zettel-mech
+type: zettel
 status: conscious
 title: Mitochondrial Dysfunction and Insulin Resistance
 aliases: [Z-001-0015, Mitochondrial_Dysfunction, Mito_IR]

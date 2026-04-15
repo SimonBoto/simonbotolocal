@@ -1,6 +1,6 @@
 ---
 uid: Z-001-0003
-type: zettel-mech
+type: zettel
 status: conscious
 title: INSR Autophosphorylation Mechanism
 aliases: [Z-001-0003, INSR_Autophosphorylation, INSR_Activation]

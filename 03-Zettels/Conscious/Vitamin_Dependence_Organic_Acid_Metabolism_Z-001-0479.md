@@ -2,15 +2,15 @@
 uid: Z-001-0479
 type: zettel
 title: Vitamin Dependence in Organic Acid Metabolism
-aliases:
+aliases: []
   - Z-001-0479
   - Vitamins
   - B12
   - Biotin
   - Thiamine
   - Cofactors
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - vitamins
   - b12

@@ -2,12 +2,12 @@
 uid: Z-001-0128
 type: zettel
 title: "Glucocorticoid Osteoporosis Treatment"
-aliases:
+aliases: []
   - Z-001-0128
   - Glucocorticoid_Treatment_Monitoring_Outcomes
   - GIOP_Treatment
 domain: 001
-tags:
+tags: []
   - zettel
   - glucocorticoid
   - osteoporosis

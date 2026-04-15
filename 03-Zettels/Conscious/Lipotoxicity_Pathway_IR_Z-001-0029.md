@@ -1,6 +1,6 @@
 ---
 uid: Z-001-0029
-type: zettel-mech
+type: zettel
 title: Lipotoxicity Pathway in Insulin Resistance
 aliases: [Z-001-0029, Lipotoxicity-IR]
 domain: 001

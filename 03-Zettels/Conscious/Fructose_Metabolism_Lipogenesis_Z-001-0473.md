@@ -2,14 +2,14 @@
 uid: Z-001-0473
 type: zettel
 title: Fructose Metabolism and Lipogenesis
-aliases:
+aliases: []
   - Z-001-0473
   - Fructose
   - Lipogenesis
   - Liver
   - Metabolic-Syndrome
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - fructose
   - lipogenesis

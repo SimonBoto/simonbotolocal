@@ -2,13 +2,13 @@
 uid: Z-001-0139
 type: zettel
 title: "Drug Holiday Recommendations"
-aliases:
+aliases: []
   - Z-001-0139
   - Drug-Holiday
   - Medication-Holiday
   - Bisphosphonate-Holiday
 domain: 001
-tags:
+tags: []
   - zettel
   - drug-holiday
   - medication-duration

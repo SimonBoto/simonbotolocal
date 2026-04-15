@@ -2,12 +2,12 @@
 uid: Z-001-0585C
 type: zettel
 title: "Ulcerative Colitis Mucosal"
-aliases:
+aliases: []
   - Z-001-0585C
   - UC-Mucosal
   - Ulcerative-Colitis-Mucosal
 domain: 001
-tags:
+tags: []
   - zettel
   - gastroenterology
   - uc

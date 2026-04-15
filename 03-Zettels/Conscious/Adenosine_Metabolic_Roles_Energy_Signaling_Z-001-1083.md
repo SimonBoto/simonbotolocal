@@ -2,13 +2,13 @@
 uid: Z-001-1083
 type: zettel
 title: Adenosine — Metabolic Roles in Energy and Signaling
-aliases:
+aliases: []
   - Z-001-1083
   - Adenosine
   - ATP
   - Signaling
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - adenosine
   - nucleoside

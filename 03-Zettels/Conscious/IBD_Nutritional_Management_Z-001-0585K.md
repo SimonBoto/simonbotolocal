@@ -2,12 +2,12 @@
 uid: Z-001-0585K
 type: zettel
 title: "IBD Nutritional Management"
-aliases:
+aliases: []
   - Z-001-0585K
   - IBD-Nutritional-Management
   - Nutritional-Management-IBD
 domain: 001
-tags:
+tags: []
   - zettel
   - gastroenterology
   - nutrition

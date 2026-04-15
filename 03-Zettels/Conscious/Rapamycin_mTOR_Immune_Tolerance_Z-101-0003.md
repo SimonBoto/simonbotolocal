@@ -1,6 +1,6 @@
 ---
 uid: Z-101-0003
-type: zettel-mech
+type: zettel
 title: Rapamycin mTOR Inhibition and Immune Tolerance
 aliases: [Z-101-0003, Rapamycin-mTOR, Immune-Tolerance]
 domain: 101

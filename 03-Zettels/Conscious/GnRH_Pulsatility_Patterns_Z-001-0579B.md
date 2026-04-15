@@ -2,12 +2,12 @@
 uid: Z-001-0579B
 type: zettel
 title: "GnRH Pulsatility Patterns"
-aliases:
+aliases: []
   - Z-001-0579B
   - GnRH_Pulsatility
   - GnRH_Patterns
 domain: 001
-tags:
+tags: []
   - zettel
   - endocrinology
   - hpg

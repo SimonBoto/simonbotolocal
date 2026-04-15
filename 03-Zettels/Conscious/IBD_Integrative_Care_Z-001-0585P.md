@@ -2,12 +2,12 @@
 uid: Z-001-0585P
 type: zettel
 title: "IBD Integrative Care"
-aliases:
+aliases: []
   - Z-001-0585P
   - IBD-Integrative-Care
   - Integrative-Care-IBD
 domain: 001
-tags:
+tags: []
   - zettel
   - gastroenterology
   - integrative

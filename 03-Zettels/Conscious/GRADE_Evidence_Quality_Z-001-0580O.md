@@ -2,13 +2,13 @@
 uid: Z-001-0580O
 type: zettel
 title: "GRADE Evidence Quality Assessment"
-aliases:
+aliases: []
   - Z-001-0580O
   - GRADE
   - Evidence-Quality
   - Confidence-in-Evidence
  domain: 001
-tags:
+tags: []
   - zettel
   - grade
   - evidence-quality

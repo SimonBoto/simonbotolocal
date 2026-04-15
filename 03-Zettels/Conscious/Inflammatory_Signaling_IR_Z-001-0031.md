@@ -1,6 +1,6 @@
 ---
 uid: Z-001-0031
-type: zettel-mech
+type: zettel
 title: Inflammatory Signaling in Insulin Resistance
 aliases: [Z-001-0031, Inflammation-IR-Signaling]
 domain: 001

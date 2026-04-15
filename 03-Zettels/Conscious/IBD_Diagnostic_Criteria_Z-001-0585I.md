@@ -2,12 +2,12 @@
 uid: Z-001-0585I
 type: zettel
 title: "IBD Diagnostic Criteria"
-aliases:
+aliases: []
   - Z-001-0585I
   - IBD-Diagnostic-Criteria
   - Diagnostic-Criteria-IBD
 domain: 001
-tags:
+tags: []
   - zettel
   - gastroenterology
   - diagnostics

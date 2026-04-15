@@ -2,12 +2,12 @@
 uid: Z-001-0580N
 type: zettel
 title: "Meta-Regression Techniques"
-aliases:
+aliases: []
   - Z-001-0580N
   - Meta-Regression
   - Meta-Analysis-Regression
  domain: 001
-tags:
+tags: []
   - zettel
   - meta-regression
   - meta-analysis

@@ -2,11 +2,11 @@
 uid: Z-001-0584D
 type: zettel
 title: "Metabolic Health Pillar: Stress"
-aliases:
+aliases: []
   - Z-001-0584D
   - Stress-Pillar
 domain: 001
-tags:
+tags: []
   - zettel
   - metabolic
   - stress

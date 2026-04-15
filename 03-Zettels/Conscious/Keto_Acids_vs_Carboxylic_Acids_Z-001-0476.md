@@ -2,14 +2,14 @@
 uid: Z-001-0476
 type: zettel
 title: Keto Acids vs Carboxylic Acids
-aliases:
+aliases: []
   - Z-001-0476
   - Keto-Acids
   - Carboxylic-Acids
   - Pyruvate
   - Chemistry
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - keto-acids
   - carboxylic-acids

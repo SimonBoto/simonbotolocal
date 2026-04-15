@@ -2,13 +2,13 @@
 uid: Z-001-0580P
 type: zettel
 title: "Meta-Analysis Reporting Guidelines"
-aliases:
+aliases: []
   - Z-001-0580P
   - Reporting-Guidelines
   - PRISMA-Guidelines
   - Meta-Analysis-Reporting
  domain: 001
-tags:
+tags: []
   - zettel
   - prisma
   - reporting-guidelines

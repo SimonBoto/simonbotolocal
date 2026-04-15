@@ -1,6 +1,6 @@
 ---
 uid: Z-001-0013
-type: zettel-mech
+type: zettel
 status: conscious
 title: Lipotoxicity and Ceramide-Induced IR
 aliases: [Z-001-0013, Lipotoxicity, Ceramide_IR]

@@ -2,12 +2,12 @@
 uid: Z-001-0113
 type: zettel
 title: "Anabolic to Antiresorptive Transition"
-aliases:
+aliases: []
   - Z-001-0113
   - Anabolic-Transition
   - Antiresorptive-Transition
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - drug-transition
   - sequential-therapy

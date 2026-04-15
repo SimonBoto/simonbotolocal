@@ -2,12 +2,12 @@
 uid: Z-001-1107
 type: zettel
 title: Ancient Metabolic Pathways — Evolutionary Conservation
-aliases:
+aliases: []
   - Z-001-1107
   - Ancient-Pathways
   - Evolutionary-Biochemistry
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - ancient
   - pathways

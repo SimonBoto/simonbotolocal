@@ -2,12 +2,12 @@
 uid: Z-001-0580J
 type: zettel
 title: "Forest Plot Interpretation"
-aliases:
+aliases: []
   - Z-001-0580J
   - Forest-Plot
   - Meta-Analysis-Visualization
  domain: 001
-tags:
+tags: []
   - zettel
   - forest-plot
   - meta-analysis

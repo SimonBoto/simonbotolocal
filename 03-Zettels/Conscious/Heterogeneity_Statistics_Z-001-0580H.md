@@ -2,12 +2,12 @@
 uid: Z-001-0580H
 type: zettel
 title: "Heterogeneity Statistics"
-aliases:
+aliases: []
   - Z-001-0580H
   - Heterogeneity-Statistics
   - Meta-Analysis-Heterogeneity
  domain: 001
-tags:
+tags: []
   - zettel
   - heterogeneity
   - meta-analysis

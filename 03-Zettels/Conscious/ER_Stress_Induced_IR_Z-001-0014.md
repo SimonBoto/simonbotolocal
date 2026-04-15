@@ -1,6 +1,6 @@
 ---
 uid: Z-001-0014
-type: zettel-mech
+type: zettel
 status: conscious
 title: ER Stress and Insulin Resistance
 aliases: [Z-001-0014, ER_Stress, UPR_IR]

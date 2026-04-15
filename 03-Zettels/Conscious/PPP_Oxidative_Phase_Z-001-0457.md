@@ -2,13 +2,13 @@
 uid: Z-001-0457
 type: zettel
 title: PPP Oxidative Phase — Ribose and NADPH Generation
-aliases:
+aliases: []
   - Z-001-0457
   - PPP-Oxidative
   - G6PD
   - NADPH
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - ppp
   - pentose-phosphate

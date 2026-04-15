@@ -2,11 +2,11 @@
 uid: Z-001-0584H
 type: zettel
 title: "Metabolic Health Intervention Framework"
-aliases:
+aliases: []
   - Z-001-0584H
   - Intervention-Framework
 domain: 001
-tags:
+tags: []
   - zettel
   - metabolic
   - intervention

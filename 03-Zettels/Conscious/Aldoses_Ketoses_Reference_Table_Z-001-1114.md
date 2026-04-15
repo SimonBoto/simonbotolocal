@@ -2,12 +2,12 @@
 uid: Z-001-1114
 type: zettel
 title: Aldoses and Ketoses — Reference Table
-aliases:
+aliases: []
   - Z-001-1114
   - Aldoses-Ketoses
   - Sugar-Reference
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - aldoses
   - ketoses

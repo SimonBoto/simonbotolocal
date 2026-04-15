@@ -2,12 +2,12 @@
 uid: Z-001-1102
 type: zettel
 title: B Vitamins as Enzyme Cofactors in Metabolism
-aliases:
+aliases: []
   - Z-001-1102
   - B-Vitamins
   - Cofactors
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - b-vitamins
   - cofactors

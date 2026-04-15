@@ -2,12 +2,12 @@
 uid: Z-001-1106
 type: zettel
 title: RNA World Hypothesis — Origins of Life
-aliases:
+aliases: []
   - Z-001-1106
   - RNA-World
   - Origins-Life
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - rna-world
   - origins

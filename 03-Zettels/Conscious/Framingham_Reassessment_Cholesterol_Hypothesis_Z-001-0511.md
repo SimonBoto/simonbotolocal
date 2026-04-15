@@ -2,12 +2,12 @@
 uid: Z-001-0511
 type: zettel
 title: Framingham Reassessment — Cholesterol Hypothesis Evolution
-aliases:
+aliases: []
   - Framingham
   - Cholesterol-Hypothesis
   - Reassessment
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - framingham
   - cholesterol

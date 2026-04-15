@@ -2,14 +2,14 @@
 uid: Z-001-0431
 type: zettel
 title: Odd-Chain Fatty Acid Oxidation
-aliases:
+aliases: []
   - Z-001-0431
   - Odd-Chain-Fatty-Acids
   - Pentadecanoic
   - Margaric
   - Beta-Oxidation
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - odd-chain
   - fatty-acids

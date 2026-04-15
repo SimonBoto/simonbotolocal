@@ -2,13 +2,13 @@
 uid: Z-001-0137
 type: zettel
 title: "Bisphosphonate Duration Guidelines"
-aliases:
+aliases: []
   - Z-001-0137
   - Bisphosphonate-Duration
   - Oral-Bisphosphonates
   - IV-Bisphosphonates
 domain: 001
-tags:
+tags: []
   - zettel
   - bisphosphonates
   - medication-duration

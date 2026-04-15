@@ -2,14 +2,14 @@
 uid: Z-001-0134
 type: zettel
 title: "Bone Turnover Marker Monitoring"
-aliases:
+aliases: []
   - Z-001-0134
   - Bone_Turnover_Markers
   - BTMs
   - P1NP
   - CTX
 domain: 001
-tags:
+tags: []
   - zettel
   - monitoring
   - bone-turnover

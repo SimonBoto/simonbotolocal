@@ -2,12 +2,12 @@
 uid: Z-001-0580F
 type: zettel
 title: "PRISMA Flow Diagram"
-aliases:
+aliases: []
   - Z-001-0580F
   - PRISMA-Flow-Diagram
   - Study-Selection-Process
  domain: 001
-tags:
+tags: []
   - zettel
   - prisma
   - systematic-review

@@ -2,12 +2,12 @@
 uid: Z-001-0074
 type: zettel
 title: Personalized Vitamin D vs Population Guidelines
-aliases:
+aliases: []
   - Z-001-0074
   - Personalized-Vitamin-D
-domain: 1
+domain: 001
 domain-name: Insulin Signaling
-tags:
+tags: []
   - zettel
   - vitamin-d
   - personalized-medicine

@@ -2,12 +2,12 @@
 uid: Z-001-0127
 type: zettel
 title: "Glucocorticoid Osteoporosis Prevention"
-aliases:
+aliases: []
   - Z-001-0127
   - Glucocorticoid_Management_Guidelines
   - GIOP_Prevention
 domain: 001
-tags:
+tags: []
   - zettel
   - glucocorticoid
   - osteoporosis

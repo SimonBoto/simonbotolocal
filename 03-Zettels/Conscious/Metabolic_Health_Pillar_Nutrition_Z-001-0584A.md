@@ -2,11 +2,11 @@
 uid: Z-001-0584A
 type: zettel
 title: "Metabolic Health Pillar: Nutrition"
-aliases:
+aliases: []
   - Z-001-0584A
   - Nutrition-Pillar
 domain: 001
-tags:
+tags: []
   - zettel
   - metabolic
   - nutrition

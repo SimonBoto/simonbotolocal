@@ -2,10 +2,10 @@
 uid: Z-001-0578J
 type: zettel
 title: "TRT Monitoring Protocol"
-aliases:
+aliases: []
   - Z-001-0578J
 domain: 001
-tags:
+tags: []
   - zettel
   - hormones
   - male

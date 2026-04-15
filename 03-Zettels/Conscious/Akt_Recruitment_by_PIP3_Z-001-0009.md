@@ -1,6 +1,6 @@
 ---
 uid: Z-001-0009
-type: zettel-mech
+type: zettel
 status: conscious
 title: Akt Recruitment by PIP3
 aliases: [Z-001-0009, Akt_Recruitment, PIP3_Akt]

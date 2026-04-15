@@ -2,13 +2,13 @@
 uid: Z-001-0140
 type: zettel
 title: "Long-Term Osteoporosis Management"
-aliases:
+aliases: []
   - Z-001-0140
   - Long-Term-Management
   - Individualized-Management
   - Osteoporosis-Longevity
 domain: 001
-tags:
+tags: []
   - zettel
   - long-term-management
   - osteoporosis

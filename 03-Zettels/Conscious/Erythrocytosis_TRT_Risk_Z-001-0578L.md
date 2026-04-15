@@ -2,10 +2,10 @@
 uid: Z-001-0578L
 type: zettel
 title: "Erythrocytosis TRT Risk"
-aliases:
+aliases: []
   - Z-001-0578L
 domain: 001
-tags:
+tags: []
   - zettel
   - hormones
   - male

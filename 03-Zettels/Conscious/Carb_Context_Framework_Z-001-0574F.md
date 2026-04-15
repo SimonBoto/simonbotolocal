@@ -2,11 +2,11 @@
 uid: Z-001-0574F
 type: zettel
 title: "Carb Context Framework — Integrative Research Framework"
-aliases:
+aliases: []
   - Z-001-0574F
   - Carb-Context-Framework
 domain: 001
-tags:
+tags: []
   - zettel
   - framework
   - integrative

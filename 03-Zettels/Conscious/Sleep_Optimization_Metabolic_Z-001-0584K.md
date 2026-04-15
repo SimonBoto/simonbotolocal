@@ -2,11 +2,11 @@
 uid: Z-001-0584K
 type: zettel
 title: "Sleep Optimization for Metabolic Health"
-aliases:
+aliases: []
   - Z-001-0584K
   - Sleep-Optimization
 domain: 001
-tags:
+tags: []
   - zettel
   - metabolic
   - sleep

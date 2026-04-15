@@ -2,13 +2,13 @@
 uid: Z-001-1085
 type: zettel
 title: Ribose — Pentose Backbone of RNA and ATP
-aliases:
+aliases: []
   - Z-001-1085
   - Ribose
   - Pentose
   - PPP
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - ribose
   - pentose

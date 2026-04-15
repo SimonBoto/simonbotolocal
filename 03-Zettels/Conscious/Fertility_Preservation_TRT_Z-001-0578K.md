@@ -2,10 +2,10 @@
 uid: Z-001-0578K
 type: zettel
 title: "Fertility Preservation with TRT"
-aliases:
+aliases: []
   - Z-001-0578K
 domain: 001
-tags:
+tags: []
   - zettel
   - hormones
   - male

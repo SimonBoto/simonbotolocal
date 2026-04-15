@@ -2,11 +2,11 @@
 uid: Z-001-1126
 type: zettel
 title: "Vitamin C Epigenetic DNA Histone Demethylation"
-aliases:
+aliases: []
   - Z-001-1126
   - Vitamin-C-Epigenetic
 domain: 001
-tags:
+tags: []
   - zettel
   - vitamin-c
   - epigenetics

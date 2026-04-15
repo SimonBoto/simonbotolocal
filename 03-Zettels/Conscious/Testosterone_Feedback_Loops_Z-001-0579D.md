@@ -2,12 +2,12 @@
 uid: Z-001-0579D
 type: zettel
 title: "Testosterone Feedback Loops"
-aliases:
+aliases: []
   - Z-001-0579D
   - Testosterone_Feedback
   - Testosterone_Regulation
 domain: 001
-tags:
+tags: []
   - zettel
   - endocrinology
   - hpg

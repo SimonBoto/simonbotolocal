@@ -2,11 +2,11 @@
 uid: Z-001-0575B
 type: zettel
 title: "Serum Albumin as Prognostic Marker"
-aliases:
+aliases: []
   - Z-001-0575B
   - Serum-Albumin-Prognostic
 domain: 001
-tags:
+tags: []
   - zettel
   - kidney
   - albumin

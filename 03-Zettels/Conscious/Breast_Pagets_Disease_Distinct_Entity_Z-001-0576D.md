@@ -2,13 +2,13 @@
 uid: Z-001-0576D
 type: zettel
 title: "Breast Paget's Disease — Distinct Entity"
-aliases:
+aliases: []
   - Z-001-0576D
   - Breast-Paget's
   - Pagets-Disease-Breast
   - Nipple-Carcinoma
 domain: 001
-tags:
+tags: []
   - zettel
   - biomarkers
   - alkaline-phosphatase

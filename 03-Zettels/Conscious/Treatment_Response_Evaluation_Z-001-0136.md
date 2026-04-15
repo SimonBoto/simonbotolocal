@@ -2,14 +2,14 @@
 uid: Z-001-0136
 type: zettel
 title: "Treatment Response Evaluation"
-aliases:
+aliases: []
   - Z-001-0136
   - Treatment_Response
   - Therapy_Response
   - Osteoporosis_Response
   - Response_Evaluation
 domain: 001
-tags:
+tags: []
   - zettel
   - monitoring
   - treatment-response

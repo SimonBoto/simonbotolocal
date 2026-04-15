@@ -2,14 +2,14 @@
 uid: Z-001-1093
 type: zettel
 title: Three Ketone Bodies — Acetoacetate, BHB, and Acetone
-aliases:
+aliases: []
   - Z-001-1093
   - Ketone-Bodies
   - Acetoacetate
   - BHB
   - Acetone
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - ketones
   - acetoacetate

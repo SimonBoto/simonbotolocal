@@ -2,14 +2,14 @@
 uid: Z-001-0465
 type: zettel
 title: Nucleobase Phosphorylation — Nucleotide Formation
-aliases:
+aliases: []
   - Z-001-0465
   - Nucleobase
   - Phosphorylation
   - Nucleotide
   - ATP
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - phosphorylation
   - nucleotides

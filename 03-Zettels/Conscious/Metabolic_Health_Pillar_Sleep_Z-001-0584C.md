@@ -2,11 +2,11 @@
 uid: Z-001-0584C
 type: zettel
 title: "Metabolic Health Pillar: Sleep"
-aliases:
+aliases: []
   - Z-001-0584C
   - Sleep-Pillar
 domain: 001
-tags:
+tags: []
   - zettel
   - metabolic
   - sleep

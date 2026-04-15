@@ -2,12 +2,12 @@
 uid: Z-001-0579K
 type: zettel
 title: "Male HPGA Function"
-aliases:
+aliases: []
   - Z-001-0579K
   - Male_HPGA
   - Male_Hormones
 domain: 001
-tags:
+tags: []
   - zettel
   - endocrinology
   - hpg

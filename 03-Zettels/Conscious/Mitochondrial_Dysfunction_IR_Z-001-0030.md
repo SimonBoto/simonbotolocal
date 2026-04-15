@@ -1,6 +1,6 @@
 ---
 uid: Z-001-0030
-type: zettel-mech
+type: zettel
 title: Mitochondrial Dysfunction in Insulin Resistance
 aliases: [Z-001-0030, Mitochondrial-Dysfunction-IR]
 domain: 001

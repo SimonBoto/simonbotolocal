@@ -2,11 +2,11 @@
 uid: Z-001-0584M
 type: zettel
 title: "Environmental Toxins and Metabolic Health"
-aliases:
+aliases: []
   - Z-001-0584M
   - Environmental-Toxins
 domain: 001
-tags:
+tags: []
   - zettel
   - metabolic
   - environment

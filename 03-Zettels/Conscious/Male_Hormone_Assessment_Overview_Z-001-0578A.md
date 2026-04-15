@@ -2,10 +2,10 @@
 uid: Z-001-0578A
 type: zettel
 title: "Male Hormone Assessment Overview"
-aliases:
+aliases: []
   - Z-001-0578A
 domain: 001
-tags:
+tags: []
   - zettel
   - hormones
   - male

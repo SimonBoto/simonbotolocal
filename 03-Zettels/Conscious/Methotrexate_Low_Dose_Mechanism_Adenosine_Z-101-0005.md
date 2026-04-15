@@ -1,6 +1,6 @@
 ---
 uid: Z-101-0005
-type: zettel-mech
+type: zettel
 title: Methotrexate Low-Dose Mechanism via Adenosine
 aliases: [Z-101-0005, Methotrexate, Adenosine, AMPK]
 domain: 101

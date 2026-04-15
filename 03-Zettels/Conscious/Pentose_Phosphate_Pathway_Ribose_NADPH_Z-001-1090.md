@@ -2,13 +2,13 @@
 uid: Z-001-1090
 type: zettel
 title: Pentose Phosphate Pathway — Ribose and NADPH
-aliases:
+aliases: []
   - Z-001-1090
   - PPP
   - Pentose-Phosphate-Pathway
   - G6PD
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - ppp
   - pentose

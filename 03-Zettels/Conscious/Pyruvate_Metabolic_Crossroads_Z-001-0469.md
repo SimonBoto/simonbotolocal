@@ -2,14 +2,14 @@
 uid: Z-001-0469
 type: zettel
 title: Pyruvate — Metabolic Crossroads
-aliases:
+aliases: []
   - Z-001-0469
   - Pyruvate
   - Crossroads
   - PDH
   - Lactate
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - pyruvate
   - metabolism

@@ -2,12 +2,12 @@
 uid: Z-001-0585E
 type: zettel
 title: "Gut Microbiome IBD Role"
-aliases:
+aliases: []
   - Z-001-0585E
   - Gut-Microbiome-IBD
   - Microbiome-IBD-Role
 domain: 001
-tags:
+tags: []
   - zettel
   - gastroenterology
   - microbiome

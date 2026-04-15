@@ -2,12 +2,12 @@
 uid: Z-001-0579P
 type: zettel
 title: "HPGA Integrative Framework"
-aliases:
+aliases: []
   - Z-001-0579P
   - HPGA_Framework
   - Integrative_Endocrinology
 domain: 001
-tags:
+tags: []
   - zettel
   - endocrinology
   - hpg

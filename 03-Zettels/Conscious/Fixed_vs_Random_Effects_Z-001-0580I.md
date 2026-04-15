@@ -2,13 +2,13 @@
 uid: Z-001-0580I
 type: zettel
 title: "Fixed vs Random Effects Models"
-aliases:
+aliases: []
   - Z-001-0580I
   - Fixed-Effects
   - Random-Effects
   - Meta-Analysis-Models
  domain: 001
-tags:
+tags: []
   - zettel
   - meta-analysis
   - statistical-models

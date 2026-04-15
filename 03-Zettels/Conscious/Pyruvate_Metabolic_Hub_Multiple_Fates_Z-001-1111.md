@@ -2,12 +2,12 @@
 uid: Z-001-1111
 type: zettel
 title: Pyruvate — Metabolic Hub with Multiple Fates
-aliases:
+aliases: []
   - Z-001-1111
   - Pyruvate-Hub
   - Metabolic-Crossroads
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - pyruvate
   - hub

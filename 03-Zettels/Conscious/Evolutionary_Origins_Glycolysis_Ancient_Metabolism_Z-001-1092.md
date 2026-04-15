@@ -2,12 +2,12 @@
 uid: Z-001-1092
 type: zettel
 title: Evolutionary Origins of Glycolysis — Ancient Metabolism
-aliases:
+aliases: []
   - Z-001-1092
   - Evolutionary-Glycolysis
   - Ancient-Metabolism
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - evolution
   - glycolysis

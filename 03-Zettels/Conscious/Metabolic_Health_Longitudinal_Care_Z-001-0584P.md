@@ -2,11 +2,11 @@
 uid: Z-001-0584P
 type: zettel
 title: "Metabolic Health Longitudinal Care"
-aliases:
+aliases: []
   - Z-001-0584P
   - Longitudinal-Care
 domain: 001
-tags:
+tags: []
   - zettel
   - metabolic
   - longitudinal

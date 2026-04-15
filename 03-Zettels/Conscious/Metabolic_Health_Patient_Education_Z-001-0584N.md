@@ -2,11 +2,11 @@
 uid: Z-001-0584N
 type: zettel
 title: "Metabolic Health Patient Education"
-aliases:
+aliases: []
   - Z-001-0584N
   - Patient-Education
 domain: 001
-tags:
+tags: []
   - zettel
   - metabolic
   - education

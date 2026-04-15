@@ -2,10 +2,10 @@
 uid: Z-001-0578I
 type: zettel
 title: "Testosterone Replacement Guidelines"
-aliases:
+aliases: []
   - Z-001-0578I
 domain: 001
-tags:
+tags: []
   - zettel
   - hormones
   - male

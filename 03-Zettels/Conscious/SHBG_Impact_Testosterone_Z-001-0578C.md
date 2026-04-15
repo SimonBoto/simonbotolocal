@@ -2,10 +2,10 @@
 uid: Z-001-0578C
 type: zettel
 title: "SHBG Impact on Testosterone"
-aliases:
+aliases: []
   - Z-001-0578C
 domain: 001
-tags:
+tags: []
   - zettel
   - hormones
   - male

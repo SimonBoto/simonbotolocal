@@ -2,11 +2,11 @@
 uid: Z-001-0574E
 type: zettel
 title: "Carb Context Clinical Integration — Context-Specific Recommendations"
-aliases:
+aliases: []
   - Z-001-0574E
   - Carb-Context-Clinical
 domain: 001
-tags:
+tags: []
   - zettel
   - clinical
   - application

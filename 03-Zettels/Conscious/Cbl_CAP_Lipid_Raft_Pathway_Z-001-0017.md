@@ -1,6 +1,6 @@
 ---
 uid: Z-001-0017
-type: zettel-mech
+type: zettel
 status: conscious
 title: Cbl-CAP Pathway and Lipid Raft Signaling
 aliases: [Z-001-0017, Cbl_CAP, Lipid_Raft, Alternative_Pathway]

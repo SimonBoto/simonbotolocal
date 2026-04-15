@@ -2,12 +2,12 @@
 uid: Z-001-0114
 type: zettel
 title: "Antiresorptive to Antiresorptive Transition"
-aliases:
+aliases: []
   - Z-001-0114
   - Antiresorptive-Transition
   - Bisphosphonate-Transition
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - drug-transition
   - sequential-therapy

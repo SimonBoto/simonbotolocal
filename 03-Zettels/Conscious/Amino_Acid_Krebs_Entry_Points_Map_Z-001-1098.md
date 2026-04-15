@@ -2,12 +2,12 @@
 uid: Z-001-1098
 type: zettel
 title: Amino Acid Krebs Entry Points Map
-aliases:
+aliases: []
   - Z-001-1098
   - Krebs-Entry
   - Amino-Acid-Map
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - amino-acids
   - krebs

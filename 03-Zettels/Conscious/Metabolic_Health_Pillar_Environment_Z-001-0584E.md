@@ -2,11 +2,11 @@
 uid: Z-001-0584E
 type: zettel
 title: "Metabolic Health Pillar: Environment"
-aliases:
+aliases: []
   - Z-001-0584E
   - Environment-Pillar
 domain: 001
-tags:
+tags: []
   - zettel
   - metabolic
   - environment

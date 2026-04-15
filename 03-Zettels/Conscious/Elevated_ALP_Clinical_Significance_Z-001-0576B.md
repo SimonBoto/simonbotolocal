@@ -2,12 +2,12 @@
 uid: Z-001-0576B
 type: zettel
 title: "Elevated ALP Clinical Significance"
-aliases:
+aliases: []
   - Z-001-0576B
   - Elevated-ALP
   - ALP-Elevation
 domain: 001
-tags:
+tags: []
   - zettel
   - biomarkers
   - alkaline-phosphatase

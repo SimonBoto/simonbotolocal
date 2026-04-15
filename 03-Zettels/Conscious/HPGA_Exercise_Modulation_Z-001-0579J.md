@@ -2,12 +2,12 @@
 uid: Z-001-0579J
 type: zettel
 title: "HPGA Exercise Modulation"
-aliases:
+aliases: []
   - Z-001-0579J
   - HPGA_Exercise
   - Exercise_Hormones
 domain: 001
-tags:
+tags: []
   - zettel
   - endocrinology
   - hpg

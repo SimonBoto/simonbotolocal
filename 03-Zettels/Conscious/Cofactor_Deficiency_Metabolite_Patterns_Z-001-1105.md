@@ -2,12 +2,12 @@
 uid: Z-001-1105
 type: zettel
 title: Cofactor Deficiency — Metabolite Patterns
-aliases:
+aliases: []
   - Z-001-1105
   - Cofactor-Patterns
   - Metabolite-Biomarkers
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - cofactor
   - deficiency

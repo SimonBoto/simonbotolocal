@@ -2,13 +2,13 @@
 uid: Z-001-1097
 type: zettel
 title: Glycogenic vs Ketogenic Amino Acid Classification
-aliases:
+aliases: []
   - Z-001-1097
   - AA-Classification
   - Glycogenic
   - Ketogenic
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - amino-acids
   - glycogenic

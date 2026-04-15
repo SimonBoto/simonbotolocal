@@ -2,12 +2,12 @@
 uid: Z-001-0120
 type: zettel
 title: "Bone Turnover Monitoring Guidelines"
-aliases:
+aliases: []
   - Z-001-0120
   - BTM-Monitoring
   - Clinical-Guidelines
 domain: 001
-tags:
+tags: []
   - zettel
   - monitoring
   - guidelines

@@ -2,12 +2,12 @@
 uid: Z-001-1110
 type: zettel
 title: Glycolysis-PPP Integration — Bidirectional Flow
-aliases:
+aliases: []
   - Z-001-1110
   - Glycolysis-PPP
   - Metabolic-Flexibility
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - glycolysis
   - ppp

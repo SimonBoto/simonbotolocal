@@ -2,12 +2,12 @@
 uid: Z-001-0580B
 type: zettel
 title: "Systematic Review Principles"
-aliases:
+aliases: []
   - Z-001-0580B
   - Systematic-Review-Principles
   - Evidence-Synthesis
  domain: 001
-tags:
+tags: []
   - zettel
   - systematic-review
   - research-methodology

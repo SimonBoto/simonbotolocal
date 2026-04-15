@@ -2,13 +2,13 @@
 uid: Z-001-0432
 type: zettel
 title: Methionine — Essential Sulfur Amino Acid
-aliases:
+aliases: []
   - Z-001-0432
   - Methionine
   - Essential-Amino-Acid
   - Sulfur
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - methionine
   - essential

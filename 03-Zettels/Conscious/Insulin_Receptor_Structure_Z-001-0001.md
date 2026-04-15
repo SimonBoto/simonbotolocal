@@ -1,7 +1,7 @@
 ---
 source-litnote: [[High_Glucose_vs_High_Insulin-_Insulin_Matters_More_L-002-0221_v4.0]]
 uid: Z-001-0001
-type: zettel-mech
+type: zettel
 status: conscious
 title: Insulin Receptor Structure
 aliases: [Z-001-0001, INSR, Insulin_Receptor]

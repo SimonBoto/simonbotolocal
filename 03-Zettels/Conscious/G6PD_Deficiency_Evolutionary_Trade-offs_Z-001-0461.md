@@ -2,13 +2,13 @@
 uid: Z-001-0461
 type: zettel
 title: G6PD Deficiency and Evolutionary Trade-offs
-aliases:
+aliases: []
   - Z-101-0461
   - g6pd-deficiency
   - malaria-resistance
   - hemolysis
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - g6pd
   - hemolysis

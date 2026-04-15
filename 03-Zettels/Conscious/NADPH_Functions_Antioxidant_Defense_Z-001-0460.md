@@ -2,14 +2,14 @@
 uid: Z-001-0460
 type: zettel
 title: NADPH Functions — Anabolism and Antioxidant Defense
-aliases:
+aliases: []
   - Z-001-0460
   - NADPH
   - Antioxidant
   - Biosynthesis
   - Reducing-Power
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - nadph
   - antioxidant

@@ -2,14 +2,14 @@
 uid: Z-001-0437
 type: zettel
 title: Complete Methionine Oxidation — Energy Production
-aliases:
+aliases: []
   - Z-001-0437
   - Methionine-Oxidation
   - Energy
   - Propionyl-CoA
   - Pyruvate
-domain: 1
-tags:
+domain: 001
+tags: []
   - zettel
   - methionine
   - oxidation

@@ -2,12 +2,12 @@
 uid: Z-001-0580G
 type: zettel
 title: "Risk of Bias Assessment"
-aliases:
+aliases: []
   - Z-001-0580G
   - Risk-of-Bias
   - Study-Quality-Assessment
  domain: 001
-tags:
+tags: []
   - zettel
   - risk-of-bias
   - systematic-review
