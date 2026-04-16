@@ -1,21 +1,21 @@
 ---
 uid: L-001-0608
 type: litnote
-title: "Warburg Effect and Cancer Metabolism"
+title: Warburg Effect and Cancer Metabolism
 aliases:
   - L-001-0608
   - Warburg-Effect
   - Cancer-Metabolism
   - Aerobic-Glycolysis
 source-origin: chatgpt-archive
-authors: "ChatGPT Analysis (CGPT-0264)"
+authors: ChatGPT Analysis (CGPT-0264)
 year: "2024"
-journal: "ChatGPT Archive"
+journal: ChatGPT Archive
 doi: ""
 pmid: ""
 pmcid: ""
 tier: BRONZE
-relevance: "High — Aerobic glycolysis in cancer, metabolic reprogramming, tumor microenvironment, lactate production"
+relevance: High — Aerobic glycolysis in cancer, metabolic reprogramming, tumor microenvironment, lactate production
 status: complete
 parent-moc: "[[MOC-Cancer]]"
 parent-index: "[[01-Literature-Index]]"
@@ -23,15 +23,14 @@ source-inbox: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
 source-litnote: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
 zettel-count: 4
 reference-count: 0
-reviewed_by: "FORG"
-created: "2026-03-08"
-updated: "2026-04-09"
+reviewed_by: FORG
+created: 2026-03-08
+updated: 2026-04-09
 tags:
   - litnote
   - warburg-effect
   - cancer-metabolism
   - aerobic-glycolysis
-  - CGPT-0264"
 ---
 
 # Warburg Effect and Cancer Metabolism

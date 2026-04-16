@@ -3,7 +3,7 @@ uid: L-001-0045O
 type: litnote
 title: "Vitamin D and Calcium Supplementation — Foundation of Osteoporosis Treatment"
 aliases:
-  - L-001-0045D
+  - L-001-0045O
   - Vitamin-D-Calcium
 source-origin: chatgpt-archive
 authors: "ChatGPT synthesis from clinical review (CGPT-0133)"
@@ -16,7 +16,7 @@ tier: SILVER
 relevance: "High — Foundational nutritional therapy for all osteoporosis patients"
 status: complete
 parent-moc: "[[MOC-Bone-Health]]"
-parent-index: "[[02-Literature]]"
+parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-06"
 source-inbox: "[[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]"
 source-litnote: "[[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]"
@@ -55,7 +55,7 @@ tags:
 
 ### 1. Vitamin D Physiology and Requirements
 
-**Zettel extracted:** [[Vitamin_D_Physiology_Synthesis_Metabolism_Z-001-0121]]
+**Zettel extracted:** [[Vitamin_D_Supplementation_Guidelines_Z-001-0121]]
 
 #### Synthesis and Metabolism
 - **Skin synthesis:** UVB radiation converts 7-dehydrocholesterol to previtamin D3
@@ -79,7 +79,7 @@ tags:
 
 ### 2. Calcium Physiology and Requirements
 
-**Zettel extracted:** [[Calcium_Physiology_Absorption_Metabolism_Z-001-0122]]
+**Zettel extracted:** [[Calcium_Supplementation_Protocols_Z-001-0122]]
 
 #### Absorption and Regulation
 - **Primary absorption:** Duodenum and jejunum (vitamin D dependent)
@@ -104,7 +104,7 @@ tags:
 
 ### 3. Vitamin D and Calcium in Osteoporosis Therapy
 
-**Zettel extracted:** [[Vitamin_D_Calcium_in_Osteoporosis_Treatment_Z-001-0123]]
+**Zettel extracted:** [[VitD_K2_Synergy_Mechanism_Z-001-0123]]
 
 #### Treatment Efficacy Impact
 - **Vitamin D deficiency:** Reduces efficacy of all osteoporosis medications
@@ -127,7 +127,7 @@ tags:
 
 ### 4. Safety Considerations and Monitoring
 
-**Zettel extracted:** [[Vitamin_D_Calcium_Safety_Monitoring_Z-001-0124]]
+**Zettel extracted:** [[Calcium_Absorption_Optimization_Z-001-0124]]
 
 #### Safety Thresholds
 | Parameter | Safe Upper Limit | Risk of Excess |
@@ -166,7 +166,7 @@ tags:
 
 ---
 
-**Zettels extracted:** 4 (Z-001-0121 through Z-001-0124)
+**Zettels extracted:** 4 — [[Vitamin_D_Supplementation_Guidelines_Z-001-0121]], [[Calcium_Supplementation_Protocols_Z-001-0122]], [[VitD_K2_Synergy_Mechanism_Z-001-0123]], [[Calcium_Absorption_Optimization_Z-001-0124]]
 **Status:** Complete
 **Next:** LitNote 12 — Glucocorticoid-Induced Osteoporosis
 
@@ -177,7 +177,7 @@ tags:
 ---
 
 ---
-parent-index: [[01-Literature 1]]
+parent-index: [[01-Literature-Index]]
 
 *Literature note processed: 2026-03-06 | Updated to v4.0: 2026-04-09*
 *Zettels extracted: 4 | Status: complete*
