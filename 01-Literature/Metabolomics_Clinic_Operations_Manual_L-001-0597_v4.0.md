@@ -15,11 +15,11 @@ pmcid: N/A
 tier: BRONZE
 relevance: "High — Patient flow, quality standards, follow-up rhythms, operational protocols"
 status: complete
-parent-moc: "[[MOC-Metabolomics]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Metabolomics]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-10"
-source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
-source-litnote: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
+source-inbox: [[CGPT_0022_Metabolomics_training_role_CGPT-0022]]
+source-litnote: [[CGPT_0022_Metabolomics_training_role_CGPT-0022]]
 zettel-count: 4
 reference-count: 0
 extracted_by: FORG

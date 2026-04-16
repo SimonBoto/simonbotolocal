@@ -15,11 +15,11 @@ pmcid: N/A
 tier: SILVER
 relevance: Clinical — bone and liver pathology fundamentals
 status: complete
-parent-moc: "[[MOC-Biomarkers]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Biomarkers]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-10"
-source-inbox: "[[CGPT_0345_Alkaline_Phosphatase_Overview_CGPT-0345]]"
-source-litnote: "[[CGPT_0345_Alkaline_Phosphatase_Overview_CGPT-0345]]"
+source-inbox: [[CGPT_0345_Alkaline_Phosphatase_Overview_CGPT-0345]]
+source-litnote: [[CGPT_0345_Alkaline_Phosphatase_Overview_CGPT-0345]]
 zettel-count: 6
 reference-count: 0
 tags:

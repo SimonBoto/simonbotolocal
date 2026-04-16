@@ -15,11 +15,11 @@ pmcid: N/A
 tier: SILVER
 relevance: Core metabolic biomarkers for clinical assessment
 status: complete
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-03-07"
-source-inbox: "[[CGPT_0384_Biomarkers_Briefing_CGPT-0384]]"
-source-litnote: "[[CGPT_0384_Biomarkers_Briefing_CGPT-0384]]"
+source-inbox: [[CGPT_0384_Biomarkers_Briefing_CGPT-0384]]
+source-litnote: [[CGPT_0384_Biomarkers_Briefing_CGPT-0384]]
 zettel-count: 5
 reference-count: 0
 extracted_by: FORG

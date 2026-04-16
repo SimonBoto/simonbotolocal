@@ -7,8 +7,8 @@ aliases:
   - "L-002-0224"
   - "Metabolism-Heart-Health"
   - "Insulin-14x-CAD"
-source-inbox: "[[INBOX-Article-39-Metabolism-Heart]]"
-source-litnote: "[[INBOX-Article-39-Metabolism-Heart]]"
+source-inbox: [[INBOX-Article-39-Metabolism-Heart]]
+source-litnote: [[INBOX-Article-39-Metabolism-Heart]]
 authors: "Pasut A, et al.; Various"
 year: "2010-2025"
 journal: "Nature Reviews Cardiology; Various"
@@ -17,8 +17,8 @@ pmid: "(multiple)"
 tier: "SILVER"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Cardiovascular-Health]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Cardiovascular-Health]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-05"
 zettel-count: 3
 reference-count: 2

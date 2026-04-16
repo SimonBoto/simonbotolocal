@@ -19,8 +19,8 @@ tags:
   - phd
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-28
-source-litnote: "[[## Source]]"
-source: "[[CGPT_0189_Sirolimus_Mitochondrial_Toxicity_Mechanisms_CGPT-0189]]"
+source-litnote: [[## Source]]
+source: [[CGPT_0189_Sirolimus_Mitochondrial_Toxicity_Mechanisms_CGPT-0189]]
 ---
 
 # Lit: Sirolimus — Mitochondrial Toxicity and Metabolic Effects

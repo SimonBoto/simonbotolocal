@@ -7,8 +7,8 @@ aliases:
   - "L-002-0237"
   - "Not-All-Calories-Equal-Harvard"
   - "Calories-Not-Equal"
-source-inbox: "[[INBOX-Article-50-Not-All-Calories]]"
-source-litnote: "[[INBOX-Article-50-Not-All-Calories]]"
+source-inbox: [[INBOX-Article-50-Not-All-Calories]]
+source-litnote: [[INBOX-Article-50-Not-All-Calories]]
 authors: "Ebbeling CB, Feldman HA, Klein GL, et al."
 year: "2018"
 journal: "BMJ"
@@ -17,8 +17,8 @@ pmid: "30403709"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-05"
 zettel-count: 3
 reference-count: 1

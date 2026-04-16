@@ -12,11 +12,11 @@ journal: "JAMA, JAOA, J Nutr Metab"
 tier: GOLD
 relevance: "High — Mechanisms enabling safe high-dose vitamin D protocols"
 status: complete
-parent-moc: "[[MOC-Vitamin-D]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Vitamin-D]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-03-01"
-source-inbox: "[[CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]"
-source-litnote: "[[CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]"
+source-inbox: [[CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]
+source-litnote: [[CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]
 reviewed_by: "FORG"
 created: "2026-03-01"
 updated: "2026-04-09"

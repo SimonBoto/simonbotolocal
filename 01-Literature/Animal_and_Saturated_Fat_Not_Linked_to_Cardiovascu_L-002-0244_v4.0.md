@@ -7,8 +7,8 @@ aliases:
   - "L-002-0244"
   - "Animal-Saturated-Fat-Not-Mortality"
   - "Tokyo-Fat-Study"
-source-inbox: "[[INBOX-Article-55-Animal-Fat]]"
-source-litnote: "[[INBOX-Article-55-Animal-Fat]]"
+source-inbox: [[INBOX-Article-55-Animal-Fat]]
+source-litnote: [[INBOX-Article-55-Animal-Fat]]
 authors: "University of Tokyo"
 year: "2020-2025"
 journal: "University of Tokyo Research"
@@ -17,8 +17,8 @@ pmid: "(pending)"
 tier: "SILVER"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Cholesterol-Lipid]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Cholesterol-Lipid]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-05"
 zettel-count: 3
 reference-count: 1

@@ -5,8 +5,8 @@ title: "Unhealthy Diet Causes 11 Million Deaths Annually (GBD 2017)"
 aliases:
   - "L-002-0203"
   - "Diet-11-Million-Deaths"
-source-inbox: "[[INBOX-Article-22-Diet-Mortality]]"
-source-litnote: "[[INBOX-Article-22-Diet-Mortality]]"
+source-inbox: [[INBOX-Article-22-Diet-Mortality]]
+source-litnote: [[INBOX-Article-22-Diet-Mortality]]
 authors: "GBD 2017 Diet Collaborators"
 year: "2019"
 journal: "The Lancet"
@@ -15,8 +15,8 @@ pmid: "30954305"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Diabetes]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Diabetes]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-04"
 zettel-count: 3
 reference-count: 1

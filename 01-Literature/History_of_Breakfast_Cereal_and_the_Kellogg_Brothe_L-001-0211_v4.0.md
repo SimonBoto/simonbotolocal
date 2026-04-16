@@ -16,11 +16,11 @@ pmcid: ""
 tier: BRONZE
 relevance: "Low-Medium — Cultural nutrition history; sanitarium movement"
 status: complete
-parent-moc: "[[MOC-Nutrition]]"
-parent-index: "[[01-Literature 1]]"
+parent-moc: [[MOC-Nutrition]]
+parent-index: [[01-Literature 1]]
 extraction-date: "2026-03-01"
-source-inbox: "[[CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471]]"
-source-litnote: "[[CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471]]"
+source-inbox: [[CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471]]
+source-litnote: [[CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471]]
 zettel-count: 4
 reference-count: 0
 reviewed_by: "FORG"
@@ -36,7 +36,7 @@ tags:
 # Lit: History of Breakfast Cereal and the Kellogg Brothers
 
 ## Source
-- **ChatGPT conversation:** "[[CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471]]"
+- **ChatGPT conversation:** [[CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471]]
 - **Date:** March 10, 2024
 - **Scope:** Battle Creek Sanitarium, John Harvey Kellogg vs. W.K. Kellogg, cornflakes invention, breakfast revolution
 
@@ -70,7 +70,7 @@ tags:
 - Yogurt enemas
 - Electrical stimulation
 
-**Zettels extracted:** "[[Battle_Creek_Sanitarium_John_Harvey_Kellogg_Z-001-0249]]"
+**Zettels extracted:** [[Battle_Creek_Sanitarium_John_Harvey_Kellogg_Z-001-0249]]
 
 ### 2. The Kellogg Brothers
 > "John Harvey Kellogg and his brother Will Keith Kellogg."
@@ -97,7 +97,7 @@ tags:
 - Estrangement over cornflakes commercialization
 - Different legacies
 
-**Zettels extracted:** "[[Kellogg_Brothers_John_Harvey_vs_WK_Z-001-0250]]"
+**Zettels extracted:** [[Kellogg_Brothers_John_Harvey_vs_WK_Z-001-0250]]
 
 ### 3. Invention of Cornflakes (1894)
 > "John Harvey Kellogg, with his brother Will Keith Kellogg, accidentally discovered the process of creating flaked cereal."
@@ -123,7 +123,7 @@ tags:
 - Cornflakes even more popular
 - Became signature product
 
-**Zettels extracted:** "[[Cornflakes_Invention_Accident_1894_Z-001-0251]]"
+**Zettels extracted:** [[Cornflakes_Invention_Accident_1894_Z-001-0251]]
 
 ### 4. The Kellogg Company (1906)
 > "Will Keith Kellogg founded the Kellogg Company to mass-produce cornflakes."
@@ -154,7 +154,7 @@ tags:
 - Seasonal/local → Industrial/processed
 - "Convenience" prioritized
 
-**Zettels extracted:** "[[Kellogg_Company_Founding_1906_Z-001-0252]]"
+**Zettels extracted:** [[Kellogg_Company_Founding_1906_Z-001-0252]]
 
 ---
 
@@ -181,10 +181,10 @@ tags:
 ---
 
 ## Zettels Created from This Source
-1. "[[Battle_Creek_Sanitarium_John_Harvey_Kellogg_Z-001-0249]]"
-2. "[[Kellogg_Brothers_John_Harvey_vs_WK_Z-001-0250]]"
-3. "[[Cornflakes_Invention_Accident_1894_Z-001-0251]]"
-4. "[[Kellogg_Company_Founding_1906_Z-001-0252]]"
+1. [[Battle_Creek_Sanitarium_John_Harvey_Kellogg_Z-001-0249]]
+2. [[Kellogg_Brothers_John_Harvey_vs_WK_Z-001-0250]]
+3. [[Cornflakes_Invention_Accident_1894_Z-001-0251]]
+4. [[Kellogg_Company_Founding_1906_Z-001-0252]]
 
 ---
 

@@ -5,8 +5,8 @@ title: "Vitamin D RDA Statistical Error (Veugelers 2014, Heaney 2015)"
 aliases:
   - "L-002-0168"
   - "Vitamin-D-RDA-Error"
-source-inbox: "[[INBOX-Article-2-Vitamin-D]]"
-source-litnote: "[[INBOX-Article-2-Vitamin-D]]"
+source-inbox: [[INBOX-Article-2-Vitamin-D]]
+source-litnote: [[INBOX-Article-2-Vitamin-D]]
 authors: "Veugelers PJ, Ekwaru JP; Heaney RP et al."
 year: "2014, 2015"
 journal: "Nutrients"
@@ -15,8 +15,8 @@ pmid: "25333201; 25763527"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Vitamin-Mineral-Axis]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Vitamin-Mineral-Axis]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-04"
 zettel-count: 5
 reference-count: 4

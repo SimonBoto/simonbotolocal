@@ -15,11 +15,11 @@ pmcid: N/A
 tier: SILVER
 relevance: High — Genetic variation affecting methylation, folate requirements, METHAP personalization
 status: complete
-parent-moc: "[[MOC-Methylation]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Methylation]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-03-01"
-source-inbox: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
-source-litnote: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
+source-inbox: [[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]
+source-litnote: [[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]
 zettel-count: 6
 reference-count: 0
 reviewed_by: "FORG"

@@ -4,8 +4,8 @@ type: litnote
 title: "High LDL Not Linked to Mortality in Healthy People (Kip 2024)"
 aliases:
   - L-002-0171
-source-inbox: "[[INBOX-Article-5-LDL-Mortality]]"
-source-litnote: "[[INBOX-Article-5-LDL-Mortality]]"
+source-inbox: [[INBOX-Article-5-LDL-Mortality]]
+source-litnote: [[INBOX-Article-5-LDL-Mortality]]
 authors: "Kip KE, Diamond D, Mulukutla S, Marroquin OC"
 year: "2024"
 journal: "BMJ Open"
@@ -14,8 +14,8 @@ pmid: "38548371"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Cholesterol-Quality]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Cholesterol-Quality]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-04"
 zettel-count: 4
 reference-count: 1

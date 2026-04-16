@@ -20,8 +20,8 @@ tags:
   - ethics
   - research
 extraction-date: 2026-03-27
-source-litnote: "[[## Source]]"
-source: "[[CGPT_0205_Ethics_Committee_Follow_Up_CGPT-0205]]"
+source-litnote: [[## Source]]
+source: [[CGPT_0205_Ethics_Committee_Follow_Up_CGPT-0205]]
 ---
 
 # Lit: Ethics Committee Communication — Follow-Up Protocol

@@ -7,8 +7,8 @@ aliases:
   - "L-002-0240"
   - "Lifestyle-Diet-Modifiable-Factors"
   - "BMJ-95-Percent"
-source-inbox: "[[INBOX-Article-53-Lifestyle-Diet]]"
-source-litnote: "[[INBOX-Article-53-Lifestyle-Diet]]"
+source-inbox: [[INBOX-Article-53-Lifestyle-Diet]]
+source-litnote: [[INBOX-Article-53-Lifestyle-Diet]]
 authors: "Various"
 year: "2020-2025"
 journal: "BMJ Nutrition, Prevention & Health"
@@ -17,8 +17,8 @@ pmid: "(pending)"
 tier: "SILVER"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Lifestyle-Medicine]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Lifestyle-Medicine]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-05"
 zettel-count: 3
 reference-count: 1

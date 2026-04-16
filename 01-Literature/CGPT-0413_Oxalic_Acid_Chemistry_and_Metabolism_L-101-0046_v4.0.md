@@ -19,8 +19,8 @@ tags:
   - phd
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-28
-source-litnote: "[[## Source]]"
-source: "[[CGPT_0413_Oxalic_Acid_Uses_Form_CGPT-0413]]"
+source-litnote: [[## Source]]
+source: [[CGPT_0413_Oxalic_Acid_Uses_Form_CGPT-0413]]
 ---
 
 # Lit: Oxalic Acid — Chemistry, Uses, and Metabolic Pathways

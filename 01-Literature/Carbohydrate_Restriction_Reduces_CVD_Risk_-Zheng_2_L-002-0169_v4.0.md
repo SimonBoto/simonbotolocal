@@ -4,8 +4,8 @@ type: litnote
 title: "Carbohydrate Restriction Reduces CVD Risk (Zheng 2025)"
 aliases:
   - L-002-0169
-source-inbox: "[[INBOX-Article-3-Carb-Restriction]]"
-source-litnote: "[[INBOX-Article-3-Carb-Restriction]]"
+source-inbox: [[INBOX-Article-3-Carb-Restriction]]
+source-litnote: [[INBOX-Article-3-Carb-Restriction]]
 authors: "Zheng Q, Gao X, Ruan X, et al."
 year: "2025"
 journal: "International Journal of Obesity (Nature)"
@@ -13,8 +13,8 @@ doi: "10.1038/s41366-025-01822-5"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-04"
 zettel-count: 3
 reference-count: 1

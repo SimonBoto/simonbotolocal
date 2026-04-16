@@ -15,11 +15,11 @@ pmcid: ""
 tier: SILVER
 relevance: "High — Evidence-based framework for selecting optimal osteoporosis therapy"
 status: complete
-parent-moc: "[[MOC-Clinical-Metabolomics]]"
-parent-index: "[[02-Literature]]"
+parent-moc: [[MOC-Clinical-Metabolomics]]
+parent-index: [[02-Literature]]
 extraction-date: "2026-03-06"
-source-inbox: "[[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]"
-source-litnote: "[[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]"
+source-inbox: [[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]
+source-litnote: [[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]
 zettel-count: 4
 reference-count: 0
 reviewed_by: "FORG"

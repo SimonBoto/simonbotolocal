@@ -18,11 +18,11 @@ pmcid: ""
 tier: GOLD
 relevance: "Critical — Essential trace minerals for mitochondrial antioxidant defense, enzyme function, and oxidative phosphorylation protection"
 status: complete
-parent-moc: "[[MOC-Mitochondrial-Function]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Mitochondrial-Function]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-03-01"
-source-inbox: "[[CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393]]"
-source-litnote: "[[CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393]]"
+source-inbox: [[CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393]]
+source-litnote: [[CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393]]
 zettel-count: 4
 reference-count: 0
 reviewed_by: "FORG"

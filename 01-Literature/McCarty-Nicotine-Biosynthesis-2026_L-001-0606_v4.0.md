@@ -4,8 +4,8 @@ type: litnote
 title: "Lit — McCarty_Nicotine_Biosynthesis_2026"
 aliases:
   - L-001-0606
-source-inbox: "[[INBOX-2026-04-04-001_Nicotine_Biosynthesis_X_Post]]"
-source-litnote: "[[INBOX-2026-04-04-001_Nicotine_Biosynthesis_X_Post]]"
+source-inbox: [[INBOX-2026-04-04-001_Nicotine_Biosynthesis_X_Post]]
+source-litnote: [[INBOX-2026-04-04-001_Nicotine_Biosynthesis_X_Post]]
 authors: "McCarty, N. (summarizing Chinese research group)"
 year: "2026"
 source: "X post summarizing Cell paper"
@@ -13,7 +13,7 @@ url: "https://x.com/nikomccarty/status/2040126879341125918"
 tier: "GOLD"
 status: complete
 reviewed_by: "FORG"
-parent-moc: "[[MOC-Metabolic-Pathways]]"
+parent-moc: [[MOC-Metabolic-Pathways]]
 tags:
   - litnote
   - metabolism

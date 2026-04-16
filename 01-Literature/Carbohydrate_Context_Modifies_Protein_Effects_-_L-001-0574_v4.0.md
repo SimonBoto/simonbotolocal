@@ -15,11 +15,11 @@ pmcid: N/A
 tier: GOLD
 relevance: Critical — metabolic context determines protein effects
 status: complete
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-10"
-source-inbox: "[[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370]]"
-source-litnote: "[[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370]]"
+source-inbox: [[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370]]
+source-litnote: [[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370]]
 zettel-count: 6
 reference-count: 0
 tags:

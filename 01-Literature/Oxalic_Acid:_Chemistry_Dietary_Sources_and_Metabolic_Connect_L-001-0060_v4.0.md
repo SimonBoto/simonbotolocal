@@ -14,11 +14,11 @@ pmcid: "N/A"
 tier: SILVER
 relevance: "High — PhD marker for adipic acid metabolism, oxalate biochemistry"
 status: complete
-parent-moc: "[[MOC-Metabolic-Pathways]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Metabolic-Pathways]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-03-04"
-source-inbox: "[[CGPT_0413_Oxalic_Acid_Uses_Form_CGPT-0413]]"
-source-litnote: "[[CGPT_0413_Oxalic_Acid_Uses_Form_CGPT-0413]]"
+source-inbox: [[CGPT_0413_Oxalic_Acid_Uses_Form_CGPT-0413]]
+source-litnote: [[CGPT_0413_Oxalic_Acid_Uses_Form_CGPT-0413]]
 zettel-count: 10
 reference-count: 0
 reviewed_by: "FORG"
@@ -39,7 +39,7 @@ tags:
 - **Conversation:** CGPT-0413 (Oxalic Acid: Uses & Form)
 - **Date:** April 16, 2024
 - **Messages:** 67
-- **Archive:** "[[CGPT_0413_Oxalic_Acid_Uses_Form_CGPT-0413]]"
+- **Archive:** [[CGPT_0413_Oxalic_Acid_Uses_Form_CGPT-0413]]
 
 
 ## Core Concepts
@@ -164,22 +164,22 @@ This is critical for understanding branched-chain amino acid metabolism.
 
 ## Zettels Created from This Source
 
-1. "[[Oxalic_Acid_Structure_Properties_Z-001-0601]]"
-2. "[[Dietary_Sources_Oxalate_High_Low_Z-001-0602]]"
-3. "[[Oxalate_Mineral_Binding_Calcium_Iron_Z-001-0603]]"
-4. "[[Glycine_Metabolism_Oxalate_Pathway_Z-001-0604]]"
-5. "[[Hydroxyproline_Collagen_Oxalate_Z-001-0605]]"
-6. "[[Vitamin_C_to_Oxalate_Conversion_Z-001-0606]]"
-7. "[[Amino_Acids_Krebs_Cycle_Map_Z-001-0607]]"
-8. "[[BCAA_Succinyl_CoA_Connection_Z-001-0608]]"
-9. "[[Threonine_Metabolism_Glucogenic_Ketogenic_Z-001-0609]]"
-10. "[[Primary_Hyperoxaluria_Genetic_Z-001-0610]]"
+1. [[Oxalic_Acid_Structure_Properties_Z-001-0601]]
+2. [[Dietary_Sources_Oxalate_High_Low_Z-001-0602]]
+3. [[Oxalate_Mineral_Binding_Calcium_Iron_Z-001-0603]]
+4. [[Glycine_Metabolism_Oxalate_Pathway_Z-001-0604]]
+5. [[Hydroxyproline_Collagen_Oxalate_Z-001-0605]]
+6. [[Vitamin_C_to_Oxalate_Conversion_Z-001-0606]]
+7. [[Amino_Acids_Krebs_Cycle_Map_Z-001-0607]]
+8. [[BCAA_Succinyl_CoA_Connection_Z-001-0608]]
+9. [[Threonine_Metabolism_Glucogenic_Ketogenic_Z-001-0609]]
+10. [[Primary_Hyperoxaluria_Genetic_Z-001-0610]]
 
 
 ## Related References
-- "[[L-001-0046A]]" — Amino Acids Entering Krebs Cycle (complementary table)
-- "[[MOC-Nitrogen-Metabolism]]" — Parent MOC for amino acid pathways
-- "[[Amino_Acids_Succinyl_CoA_B12_Z-001-0495]]" — Amino Acids to Succinyl-CoA (B12 criticality)
+- [[L-001-0046A]] — Amino Acids Entering Krebs Cycle (complementary table)
+- [[MOC-Nitrogen-Metabolism]] — Parent MOC for amino acid pathways
+- [[Amino_Acids_Succinyl_CoA_B12_Z-001-0495]] — Amino Acids to Succinyl-CoA (B12 criticality)
 
 
 *Literature note processed: 2026-03-04*  

@@ -14,11 +14,11 @@ pmcid: "N/A"
 tier: GOLD
 relevance: "Critical — METHAP protocol implementation; practical dosing guidance"
 status: complete
-parent-moc: "[[MOC-Magnesium]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Magnesium]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-03-01"
-source-inbox: "[[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]"
-source-litnote: "[[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]"
+source-inbox: [[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]
+source-litnote: [[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]
 zettel-count: 4
 reference-count: 0
 reviewed_by: "FORG"
@@ -36,7 +36,7 @@ tags:
 # Lit: Magnesium Supplementation — Practical Clinical Guide
 
 ## Source
-- **ChatGPT conversation:** "[[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]"
+- **ChatGPT conversation:** [[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]
 - **Date:** October 09, 2024
 - **Scope:** Chapter 5.4 — Practical recommendations on magnesium intake levels, sources, and clinical implementation
 
@@ -65,7 +65,7 @@ tags:
 - **Rationale:** Higher than RDA to correct deficiency and achieve therapeutic effects
 - **Safety margin:** Well below UL (350 mg from supplements only applies to non-food sources; actual tolerance higher)
 
-**Zettels extracted:** "[[Magnesium_Dosing_RDA_Therapeutic_Ranges_Z-001-0219]]"
+**Zettels extracted:** [[Magnesium_Dosing_RDA_Therapeutic_Ranges_Z-001-0219]]
 
 ### 2. Magnesium Forms — Bioavailability and Selection
 > "Discussion of optimal intake levels and sources of magnesium."
@@ -88,7 +88,7 @@ tags:
 - **Cardiovascular focus:** Magnesium taurate or orotate
 - **Avoid:** Magnesium oxide (poor absorption despite high elemental content)
 
-**Zettels extracted:** "[[Magnesium_Forms_Bioavailability_Selection_Z-001-0220]]"
+**Zettels extracted:** [[Magnesium_Forms_Bioavailability_Selection_Z-001-0220]]
 
 ### 3. Dietary Sources of Magnesium
 > "Discussion of recommended dietary sources and intake levels for optimal health."
@@ -121,7 +121,7 @@ tags:
 - Processing removes Mg from grains
 - Supplementation necessary for therapeutic effects
 
-**Zettels extracted:** "[[Magnesium_Dietary_Sources_Nutrition_Z-001-0221]]"
+**Zettels extracted:** [[Magnesium_Dietary_Sources_Nutrition_Z-001-0221]]
 
 ### 4. Monitoring and Safety
 > "Practical recommendations for clinicians on dosages and monitoring."
@@ -167,7 +167,7 @@ tags:
 - Muscle weakness
 - Respiratory depression (severe overdose)
 
-**Zettels extracted:** "[[Magnesium_Monitoring_Safety_Side_Effects_Z-001-0222]]"
+**Zettels extracted:** [[Magnesium_Monitoring_Safety_Side_Effects_Z-001-0222]]
 
 
 ## Key Figures & Data
@@ -199,18 +199,18 @@ tags:
 
 ## Zettels Created from This Source
 
-1. "[[Magnesium_Dosing_RDA_Therapeutic_Ranges_Z-001-0219]]"
-2. "[[Magnesium_Forms_Bioavailability_Selection_Z-001-0220]]"
-3. "[[Magnesium_Dietary_Sources_Nutrition_Z-001-0221]]"
-4. "[[Magnesium_Monitoring_Safety_Side_Effects_Z-001-0222]]"
+1. [[Magnesium_Dosing_RDA_Therapeutic_Ranges_Z-001-0219]]
+2. [[Magnesium_Forms_Bioavailability_Selection_Z-001-0220]]
+3. [[Magnesium_Dietary_Sources_Nutrition_Z-001-0221]]
+4. [[Magnesium_Monitoring_Safety_Side_Effects_Z-001-0222]]
 
 
 ## Related References
-- "[[LitNote_Magnesium_Biochemistry_L-001-0201a]]" — Mechanisms
-- "[[LitNote_Magnesium_IR_Diabetes_L-001-0201b]]" — Metabolic effects
-- "[[LitNote_Magnesium_Cardiovascular_L-001-0201c]]" — CV benefits
-- "[[MOC-Magnesium]]" — Parent MOC
-- "[[LitNote_Magnesium_Supplementation_Practical_Guide_L-001-0201d]]" — Practical guidance
+- [[LitNote_Magnesium_Biochemistry_L-001-0201a]] — Mechanisms
+- [[LitNote_Magnesium_IR_Diabetes_L-001-0201b]] — Metabolic effects
+- [[LitNote_Magnesium_Cardiovascular_L-001-0201c]] — CV benefits
+- [[MOC-Magnesium]] — Parent MOC
+- [[LitNote_Magnesium_Supplementation_Practical_Guide_L-001-0201d]] — Practical guidance
 
 ## Additional Content from Legacy Version
 
@@ -300,7 +300,7 @@ Magnesium regulates critical ion channels and cellular signaling pathways:
 - **Scope:** Chapter 5.1 — Detailed magnesium biochemistry for narrative review on micronutrients in metabolic syndrome
 **Secondary Messenger Systems:**
 - Should METHAP protocol include Mg loading phase before high-dose D?
-source: "[[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]"
+source: [[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]
 | Step | Enzyme | Location | Magnesium Role |
 - Structural role in RNA/DNA synthesis and protein synthesis
 - **Supplementation:** Include magnesium (citrate, glycinate, orotate forms) in METHAP protocol

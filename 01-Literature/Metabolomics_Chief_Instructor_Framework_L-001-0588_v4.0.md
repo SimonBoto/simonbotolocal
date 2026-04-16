@@ -15,11 +15,11 @@ pmcid: N/A
 tier: SILVER
 relevance: High — Foundational training philosophy for metabolomics clinic; defines instructor role and 6-stage patient flow
 status: complete
-parent-moc: "[[MOC-Metabolomics]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Metabolomics]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-03-08"
-source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
-source-litnote: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
+source-inbox: [[CGPT_0022_Metabolomics_training_role_CGPT-0022]]
+source-litnote: [[CGPT_0022_Metabolomics_training_role_CGPT-0022]]
 zettel-count: 5
 reference-count: 0
 extracted_by: FORG

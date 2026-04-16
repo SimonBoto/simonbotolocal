@@ -16,7 +16,7 @@ aliases:
   - ROS Autoimmunity
 domain: 001
 tags: [litnote, mitochondria, telomeres, ros, oxidative-stress, autoimmunity]
-source: "[[CGPT_0520_Autoimmune_Diseases_and_Telomeres_CGPT-0520]]"
+source: [[CGPT_0520_Autoimmune_Diseases_and_Telomeres_CGPT-0520]]
 status: complete
 parent-moc: 
 extraction-date: 2026-03-08

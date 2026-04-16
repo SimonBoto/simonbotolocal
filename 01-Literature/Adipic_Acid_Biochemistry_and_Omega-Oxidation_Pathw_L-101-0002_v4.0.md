@@ -19,11 +19,11 @@ domain: 101
 reviewed_by: "FORG"
 updated: "2026-04-09"
 tags: [lit-note, adipic-acid, fatty-acid-metabolism, omega-oxidation, beta-oxidation, carnitine, pharmacometabolomics, insulin-resistance, cGPT-0586]
-source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
-source-litnote: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
+source-inbox: [[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]
+source-litnote: [[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]
 status: complete
-parent-moc: "[[MOC-Mitochondrial-Function]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Mitochondrial-Function]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-03-02"
 zettel-count: 6
 reference-count: 0

@@ -17,11 +17,11 @@ pmcid: "N/A"
 tier: BRONZE
 relevance: "High — Essential for PhD trial design and METHAP methodology"
 status: complete
-parent-moc: "[[MOC-Research]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Research]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-03-02"
-source-inbox: "[[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]]"
-source-litnote: "[[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]]"
+source-inbox: [[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]]
+source-litnote: [[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]]
 zettel-count: 3
 reference-count: 0
 reviewed_by: "FORG"

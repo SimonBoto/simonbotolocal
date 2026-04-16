@@ -5,8 +5,8 @@ title: "Meat Consumption Eliminates Genetic Alzheimer Risk in APOE4 Carriers (No
 aliases:
   - "L-002-0206"
   - "Meat-Alzheimer-Genetic-Risk"
-source-inbox: "[[INBOX-Article-25-Meat-Alzheimer]]"
-source-litnote: "[[INBOX-Article-25-Meat-Alzheimer]]"
+source-inbox: [[INBOX-Article-25-Meat-Alzheimer]]
+source-litnote: [[INBOX-Article-25-Meat-Alzheimer]]
 authors: "Norgren J, et al."
 year: "2026"
 journal: "(pending publication)"
@@ -15,8 +15,8 @@ pmid: "(pending)"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Nutrition]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Nutrition]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-04"
 zettel-count: 3
 reference-count: 1

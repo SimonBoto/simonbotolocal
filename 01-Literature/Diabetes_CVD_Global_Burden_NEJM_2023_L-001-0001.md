@@ -15,10 +15,10 @@ pmcid: ""
 tier: GOLD
 relevance: "High — foundational study quantifying global CVD burden and modifiable risk factors"
 status: complete
-parent-moc: "[[MOC-Clinical-Metabolomics]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Clinical-Metabolomics]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-16"
-source-inbox: "[[INBOX-PILOT-002-Diabetes-CVD]]"
+source-inbox: [[INBOX-PILOT-002-Diabetes-CVD]]
 zettel-count: 4
 reference-count: 0
 reviewed_by: "FORG"

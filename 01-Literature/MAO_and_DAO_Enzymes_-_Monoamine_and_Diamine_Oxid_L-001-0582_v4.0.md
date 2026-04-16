@@ -15,11 +15,11 @@ pmcid: N/A
 tier: SILVER
 relevance: Enzyme pharmacology, histamine metabolism, neurotransmitter degradation
 status: complete
-parent-moc: "[[MOC-Pharmacology]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Pharmacology]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-03-07"
-source-inbox: "[[CGPT_0258_MAOIs_and_DAO_Interaction_CGPT-0258]]"
-source-litnote: "[[CGPT_0258_MAOIs_and_DAO_Interaction_CGPT-0258]]"
+source-inbox: [[CGPT_0258_MAOIs_and_DAO_Interaction_CGPT-0258]]
+source-litnote: [[CGPT_0258_MAOIs_and_DAO_Interaction_CGPT-0258]]
 zettel-count: 4
 reference-count: 0
 extracted_by: FORG

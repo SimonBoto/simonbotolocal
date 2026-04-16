@@ -4,8 +4,8 @@ type: litnote
 title: "Elevated Uric Acid: Fructose, Alcohol & Processed Foods (Chi 2024)"
 aliases:
   - L-002-0175
-source-inbox: "[[INBOX-Article-17-Uric-Acid]]"
-source-litnote: "[[INBOX-Article-17-Uric-Acid]]"
+source-inbox: [[INBOX-Article-17-Uric-Acid]]
+source-litnote: [[INBOX-Article-17-Uric-Acid]]
 authors: "Chi X, Cen Y, Yang B, et al."
 year: "2024"
 journal: "International Journal of Food Sciences and Nutrition"
@@ -14,8 +14,8 @@ pmid: "39289820"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-04"
 zettel-count: 3
 reference-count: 1

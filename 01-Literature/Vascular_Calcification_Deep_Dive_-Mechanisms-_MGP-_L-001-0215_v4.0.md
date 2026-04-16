@@ -16,11 +16,11 @@ pmcid: ""
 tier: GOLD
 relevance: "High — METHAP safety rationale; cardiovascular protection mechanisms"
 status: complete
-parent-moc: "[[MOC-Cardiovascular-Health]]"
-parent-index: "[[01-Literature 1]]"
+parent-moc: [[MOC-Cardiovascular-Health]]
+parent-index: [[01-Literature 1]]
 extraction-date: "2026-03-01"
-source-inbox: "[[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]"
-source-litnote: "[[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]"
+source-inbox: [[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]
+source-litnote: [[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]
 zettel-count: 5
 reference-count: 0
 reviewed_by: "FORG"
@@ -66,7 +66,7 @@ tags:
 | **Reduced perfusion** | Compliance loss | Ischemia, organ damage |
 | **CV events** | Plaque instability | MI, stroke |
 
-**Zettels extracted:** "[[Vascular_Calcification_Silent_Killer_Z-001-0268]]"
+**Zettels extracted:** [[Vascular_Calcification_Silent_Killer_Z-001-0268]]
 
 ### 2. Pathophysiology — How Arteries Calcify
 > "Vascular smooth muscle cells transform to osteoblast-like cells... deposits hydroxyapatite crystals."
@@ -96,7 +96,7 @@ tags:
 - Aging
 - Vitamin K deficiency (inactive MGP)
 
-**Zettels extracted:** "[[Vascular_Calcification_Pathophysiology_Z-001-0269]]"
+**Zettels extracted:** [[Vascular_Calcification_Pathophysiology_Z-001-0269]]
 
 ### 3. MGP — The Body's Defense
 > "Matrix Gla Protein is the strongest natural inhibitor of vascular calcification."
@@ -123,7 +123,7 @@ tags:
 - Chronic inflammation
 - Result: Unopposed calcification
 
-**Zettels extracted:** "[[MGP_Body_Defense_Vascular_Calcification_Z-001-0270]]"
+**Zettels extracted:** [[MGP_Body_Defense_Vascular_Calcification_Z-001-0270]]
 
 ### 4. Measuring Calcification
 > "Coronary artery calcium (CAC) score predicts cardiovascular events independent of traditional risk factors."
@@ -159,7 +159,7 @@ tags:
 - **Osteocalcin:** Bone-vascular axis
 - **Bone-specific alkaline phosphatase:** Turnover
 
-**Zettels extracted:** "[[Measuring_Vascular_Calcification_Z-001-0271]]"
+**Zettels extracted:** [[Measuring_Vascular_Calcification_Z-001-0271]]
 
 ### 5. Prevention and Reversal Strategies
 > "Vitamin K2 supplementation may slow or partially reverse early calcification."
@@ -191,7 +191,7 @@ tags:
 - MGP maximally activated
 - Proactive protection
 
-**Zettels extracted:** "[[Vascular_Calcification_Prevention_Reversal_Z-001-0272]]"
+**Zettels extracted:** [[Vascular_Calcification_Prevention_Reversal_Z-001-0272]]
 
 
 ## Key Figures & Data
@@ -219,17 +219,17 @@ tags:
 
 
 ## Zettels Created from This Source
-1. "[[Vascular_Calcification_Silent_Killer_Z-001-0268]]"
-2. "[[Vascular_Calcification_Pathophysiology_Z-001-0269]]"
-3. "[[MGP_Body_Defense_Vascular_Calcification_Z-001-0270]]"
-4. "[[Measuring_Vascular_Calcification_Z-001-0271]]"
-5. "[[Vascular_Calcification_Prevention_Reversal_Z-001-0272]]"
+1. [[Vascular_Calcification_Silent_Killer_Z-001-0268]]
+2. [[Vascular_Calcification_Pathophysiology_Z-001-0269]]
+3. [[MGP_Body_Defense_Vascular_Calcification_Z-001-0270]]
+4. [[Measuring_Vascular_Calcification_Z-001-0271]]
+5. [[Vascular_Calcification_Prevention_Reversal_Z-001-0272]]
 
 ## Related References
-- "[[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]]" — Synergy mechanisms
-- "[[MGP_Vascular_Protection_Synergy_Z-001-0255]]" — MGP details
-- "[[Calcium_Paradox_D_K2_Resolution_Z-001-0257]]" — Calcium paradox
-- "[[MOC-Cardiovascular-Health]]" — Parent MOC
+- [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]] — Synergy mechanisms
+- [[MGP_Vascular_Protection_Synergy_Z-001-0255]] — MGP details
+- [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]] — Calcium paradox
+- [[MOC-Cardiovascular-Health]] — Parent MOC
 
 
 *Literature note processed: 2026-03-01*  

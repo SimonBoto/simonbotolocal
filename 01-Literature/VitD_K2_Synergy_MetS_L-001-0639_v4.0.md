@@ -12,13 +12,13 @@ tier: GOLD
 relevance: "Critical — Core PhD literature on VitD/K2 mechanisms in MetS"
 status: complete
 source-origin: legacy
-parent-moc: "[[MOC-Vitamin-D]]"
+parent-moc: [[MOC-Vitamin-D]]
 tags:
   - litnote
   - metabolism
 extraction-date: 2026-03-09
-source-inbox: "[[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]"
-source-litnote: "[[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]"
+source-inbox: [[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]
+source-litnote: [[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]
 zettel-count: 4
 reference-count: 0
 reviewed_by: "FORG"

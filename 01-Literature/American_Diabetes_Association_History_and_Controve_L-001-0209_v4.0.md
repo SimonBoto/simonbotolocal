@@ -16,11 +16,11 @@ pmcid: ""
 tier: SILVER
 relevance: "Medium — Institutional context for diabetes guidelines; pharma funding issues"
 status: complete
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
-parent-index: "[[01-Literature]]"
+parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-index: [[01-Literature]]
 extraction-date: "2026-03-01"
-source-inbox: "[[CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471]]"
-source-litnote: "[[CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471]]"
+source-inbox: [[CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471]]
+source-litnote: [[CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471]]
 zettel-count: 4
 reference-count: 0
 reviewed_by: "FORG"
@@ -36,7 +36,7 @@ tags:
 # Lit: American Diabetes Association — History and Controversies
 
 ## Source
-- **ChatGPT conversation:** "[[CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471]]"
+- **ChatGPT conversation:** [[CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471]]
 - **Date:** March 10, 2024
 - **Scope:** ADA founding, funding sources, guideline controversies, pharmaceutical relationships
 
@@ -60,7 +60,7 @@ tags:
 - Professional training
 - Advocacy and policy
 
-**Zettels extracted:** "[[ADA_Founding_Mission_1940_Z-001-0241]]"
+**Zettels extracted:** [[ADA_Founding_Mission_1940_Z-001-0241]]
 
 ### 2. Pharmaceutical Funding — $53.6M+ from Industry
 > "Corporate sponsors have cumulatively contributed over $53.6 million. Notable sponsors include Lilly, Novo Nordisk, Sanofi, Merck, Abbott, Dexcom, Pfizer."
@@ -83,7 +83,7 @@ tags:
 - Pricing controversies (insulin costs)
 - Independence questions
 
-**Zettels extracted:** "[[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]"
+**Zettels extracted:** [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]
 
 ### 3. Guideline Controversies
 > "The ADA has occasionally faced controversies regarding its guidelines, particularly around the targets for glucose control in Type 2 Diabetes."
@@ -105,7 +105,7 @@ tags:
 - Slow adoption of evidence
 - Industry influence concerns
 
-**Zettels extracted:** "[[ADA_Guideline_Controversies_Evolution_Z-001-0243]]"
+**Zettels extracted:** [[ADA_Guideline_Controversies_Evolution_Z-001-0243]]
 
 ### 4. Know Diabetes by Heart™ — AHA Collaboration
 > "The ADA and the American Heart Association (AHA) collaborate through the joint initiative 'Know Diabetes by Heart™.'"
@@ -121,7 +121,7 @@ tags:
 - Combined approach needed
 - Shared patient populations
 
-**Zettels extracted:** "[[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]]"
+**Zettels extracted:** [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]]
 
 ---
 
@@ -147,10 +147,10 @@ tags:
 ---
 
 ## Zettels Created from This Source
-1. "[[ADA_Founding_Mission_1940_Z-001-0241]]"
-2. "[[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]"
-3. "[[ADA_Guideline_Controversies_Evolution_Z-001-0243]]"
-4. "[[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]]"
+1. [[ADA_Founding_Mission_1940_Z-001-0241]]
+2. [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]
+3. [[ADA_Guideline_Controversies_Evolution_Z-001-0243]]
+4. [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]]
 
 ---
 

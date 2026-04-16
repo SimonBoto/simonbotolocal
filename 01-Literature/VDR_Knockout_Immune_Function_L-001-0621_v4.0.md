@@ -17,13 +17,13 @@ aliases:
   - Vitamin D Autoimmune Protection
 domain: 001
 tags: [litnote, vdr, vitamin-d, immunity, autoimmunity, knockout-studies]
-source: "[[CGPT_0311_Self_Education_Program_Plan_CGPT-0311]]"
+source: [[CGPT_0311_Self_Education_Program_Plan_CGPT-0311]]
 status: complete
 source-origin: legacy
-parent-moc: "[[MOC-Vitamin-D]]"
+parent-moc: [[MOC-Vitamin-D]]
 extraction-date: 2026-03-08
-source-inbox: "[[00-Inbox]]"
-source-litnote: "[[00-Inbox]]"
+source-inbox: [[00-Inbox]]
+source-litnote: [[00-Inbox]]
 zettel-count: 0
 reference-count: 0
 reviewed_by: "FORG"

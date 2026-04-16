@@ -14,11 +14,11 @@ pmcid: "N/A"
 tier: GOLD
 relevance: "High — Vascular calcification prevention; synergy with VitD and Mg"
 status: complete
-parent-moc: "[[MOC-Vitamin-K2]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Vitamin-K2]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-03-01"
-source-inbox: "[[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]"
-source-litnote: "[[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]"
+source-inbox: [[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]
+source-litnote: [[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]
 zettel-count: 4
 reference-count: 0
 reviewed_by: "FORG"
@@ -66,7 +66,7 @@ tags:
 - Requires vitamin K as cofactor
 - Creates calcium-binding sites on proteins
 
-**Zettels extracted:** "[[Vitamin_K2_Biochemistry_Forms_MK4_MK7_Z-001-0227]]"
+**Zettels extracted:** [[Vitamin_K2_Biochemistry_Forms_MK4_MK7_Z-001-0227]]
 
 ### 2. Vascular Calcification Prevention
 > "Impact on arterial calcification and cardiovascular health."
@@ -92,7 +92,7 @@ tags:
 - **Prospect-EPIC:** K2 associated with reduced CVD risk (K1 not protective)
 - **Intervention trials:** K2 (MK-7) slows arterial stiffness progression
 
-**Zettels extracted:** "[[Vitamin_K2_Vascular_Calcification_MGP_Z-001-0228]]"
+**Zettels extracted:** [[Vitamin_K2_Vascular_Calcification_MGP_Z-001-0228]]
 
 ### 3. Vitamin K2 and Glucose Metabolism (Emerging Evidence)
 > "Interaction with insulin signaling and glucose metabolism."
@@ -115,7 +115,7 @@ tags:
 - **Mechanism plausible:** Osteocalcin-endocrine axis
 - **Clinical trials ongoing:** Emerging area of research
 
-**Zettels extracted:** "[[Vitamin_K2_Glucose_Metabolism_Osteocalcin_Z-001-0229]]"
+**Zettels extracted:** [[Vitamin_K2_Glucose_Metabolism_Osteocalcin_Z-001-0229]]
 
 ### 4. Synergy with Vitamin D and Magnesium
 > "Interplay between Vitamin K2 and Vitamin D."
@@ -144,7 +144,7 @@ tags:
 - D3: 8000 IU daily
 - Mg: 400-500 mg daily
 
-**Zettels extracted:** "[[Vitamin_K2_D_Mg_Synergy_Metabolic_Health_Z-001-0230]]"
+**Zettels extracted:** [[Vitamin_K2_D_Mg_Synergy_Metabolic_Health_Z-001-0230]]
 
 
 ## Key Figures & Data
@@ -175,18 +175,18 @@ tags:
 
 ## Zettels Created from This Source
 
-1. "[[Vitamin_K2_Biochemistry_Forms_MK4_MK7_Z-001-0227]]"
-2. "[[Vitamin_K2_Vascular_Calcification_MGP_Z-001-0228]]"
-3. "[[Vitamin_K2_Glucose_Metabolism_Osteocalcin_Z-001-0229]]"
-4. "[[Vitamin_K2_D_Mg_Synergy_Metabolic_Health_Z-001-0230]]"
+1. [[Vitamin_K2_Biochemistry_Forms_MK4_MK7_Z-001-0227]]
+2. [[Vitamin_K2_Vascular_Calcification_MGP_Z-001-0228]]
+3. [[Vitamin_K2_Glucose_Metabolism_Osteocalcin_Z-001-0229]]
+4. [[Vitamin_K2_D_Mg_Synergy_Metabolic_Health_Z-001-0230]]
 
 
 ## Related References
-- "[[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]]" — Bone-vascular axis
-- "[[Magnesium_Vascular_Calcification_Prevention_Z-001-0218]]" — Mg calcification effects
-- "[[LitNote_Metabolic_Syndrome_Overview_L-001-0200]]" — MetS context
-- "[[MOC-Vitamin-K2]]" — Parent MOC
-- "[[LitNote_Vitamin_K2_Clinical_Applications_L-001-0012]]" — Clinical context
+- [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]] — Bone-vascular axis
+- [[Magnesium_Vascular_Calcification_Prevention_Z-001-0218]] — Mg calcification effects
+- [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]] — MetS context
+- [[MOC-Vitamin-K2]] — Parent MOC
+- [[LitNote_Vitamin_K2_Clinical_Applications_L-001-0012]] — Clinical context
 
 
 *Literature note processed: 2026-03-01*  

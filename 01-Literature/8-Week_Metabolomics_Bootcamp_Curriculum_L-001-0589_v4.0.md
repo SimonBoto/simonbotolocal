@@ -15,11 +15,11 @@ pmcid: N/A
 tier: SILVER
 relevance: High — Time-bound training curriculum scaffolding cognitive transformation from biochemical literacy to clinical integration
 status: complete
-parent-moc: "[[MOC-Metabolomics]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Metabolomics]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-03-08"
-source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
-source-litnote: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
+source-inbox: [[CGPT_0022_Metabolomics_training_role_CGPT-0022]]
+source-litnote: [[CGPT_0022_Metabolomics_training_role_CGPT-0022]]
 zettel-count: 6
 reference-count: 0
 extracted_by: FORG

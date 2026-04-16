@@ -7,8 +7,8 @@ aliases:
   - "L-002-0245"
   - "Walking-Mortality-Reduction"
   - "8000-Steps-JAMA"
-source-inbox: "[[INBOX-Article-56-Walking-Mortality]]"
-source-litnote: "[[INBOX-Article-56-Walking-Mortality]]"
+source-inbox: [[INBOX-Article-56-Walking-Mortality]]
+source-litnote: [[INBOX-Article-56-Walking-Mortality]]
 authors: "Paluch AE, et al."
 year: "2023"
 journal: "JAMA Network Open"
@@ -17,8 +17,8 @@ pmid: "(pending)"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-05"
 zettel-count: 3
 reference-count: 1

@@ -7,8 +7,8 @@ aliases:
   - "L-002-0230"
   - "Five-Risk-Factors-14-Years"
   - "NEJM-2025-Longevity"
-source-inbox: "[[INBOX-Article-45-Five-Risk-Factors]]"
-source-litnote: "[[INBOX-Article-45-Five-Risk-Factors]]"
+source-inbox: [[INBOX-Article-45-Five-Risk-Factors]]
+source-litnote: [[INBOX-Article-45-Five-Risk-Factors]]
 authors: "Global Cardiovascular Risk Consortium (Mousavi SM, Gu X, Imamura F, et al.)"
 year: "2025"
 journal: "New England Journal of Medicine"
@@ -17,8 +17,8 @@ pmid: "40162648"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Global-Health]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Global-Health]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-05"
 zettel-count: 3
 reference-count: 1

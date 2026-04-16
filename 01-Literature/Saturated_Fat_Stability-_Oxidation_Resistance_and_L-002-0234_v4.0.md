@@ -7,8 +7,8 @@ aliases:
   - "L-002-0234"
   - "Saturated-Fat-Stability"
   - "Oxidation-Resistance"
-source-inbox: "[[INBOX-Article-47-Saturated-Fat-Stability]]"
-source-litnote: "[[INBOX-Article-47-Saturated-Fat-Stability]]"
+source-inbox: [[INBOX-Article-47-Saturated-Fat-Stability]]
+source-litnote: [[INBOX-Article-47-Saturated-Fat-Stability]]
 authors: "Yamada S, et al.; Valk R, et al.; Astrup A, et al."
 year: "2020-2025"
 journal: "JAMA; Eur J Prev Cardiol; JACC"
@@ -17,8 +17,8 @@ pmid: "(multiple)"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Nutrition]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Nutrition]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-05"
 zettel-count: 3
 reference-count: 3

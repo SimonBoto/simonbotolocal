@@ -4,8 +4,8 @@ type: litnote
 title: "15-20 Min Exercise Weekly Reduces Mortality 16-40% (Polo-López 2024)"
 aliases:
   - L-002-0174
-source-inbox: "[[INBOX-Article-16-Minimal-Exercise]]"
-source-litnote: "[[INBOX-Article-16-Minimal-Exercise]]"
+source-inbox: [[INBOX-Article-16-Minimal-Exercise]]
+source-litnote: [[INBOX-Article-16-Minimal-Exercise]]
 authors: "Polo-López A, Calatayud J, López-Bueno L, et al."
 year: "2024"
 journal: "Progress in Cardiovascular Diseases"
@@ -13,8 +13,8 @@ doi: "10.1016/j.pcad.2024.04.001"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Clinical-Metabolomics]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Clinical-Metabolomics]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-04"
 zettel-count: 3
 reference-count: 1

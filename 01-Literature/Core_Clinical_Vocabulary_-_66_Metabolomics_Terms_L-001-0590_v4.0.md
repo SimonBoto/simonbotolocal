@@ -15,11 +15,11 @@ pmcid: N/A
 tier: SILVER
 relevance: "High — Foundational terminology for metabolomics training; 66 terms organized by clinical domain"
 status: complete
-parent-moc: "[[MOC-Metabolomics]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Metabolomics]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-10"
-source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
-source-litnote: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
+source-inbox: [[CGPT_0022_Metabolomics_training_role_CGPT-0022]]
+source-litnote: [[CGPT_0022_Metabolomics_training_role_CGPT-0022]]
 zettel-count: 7
 reference-count: 0
 extracted_by: FORG

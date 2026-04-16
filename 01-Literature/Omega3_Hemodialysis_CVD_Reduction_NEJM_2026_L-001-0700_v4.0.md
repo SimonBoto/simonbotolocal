@@ -13,10 +13,10 @@ pmid: "41201837"
 tier: GOLD
 relevance: "CRITICAL — High-dose omega-3 efficacy in high-risk metabolic population"
 status: complete
-parent-moc: "[[MOC-Cardiovascular-Health]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Cardiovascular-Health]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-15"
-source-litnote: "[[Omega3_Hemodialysis_CVD_NEJM_2026-04-15]]"
+source-litnote: [[Omega3_Hemodialysis_CVD_NEJM_2026-04-15]]
 tags:
   - litnote
   - omega-3

@@ -19,7 +19,7 @@ tags:
   - litnote
   - metabolism
 extraction-date: 2026-02-23
-source-litnote: "[[## Source]]"
+source-litnote: [[## Source]]
 ---
 
 # Lit: NKUA 2024 — Τι Είναι Οι Μεταβολίτες (DE2)

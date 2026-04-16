@@ -16,11 +16,11 @@ pmcid: "N/A"
 tier: BRONZE
 relevance: "High — Drug toxicity mechanisms relevant to metabolic interventions"
 status: complete
-parent-moc: "[[MOC-Endocrinology]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Endocrinology]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-03-02"
-source-inbox: "[[CGPT_0189_Sirolimus_Mitochondrial_Toxicity_Mechanisms_CGPT-0189]]"
-source-litnote: "[[CGPT_0189_Sirolimus_Mitochondrial_Toxicity_Mechanisms_CGPT-0189]]"
+source-inbox: [[CGPT_0189_Sirolimus_Mitochondrial_Toxicity_Mechanisms_CGPT-0189]]
+source-litnote: [[CGPT_0189_Sirolimus_Mitochondrial_Toxicity_Mechanisms_CGPT-0189]]
 zettel-count: 4
 reference-count: 0
 reviewed_by: "FORG"

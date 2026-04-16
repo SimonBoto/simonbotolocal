@@ -15,11 +15,11 @@ pmcid: N/A
 tier: GOLD
 relevance: Foundational endocrine physiology for clinical practice
 status: complete
-parent-moc: "[[MOC-Endocrinology]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Endocrinology]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-03-07"
-source-inbox: "[[CGPT_0438_Hormone_Scenarios_Normal_vs_Pathological_CGPT-0438]]"
-source-litnote: "[[CGPT_0438_Hormone_Scenarios_Normal_vs_Pathological_CGPT-0438]]"
+source-inbox: [[CGPT_0438_Hormone_Scenarios_Normal_vs_Pathological_CGPT-0438]]
+source-litnote: [[CGPT_0438_Hormone_Scenarios_Normal_vs_Pathological_CGPT-0438]]
 zettel-count: 6
 reference-count: 0
 extracted_by: FORG

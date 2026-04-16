@@ -15,11 +15,11 @@ pmcid: N/A
 tier: SILVER
 relevance: Tyrosine kinase inhibitors, antifibrotic therapy, IPF treatment
 status: complete
-parent-moc: "[[MOC-Pharmacology]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Pharmacology]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-03-07"
-source-inbox: "[[CGPT_0064_Ofev_MOA_and_effects_CGPT-0064]]"
-source-litnote: "[[CGPT_0064_Ofev_MOA_and_effects_CGPT-0064]]"
+source-inbox: [[CGPT_0064_Ofev_MOA_and_effects_CGPT-0064]]
+source-litnote: [[CGPT_0064_Ofev_MOA_and_effects_CGPT-0064]]
 zettel-count: 5
 reference-count: 0
 extracted_by: FORG

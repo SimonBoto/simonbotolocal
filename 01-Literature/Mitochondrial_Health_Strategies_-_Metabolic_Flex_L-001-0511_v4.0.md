@@ -18,11 +18,11 @@ pmcid: ""
 tier: GOLD
 relevance: "High — Clinical application of mitochondrial optimization through diet, exercise, and metabolomics monitoring"
 status: complete
-parent-moc: "[[MOC-Mitochondrial-Function]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Mitochondrial-Function]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-03-01"
-source-inbox: "[[CGPT_0378_Mitochondrial_Health_Strategies_CGPT-0378]]"
-source-litnote: "[[CGPT_0378_Mitochondrial_Health_Strategies_CGPT-0378]]"
+source-inbox: [[CGPT_0378_Mitochondrial_Health_Strategies_CGPT-0378]]
+source-litnote: [[CGPT_0378_Mitochondrial_Health_Strategies_CGPT-0378]]
 zettel-count: 4
 reference-count: 0
 reviewed_by: "FORG"

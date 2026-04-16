@@ -18,11 +18,11 @@ pmcid: ""
 tier: GOLD
 relevance: "Critical — Central metabolic pathway connecting energy metabolism to cholesterol synthesis, CoQ10 production, and protein prenylation"
 status: complete
-parent-moc: "[[MOC-Lipid-Metabolism]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Lipid-Metabolism]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-03-01"
-source-inbox: "[[CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393]]"
-source-litnote: "[[CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393]]"
+source-inbox: [[CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393]]
+source-litnote: [[CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393]]
 zettel-count: 5
 reference-count: 0
 reviewed_by: "RON"

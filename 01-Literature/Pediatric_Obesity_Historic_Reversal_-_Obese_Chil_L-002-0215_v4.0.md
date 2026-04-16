@@ -5,8 +5,8 @@ title: "Pediatric Obesity Historic Reversal — Obese Children Outnumber Underno
 aliases:
   - "L-002-0215"
   - "Pediatric-Obesity-Historic-Reversal"
-source-inbox: "[[INBOX-Article-33-Pediatric-Obesity]]"
-source-litnote: "[[INBOX-Article-33-Pediatric-Obesity]]"
+source-inbox: [[INBOX-Article-33-Pediatric-Obesity]]
+source-litnote: [[INBOX-Article-33-Pediatric-Obesity]]
 authors: "UNICEF"
 year: "2025"
 journal: "UNICEF Child Nutrition Report"
@@ -15,8 +15,8 @@ pmid: "(not applicable)"
 tier: "SILVER"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Nutrition]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Nutrition]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-04"
 zettel-count: 3
 reference-count: 1

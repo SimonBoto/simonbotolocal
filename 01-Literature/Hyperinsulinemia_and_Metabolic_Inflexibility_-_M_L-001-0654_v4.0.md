@@ -15,11 +15,11 @@ pmcid: ""
 tier: GOLD
 relevance: "Critical — Core mechanism linking hyperinsulinemia to metabolic dysfunction; foundational for METHAP metabolic interventions"
 status: complete
-parent-moc: "[[MOC-Insulin-Signaling]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Insulin-Signaling]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-03-11"
-source-inbox: "[[CGPT_0647_ATP_Pathways_Overview_CGPT-0647]]"
-source-litnote: "[[CGPT_0647_ATP_Pathways_Overview_CGPT-0647]]"
+source-inbox: [[CGPT_0647_ATP_Pathways_Overview_CGPT-0647]]
+source-litnote: [[CGPT_0647_ATP_Pathways_Overview_CGPT-0647]]
 zettel-count: 3
 reference-count: 0
 reviewed_by: "RON"

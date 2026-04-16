@@ -11,10 +11,10 @@ journal: "Internal Synthesis"
 tier: SILVER
 relevance: "High — Comprehensive causal pathway framework"
 status: complete
-parent-moc: "[[MOC-Insulin-Signaling]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Insulin-Signaling]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-02-24"
-source-litnote: "[[## Source]]"
+source-litnote: [[## Source]]
 reviewed_by: "FORG"
 created: "2026-02-24"
 updated: "2026-04-09"

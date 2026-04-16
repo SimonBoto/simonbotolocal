@@ -15,11 +15,11 @@ pmcid: ""
 tier: BRONZE
 relevance: "High — IV vitamin C, pro-oxidant mechanisms, epigenetic effects, clinical trials in cancer"
 status: complete
-parent-moc: "[[MOC-Cancer]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Cancer]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-03-08"
-source-inbox: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
-source-litnote: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
+source-inbox: [[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]
+source-litnote: [[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]
 zettel-count: 3
 reference-count: 0
 reviewed_by: "RON"

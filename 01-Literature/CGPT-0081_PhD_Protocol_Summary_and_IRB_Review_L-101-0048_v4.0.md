@@ -19,8 +19,8 @@ tags:
   - phd
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-28
-source-litnote: "[[## Source]]"
-source: "[[CGPT_0081_PhD_Protocol_Summary_CGPT-0081]]"
+source-litnote: [[## Source]]
+source: [[CGPT_0081_PhD_Protocol_Summary_CGPT-0081]]
 ---
 
 # Lit: PhD Protocol Summary — METHAP Study Design and Ethics Review

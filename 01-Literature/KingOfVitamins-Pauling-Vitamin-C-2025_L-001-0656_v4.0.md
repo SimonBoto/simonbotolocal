@@ -4,8 +4,8 @@ type: litnote
 title: "Lit — KingOfVitamins_Pauling_Vitamin_C_2025"
 aliases:
   - L-001-0656
-source-inbox: "[[INBOX-2026-04-04-002_Pauling_Vitamin_C_Thread]]"
-source-litnote: "[[INBOX-2026-04-04-002_Pauling_Vitamin_C_Thread]]"
+source-inbox: [[INBOX-2026-04-04-002_Pauling_Vitamin_C_Thread]]
+source-litnote: [[INBOX-2026-04-04-002_Pauling_Vitamin_C_Thread]]
 authors: "Vitamin King (@KingOfVitamins)"
 year: "2025"
 source: "X thread"
@@ -13,7 +13,7 @@ url: "https://x.com/kingofvitamins/status/1998757396425093470"
 tier: "GOLD"
 status: complete
 reviewed_by: "FORG"
-parent-moc: "[[MOC-Vitamin-Mineral-Axis]]"
+parent-moc: [[MOC-Vitamin-Mineral-Axis]]
 tags:
   - litnote
   - metabolism

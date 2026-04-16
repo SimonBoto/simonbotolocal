@@ -11,10 +11,10 @@ tags:
   - mitochondria
   - structure
   - biochemistry
-parent-moc: "[[MOC-Mitochondrial-Function]]"
+parent-moc: [[MOC-Mitochondrial-Function]]
 status: complete
-source-inbox: "[[CGPT_0318_Mitochondrial_Structure_CGPT-0318]]"
-source-litnote: "[[CGPT_0318_Mitochondrial_Structure_CGPT-0318]]"
+source-inbox: [[CGPT_0318_Mitochondrial_Structure_CGPT-0318]]
+source-litnote: [[CGPT_0318_Mitochondrial_Structure_CGPT-0318]]
 ---
 
 
@@ -23,7 +23,7 @@ source-litnote: "[[CGPT_0318_Mitochondrial_Structure_CGPT-0318]]"
 **Date:** July 18, 2024  
 **Messages:** 214 total (biology focus: 1-2, 156-214)  
 **Type:** Biology foundation + Social media strategy
-parent-moc: "[[MOC-Mitochondrial-Function]]"
+parent-moc: [[MOC-Mitochondrial-Function]]
 ---
 
 

@@ -4,8 +4,8 @@ type: litnote
 title: "Lipoprotein(a) [Lp(a)]: Genetic Risk Factor and Management Strategies"
 aliases:
   - L-002-0183
-source-inbox: "[[INBOX-Article-14-Lp(a)-Genetic-Risk]]"
-source-litnote: "[[INBOX-Article-14-Lp(a)-Genetic-Risk]]"
+source-inbox: [[INBOX-Article-14-Lp(a)-Genetic-Risk]]
+source-litnote: [[INBOX-Article-14-Lp(a)-Genetic-Risk]]
 authors: "Kamstrup PR, Tybjaerg-Hansen A, Steffensen R, Nordestgaard BG"
 year: "2009"
 journal: "JAMA"
@@ -14,8 +14,8 @@ pmid: "19509380"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Cholesterol-Quality]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Cholesterol-Quality]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-04"
 zettel-count: 0
 reference-count: 0

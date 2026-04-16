@@ -27,11 +27,11 @@ tags:
   - nutrition
   - food-quality
   - linoleic-acid
-source: "[[CGPT_0141_Omega_6_in_Chicken_Fat_CGPT-0141]]"
+source: [[CGPT_0141_Omega_6_in_Chicken_Fat_CGPT-0141]]
 status: complete
-parent-moc: "[[MOC-Lipid-Metabolism]]"
+parent-moc: [[MOC-Lipid-Metabolism]]
 extraction-date: 2026-03-03
-source-litnote: "[[## Source]]"
+source-litnote: [[## Source]]
 source-origin: chatgpt-archive
 reviewed_by: "FORG"
 created: 2026-04-09
@@ -173,7 +173,7 @@ For patients with inflammatory conditions (MetS, autoimmune, chronic pain), the 
 
 
 ## Related References
-- "[[MOC-Lipid-Metabolism]]" — Parent MOC for fatty acid balance
+- [[MOC-Lipid-Metabolism]] — Parent MOC for fatty acid balance
 -  — General nutrition context
 - [[LitNote_Seed_Oils_Omega6_Omega3_Ratio_L-001-0503]] — Broader omega-6:3 context
 -  — General omega-6:3 balance (if exists)

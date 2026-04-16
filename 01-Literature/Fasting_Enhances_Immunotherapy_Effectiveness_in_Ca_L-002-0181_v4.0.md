@@ -4,8 +4,8 @@ type: litnote
 title: "Fasting Enhances Immunotherapy Effectiveness in Cancer Patients"
 aliases:
   - L-002-0181
-source-inbox: "[[INBOX-Article-12-Fasting-Immunotherapy]]"
-source-litnote: "[[INBOX-Article-12-Fasting-Immunotherapy]]"
+source-inbox: [[INBOX-Article-12-Fasting-Immunotherapy]]
+source-litnote: [[INBOX-Article-12-Fasting-Immunotherapy]]
 authors: "Chen S, et al."
 year: "2026"
 journal: "Cell Metabolism"
@@ -14,8 +14,8 @@ pmid: "41720105"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Cancer]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Cancer]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-04"
 zettel-count: 3
 reference-count: 1

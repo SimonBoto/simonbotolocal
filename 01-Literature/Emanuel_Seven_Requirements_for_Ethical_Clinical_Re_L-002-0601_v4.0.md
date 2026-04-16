@@ -19,8 +19,8 @@ tags:
   - litnote
   - metabolism
 extraction-date: 2026-03-27
-source-litnote: "[[## Source]]"
-source: "[[CGPT_0131_Medical_Ethics_Assistance_CGPT-0131]]"
+source-litnote: [[## Source]]
+source: [[CGPT_0131_Medical_Ethics_Assistance_CGPT-0131]]
 ---
 
 # Lit: Emanuel et al. 2000 — What Makes Clinical Research Ethical?

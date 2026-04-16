@@ -15,11 +15,11 @@ pmcid: ""
 tier: GOLD
 relevance: "Critical — Understanding how scientific ideas become policy, the history of dietary guidelines, and lessons for evidence-based medicine"
 status: complete
-parent-moc: "[[MOC-Nutrition]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Nutrition]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-03-01"
-source-inbox: "[[CGPT_0074_Seven_Countries_Study_Summary_CGPT-0074]]"
-source-litnote: "[[CGPT_0074_Seven_Countries_Study_Summary_CGPT-0074]]"
+source-inbox: [[CGPT_0074_Seven_Countries_Study_Summary_CGPT-0074]]
+source-litnote: [[CGPT_0074_Seven_Countries_Study_Summary_CGPT-0074]]
 zettel-count: 5
 reference-count: 0
 reviewed_by: "FORG"

@@ -5,8 +5,8 @@ title: "Lifestyle Disease Factors Are Modifiable — 80% of Health Determinants 
 aliases:
   - "L-002-0213"
   - "Lifestyle-Factors-Modifiable"
-source-inbox: "[[INBOX-Article-32-Modifiable]]"
-source-litnote: "[[INBOX-Article-32-Modifiable]]"
+source-inbox: [[INBOX-Article-32-Modifiable]]
+source-litnote: [[INBOX-Article-32-Modifiable]]
 authors: "CDC, WHO, Lifestyle Medicine literature, Twin study researchers"
 year: "2000-2024"
 journal: "JAMA, Lancet, CDC Chronic Disease Reports, Twin Research"
@@ -15,8 +15,8 @@ pmid: "(multiple)"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Clinical-Metabolomics]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Clinical-Metabolomics]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-04"
 zettel-count: 3
 reference-count: 1

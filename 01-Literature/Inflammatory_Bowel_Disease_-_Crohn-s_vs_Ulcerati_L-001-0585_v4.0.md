@@ -15,11 +15,11 @@ pmcid: N/A
 tier: GOLD
 relevance: Core GI pathology, IBD differential diagnosis
 status: complete
-parent-moc: "[[MOC-Gastroenterology]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Gastroenterology]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-03-07"
-source-inbox: "[[CGPT_0209_Gastroenterology_Registrar_Assessment_CGPT-0209]]"
-source-litnote: "[[CGPT_0209_Gastroenterology_Registrar_Assessment_CGPT-0209]]"
+source-inbox: [[CGPT_0209_Gastroenterology_Registrar_Assessment_CGPT-0209]]
+source-litnote: [[CGPT_0209_Gastroenterology_Registrar_Assessment_CGPT-0209]]
 zettel-count: 6
 reference-count: 0
 extracted_by: FORG

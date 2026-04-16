@@ -17,10 +17,10 @@ pmcid: ""
 tier: BRONZE
 relevance: "High — One-carbon metabolism, methylation, folate, B12, nucleotide synthesis in cancer"
 status: complete
-parent-moc: "[[MOC-Methylation]]"
-parent-index: "[[01-Literature-Index]]"
-source-inbox: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
-source-litnote: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
+parent-moc: [[MOC-Methylation]]
+parent-index: [[01-Literature-Index]]
+source-inbox: [[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]
+source-litnote: [[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]
 zettel-count: 3
 reference-count: 0
 reviewed_by: "FORG"

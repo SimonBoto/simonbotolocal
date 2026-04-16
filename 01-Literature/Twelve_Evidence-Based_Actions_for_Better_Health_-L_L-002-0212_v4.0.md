@@ -5,8 +5,8 @@ title: "Twelve Evidence-Based Actions for Better Health (Lifestyle Medicine Fram
 aliases:
   - "L-002-0212"
   - "Twelve-Actions-Better-Health"
-source-inbox: "[[INBOX-Article-31-Twelve-Actions]]"
-source-litnote: "[[INBOX-Article-31-Twelve-Actions]]"
+source-inbox: [[INBOX-Article-31-Twelve-Actions]]
+source-litnote: [[INBOX-Article-31-Twelve-Actions]]
 authors: "Lifestyle Medicine literature, Blue Zones research, Longevity studies"
 year: "2010-2024"
 journal: "American Journal of Lifestyle Medicine, Circulation, PLoS Medicine"
@@ -15,8 +15,8 @@ pmid: "(multiple)"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Clinical-Metabolomics]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Clinical-Metabolomics]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-04"
 zettel-count: 3
 reference-count: 1

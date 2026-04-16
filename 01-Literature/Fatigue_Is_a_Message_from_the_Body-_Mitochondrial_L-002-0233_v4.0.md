@@ -7,8 +7,8 @@ aliases:
   - "L-002-0233"
   - "Fatigue-Mitochondrial-Message"
   - "Mitochondrial-Dysfunction"
-source-inbox: "[[INBOX-Article-46-Fatigue-Mitochondrial]]"
-source-litnote: "[[INBOX-Article-46-Fatigue-Mitochondrial]]"
+source-inbox: [[INBOX-Article-46-Fatigue-Mitochondrial]]
+source-litnote: [[INBOX-Article-46-Fatigue-Mitochondrial]]
 authors: "Various"
 year: "2010-2025"
 journal: "Various"
@@ -17,8 +17,8 @@ pmid: "(multiple)"
 tier: "SILVER"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Mitochondrial-Function]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Mitochondrial-Function]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-05"
 zettel-count: 3
 reference-count: 1

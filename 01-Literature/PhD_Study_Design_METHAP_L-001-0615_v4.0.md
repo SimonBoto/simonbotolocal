@@ -18,11 +18,11 @@ tags:
   - litnote
   - metabolism
 extraction-date: 2026-03-08
-source-inbox: "[[00-Inbox]]"
-source-litnote: "[[00-Inbox]]"
+source-inbox: [[00-Inbox]]
+source-litnote: [[00-Inbox]]
 zettel-count: 0
 reference-count: 0
-source: "[[CGPT_0475_Metabolic_Biomarkers_for_Insulin_CGPT-0475]]"
+source: [[CGPT_0475_Metabolic_Biomarkers_for_Insulin_CGPT-0475]]
 ---
 
 # Lit: ChatGPT 2024 — PhD Study Design and Methodology: METHAP Trial

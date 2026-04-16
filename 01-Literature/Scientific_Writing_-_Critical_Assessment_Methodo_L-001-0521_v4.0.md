@@ -24,13 +24,13 @@ tags:
   - study-evaluation
   - methodology
   - cgpt-0328
-source: "[[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]]"
+source: [[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]]
 status: complete
-parent-moc: "[[MOC-Research]]"
-parent-index: "[[01-Literature]]"
+parent-moc: [[MOC-Research]]
+parent-index: [[01-Literature]]
 extraction-date: 2026-03-06
-source-inbox: "[[00-Inbox]]"
-source-litnote: "[[00-Inbox]]"
+source-inbox: [[00-Inbox]]
+source-litnote: [[00-Inbox]]
 zettel-count: 0
 reference-count: 0
 source-origin: chatgpt-archive
@@ -119,7 +119,7 @@ The line-by-line critique exposed every overstatement, producing a revised concl
 ---
 
 ---
-parent-index: "[[01-Literature 1]]"
+parent-index: [[01-Literature 1]]
 
 ## Status Checklist
 

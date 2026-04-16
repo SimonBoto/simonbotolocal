@@ -18,8 +18,8 @@ aliases:
   - Cholesterol Synthesis
   - Statin Target
 status: complete
-parent-index: "[[01-Literature-Index]]"
-parent-moc: "[[MOC-Lipid-Metabolism]]"
+parent-index: [[01-Literature-Index]]
+parent-moc: [[MOC-Lipid-Metabolism]]
 extraction-date: "2026-03-03"
 zettel-count: 3
 reference-count: 0
@@ -36,8 +36,8 @@ tags:
   - isoprenoids
   - biochemistry
   - cGPT-0391
-source-inbox: "[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]"
-source-litnote: "[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]"
+source-inbox: [[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]
+source-litnote: [[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]
 
 # Mevalonate Pathway Biochemistry — Enzymes, Cofactors, and Energy Requirements
 

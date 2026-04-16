@@ -25,9 +25,9 @@ tags:
   - qc
   - opls-da
   - cgpt-0328
-source: "[[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]]"
+source: [[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]]
 status: complete
-parent-moc: "[[MOC-Research]]"
+parent-moc: [[MOC-Research]]
 extraction-date: 2026-03-06
 source-origin: chatgpt-archive
 reviewed_by: "FORG"
@@ -139,7 +139,7 @@ extraction-date: "2026-03-06"
 Mass spec sensitivity drifts over hours/days; retention times shift slightly; ionization efficiency changes; without QC monitoring, drift appears as biological signal.
 **Mechanism/Steps:**
 - [[MOC-Metabolomics]] — Parent MOC for metabolomics methods
-parent-moc: "[[MOC-Metabolomics]]"
+parent-moc: [[MOC-Metabolomics]]
 **Purpose/Significance:** Ensures that observed metabolic differences reflect true biological variation rather than pre-analytical artifacts, critical for reliable biomarker discovery.
 **Purpose/Significance:** Maintains analytical consistency and enables detection of technical drift, preventing misinterpretation of instrument artifacts as biological findings.
 **Purpose/Significance:** Prevents false discovery of biological differences that are actually technical artifacts, maintaining scientific rigor in metabolomics analyses.
@@ -154,8 +154,8 @@ reviewed_by: PENDING
 Separation in OPLS-DA alone doesn't confirm biological relevance. The separation might be due to technical or batch effects... Ensure that potential confounding factors (e.g., batch effects) are accounted for.
 ## Snowball References
 > **Source:** ChatGPT conversation [[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]] (2026-03-06)  
-source-inbox: "[[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]]"
-source-litnote: "[[## Source]]"
+source-inbox: [[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]]
+source-litnote: [[## Source]]
 ## Source Reference
 ## Status Checklist
 ## Synthesis Notes

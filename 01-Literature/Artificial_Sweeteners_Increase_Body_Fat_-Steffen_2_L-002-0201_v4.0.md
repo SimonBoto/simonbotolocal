@@ -5,8 +5,8 @@ title: "Artificial Sweeteners Increase Body Fat (Steffen 2023, CARDIA)"
 aliases:
   - "L-002-0201"
   - "Artificial-Sweeteners-Body-Fat"
-source-inbox: "[[INBOX-Article-20-Artificial-Sweeteners]]"
-source-litnote: "[[INBOX-Article-20-Artificial-Sweeteners]]"
+source-inbox: [[INBOX-Article-20-Artificial-Sweeteners]]
+source-litnote: [[INBOX-Article-20-Artificial-Sweeteners]]
 authors: "Steffen BT, Jacobs DR, Yi D, et al."
 year: "2023"
 journal: "International Journal of Obesity"
@@ -15,8 +15,8 @@ pmid: "37443272"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-04"
 zettel-count: 3
 reference-count: 1

@@ -5,8 +5,8 @@ title: "Chronic Diseases Cause 74% of Global Deaths (GBD 2019)"
 aliases:
   - "L-002-0202"
   - "Chronic-Disease-74pct-Deaths"
-source-inbox: "[[INBOX-Article-21-Chronic-Disease]]"
-source-litnote: "[[INBOX-Article-21-Chronic-Disease]]"
+source-inbox: [[INBOX-Article-21-Chronic-Disease]]
+source-litnote: [[INBOX-Article-21-Chronic-Disease]]
 authors: "Global Burden of Disease Collaborative Network"
 year: "2019"
 journal: "The Lancet (GBD 2019)"
@@ -15,8 +15,8 @@ pmid: "36726528"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Diabetes]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Diabetes]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-04"
 zettel-count: 3
 reference-count: 1

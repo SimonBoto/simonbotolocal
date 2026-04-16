@@ -7,8 +7,8 @@ aliases:
   - "L-002-0229"
   - "CAC-Statin-Benefit"
   - "Calcium-Score-Stratification"
-source-inbox: "[[INBOX-Article-44-CAC-Statin]]"
-source-litnote: "[[INBOX-Article-44-CAC-Statin]]"
+source-inbox: [[INBOX-Article-44-CAC-Statin]]
+source-litnote: [[INBOX-Article-44-CAC-Statin]]
 authors: "Szilveszter B, et al."
 year: "2025"
 journal: "JACC Cardiovascular Imaging"
@@ -17,8 +17,8 @@ pmid: "(pending)"
 tier: "SILVER"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Cardiovascular-Health]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Cardiovascular-Health]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-05"
 zettel-count: 3
 reference-count: 1

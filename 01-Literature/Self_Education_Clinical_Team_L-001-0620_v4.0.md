@@ -16,7 +16,7 @@ aliases:
   - Metabolomics Learning Program
 domain: 001
 tags: [litnote, education, clinical-team, metabolomics, personalized-medicine, workflow]
-source: "[[CGPT_0311_Self_Education_Program_Plan_CGPT-0311]]"
+source: [[CGPT_0311_Self_Education_Program_Plan_CGPT-0311]]
 status: complete
 parent-moc: 
 extraction-date: 2026-03-08

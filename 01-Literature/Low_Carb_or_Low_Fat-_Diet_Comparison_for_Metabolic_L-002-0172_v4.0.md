@@ -4,8 +4,8 @@ type: litnote
 title: "Low Carb or Low Fat? Diet Comparison for Metabolic Health (Apekey 2022)"
 aliases:
   - L-002-0172
-source-inbox: "[[INBOX-Article-6-Low-Carb-Low-Fat]]"
-source-litnote: "[[INBOX-Article-6-Low-Carb-Low-Fat]]"
+source-inbox: [[INBOX-Article-6-Low-Carb-Low-Fat]]
+source-litnote: [[INBOX-Article-6-Low-Carb-Low-Fat]]
 authors: "Apekey TA, et al."
 year: "2022"
 journal: "Nutrients"
@@ -14,8 +14,8 @@ pmid: "36297075"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-04"
 zettel-count: 3
 reference-count: 1

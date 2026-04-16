@@ -15,11 +15,11 @@ pmcid: N/A
 tier: GOLD
 relevance: Core systematic review and meta-analysis methodology for PhD research
 status: complete
-parent-moc: "[[MOC-Research]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Research]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-03-07"
-source-inbox: "[[CGPT_0621_Publishing_Meta_Analysis_Guidelines_CGPT-0621]]"
-source-litnote: "[[CGPT_0621_Publishing_Meta_Analysis_Guidelines_CGPT-0621]]"
+source-inbox: [[CGPT_0621_Publishing_Meta_Analysis_Guidelines_CGPT-0621]]
+source-litnote: [[CGPT_0621_Publishing_Meta_Analysis_Guidelines_CGPT-0621]]
 zettel-count: 5
 reference-count: 0
 extracted_by: FORG

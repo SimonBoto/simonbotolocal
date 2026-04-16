@@ -4,8 +4,8 @@ type: litnote
 title: "Inflammation Increases CVD Risk via hsCRP (Kurt 2025)"
 aliases:
   - "L-002-0219"
-source-inbox: "[[INBOX-Article-15-Inflammation-CRP]]"
-source-litnote: "[[INBOX-Article-15-Inflammation-CRP]]"
+source-inbox: [[INBOX-Article-15-Inflammation-CRP]]
+source-litnote: [[INBOX-Article-15-Inflammation-CRP]]
 authors: "Kurt B, Reugels M, Schneider KM, et al."
 year: "2025"
 journal: "European Heart Journal"
@@ -14,8 +14,8 @@ pmid: "41378999"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Immunology]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Immunology]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-04"
 zettel-count: 3
 reference-count: 1

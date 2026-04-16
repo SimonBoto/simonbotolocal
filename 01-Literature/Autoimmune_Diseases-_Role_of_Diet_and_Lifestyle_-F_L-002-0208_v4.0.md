@@ -5,8 +5,8 @@ title: "Autoimmune Diseases: Role of Diet and Lifestyle (Fasano, AIP)"
 aliases:
   - "L-002-0208"
   - "Autoimmune-Diet-Lifestyle"
-source-inbox: "[[INBOX-Article-27-Autoimmune]]"
-source-litnote: "[[INBOX-Article-27-Autoimmune]]"
+source-inbox: [[INBOX-Article-27-Autoimmune]]
+source-litnote: [[INBOX-Article-27-Autoimmune]]
 authors: "Fasano A, et al.; AIP trial investigators"
 year: "2012-2024"
 journal: "Clin Rev Allergy Immunol, Various"
@@ -15,8 +15,8 @@ pmid: "(multiple)"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Autoimmune]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Autoimmune]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-04"
 zettel-count: 3
 reference-count: 1

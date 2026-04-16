@@ -7,8 +7,8 @@ aliases:
   - "L-002-0226"
   - "Coffee-Dementia-Risk"
   - "Caffeine-Neuroprotection"
-source-inbox: "[[INBOX-Article-41-Coffee-Dementia]]"
-source-litnote: "[[INBOX-Article-41-Coffee-Dementia]]"
+source-inbox: [[INBOX-Article-41-Coffee-Dementia]]
+source-litnote: [[INBOX-Article-41-Coffee-Dementia]]
 authors: "Zhang Y, Liu Y, Li Y, et al."
 year: "2026"
 journal: "JAMA"
@@ -17,8 +17,8 @@ pmid: "(pending)"
 tier: "SILVER"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Cognitive-Health]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Cognitive-Health]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-05"
 zettel-count: 3
 reference-count: 1

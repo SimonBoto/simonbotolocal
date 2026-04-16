@@ -7,8 +7,8 @@ aliases:
   - "L-002-0222"
   - "Stopping-Sugar-Carbs"
   - "Low-Carb-Metabolic"
-source-inbox: "[[INBOX-Article-37-Stopping-Sugar-Carbs]]"
-source-litnote: "[[INBOX-Article-37-Stopping-Sugar-Carbs]]"
+source-inbox: [[INBOX-Article-37-Stopping-Sugar-Carbs]]
+source-litnote: [[INBOX-Article-37-Stopping-Sugar-Carbs]]
 authors: "Teicholz N, et al.; Dehghan M, et al.; Harvey CJC, et al."
 year: "2017-2025"
 journal: "Nutrients; Lancet; Nutrition"
@@ -17,8 +17,8 @@ pmid: "(multiple)"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-05"
 zettel-count: 3
 reference-count: 3

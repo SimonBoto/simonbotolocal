@@ -20,8 +20,8 @@ tags:
   - ethics
   - research
 extraction-date: 2026-03-27
-source-litnote: "[[## Source]]"
-source: "[[CGPT_0131_Medical_Ethics_Assistance_CGPT-0131]]"
+source-litnote: [[## Source]]
+source: [[CGPT_0131_Medical_Ethics_Assistance_CGPT-0131]]
 ---
 
 # Lit: Historical Ethics Guidelines — From Nuremberg to ICH-GCP

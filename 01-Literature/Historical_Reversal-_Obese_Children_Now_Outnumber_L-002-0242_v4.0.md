@@ -7,8 +7,8 @@ aliases:
   - "L-002-0242"
   - "Obese-Children-Outnumber-Underweight"
   - "UNICEF-Childhood-Obesity"
-source-inbox: "[[INBOX-Article-54-Obese-Children]]"
-source-litnote: "[[INBOX-Article-54-Obese-Children]]"
+source-inbox: [[INBOX-Article-54-Obese-Children]]
+source-litnote: [[INBOX-Article-54-Obese-Children]]
 authors: "UNICEF"
 year: "2025"
 journal: "UNICEF Global Report"
@@ -17,8 +17,8 @@ pmid: "N/A"
 tier: "SILVER"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Global-Health]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Global-Health]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-05"
 zettel-count: 3
 reference-count: 1

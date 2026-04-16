@@ -12,10 +12,10 @@ tags:
   - twitter
   - branding
   - mitochondria
-parent-moc: "[[MOC-Social-Media]]"
+parent-moc: [[MOC-Social-Media]]
 status: complete
-source-inbox: "[[CGPT_0318_Mitochondrial_Structure_CGPT-0318]]"
-source-litnote: "[[CGPT_0318_Mitochondrial_Structure_CGPT-0318]]"
+source-inbox: [[CGPT_0318_Mitochondrial_Structure_CGPT-0318]]
+source-litnote: [[CGPT_0318_Mitochondrial_Structure_CGPT-0318]]
 ---
 
 
@@ -24,7 +24,7 @@ source-litnote: "[[CGPT_0318_Mitochondrial_Structure_CGPT-0318]]"
 **Date:** July 18, 2024  
 **Messages:** 214 total (strategy focus: 3-155, 163-214)  
 **Context:** Building "DrMito" health influencer profile
-parent-moc: "[[MOC-Mitochondrial-Function]]"
+parent-moc: [[MOC-Mitochondrial-Function]]
 ---
 
 

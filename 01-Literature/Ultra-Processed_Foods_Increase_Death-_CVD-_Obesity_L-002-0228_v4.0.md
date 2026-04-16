@@ -7,8 +7,8 @@ aliases:
   - "L-002-0228"
   - "UPF-Death-CVD-Obesity-Diabetes"
   - "Lane-2024-BMJ"
-source-inbox: "[[INBOX-Article-43-UPF-Health-Risks]]"
-source-litnote: "[[INBOX-Article-43-UPF-Health-Risks]]"
+source-inbox: [[INBOX-Article-43-UPF-Health-Risks]]
+source-litnote: [[INBOX-Article-43-UPF-Health-Risks]]
 authors: "Lane MM, Gamage E, Du S, et al."
 year: "2024"
 journal: "BMJ"
@@ -17,8 +17,8 @@ pmid: "38355169"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-05"
 zettel-count: 3
 reference-count: 1

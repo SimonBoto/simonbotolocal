@@ -7,8 +7,8 @@ aliases:
   - "L-002-0236"
   - "Hong-Kong-Meat-Longevity"
   - "Meat-Longevity-Paradox"
-source-inbox: "[[INBOX-Article-49-Hong-Kong-Meat]]"
-source-litnote: "[[INBOX-Article-49-Hong-Kong-Meat]]"
+source-inbox: [[INBOX-Article-49-Hong-Kong-Meat]]
+source-litnote: [[INBOX-Article-49-Hong-Kong-Meat]]
 authors: "Health & Protection; AHDB; Our World in Data"
 year: "2025"
 journal: "Health & Protection; Various data sources"
@@ -17,8 +17,8 @@ pmid: "N/A"
 tier: "SILVER"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Global-Health]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Global-Health]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-05"
 zettel-count: 3
 reference-count: 1

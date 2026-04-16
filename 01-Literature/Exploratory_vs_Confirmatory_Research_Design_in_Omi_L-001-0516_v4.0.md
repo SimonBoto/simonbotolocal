@@ -26,9 +26,9 @@ tags:
   - validation
   - research-standards
   - omics
-source: "[[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]]"
+source: [[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]]
 status: complete
-parent-moc: "[[MOC-Research]]"
+parent-moc: [[MOC-Research]]
 extraction-date: 2026-03-03
 source-origin: chatgpt-archive
 reviewed_by: "FORG"
@@ -192,7 +192,7 @@ updated: 2026-04-09
 ## Related References
 - [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]] — FDR thresholds by study phase
 - [[LitNote_Power_Analysis_Metabolomics_L-001-0514]] — Power and sample size requirements
-- "[[MOC-Research]]" — Parent MOC
+- [[MOC-Research]] — Parent MOC
 -  — Clinical translation context
 
 ---

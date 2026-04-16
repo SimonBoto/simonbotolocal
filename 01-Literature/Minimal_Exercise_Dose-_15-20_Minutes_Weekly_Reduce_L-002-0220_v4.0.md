@@ -7,8 +7,8 @@ aliases:
   - "L-002-0220"
   - "Minimal-Exercise-Dose"
   - "Exercise-Mortality"
-source-inbox: "[[INBOX-Article-35-Minimal-Exercise]]"
-source-litnote: "[[INBOX-Article-35-Minimal-Exercise]]"
+source-inbox: [[INBOX-Article-35-Minimal-Exercise]]
+source-litnote: [[INBOX-Article-35-Minimal-Exercise]]
 authors: "Ahmadi MN, Clare PJ, Katzmarzyk PT, Lee IM, Stamatakis E"
 year: "2022"
 journal: "European Heart Journal"
@@ -17,8 +17,8 @@ pmid: "(pending)"
 tier: "SILVER"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Exercise-Physiology]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Exercise-Physiology]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-05"
 zettel-count: 3
 reference-count: 1

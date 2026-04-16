@@ -15,13 +15,13 @@ tier: BRONZE
 relevance: "High — TP53 abnormalities, del(17p), p53 dysfunction, MDM2 inhibitors, therapeutic strategies"
 status: complete
 source-origin: legacy
-parent-moc: "[[MOC-Cancer]]"
+parent-moc: [[MOC-Cancer]]
 tags:
   - litnote
   - metabolism
 extraction-date: 2026-03-08
-source-inbox: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
-source-litnote: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
+source-inbox: [[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]
+source-litnote: [[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]
 zettel-count: 2
 reference-count: 0
 reviewed_by: "FORG"

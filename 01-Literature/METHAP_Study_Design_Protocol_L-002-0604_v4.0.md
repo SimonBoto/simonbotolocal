@@ -18,11 +18,11 @@ tags:
   - litnote
   - metabolism
 extraction-date: 2026-03-27
-source-inbox: "[[00-Inbox]]"
-source-litnote: "[[00-Inbox]]"
+source-inbox: [[00-Inbox]]
+source-litnote: [[00-Inbox]]
 zettel-count: 0
 reference-count: 0
-source: "[[CGPT_0359_Compliance_and_Approval_Process_CGPT-0359]]"
+source: [[CGPT_0359_Compliance_and_Approval_Process_CGPT-0359]]
 ---
 
 # Lit: METHAP Study Design and Protocol (CGPT-0359)

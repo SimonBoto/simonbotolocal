@@ -5,8 +5,8 @@ title: "LDL Lowering Does Not Always Mean Greater Protection (Context-Dependent)
 aliases:
   - "L-002-0207"
   - "LDL-Lowering-Not-Always-Protection"
-source-inbox: "[[INBOX-Article-26-LDL-Context]]"
-source-litnote: "[[INBOX-Article-26-LDL-Context]]"
+source-inbox: [[INBOX-Article-26-LDL-Context]]
+source-litnote: [[INBOX-Article-26-LDL-Context]]
 authors: "IMPROVE-IT, PCSK9 Trial Investigators, CANTOS Group"
 year: "2015-2024"
 journal: "NEJM, Lancet, JACC"
@@ -15,8 +15,8 @@ pmid: "(multiple)"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Cholesterol-Quality]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Cholesterol-Quality]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-04"
 zettel-count: 3
 reference-count: 1

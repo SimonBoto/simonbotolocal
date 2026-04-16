@@ -23,10 +23,10 @@ tags:
   - nature-2025
   - nejm-2025
   - facebook-collection
-parent-index: "[[01-Literature 1]]"
-parent-moc: "[[MOC-Cancer]]"
-source-inbox: "[[INBOX-Article-1-Aspirin-Metastasis]]"
-source-litnote: "[[INBOX-Article-1-Aspirin-Metastasis]]"
+parent-index: [[01-Literature 1]]
+parent-moc: [[MOC-Cancer]]
+source-inbox: [[INBOX-Article-1-Aspirin-Metastasis]]
+source-litnote: [[INBOX-Article-1-Aspirin-Metastasis]]
 extraction-date: 2026-04-05
 reference-count: 2
 zettel-count: 5

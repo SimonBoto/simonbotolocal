@@ -4,8 +4,8 @@ type: litnote
 title: "Childhood Obesity Now Exceeds Undernutrition Globally (Kavanagh 2026)"
 aliases:
   - L-002-0179
-source-inbox: "[[INBOX-Article-10-Childhood-Obesity]]"
-source-litnote: "[[INBOX-Article-10-Childhood-Obesity]]"
+source-inbox: [[INBOX-Article-10-Childhood-Obesity]]
+source-litnote: [[INBOX-Article-10-Childhood-Obesity]]
 authors: "Kavanagh ME, Chen ZH, Tamana SK, et al."
 year: "2026"
 journal: "JAMA Network Open"
@@ -13,8 +13,8 @@ doi: "10.1001/jamanetworkopen.2026.0434"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-04"
 zettel-count: 3
 reference-count: 1

@@ -14,11 +14,11 @@ pmcid: "N/A"
 tier: GOLD
 relevance: "High — Core METHAP mechanism; high-dose VitD rationale for IR"
 status: complete
-parent-moc: "[[MOC-Vitamin-D]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Vitamin-D]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-03-01"
-source-inbox: "[[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]"
-source-litnote: "[[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]"
+source-inbox: [[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]
+source-litnote: [[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]
 zettel-count: 4
 reference-count: 0
 reviewed_by: "FORG"
@@ -36,7 +36,7 @@ tags:
 # Lit: Vitamin D — Role in Metabolic Syndrome
 
 ## Source
-- **ChatGPT conversation:** 00-Inbox/Processed/CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]
+- **ChatGPT conversation:** [[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]
 - **Date:** October 09, 2024
 - **Scope:** Chapter 3 — Vitamin D mechanisms in metabolic syndrome: biochemistry, IR, glucose, lipids, inflammation
 
@@ -58,7 +58,7 @@ tags:
 - Genomic effects: Regulates >1000 genes
 - Non-genomic effects: Rapid membrane signaling
 
-**Zettels extracted:** "[[Vitamin_D_Biochemistry_Synthesis_Activation_Z-001-0223]]"
+**Zettels extracted:** [[Vitamin_D_Biochemistry_Synthesis_Activation_Z-001-0223]]
 
 ### 2. Vitamin D and Insulin Sensitivity
 > "Influence on insulin resistance and glucose metabolism."
@@ -79,7 +79,7 @@ tags:
 - Dose-response: Higher D levels correlate with better insulin sensitivity
 - Intervention trials: Supplementation improves HOMA-IR in deficient patients
 
-**Zettels extracted:** "[[Vitamin_D_Insulin_Sensitivity_Glucose_Metabolism_Z-001-0224]]"
+**Zettels extracted:** [[Vitamin_D_Insulin_Sensitivity_Glucose_Metabolism_Z-001-0224]]
 
 ### 3. Vitamin D and Lipid Profiles
 > "Effects on lipid profiles and hypertension."
@@ -96,7 +96,7 @@ tags:
 - **LDL:** Variable effects; may reduce small dense LDL
 - **Blood pressure:** Modest reduction via renin suppression and vascular effects
 
-**Zettels extracted:** "[[Vitamin_D_Lipid_Metabolism_HDL_Triglycerides_Z-001-0225]]"
+**Zettels extracted:** [[Vitamin_D_Lipid_Metabolism_HDL_Triglycerides_Z-001-0225]]
 
 ### 4. Vitamin D and Inflammation in Adipose Tissue
 > "Role in inflammation and adipocyte function."
@@ -117,7 +117,7 @@ tags:
 - High-dose VitD targets this inflammation
 - May reduce visceral adiposity-related inflammation
 
-**Zettels extracted:** "[[Vitamin_D_Inflammation_Adipose_Tissue_Immunomodulation_Z-001-0226]]"
+**Zettels extracted:** [[Vitamin_D_Inflammation_Adipose_Tissue_Immunomodulation_Z-001-0226]]
 
 
 ## Key Figures & Data
@@ -148,19 +148,19 @@ tags:
 
 ## Zettels Created from This Source
 
-1. "[[Vitamin_D_Biochemistry_Synthesis_Activation_Z-001-0223]]"
-2. "[[Vitamin_D_Insulin_Sensitivity_Glucose_Metabolism_Z-001-0224]]"
-3. "[[Vitamin_D_Lipid_Metabolism_HDL_Triglycerides_Z-001-0225]]"
-4. "[[Vitamin_D_Inflammation_Adipose_Tissue_Immunomodulation_Z-001-0226]]"
+1. [[Vitamin_D_Biochemistry_Synthesis_Activation_Z-001-0223]]
+2. [[Vitamin_D_Insulin_Sensitivity_Glucose_Metabolism_Z-001-0224]]
+3. [[Vitamin_D_Lipid_Metabolism_HDL_Triglycerides_Z-001-0225]]
+4. [[Vitamin_D_Inflammation_Adipose_Tissue_Immunomodulation_Z-001-0226]]
 
 
 ## Related References
-- "[[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]]" — Clinical evidence
-- "[[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]]" — Safety framework
-- "[[LitNote_Magnesium_Biochemistry_L-001-0201a]]" — Mg enables D activation
-- "[[LitNote_Metabolic_Syndrome_Overview_L-001-0200]]" — MetS context
-- "[[MOC-Vitamin-D]]" — Parent MOC
-- "[[LitNote_Vitamin_D_Clinical_Applications_L-001-0007]]" — Clinical context
+- [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]] — Clinical evidence
+- [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]] — Safety framework
+- [[LitNote_Magnesium_Biochemistry_L-001-0201a]] — Mg enables D activation
+- [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]] — MetS context
+- [[MOC-Vitamin-D]] — Parent MOC
+- [[LitNote_Vitamin_D_Clinical_Applications_L-001-0007]] — Clinical context
 
 
 *Literature note processed: 2026-03-01*  

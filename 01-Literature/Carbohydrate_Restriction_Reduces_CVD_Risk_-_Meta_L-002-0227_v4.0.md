@@ -7,8 +7,8 @@ aliases:
   - "L-002-0227"
   - "Carb-Restriction-CVD-Meta"
   - "Low-Carb-174-RCTs"
-source-inbox: "[[INBOX-Article-42-Carb-Restriction-CVD]]"
-source-litnote: "[[INBOX-Article-42-Carb-Restriction-CVD]]"
+source-inbox: [[INBOX-Article-42-Carb-Restriction-CVD]]
+source-litnote: [[INBOX-Article-42-Carb-Restriction-CVD]]
 authors: "Various"
 year: "2000-2024"
 journal: "Various (Meta-analysis of 174 RCTs)"
@@ -17,8 +17,8 @@ pmid: "(multiple)"
 tier: "SILVER"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-04-05"
 zettel-count: 3
 reference-count: 1

@@ -16,11 +16,11 @@ pmcid: ""
 tier: GOLD
 relevance: "Critical — METHAP safety monitoring; hypercalcemia prevention"
 status: complete
-parent-moc: "[[MOC-Vitamin-D]]"
-parent-index: "[[02-Literature]]"
+parent-moc: [[MOC-Vitamin-D]]
+parent-index: [[02-Literature]]
 extraction-date: "2026-03-01"
-source-inbox: "[[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]"
-source-litnote: "[[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]"
+source-inbox: [[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]
+source-litnote: [[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]
 zettel-count: 5
 reference-count: 0
 reviewed_by: "FORG"
@@ -64,7 +64,7 @@ tags:
 - **Hypocalcemia:** Tetany, seizures, cardiac arrhythmias
 - **Hypercalcemia:** Weakness, confusion, kidney stones, arrhythmias
 
-**Zettels extracted:** "[[Calcium_Homeostasis_Tight_Regulation_Z-001-0258]]"
+**Zettels extracted:** [[Calcium_Homeostasis_Tight_Regulation_Z-001-0258]]
 
 ### 2. Parathyroid Hormone (PTH) — Master Regulator
 > "PTH is the primary regulator of calcium homeostasis, responding within minutes to changes in serum calcium."
@@ -91,7 +91,7 @@ Low Serum Ca²⁺ → ↑ PTH → ↑ Ca²⁺ (bone, kidney, gut)
 High Serum Ca²⁺ → ↓ PTH
 ```
 
-**Zettels extracted:** "[[PTH_Master_Calcium_Regulator_Z-001-0259]]"
+**Zettels extracted:** [[PTH_Master_Calcium_Regulator_Z-001-0259]]
 
 ### 3. Vitamin D and Calcium Absorption
 > "Vitamin D increases intestinal calcium absorption from 10-15% to 30-40%."
@@ -114,7 +114,7 @@ High Serum Ca²⁺ → ↓ PTH
 - **Risk:** Potential for excessive calcium uptake
 - **Mitigation:** Adequate K2 for direction
 
-**Zettels extracted:** "[[Vitamin_D_Calcium_Absorption_Dose_Response_Z-001-0260]]"
+**Zettels extracted:** [[Vitamin_D_Calcium_Absorption_Dose_Response_Z-001-0260]]
 
 ### 4. Hypercalcemia — Recognition and Management
 > "Hypercalcemia is the primary safety concern with high-dose vitamin D protocols."
@@ -140,7 +140,7 @@ High Serum Ca²⁺ → ↓ PTH
 - **Moderate:** 11.5-13 mg/dL (symptoms may occur)
 - **Severe:** >13 mg/dL (emergency)
 
-**Zettels extracted:** "[[Hypercalcemia_Recognition_Management_Z-001-0261]]"
+**Zettels extracted:** [[Hypercalcemia_Recognition_Management_Z-001-0261]]
 
 ### 5. METHAP Monitoring Protocol
 > "High-dose vitamin D (8000 IU) requires systematic monitoring for calcium homeostasis."
@@ -172,7 +172,7 @@ High Serum Ca²⁺ → ↓ PTH
 - Patient education on symptoms
 - Regular monitoring adherence
 
-**Zettels extracted:** "[[METHAP_Calcium_Monitoring_Protocol_Z-001-0262]]"
+**Zettels extracted:** [[METHAP_Calcium_Monitoring_Protocol_Z-001-0262]]
 
 ---
 
@@ -205,17 +205,17 @@ High Serum Ca²⁺ → ↓ PTH
 ---
 
 ## Zettels Created from This Source
-1. "[[Calcium_Homeostasis_Tight_Regulation_Z-001-0258]]"
-2. "[[PTH_Master_Calcium_Regulator_Z-001-0259]]"
-3. "[[Vitamin_D_Calcium_Absorption_Dose_Response_Z-001-0260]]"
-4. "[[Hypercalcemia_Recognition_Management_Z-001-0261]]"
-5. "[[METHAP_Calcium_Monitoring_Protocol_Z-001-0262]]"
+1. [[Calcium_Homeostasis_Tight_Regulation_Z-001-0258]]
+2. [[PTH_Master_Calcium_Regulator_Z-001-0259]]
+3. [[Vitamin_D_Calcium_Absorption_Dose_Response_Z-001-0260]]
+4. [[Hypercalcemia_Recognition_Management_Z-001-0261]]
+5. [[METHAP_Calcium_Monitoring_Protocol_Z-001-0262]]
 
 ## Related References
-- "[[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]]" — D mechanisms
-- "[[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]]" — D safety
-- "[[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]]" — Mg enables D
-- "[[MOC-Vitamin-D]]" — Parent MOC
+- [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]] — D mechanisms
+- [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]] — D safety
+- [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]] — Mg enables D
+- [[MOC-Vitamin-D]] — Parent MOC
 
 ---
 

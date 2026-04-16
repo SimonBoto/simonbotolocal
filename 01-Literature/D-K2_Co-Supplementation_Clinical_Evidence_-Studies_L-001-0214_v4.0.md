@@ -16,11 +16,11 @@ pmcid: ""
 tier: SILVER
 relevance: "High — Evidence base for METHAP protocol; study design rationale"
 status: complete
-parent-moc: "[[MOC-Vitamin-D]]"
-parent-index: "[[01-Literature 1]]"
+parent-moc: [[MOC-Vitamin-D]]
+parent-index: [[01-Literature 1]]
 extraction-date: "2026-03-01"
-source-inbox: "[[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]"
-source-litnote: "[[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]"
+source-inbox: [[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]
+source-litnote: [[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]
 zettel-count: 5
 reference-count: 0
 reviewed_by: "FORG"
@@ -67,7 +67,7 @@ tags:
 - Multiple metabolic parameters improve
 - Safety profile favorable
 
-**Zettels extracted:** "[[D_K2_Co_Supplementation_Evidence_Overview_Z-001-0263]]"
+**Zettels extracted:** [[D_K2_Co_Supplementation_Evidence_Overview_Z-001-0263]]
 
 ### 2. Key Study Findings
 
@@ -112,7 +112,7 @@ tags:
 - High D + High K = Best outcomes
 - Synergistic association
 
-**Zettels extracted:** "[[D_K2_Key_Studies_Summary_Z-001-0264]]"
+**Zettels extracted:** [[D_K2_Key_Studies_Summary_Z-001-0264]]
 
 ### 3. Metabolic Outcomes with Co-Supplementation
 > "Improved insulin sensitivity, lipid profiles, reduced inflammation, better vascular health."
@@ -141,7 +141,7 @@ tags:
 - Improved endothelial function
 - Mechanism: MGP activation
 
-**Zettels extracted:** "[[D_K2_Metabolic_Outcomes_Co_Supplementation_Z-001-0265]]"
+**Zettels extracted:** [[D_K2_Metabolic_Outcomes_Co_Supplementation_Z-001-0265]]
 
 ### 4. Limitations of Current Research
 > "Small sample sizes, short duration, homogeneous populations, variable dosing."
@@ -166,7 +166,7 @@ tags:
 - Null results underreported
 - Need for registry of trials
 
-**Zettels extracted:** "[[D_K2_Research_Limitations_Gaps_Z-001-0266]]"
+**Zettels extracted:** [[D_K2_Research_Limitations_Gaps_Z-001-0266]]
 
 ### 5. METHAP Contribution to Evidence
 > "METHAP trial addresses multiple gaps: MetS population, systematic monitoring, high-dose protocol."
@@ -196,7 +196,7 @@ tags:
 - Establishes safety profile
 - Informs clinical practice
 
-**Zettels extracted:** "[[METHAP_Evidence_Contribution_Z-001-0267]]"
+**Zettels extracted:** [[METHAP_Evidence_Contribution_Z-001-0267]]
 
 ---
 
@@ -228,17 +228,17 @@ tags:
 ---
 
 ## Zettels Created from This Source
-1. "[[D_K2_Co_Supplementation_Evidence_Overview_Z-001-0263]]"
-2. "[[D_K2_Key_Studies_Summary_Z-001-0264]]"
-3. "[[D_K2_Metabolic_Outcomes_Co_Supplementation_Z-001-0265]]"
-4. "[[D_K2_Research_Limitations_Gaps_Z-001-0266]]"
-5. "[[METHAP_Evidence_Contribution_Z-001-0267]]"
+1. [[D_K2_Co_Supplementation_Evidence_Overview_Z-001-0263]]
+2. [[D_K2_Key_Studies_Summary_Z-001-0264]]
+3. [[D_K2_Metabolic_Outcomes_Co_Supplementation_Z-001-0265]]
+4. [[D_K2_Research_Limitations_Gaps_Z-001-0266]]
+5. [[METHAP_Evidence_Contribution_Z-001-0267]]
 
 ## Related References
-- "[[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]]" — Mechanisms
-- "[[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]]" — D in MetS
-- "[[LitNote_Vitamin_K2_Metabolic_Syndrome_L-001-0206]]" — K2 in MetS
-- "[[MOC-Vitamin-D]]" — Parent MOC
+- [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]] — Mechanisms
+- [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]] — D in MetS
+- [[LitNote_Vitamin_K2_Metabolic_Syndrome_L-001-0206]] — K2 in MetS
+- [[MOC-Vitamin-D]] — Parent MOC
 
 ---
 

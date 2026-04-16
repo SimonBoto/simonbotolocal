@@ -18,11 +18,11 @@ pmcid: N/A
 tier: GOLD
 relevance: Critical — Foundation for lipid management, cardiovascular risk, METHAP metabolic support
 status: complete
-parent-moc: "[[MOC-Lipid-Metabolism]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: [[MOC-Lipid-Metabolism]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-03-01"
-source-inbox: "[[CGPT_0086_Twelve_Hallmarks_of_Aging_Full_List_CGPT-0086]]"
-source-litnote: "[[CGPT_0086_Twelve_Hallmarks_of_Aging_Full_List_CGPT-0086]]"
+source-inbox: [[CGPT_0086_Twelve_Hallmarks_of_Aging_Full_List_CGPT-0086]]
+source-litnote: [[CGPT_0086_Twelve_Hallmarks_of_Aging_Full_List_CGPT-0086]]
 zettel-count: 8
 reference-count: 0
 reviewed_by: "FORG"
