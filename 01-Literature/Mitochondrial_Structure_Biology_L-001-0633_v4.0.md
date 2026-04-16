@@ -7,7 +7,7 @@ aliases:
   - CGPT-0318-Biology
 domain: 001
 tags:
-  - lit-note
+  - litnote
   - mitochondria
   - structure
   - biochemistry

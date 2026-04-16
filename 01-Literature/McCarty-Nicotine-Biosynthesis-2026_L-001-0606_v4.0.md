@@ -15,7 +15,7 @@ status: complete
 reviewed_by: "FORG"
 parent-moc: "[[MOC-Metabolic-Pathways]]"
 tags:
-  - lit-note
+  - litnote
   - metabolism
 extraction-date: "2026-04-04"
 ---

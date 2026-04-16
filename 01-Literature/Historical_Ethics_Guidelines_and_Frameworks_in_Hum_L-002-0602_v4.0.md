@@ -16,7 +16,7 @@ status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-Research-Ethics]]
 tags:
-  - lit-note
+  - litnote
   - ethics
   - research
 extraction-date: 2026-03-27

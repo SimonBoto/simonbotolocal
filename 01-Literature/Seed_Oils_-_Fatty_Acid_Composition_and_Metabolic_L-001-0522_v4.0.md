@@ -19,7 +19,7 @@ aliases:
   - Metabolic Fate
 domain: 001
 tags:
-  - lit-note
+  - litnote
   - seed-oils
   - fatty-acids
   - linoleic-acid

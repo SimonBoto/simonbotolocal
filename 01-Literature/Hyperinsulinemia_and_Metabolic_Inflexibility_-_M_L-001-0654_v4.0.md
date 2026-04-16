@@ -26,7 +26,7 @@ reviewed_by: "RON"
 created: "2026-03-11"
 updated: "2026-04-09"
 tags:
-  - lit-note
+  - litnote
   - hyperinsulinemia
   - metabolic-inflexibility
   - beta-oxidation

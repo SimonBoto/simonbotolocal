@@ -30,7 +30,7 @@ created: "2026-03-01"
 updated: "2026-04-09"
 reviewed_by: "FORG"
 tags:
-  - lit-note
+  - litnote
   - mevalonate-pathway
   - hmg-coa-reductase
   - cholesterol-synthesis

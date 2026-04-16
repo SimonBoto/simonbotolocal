@@ -19,7 +19,7 @@ reviewed_by: "FORG"
 created: "2026-02-24"
 updated: "2026-04-09"
 tags:
-  - lit-note
+  - litnote
   - insulin-resistance
   - metabolic-pathways
   - synthesis-document

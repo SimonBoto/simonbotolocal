@@ -26,7 +26,7 @@ reviewed_by: "FORG"
 created: "2026-03-01"
 updated: "2026-04-09"
 tags:
-  - lit-note
+  - litnote
   - mthfr
   - genetics
   - methylation

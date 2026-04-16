@@ -22,7 +22,7 @@ zettel-count: 5
 reference-count: 4
 reviewed_by: RON
 tags:
-  - lit-note
+  - litnote
   - vitamin-d
   - rda
   - statistical-error

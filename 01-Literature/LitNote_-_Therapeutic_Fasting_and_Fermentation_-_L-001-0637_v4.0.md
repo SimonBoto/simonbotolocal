@@ -13,7 +13,7 @@ status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-Gut-Health]]
 tags:
-  - lit-note
+  - litnote
   - metabolism
 extraction-date: 2026-03-09
 source-litnote: "[[## Source]]"

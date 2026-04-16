@@ -25,7 +25,7 @@ reference-count: 3
 reviewed_by: "FORG"
 updated: "2026-04-09"
 tags:
-  - lit-note
+  - litnote
   - cvd
   - risk-factors
   - ranking

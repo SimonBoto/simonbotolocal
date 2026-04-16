@@ -14,7 +14,7 @@ status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-Research-Ethics]]
 tags:
-  - lit-note
+  - litnote
   - chatgpt
   - phd
 parent-index: [[01-Literature]]

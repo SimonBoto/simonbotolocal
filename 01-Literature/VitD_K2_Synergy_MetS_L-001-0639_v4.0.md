@@ -14,7 +14,7 @@ status: complete
 source-origin: legacy
 parent-moc: "[[MOC-Vitamin-D]]"
 tags:
-  - lit-note
+  - litnote
   - metabolism
 extraction-date: 2026-03-09
 source-inbox: "[[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]"

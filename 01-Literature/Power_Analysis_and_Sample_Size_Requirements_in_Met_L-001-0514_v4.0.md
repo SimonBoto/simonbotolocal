@@ -28,7 +28,7 @@ reviewed_by: "FORG"
 created: "2026-03-02"
 updated: "2026-04-09"
 tags:
-  - lit-note
+  - litnote
   - power-analysis
   - sample-size
   - metabolomics

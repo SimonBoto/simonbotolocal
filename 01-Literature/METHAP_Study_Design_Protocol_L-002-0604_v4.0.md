@@ -15,7 +15,7 @@ relevance: "Critical — Complete IRB application for METHAP trial, study design
 status: complete
 parent-moc: 
 tags:
-  - lit-note
+  - litnote
   - metabolism
 extraction-date: 2026-03-27
 source-inbox: "[[00-Inbox]]"

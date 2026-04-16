@@ -15,7 +15,7 @@ status: complete
 reviewed_by: "FORG"
 parent-moc: "[[MOC-Vitamin-Mineral-Axis]]"
 tags:
-  - lit-note
+  - litnote
   - metabolism
 extraction-date: "2026-04-04"
 ---

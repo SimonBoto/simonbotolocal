@@ -16,7 +16,7 @@ status: complete
 reviewed_by: "FORG"
 parent-moc:
 tags:
-  - lit-note
+  - litnote
   - metabolism
   - - MOC-Cancer-Therapy
 extraction-date: 2026-03-08

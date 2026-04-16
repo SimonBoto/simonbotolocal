@@ -19,7 +19,7 @@ aliases:
   - Protein Intake
 domain: 001
 tags:
-  - lit-note
+  - litnote
   - protein-restriction
   - ckd
   - kidney-disease

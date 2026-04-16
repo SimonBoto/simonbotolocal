@@ -21,7 +21,7 @@ zettel-count: 0
 reference-count: 0
 reviewed_by: RON
 tags:
-  - lit-note
+  - litnote
   - lp(a)
   - lipoprotein
   - genetic-risk

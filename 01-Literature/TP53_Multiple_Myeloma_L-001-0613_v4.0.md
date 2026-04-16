@@ -17,7 +17,7 @@ status: complete
 source-origin: legacy
 parent-moc: "[[MOC-Cancer]]"
 tags:
-  - lit-note
+  - litnote
   - metabolism
 extraction-date: 2026-03-08
 source-inbox: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"

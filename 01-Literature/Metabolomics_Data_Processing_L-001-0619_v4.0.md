@@ -17,7 +17,7 @@ status: complete
 source-origin: legacy
 parent-moc: "[[MOC-Metabolomics]]"
 tags:
-  - lit-note
+  - litnote
   - metabolism
 extraction-date: 2026-03-08
 source-inbox: "[[00-Inbox]]"

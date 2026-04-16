@@ -25,7 +25,7 @@ reference-count: 1
 reviewed_by: "FORG"
 updated: "2026-04-09"
 tags:
-  - lit-note
+  - litnote
   - five-risk-factors
   - modifiable
   - longevity

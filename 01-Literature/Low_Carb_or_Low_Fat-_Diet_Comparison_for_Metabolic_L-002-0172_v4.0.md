@@ -21,7 +21,7 @@ zettel-count: 3
 reference-count: 1
 reviewed_by: RON
 tags:
-  - lit-note
+  - litnote
   - low-carb
   - low-fat
   - diet-comparison

@@ -16,7 +16,7 @@ status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-Metabolomics]]
 tags:
-  - lit-note
+  - litnote
   - metabolism
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-08

@@ -27,7 +27,7 @@ domain: 001
 reviewed_by: "FORG"
 updated: "2026-04-09"
 tags:
-  - lit-note
+  - litnote
   - mevalonate-pathway
   - cholesterol
   - hmg-coa-reductase

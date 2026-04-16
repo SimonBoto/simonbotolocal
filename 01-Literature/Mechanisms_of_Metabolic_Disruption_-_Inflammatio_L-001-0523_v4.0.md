@@ -20,7 +20,7 @@ aliases:
   - Seed Oils
 domain: 001
 tags:
-  - lit-note
+  - litnote
   - metabolic-disruption
   - inflammation
   - oxidative-stress

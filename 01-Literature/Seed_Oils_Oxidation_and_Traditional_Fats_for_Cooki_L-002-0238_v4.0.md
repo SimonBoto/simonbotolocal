@@ -25,7 +25,7 @@ reference-count: 5
 reviewed_by: "FORG"
 updated: "2026-04-09"
 tags:
-  - lit-note
+  - litnote
   - seed-oils
   - oxidation
   - traditional-fats

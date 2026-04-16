@@ -21,7 +21,7 @@ zettel-count: 4
 reference-count: 1
 reviewed_by: RON
 tags:
-  - lit-note
+  - litnote
   - ldl
   - cholesterol
   - mortality

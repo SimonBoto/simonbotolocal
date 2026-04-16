@@ -18,7 +18,7 @@ aliases:
   - Methodology Critique
 domain: 001
 tags:
-  - lit-note
+  - litnote
   - scientific-writing
   - critical-assessment
   - study-evaluation

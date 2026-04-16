@@ -16,7 +16,7 @@ status: complete
 reviewed_by: "FORG"
 parent-moc: 
 tags:
-  - lit-note
+  - litnote
   - metabolism
 extraction-date: 2026-02-23
 source-litnote: "[[## Source]]"

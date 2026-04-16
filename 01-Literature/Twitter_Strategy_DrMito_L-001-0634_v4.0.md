@@ -7,7 +7,7 @@ aliases:
   - CGPT-0318-Strategy
 domain: 001
 tags:
-  - lit-note
+  - litnote
   - social-media
   - twitter
   - branding

@@ -22,7 +22,7 @@ zettel-count: 3
 reference-count: 1
 reviewed_by: RON
 tags:
-  - lit-note
+  - litnote
   - chronic-disease
   - NCD
   - global-health

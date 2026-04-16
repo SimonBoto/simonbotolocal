@@ -18,7 +18,7 @@ aliases:
   - OPLS-DA Limitations
 domain: 001
 tags:
-  - lit-note
+  - litnote
   - batch-effects
   - technical-artifacts
   - metabolomics

@@ -25,7 +25,7 @@ reviewed_by: "FORG"
 created: "2026-03-04"
 updated: "2026-04-09"
 tags:
-  - lit-note
+  - litnote
   - oxalic-acid
   - dicarboxylic-acids
   - amino-acids

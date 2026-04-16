@@ -15,7 +15,7 @@ relevance: Critical — RCT structure, inclusion criteria, intervention protocol
 status: complete
 parent-moc: 
 tags:
-  - lit-note
+  - litnote
   - metabolism
 extraction-date: 2026-03-08
 source-inbox: "[[00-Inbox]]"
