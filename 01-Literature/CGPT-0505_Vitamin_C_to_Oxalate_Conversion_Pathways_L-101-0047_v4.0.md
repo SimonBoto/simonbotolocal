@@ -131,7 +131,7 @@ C₆H₆O₆ → C₂H₂O₄ + 4C (lost as CO₂/other)
 ---
 
 ---
-parent-index: [[01-Literature 1]]
+parent-index: [[01-Literature-Index]]
 
 ## Status Checklist
 

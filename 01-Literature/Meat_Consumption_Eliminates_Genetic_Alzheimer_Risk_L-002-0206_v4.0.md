@@ -78,7 +78,7 @@ tags:
 - **MOC:** [[MOC-Nutrition]] — Thematic domain
 - **INBOX:** [[INBOX-Article-25-Meat-Alzheimer]] — Article source
 - **Reference:** [[Norgren_2026_Meat_APOE4_Dementia_R-002-0046]] — Primary source
-- **Index:** [[01-Literature 1]] — Container
+- **Index:** [[01-Literature-Index]] — Container
 
 ---
 

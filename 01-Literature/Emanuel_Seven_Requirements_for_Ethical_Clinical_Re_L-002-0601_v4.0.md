@@ -137,7 +137,7 @@ This framework applies universally, though adaptations may be needed for local h
 ---
 
 ---
-parent-index: [[01-Literature 1]]
+parent-index: [[01-Literature-Index]]
 
 ## Status Checklist
 

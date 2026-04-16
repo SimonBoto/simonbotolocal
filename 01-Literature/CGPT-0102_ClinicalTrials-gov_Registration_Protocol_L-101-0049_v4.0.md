@@ -204,7 +204,7 @@ Create complete ClinicalTrials.gov registration documents for the METHAP PhD tri
 ---
 
 ---
-parent-index: [[01-Literature 1]]
+parent-index: [[01-Literature-Index]]
 
 ## Status Checklist
 

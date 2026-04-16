@@ -230,7 +230,7 @@ Glomerular damage (chronic) → Proteinuria → Progression to ESRD
 ---
 
 ---
-parent-index: [[01-Literature 1]]
+parent-index: [[01-Literature-Index]]
 
 ## Status Checklist
 

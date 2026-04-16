@@ -77,7 +77,7 @@ Even **15-20 minutes of vigorous exercise per week** is associated with **16-40%
 - **MOC:** [[MOC-Clinical-Metabolomics]] — Thematic domain
 - **INBOX:** [[INBOX-Article-16-Minimal-Exercise]] — Article source
 - **Reference:** [[PoloLopez_2024_Minimal_Exercise_Mortality_R-002-0032]] — Primary source
-- **Index:** [[01-Literature 1]] — Container
+- **Index:** [[01-Literature-Index]] — Container
 
 ---
 

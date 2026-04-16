@@ -81,7 +81,7 @@ tags:
 - **MOC:** [[MOC-Cholesterol-Lipid]] — Thematic domain
 - **INBOX:** [[INBOX-Article-55-Animal-Fat]] — Article source
 - **Reference:** [[Tokyo_Animal_Saturated_Fat_Not_Mortality_R-002-0067]] — Primary source
-- **Index:** [[01-Literature 1]] — Container
+- **Index:** [[01-Literature-Index]] — Container
 
 ---
 

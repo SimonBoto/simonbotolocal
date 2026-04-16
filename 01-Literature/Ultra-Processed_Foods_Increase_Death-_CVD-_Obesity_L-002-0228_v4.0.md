@@ -84,7 +84,7 @@ tags:
 - **MOC:** [[MOC-Metabolic-Syndrome]] — Thematic domain
 - **INBOX:** [[INBOX-Article-43-UPF-Health-Risks]] — Article source
 - **Reference:** [[Lane_2024_BMJ_UPF_Metaanalysis_R-002-0021]] — Primary source
-- **Index:** [[01-Literature 1]] — Container
+- **Index:** [[01-Literature-Index]] — Container
 
 ---
 

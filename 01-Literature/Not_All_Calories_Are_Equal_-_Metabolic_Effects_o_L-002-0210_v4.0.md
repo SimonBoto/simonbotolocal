@@ -76,7 +76,7 @@ tags:
 - **MOC:** [[MOC-Metabolic-Syndrome]] — Thematic domain
 - **INBOX:** [[INBOX-Article-29-Calories]] — Article source
 - **Reference:** [[Calories_Not_Equal_Metabolic_R-002-0050]] — Primary source
-- **Index:** [[01-Literature 1]] — Container
+- **Index:** [[01-Literature-Index]] — Container
 
 ---
 

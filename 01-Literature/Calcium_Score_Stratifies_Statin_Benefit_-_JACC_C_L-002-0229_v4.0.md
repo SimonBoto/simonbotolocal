@@ -81,7 +81,7 @@ tags:
 - **MOC:** [[MOC-Cardiovascular-Health]] — Thematic domain
 - **INBOX:** [[INBOX-Article-44-CAC-Statin]] — Article source
 - **Reference:** [[Szilveszter_2025_CAC_Statin_Benefit_R-002-0060]] — Primary source
-- **Index:** [[01-Literature 1]] — Container
+- **Index:** [[01-Literature-Index]] — Container
 
 ---
 

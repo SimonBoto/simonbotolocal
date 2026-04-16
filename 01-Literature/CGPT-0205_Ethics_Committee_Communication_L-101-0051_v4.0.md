@@ -99,7 +99,7 @@ PhD candidate experiencing 6-month delay in ethics committee response; seeking g
 ---
 
 ---
-parent-index: [[01-Literature 1]]
+parent-index: [[01-Literature-Index]]
 
 ## Status Checklist
 

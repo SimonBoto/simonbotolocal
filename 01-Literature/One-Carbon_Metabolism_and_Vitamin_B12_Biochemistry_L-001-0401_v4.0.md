@@ -17,7 +17,7 @@ tier: GOLD
 relevance: "Critical — Foundation for methylation, DNA synthesis, METHAP cofactor understanding"
 status: complete
 parent-moc: [[MOC-Methylation]]
-parent-index: [[01-Literature 1]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-03-01"
 source-inbox: [[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]
 source-litnote: [[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]

@@ -81,7 +81,7 @@ tags:
 - **MOC:** [[MOC-Exercise-Physiology]] — Thematic domain
 - **INBOX:** [[INBOX-Article-35-Minimal-Exercise]] — Article source
 - **Reference:** [[Ahmadi_2022_Vigorous_Physical_Activity_R-001-0041]] — Primary source
-- **Index:** [[01-Literature 1]] — Container
+- **Index:** [[01-Literature-Index]] — Container
 
 ---
 

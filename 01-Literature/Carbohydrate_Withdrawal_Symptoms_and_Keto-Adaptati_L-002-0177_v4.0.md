@@ -77,7 +77,7 @@ Carbohydrate restriction produces transient withdrawal symptoms (fatigue, irrita
 - **MOC:** [[MOC-Metabolic-Syndrome]] — Thematic domain
 - **INBOX:** [[INBOX-Article-18-Carb-Withdrawal]] — Article source
 - **Reference:** [[Harvey_2019_Carb_Withdrawal_KetoAdaptation_R-002-0033]] — Primary source
-- **Index:** [[01-Literature 1]] — Container
+- **Index:** [[01-Literature-Index]] — Container
 
 ---
 

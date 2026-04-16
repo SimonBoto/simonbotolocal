@@ -82,7 +82,7 @@ tags:
 - **MOC:** [[MOC-Global-Health]] — Thematic domain
 - **INBOX:** [[INBOX-Article-45-Five-Risk-Factors]] — Article source
 - **Reference:** [[NEJM_2025_Global_CV_Risk_Lifetime_Estimates_R-002-0037]] — Primary source
-- **Index:** [[01-Literature 1]] — Container
+- **Index:** [[01-Literature-Index]] — Container
 
 ---
 

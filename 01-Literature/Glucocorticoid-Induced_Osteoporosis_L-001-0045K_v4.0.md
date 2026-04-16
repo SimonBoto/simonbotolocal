@@ -178,7 +178,7 @@ tags:
 ---
 
 ---
-parent-index: [[01-Literature 1]]
+parent-index: [[01-Literature-Index]]
 
 *Literature note processed: 2026-03-06 | Updated to v4.0: 2026-04-09*
 *Zettels extracted: 4 | Status: complete*

@@ -17,7 +17,7 @@ tier: GOLD
 relevance: "High — METHAP safety rationale; cardiovascular protection mechanisms"
 status: complete
 parent-moc: [[MOC-Cardiovascular-Health]]
-parent-index: [[01-Literature 1]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-03-01"
 source-inbox: [[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]
 source-litnote: [[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]

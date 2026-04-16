@@ -17,7 +17,7 @@ tier: BRONZE
 relevance: "Low-Medium — Cultural nutrition history; sanitarium movement"
 status: complete
 parent-moc: [[MOC-Nutrition]]
-parent-index: [[01-Literature 1]]
+parent-index: [[01-Literature-Index]]
 extraction-date: "2026-03-01"
 source-inbox: [[CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471]]
 source-litnote: [[CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471]]

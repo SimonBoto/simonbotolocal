@@ -75,7 +75,7 @@ Consumption of fried potatoes in seed oils increases type 2 diabetes risk by app
 ## Structural Links
 - **Up:** [[MOC-Metabolic-Syndrome]] — Thematic domain
 - **Inbox:** [[INBOX-Article-7-Fried-Potatoes]] — Raw origin
-- **Index:** [[01-Literature 1]] — Container
+- **Index:** [[01-Literature-Index]] — Container
 
 ---
 

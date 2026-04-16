@@ -384,7 +384,7 @@ This unit bridges foundational metabolomics (DE1-DE2) to **clinical application*
 ---
 
 ---
-parent-index: [[01-Literature 1]]
+parent-index: [[01-Literature-Index]]
 
 ## Status Checklist
 

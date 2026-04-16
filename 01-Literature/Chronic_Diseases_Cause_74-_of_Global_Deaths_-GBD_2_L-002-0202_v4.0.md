@@ -76,7 +76,7 @@ tags:
 - **MOC:** [[MOC-Diabetes]] — Thematic domain
 - **INBOX:** [[INBOX-Article-21-Chronic-Disease]] — Article source
 - **Reference:** [[GBD_2019_NCD_Global_Burden_R-002-0042]] — Primary source
-- **Index:** [[01-Literature 1]] — Container
+- **Index:** [[01-Literature-Index]] — Container
 
 ---
 

@@ -76,7 +76,7 @@ tags:
 - **MOC:** [[MOC-Metabolic-Syndrome]] — Thematic domain
 - **INBOX:** [[INBOX-Article-30-Fried-Potatoes]] — Article source
 - **Reference:** [[Fried_Potatoes_Seed_Oils_Diabetes_R-002-0051]] — Primary source
-- **Index:** [[01-Literature 1]] — Container
+- **Index:** [[01-Literature-Index]] — Container
 
 ---
 

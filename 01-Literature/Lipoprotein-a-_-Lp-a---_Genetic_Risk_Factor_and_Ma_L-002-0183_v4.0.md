@@ -75,7 +75,7 @@ tags:
 - **MOC:** [[MOC-Cholesterol-Quality]] — Thematic domain
 - **INBOX:** [[INBOX-Article-14-Lp(a)-Genetic-Risk]] — Article source
 - **Reference:** [[Kamstrup_2009_Lp(a)_Genetic_MI_Risk_R-002-0039]] — Primary source
-- **Index:** [[01-Literature 1]] — Container
+- **Index:** [[01-Literature-Index]] — Container
 
 ---
 

@@ -81,7 +81,7 @@ tags:
 - **MOC:** [[MOC-Cognitive-Health]] — Thematic domain
 - **INBOX:** [[INBOX-Article-41-Coffee-Dementia]] — Article source
 - **Reference:** [[Zhang_2026_Coffee_Tea_Dementia_R-001-0094]] — Primary source
-- **Index:** [[01-Literature 1]] — Container
+- **Index:** [[01-Literature-Index]] — Container
 
 ---
 

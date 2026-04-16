@@ -140,7 +140,7 @@ source: [[CGPT_0081_PhD_Protocol_Summary_CGPT-0081]]
 ---
 
 ---
-parent-index: [[01-Literature 1]]
+parent-index: [[01-Literature-Index]]
 
 ## Status Checklist
 

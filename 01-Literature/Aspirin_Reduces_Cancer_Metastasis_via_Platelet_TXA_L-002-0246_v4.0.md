@@ -23,7 +23,7 @@ tags:
   - nature-2025
   - nejm-2025
   - facebook-collection
-parent-index: [[01-Literature 1]]
+parent-index: [[01-Literature-Index]]
 parent-moc: [[MOC-Cancer]]
 source-inbox: [[INBOX-Article-1-Aspirin-Metastasis]]
 source-litnote: [[INBOX-Article-1-Aspirin-Metastasis]]
@@ -158,7 +158,7 @@ pmid: "40044852"
 ## Structural Links
 - **Up:** [[MOC-Cancer]] — Thematic domain
 - **Inbox:** [[INBOX-Article-1-Aspirin-Metastasis]] — Raw origin
-- **Index:** [[01-Literature 1]] — Container
+- **Index:** [[01-Literature-Index]] — Container
 
 ---
 

@@ -76,7 +76,7 @@ tags:
 - **MOC:** [[MOC-Clinical-Metabolomics]] — Thematic domain
 - **INBOX:** [[INBOX-Article-32-Modifiable]] — Article source
 - **Reference:** [[Lifestyle_Factors_Modifiable_R-002-0053]] — Primary source
-- **Index:** [[01-Literature 1]] — Container
+- **Index:** [[01-Literature-Index]] — Container
 
 ---
 

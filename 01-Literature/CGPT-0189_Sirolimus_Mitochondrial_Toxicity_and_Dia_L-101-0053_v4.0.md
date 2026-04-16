@@ -171,7 +171,7 @@ Sirolimus → mTORC2 inhibition → ↓ Akt phosphorylation → Insulin resistan
 ---
 
 ---
-parent-index: [[01-Literature 1]]
+parent-index: [[01-Literature-Index]]
 
 ## Status Checklist
 

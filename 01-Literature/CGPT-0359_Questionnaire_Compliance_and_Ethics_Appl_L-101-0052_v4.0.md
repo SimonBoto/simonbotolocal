@@ -163,7 +163,7 @@ Seeking ethics approval for multiple questionnaires (SF-36, FFQ, Numex, 24-hour 
 ---
 
 ---
-parent-index: [[01-Literature 1]]
+parent-index: [[01-Literature-Index]]
 
 ## Status Checklist
 

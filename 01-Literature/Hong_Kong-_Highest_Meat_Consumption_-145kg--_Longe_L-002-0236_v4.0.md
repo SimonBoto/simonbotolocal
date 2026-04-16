@@ -80,7 +80,7 @@ tags:
 - **MOC:** [[MOC-Global-Health]] — Thematic domain
 - **INBOX:** [[INBOX-Article-49-Hong-Kong-Meat]] — Article source
 - **Reference:** [[Hong_Kong_Meat_Longevity_Population_Data_R-002-0063]] — Primary source
-- **Index:** [[01-Literature 1]] — Container
+- **Index:** [[01-Literature-Index]] — Container
 
 ---
 
