@@ -19,7 +19,7 @@ status: active
 
 Transform weekly operational churn into lasting knowledge structure.
 
-**Duration:** 30–45 minutes  
+**Duration:** 40–50 minutes  
 **Frequency:** Weekly (Sunday evening)  
 **Skip phrase:** "skip weekly" — no guilt, resume next Sunday
 
@@ -68,7 +68,35 @@ Transform weekly operational churn into lasting knowledge structure.
 
 ---
 
-## Phase 3: Synthesis Opportunities (15 min)
+## Phase 3: Vault Health Check (L4.2) (10 min)
+
+### Input
+- Vault state metrics
+- Git status
+- System integrity indicators
+
+### Process
+1. Count orphan zettels (no source-litnote)
+2. Check broken link count (target: <500)
+3. Verify MOC count stable (target: ~79)
+4. Check for YAML drift (new non-compliant files)
+5. Review FORG workspace queue
+
+### Output
+- Health report in weekly memory log
+- Flag urgent items for Monday
+- Queue non-urgent fixes for next session
+
+### Thresholds
+| Metric | Green | Yellow | Red |
+|--------|-------|--------|-----|
+| Orphan zettels | <150 | 150-200 | >200 |
+| Broken links | <500 | 500-800 | >800 |
+| MOC drift | ±2 | ±5 | >±5 |
+
+---
+
+## Phase 4: Synthesis Opportunities (10 min)
 
 ### Input
 - Cross-cutting patterns from Phase 1
@@ -107,7 +135,13 @@ Transform weekly operational churn into lasting knowledge structure.
 - [ ] Move qualified zettels
 - [ ] Update indexes
 
-### Phase 3
+### Phase 3 (Vault Health)
+- [ ] Count orphan zettels
+- [ ] Check broken links
+- [ ] Verify MOC stability
+- [ ] Flag urgent items
+
+### Phase 4
 - [ ] Review permanent questions
 - [ ] Check synthesis triggers
 - [ ] Flag new opportunities
