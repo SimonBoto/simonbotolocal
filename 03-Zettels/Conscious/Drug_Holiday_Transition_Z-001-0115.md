@@ -13,7 +13,7 @@ tags: []
   - sequential-therapy
   - osteoporosis
 parent-moc: "[[MOC-Clinical-Metabolomics]]"
-source-litnote: "[[Drug_Transition_Protocols_—_Sequential_Therapy_in_Osteopor_L-001-0018_v4.0]]"
+source-litnote: "[[Denosumab_Mechanism_Rebound_Effect_and_Discontinuation_Proto_L-001-0012]]"
 extraction-date: 2026-04-15
 status: conscious
 ---
@@ -21,7 +21,7 @@ status: conscious
 # Drug Holiday Transition
 ## Source
 
-[[Drug_Transition_Protocols_—_Sequential_Therapy_in_Osteopor_L-001-0018_v4.0]]
+[[Denosumab_Mechanism_Rebound_Effect_and_Discontinuation_Proto_L-001-0012]]
 
 ## Status Checklist
 
@@ -38,7 +38,7 @@ status: conscious
 
 ## Source
 
-[[Drug_Transition_Protocols_—_Sequential_Therapy_in_Osteopor_L-001-0018_v4.0]]
+[[Denosumab_Mechanism_Rebound_Effect_and_Discontinuation_Proto_L-001-0012]]
 
 ## Core Concept
 

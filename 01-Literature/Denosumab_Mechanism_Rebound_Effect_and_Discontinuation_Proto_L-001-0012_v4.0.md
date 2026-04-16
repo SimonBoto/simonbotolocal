@@ -66,6 +66,49 @@ tags:
 
 **Zettel extracted:** [[Denosumab_ONJ_Atypical_Fractures_Z-001-0089]]
 
+---
+
+## Sequential Therapy Protocols (from CGPT-0133)
+
+### 6. Teriparatide → Antiresorptive Transition
+> "Switching from anabolic to antiresorptive therapy preserves bone mass gains after the anabolic phase concludes."
+
+**Standard Protocol:**
+- **Timing:** Begin antiresorptive immediately after final teriparatide dose
+- **Preferred agents:** Alendronate (oral) or Zoledronic acid (IV)
+- **Rationale:** Prevents rapid bone loss in first 6–12 months post-teriparatide
+
+**Evidence:** ALGOB study, BONE study
+
+**Zettel extracted:** [[Anabolic_to_Antiresorptive_Transition_Z-001-0113]]
+
+### 7. Abaloparatide → Antiresorptive Transition
+**Standard Protocol:**
+- **Timing:** Same as teriparatide — immediate transition
+- **Preferred agents:** Alendronate or denosumab
+- **Considerations:** Denosumab preferred for GI issues
+
+**Zettel extracted:** [[Drug_Holiday_Transition_Z-001-0115]]
+
+### 8. Romosozumab → Antiresorptive Transition
+**Standard Protocol:**
+- **Timing:** Start antiresorptive at end of 12-month romosozumab course
+- **Preferred agents:** Denosumab or alendronate
+
+**Evidence:** FRAME study extension, ARCH study
+
+**Zettel extracted:** [[Sequential_Therapy_Protocol_Z-001-0116]]
+
+### 9. Antiresorptive → Antiresorptive Transition
+**Common Scenarios:**
+- Bisphosphonate → Denosumab (GI intolerance, inadequate response)
+- Denosumab → Bisphosphonate (infection risk, cost)
+- Bisphosphonate → Teriparatide (inadequate response)
+
+**Critical:** Denosumab discontinuation requires immediate bridging
+
+**Zettel extracted:** [[Antiresorptive_to_Antiresorptive_Transition_Z-001-0114]]
+
 
 ---
 
@@ -98,6 +141,10 @@ tags:
 3. [[Denosumab_Bisphosphonate_Transition_Protocol_Z-001-0087]]
 4. [[Denosumab_Hypocalcemia_Risk_Z-001-0088]]
 5. [[Denosumab_ONJ_Atypical_Fractures_Z-001-0089]]
+6. [[Anabolic_to_Antiresorptive_Transition_Z-001-0113]]
+7. [[Drug_Holiday_Transition_Z-001-0115]]
+8. [[Sequential_Therapy_Protocol_Z-001-0116]]
+9. [[Antiresorptive_to_Antiresorptive_Transition_Z-001-0114]]
 
 ## Related References
 - [[LitNote_Bone_Remodeling_Cellular_Mechanisms_L-001-0011]] — RANK/RANKL biology
