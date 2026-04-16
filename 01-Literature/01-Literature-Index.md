@@ -25,10 +25,10 @@ parent-moc: [[MOC-Research]]
 
 | Metric | Count |
 |--------|-------|
-| **Total LitNotes** | **219** |
-| Complete (ready) | 144 (66%) |
-| Active (needs zettels) | 77 (35%) |
-| L-001 (Insulin/Metabolism) | ~180 |
+| **Total LitNotes** | **221** |
+| Complete (ready) | 146 (66%) |
+| Active (needs zettels) | 75 (34%) |
+| L-001 (Insulin/Metabolism) | ~182 |
 | L-101 (Pharmacometabolomics) | ~15 |
 | L-002 (Facebook Collection) | 55 |
 
@@ -36,7 +36,7 @@ parent-moc: [[MOC-Research]]
 
 ## 📁 All Literature Notes
 
-{{query: TABLE title, status, zettel-count FROM "01-Literature" WHERE type = "lit-note" SORT uid ASC}}
+{{query: TABLE title, status, zettel-count FROM "01-Literature" WHERE type = "litnote" SORT uid ASC}}
 
 ---
 
