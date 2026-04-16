@@ -62,7 +62,7 @@ This finding shifts the clinical perspective on diabetes from being primarily a 
 - [[Population_Attributable_Fraction_Burden_Z-001-0005]]
 
 ## Related
-- [[L-001-0001_Diabetes_CVD_Global_Burden_NEJM_2023]]
+- [[Diabetes_CVD_Global_Burden_NEJM_2023_L-001-0001]]
 - [[MOC-Clinical-Metabolomics]]
 - [[Diabetes_Pathophysiology_Z-001-0010]]
 

@@ -63,7 +63,7 @@ This finding provides the quantitative foundation for public health policy, demo
 - [[Metabolic_Syndrome_Cluster_Dominance_Z-001-0004]]
 
 ## Related
-- [[L-001-0001_Diabetes_CVD_Global_Burden_NEJM_2023]]
+- [[Diabetes_CVD_Global_Burden_NEJM_2023_L-001-0001]]
 - [[MOC-Clinical-Metabolomics]]
 - [[Epidemiological_Methods_Z-001-0020]]
 
