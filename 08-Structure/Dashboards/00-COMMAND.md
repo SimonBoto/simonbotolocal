@@ -1,10 +1,12 @@
 ---
-uid: COMMAND-2026-04-14
+uid: COMMAND-2026-04-20
 type: command-dashboard
 status: active
 ---
 
 # COMMAND — Current Priorities & Operating Orders
+
+> **Quick Reference:** P0s (≤3) → Do Now | P1 → Next | P2 → Soon | Check daily
 
 ## System State at a Glance
 

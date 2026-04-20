@@ -5,10 +5,12 @@ title: Template — MOC (Canonical)
 description: "Canonical Map of Content template for thematic navigation — backlinks populate automatically."
 version: "3.0"
 status: active
-updated: 2026-04-08
+updated: 2026-04-20
 ---
 
 # Template — MOC (Canonical)
+
+> **Quick Reference:** Theme hub | Backlinks auto-populate | Navigation structure | Living document
 
 ## An Address to RON
 

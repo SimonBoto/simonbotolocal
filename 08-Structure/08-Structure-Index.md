@@ -2,11 +2,13 @@
 uid: IDX-08-STRUCTURE
 type: index
 title: "08 Structure Index"
-date: 2026-04-02
+date: 2026-04-20
 tags: [index, structure, system]
 ---
 
 # 08 Structure Index
+
+> **Quick Reference:** Dashboards | Agents/Issues/Skills | Templates | Protocols
 
 > **System infrastructure for the vault**  
 > Templates, protocols, dashboards, and system documentation.
@@ -22,6 +24,9 @@ tags: [index, structure, system]
 | MOCs/ | Maps of Content | [[MOCs-Index]] |
 | Protocols/ | Process documentation | [[Protocols-Index]] |
 | System/ | Active infrastructure | [[System-Index]] |
+| Agents/ | Agent profiles & status | [[Index-Agents]] |
+| Issues/ | Task tracking system | [[Index-Issues]] |
+| Skills/ | Reusable capabilities | [[Index-Skills]] |
 | Templates/ | Note templates | [[Templates-Index]] |
 
 **System overview:** See [[00-INDEX]] — Standards and quick start

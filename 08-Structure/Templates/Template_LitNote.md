@@ -5,10 +5,12 @@ title: Template — LitNote (Canonical)
 description: "Canonical LitNote template for source-centered extraction, traceable zettel generation, and later bibliographic strengthening."
 version: "4.0"
 status: active
-updated: 2026-04-08
+updated: 2026-04-20
 ---
 
 # Template — LitNote (Canonical)
+
+> **Quick Reference:** Source-centered | TL;DR + Core | Evidence + Clinical | Zettels extracted
 
 ## An Address to RON
 

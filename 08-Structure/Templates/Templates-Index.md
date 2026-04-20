@@ -2,7 +2,7 @@
 uid: IDX-TEMPLATES
 type: index
 title: Templates Index
-date: 2026-04-08
+date: 2026-04-20
 tags:
   - index
   - templates

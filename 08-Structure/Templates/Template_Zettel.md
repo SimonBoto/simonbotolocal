@@ -5,10 +5,12 @@ title: Template — Zettel (Staged Canonical)
 description: "Canonical Zettel template for staged concept packets, later refinement, support growth, and promotion from conscious to subconscious."
 version: "4.1"
 status: active
-updated: 2026-04-15
+updated: 2026-04-20
 ---
 
 # Template — Zettel (Staged Canonical)
+
+> **Quick Reference:** One concept | Mechanism + Significance | Source-linked | Connected
 
 ## An Address to RON
 

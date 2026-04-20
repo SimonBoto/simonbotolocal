@@ -1,10 +1,12 @@
 ---
-uid: PIPELINE-2026-04-09
+uid: PIPELINE-2026-04-20
 type: pipeline-dashboard
 status: active
 ---
 
 # PIPELINE — Flow State, Backlog & Bottlenecks
+
+> **Quick Reference:** Inbox → Literature → Zettels → Synthesis | Check weekly
 
 ## Current Flow State
 

@@ -2,7 +2,7 @@
 uid: ROOT-INDEX
 type: index
 title: Root Index
-date: 2026-04-07
+date: 2026-04-20
 aliases:
   - Root-Index
   - Master-Navigation
@@ -14,6 +14,8 @@ status: active
 ---
 
 # Root Index
+
+> **Quick Reference:** Mission → Command → Pipeline → Handoff | All indexes below
 
 > **The Master Navigation Hub — entry point to the entire vault**
 > 
@@ -44,7 +46,7 @@ status: active
 | 03-Zettels | [[03-Zettels-Index]] | Atomic knowledge |
 | 04-Synthesis | [[04-Synthesis-Index]] | Living documents |
 | 07-Projects | [[07-Projects-Index]] | Active work |
-| 08-Structure | [[08-Structure-Index]] | System infrastructure |
+| 08-Structure | [[08-Structure-Index]] | System infrastructure (dashboards, agents, issues, skills) |
 | 09-Archive | [[09-Archive-Index]] | Legacy materials |
 
 ---
