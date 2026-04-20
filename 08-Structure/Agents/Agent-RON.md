@@ -79,7 +79,7 @@ From [AGENTS.md](../../AGENTS.md):
 | **State** | idle |
 | **Current task** | none |
 | **Progress** | — |
-| **Energy remaining** | 2h / $4.00 |
+| **Energy remaining** | 2h / $3.99 |
 | **Queue depth** | 0 |
 
 ---

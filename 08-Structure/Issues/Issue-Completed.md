@@ -16,6 +16,7 @@ date: 2026-04-20
 
 | ID | Title | Assignee | Energy | Completed | Outcome |
 |----|-------|----------|--------|-----------|---------|
+| ISSUE-010 | Test new Issues system — create 3 zettels | RON | 1m / $0.01 | 2026-04-20 | System validated, 3 zettels created |
 | ISSUE-001 | Review and improve AGENTS.md with Karpathy principles | RON | 45m / $0.30 | 2026-04-20 | AGENTS.md v2.4 released |
 | ISSUE-002 | Create Issues/Agents/Skills system from Multica | RON | 60m / $0.40 | 2026-04-20 | 13 files created, system operational |
 | ISSUE-003 | Align new system with vault naming conventions | RON | 30m / $0.20 | 2026-04-20 | All files renamed, indexes updated |
