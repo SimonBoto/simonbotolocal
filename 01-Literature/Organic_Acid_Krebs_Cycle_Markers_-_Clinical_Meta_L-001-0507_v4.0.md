@@ -1,7 +1,7 @@
 ---
 uid: L-001-0507
 type: litnote
-title: "Organic Acid Krebs Cycle Markers — Clinical Metabolomics for Mitochondrial Dysfunction"
+title: "Organic Acid Krebs Cycle Markers - Clinical Metabolomics for Mitochondrial Dysfunction"
 aliases:
   - L-001-0507
   - Organic-Acid-Test
@@ -16,7 +16,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: GOLD
-relevance: "Critical — Clinical application of organic acid testing for mitochondrial dysfunction diagnosis and nutrient-targeted therapy"
+relevance: "Critical - Clinical application of organic acid testing for mitochondrial dysfunction diagnosis and nutrient-targeted therapy"
 status: complete
 parent-moc: [[MOC-Mitochondrial-Function]]
 parent-index: [[01-Literature-Index]]
@@ -25,10 +25,9 @@ source-inbox: [[CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT
 source-litnote: [[CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393]]
 zettel-count: 4
 reference-count: 0
-reviewed_by: "RON"
+reviewed_by: "FORG"
 created: "2026-03-01"
 updated: "2026-04-09"
-reviewed_by: "FORG"
 tags:
   - litnote
   - organic-acid
