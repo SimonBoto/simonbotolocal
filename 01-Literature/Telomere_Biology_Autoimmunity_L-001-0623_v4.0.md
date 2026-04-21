@@ -143,10 +143,10 @@ reference-count: 0
 ## Connections
 
 **Related Zettels:**
-- [[Telomere_Structure_Function_Z-001-1170]] — To create
+- [[Telomere_Structure_Shelterin_Complex_Z-001-1170]] — To create
 - [[Telomerase_Biology_Immunity_Z-001-1171]] — To create
-- [[Immunosenescence_Autoimmunity_Z-001-1172]] — To create
-- [[Oxidative_Stress_Telomere_Shortening_Z-001-1173]] — To create
+- [[Immunosenescence_Premature_Immune_Aging_Autoimmunity_Z-001-1172]] — To create
+- [[Oxidative_Stress_Telomere_Damage_Mechanisms_Z-001-1173]] — To create
 
 **MOCs:**
 -  — Primary domain
