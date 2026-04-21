@@ -113,7 +113,7 @@ Candidate Zettel: [[Population_Attributable_Fraction_Burden_Z-001-5003]]
 
 - Parent MOC: [[MOC-Clinical-Metabolomics]]
 - Related LitNotes: [[Diabetes_CVD_Global_Burden_NEJM_2023_L-001-0001]]
-- Related Zettels: [[Z-001-0002]], [[Z-001-0003]], [[Z-001-0004]], [[Z-001-0005]]
+- Related Zettels: [[Insulin_Hormone_Structure_Z-001-0002]], [[INSR_Autophosphorylation_Mechanism_Z-001-0003]], [[INSR_Mutations_Donohue_Syndrome_Z-001-0004]], [[IRS_Protein_Recruitment_Z-001-0005]]
 - Related Syntheses: [[S-001-0001_Clinical_Metabolomics_Synthesis]]
 
 ## Connections

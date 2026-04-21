@@ -66,7 +66,7 @@ tags:
 | **Reduced perfusion** | Compliance loss | Ischemia, organ damage |
 | **CV events** | Plaque instability | MI, stroke |
 
-**Zettels extracted:** [[Vascular_Calcification_Silent_Killer_Z-001-0268]]
+**Zettels extracted:** [[K2_Vascular_Calcification_Protection_Z-001-0268]]
 
 ### 2. Pathophysiology — How Arteries Calcify
 > "Vascular smooth muscle cells transform to osteoblast-like cells... deposits hydroxyapatite crystals."
@@ -159,7 +159,7 @@ tags:
 - **Osteocalcin:** Bone-vascular axis
 - **Bone-specific alkaline phosphatase:** Turnover
 
-**Zettels extracted:** [[Measuring_Vascular_Calcification_Z-001-0271]]
+**Zettels extracted:** [[MGP_Matrix_Gla_Protein_Function_Z-001-0271]]
 
 ### 5. Prevention and Reversal Strategies
 > "Vitamin K2 supplementation may slow or partially reverse early calcification."

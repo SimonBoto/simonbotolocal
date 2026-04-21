@@ -48,7 +48,7 @@ tags:
 ### 1. Activation Phase (RANKL + M-CSF Signaling)
 > "Osteoclast precursors differentiate under the influence of RANKL (Receptor Activator of Nuclear Factor Kappa-B Ligand) and M-CSF (Macrophage Colony-Stimulating Factor)."
 
-**Zettel extracted:** [[Activation_Phase_RANKL_MCSF_Osteoclast_Differentiation_Z-001-0099]]
+**Zettel extracted:** [[Protein_Requirements_Bone_Health_1.2_to_1.5_gkg_Z-001-0099]]
 
 **Key Mechanism:**
 - RANKL binds to RANK receptor on osteoclast precursors
@@ -61,7 +61,7 @@ tags:
 ### 2. Resorption Phase (Acid Microenvironment + Cathepsin K)
 > "Mature osteoclasts attach to bone matrix, creating a resorption lacuna. They secrete proteolytic enzymes and acid, dissolving the mineral and collagen components."
 
-**Zettel extracted:** [[Resorption_Phase_Osteoclast_Acid_Protease_Activity_Z-001-0100]]
+**Zettel extracted:** [[IGF1_Protein_Bone_Anabolic_Signal_Z-001-0100]]
 
 **Mechanistic Details:**
 - Osteoclasts form sealed ruffled border against bone surface

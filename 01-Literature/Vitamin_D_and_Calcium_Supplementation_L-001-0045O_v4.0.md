@@ -149,7 +149,7 @@ tags:
 ## Integration Notes
 
 **Links to Existing Zettels:**
-- [[Bone_Remodeling_Cycle_Dynamics_Phase_Regulation_Z-001-0099]] — Physiological basis
+- [[Protein_Requirements_Bone_Health_1.2_to_1.5_gkg_Z-001-0099]] — Physiological basis
 - [[Teriparatide_PTH_1-34_Intermittent_Anabolic_Therapy_Z-001-0105]] — Therapy requiring foundation
 - [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]] — Therapy requiring foundation
 

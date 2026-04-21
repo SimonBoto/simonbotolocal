@@ -67,7 +67,7 @@ tags:
 - **Claim:** Carbohydrate restriction provides a metabolic advantage for weight loss and maintenance through multiple mechanisms — reduced insulin signaling decreases fat storage, increased fat oxidation promotes fat burning, higher thermic effect increases energy expenditure, and preserved muscle mass improves body composition and metabolic rate.
 - **Evidence:** Mechanisms of metabolic advantage: reduced insulin → less fat storage signaling, increased fat oxidation → more fat burned for fuel, higher thermic effect → more energy expended, preserved muscle → better body composition; weight loss maintenance benefits: metabolic slowdown less pronounced (protects against adaptive thermogenesis), hunger better controlled (protein and fat improve satiety), weight regain tendency reduced; clinical applications: weight loss — consider carb restriction for metabolic advantage, weight maintenance — low-carb may be superior post-weight loss, metabolic health — carb quality and quantity both matter; key insight: "calories in, calories out" model incomplete; metabolic effects of macronutrients must be considered; low-carb creates favorable metabolic environment for fat loss; practical implication: for weight loss maintenance, low-carb approach may prevent metabolic adaptation that leads to regain.
 - **Reference:**  — cited as (Ebbeling et al., BMJ 2018)
-- **Zettel:** [[Metabolic_Advantage_Carbohydrate_Restriction_Weight_Loss_Z-002-0851]]
+- **Zettel:** [[Final_FB_Collection_Z-002-0851]]
 
 ---
 

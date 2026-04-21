@@ -58,7 +58,7 @@ Optimal: 40-60 ng/mL → Deficient: <20 ng/mL → Insufficient: 20-30 ng/mL → 
 
 **Purpose/Significance:** Provides the clinical framework for interpreting vitamin D levels and implementing evidence-based interventions
 
-**Zettel:** [[Z-001-0587A]]
+**Zettel:** [[Vitamin_D_Biomarker_Framework_Z-001-0587A]]
 
 ---
 
@@ -79,7 +79,7 @@ Measurement: RBC EPA+DHA as % of total fatty acids → Optimal: >8% → High ris
 
 **Purpose/Significance:** Establishes the RBC omega-3 index as a key biomarker for cardiovascular health and metabolic function
 
-**Zettel:** [[Z-001-0587B]]
+**Zettel:** [[Omega_3_Index_Biomarker_Framework_Z-001-0587B]]
 
 ---
 
@@ -100,7 +100,7 @@ Inflammation marker: <1.0 mg/L (low) → 1.0-3.0 mg/L (moderate) → >3.0 mg/L (
 
 **Purpose/Significance:** Provides the clinical framework for interpreting hsCRP as a key inflammation biomarker
 
-**Zettel:** [[Z-001-0587C]]
+**Zettel:** [[hsCRP_Biomarker_Framework_Z-001-0587C]]
 
 ---
 
@@ -121,7 +121,7 @@ Optimal: <10 μmol/L → Methylation status → Cardiovascular risk → Cognitiv
 
 **Purpose/Significance:** Establishes homocysteine as a critical biomarker for methylation health and associated clinical conditions
 
-**Zettel:** [[Z-001-0587D]]
+**Zettel:** [[Homocysteine_Biomarker_Framework_Z-001-0587D]]
 
 ---
 
@@ -142,7 +142,7 @@ Optimal: <5.5% → Glycation marker → 2-3 month glucose average → Targets: <
 
 **Purpose/Significance:** Provides the clinical framework for interpreting HbA1c as the gold standard biomarker for glycation and glucose control
 
-**Zettel:** [[Z-001-0587E]]
+**Zettel:** [[HbA1c_Biomarker_Framework_Z-001-0587E]]
 
 ---
 
@@ -163,16 +163,16 @@ Core panel: Vitamin D, Omega-3 Index, hsCRP, Homocysteine, HbA1c → Plus compre
 
 **Purpose/Significance:** Establishes the comprehensive biomarker panel as the foundation for precision metabolic health assessment
 
-**Zettel:** [[Z-001-0587F]]
+**Zettel:** [[Metabolic_Health_Assessment_Panel_Framework_Z-001-0587F]]
 
 ---
 
 
 | Citation | Key Finding | Relevance | Zettel |
 |----------|-------------|-----------|--------|
-| CGPT_0384_Biomarkers_Briefing | Five core metabolic biomarkers for clinical assessment | High | [[Z-001-0587A]] |
-| Metabolic Health Guidelines (2024) | Optimal vitamin D range (40-60 ng/mL) for comprehensive health benefits | High | [[Z-001-0587A]] |
-| Cardiovascular Research (2023) | Omega-3 index >8% associated with reduced cardiovascular mortality | Medium | [[Z-001-0587B]] |
+| CGPT_0384_Biomarkers_Briefing | Five core metabolic biomarkers for clinical assessment | High | [[Vitamin_D_Biomarker_Framework_Z-001-0587A]] |
+| Metabolic Health Guidelines (2024) | Optimal vitamin D range (40-60 ng/mL) for comprehensive health benefits | High | [[Vitamin_D_Biomarker_Framework_Z-001-0587A]] |
+| Cardiovascular Research (2023) | Omega-3 index >8% associated with reduced cardiovascular mortality | Medium | [[Omega_3_Index_Biomarker_Framework_Z-001-0587B]] |
 
 ---
 
@@ -186,7 +186,7 @@ Core panel: Vitamin D, Omega-3 Index, hsCRP, Homocysteine, HbA1c → Plus compre
 
 ## Related References
 - [[MOC-Metabolic-Syndrome]] — Parent MOC
-- [[Z-001-0587A]] — Related zettel
+- [[Vitamin_D_Biomarker_Framework_Z-001-0587A]] — Related zettel
 - [[Metabolomics_Chief_Instructor_Framework_L-001-0588_v4.0]] — Related LitNote
 
 ---

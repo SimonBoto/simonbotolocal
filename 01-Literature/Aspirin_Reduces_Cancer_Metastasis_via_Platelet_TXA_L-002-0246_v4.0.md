@@ -131,7 +131,7 @@ pmid: "40044852"
 - **Claim:** Aspirin's anti-metastatic effect represents a paradigm shift from viewing aspirin solely as an anti-platelet/anti-inflammatory drug to recognizing it as a genuine immunomodulator that enhances anti-cancer immunity through platelet-T-cell interactions.
 - **Evidence:** The TXA2-T-cell axis discovery reclassifies aspirin's mechanism; clinical data showing 36% metastasis reduction and 51% cancer death reduction align with immune-mediated effects rather than purely platelet-inhibition effects.
 - **Reference:**  — cited as (Yang et al., 2025)
-- **Zettel:** [[Aspirin_Cancer_Immunomodulator_Not_Just_Anti_Platelet_Z-002-0877]]
+- **Zettel:** [[Movement_Fundamental_Human_Body_Function_Z-002-0877]]
 
 ### 4. Micrometastases Immune Vulnerability Window
 - **Claim:** Circulating cancer cells and micrometastases represent a critical vulnerability window where immune surveillance can be decisive; aspirin's TXA2 inhibition enhances this window by removing platelet-mediated immunosuppression.

@@ -53,7 +53,7 @@ tags:
 - **Claim:** A coronary artery calcium (CAC) score of zero indicates no benefit from statin therapy — individuals without detectable atherosclerotic plaque do not derive cardiovascular risk reduction from statins, making CAC scoring valuable for avoiding overtreatment in low-risk individuals.
 - **Evidence:** JACC Cardiovasc Imaging 2025: CAC = 0 → no statin benefit; CAC 1-100 (minimal plaque) → no benefit from statins; rationale: statins work by stabilizing existing plaque and reducing plaque progression — if no plaque exists, there is no target for statin action; overtreatment common: many low-risk individuals prescribed statins based on LDL alone; CAC = 0 predicts very low 10-year CVD risk regardless of LDL; radiation dose from CAC scan is minimal (~1 mSv, less than annual background); cost-effective for risk stratification; clinical implication: CAC = 0 can reassure patients and avoid unnecessary medication.
 - **Reference:**  — cited as (Szilveszter et al., JACC 2025)
-- **Zettel:** [[CAC_Score_Zero_No_Statin_Benefit_Z-002-0825]]
+- **Zettel:** [[Article49_Zettel_Z-002-0825]]
 
 ### 2. CAC Score Above 400 Indicates Clear Statin Benefit
 - **Claim:** CAC scores above 400 indicate clear benefit from statin therapy — individuals with moderate to extensive plaque burden, artery stenosis ≥50%, high-risk (vulnerable/unstable) plaque, or multi-vessel disease (>4 vessels) show significant cardiovascular risk reduction with statin treatment.

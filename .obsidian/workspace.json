@@ -11,10 +11,13 @@
             "id": "64120ee807f0bd00",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "bases",
+              "state": {
+                "file": "08-Structure/Dashboards/Vault_Inventory.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Vault_Inventory"
             }
           }
         ]
@@ -193,7 +196,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3defb34dd9bafdc5",
+  "active": "64120ee807f0bd00",
   "lastOpenFiles": [
     "03-Zettels/Conscious/Respiratory_Chain_Complex_Deficiencies_Z-001-1169.md",
     "08-Structure/System/audit-reports/PHANTOM-LINKS-CURRENT.md",

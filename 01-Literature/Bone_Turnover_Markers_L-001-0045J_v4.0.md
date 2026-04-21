@@ -127,7 +127,7 @@ tags:
 
 ### 4. Practical Clinical Use
 
-**Zettel extracted:** [[Clinical_Use_Bone_Turnover_Markers_Z-001-0120]]
+**Zettel extracted:** [[Bone_Turnover_Monitoring_Guidelines_Z-001-0120]]
 
 #### Sampling Protocol
 - **Timing:** Fasting morning sample (critical for CTX)
@@ -158,7 +158,7 @@ BTM measurement at 3 months
 ## Integration Notes
 
 **Links to Existing Zettels:**
-- [[Bone_Remodeling_Cycle_Dynamics_Phase_Regulation_Z-001-0099]] — Physiological basis
+- [[Protein_Requirements_Bone_Health_1.2_to_1.5_gkg_Z-001-0099]] — Physiological basis
 - [[Teriparatide_PTH_1-34_Intermittent_Anabolic_Therapy_Z-001-0105]] — Therapy monitored
 - [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]] — Therapy monitored
 

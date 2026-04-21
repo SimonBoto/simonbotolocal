@@ -79,7 +79,7 @@ tags:
 
 ### 2. Denosumab Duration Guidelines
 
-**Zettel extracted:** [[Denosumab_Duration_Guidelines_Z-001-0138]]
+**Zettel extracted:** [[Anabolic_Therapy_Duration_Guidelines_Z-001-0138]]
 
 #### Standard Duration
 - **No fixed duration limit** — designed for long-term use
@@ -102,7 +102,7 @@ tags:
 
 ### 3. Anabolic Therapy Duration Guidelines
 
-**Zettel extracted:** [[Anabolic_Therapy_Duration_Guidelines_Z-001-0139]]
+**Zettel extracted:** [[Drug_Holiday_Recommendations_Z-001-0139]]
 
 #### Teriparatide and Abaloparatide
 | Parameter | Guideline | Rationale |
@@ -127,7 +127,7 @@ tags:
 
 ### 4. Individualized Duration Decision Framework
 
-**Zettel extracted:** [[Individualized_Duration_Framework_Z-001-0140]]
+**Zettel extracted:** [[Long_Term_Osteoporosis_Management_Z-001-0140]]
 
 #### Decision Factors
 | Factor | Duration Extension Indication | Duration Limitation Indication |
@@ -154,7 +154,7 @@ Duration reassessment (annually or at standard duration end)
 **Links to Existing Zettels:**
 - [[Teriparatide_PTH_1-34_Intermittent_Anabolic_Therapy_Z-001-0105]] — Anabolic therapy
 - [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]] — Antiresorptive therapy
-- [[Bisphosphonates_Mechanism_Side_Effects_Z-001-0084]] — Antiresorptive therapy
+- [[Net_Bone_Loss_Resorption_Exceeds_Formation_Z-001-0084]] — Antiresorptive therapy
 
 **Clinical Application:**
 - Duration decisions should be individualized, not automatic

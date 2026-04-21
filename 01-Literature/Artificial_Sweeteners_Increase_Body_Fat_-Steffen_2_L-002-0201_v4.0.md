@@ -16,9 +16,9 @@ anchors:
     source-litnote: " #source-lit"
   down:
     zettels:
-      - "[[Artificial_Sweeteners_Visceral_Fat_Z-002-0741]] #zettel-1"
-      - "[[Saccharin_Intermuscular_Fat_Z-002-0742]] #zettel-2"
-      - "[[Aspartame_Subcutaneous_Fat_Z-002-0743]] #zettel-3"
+      - "[[Artificial_Sweeteners_Visceral_Fat_Accumulation_Z-002-0741]] #zettel-1"
+      - "[[Aspartame_Saccharin_Independent_Calories_Fat_Z-002-0742]] #zettel-2"
+      - "[[Diet_Soda_Paradox_Weight_Gain_Z-002-0743]] #zettel-3"
     count: 3
   sideways:
     references:
@@ -88,9 +88,9 @@ Long-term artificial sweetener consumption (aspartame, saccharin) is associated 
 
 | # | Zettel | Title | Anchor |
 |---|--------|-------|--------|
-| 1 | [[Z-002-0741]] | Artificial Sweeteners Visceral Fat | #zettel-1 |
-| 2 | [[Z-002-0742]] | Saccharin Intermuscular Fat | #zettel-2 |
-| 3 | [[Z-002-0743]] | Aspartame Subcutaneous Fat | #zettel-3 |
+| 1 | [[Artificial_Sweeteners_Visceral_Fat_Accumulation_Z-002-0741]] | Artificial Sweeteners Visceral Fat | #zettel-1 |
+| 2 | [[Aspartame_Saccharin_Independent_Calories_Fat_Z-002-0742]] | Saccharin Intermuscular Fat | #zettel-2 |
+| 3 | [[Diet_Soda_Paradox_Weight_Gain_Z-002-0743]] | Aspartame Subcutaneous Fat | #zettel-3 |
 
 **Total:** 3 zettels extracted | **Tag:** #zettels-down
 

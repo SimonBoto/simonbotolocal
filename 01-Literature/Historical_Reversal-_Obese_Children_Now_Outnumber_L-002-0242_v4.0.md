@@ -58,7 +58,7 @@ tags:
 - **Claim:** Childhood obesity is now one of the most serious threats to children's health globally — with implications including a future chronic disease epidemic, unprecedented strain on healthcare systems, trillions in economic costs, and reduced quality of life for an entire generation.
 - **Evidence:** Urgency projections: current = obese > underweight, next decade = gap widens, adult population = today's obese children become tomorrow's obese adults with metabolic disease; prevention priorities: individual level → family nutrition education, school level → healthy food programs, policy level → sugar taxes, marketing restrictions, healthcare level → early metabolic screening; economic and health burden: type 2 diabetes, cardiovascular disease, fatty liver disease, mental health issues, reduced lifespan, healthcare costs in trillions; intergenerational impact: obese children → obese adults → metabolic syndrome → early mortality; today's children first generation with shorter life expectancy than parents; clinical implication: urgent need for multi-level intervention; cannot be addressed by healthcare system alone; requires policy, education, and environmental changes.
 - **Reference:**  — cited as (UNICEF global health report)
-- **Zettel:** [[Childhood_Obesity_Serious_Global_Health_Threat_Z-002-0867]]
+- **Zettel:** [[Final_FB_Collection_Z-002-0867]]
 
 ### 3. UPF and Sugar-Sweetened Beverages Are Primary Childhood Obesity Drivers
 - **Claim:** Ultra-processed foods and sugar-sweetened beverages are the primary drivers of the childhood obesity epidemic — combined with sedentary lifestyles, excessive screen time, sleep disruption, and environmental toxins, these factors have created a perfect storm for metabolic dysfunction in children.
