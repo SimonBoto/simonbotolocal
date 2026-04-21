@@ -59,7 +59,7 @@ Metabolic flexibility → Glucose/fatty acid fuel switching → Energy efficienc
 
 **Purpose/Significance:** Provides the foundational pillar for metabolic health assessment and targeted interventions
 
-**Zettel:** [[Pillar_1_Mitochondrial_Health_Framework_Z-001-0584A]]
+**Zettel:** [[Metabolic_Health_Pillar_Nutrition_Z-001-0584A]]
 
 ---
 
@@ -80,7 +80,7 @@ Comprehensive metabolic profiling → Targeted vs untargeted approaches → Inte
 
 **Purpose/Significance:** Enables personalized metabolic interventions based on comprehensive biochemical profiling
 
-**Zettel:** [[Pillar_2_Precision_Metabolomics_Framework_Z-001-0584B]]
+**Zettel:** [[Metabolic_Health_Pillar_Movement_Z-001-0584B]]
 
 ---
 
@@ -101,7 +101,7 @@ HbA1c <5.5% → Minimize AGEs → Prevent vascular/tissue damage → Slow aging
 
 **Purpose/Significance:** Addresses the fundamental biochemical process of glycation that underlies many chronic diseases and aging
 
-**Zettel:** [[Pillar_3_Glycation_Control_Framework_Z-001-0584C]]
+**Zettel:** [[Metabolic_Health_Pillar_Sleep_Z-001-0584C]]
 
 ---
 
@@ -124,7 +124,7 @@ RBC minerals → Magnesium (300+ enzymes), Zinc (immune), Selenium (antioxidant)
 
 **Purpose/Significance:** Provides comprehensive mineral assessment for foundational metabolic processes
 
-**Zettel:** [[Pillar_4_Magnesium_Core_Mineral_Framework_Z-001-0584D]]
+**Zettel:** [[Metabolic_Health_Pillar_Stress_Z-001-0584D]]
 
 ---
 
@@ -145,7 +145,7 @@ Target ratio 2-4:1 (omega-6:omega-3) → Current reality 15-25:1 → Interventio
 
 **Purpose/Significance:** Addresses the fundamental inflammatory balance that underlies metabolic health
 
-**Zettel:** [[Pillar_5_Omega_3_Omega_6_Balance_Framework_Z-001-0584E]]
+**Zettel:** [[Metabolic_Health_Pillar_Environment_Z-001-0584E]]
 
 ---
 
@@ -165,17 +165,17 @@ Assessment flow: Mitochondrial → Metabolomics → Glycation → Minerals → F
 
 **Purpose/Significance:** Provides the practical clinical framework for implementing the Five Pillars in real-world practice
 
-**Zettel:** [[Clinical_Integration_Framework_Z-001-0584F]]
+**Zettel:** [[Clinical_Assessment_Metabolic_Health_Z-001-0584F]]
 
 ---
 
 ## Zettels Created
-1. [[Pillar_1_Mitochondrial_Health_Framework_Z-001-0584A]] — Pillar 1: mitochondrial health & metabolic flexibility framework
-2. [[Pillar_2_Precision_Metabolomics_Framework_Z-001-0584B]] — Pillar 2: precision metabolomics framework
-3. [[Pillar_3_Glycation_Control_Framework_Z-001-0584C]] — Pillar 3: glycation control framework
-4. [[Pillar_4_Magnesium_Core_Mineral_Framework_Z-001-0584D]] — Pillar 4: magnesium & core mineral status framework
-5. [[Pillar_5_Omega_3_Omega_6_Balance_Framework_Z-001-0584E]] — Pillar 5: omega-3/omega-6 balance framework
-6. [[Clinical_Integration_Framework_Z-001-0584F]] — Clinical integration framework
+1. [[Metabolic_Health_Pillar_Nutrition_Z-001-0584A]] — Pillar 1: mitochondrial health & metabolic flexibility framework
+2. [[Metabolic_Health_Pillar_Movement_Z-001-0584B]] — Pillar 2: precision metabolomics framework
+3. [[Metabolic_Health_Pillar_Sleep_Z-001-0584C]] — Pillar 3: glycation control framework
+4. [[Metabolic_Health_Pillar_Stress_Z-001-0584D]] — Pillar 4: magnesium & core mineral status framework
+5. [[Metabolic_Health_Pillar_Environment_Z-001-0584E]] — Pillar 5: omega-3/omega-6 balance framework
+6. [[Clinical_Assessment_Metabolic_Health_Z-001-0584F]] — Clinical integration framework
 
 ---
 
@@ -183,9 +183,9 @@ Assessment flow: Mitochondrial → Metabolomics → Glycation → Minerals → F
 
 | Citation | Key Finding | Relevance | Zettel |
 |----------|-------------|-----------|--------|
-| CGPT_0124_Profound_Truths_Revolutionizing_Health | Comprehensive Five Pillars of Metabolic Health framework | High | [[Pillar_1_Mitochondrial_Health_Framework_Z-001-0584A]] |
-| Metabolic Medicine Textbook (2024) | Metabolic flexibility as determinant of energy efficiency and disease resilience | High | [[Pillar_1_Mitochondrial_Health_Framework_Z-001-0584A]] |
-| Nutritional Medicine Review (2023) | Omega-6:omega-3 ratio imbalance drives chronic inflammation and metabolic dysfunction | Medium | [[Pillar_5_Omega_3_Omega_6_Balance_Framework_Z-001-0584E]] |
+| CGPT_0124_Profound_Truths_Revolutionizing_Health | Comprehensive Five Pillars of Metabolic Health framework | High | [[Metabolic_Health_Pillar_Nutrition_Z-001-0584A]] |
+| Metabolic Medicine Textbook (2024) | Metabolic flexibility as determinant of energy efficiency and disease resilience | High | [[Metabolic_Health_Pillar_Nutrition_Z-001-0584A]] |
+| Nutritional Medicine Review (2023) | Omega-6:omega-3 ratio imbalance drives chronic inflammation and metabolic dysfunction | Medium | [[Metabolic_Health_Pillar_Environment_Z-001-0584E]] |
 
 ---
 
@@ -199,7 +199,7 @@ Assessment flow: Mitochondrial → Metabolomics → Glycation → Minerals → F
 
 ## Related References
 - [[MOC-Metabolic-Syndrome]] — Parent MOC
-- [[Pillar_1_Mitochondrial_Health_Framework_Z-001-0584A]] — Related zettel
+- [[Metabolic_Health_Pillar_Nutrition_Z-001-0584A]] — Related zettel
 - [[Inflammatory_Bowel_Disease_-_Crohn-s_vs_Ulcerati_L-001-0585_v4.0]] — Related LitNote
 
 ---

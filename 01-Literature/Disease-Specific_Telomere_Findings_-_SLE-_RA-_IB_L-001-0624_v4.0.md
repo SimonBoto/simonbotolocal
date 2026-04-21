@@ -173,10 +173,10 @@ reference-count: 0
 ## Connections
 
 **Related Zettels:**
-- [[SLE_Telomere_Findings_Z-001-1174]] — To create
-- [[RA_Telomerase_Elevation_Z-001-1175]] — To create
-- [[IBD_Telomere_Cancer_Risk_Z-001-1176]] — To create
-- [[Psoriasis_Keratinocyte_Telomeres_Z-001-1177]] — To create
+- [[SLE_Telomere_Findings_Disease_Activity_Z-001-1174]] — To create
+- [[RA_Telomerase_Elevation_Compensatory_Proliferation_Z-001-1175]] — To create
+- [[IBD_Telomere_Dysfunction_Colorectal_Cancer_Risk_Z-001-1176]] — To create
+- [[Psoriasis_Keratinocyte_Telomere_Pathology_Z-001-1177]] — To create
 
 **MOCs:**
 -  — Primary domain
