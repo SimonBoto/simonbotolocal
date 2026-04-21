@@ -15,6 +15,7 @@ parent-moc: [[MOC-Research-Ethics]]
 parent-index: [[03-Zettels-Conscious]]
 source-litnote: [[Medical_Ethics_Frameworks_and_Case_Studies_L-101-0050_v4.0]]
 status: conscious
+extraction-date: 2026-04-21
 ---
 
 # IRB Preparation Ethics Requirements
@@ -28,3 +29,15 @@ IRB = ethical gatekeeper
 ## Source
 
 Extracted from: [[Medical_Ethics_Frameworks_and_Case_Studies_L-101-0050_v4.0]]
+
+## Status Checklist
+
+- [ ] Source verified and linked
+- [ ] Core Principle articulated
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached
+- [ ] Significance clear
+- [ ] Clinical relevance assessed
+- [ ] Related zettels connected
+- [ ] Lateral connections added
+- [ ] RON review pending

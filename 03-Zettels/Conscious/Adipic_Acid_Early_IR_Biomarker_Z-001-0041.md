@@ -10,6 +10,7 @@ parent-moc: [[MOC-Insulin-Signaling]]
 source: [[LitNote_Biomarkers_Taxonomy_L-001-0006]
 confidence: high
 created: 2026-02-24
+extraction-date: 2026-04-21
 ---
 
 # Adipic Acid as Early IR 
