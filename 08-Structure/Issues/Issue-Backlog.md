@@ -2,12 +2,12 @@
 uid: ISSUES-BACKLOG
 type: dashboard
 title: Issue Backlog
-date: 2026-04-20
+date: 2026-04-21
 ---
 
 # Issue Backlog
 
-**Last updated:** 2026-04-21 10:45  
+**Last updated:** 2026-04-21 12:33  
 **Auto-refresh:** Daily at 08:00, or on issue status change
 
 ---
@@ -23,6 +23,10 @@ date: 2026-04-20
 
 | ID | Title | Assignee | Energy | Created | Notes |
 |----|-------|----------|--------|---------|-------|
+| ISSUE-022 | System Potential Audit — 7 Dimensions | RON | ongoing | 2026-04-21 | Meta-issue, 7 sub-issues |
+| ISSUE-026 | Vault Architecture — Orphans + Inbox Zero | RON+FORG | 20h / $5.00 | 2026-04-21 | 100% connectivity |
+| ISSUE-028 | Memory Semantic Search — Complete | RON | 1h / $0.20 | 2026-04-21 | Highest ROI, 30 min |
+| ISSUE-029 | Multi-Agent AutoResearch Activation | RON+FORG+SCOUT | 10h / $3.00 | 2026-04-21 | 671 conversations |
 | ISSUE-016 | PhD Parallel Work — 10 GOLD Refs + 2 P1 Hypotheses | RON | 6h / $2.00 | 2026-04-21 | No university dependency |
 | ISSUE-017 | AutoResearch Pilot — Design program-RON.md | RON | 3h / $1.00 | 2026-04-21 | Karpathy + CORAL pattern |
 | ISSUE-019 | CGPT Reservoir — Process 671 Pending Conversations | FORG+SCOUT+RON | 40h / $10.00 | 2026-04-21 | Major backlog, needs ISSUE-017 |
@@ -31,7 +35,10 @@ date: 2026-04-20
 
 | ID | Title | Assignee | Energy | Created | Notes |
 |----|-------|----------|--------|---------|-------|
-—
+| ISSUE-023 | OpenClaw Skills — Native Integration | RON | 2h / $0.50 | 2026-04-21 | Skill manifest |
+| ISSUE-024 | Workspace-Vault Auto-Sync | RON | 3h / $1.00 | 2026-04-21 | Bidirectional sync |
+| ISSUE-025 | Obsidian OpenClaw Plugin/Pipeline | RON | 8h / $2.00 | 2026-04-21 | Research phase |
+| ISSUE-027 | Zettelkasten AI Suggestions | RON | 4h / $1.50 | 2026-04-21 | QMD vectors ready |
 | ISSUE-020 | Orphan Zettel Reconnection — 312 Orphans | RON | 4h / $1.50 | 2026-04-21 | Deferred, non-blocking |
 
 ## Icebox — Maybe Never
@@ -46,12 +53,12 @@ date: 2026-04-20
 
 | Metric | Count |
 |--------|-------|
-| Total issues | 7 |
+| Total issues | 14 |
 | P0 | 2 |
-| P1 | 3 |
-| P2 | 2 |
+| P1 | 7 |
+| P2 | 5 |
 | Icebox | 0 |
-| Completed (this week) | 1 |
+| Completed (this week) | 2 |
 
 ---
 
