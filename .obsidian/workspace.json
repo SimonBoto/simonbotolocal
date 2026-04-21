@@ -143,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Literature/Machine_Learning_in_Metabolomics_METHAP_L-001-0618_v4.0.md",
+                "file": "01-Literature/Mechanisms_of_Metabolic_Disruption_-_Inflammatio_L-001-0523_v4.0.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -158,7 +158,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Machine_Learning_in_Metabolomics_METHAP_L-001-0618_v4.0"
+              "title": "Mechanisms_of_Metabolic_Disruption_-_Inflammatio_L-001-0523_v4.0"
             }
           },
           {
@@ -364,6 +364,13 @@
   },
   "active": "9ef5eea8bef4cf3e",
   "lastOpenFiles": [
+    "01-Literature/Meat_Consumption_Eliminates_Genetic_Alzheimer_Risk_L-002-0206_v4.0.md",
+    "01-Literature/McCarty-Nicotine-Biosynthesis-2026_L-001-0606_v4.0.md",
+    "01-Literature/MAO_and_DAO_Enzymes_-_Monoamine_and_Diamine_Oxid_L-001-0582_v4.0.md",
+    "01-Literature/Manuscript_Review_Critical_Concerns_-_Peer_Revie_L-001-0586_v4.0.md",
+    "01-Literature/Male_Hormone_Assessment_-_Clinical_Scenarios_and_L-001-0578_v4.0.md",
+    "01-Literature/Magnesium_Supplementation_L-001-0201_v4.0.md",
+    "01-Literature/Machine_Learning_in_Metabolomics_METHAP_L-001-0618_v4.0.md",
     "01-Literature/Low-Carb_vs_Low-Fat_for_Weight_Loss-_39_RCTs_Show_L-002-0235_v4.0.md",
     "01-Literature/Low_Carb_or_Low_Fat-_Diet_Comparison_for_Metabolic_L-002-0172_v4.0.md",
     "01-Literature/LitNote_Statistical_Analysis_Omics_L-001-0617_v4.0.md",
@@ -383,13 +390,6 @@
     "01-Literature/Ketogenesis_and_BHB-_Energy_Substrate_and_Signalin_L-001-0045G_v4.0.md",
     "01-Literature/Keto_Acids_and_Organic_Acids-_Pyruvate-_Propionate_L-001-0045F_v4.0.md",
     "01-Literature/IR_Mechanisms_Map_L-001-0005_v4.0.md",
-    "01-Literature/IOM_Vitamin_D_RDA_Statistical_Error_L-001-0007_v4.0.md",
-    "01-Literature/Inflammatory_Bowel_Disease_-_Crohn-s_vs_Ulcerati_L-001-0585_v4.0.md",
-    "01-Literature/Inflammation_Increases_CVD_Risk_via_hsCRP_-Kurt_20_L-002-0219_v4.0.md",
-    "01-Literature/Immunosenescence_Patterns_in_Autoimmune_Diseases_L-001-0626_v4.0.md",
-    "01-Literature/Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0.md",
-    "01-Literature/Hyperinsulinemia_and_Metabolic_Inflexibility_-_M_L-001-0654_v4.0.md",
-    "01-Literature/Hyperbaric_Oxygen_Therapy_in_Cancer_L-001-0614_v4.0.md",
     "08-Structure/Skills/fix-missing-brackets.py",
     "08-Structure/Skills/fix-phantom-links.py",
     "08-Structure/Skills/audit-moc-index.py",

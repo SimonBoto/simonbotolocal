@@ -59,7 +59,7 @@ Hormone panel pattern → Clinical scenario → Differential diagnosis
 
 **Purpose/Significance:** Provides a structured, evidence-based approach to interpreting complex hormone panels in male endocrinology
 
-**Zettel:** [[Hormonal_Pattern_Recognition_Framework_Z-001-0578A]]
+**Zettel:** [[Male_Hormone_Assessment_Overview_Z-001-0578A]]
 
 ---
 
@@ -80,7 +80,7 @@ Hormone panel pattern → Clinical scenario → Differential diagnosis
 
 **Purpose/Significance:** Identifies the most common endocrine cause of male hypogonadism requiring neuroimaging evaluation
 
-**Zettel:** [[Hypogonadism_Hyperprolactinemia_Pattern_Z-001-0578B]]
+**Zettel:** [[Testosterone_Laboratory_Ranges_Z-001-0578B]]
 
 ---
 
@@ -101,7 +101,7 @@ Hormone panel pattern → Clinical scenario → Differential diagnosis
 
 **Purpose/Significance:** Enables detection of illicit androgen use and differentiation from endogenous androgen excess
 
-**Zettel:** [[Steroid_Abuse_Androgen_Excess_Pattern_Z-001-0578C]]
+**Zettel:** [[SHBG_Impact_Testosterone_Z-001-0578C]]
 
 ---
 
@@ -122,7 +122,7 @@ Hormone panel pattern → Clinical scenario → Differential diagnosis
 
 **Purpose/Significance:** Identifies life-threatening endocrine emergencies requiring urgent intervention
 
-**Zettel:** [[Severe_Combined_Deficiency_Pattern_Z-001-0578D]]
+**Zettel:** [[Free_Testosterone_Calculation_Z-001-0578D]]
 
 ---
 
@@ -143,16 +143,16 @@ Hormone panel pattern → Clinical scenario → Differential diagnosis
 
 **Purpose/Significance:** Explains paradoxical hormone patterns that challenge conventional diagnostic assumptions
 
-**Zettel:** [[Aromatase_Excess_Secondary_Hypogonadism_Pattern_Z-001-0578E]]
+**Zettel:** [[Aromatase_Excess_Pattern_Z-001-0578E]]
 
 ---
 
 ## Zettels Created
-1. [[Hormonal_Pattern_Recognition_Framework_Z-001-0578A]] — Hormonal pattern recognition framework
-2. [[Hypogonadism_Hyperprolactinemia_Pattern_Z-001-0578B]] — Hypogonadism + hyperprolactinemia pattern
-3. [[Steroid_Abuse_Androgen_Excess_Pattern_Z-001-0578C]] — Steroid abuse/androgen excess pattern
-4. [[Severe_Combined_Deficiency_Pattern_Z-001-0578D]] — Severe combined deficiency pattern
-5. [[Aromatase_Excess_Secondary_Hypogonadism_Pattern_Z-001-0578E]] — Aromatase excess + secondary hypogonadism pattern
+1. [[Male_Hormone_Assessment_Overview_Z-001-0578A]] — Hormonal pattern recognition framework
+2. [[Testosterone_Laboratory_Ranges_Z-001-0578B]] — Hypogonadism + hyperprolactinemia pattern
+3. [[SHBG_Impact_Testosterone_Z-001-0578C]] — Steroid abuse/androgen excess pattern
+4. [[Free_Testosterone_Calculation_Z-001-0578D]] — Severe combined deficiency pattern
+5. [[Aromatase_Excess_Pattern_Z-001-0578E]] — Aromatase excess + secondary hypogonadism pattern
 
 ---
 
@@ -160,9 +160,9 @@ Hormone panel pattern → Clinical scenario → Differential diagnosis
 
 | Citation | Key Finding | Relevance | Zettel |
 |----------|-------------|-----------|--------|
-| CGPT_0438_Hormone_Scenarios | Four distinct hormonal patterns for male hypogonadism and hormone disorders | High | [[Hormonal_Pattern_Recognition_Framework_Z-001-0578A]] |
-| Male Endocrinology Textbook (2023) | Prolactinoma is the most common pituitary tumor causing male hypogonadism | High | [[Hypogonadism_Hyperprolactinemia_Pattern_Z-001-0578B]] |
-| Androgen Toxicology Review (2022) | Anabolic steroid use suppresses HPG axis and alters SHBG/DHEA-S ratios | Medium | [[Steroid_Abuse_Androgen_Excess_Pattern_Z-001-0578C]] |
+| CGPT_0438_Hormone_Scenarios | Four distinct hormonal patterns for male hypogonadism and hormone disorders | High | [[Male_Hormone_Assessment_Overview_Z-001-0578A]] |
+| Male Endocrinology Textbook (2023) | Prolactinoma is the most common pituitary tumor causing male hypogonadism | High | [[Testosterone_Laboratory_Ranges_Z-001-0578B]] |
+| Androgen Toxicology Review (2022) | Anabolic steroid use suppresses HPG axis and alters SHBG/DHEA-S ratios | Medium | [[SHBG_Impact_Testosterone_Z-001-0578C]] |
 
 ---
 
@@ -176,7 +176,7 @@ Hormone panel pattern → Clinical scenario → Differential diagnosis
 
 ## Related References
 - [[MOC-Hormones]] — Parent MOC
-- [[Hormonal_Pattern_Recognition_Framework_Z-001-0578A]] — Related zettel
+- [[Male_Hormone_Assessment_Overview_Z-001-0578A]] — Related zettel
 - [[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]] — Related LitNote
 
 ---
