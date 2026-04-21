@@ -31,7 +31,7 @@ date: 2026-04-20
 
 | ID | Title | Assignee | Energy | Created | Notes |
 |----|-------|----------|--------|---------|-------|
-| ISSUE-018 | Memory Semantic Search — OpenRouter Config | RON | 30m / $0.10 | 2026-04-21 | Optional enhancement |
+—
 | ISSUE-020 | Orphan Zettel Reconnection — 312 Orphans | RON | 4h / $1.50 | 2026-04-21 | Deferred, non-blocking |
 
 ## Icebox — Maybe Never

@@ -2,12 +2,12 @@
 uid: ISSUES-ACTIVE
 type: dashboard
 title: Active Issues
-date: 2026-04-20
+date: 2026-04-21
 ---
 
 # Active Issues
 
-**Last updated:** 2026-04-20 18:30  
+**Last updated:** 2026-04-21 12:16  
 **Auto-refresh:** Real-time (on progress updates)
 
 ---
@@ -28,9 +28,14 @@ date: 2026-04-20
 
 | Time | Event |
 |------|-------|
-| 18:30 | ISSUE-001 completed — AGENTS.md v2.4 |
-| 18:40 | ISSUE-002 completed — Issues/Agents/Skills system created |
-| 18:48 | ISSUE-003 completed — Naming alignment finished |
+| 10:25 | ISSUE-013 created — Session Closure & Dashboard Update |
+| 10:40 | ISSUE-013 completed — All dashboards synchronized |
+| 10:45 | ISSUE-014 to ISSUE-020 created — Deep self-review |
+| 10:47 | ISSUE-018 activated — Memory Semantic Search |
+| 11:08 | Gateway restart failed — config reset |
+| 11:26 | Config restored from backup |
+| 12:03 | ISSUE-021 created — Bootstrap truncation fix |
+| 12:16 | ISSUE-021 completed — Core files split to READMEs |
 
 ## Blocked
 
@@ -47,15 +52,6 @@ date: 2026-04-20
 | RON | 0 | 0 | 2h / $4.00 |
 | FORG | 0 | 0 | 8h / $2.00 |
 | SCOUT | 0 | 0 | unlimited |
-
----
-
-## Today's Activity
-
-| Time | Event |
-|------|-------|
-| 10:25 | ISSUE-013 created — Session Closure & Dashboard Update |
-| 10:40 | ISSUE-013 completed — All dashboards synchronized |
 
 ---
 

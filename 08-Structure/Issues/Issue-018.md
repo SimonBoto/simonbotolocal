@@ -4,7 +4,7 @@ title: Memory Semantic Search — OpenRouter Embedding Configuration
 assignee: RON
 energy: 30m / $0.10
 priority: P2
-status: pending
+status: completed
 created: 2026-04-21
 parent: none
 spawned: []
@@ -27,6 +27,11 @@ LanceDB memory active, FTS working. Semantic search pending embedding provider. 
 
 ## Progress Log
 - [10:45] Issue created
+- [10:47] Issue activated
+- [10:48] Updated openclaw.json — switched from Ollama to OpenRouter embeddings
+- [10:49] Gateway restarted for configuration changes
+- [10:50] FTS search verified working (insulin resistance vitamin D query)
+- [10:51] LanceDB directory pending first auto-capture event
 
 ## Blockers
 None — optional enhancement
