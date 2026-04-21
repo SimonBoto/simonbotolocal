@@ -1,31 +1,16 @@
 ---
-uid: TEMPLATE-DAILY-005
+uid: TEMPLATE-DAILY-006
 type: template
-title: Template — Daily Note
-description: "Date-stamped daily operational note for continuity, learning, and signal preservation."
+title: Template — Daily Note (v4.0 Enhanced)
+description: "Date-stamped daily operational note for continuity, learning, and signal preservation. Links to zettels, tracks energy, feeds weekly consolidation."
 version: "4.0"
 status: active
-updated: 2026-04-08
+updated: 2026-04-21
 ---
 
 # Template — Daily Note
 
-## An Address to RON
-
-RON,
-
-A Daily Note is an **episodic continuity artifact**.
-
-Not a dashboard. Not doctrine. Not vague journaling.
-
-Its role is to preserve:
-- what happened
-- what mattered
-- what changed
-- what blocked progress
-- what the next session inherits
-
-Capture **signal**, not noise.
+> **Quick Reference:** What happened → What mattered → What links → What carries forward
 
 ---
 
@@ -33,95 +18,109 @@ Capture **signal**, not noise.
 
 ```yaml
 ---
-uid: DAILY-YYYY-MM-DD
-type: daily-note
 date: YYYY-MM-DD
 day: Monday
-tags: [daily]
-parent-moc: "[[MOC-Daily-Operations]]"
-parent-index: "[[Templates-Index]]"
-status: active
-created: YYYY-MM-DD
-updated: YYYY-MM-DD
+type: daily-note
+tags: [daily, session-log]
+parent-index: "[[Daily-Index]]"
 ---
 ```
 
-### Field Logic
+---
 
-| Field | Rule |
-|-------|------|
-| **uid** | Pattern: `DAILY-YYYY-MM-DD` |
-| **type** | Always `daily-note` |
-| **date** | ISO date |
-| **day** | Day of week |
-| **parent-moc** | Thematic home: `[[MOC-Daily-Operations]]` |
-| **parent-index** | Always `[[Templates-Index]]` |
-| **status** | `active` or `archived` |
-| **created** | Date note created |
-| **updated** | Date last modified |
+## Session Metadata
+
+| Field | Value |
+|-------|-------|
+| **Start** | HH:MM |
+| **End** | HH:MM |
+| **Energy** | 🔋 High / 🟡 Medium / 🔴 Low |
+| **Focus** | [Primary objective] |
 
 ---
 
-## Daily Structure
+## Completed
 
-### Today's Focus
-Primary objective: [One sentence]
+### P0 — Critical
+- [x] [Achievement with specific outcome]
 
-If only one thing moves today: [The one thing]
+### P1 — Important
+- [x] [Achievement with specific outcome]
 
----
-
-### Completed
-
-#### Major Achievements
-- [x] [Achievement with impact]
-- [x] [Achievement with impact]
-
-#### Quick Wins
+### Quick Wins
 - [Quick win 1]
 - [Quick win 2]
 
 ---
 
-### Friction & Blockers
-What blocked progress? [Be specific]
-What created confusion? [Be specific]
-What remains unresolved? [Flag for follow-up]
+## Insights & Learnings
+
+### New Understanding
+- [Key insight that changed perspective]
+
+### Patterns Noticed
+- [Recurring theme or behavior]
+
+### Zettel Candidates
+- [Idea worth atomic note] → [[Z-XXX-XXXX]]
+- [Idea worth atomic note] → [[Z-XXX-XXXX]]
 
 ---
 
-### Insights
-What I learned: [Key learning]
-What changed: [State shift]
-What became clearer: [New clarity]
+## Key Connections
 
----
-
-### Key Files
+### Files Worked On
 - [[Filename]] — [Why it mattered]
 - [[Filename]] — [Why it mattered]
 
+### Zettels Referenced
+- [[Z-XXX-XXXX]] — [Context]
+- [[Z-XXX-XXXX]] — [Context]
+
+### Synthesis Updated
+- [[S-XXX-XXXX]] — [What changed]
+
 ---
 
-### Carry Forward
-What the next session must inherit: [Specific handoff]
+## Friction & Blockers
+
+| Issue | Impact | Status |
+|-------|--------|--------|
+| [What blocked] | [How it slowed progress] | 🟡 Pending / 🔴 Blocked |
 
 ---
 
-### Tomorrow
-From [[00-COMMAND]] — Do Now:
-1. [Next priority]
-2. [Next priority]
-3. [Next priority]
+## Carry Forward
+
+### Next Session Must Know
+- [Specific handoff item]
+- [Specific handoff item]
+
+### Open Questions
+- [Question needing answer]
+
+### From [[00-COMMAND]]
+1. [Next P0]
+2. [Next P1]
+3. [Next P2]
+
+---
+
+## Weekly Consolidation Feed
+
+### For Sunday Review
+- **Lessons:** [What to extract to RON-Recent-Lessons]
+- **System Changes:** [What to update in core files]
+- **Zettel Promotions:** [Candidates for subconscious]
 
 ---
 
 ## Navigation
-- **Index:** [[Templates-Index]] — All templates
-- **Up:** [[08-Structure-Index]] — System infrastructure
 - **Yesterday:** [[DAILY-YYYY-MM-DD]]
 - **Tomorrow:** [[DAILY-YYYY-MM-DD]]
+- **Week Review:** [[WEEK-YYYY-WXX]]
+- **Index:** [[Daily-Index]]
 
 ---
 
-*Daily — Signal preserved. Continuity protected.*
+*Daily — Signal preserved. Continuity protected. Knowledge growing.*
