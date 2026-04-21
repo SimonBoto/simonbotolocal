@@ -1,6 +1,7 @@
 ---
 uid: L-002-0207
 type: litnote
+source-origin: unknown
 title: "LDL Lowering Does Not Always Mean Greater Protection (Context-Dependent)"
 aliases:
   - "L-002-0207"

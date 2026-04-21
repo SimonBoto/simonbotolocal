@@ -1,6 +1,7 @@
 ---
 uid: L-001-0633
 type: litnote
+source-origin: unknown
 title: "Mitochondrial Structure Biology L-001-0633"
 aliases:
   - L-001-0633

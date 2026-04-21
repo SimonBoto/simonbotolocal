@@ -1,6 +1,7 @@
 ---
 uid: L-002-0206
 type: litnote
+source-origin: unknown
 title: "Meat Consumption Eliminates Genetic Alzheimer Risk in APOE4 Carriers (Norgren 2026)"
 aliases:
   - "L-002-0206"

@@ -1,6 +1,7 @@
 ---
 uid: L-001-0002
 type: litnote
+source-origin: academic-course
 title: "NKUA 2024 - What Are Metabolites: Basic Biochemistry (DE2)"
 aliases:
   - L-001-0002

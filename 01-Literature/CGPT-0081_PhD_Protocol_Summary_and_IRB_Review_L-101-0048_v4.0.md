@@ -1,6 +1,7 @@
 ---
 uid: L-101-0048
 type: litnote
+source-origin: chatgpt-archive
 title: CGPT-0081 PhD Protocol Summary and IRB Review
 aliases:
   - L-101-0048

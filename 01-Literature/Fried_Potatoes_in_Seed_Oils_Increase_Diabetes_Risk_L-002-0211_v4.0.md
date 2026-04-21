@@ -1,6 +1,7 @@
 ---
 uid: L-002-0211
 type: litnote
+source-origin: unknown
 title: "Fried Potatoes in Seed Oils Increase Diabetes Risk 20% (Oxidized Omega-6)"
 aliases:
   - "L-002-0211"

@@ -1,6 +1,7 @@
 ---
 uid: L-002-0178
 type: litnote
+source-origin: unknown
 title: "Lifestyle and Diet as Primary Disease Determinants (NEJM 2025)"
 aliases:
   - L-002-0178

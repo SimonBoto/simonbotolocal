@@ -1,6 +1,7 @@
 ---
 uid: L-002-0177
 type: litnote
+source-origin: unknown
 title: "Carbohydrate Withdrawal Symptoms and Keto-Adaptation Timeline (Harvey 2019)"
 aliases:
   - L-002-0177

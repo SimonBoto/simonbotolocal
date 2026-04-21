@@ -252,7 +252,7 @@ The "statin side effect" conversation must include:
 - [[MOC-Vitamin-Mineral-Axis]] - Vitamin D details
 - [[MOC-Vitamin-D]] - Vitamin D specific context
 - [[MOC-Mitochondrial-Function]] - CoQ10 and energy context
-- [[L-001-0518_Mevalonate_Pathway_Biochemistry_CGPT-0391]] - Mevalonate pathway details
+- [[Mevalonate_Pathway_Biochemistry_-_Enzymes-_Cofac_L-001-0518_v4.0]] - Mevalonate pathway details
 
 
 

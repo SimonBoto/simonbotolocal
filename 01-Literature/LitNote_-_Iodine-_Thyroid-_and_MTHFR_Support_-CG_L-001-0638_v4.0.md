@@ -1,6 +1,7 @@
 ---
 uid: L-001-0638
 type: litnote
+source-origin: unknown
 title: LitNote - Iodine, Thyroid, and MTHFR Support (CGPT-0199)
 aliases:
   - L-001-0638

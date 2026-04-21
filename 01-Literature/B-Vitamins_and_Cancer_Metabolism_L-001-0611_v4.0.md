@@ -101,7 +101,7 @@ tags:
 
 ## Related References
 - [[MOC-Methylation]] — Parent MOC
-- [[L-001-0401_One_Carbon_Metabolism_B12_CGPT-0264]] — One-carbon metabolism
+- [[One-Carbon_Metabolism_and_Vitamin_B12_Biochemistry_L-001-0401_v4.0]] — One-carbon metabolism
 - [[One_Carbon_Metabolism_Folate_B12_Z-001-1062]] — Related zettel
 
 ---

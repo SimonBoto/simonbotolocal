@@ -1,6 +1,7 @@
 ---
 uid: L-001-0700
 type: litnote
+source-origin: unknown
 title: "Omega-3 Hemodialysis CVD Reduction - NEJM 2026"
 aliases:
   - L-001-0700

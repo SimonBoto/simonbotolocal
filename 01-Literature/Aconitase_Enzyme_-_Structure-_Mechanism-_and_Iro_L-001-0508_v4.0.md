@@ -171,7 +171,7 @@ Fe²⁺ + H₂O₂ → Fe³⁺ + OH• + OH⁻ (Fenton chemistry)
 ## Related References
 - [[MOC-Metabolic-Pathways]] — Parent MOC
 - [[MOC-Mitochondrial-Function]] — Mitochondrial context
-- [[L-001-0507_Organic_Acid_Krebs_Cycle_CGPT-0393]] — Related Krebs cycle markers
+- [[Organic_Acid_Krebs_Cycle_Markers_-_Clinical_Meta_L-001-0507_v4.0]] — Related Krebs cycle markers
 
 ---
 

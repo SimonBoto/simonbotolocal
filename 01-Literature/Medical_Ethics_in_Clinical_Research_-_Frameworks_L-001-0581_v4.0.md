@@ -1,6 +1,7 @@
 ---
 uid: L-001-0581
 type: litnote
+source-origin: unknown
 title: "Lit - Medical Ethics in Clinical Research - Frameworks, Guidelines, and Requirements"
 aliases:
   - L-001-0581
@@ -203,7 +204,7 @@ U.S. regulations (45 CFR 46, FDA) → International standards (ICH-GCP, European
 ## Related References
 - [[MOC-Ethics]] — Parent MOC
 - [[Seven_Requirements_Framework_Z-001-0581A]] — Related zettel
-- [[L-001-0582_MAO_DAO_Enzymes_v4.0]] — Related LitNote
+- [[MAO_and_DAO_Enzymes_-_Monoamine_and_Diamine_Oxid_L-001-0582_v4.0]] — Related LitNote
 
 ---
 

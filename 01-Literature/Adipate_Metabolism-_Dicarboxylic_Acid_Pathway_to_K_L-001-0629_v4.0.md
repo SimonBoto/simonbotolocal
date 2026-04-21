@@ -156,7 +156,7 @@ Succinyl-CoA → Succinate (via succinyl-CoA synthetase, generates GTP)
 - [[MOC-Mitochondrial-Function]] — Parent MOC
 - [[MOC-PhD-Research]] — Research context
 - [[MOC-Lipid-Metabolism]] — Fatty acid metabolism
-- [[L-001-0628_Dicarboxylic_Acid_Formation_Fatty_Acids_CGPT-0586]] — Formation pathway
+- [[Dicarboxylic_Acid_Formation_-_Adipate-_Suberate-_L-001-0628_v4.0]] — Formation pathway
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 uid: L-002-0182
 type: litnote
+source-origin: unknown
 title: "High Glucose vs High Insulin: Insulin Matters More for CVD (Zhao 2019)"
 aliases:
   - L-002-0182

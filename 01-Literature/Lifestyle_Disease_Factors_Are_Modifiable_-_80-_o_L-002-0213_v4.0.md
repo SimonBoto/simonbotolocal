@@ -1,6 +1,7 @@
 ---
 uid: L-002-0213
 type: litnote
+source-origin: unknown
 title: "Lifestyle Disease Factors Are Modifiable - 80% of Health Determinants (Epigenetics)"
 aliases:
   - "L-002-0213"

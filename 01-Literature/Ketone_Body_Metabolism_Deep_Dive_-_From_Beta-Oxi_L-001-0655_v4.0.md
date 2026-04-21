@@ -144,9 +144,9 @@ Highlights the metabolic efficiency advantage of ketones for tissues with high m
 
 - **Parent MOC:** [[MOC-Lipid-Metabolism]]
 - **Source Anchor:** [[CGPT_0647_ATP_Pathways_Overview_CGPT-0647]]
-- **Previous in series:** [[L-001-0654_Hyperinsulinemia_Metabolic_Inflexibility_CGPT-0647]] — How insulin blocks ketogenesis
-- **Next in series:** [[L-001-0656_Dicarboxylic_Acids_Beta_Oxidation_CGPT-0647]] — When beta-oxidation fails
-- **PhD Connection:** [[L-001-0656_Dicarboxylic_Acids_Beta_Oxidation_CGPT-0647]] — Adipic acid clinical significance
+- **Previous in series:** [[Hyperinsulinemia_and_Metabolic_Inflexibility_-_M_L-001-0654_v4.0]] — How insulin blocks ketogenesis
+- **Next in series:** [[KingOfVitamins-Pauling-Vitamin-C-2025_L-001-0656_v4.0]] — When beta-oxidation fails
+- **PhD Connection:** [[KingOfVitamins-Pauling-Vitamin-C-2025_L-001-0656_v4.0]] — Adipic acid clinical significance
 
 ## Connections
 

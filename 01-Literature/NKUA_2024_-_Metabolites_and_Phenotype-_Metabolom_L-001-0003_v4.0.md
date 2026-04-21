@@ -1,6 +1,7 @@
 ---
 uid: L-001-0003
 type: litnote
+source-origin: academic-course
 title: "NKUA 2024 - Metabolites and Phenotype: Metabolomics Advantages in Clinical Practice"
 authors: "Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών"
 year: "2024"

@@ -1,6 +1,7 @@
 ---
 uid: L-002-0180
 type: litnote
+source-origin: unknown
 title: "Personalized Nutrition Halves Heart Attack Risk (Bermingham 2024)"
 aliases:
   - "L-002-0180"

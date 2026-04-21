@@ -1,6 +1,7 @@
 ---
 uid: L-001-0656
 type: litnote
+source-origin: unknown
 title: "Lit - KingOfVitamins_Pauling_Vitamin_C_2025"
 aliases:
   - L-001-0656

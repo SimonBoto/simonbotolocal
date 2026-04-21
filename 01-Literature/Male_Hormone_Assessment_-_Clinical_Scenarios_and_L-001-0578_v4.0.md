@@ -1,6 +1,7 @@
 ---
 uid: L-001-0578
 type: litnote
+source-origin: unknown
 title: "Lit - Male Hormone Assessment - Clinical Scenarios and Pattern Recognition"
 aliases:
   - L-001-0578
@@ -176,7 +177,7 @@ Hormone panel pattern → Clinical scenario → Differential diagnosis
 ## Related References
 - [[MOC-Hormones]] — Parent MOC
 - [[Hormonal_Pattern_Recognition_Framework_Z-001-0578A]] — Related zettel
-- [[L-001-0579_Prolactinoma_Diagnosis_CGPT-0438]] — Related LitNote
+- [[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]] — Related LitNote
 
 ---
 

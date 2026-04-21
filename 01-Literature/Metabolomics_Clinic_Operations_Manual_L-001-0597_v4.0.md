@@ -1,6 +1,7 @@
 ---
 uid: L-001-0597
 type: litnote
+source-origin: unknown
 title: "Lit - Metabolomics Clinic Operations Manual"
 aliases:
   - L-001-0597
@@ -168,7 +169,7 @@ Competency → Competency → Competency → Competency → Competency → Compe
 - [[MOC-Metabolomics]] — Parent MOC
 - [[Clinic_Patient_Flow_Operations_Z-001-1077]] — Related zettel
 - [[Metabolomics_Quality_Standards_Z-001-1078]] — Related zettel
-- [[L-001-0596_Tsoukalas_Research_Bibliography_Curated_Studies_v4.0]] — Related LitNote
+- [[Tsoukalas_Research_Bibliography_Curated_Studies_L-001-0596_v4.0]] — Related LitNote
 
 ---
 

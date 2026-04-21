@@ -1,6 +1,7 @@
 ---
 uid: L-002-0171
 type: litnote
+source-origin: unknown
 title: "High LDL Not Linked to Mortality in Healthy People (Kip 2024)"
 aliases:
   - L-002-0171

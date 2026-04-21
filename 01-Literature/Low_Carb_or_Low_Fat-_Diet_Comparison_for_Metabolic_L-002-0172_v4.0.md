@@ -1,6 +1,7 @@
 ---
 uid: L-002-0172
 type: litnote
+source-origin: unknown
 title: "Low Carb or Low Fat? Diet Comparison for Metabolic Health (Apekey 2022)"
 aliases:
   - L-002-0172

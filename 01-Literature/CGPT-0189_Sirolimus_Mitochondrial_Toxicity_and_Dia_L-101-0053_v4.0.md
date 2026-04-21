@@ -1,6 +1,7 @@
 ---
 uid: L-101-0053
 type: litnote
+source-origin: chatgpt-archive
 title: CGPT-0189 Sirolimus Mitochondrial Toxicity and Diabetes Mechanisms
 aliases:
   - L-101-0053

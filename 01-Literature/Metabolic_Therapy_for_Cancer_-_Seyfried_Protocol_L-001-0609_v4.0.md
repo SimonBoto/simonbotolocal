@@ -138,7 +138,7 @@ tags:
 
 ## Related References
 - [[MOC-Cancer]] — Parent MOC
-- [[L-001-0608_Warburg_Effect_Cancer_Metabolism_CGPT-0264]] — Warburg effect
+- [[Warburg_Effect_and_Cancer_Metabolism_L-001-0608_v4.0]] — Warburg effect
 - [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]] — Therapeutic ketosis
 - [[Ketogenesis_Mechanism_Liver_Mitochondria_Z-001-1094]] — Ketogenesis mechanism
 

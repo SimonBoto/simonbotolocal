@@ -1,6 +1,7 @@
 ---
 uid: L-001-0617
 type: litnote
+source-origin: unknown
 title: "Lit - Statistical Analysis for Omics Research METHAP"
 aliases:
   - L-001-0617
@@ -150,7 +151,7 @@ Internal validation (cross-validation) and external validation ensure model robu
 ## Related References
 - [[MOC-Statistics]] — Parent MOC for statistical methods
 - [[Power_Analysis_Sample_Size_METHAP_Z-001-1149]] — Related zettel on power analysis
-- [[L-001-0617_Statistical_Analysis_Omics_L-001-0617]] — This LitNote
+- [[LitNote_Statistical_Analysis_Omics_L-001-0617_v4.0]] — This LitNote
 
 ---
 

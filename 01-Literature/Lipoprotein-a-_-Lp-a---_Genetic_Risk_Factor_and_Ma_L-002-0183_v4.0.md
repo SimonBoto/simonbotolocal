@@ -1,6 +1,7 @@
 ---
 uid: L-002-0183
 type: litnote
+source-origin: unknown
 title: "Lipoprotein(a) [Lp(a)]: Genetic Risk Factor and Management Strategies"
 aliases:
   - L-002-0183

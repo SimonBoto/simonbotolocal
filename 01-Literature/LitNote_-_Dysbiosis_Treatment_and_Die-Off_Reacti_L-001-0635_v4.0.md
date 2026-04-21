@@ -1,6 +1,7 @@
 ---
 uid: L-001-0635
 type: litnote
+source-origin: unknown
 title: LitNote - Dysbiosis Treatment and Die-Off Reactions (CGPT-0199)
 aliases:
   - L-001-0635

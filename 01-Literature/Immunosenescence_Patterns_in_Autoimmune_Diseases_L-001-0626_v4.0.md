@@ -1,6 +1,7 @@
 ---
 uid: L-001-0626
 type: litnote
+source-origin: unknown
 title: Immunosenescence Patterns in Autoimmune Diseases
 authors: ChatGPT Analysis / Georgin-Lavialle et al.
 year: 2023

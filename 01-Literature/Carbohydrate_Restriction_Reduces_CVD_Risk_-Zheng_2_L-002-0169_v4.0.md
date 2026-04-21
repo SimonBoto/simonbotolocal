@@ -1,6 +1,7 @@
 ---
 uid: L-002-0169
 type: litnote
+source-origin: unknown
 title: "Carbohydrate Restriction Reduces CVD Risk (Zheng 2025)"
 aliases:
   - L-002-0169

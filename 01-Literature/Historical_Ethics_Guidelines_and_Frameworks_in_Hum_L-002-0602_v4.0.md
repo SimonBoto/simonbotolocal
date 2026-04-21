@@ -1,6 +1,7 @@
 ---
 uid: L-002-0602
 type: litnote
+source-origin: unknown
 title: "Historical Ethics Guidelines and Frameworks in Human Subjects Research"
 aliases:
   - L-002-0602

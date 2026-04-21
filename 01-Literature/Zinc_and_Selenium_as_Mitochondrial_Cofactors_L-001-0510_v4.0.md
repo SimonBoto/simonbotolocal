@@ -170,7 +170,7 @@ H₂O (water)
 ## Related References
 - [[MOC-Mitochondrial-Function]] — Parent MOC
 - [[MOC-Antioxidant-Defense]] — Antioxidant context
-- [[L-001-0509_Mevalonate_Pathway_CGPT-0393]] — Related mitochondrial support
+- [[Mevalonate_Pathway_-_From_Acetyl-CoA_to_Choleste_L-001-0509_v4.0]] — Related mitochondrial support
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 uid: L-001-0577
 type: litnote
+source-origin: unknown
 title: "Lit - VDR and Mitochondrial Knockout Studies - Genetic Models of Vitamin D and Mitochondrial Dysfunction"
 aliases:
   - L-001-0577
@@ -194,7 +195,7 @@ mtDNA mutations → Respiratory defects, ROS increase, metabolic reprogramming, 
 ## Related References
 - [[MOC-Genetics]] — Parent MOC
 - [[VDR_Knockout_Model_Z-001-0577A]] — Related zettel
-- [[L-001-0578_VDR_Mitochondrial_Clinical_Applications_CGPT-0311]] — Related LitNote
+- [[Male_Hormone_Assessment_-_Clinical_Scenarios_and_L-001-0578_v4.0]] — Related LitNote
 
 ---
 

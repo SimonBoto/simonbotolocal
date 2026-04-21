@@ -1,6 +1,7 @@
 ---
 uid: L-001-0594
 type: litnote
+source-origin: unknown
 title: "Lit - OAT Interpretation Clinical Protocol"
 aliases:
   - L-001-0594
@@ -211,7 +212,7 @@ HPHPA ↑ → Antimicrobial therapy
 - [[MOC-Metabolomics]] — Parent MOC
 - [[OAT_Category_Interpretation_Framework_Z-001-1065]] — Related zettel
 - [[OAT_Mitochondrial_Patterns_Z-001-1067]] — Related zettel
-- [[L-001-0593_Vitamin_Mineral_Axis_Clinical_Biochemistry_v4.0]] — Related LitNote
+- [[Vitamin_Mineral_Axis_Clinical_Biochemistry_L-001-0593_v4.0]] — Related LitNote
 
 ---
 

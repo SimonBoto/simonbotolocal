@@ -1,6 +1,7 @@
 ---
 uid: L-001-0596
 type: litnote
+source-origin: unknown
 title: "Lit - Tsoukalas Research Bibliography Curated Studies"
 aliases:
   - L-001-0596
@@ -171,7 +172,7 @@ Mediterranean Diet → Cardiovascular Protection → Metabolic Health → Respir
 - [[MOC-Metabolomics]] — Parent MOC
 - [[Metabolomics_Research_Core_Bibliography_Z-001-1074]] — Related zettel
 - [[Vitamin_D_Safety_Research_Summary_Z-001-1075]] — Related zettel
-- [[L-001-0595_Patient_Communication_Scripts_and_Objection_Handling_v4.0]] — Related LitNote
+- [[Patient_Communication_Scripts_and_Objection_Handli_L-001-0595_v4.0]] — Related LitNote
 
 ---
 

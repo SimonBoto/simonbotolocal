@@ -1,6 +1,7 @@
 ---
 uid: L-001-0592
 type: litnote
+source-origin: unknown
 title: "Lit - Fatty Acid Metabolism and Lipid Signaling"
 aliases:
   - L-001-0592
@@ -196,7 +197,7 @@ Acylcarnitine + CoA → Acyl-CoA + Carnitine (CPT2)
 - [[MOC-Mitochondrial-Function]] — Parent MOC
 - [[Beta_Oxidation_Clinical_Mechanisms_Z-001-1054]] — Related zettel
 - [[Fatty_Acid_Subclasses_Desaturase_Pathways_Z-001-1055]] — Related zettel
-- [[L-001-0591_Mitochondrial_Biochemistry_for_Clinicians_v4.0]] — Related LitNote
+- [[Mitochondrial_Biochemistry_for_Clinicians_L-001-0591_v4.0]] — Related LitNote
 
 ---
 

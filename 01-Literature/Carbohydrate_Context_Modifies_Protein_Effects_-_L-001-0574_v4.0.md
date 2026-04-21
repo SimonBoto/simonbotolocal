@@ -1,6 +1,7 @@
 ---
 uid: L-001-0574
 type: litnote
+source-origin: unknown
 title: "Lit - Carbohydrate Context Modifies Protein Effects - The Missing Variable in CKD Research"
 aliases:
   - L-001-0574
@@ -193,7 +194,7 @@ Clinical decisions based on carb context → Different protein recommendations
 ## Related References
 - [[MOC-Metabolic-Syndrome]] — Parent MOC
 - [[Carb_Context_Problem_Z-001-0574A]] — Related zettel
-- [[L-001-0575_Protein_Acid_Load_CGPT-0370]] — Related LitNote
+- [[CKD_Nutritional_Assessment_-_Albumin_vs_Intake-_L-001-0575_v4.0]] — Related LitNote
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 uid: L-001-0590
 type: litnote
+source-origin: unknown
 title: "Lit - Core Clinical Vocabulary - 66 Metabolomics Terms"
 aliases:
   - L-001-0590
@@ -244,7 +245,7 @@ Metabolism → Energy → Inflammation → Oxidative Stress → Mitochondria →
 - [[MOC-Metabolomics]] — Parent MOC
 - [[Health_Philosophy_Core_Concepts_Z-001-1041]] — Related zettel
 - [[Metabolism_Metabolomics_Terminology_Z-001-1042]] — Related zettel
-- [[L-001-0589_8_Week_Metabolomics_Bootcamp_v4.0]] — Related LitNote
+- [[8-Week_Metabolomics_Bootcamp_Curriculum_L-001-0589_v4.0]] — Related LitNote
 
 ---
 

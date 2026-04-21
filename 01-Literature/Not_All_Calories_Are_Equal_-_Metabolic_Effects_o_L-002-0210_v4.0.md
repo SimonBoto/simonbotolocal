@@ -1,6 +1,7 @@
 ---
 uid: L-002-0210
 type: litnote
+source-origin: unknown
 title: "Not All Calories Are Equal - Metabolic Effects of Macronutrients (Ebbeling 2018)"
 aliases:
   - "L-002-0210"

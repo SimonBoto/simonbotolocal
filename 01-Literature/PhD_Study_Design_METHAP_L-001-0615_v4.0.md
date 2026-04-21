@@ -1,6 +1,7 @@
 ---
 uid: L-001-0615
 type: litnote
+source-origin: unknown
 title: PhD Study Design and Methodology METHAP Trial
 aliases:
   - L-001-0615

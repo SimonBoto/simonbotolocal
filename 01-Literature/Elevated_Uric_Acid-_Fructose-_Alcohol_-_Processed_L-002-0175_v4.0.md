@@ -1,6 +1,7 @@
 ---
 uid: L-002-0175
 type: litnote
+source-origin: unknown
 title: "Elevated Uric Acid: Fructose, Alcohol & Processed Foods (Chi 2024)"
 aliases:
   - L-002-0175

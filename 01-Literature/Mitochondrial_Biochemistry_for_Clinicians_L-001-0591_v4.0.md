@@ -1,6 +1,7 @@
 ---
 uid: L-001-0591
 type: litnote
+source-origin: unknown
 title: "Lit - Mitochondrial Biochemistry for Clinicians"
 aliases:
   - L-001-0591
@@ -229,7 +230,7 @@ Aconitase: [4Fe-4S] cluster → Fe²⁺ + H₂O₂ → [3Fe-4S] + OH⁻ + Fe³�
 - [[MOC-Mitochondrial-Function]] — Parent MOC
 - [[Krebs_Cycle_Clinical_Biochemistry_Z-001-1048]] — Related zettel
 - [[Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050]] — Related zettel
-- [[L-001-0590_Core_Clinical_Vocabulary_66_Metabolomics_Terms_v4.0]] — Related LitNote
+- [[Core_Clinical_Vocabulary_-_66_Metabolomics_Terms_L-001-0590_v4.0]] — Related LitNote
 
 ---
 

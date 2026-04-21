@@ -1,6 +1,7 @@
 ---
 uid: L-002-0205
 type: litnote
+source-origin: unknown
 title: "Alcohol Causes 1.8 Million Deaths Annually (GBD 2019)"
 aliases:
   - "L-002-0205"

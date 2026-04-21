@@ -1,6 +1,7 @@
 ---
 uid: L-002-0181
 type: litnote
+source-origin: unknown
 title: "Fasting Enhances Immunotherapy Effectiveness in Cancer Patients"
 aliases:
   - L-002-0181

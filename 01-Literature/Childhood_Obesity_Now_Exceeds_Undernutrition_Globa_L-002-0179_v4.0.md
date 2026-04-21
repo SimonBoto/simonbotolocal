@@ -1,6 +1,7 @@
 ---
 uid: L-002-0179
 type: litnote
+source-origin: unknown
 title: "Childhood Obesity Now Exceeds Undernutrition Globally (Kavanagh 2026)"
 aliases:
   - L-002-0179

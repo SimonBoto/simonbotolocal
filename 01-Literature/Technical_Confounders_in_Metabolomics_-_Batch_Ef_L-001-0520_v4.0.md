@@ -133,7 +133,7 @@ The gastric cancer study showed "clear separation" between groups, but:
 extracted_by: FORG
 extraction-date: "2026-03-06"
 **Key Process:** 
-- [[L-001-0520_Technical_Confounders_Metabolomics_L-001-0520]] — This LitNote
+- [[Technical_Confounders_in_Metabolomics_-_Batch_Ef_L-001-0520_v4.0]] — This LitNote
 *Literature note processed: 2026-04-10 | FORG v4.0*  
   - litnote
 Mass spec sensitivity drifts over hours/days; retention times shift slightly; ionization efficiency changes; without QC monitoring, drift appears as biological signal.

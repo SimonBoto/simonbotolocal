@@ -1,6 +1,7 @@
 ---
 uid: L-101-0047
 type: litnote
+source-origin: chatgpt-archive
 title: CGPT-0505 Vitamin C to Oxalate Conversion Pathways
 aliases:
   - L-101-0047

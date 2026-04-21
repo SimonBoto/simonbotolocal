@@ -103,7 +103,7 @@ tags:
 
 ## Related References
 - [[MOC-Cancer]] — Parent MOC
-- [[L-001-0613_TP53_Multiple_Myeloma_CGPT-0264]] — TP53 in myeloma
+- [[TP53_Multiple_Myeloma_L-001-0613_v4.0]] — TP53 in myeloma
 - [[TP53_Multiple_Myeloma_Prognosis_Therapy_Z-001-1135]] — TP53 zettel
 
 ---

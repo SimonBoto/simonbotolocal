@@ -133,7 +133,7 @@ Hexanoyl-CoA + O₂ + NADPH → ω-Hydroxyhexanoyl-CoA + NADP⁺ + H₂O
 - [[MOC-PhD-Research]] — Parent MOC
 - [[MOC-Lipid-Metabolism]] — Fatty acid metabolism context
 - [[MOC-Mitochondrial-Function]] — β-oxidation location
-- [[L-001-0629_Adipate_Metabolism_Dicarboxylic_Pathway_CGPT-0586]] — Metabolic completion
+- [[Adipate_Metabolism-_Dicarboxylic_Acid_Pathway_to_K_L-001-0629_v4.0]] — Metabolic completion
 
 ---
 

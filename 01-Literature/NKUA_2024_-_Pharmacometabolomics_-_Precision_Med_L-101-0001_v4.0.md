@@ -1,6 +1,7 @@
 ---
 uid: L-101-0001
 type: litnote
+source-origin: academic-course
 title: "NKUA 2024 - Pharmacometabolomics & Precision Medicine (Course 3175, DE4)"
 aliases:
   - L-101-0001

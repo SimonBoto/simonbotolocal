@@ -320,8 +320,8 @@ HDL matures → Liver uptake (SR-B1) → Bile excretion
 ## Related References
 - [[MOC-Lipid-Metabolism]] — Parent MOC
 - [[MOC-Cardiovascular-Health]] — Clinical context
-- [[L-001-0518_Mevalonate_Pathway_Biochemistry_CGPT-0391]] — Mevalonate pathway
-- [[L-001-0505_Ancel_Keys_Diet_Heart_CGPT-0445]] — Diet-heart hypothesis
+- [[Mevalonate_Pathway_Biochemistry_-_Enzymes-_Cofac_L-001-0518_v4.0]] — Mevalonate pathway
+- [[Ancel_Keys_and_the_Diet-Heart_Hypothesis_-Scientif_L-001-0505_v4.0]] — Diet-heart hypothesis
 
 ---
 

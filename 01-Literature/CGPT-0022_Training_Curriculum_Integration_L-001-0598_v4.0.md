@@ -1,6 +1,7 @@
 ---
 uid: L-001-0598
 type: litnote
+source-origin: chatgpt-archive
 title: "Lit - CGPT-0022 Training Curriculum Integration"
 aliases:
   - L-001-0598
@@ -162,7 +163,7 @@ MOC-Metabolomics-Training → Domain-Specific MOCs → Clinical Application
 - [[MOC-Metabolomics]] — Parent MOC
 - [[CGPT_0022_Curriculum_Master_Index_Z-001-1081]] — Related zettel
 - [[Metabolomics_Training_MOC_Graph_Z-001-1082]] — Related zettel
-- [[L-001-0597_Metabolomics_Clinic_Operations_Manual_v4.0]] — Related LitNote
+- [[Metabolomics_Clinic_Operations_Manual_L-001-0597_v4.0]] — Related LitNote
 
 ---
 

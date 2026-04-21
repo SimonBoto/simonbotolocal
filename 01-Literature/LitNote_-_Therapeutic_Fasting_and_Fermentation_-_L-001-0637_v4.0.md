@@ -1,6 +1,7 @@
 ---
 uid: L-001-0637
 type: litnote
+source-origin: unknown
 title: LitNote - Therapeutic Fasting and Fermentation (CGPT-0199)
 aliases:
   - L-001-0637

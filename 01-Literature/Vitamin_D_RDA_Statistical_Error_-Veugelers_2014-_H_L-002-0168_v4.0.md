@@ -1,6 +1,7 @@
 ---
 uid: L-002-0168
 type: litnote
+source-origin: unknown
 title: "Vitamin D RDA Statistical Error (Veugelers 2014, Heaney 2015)"
 aliases:
   - "L-002-0168"

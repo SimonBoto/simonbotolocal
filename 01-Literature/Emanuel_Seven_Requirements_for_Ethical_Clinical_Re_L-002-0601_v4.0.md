@@ -1,6 +1,7 @@
 ---
 uid: L-002-0601
 type: litnote
+source-origin: unknown
 title: "Emanuel Seven Requirements for Ethical Clinical Research"
 aliases:
   - L-002-0601

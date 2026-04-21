@@ -1,6 +1,7 @@
 ---
 uid: L-001-0595
 type: litnote
+source-origin: unknown
 title: "Lit - Patient Communication Scripts and Objection Handling"
 aliases:
   - L-001-0595
@@ -167,7 +168,7 @@ Email Report → Concise Format → Key Metrics → Interpretation → Recommend
 - [[MOC-Metabolomics]] — Parent MOC
 - [[Metabolic_Storytelling_Patient_Framework_Z-001-1070]] — Related zettel
 - [[Patient_Objection_Response_Scripts_Z-001-1071]] — Related zettel
-- [[L-001-0590_Core_Clinical_Vocabulary_66_Metabolomics_Terms_v4.0]] — Related LitNote
+- [[Core_Clinical_Vocabulary_-_66_Metabolomics_Terms_L-001-0590_v4.0]] — Related LitNote
 
 ---
 

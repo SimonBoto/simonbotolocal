@@ -144,8 +144,8 @@ tags:
 ## Related References
 - [[MOC-Lipid-Metabolism]] — Parent MOC
 - [[MOC-Mitochondrial-Function]] — CoQ10 context
-- [[L-001-0501_Cholesterol_Biology_Lipid_Metabolism_CGPT-0086]] — Cholesterol metabolism
-- [[L-001-0507_Organic_Acid_Krebs_Cycle_CGPT-0393]] — Related mitochondrial markers
+- [[Cholesterol_Biology_and_Lipid_Metabolism_in_Aging_L-001-0501_v4.0]] — Cholesterol metabolism
+- [[Organic_Acid_Krebs_Cycle_Markers_-_Clinical_Meta_L-001-0507_v4.0]] — Related mitochondrial markers
 
 ---
 

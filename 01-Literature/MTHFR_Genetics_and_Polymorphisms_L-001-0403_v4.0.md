@@ -210,7 +210,7 @@ MTHFR genotyping methods:
 ## Related References
 - [[MOC-Methylation]] — Parent MOC
 - [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]] — Related zettel
-- [[L-001-0403_MTHFR_Genetics_L-001-0403]] — Related LitNote
+- [[MTHFR_Genetics_and_Polymorphisms_L-001-0403_v4.0]] — Related LitNote
 
 ---
 

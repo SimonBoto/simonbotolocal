@@ -1,6 +1,7 @@
 ---
 uid: L-002-0603
 type: litnote
+source-origin: unknown
 title: "Ethics Committee Communication and Follow-Up Protocol"
 aliases:
   - L-002-0603

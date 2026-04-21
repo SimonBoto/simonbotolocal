@@ -1,6 +1,7 @@
 ---
 uid: L-001-0004
 type: litnote
+source-origin: academic-course
 title: "NKUA 2024 - Metabolic Disorders and Diagnosis via Metabolomics (DE4)"
 authors: "Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών"
 year: "2024"

@@ -1,6 +1,7 @@
 ---
 uid: L-002-0201
 type: litnote
+source-origin: unknown
 title: "Artificial Sweeteners Increase Body Fat (Steffen 2023, CARDIA)"
 aliases:
   - "L-002-0201"

@@ -1,6 +1,7 @@
 ---
 uid: L-001-0588
 type: litnote
+source-origin: unknown
 title: "Lit - Metabolomics Chief Instructor Framework"
 aliases:
   - L-001-0588
@@ -183,7 +184,7 @@ Let trainee make common error → Model correction → Explain why pattern leads
 ## Related References
 - [[MOC-Metabolomics]] — Parent MOC
 - [[Metabolomics_Chief_Instructor_Role_Definition_Z-001-1029]] — Related zettel
-- [[L-001-0589_8_Week_Metabolomics_Bootcamp_v4.0]] — Related LitNote
+- [[8-Week_Metabolomics_Bootcamp_Curriculum_L-001-0589_v4.0]] — Related LitNote
 
 ---
 

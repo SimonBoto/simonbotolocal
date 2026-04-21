@@ -1,6 +1,7 @@
 ---
 uid: L-001-0579
 type: litnote
+source-origin: unknown
 title: "Lit - Hypothalamic-Pituitary-Gonadal Axis - Hormone Cascade and Regulation"
 aliases:
   - L-001-0579
@@ -205,7 +206,7 @@ Cortisol → inhibit GnRH → cause stress-induced hypogonadism
 ## Related References
 - [[MOC-Endocrinology]] — Parent MOC
 - [[Hormonal_Hierarchy_Framework_Z-001-0579A]] — Related zettel
-- [[L-001-0578_Male_Hormone_Assessment_Clinical_Scenarios_v4.0]] — Related LitNote
+- [[Male_Hormone_Assessment_-_Clinical_Scenarios_and_L-001-0578_v4.0]] — Related LitNote
 
 ---
 

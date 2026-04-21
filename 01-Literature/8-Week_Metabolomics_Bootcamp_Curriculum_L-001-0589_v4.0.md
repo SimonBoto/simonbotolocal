@@ -1,6 +1,7 @@
 ---
 uid: L-001-0589
 type: litnote
+source-origin: unknown
 title: "Lit - 8-Week Metabolomics Bootcamp Curriculum"
 aliases:
   - L-001-0589
@@ -201,7 +202,7 @@ Military Instructor → Socratic Mentor → Hybrid Precision → Choice based on
 ## Related References
 - [[MOC-Metabolomics]] — Parent MOC
 - [[Bootcamp_Four_Phase_Structure_Z-001-1035]] — Related zettel
-- [[L-001-0590_Core_Clinical_Vocabulary_66_Terms_v4.0]] — Related LitNote
+- [[Core_Clinical_Vocabulary_-_66_Metabolomics_Terms_L-001-0590_v4.0]] — Related LitNote
 
 ---
 

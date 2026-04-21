@@ -1,6 +1,7 @@
 ---
 uid: L-101-0046
 type: litnote
+source-origin: chatgpt-archive
 title: CGPT-0413 Oxalic Acid Chemistry and Metabolism
 aliases:
   - L-101-0046

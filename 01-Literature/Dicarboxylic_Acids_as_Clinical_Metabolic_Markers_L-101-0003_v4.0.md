@@ -86,7 +86,7 @@ reference-count: 0
 ## Related References
 - [[MOC-Metabolomics]]— Parent MOC
 - [[MOC-PhD-Research]] — Research context
-- [[L-101-0002_Adipic_Acid_Biochemistry_Omega_Oxidation_CGPT-0586]] — Related LitNote
+- [[Adipic_Acid_Biochemistry_and_Omega-Oxidation_Pathw_L-101-0002_v4.0]] — Related LitNote
 
 ---
 

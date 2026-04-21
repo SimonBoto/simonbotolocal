@@ -1,6 +1,7 @@
 ---
 uid: L-001-0583
 type: litnote
+source-origin: unknown
 title: "Lit - Nintedanib (Ofev) - Tyrosine Kinase Inhibitor Mechanism and Clinical Use"
 aliases:
   - L-001-0583
@@ -202,7 +203,7 @@ Safety: Diarrhea (gut kinase inhibition), Hepatotoxicity (ALT/AST monitoring), B
 ## Related References
 - [[MOC-Pharmacology]] — Parent MOC
 - [[Nintedanib_Drug_Overview_Framework_Z-001-0583A]] — Related zettel
-- [[L-001-0584_Five_Pillars_Metabolic_Health_v4.0]] — Related LitNote
+- [[Five_Pillars_of_Metabolic_Health_-_Clinical_Conf_L-001-0584_v4.0]] — Related LitNote
 
 ---
 

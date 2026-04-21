@@ -174,7 +174,7 @@ When aconitase is impaired:
 ## Related References
 - [[MOC-Mitochondrial-Function]] — Parent MOC
 - [[MOC-Metabolomics]] — Clinical metabolomics context
-- [[L-001-0508_Aconitase_Enzyme_CGPT-0393]] — Aconitase enzyme details
+- [[Aconitase_Enzyme_-_Structure-_Mechanism-_and_Iro_L-001-0508_v4.0]] — Aconitase enzyme details
 
 ---
 

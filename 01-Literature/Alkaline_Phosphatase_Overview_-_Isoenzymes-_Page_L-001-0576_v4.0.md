@@ -1,6 +1,7 @@
 ---
 uid: L-001-0576
 type: litnote
+source-origin: unknown
 title: "Lit - Alkaline Phosphatase Overview - Isoenzymes, Paget's Disease, and Clinical Interpretation"
 aliases:
   - L-001-0576
@@ -194,7 +195,7 @@ ALP interpretation: Mild elevation (common), Moderate (investigate), Marked (sig
 ## Related References
 - [[MOC-Biomarkers]] — Parent MOC
 - [[ALP_Isoenzymes_Tissue_Sources_Z-001-0576A]] — Related zettel
-- [[L-001-0577_ALP_Laboratory_Interpretation_CGPT-0345]] — Related LitNote
+- [[VDR_and_Mitochondrial_Knockout_Studies_-_Genetic_L-001-0577_v4.0]] — Related LitNote
 
 ---
 

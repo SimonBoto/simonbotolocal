@@ -1,6 +1,7 @@
 ---
 uid: L-002-0176
 type: litnote
+source-origin: unknown
 title: "High-Fat Cheese Linked to Reduced Dementia Risk (Du 2026)"
 aliases:
   - L-002-0176

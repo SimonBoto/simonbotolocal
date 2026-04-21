@@ -94,7 +94,7 @@ When β-oxidation is impaired:
 ## Related References
 - [[MOC-Mitochondrial-Function]] — Parent MOC
 - [[MOC-PhD-Research]] — Research context
-- [[L-001-0628_Dicarboxylic_Acid_Formation_Fatty_Acids_CGPT-0586]] — Related LitNote
+- [[Dicarboxylic_Acid_Formation_-_Adipate-_Suberate-_L-001-0628_v4.0]] — Related LitNote
 
 ---
 

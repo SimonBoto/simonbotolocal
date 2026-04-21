@@ -1,6 +1,7 @@
 ---
 uid: L-101-0052
 type: litnote
+source-origin: chatgpt-archive
 title: CGPT-0359 Questionnaire Compliance and Ethics Application
 aliases:
   - L-101-0052

@@ -1,6 +1,7 @@
 ---
 uid: L-001-0606
 type: litnote
+source-origin: unknown
 title: "Lit - McCarty_Nicotine_Biosynthesis_2026"
 aliases:
   - L-001-0606

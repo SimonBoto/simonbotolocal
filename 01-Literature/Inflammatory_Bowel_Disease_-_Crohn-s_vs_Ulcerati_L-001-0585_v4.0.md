@@ -1,6 +1,7 @@
 ---
 uid: L-001-0585
 type: litnote
+source-origin: unknown
 title: "Lit - Inflammatory Bowel Disease - Crohn's vs Ulcerative Colitis Pathophysiology"
 aliases:
   - L-001-0585
@@ -202,7 +203,7 @@ Crohn's: Transmural healing → Fistulas/strictures prevention → Surgery often
 ## Related References
 - [[MOC-Gastroenterology]] — Parent MOC
 - [[Pathophysiology_Overview_Framework_Z-001-0585A]] — Related zettel
-- [[L-001-0586_Manuscript_Review_Critical_Concerns_v4.0]] — Related LitNote
+- [[Manuscript_Review_Critical_Concerns_-_Peer_Revie_L-001-0586_v4.0]] — Related LitNote
 
 ---
 

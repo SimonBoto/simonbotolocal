@@ -1,6 +1,7 @@
 ---
 uid: L-101-0051
 type: litnote
+source-origin: chatgpt-archive
 title: CGPT-0205 Ethics Committee Communication
 aliases:
   - L-101-0051

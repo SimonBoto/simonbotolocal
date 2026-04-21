@@ -1,6 +1,7 @@
 ---
 uid: L-101-0050
 type: litnote
+source-origin: unknown
 title: "Medical Ethics Frameworks and Case Studies"
 authors: ChatGPT / Simos X Dialog (CGPT-0131)
 year: 2025
@@ -106,7 +107,7 @@ reference-count: 0
 ## Related References
 - [[MOC-Research-Ethics]] — Parent MOC
 - [[MOC-PhD-Research]] — Research context
-- [[L-101-0048_CGPT_0081_PhD_Protocol_IRB_CGPT-0081]] — IRB protocol
+- [[CGPT-0081_PhD_Protocol_Summary_and_IRB_Review_L-101-0048_v4.0]] — IRB protocol
 
 ---
 

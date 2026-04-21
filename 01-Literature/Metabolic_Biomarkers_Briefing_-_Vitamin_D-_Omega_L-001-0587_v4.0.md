@@ -1,6 +1,7 @@
 ---
 uid: L-001-0587
 type: litnote
+source-origin: unknown
 title: "Lit - Metabolic Biomarkers Briefing - Vitamin D, Omega-3, Inflammation, Glycation"
 aliases:
   - L-001-0587
@@ -198,7 +199,7 @@ Core panel: Vitamin D, Omega-3 Index, hsCRP, Homocysteine, HbA1c → Plus compre
 ## Related References
 - [[MOC-Metabolic-Syndrome]] — Parent MOC
 - [[Vitamin_D_Biomarker_Framework_Z-001-0587A]] — Related zettel
-- [[L-001-0588_Metabolomics_Chief_Instructor_Framework_v4.0]] — Related LitNote
+- [[Metabolomics_Chief_Instructor_Framework_L-001-0588_v4.0]] — Related LitNote
 
 ---
 

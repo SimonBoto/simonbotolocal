@@ -1,6 +1,7 @@
 ---
 uid: L-001-0599
 type: litnote
+source-origin: chatgpt-archive
 title: "Lit - CGPT-0022 Extraction Completion Summary"
 aliases:
   - L-001-0599
@@ -164,7 +165,7 @@ Week 1-2 → Week 3-4 → Week 5-6 → Week 7-8 → Ongoing Training
 - [[MOC-Metabolomics]] — Parent MOC
 - [[CGPT_0022_Extraction_Master_Index_Z-001-1083]] — Related zettel
 - [[CGPT_0022_Quality_Verification_Framework_Z-001-1084]] — Related zettel
-- [[L-001-0598_CGPT-0022_Training_Curriculum_Integration_v4.0]] — Related LitNote
+- [[CGPT-0022_Training_Curriculum_Integration_L-001-0598_v4.0]] — Related LitNote
 
 ---
 

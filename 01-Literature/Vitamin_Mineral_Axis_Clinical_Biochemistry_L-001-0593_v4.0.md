@@ -1,6 +1,7 @@
 ---
 uid: L-001-0593
 type: litnote
+source-origin: unknown
 title: "Lit - Vitamin Mineral Axis Clinical Biochemistry"
 aliases:
   - L-001-0593
@@ -230,7 +231,7 @@ HPHPA → Clostridia overgrowth (neurotoxic marker)
 - [[MOC-Vitamin-Mineral-Axis]] — Parent MOC
 - [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]] — Related zettel
 - [[Magnesium_Biochemistry_Clinical_Roles_Z-001-1060]] — Related zettel
-- [[L-001-0592_Fatty_Acid_Metabolism_and_Lipid_Signaling_v4.0]] — Related LitNote
+- [[Fatty_Acid_Metabolism_and_Lipid_Signaling_L-001-0592_v4.0]] — Related LitNote
 
 ---
 

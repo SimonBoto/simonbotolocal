@@ -1,6 +1,7 @@
 ---
 uid: L-001-0636
 type: litnote
+source-origin: unknown
 title: LitNote - Gut Healing Nutrients and Amino Acids (CGPT-0199)
 aliases:
   - L-001-0636

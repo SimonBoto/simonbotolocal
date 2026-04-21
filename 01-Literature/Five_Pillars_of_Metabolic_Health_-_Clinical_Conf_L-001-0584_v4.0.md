@@ -1,6 +1,7 @@
 ---
 uid: L-001-0584
 type: litnote
+source-origin: unknown
 title: "Lit - Five Pillars of Metabolic Health - Clinical Conference Framework"
 aliases:
   - L-001-0584
@@ -199,7 +200,7 @@ Assessment flow: Mitochondrial → Metabolomics → Glycation → Minerals → F
 ## Related References
 - [[MOC-Metabolic-Syndrome]] — Parent MOC
 - [[Pillar_1_Mitochondrial_Health_Framework_Z-001-0584A]] — Related zettel
-- [[L-001-0585_IBD_Crohns_UC_Pathophysiology_v4.0]] — Related LitNote
+- [[Inflammatory_Bowel_Disease_-_Crohn-s_vs_Ulcerati_L-001-0585_v4.0]] — Related LitNote
 
 ---
 

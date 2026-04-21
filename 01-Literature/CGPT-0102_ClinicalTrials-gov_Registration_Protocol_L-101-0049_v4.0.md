@@ -1,6 +1,7 @@
 ---
 uid: L-101-0049
 type: litnote
+source-origin: chatgpt-archive
 title: CGPT-0102 ClinicalTrials.gov Registration Protocol
 aliases:
   - L-101-0049

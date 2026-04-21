@@ -1,6 +1,7 @@
 ---
 uid: L-001-0586
 type: litnote
+source-origin: unknown
 title: "Lit - Manuscript Review Critical Concerns - Peer Review and Research Appraisal"
 aliases:
   - L-001-0586
@@ -195,7 +196,7 @@ Types: Financial → Intellectual → Personal → Disclosure: Required → Mana
 ## Related References
 - [[MOC-Research]] — Parent MOC
 - [[Reviewers_Role_Framework_Z-001-0586A]] — Related zettel
-- [[L-001-0587_Metabolic_Biomarkers_Briefing_v4.0]] — Related LitNote
+- [[Metabolic_Biomarkers_Briefing_-_Vitamin_D-_Omega_L-001-0587_v4.0]] — Related LitNote
 
 ---
 

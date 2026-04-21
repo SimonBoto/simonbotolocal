@@ -50,7 +50,7 @@ def audit_phantom_links(litnotes_dir, vault_dir, output_file):
                 })
     
     # Write report
-    with open(output_file, 'w') as f:
+    with open(output_file, 'w', encoding='utf-8', errors='replace') as f:
         f.write("# Phantom Links Audit Report\n\n")
         f.write(f"Total phantom links: {len(phantom_links)}\n\n")
         

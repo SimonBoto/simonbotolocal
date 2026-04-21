@@ -1,6 +1,7 @@
 ---
 uid: L-001-0582
 type: litnote
+source-origin: unknown
 title: "Lit - MAO and DAO Enzymes - Monoamine and Diamine Oxidase Function and Interactions"
 aliases:
   - L-001-0582
@@ -198,7 +199,7 @@ Selectivity minimizes off-target effects → Xadago example of clean MAO-B selec
 ## Related References
 - [[MOC-Pharmacology]] — Parent MOC
 - [[MAO_Enzyme_Framework_Z-001-0582A]] — Related zettel
-- [[L-001-0583_Nintedanib_Ofev_TKI_v4.0]] — Related LitNote
+- [[Nintedanib_-Ofev-_-_Tyrosine_Kinase_Inhibitor_Me_L-001-0583_v4.0]] — Related LitNote
 
 ---
 

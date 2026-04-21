@@ -1,6 +1,7 @@
 ---
 uid: L-001-0620
 type: litnote
+source-origin: unknown
 title: Self-Education Program for Clinical Metabolomics Team
 authors: ChatGPT Analysis
 year: 2024

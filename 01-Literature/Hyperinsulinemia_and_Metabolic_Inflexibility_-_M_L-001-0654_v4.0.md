@@ -123,8 +123,8 @@ Provides the conceptual framework connecting cellular mechanisms to clinical phe
 
 - **Parent MOC:** [[MOC-Insulin-Signaling]]
 - **Source Anchor:** [[CGPT_0647_ATP_Pathways_Overview_CGPT-0647]]
-- **Next in series:** [[L-001-0655_Ketone_Body_Metabolism_CGPT-0647]] — Alternative fuel pathways
-- **PhD Connection:** [[L-001-0656_Dicarboxylic_Acids_Beta_Oxidation_CGPT-0647]] — Adipic acid clinical significance
+- **Next in series:** [[Ketone_Body_Metabolism_Deep_Dive_-_From_Beta-Oxi_L-001-0655_v4.0]] — Alternative fuel pathways
+- **PhD Connection:** [[KingOfVitamins-Pauling-Vitamin-C-2025_L-001-0656_v4.0]] — Adipic acid clinical significance
 
 ## Connections
 

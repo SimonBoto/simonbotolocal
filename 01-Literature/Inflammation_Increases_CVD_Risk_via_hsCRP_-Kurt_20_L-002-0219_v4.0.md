@@ -1,6 +1,7 @@
 ---
 uid: L-002-0219
 type: litnote
+source-origin: unknown
 title: "Inflammation Increases CVD Risk via hsCRP (Kurt 2025)"
 aliases:
   - "L-002-0219"

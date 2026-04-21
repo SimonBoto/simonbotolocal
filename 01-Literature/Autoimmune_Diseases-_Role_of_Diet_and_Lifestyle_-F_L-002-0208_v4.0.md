@@ -1,6 +1,7 @@
 ---
 uid: L-002-0208
 type: litnote
+source-origin: unknown
 title: "Autoimmune Diseases: Role of Diet and Lifestyle (Fasano, AIP)"
 aliases:
   - "L-002-0208"

@@ -1,6 +1,7 @@
 ---
 uid: L-002-0173
 type: litnote
+source-origin: unknown
 title: "Fried Potatoes in Seed Oils Increase T2D Risk by 20% (Mousavi 2025)"
 aliases:
   - L-002-0173

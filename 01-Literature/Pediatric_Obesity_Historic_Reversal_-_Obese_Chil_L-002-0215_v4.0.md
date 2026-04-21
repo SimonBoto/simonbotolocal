@@ -1,6 +1,7 @@
 ---
 uid: L-002-0215
 type: litnote
+source-origin: unknown
 title: "Pediatric Obesity Historic Reversal - Obese Children Outnumber Undernourished (UNICEF 2025)"
 aliases:
   - "L-002-0215"

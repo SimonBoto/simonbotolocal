@@ -1,6 +1,7 @@
 ---
 uid: L-001-0580
 type: litnote
+source-origin: unknown
 title: "Lit - Meta-Analysis Methodology - From Search Strategy to Publication"
 aliases:
   - L-001-0580
@@ -199,7 +200,7 @@ Tier 1 (high impact) → Tier 2 (specialized) → Tier 3 (field-specific) → Se
 ## Related References
 - [[MOC-Research]] — Parent MOC
 - [[60_Day_Learning_Framework_Z-001-0580A]] — Related zettel
-- [[L-001-0581_Multivariate_Analysis_Pitfalls_v4.0]] — Related LitNote
+- [[Medical_Ethics_in_Clinical_Research_-_Frameworks_L-001-0581_v4.0]] — Related LitNote
 
 ---
 

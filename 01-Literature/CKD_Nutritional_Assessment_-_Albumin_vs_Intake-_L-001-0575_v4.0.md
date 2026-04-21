@@ -1,6 +1,7 @@
 ---
 uid: L-001-0575
 type: litnote
+source-origin: unknown
 title: "Lit - CKD Nutritional Assessment - Albumin vs Intake, Oxalate, and Glycemic Control"
 aliases:
   - L-001-0575
@@ -197,7 +198,7 @@ CKD stage adjustments for A1c targets; Calcium binding for oxalate reduction
 ## Related References
 - [[MOC-Metabolic-Syndrome]] — Parent MOC
 - [[Albumin_Protein_Dilemma_Z-001-0575A]] — Related zettel
-- [[L-001-0574_Carb_Context_Protein_CKD_CGPT-0370]] — Related LitNote
+- [[Carbohydrate_Context_Modifies_Protein_Effects_-_L-001-0574_v4.0]] — Related LitNote
 
 ---
 
