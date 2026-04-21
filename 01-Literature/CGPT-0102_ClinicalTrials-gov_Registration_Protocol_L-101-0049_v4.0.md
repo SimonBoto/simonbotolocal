@@ -19,7 +19,7 @@ tags:
   - phd
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-28
-source-litnote: [[## Source]]
+source-litnote: [[CGPT-Source]]
 source: [[CGPT_0102_Clinical_Trials_Gov_Protocol_CGPT-0102]]
 ---
 

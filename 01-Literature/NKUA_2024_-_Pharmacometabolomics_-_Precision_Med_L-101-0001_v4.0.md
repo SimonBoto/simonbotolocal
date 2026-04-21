@@ -19,7 +19,7 @@ tags:
   - litnote
   - pharmacometabolomics
 extraction-date: 2026-02-23
-source-litnote: [[## Source]]
+source-litnote: [[CGPT-Source]]
 ---
 
 # Lit: NKUA 2024 — Pharmacometabolomics & Precision Medicine in Autoimmune Disease

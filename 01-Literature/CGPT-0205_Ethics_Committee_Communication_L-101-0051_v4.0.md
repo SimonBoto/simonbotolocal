@@ -19,7 +19,7 @@ tags:
   - phd
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-28
-source-litnote: [[## Source]]
+source-litnote: [[CGPT-Source]]
 source: [[CGPT_0205_Ethics_Committee_Follow_Up_CGPT-0205]]
 ---
 

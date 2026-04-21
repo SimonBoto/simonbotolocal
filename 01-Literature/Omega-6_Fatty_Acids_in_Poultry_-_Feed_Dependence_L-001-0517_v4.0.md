@@ -31,7 +31,7 @@ source: [[CGPT_0141_Omega_6_in_Chicken_Fat_CGPT-0141]]
 status: complete
 parent-moc: [[MOC-Lipid-Metabolism]]
 extraction-date: 2026-03-03
-source-litnote: [[## Source]]
+source-litnote: [[CGPT-Source]]
 source-origin: chatgpt-archive
 reviewed_by: "FORG"
 created: 2026-04-09

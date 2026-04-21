@@ -20,7 +20,7 @@ tags:
   - metabolism
   - - MOC-Cancer-Therapy
 extraction-date: 2026-03-08
-source-litnote: [[## Source]]
+source-litnote: [[CGPT-Source]]
 source: [[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]
 ---
 

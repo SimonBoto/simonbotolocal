@@ -19,7 +19,7 @@ tags:
   - phd
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-28
-source-litnote: [[## Source]]
+source-litnote: [[CGPT-Source]]
 source: [[CGPT_0413_Oxalic_Acid_Uses_Form_CGPT-0413]]
 ---
 

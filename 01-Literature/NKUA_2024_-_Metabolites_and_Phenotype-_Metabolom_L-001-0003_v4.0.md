@@ -20,7 +20,7 @@ domain: 001
 tags: [lit-note, metabolomics, phenotype, clinical-practice, micronutrients, insulin-resistance, oxidative-stress, biomarkers, nkua-course]
 parent-moc: 
 extraction-date: 2026-02-23
-source-litnote: [[## Source]]
+source-litnote: [[CGPT-Source]]
 ---
 
 # Lit: NKUA 2024 — Μεταβολίτες και Φαινότυπος (DE3)

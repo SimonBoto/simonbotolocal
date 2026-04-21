@@ -20,7 +20,7 @@ domain: 001
 tags: [lit-note, metabolic-disorders, diagnosis, metabolomics, inherited-diseases, newborn-screening, insulin-resistance, biomarkers]
 parent-moc: 
 extraction-date: 2026-02-23
-source-litnote: [[## Source]]
+source-litnote: [[CGPT-Source]]
 ---
 
 # Lit: NKUA 2024 — Μεταβολικές Διαταραχές και Διάγνωση μέσω Μεταβολομικής (DE4)
