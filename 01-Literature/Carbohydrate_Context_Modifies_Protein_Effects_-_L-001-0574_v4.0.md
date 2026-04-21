@@ -59,7 +59,7 @@ High carb + High protein ≠ Low carb + High protein
 
 **Purpose/Significance:** Explains why protein-CKD guidelines may be overly simplistic and context-agnostic
 
-**Zettel:** [[Carb_Context_Problem_Z-001-0574A]]
+**Zettel:** [[Carb_Context_Hypothesis_Z-001-0574A]]
 
 ---
 
@@ -79,7 +79,7 @@ High carb + High protein → Hyperinsulinemia + Hyperfiltration → Combined met
 
 **Purpose/Significance:** Identifies metabolic context where high protein may be detrimental
 
-**Zettel:** [[HighCarb_HighProtein_Metabolism_Z-001-0574B]]
+**Zettel:** [[Carb_Context_Problem_Z-001-0574B]]
 
 ---
 
@@ -99,7 +99,7 @@ Low carb + High protein → Improved insulin sensitivity + Ketone production →
 
 **Purpose/Significance:** Suggests metabolic context where higher protein may be neutral or beneficial
 
-**Zettel:** [[LowCarb_HighProtein_Metabolism_Z-001-0574C]]
+**Zettel:** [[Carb_Context_Mechanism_Z-001-0574C]]
 
 ---
 
@@ -119,7 +119,7 @@ Traditional studies measure protein only → Ignore carb context → Create evid
 
 **Purpose/Significance:** Highlights fundamental flaw in current protein-CKD research design
 
-**Zettel:** [[Evidence_Gap_Analysis_Z-001-0574D]]
+**Zettel:** [[Carb_Context_Evidence_Z-001-0574D]]
 
 ---
 
@@ -139,7 +139,7 @@ Carb context modifies protein renal impact → Different effects in different co
 
 **Purpose/Significance:** Provides testable framework for future research
 
-**Zettel:** [[Carb_Context_Hypothesis_Z-001-0574E]]
+**Zettel:** [[Carb_Context_Clinical_Integration_Z-001-0574E]]
 
 ---
 
@@ -159,17 +159,17 @@ Clinical decisions based on carb context → Different protein recommendations
 
 **Purpose/Significance:** Guides real-world clinical practice in context-specific manner
 
-**Zettel:** [[Clinical_Decision_Framework_Z-001-0574F]]
+**Zettel:** [[Carb_Context_Framework_Z-001-0574F]]
 
 ---
 
 ## Zettels Created
-1. [[Carb_Context_Problem_Z-001-0574A]] — Carbohydrate context problem
-2. [[HighCarb_HighProtein_Metabolism_Z-001-0574B]] — High-carb + high-protein metabolism
-3. [[LowCarb_HighProtein_Metabolism_Z-001-0574C]] — Low-carb + high-protein metabolism
-4. [[Evidence_Gap_Analysis_Z-001-0574D]] — Evidence gap analysis
-5. [[Carb_Context_Hypothesis_Z-001-0574E]] — Carb context hypothesis
-6. [[Clinical_Decision_Framework_Z-001-0574F]] — Clinical decision framework
+1. [[Carb_Context_Hypothesis_Z-001-0574A]] — Carbohydrate context hypothesis
+2. [[Carb_Context_Problem_Z-001-0574B]] — Carbohydrate context problem
+3. [[Carb_Context_Mechanism_Z-001-0574C]] — Carbohydrate context mechanism
+4. [[Carb_Context_Evidence_Z-001-0574D]] — Carbohydrate context evidence
+5. [[Carb_Context_Clinical_Integration_Z-001-0574E]] — Carb context clinical integration
+6. [[Carb_Context_Framework_Z-001-0574F]] — Carbohydrate context framework
 
 ---
 
@@ -177,9 +177,9 @@ Clinical decisions based on carb context → Different protein recommendations
 
 | Citation | Key Finding | Relevance | Zettel |
 |----------|-------------|-----------|--------|
-| CGPT-0370 Protein and Kidney Disease | Carbohydrate context fundamentally modifies protein effects in CKD | High | [[Carb_Context_Problem_Z-001-0574A]] |
-| CKD Research Methods Review (2023) | Most studies treat protein in isolation, ignoring metabolic context | High | [[Evidence_Gap_Analysis_Z-001-0574D]] |
-| Renal Physiology Textbook (2022) | Insulin and amino acids interact in renal hemodynamics | Medium | [[Carb_Context_Hypothesis_Z-001-0574E]] |
+| CGPT-0370 Protein and Kidney Disease | Carbohydrate context fundamentally modifies protein effects in CKD | High | [[Carb_Context_Hypothesis_Z-001-0574A]] |
+| CKD Research Methods Review (2023) | Most studies treat protein in isolation, ignoring metabolic context | High | [[Carb_Context_Evidence_Z-001-0574D]] |
+| Renal Physiology Textbook (2022) | Insulin and amino acids interact in renal hemodynamics | Medium | [[Carb_Context_Clinical_Integration_Z-001-0574E]] |
 
 ---
 
@@ -193,7 +193,7 @@ Clinical decisions based on carb context → Different protein recommendations
 
 ## Related References
 - [[MOC-Metabolic-Syndrome]] — Parent MOC
-- [[Carb_Context_Problem_Z-001-0574A]] — Related zettel
+- [[Carb_Context_Hypothesis_Z-001-0574A]] — Related zettel
 - [[CKD_Nutritional_Assessment_-_Albumin_vs_Intake-_L-001-0575_v4.0]] — Related LitNote
 
 ---
