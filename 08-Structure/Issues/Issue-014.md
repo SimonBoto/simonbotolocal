@@ -4,7 +4,7 @@ title: Process 5 P0 Inbox Items — Triangle v2.0 Synthesis
 assignee: RON
 energy: 2h / $1.50
 priority: P0
-status: backlog
+status: active
 created: 2026-04-21
 parent: none
 spawned: []

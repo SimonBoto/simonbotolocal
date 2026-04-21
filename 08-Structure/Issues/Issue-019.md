@@ -4,7 +4,7 @@ title: CGPT Reservoir — Process 671 Pending Conversations
 assignee: FORG+SCOUT+RON
 energy: 40h / $10.00
 priority: P1
-status: backlog
+status: active
 created: 2026-04-21
 parent: none
 spawned: [ISSUE-017]

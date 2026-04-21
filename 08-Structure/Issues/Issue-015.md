@@ -4,7 +4,7 @@ title: FORG Zettel Sprint — 25 P0 LitNotes (Zero Zettels)
 assignee: FORG
 energy: 4h / $1.00
 priority: P0
-status: backlog
+status: active
 created: 2026-04-21
 parent: none
 spawned: []

@@ -4,7 +4,7 @@ title: Multi-Agent AutoResearch Activation
 assignee: RON+FORG+SCOUT
 energy: 10h / $3.00
 priority: P1
-status: backlog
+status: active
 created: 2026-04-21
 parent: ISSUE-022
 spawned: []
