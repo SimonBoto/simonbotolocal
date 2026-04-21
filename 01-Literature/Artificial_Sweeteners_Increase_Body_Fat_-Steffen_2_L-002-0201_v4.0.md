@@ -8,6 +8,22 @@ aliases:
   - "Artificial-Sweeteners-Body-Fat"
 source-inbox: [[INBOX-Article-20-Artificial-Sweeteners]]
 source-litnote: [[INBOX-Article-20-Artificial-Sweeteners]]
+
+# ANCHOR SYSTEM v5.0 — Connection Tracking
+anchors:
+  up:
+    source-inbox: "[[INBOX-Article-20-Artificial-Sweeteners]] #source"
+    source-litnote: "[[INBOX-Article-20-Artificial-Sweeteners]] #source-lit"
+  down:
+    zettels:
+      - "[[Artificial_Sweeteners_Visceral_Fat_Z-002-0741]] #zettel-1"
+      - "[[Saccharin_Intermuscular_Fat_Z-002-0742]] #zettel-2"
+      - "[[Aspartame_Subcutaneous_Fat_Z-002-0743]] #zettel-3"
+    count: 3
+  sideways:
+    references:
+      - "[[Steffen_2023_Artificial_Sweeteners_CARDIA_R-002-0041]] #ref-1"
+    count: 1
 authors: "Steffen BT, Jacobs DR, Yi D, et al."
 year: "2023"
 journal: "International Journal of Obesity"
@@ -35,10 +51,11 @@ tags:
 
 # Lit: Artificial Sweeteners Increase Body Fat
 
-## Source
-- **Full citation:** Steffen BT, Jacobs DR, Yi D, et al. "Long-term aspartame and saccharin intakes are related to greater volumes of visceral, intermuscular, and subcutaneous adipose tissue: the CARDIA study." *Int J Obes (Lond)*. 2023;47(10):889-897. doi:10.1038/s41366-023-01336-y. PMID: 37443272.
-- **Inbox origin:** [[INBOX-Article-20-Artificial-Sweeteners]]
-- **Reference note:** [[Steffen_2023_Artificial_Sweeteners_CARDIA_R-002-0041]]
+## 🔼 Source Anchor
+> **Origin:** [[INBOX-Article-20-Artificial-Sweeteners]] #source  
+> **Citation:** [[Steffen_2023_Artificial_Sweeteners_CARDIA_R-002-0041]] #ref-1  
+> **DOI:** [10.1038/s41366-023-01336-y](https://doi.org/10.1038/s41366-023-01336-y)  
+> **Date:** 2026-04-04
 
 ## Core Concepts Extracted
 Long-term artificial sweetener consumption (aspartame, saccharin) is associated with **increased visceral, intermuscular, and subcutaneous fat accumulation** over 25 years — and this association is **independent of calorie intake, diet quality, and BMI**, suggesting metabolic effects beyond calories.
@@ -67,18 +84,33 @@ Long-term artificial sweetener consumption (aspartame, saccharin) is associated 
 
 ---
 
-## References Used
+## 🔽 Zettels Extracted (DOWN Anchors)
 
-| Reference | Zettels | Times Cited |
-|-----------|---------|-------------|
-| [[Steffen_2023_Artificial_Sweeteners_CARDIA_R-002-0041]] | Z-002-0741, Z-002-0742, Z-002-0743 | 3 |
+| # | Zettel | Title | Anchor |
+|---|--------|-------|--------|
+| 1 | [[Z-002-0741]] | Artificial Sweeteners Visceral Fat | #zettel-1 |
+| 2 | [[Z-002-0742]] | Saccharin Intermuscular Fat | #zettel-2 |
+| 3 | [[Z-002-0743]] | Aspartame Subcutaneous Fat | #zettel-3 |
+
+**Total:** 3 zettels extracted | **Tag:** #zettels-down
+
+---
+
+## ↔️ References (SIDEWAYS Anchors)
+
+| # | Reference | Citation | Anchor |
+|---|-----------|----------|--------|
+| 1 | [[R-002-0041]] | Steffen et al. 2023 | #ref-1 |
+
+**Total:** 1 reference | **Tag:** #references-side
 
 ---
 
 ## Connections
+- **UP:** [[INBOX-Article-20-Artificial-Sweeteners]] — Source #source
+- **DOWN:** 3 zettels extracted — #zettels-down
+- **SIDEWAYS:** [[R-002-0041]] — Citation #ref-1
 - **MOC:** [[MOC-Metabolic-Syndrome]] — Thematic domain
-- **INBOX:** [[INBOX-Article-20-Artificial-Sweeteners]] — Article source
-- **Reference:** [[Steffen_2023_Artificial_Sweeteners_CARDIA_R-002-0041]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 
 ---
@@ -87,12 +119,13 @@ Long-term artificial sweetener consumption (aspartame, saccharin) is associated 
 
 - [x] Source read completely — ## Source section with content?
 - [x] YAML standardized — uid, type, title, tags, parent-moc present?
+- [x] Anchors configured — UP, DOWN, SIDEWAYS links established?
 - [x] Core claim articulated — One-sentence core claim exists?
 - [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
-- [x] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
-- [x] Snowball references documented — ## Related References exists?
+- [x] Zettel anchors linked — Each concept has #zettel-N?
+- [x] Reference anchors linked — Each citation has #ref-N?
 - [x] QMD duplicate check completed — In vault (assume yes)
 - [ ] RON review pending — ALWAYS leave unchecked
 
 ---
-*L-002-0201 | Created: 2026-04-04 | Tier: GOLD*
+*L-002-0201 | Created: 2026-04-04 | Tier: GOLD | Anchors: UP ✓ DOWN ✓ SIDEWAYS ✓*

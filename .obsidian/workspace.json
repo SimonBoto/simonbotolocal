@@ -185,8 +185,7 @@
               "title": "PHANTOM-LINKS"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -362,8 +361,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3defb34dd9bafdc5",
+  "active": "64120ee807f0bd00",
   "lastOpenFiles": [
+    "02-References/Hub/AHA_2025_Vitamin_D_Heart_Attack_R-001-0088.md",
+    "08-Structure/Templates/Template_LitNote_v5.0.md",
     "08-Structure/Issues/Issue-037.md",
     "02-References/Hub/Hong_Kong_Meat_Longevity_Synthesis_R-002-0049.md",
     "02-References/Hub/Twelve_Actions_Better_Health_Synthesis_R-002-0052.md",
@@ -386,10 +387,8 @@
     "03-Zettels/Conscious/Exercise_Telomere_Protection_Z-001-1186.md",
     "02-References/Hub/Zheng_2025_LCD_Metabolic_Syndrome_Meta_R-002-0035.md",
     "02-References/Hub/Zhou_Hypponen_2022_Vitamin_D_CRP_R-001-0089.md",
-    "02-References/Hub/AHA_2025_Vitamin_D_Heart_Attack_R-001-0088.md",
     "01-Literature/Zinc_and_Selenium_as_Mitochondrial_Cofactors_L-001-0510_v4.0.md",
     "01-Literature/Warburg_Effect_and_Cancer_Metabolism_L-001-0608_v4.0.md",
-    "01-Literature/Walking_Reduces_All-Cause_Mortality_Risk_by_More_T_L-002-0245_v4.0.md",
     "08-Structure/Skills/fix-missing-brackets.py",
     "08-Structure/Skills/fix-phantom-links.py",
     "08-Structure/Skills/audit-moc-index.py",
