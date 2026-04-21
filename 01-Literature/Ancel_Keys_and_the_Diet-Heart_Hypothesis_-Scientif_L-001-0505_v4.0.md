@@ -104,7 +104,7 @@ tags:
 - Lived to age 100
 - Practiced what he preached
 
-**Zettels extracted:** [[Ancel_Keys_Scientific_Legacy_Z-001-0527]
+**Zettels extracted:** [[Ancel_Keys_Scientific_Legacy_Z-001-0527]]
 
 ### 2. From Hypothesis to Policy — The Diet-Heart Era
 > "Keys' hypothesis moved rapidly from scientific conjecture to public health policy, driven by a compelling narrative, charismatic advocacy, and premature institutional endorsement."
@@ -175,7 +175,7 @@ tags:
 - Career paths established
 - Paradigm resistance
 
-**Zettels extracted:** [[Diet_Heart_Hypothesis_Policy_Evolution_Z-001-0935]
+**Zettels extracted:** [[Diet_Heart_Hypothesis_Policy_Evolution_Z-001-0935]]
 
 ### 3. Scientific Revolutions — The Shift Away from Fat Phobia
 > "Starting in the 2000s, accumulating evidence challenged the diet-heart hypothesis, leading to gradual rehabilitation of dietary fat and recognition that carbohydrate quality matters more than fat quantity."
@@ -266,7 +266,7 @@ tags:
 - Less emphasis on single nutrients
 - Recognition of healthy fat sources
 
-**Zettels extracted:** [[Scientific_Revolution_Fat_Rehabilitation_Z-001-0529]
+**Zettels extracted:** [[Scientific_Revolution_Fat_Rehabilitation_Z-001-0529]]
 
 ### 4. Consequences of the Low-Fat Era
 > "The widespread adoption of low-fat dietary guidelines had unintended consequences, including increased refined carbohydrate consumption, metabolic syndrome prevalence, and questionable cardiovascular benefit."
@@ -342,7 +342,7 @@ tags:
 - Unintended metabolic consequences
 - Difficult to reverse course
 
-**Zettels extracted:** [[Low_Fat_Era_Consequences_Z-001-0530]
+**Zettels extracted:** [[Low_Fat_Era_Consequences_Z-001-0530]]
 
 ### 5. Lessons for Evidence-Based Medicine
 > "The diet-heart saga offers crucial lessons about scientific rigor, the dangers of premature consensus, institutional inertia, and the need for continuous evidence reassessment."
@@ -416,7 +416,7 @@ tags:
 - Living systematic reviews
 - Rapid guideline updates
 
-**Zettels extracted:** [[Evidence_Based_Medicine_Lessons_Z-001-0531]
+**Zettels extracted:** [[Evidence_Based_Medicine_Lessons_Z-001-0531]]
 
 ---
 
@@ -444,11 +444,11 @@ tags:
 ---
 
 ## Zettels Created from This Source
-1. [[Ancel_Keys_Scientific_Legacy_Z-001-0527]
-2. [[Diet_Heart_Hypothesis_Policy_Evolution_Z-001-0935]
-3. [[Scientific_Revolution_Fat_Rehabilitation_Z-001-0529]
-4. [[Low_Fat_Era_Consequences_Z-001-0530]
-5. [[Evidence_Based_Medicine_Lessons_Z-001-0531]
+1. [[Ancel_Keys_Scientific_Legacy_Z-001-0527]]
+2. [[Diet_Heart_Hypothesis_Policy_Evolution_Z-001-0935]]
+3. [[Scientific_Revolution_Fat_Rehabilitation_Z-001-0529]]
+4. [[Low_Fat_Era_Consequences_Z-001-0530]]
+5. [[Evidence_Based_Medicine_Lessons_Z-001-0531]]
 
 ---
 

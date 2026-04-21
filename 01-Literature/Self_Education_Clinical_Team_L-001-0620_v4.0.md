@@ -121,9 +121,9 @@ reference-count: 0
 ## Connections
 
 **Related Zettels:**
-- [[Chief_Instructor_Metabolomics_Z-001-1030] — Training methodology
-- [[VDR_Knockout_Immune_Function_Z-001-0988] — Immune modulation
-- [[Socratic_Method_Clinical_Reasoning_Z-001-1033] — Learning approach
+- [[Chief_Instructor_Metabolomics_Z-001-1030]] — Training methodology
+- [[VDR_Knockout_Immune_Function_Z-001-0988]] — Immune modulation
+- [[Socratic_Method_Clinical_Reasoning_Z-001-1033]] — Learning approach
 
 **MOCs:**
 -  — Primary training domain

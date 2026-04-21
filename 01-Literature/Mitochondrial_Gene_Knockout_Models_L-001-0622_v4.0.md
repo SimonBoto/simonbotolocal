@@ -202,7 +202,7 @@ reference-count: 0
 - [[Mitochondrial_Knockout_Models_Disease_Z-001-1166]] — To create
 - [[mtDNA_Mutations_Cancer_Metastasis_Z-001-1167]] — To create
 - [[Mitochondrial_Dynamics_Fusion_Fission_Z-001-1168]] — To create
-- [[Respiratory_Chain_Complex_Deficiencies_Z-001-1169] — To create
+- [[Respiratory_Chain_Complex_Deficiencies_Z-001-1169]] — To create
 
 **MOCs:**
 -  — Primary domain

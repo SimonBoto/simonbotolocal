@@ -36,17 +36,17 @@ source: [[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]
 ### 1. HBOT Mechanisms in Cancer
 > "Hyperbaric oxygen increases tissue oxygenation, enhances ROS generation, and improves drug delivery and radiation efficacy."
 
-**Zettel extracted:** [[HBOT_Mechanisms_Cancer_Oxygenation_ROS_Z-001-1138]
+**Zettel extracted:** [[HBOT_Mechanisms_Cancer_Oxygenation_ROS_Z-001-1138]]
 
 ### 2. Radiosensitization and Treatment Enhancement
 > "HBOT overcomes tumor hypoxia—a major cause of radiation resistance—and may enhance chemotherapy."
 
-**Zettel extracted:** [[HBOT_Radiosensitization_Chemotherapy_Enhancement_Z-001-1139]
+**Zettel extracted:** [[HBOT_Radiosensitization_Chemotherapy_Enhancement_Z-001-1139]]
 
 ### 3. Clinical Applications and Safety
 > "HBOT used for osteoradionecrosis, radiation cystitis, and as adjunctive cancer therapy; generally safe with specific contraindications."
 
-**Zettel extracted:** [[HBOT_Clinical_Applications_Safety_Considerations_Z-001-1140]
+**Zettel extracted:** [[HBOT_Clinical_Applications_Safety_Considerations_Z-001-1140]]
 
 ## HBOT Parameters
 
@@ -76,7 +76,7 @@ source: [[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]
 
 ## Related References
 - 
-- [[Press_Pulse_Strategy_Metabolic_Cancer_Therapy_Z-001-1123]
+- [[Press_Pulse_Strategy_Metabolic_Cancer_Therapy_Z-001-1123]]
 - 
 
 ---

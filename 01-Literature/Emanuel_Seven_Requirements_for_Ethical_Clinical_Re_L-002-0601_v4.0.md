@@ -39,49 +39,49 @@ source: [[CGPT_0131_Medical_Ethics_Assistance_CGPT-0131]]
 
 Research without social or clinical value is unethical regardless of other safeguards. The question must be important enough to justify exposing participants to risk.
 
-**Zettel extracted:** [[Social_Clinical_Value_Ethical_Research_Z-002-0601]
+**Zettel extracted:** [[Social_Clinical_Value_Ethical_Research_Z-002-0601]]
 
 ### 2. Scientific Validity (Professional Competence)
 > "The methodology must be scientifically sound and rigorous. Poorly designed research that cannot reliably yield useful knowledge is unethical, as it exposes participants to risk without potential benefit."
 
 Invalid research wastes resources and exploits participants. Methodological rigor is an ethical requirement, not merely a scientific preference.
 
-**Zettel extracted:** [[Scientific_Validity_Ethical_Requirement_Z-002-0602]
+**Zettel extracted:** [[Scientific_Validity_Ethical_Requirement_Z-002-0602]]
 
 ### 3. Fair Subject Selection
 > "Subjects should be chosen based on scientific objectives rather than vulnerability or convenience. Risks and benefits must be fairly distributed, avoiding exploitation of vulnerable groups."
 
 Selection must be scientifically justified, not based on ease of access or social vulnerability. Vulnerable populations require additional protections.
 
-**Zettel extracted:** [[Fair_Subject_Selection_Ethics_Z-002-0603]
+**Zettel extracted:** [[Fair_Subject_Selection_Ethics_Z-002-0603]]
 
 ### 4. Favorable Risk-Benefit Ratio (Risk Minimization)
 > "Potential benefits must outweigh risks. This assessment must be systematic and thorough, minimizing risks as far as possible."
 
 Risks to participants must be minimized and reasonable in relation to anticipated benefits. Both individual and societal benefits count in this calculation.
 
-**Zettel extracted:** [[Risk_Benefit_Ratio_Ethical_Research_Z-002-0604]
+**Zettel extracted:** [[Risk_Benefit_Ratio_Ethical_Research_Z-002-0604]]
 
 ### 5. Independent Review (Accountability, Transparency)
 > "A neutral body (like an Institutional Review Board, IRB) must independently review and approve the research protocol to ensure unbiased judgment and ethical adherence."
 
 Independent review prevents conflicts of interest and ensures community representation in ethical decisions. IRBs serve as gatekeepers.
 
-**Zettel extracted:** [[Independent_Review_IRB_Ethics_Z-002-0605]
+**Zettel extracted:** [[Independent_Review_IRB_Ethics_Z-002-0605]]
 
 ### 6. Informed Consent (Voluntary Participation)
 > "Participants should provide voluntary, informed consent. They should understand the risks, benefits, and purpose of the study clearly before participating."
 
 Informed consent is necessary but not sufficient for ethical research. Participants must understand and voluntarily agree without coercion.
 
-**Zettel extracted:** [[Informed_Consent_Ethical_Research_Z-002-0606]
+**Zettel extracted:** [[Informed_Consent_Ethical_Research_Z-002-0606]]
 
 ### 7. Respect for Enrolled Subjects (Non-exploitation, Confidentiality)
 > "Ethical obligations continue after enrollment. Participants' privacy must be protected, their confidentiality maintained, and their well-being monitored during and after the study."
 
 Ongoing obligations include monitoring for adverse events, maintaining confidentiality, and allowing withdrawal without penalty.
 
-**Zettel extracted:** [[Respect_Enrolled_Subjects_Ethics_Z-002-0607]
+**Zettel extracted:** [[Respect_Enrolled_Subjects_Ethics_Z-002-0607]]
 
 ## Key Framework Insight
 
@@ -130,8 +130,8 @@ This framework applies universally, though adaptations may be needed for local h
 ---
 
 ## Post-Extraction Verification Checklist
-- [x] All zettel links use FULL format: `[[Title_Z-002-0601]`
-- [x] No bare UIDs: `[[Social_Clinical_Value_Ethical_Research_Z-002-0601]` → will create empty notes
+- [x] All zettel links use FULL format: `[[Title_Z-002-0601]]`
+- [x] No bare UIDs: `[[Social_Clinical_Value_Ethical_Research_Z-002-0601]]` → will create empty notes
 - [x] Verify with: `grep -r '\[\[Z-[0-9]\{4\}-[0-9]\{4\}\]\]' this_file.md` (should return nothing)
 - [x] Concept count matches "Zettels Created from This Source" list
 

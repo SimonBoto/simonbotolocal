@@ -58,7 +58,7 @@ source-litnote: [[CGPT-Source]]
 
 **METHAP Application:** Individual metabolite profiles (metabotypes) predict VD response better than population averages.
 
-**Zettel extracted:** [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0910]
+**Zettel extracted:** [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0910]]
 
 ---
 
@@ -71,7 +71,7 @@ source-litnote: [[CGPT-Source]]
 - B12 deficiency → methylmalonic acid ↑ (diagnostic biomarker)
 - VD deficiency/inefficiency → adipic acid ↑ (your IR biomarker)
 
-**Zettel extracted:** [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0911]
+**Zettel extracted:** [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0911]]
 
 ---
 
@@ -90,7 +90,7 @@ source-litnote: [[CGPT-Source]]
 | Succinic acid | High | CoQ10/B2 deficiency, fatigue, cardiac issues |
 | **Malate** | **High** | **Type 2 diabetes, insulin resistance** |
 
-**Zettel extracted:** [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912]
+**Zettel extracted:** [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912]]
 
 ---
 
@@ -106,7 +106,7 @@ source-litnote: [[CGPT-Source]]
 
 **METHAP Connection:** Your plasma TFA (trans fatty acids) analysis may reflect carnitine-dependent fatty acid metabolism status.
 
-**Zettel extracted:** [[Carnitine_Fatty_Acid_Transport_Z-001-0913]
+**Zettel extracted:** [[Carnitine_Fatty_Acid_Transport_Z-001-0913]]
 
 ---
 
@@ -120,7 +120,7 @@ source-litnote: [[CGPT-Source]]
 - Alternative fuel source when glucose unavailable
 - Elevated in uncontrolled diabetes (ketoacidosis risk)
 
-**Zettel extracted:** [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0914]
+**Zettel extracted:** [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0914]]
 
 ---
 

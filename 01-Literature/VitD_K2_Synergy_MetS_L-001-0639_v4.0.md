@@ -57,10 +57,10 @@ Combined → Functional matrix Gla-protein, osteocalcin
 - **Osteocalcin:** Metabolic hormone (insulin sensitivity, adiponectin)
 
 ## Zettels Created
-1. [[Vitamin_D_K2_Synergistic_Mechanism_Z-001-1234]
-2. [[Matrix_Gla_Protein_Vascular_Health_Z-001-1235]
-3. [[Osteocalcin_Metabolic_Hormone_Z-001-1236]
-4. [[VitD_K2_Insulin_Resistance_Z-001-1237]
+1. [[Vitamin_D_K2_Synergistic_Mechanism_Z-001-1234]]
+2. [[Matrix_Gla_Protein_Vascular_Health_Z-001-1235]]
+3. [[Osteocalcin_Metabolic_Hormone_Z-001-1236]]
+4. [[VitD_K2_Insulin_Resistance_Z-001-1237]]
 
 ## Related
 - 

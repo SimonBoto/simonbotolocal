@@ -57,7 +57,7 @@ updated: 2026-04-09
 ### 1. Pro-Inflammatory Eicosanoid Production
 > "Excessive intake of omega-6 fatty acids can lead to an imbalance in the omega-6 to omega-3 ratio, promoting the synthesis of pro-inflammatory eicosanoids."
 
-**Zettel extracted:** [[Pro_Inflammatory_Eicosanoids_AA_Derived_PGE2_LTB4_Z-001-0950]
+**Zettel extracted:** [[Pro_Inflammatory_Eicosanoids_AA_Derived_PGE2_LTB4_Z-001-0950]]
 
 **Key mediators:**
 - **PGE2 (Prostaglandin E2):** Fever, pain, vasodilation, immune activation
@@ -71,7 +71,7 @@ updated: 2026-04-09
 ### 2. Lipid Peroxidation and 4-HNE Formation
 > "Oxidative stress: Explore the susceptibility of PUFAs to oxidation and the formation of harmful compounds like lipid peroxides and aldehydes."
 
-**Zettel extracted:** [[Oxidative_Stress_Lipid_Peroxidation_Mechanisms_Z-001-0954]
+**Zettel extracted:** [[Oxidative_Stress_Lipid_Peroxidation_Mechanisms_Z-001-0954]]
 
 **Toxic aldehydes generated:**
 - **4-HNE (4-hydroxynonenal):** Most reactive, protein adducts, DNA damage
@@ -82,7 +82,7 @@ updated: 2026-04-09
 ### 3. Endotoxin/LPS Translocation from Gut
 > "Increased intestinal permeability allows endotoxins (lipopolysaccharides, LPS) to enter circulation, triggering systemic inflammation."
 
-**Zettel extracted:** [[Endotoxin_LPS_Translocation_Gut_Leaky_Gut_Z-001-0951]
+**Zettel extracted:** [[Endotoxin_LPS_Translocation_Gut_Leaky_Gut_Z-001-0951]]
 
 **Mechanism:** High fat (especially oxidized PUFAs) → Gut barrier disruption → LPS entry → TLR4 activation → Inflammation
 
@@ -90,7 +90,7 @@ updated: 2026-04-09
 ### 4. Insulin Resistance Pathways
 > "Chronic inflammation and oxidative stress impair insulin signaling pathways."
 
-**Zettel extracted:** [[Insulin_Resistance_Mechanisms_Omega_6_Induced_Z-001-0952]
+**Zettel extracted:** [[Insulin_Resistance_Mechanisms_Omega_6_Induced_Z-001-0952]]
 
 **Pathways:**
 1. **JNK activation** → IRS-1 serine phosphorylation → Insulin signaling blocked
@@ -100,7 +100,7 @@ updated: 2026-04-09
 
 
 ### 5. Mitochondrial Uncoupling and ROS
-**Zettel extracted:** [[Mitochondrial_Uncoupling_Omega_6_Induced_Z-001-0953]
+**Zettel extracted:** [[Mitochondrial_Uncoupling_Omega_6_Induced_Z-001-0953]]
 
 **Mechanism:** High omega-6 → Cardiolipin oxidation → ETC dysfunction → ROS generation → Further damage
 

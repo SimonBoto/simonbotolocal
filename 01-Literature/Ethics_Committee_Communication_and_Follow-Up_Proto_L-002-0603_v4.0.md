@@ -43,7 +43,7 @@ When ethics committees don't respond:
 - Mobile/direct contact as last resort
 - Maintain professionalism regardless of frustration
 
-**Zettel extracted:** [[IRB_Non_Response_Protocol_Z-002-0613]
+**Zettel extracted:** [[IRB_Non_Response_Protocol_Z-002-0613]]
 
 ### 2. Professional Communication Template
 > Formal message structure: greeting → context → concern → request → closing
@@ -56,7 +56,7 @@ Key elements:
 - Offer additional information
 - Maintain respectful tone
 
-**Zettel extracted:** [[IRB_Communication_Template_Z-002-0614]
+**Zettel extracted:** [[IRB_Communication_Template_Z-002-0614]]
 
 ### 3. Administrative Persistence
 Six months without response requires escalation:
@@ -65,7 +65,7 @@ Six months without response requires escalation:
 - Alternative pathways (supervisor, department)
 - Consider institutional ombudsman
 
-**Zettel extracted:** [[IRB_Escalation_Pathways_Z-002-0615]
+**Zettel extracted:** [[IRB_Escalation_Pathways_Z-002-0615]]
 
 ## Key Insight
 

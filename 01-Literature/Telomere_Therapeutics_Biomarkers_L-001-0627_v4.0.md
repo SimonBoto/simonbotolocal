@@ -211,10 +211,10 @@ reference-count: 0
 ## Connections
 
 **Related Zettels:**
-- [[Exercise_Telomere_Protection_Z-001-1186] — To create
-- [[Stress_Telomere_Shortening_Z-001-1187] — To create
-- [[Nutritional_Telomere_Support_Z-001-1188] — To create
-- [[Telomere_Biomarker_Clinical_Use_Z-001-1189] — To create
+- [[Exercise_Telomere_Protection_Z-001-1186]] — To create
+- [[Stress_Telomere_Shortening_Z-001-1187]] — To create
+- [[Nutritional_Telomere_Support_Z-001-1188]] — To create
+- [[Telomere_Biomarker_Clinical_Use_Z-001-1189]] — To create
 
 **MOCs:**
 -  — Primary domain

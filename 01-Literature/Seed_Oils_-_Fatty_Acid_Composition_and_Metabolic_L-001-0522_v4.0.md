@@ -55,7 +55,7 @@ updated: 2026-04-09
 ### 1. Fatty Acid Composition of Major Seed Oils
 > "Table 1 summarizes the fatty acid composition of common seed oils... The high linoleic acid content in seed oils has raised concerns due to its potential pro-inflammatory effects when consumed in excess."
 
-**Zettel extracted:** [[Seed_Oil_Fatty_Acid_Composition_Table_Z-001-0945]
+**Zettel extracted:** [[Seed_Oil_Fatty_Acid_Composition_Table_Z-001-0945]]
 
 | Oil Type | Linoleic Acid (18:2 n-6) | Oleic Acid (18:1 n-9) | Saturated Fat | Omega-6:Omega-3 |
 |----------|-------------------------|----------------------|---------------|-----------------|
@@ -71,7 +71,7 @@ updated: 2026-04-09
 ### 2. Linoleic Acid Metabolic Fate — The Delta-6 Desaturase Bottleneck
 > "Excessive intake of omega-6 fatty acids can lead to an imbalance in the omega-6 to omega-3 ratio, promoting the synthesis of pro-inflammatory eicosanoids."
 
-**Zettel extracted:** [[Linoleic_Acid_Metabolic_Fate_Desaturase_Competition_Z-001-0946]
+**Zettel extracted:** [[Linoleic_Acid_Metabolic_Fate_Desaturase_Competition_Z-001-0946]]
 
 **Pathway:**
 ```
@@ -94,7 +94,7 @@ Pro-inflammatory eicosanoids (PGE2, LTB4, TXA2)
 
 
 ### 3. Tissue Incorporation and Membrane Composition
-**Zettel extracted:** [[Omega_6_Tissue_Incorporation_Membrane_Fluidity_Z-001-0947]
+**Zettel extracted:** [[Omega_6_Tissue_Incorporation_Membrane_Fluidity_Z-001-0947]]
 
 **Adipose Tissue Storage:**
 - Linoleic acid half-life in human adipose: **600-680 days**
@@ -109,7 +109,7 @@ Pro-inflammatory eicosanoids (PGE2, LTB4, TXA2)
 
 
 ### 4. Omega-6 to Omega-3 Ratio — Evolutionary Context
-**Zettel extracted:** [[Omega_6_Omega_3_Ratio_Evolutionary_Context_Z-001-0948]
+**Zettel extracted:** [[Omega_6_Omega_3_Ratio_Evolutionary_Context_Z-001-0948]]
 
 | Era / Diet | Omega-6:Omega-3 Ratio | Health Outcome |
 |------------|----------------------|----------------|
@@ -126,7 +126,7 @@ Pro-inflammatory eicosanoids (PGE2, LTB4, TXA2)
 
 
 ### 5. Cardiolipin and Mitochondrial Function
-**Zettel extracted:** [[Cardiolipin_Omega_6_Mitochondrial_Dysfunction_Z-001-0949]
+**Zettel extracted:** [[Cardiolipin_Omega_6_Mitochondrial_Dysfunction_Z-001-0949]]
 
 **Cardiolipin Role:**
 - Unique mitochondrial phospholipid (4 acyl chains)

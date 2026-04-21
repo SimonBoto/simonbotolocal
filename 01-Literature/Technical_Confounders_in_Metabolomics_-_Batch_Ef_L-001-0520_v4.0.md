@@ -49,7 +49,7 @@ updated: 2026-04-09
 ### 1. Batch Effects Drive False Discoveries
 > "Separation in OPLS-DA alone doesn't confirm biological relevance. The separation might be due to technical or batch effects... Ensure that potential confounding factors (e.g., batch effects) are accounted for."
 
-**Zettel extracted:** [[Batch_Effects_Detection_Correction_Metabolomics_Z-001-0939]
+**Zettel extracted:** [[Batch_Effects_Detection_Correction_Metabolomics_Z-001-0939]]
 
 **Reality:**
 - Samples run on different days = different peak intensities
@@ -61,7 +61,7 @@ updated: 2026-04-09
 ### 2. Sample Preparation Variability
 > "Visual consistency doesn't necessarily confirm statistical significance or biological relevance."
 
-**Zettel extracted:** [[Sample_Preparation_Variability_Control_Z-001-0940]
+**Zettel extracted:** [[Sample_Preparation_Variability_Control_Z-001-0940]]
 
 **Sources of Variation:**
 - Protein precipitation efficiency
@@ -71,7 +71,7 @@ updated: 2026-04-09
 
 
 ### 3. Instrument Drift and QC Requirements
-**Zettel extracted:** [[Instrument_Drift_QC_Monitoring_Requirements_Z-001-0941]
+**Zettel extracted:** [[Instrument_Drift_QC_Monitoring_Requirements_Z-001-0941]]
 
 **The Problem:**
 - Mass spec sensitivity drifts over hours/days

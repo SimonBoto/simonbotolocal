@@ -38,22 +38,22 @@ source: [[CGPT_0475_Metabolic_Biomarkers_for_Insulin_CGPT-0475]]
 ### 1. Study Population and Recruitment
 > "220 participants: 60 metabolically healthy + 160 insulin-resistant; divided into intervention and control groups."
 
-**Zettel extracted:** [[METHAP_Study_Population_Recruitment_Strategy_Z-001-1141]
+**Zettel extracted:** [[METHAP_Study_Population_Recruitment_Strategy_Z-001-1141]]
 
 ### 2. Intervention Protocol
 > "Dietary changes and supplement regimen for insulin-resistant group; retesting post-intervention to assess metabolic improvement."
 
-**Zettel extracted:** [[METHAP_Intervention_Protocol_Diet_Supplements_Z-001-1142]
+**Zettel extracted:** [[METHAP_Intervention_Protocol_Diet_Supplements_Z-001-1142]]
 
 ### 3. Control Group Strategy
 > "Metabolically healthy serve as reference; non-intervention insulin-resistant as control for natural progression."
 
-**Zettel extracted:** [[METHAP_Control_Group_Strategy_Reference_Z-001-1143]
+**Zettel extracted:** [[METHAP_Control_Group_Strategy_Reference_Z-001-1143]]
 
 ### 4. Study Timeline and Testing Schedule
 > "Pre-intervention assessment, intervention period, post-intervention retesting with objective markers (HbA1c, HOMA-IR, etc.)."
 
-**Zettel extracted:** [[METHAP_Study_Timeline_Testing_Schedule_Z-001-1144]
+**Zettel extracted:** [[METHAP_Study_Timeline_Testing_Schedule_Z-001-1144]]
 
 ## Study Overview
 
@@ -73,10 +73,10 @@ Shift in metabolic biomarkers (urine OA, plasma TFA) from insulin-resistant patt
 **Synthesis:** This is the core METHAP trial design—comparing metabolically healthy vs. insulin-resistant individuals, with intervention testing whether targeted diet and supplementation can reverse metabolic dysfunction as measured by metabolomics.
 
 ## Zettels Created from This Source
-1. [[METHAP_Study_Population_Recruitment_Strategy_Z-001-1141]
-2. [[METHAP_Intervention_Protocol_Diet_Supplements_Z-001-1142]
-3. [[METHAP_Control_Group_Strategy_Reference_Z-001-1143]
-4. [[METHAP_Study_Timeline_Testing_Schedule_Z-001-1144]
+1. [[METHAP_Study_Population_Recruitment_Strategy_Z-001-1141]]
+2. [[METHAP_Intervention_Protocol_Diet_Supplements_Z-001-1142]]
+3. [[METHAP_Control_Group_Strategy_Reference_Z-001-1143]]
+4. [[METHAP_Study_Timeline_Testing_Schedule_Z-001-1144]]
 
 ## Related References
 - 

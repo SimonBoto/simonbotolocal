@@ -37,17 +37,17 @@ source: [[CGPT_0475_Metabolic_Biomarkers_for_Insulin_CGPT-0475]]
 ### 1. Random Forest Classification
 > "Random Forest provides robust classification with built-in feature importance ranking—identifying key metabolites distinguishing insulin-resistant from healthy individuals."
 
-**Zettel extracted:** [[Random_Forest_Classification_Feature_Importance_Z-001-1153]
+**Zettel extracted:** [[Random_Forest_Classification_Feature_Importance_Z-001-1153]]
 
 ### 2. Support Vector Machines (SVM)
 > "SVM with kernel methods handles non-linear relationships in metabolomics data; effective for high-dimensional classification."
 
-**Zettel extracted:** [[SVM_Kernel_Methods_Metabolomics_Classification_Z-001-1154]
+**Zettel extracted:** [[SVM_Kernel_Methods_Metabolomics_Classification_Z-001-1154]]
 
 ### 3. Deep Learning Applications
 > "Neural networks can model complex metabolic interactions but require larger datasets; emerging application in metabolomics."
 
-**Zettel extracted:** [[Deep_Learning_Neural_Networks_Metabolomics_Z-001-1155]
+**Zettel extracted:** [[Deep_Learning_Neural_Networks_Metabolomics_Z-001-1155]]
 
 ## Machine Learning Pipeline
 

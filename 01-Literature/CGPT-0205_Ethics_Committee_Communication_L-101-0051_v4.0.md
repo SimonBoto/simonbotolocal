@@ -86,8 +86,8 @@ PhD candidate experiencing 6-month delay in ethics committee response; seeking g
 1. [[IRB_Communication_Best_Practices_Z-101-0481]] — Practical guidance for ethics committee interaction
 
 ## Connections
-- **Ethics framework:** [[Emanuel_Seven_Requirements_Ethical_Research_Z-101-0478]
-- **IRB action items:** [[METHAP_IRB_Feedback_Action_Items_Z-101-0473]
+- **Ethics framework:** [[Emanuel_Seven_Requirements_Ethical_Research_Z-101-0478]]
+- **IRB action items:** [[METHAP_IRB_Feedback_Action_Items_Z-101-0473]]
 
 ## Extraction Notes
 - **Focus:** Practical communication guidance

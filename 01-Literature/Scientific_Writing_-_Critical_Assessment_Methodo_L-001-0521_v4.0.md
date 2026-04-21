@@ -54,7 +54,7 @@ updated: 2026-04-09
 ### 1. Line-by-Line Conclusion Critique Framework
 > Systematic deconstruction of each conclusion statement to identify unsupported claims
 
-**Zettel extracted:** [[Line_by_Line_Critique_Framework_Conclusions_Z-001-0942]
+**Zettel extracted:** [[Line_by_Line_Critique_Framework_Conclusions_Z-001-0942]]
 
 **Process:**
 - Break down each sentence of conclusions section
@@ -67,7 +67,7 @@ updated: 2026-04-09
 ### 2. Limitation Statement Best Practices
 > Honest limitation sections strengthen credibility; hidden limitations destroy trust
 
-**Zettel extracted:** [[Limitation_Statement_Best_Practices_Z-001-0943]
+**Zettel extracted:** [[Limitation_Statement_Best_Practices_Z-001-0943]]
 
 **Principles:**
 - State limitations before conclusions
@@ -80,7 +80,7 @@ updated: 2026-04-09
 ### 3. Rewriting Overstated Claims
 > Convert premature conclusions to appropriately cautious statements
 
-**Zettel extracted:** [[Rewriting_Overstated_Claims_Cautious_Language_Z-001-0944]
+**Zettel extracted:** [[Rewriting_Overstated_Claims_Cautious_Language_Z-001-0944]]
 
 **Examples from source:**
 - ❌ "Successfully validated biomarkers" → ✅ "Identified candidate biomarkers requiring validation"

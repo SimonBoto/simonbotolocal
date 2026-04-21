@@ -61,7 +61,7 @@ updated: 2026-04-09
 - Genetic factors and overall health influence deposition efficiency
 - Grain-fed chickens accumulate significantly higher omega-6 than pasture-raised
 
-**Zettels extracted:** [[Corn_Fed_Chicken_Omega6_Fatty_Acid_Profile_Z-001-0562]
+**Zettels extracted:** [[Corn_Fed_Chicken_Omega6_Fatty_Acid_Profile_Z-001-0562]]
 
 ### 2. Egg Yolk Fatty Acid Composition by Hen Diet
 > "The fatty acid composition of egg yolks is largely determined by the fatty acid profile of the hen's diet. A diet rich in corn and grains will typically elevate the levels of linoleic acid in the eggs."
@@ -81,7 +81,7 @@ updated: 2026-04-09
 - More balanced omega-6:3 ratio: ~5:1
 - Intermediate between conventional and enriched
 
-**Zettels extracted:** [[Egg_Yolk_Fatty_Acid_Profile_Diet_Dependent_Z-001-0563]
+**Zettels extracted:** [[Egg_Yolk_Fatty_Acid_Profile_Diet_Dependent_Z-001-0563]]
 
 ### 3. Omega-6:3 Ratio and Inflammatory Potential
 > "While omega-6 fatty acids are essential for various physiological functions, an excessive dietary intake, especially when not balanced with omega-3 fatty acids, may promote a pro-inflammatory milieu."
@@ -106,7 +106,7 @@ updated: 2026-04-09
 | ~5:1 | Pasture-raised (target direction) |
 | ~3-4:1 | Omega-3 enriched (optimal) |
 
-**Zettels extracted:** [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564]
+**Zettels extracted:** [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564]]
 
 ### 4. Practical Measurements Reference
 > "Studies have reported that broiler chickens raised on corn- and soybean meal–based diets often exhibit muscle or adipose tissue with omega-6 fatty acid levels in the range of approximately 35–40% of total fatty acids."
@@ -126,7 +126,7 @@ updated: 2026-04-09
 - Genetic and metabolic factors introduce variability
 - Dietary input is the most significant factor
 
-**Zettels extracted:** [[Poultry_Fatty_Acid_Measurements_Reference_Z-001-0565]
+**Zettels extracted:** [[Poultry_Fatty_Acid_Measurements_Reference_Z-001-0565]]
 
 
 ## Key Figures & Data
@@ -246,10 +246,10 @@ For patients with inflammatory conditions (MetS, autoimmune, chronic pain), the 
 **Warning Signs:**
 > "While permutation tests are useful, relying solely on Q2 and R2 can be misleading without cross-validation... Relying solely on Q2 and R2 can be misleading without cross-validation."
 - Within-group variability ignored
-**Zettel extracted:** [[Cross_Validation_Strategies_Omics_Models_Z-001-0938]
-**Zettel extracted:** [[OPLS_DA_Overfitting_Risks_Small_Samples_Z-001-0935]
-**Zettel extracted:** [[Permutation_Test_Interpretation_Validity_Z-001-0937]
-**Zettel extracted:** [[VIP_Score_Limitations_Effect_Size_Necessity_Z-001-0936]
+**Zettel extracted:** [[Cross_Validation_Strategies_Omics_Models_Z-001-0938]]
+**Zettel extracted:** [[OPLS_DA_Overfitting_Risks_Small_Samples_Z-001-0935]]
+**Zettel extracted:** [[Permutation_Test_Interpretation_Validity_Z-001-0937]]
+**Zettel extracted:** [[VIP_Score_Limitations_Effect_Size_Necessity_Z-001-0936]]
 **Zettels extracted:** 4 (Z-001-0935 through Z-001-0938)
 
 *Merged from legacy version on 2026-04-12*

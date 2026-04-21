@@ -102,7 +102,7 @@ tags:
 - Modulates calcium signaling
 - Influences insulin signaling pathways
 
-**Zettels extracted:** [[Oleic_Acid_Biochemistry_Metabolic_Properties_Z-001-0532]
+**Zettels extracted:** [[Oleic_Acid_Biochemistry_Metabolic_Properties_Z-001-0532]]
 
 ### 2. Metabolic Benefits — Lipids, Glucose, and Inflammation
 > "Oleic acid consumption improves lipid profiles, enhances insulin sensitivity, and reduces inflammatory markers through multiple cellular mechanisms."
@@ -163,7 +163,7 @@ tags:
 - Reduces endothelial dysfunction
 - Supports vascular compliance
 
-**Zettels extracted:** [[Oleic_Acid_Metabolic_Benefits_Z-001-0533]
+**Zettels extracted:** [[Oleic_Acid_Metabolic_Benefits_Z-001-0533]]
 
 ### 3. Mediterranean Diet — Evidence and Mechanisms
 > "The Mediterranean dietary pattern, characterized by high olive oil consumption, consistently demonstrates cardiovascular and metabolic benefits in clinical trials."
@@ -223,7 +223,7 @@ tags:
 - Olive oil enables vegetable consumption (cooking, dressing)
 - Fat-soluble nutrient absorption (vitamins A, D, E, K)
 
-**Zettels extracted:** [[Mediterranean_Diet_Evidence_Mechanisms_Z-001-0534]
+**Zettels extracted:** [[Mediterranean_Diet_Evidence_Mechanisms_Z-001-0534]]
 
 ### 4. Clinical Recommendations — Implementation
 > "Clinical implementation should prioritize extra virgin olive oil as the primary dietary fat, with specific dosing and quality considerations for optimal benefit."
@@ -311,7 +311,7 @@ tags:
 - Inflammatory markers (CRP)
 - Weight (if replacing carbs)
 
-**Zettels extracted:** [[Olive_Oil_Clinical_Implementation_Z-001-0535]
+**Zettels extracted:** [[Olive_Oil_Clinical_Implementation_Z-001-0535]]
 
 ### 5. Special Populations and Considerations
 > "Specific populations including metabolic syndrome, diabetes, and cardiovascular disease patients show particular benefit from olive oil-based interventions."
@@ -395,7 +395,7 @@ tags:
 - Gallbladder disease (fat tolerance)
 - Rare olive allergy
 
-**Zettels extracted:** [[Olive_Oil_Special_Populations_Z-001-0536]
+**Zettels extracted:** [[Olive_Oil_Special_Populations_Z-001-0536]]
 
 
 ## Key Figures & Data
@@ -420,11 +420,11 @@ tags:
 
 
 ## Zettels Created from This Source
-1. [[Oleic_Acid_Biochemistry_Metabolic_Properties_Z-001-0532]
-2. [[Oleic_Acid_Metabolic_Benefits_Z-001-0533]
-3. [[Mediterranean_Diet_Evidence_Mechanisms_Z-001-0534]
-4. [[Olive_Oil_Clinical_Implementation_Z-001-0535]
-5. [[Olive_Oil_Special_Populations_Z-001-0536]
+1. [[Oleic_Acid_Biochemistry_Metabolic_Properties_Z-001-0532]]
+2. [[Oleic_Acid_Metabolic_Benefits_Z-001-0533]]
+3. [[Mediterranean_Diet_Evidence_Mechanisms_Z-001-0534]]
+4. [[Olive_Oil_Clinical_Implementation_Z-001-0535]]
+5. [[Olive_Oil_Special_Populations_Z-001-0536]]
 
 
 *Literature note processed: 2026-03-01*
