@@ -235,7 +235,7 @@ MTHFR polymorphisms represent common genetic variation affecting one-carbon meta
 ---
 
 ## Source Reference
-This literature note was extracted from: [[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]
+This literature note was extracted from: [[00-Inbox/Processed/CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]
 
 *Literature note processed: 2026-03-01 | FORG v3.0*  
 *Zettels extracted: 6 | Status: extracted*

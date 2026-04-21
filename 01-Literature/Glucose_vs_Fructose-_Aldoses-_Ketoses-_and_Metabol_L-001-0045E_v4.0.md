@@ -40,7 +40,7 @@ tags:
 # Lit: Glucose vs Fructose: Aldoses vs Ketoses
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
 - **Date:** March 25, 2024
 - **Messages:** 33-36, 41-44
 - **Context:** Insulin/Metabolism domain
@@ -73,7 +73,7 @@ tags:
 **Zettel:** [[Common_Ketoses_Roles_Z-001-0475]]
 
 ## Source Reference
-- **Extracted from:** [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
+- **Extracted from:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
 - **Anchor conversation:** CGPT-0445 (March 25, 2024)
 
 ## Connections

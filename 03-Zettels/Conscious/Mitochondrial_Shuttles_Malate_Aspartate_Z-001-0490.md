@@ -1,14 +1,25 @@
 ---
 uid: Z-001-0490
 type: zettel
-title: "Mitochondrial Shuttles — Malate and Aspartate"
-aliases: ["Z-001-0490", "Malate-Shuttle", "Aspartate-Shuttle", "OAA-Transport"]
-domain: 001
-tags: [zettel, malate-shuttle, aspartate-shuttle, mitochondria, oaa, transport, nadph]
+title: Mitochondrial Shuttles — Malate and Aspartate
+aliases:
+  - Z-001-0490
+  - Malate-Shuttle
+  - Aspartate-Shuttle
+  - OAA-Transport
+domain: 1
+tags:
+  - zettel
+  - malate-shuttle
+  - aspartate-shuttle
+  - mitochondria
+  - oaa
+  - transport
+  - nadph
 parent-moc: "[[MOC-Glycolysis-PPP]]"
 status: conscious
 source-litnote: "[[L-001-0045H_Oxaloacetate_Gluconeogenesis_CGPT-0445]]"
-source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-04
 ---
 
@@ -113,4 +124,4 @@ extraction-date: 2026-03-04
 - [[Anaplerosis_Replenishing_Krebs_Cycle_Z-001-0492]] — OAA replenishment
 
 ---
-*Source: [[L-001-0045H_Oxaloacetate_Gluconeogenesis_CGPT-0445]] | Inbox: [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*
+*Source: [[L-001-0045H_Oxaloacetate_Gluconeogenesis_CGPT-0445]] | Inbox: [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*

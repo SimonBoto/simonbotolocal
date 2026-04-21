@@ -1,14 +1,28 @@
 ---
 uid: Z-001-0486
 type: zettel
-title: "BHB NLRP3 Inflammasome Inhibition"
-aliases: ["Z-001-0486", "BHB", "NLRP3", "Inflammasome", "Inflammation", "IL-1β"]
-domain: 001
-tags: [zettel, bhb, nlrp3, inflammasome, inflammation, il-1b, anti-inflammatory, pyroptosis]
+title: BHB NLRP3 Inflammasome Inhibition
+aliases:
+  - Z-001-0486
+  - BHB
+  - NLRP3
+  - Inflammasome
+  - Inflammation
+  - IL-1β
+domain: 1
+tags:
+  - zettel
+  - bhb
+  - nlrp3
+  - inflammasome
+  - inflammation
+  - il-1b
+  - anti-inflammatory
+  - pyroptosis
 parent-moc: "[[MOC-Lipid-Metabolism]]"
 status: conscious
 source-litnote: "[[L-001-0045G_Ketogenesis_BHB_Signaling_CGPT-0445]]"
-source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-04
 ---
 
@@ -126,4 +140,4 @@ extraction-date: 2026-03-04
 - [[Inflammasome_Metabolic_Syndrome_Z-001-1107]] — NLRP3 in MetSyn
 
 ---
-*Source: [[L-001-0045G_Ketogenesis_BHB_Signaling_CGPT-0445]] | Inbox: [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*
+*Source: [[L-001-0045G_Ketogenesis_BHB_Signaling_CGPT-0445]] | Inbox: [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*

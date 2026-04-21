@@ -36,7 +36,7 @@ tags:
 # Lit: Vitamin D — Role in Metabolic Syndrome
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]
 - **Date:** October 09, 2024
 - **Scope:** Chapter 3 — Vitamin D mechanisms in metabolic syndrome: biochemistry, IR, glucose, lipids, inflammation
 

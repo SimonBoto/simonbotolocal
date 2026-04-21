@@ -1,14 +1,26 @@
 ---
 uid: Z-001-1109
 type: zettel
-title: "Metabolic Fossils — Ancient Pathway Remnants"
-aliases: ["Z-001-1109", "Metabolic-Fossils", "Evolution", "Ancient-Enzymes", "RNA-World"]
-domain: 001
-tags: [zettel, metabolic-fossils, evolution, ancient-enzymes, rna-world, ribozymes, fe-s-clusters]
+title: Metabolic Fossils — Ancient Pathway Remnants
+aliases:
+  - Z-001-1109
+  - Metabolic-Fossils
+  - Evolution
+  - Ancient-Enzymes
+  - RNA-World
+domain: 1
+tags:
+  - zettel
+  - metabolic-fossils
+  - evolution
+  - ancient-enzymes
+  - rna-world
+  - ribozymes
+  - fe-s-clusters
 parent-moc: "[[MOC-Evolutionary-Biochemistry]]"
 status: conscious
 source-litnote: "[[L-001-0605_Evolutionary_Biochemistry_Metabolism_CGPT-0445]]"
-source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-08
 ---
 
@@ -115,4 +127,4 @@ extraction-date: 2026-03-08
 - [[Timeline_Prebiotic_Chemistry_to_LUCA_Z-101-0464]] — Evolutionary timeline
 
 ---
-*Source: [[L-001-0605_Evolutionary_Biochemistry_Metabolism_CGPT-0445]] | Inbox: [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*
+*Source: [[L-001-0605_Evolutionary_Biochemistry_Metabolism_CGPT-0445]] | Inbox: [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*

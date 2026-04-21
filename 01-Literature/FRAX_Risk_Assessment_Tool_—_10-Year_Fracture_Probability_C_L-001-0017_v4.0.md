@@ -36,7 +36,7 @@ tags:
 # FRAX Risk Assessment Tool — 10-Year Fracture Probability Calculation
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]
 - **Date:** March 07, 2025
 - **Scope:** Risk stratification section mentioning FRAX alongside DXA
 

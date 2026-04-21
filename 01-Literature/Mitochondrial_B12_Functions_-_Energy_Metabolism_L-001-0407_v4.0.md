@@ -41,7 +41,7 @@ tags:
 # Lit: Mitochondrial B12 Functions — Energy Metabolism and Exercise Performance
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
 - **Date:** November 2024
 - **Scope:** Mitochondrial B12 transport, energy metabolism, exercise performance, clinical assessment
 
@@ -78,7 +78,7 @@ tags:
 **Zettel:** [[B12_METHAP_Protocol_Integration_Z-001-0443]]
 
 ## Source Reference
-- **Extracted from:** [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
+- **Extracted from:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
 - **Anchor conversation:** CGPT-0445 (November 2024)
 
 ## Connections

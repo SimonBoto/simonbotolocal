@@ -32,7 +32,7 @@ tags:
 # Lit: High-Dose Vitamin D Clinical Research — Safety in Pediatrics
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]] (lines 13-15)
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]] (lines 13-15)
 - **Gallo et al. (2013):** RCT of vitamin D supplementation in infants (400-1,600 IU)
 - **Saadi et al. (2009):** Safety of 2,000 IU/day in infants
 - **Gordon et al. (2008):** High-dose therapy in adolescents (2,000 IU daily, 50,000 IU weekly)

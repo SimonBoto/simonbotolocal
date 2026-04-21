@@ -40,7 +40,7 @@ tags:
 # Lit: Prebiotic Chemistry: HCN to Adenine
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
 - **Date:** March 25, 2024
 - **Messages:** Extracted segments
 - **Context:** Pharmacometabolomics / Astrobiology domain
@@ -73,7 +73,7 @@ tags:
 **Zettel:** [[Timeline_Prebiotic_Chemistry_to_LUCA_Z-101-0464]]
 
 ## Source Reference
-- **Extracted from:** [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
+- **Extracted from:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
 - **Anchor conversation:** CGPT-0445 (March 25, 2024)
 
 ## Connections

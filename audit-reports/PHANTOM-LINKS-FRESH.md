@@ -120,8 +120,8 @@
 - [[CGPT_0264_Intro_L-001-0608]]
 
 ### ./00-Inbox/anchor cgpt conversations to exctract as priority.md
-- [[00-Inbox/ChatGPT/insulin_resistance/CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]
-- [[00-Inbox/ChatGPT/metabolomics/CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393]]
+- [[00-Inbox/Fleeting/ChatGPT/insulin_resistance/CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]
+- [[00-Inbox/Fleeting/ChatGPT/metabolomics/CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393]]
 - [[00-Inbox/Processed/CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]
 - [[00-Inbox/Processed/CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]
 - [[00-Inbox/Processed/CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]

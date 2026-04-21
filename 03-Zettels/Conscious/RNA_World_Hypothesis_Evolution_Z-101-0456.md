@@ -1,14 +1,26 @@
 ---
 uid: Z-101-0456
 type: zettel
-title: "RNA World Hypothesis and Early Evolution"
-aliases: ["Z-101-0456", "RNA-World", "Ribozymes", "Origin-Life", "Genetic-Material"]
+title: RNA World Hypothesis and Early Evolution
+aliases:
+  - Z-101-0456
+  - RNA-World
+  - Ribozymes
+  - Origin-Life
+  - Genetic-Material
 domain: 101
-tags: [zettel, rna-world, evolution, ribozymes, prebiotic, genetic-material, catalysis]
+tags:
+  - zettel
+  - rna-world
+  - evolution
+  - ribozymes
+  - prebiotic
+  - genetic-material
+  - catalysis
 parent-moc: "[[MOC-Origins-of-Life]]"
 status: conscious
 source-litnote: "[[L-101-0045B_Prebiotic_Chemistry_HCN_Adenine_CGPT-0445]]"
-source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-04
 ---
 
@@ -118,4 +130,4 @@ extraction-date: 2026-03-04
 - [[Timeline_Prebiotic_Chemistry_to_LUCA_Z-101-0464]] — Evolutionary timeline
 
 ---
-*Source: [[L-101-0045B_Prebiotic_Chemistry_HCN_Adenine_CGPT-0445]] | Inbox: [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*
+*Source: [[L-101-0045B_Prebiotic_Chemistry_HCN_Adenine_CGPT-0445]] | Inbox: [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*

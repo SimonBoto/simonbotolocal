@@ -1,14 +1,25 @@
 ---
 uid: Z-101-0454
 type: zettel
-title: "HCN Polymerization to Adenine Mechanism"
-aliases: ["Z-101-0454", "HCN-Polymerization", "Prebiotic-Adenine", "Origin-of-Life"]
+title: HCN Polymerization to Adenine Mechanism
+aliases:
+  - Z-101-0454
+  - HCN-Polymerization
+  - Prebiotic-Adenine
+  - Origin-of-Life
 domain: 101
-tags: [zettel, prebiotic-chemistry, hcn, adenine, origin-of-life, polymerization, nucleobase-synthesis]
+tags:
+  - zettel
+  - prebiotic-chemistry
+  - hcn
+  - adenine
+  - origin-of-life
+  - polymerization
+  - nucleobase-synthesis
 parent-moc: "[[MOC-Origins-of-Life]]"
 status: conscious
 source-litnote: "[[L-101-0045B_Prebiotic_Chemistry_HCN_Adenine_CGPT-0445]]"
-source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-04
 ---
 
@@ -124,4 +135,4 @@ extraction-date: 2026-03-04
 - [[Timeline_Prebiotic_Chemistry_to_LUCA_Z-101-0464]] — Evolutionary timeline
 
 ---
-*Source: [[L-101-0045B_Prebiotic_Chemistry_HCN_Adenine_CGPT-0445]] | Inbox: [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*
+*Source: [[L-101-0045B_Prebiotic_Chemistry_HCN_Adenine_CGPT-0445]] | Inbox: [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*

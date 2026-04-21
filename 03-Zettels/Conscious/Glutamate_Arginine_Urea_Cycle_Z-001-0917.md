@@ -1,14 +1,26 @@
 ---
 uid: Z-001-0917
 type: zettel
-title: "Glutamate-Arginine-Urea Cycle Connection"
-aliases: ["Z-001-0917", "Glutamate", "Arginine", "Urea-Cycle", "Nitrogen-Disposal"]
-domain: 001
-tags: [zettel, glutamate, arginine, urea-cycle, ornithine, citrulline, nags]
+title: Glutamate-Arginine-Urea Cycle Connection
+aliases:
+  - Z-001-0917
+  - Glutamate
+  - Arginine
+  - Urea-Cycle
+  - Nitrogen-Disposal
+domain: 1
+tags:
+  - zettel
+  - glutamate
+  - arginine
+  - urea-cycle
+  - ornithine
+  - citrulline
+  - nags
 parent-moc: "[[MOC-Nitrogen-Metabolism]]"
 status: conscious
 source-litnote: "[[L-001-0046B_Amino_Acid_Networks_CGPT-0445]]"
-source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-04
 ---
 
@@ -87,4 +99,4 @@ Arginine → Ornithine + Urea (arginase)
 - [[Urea_Cycle_Disorders_Hyperammonemia_Z-001-1114]] — Clinical disorders
 
 ---
-*Source: [[L-001-0046B_Amino_Acid_Networks_CGPT-0445]] | Inbox: [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*
+*Source: [[L-001-0046B_Amino_Acid_Networks_CGPT-0445]] | Inbox: [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*

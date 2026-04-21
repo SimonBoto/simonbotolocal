@@ -1,14 +1,26 @@
 ---
 uid: Z-001-0916
 type: zettel
-title: "Glutamine-Glutamate-Ammonia Cycle"
-aliases: ["Z-001-0916", "Glutamine", "Glutamate", "Ammonia", "Nitrogen-Transport"]
-domain: 001
-tags: [zettel, glutamine, glutamate, ammonia, nitrogen-transport, detoxification, enterocytes]
+title: Glutamine-Glutamate-Ammonia Cycle
+aliases:
+  - Z-001-0916
+  - Glutamine
+  - Glutamate
+  - Ammonia
+  - Nitrogen-Transport
+domain: 1
+tags:
+  - zettel
+  - glutamine
+  - glutamate
+  - ammonia
+  - nitrogen-transport
+  - detoxification
+  - enterocytes
 parent-moc: "[[MOC-Nitrogen-Metabolism]]"
 status: conscious
 source-litnote: "[[L-001-0046B_Amino_Acid_Networks_CGPT-0445]]"
-source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-04
 ---
 
@@ -82,4 +94,4 @@ NH₄⁺ excreted in urine → H⁺ buffering
 - [[Kidney_Acid_Base_Regulation_Z-001-1113]] — Renal ammonia excretion
 
 ---
-*Source: [[L-001-0046B_Amino_Acid_Networks_CGPT-0445]] | Inbox: [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*
+*Source: [[L-001-0046B_Amino_Acid_Networks_CGPT-0445]] | Inbox: [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*

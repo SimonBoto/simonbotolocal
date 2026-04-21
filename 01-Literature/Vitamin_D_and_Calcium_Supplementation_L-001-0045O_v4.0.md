@@ -36,7 +36,7 @@ tags:
 # Vitamin D and Calcium Supplementation — Foundation of Osteoporosis Treatment
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]
 - **Date:** March 07, 2025
 - **Scope:** Foundational therapy section mentioning vitamin D and calcium
 

@@ -1,14 +1,28 @@
 ---
 uid: Z-001-0496
 type: zettel
-title: "Amino Acids to Fumarate — Phenylalanine and Tyrosine"
-aliases: ["Z-001-0496", "Fumarate", "Phenylalanine", "Tyrosine", "PKU", "BH4"]
-domain: 001
-tags: [zettel, fumarate, phenylalanine, tyrosine, pku, phenylalanine-hydroxylase, glucogenic, ketogenic]
+title: Amino Acids to Fumarate — Phenylalanine and Tyrosine
+aliases:
+  - Z-001-0496
+  - Fumarate
+  - Phenylalanine
+  - Tyrosine
+  - PKU
+  - BH4
+domain: 1
+tags:
+  - zettel
+  - fumarate
+  - phenylalanine
+  - tyrosine
+  - pku
+  - phenylalanine-hydroxylase
+  - glucogenic
+  - ketogenic
 parent-moc: "[[MOC-Nitrogen-Metabolism]]"
 status: conscious
 source-litnote: "[[L-001-0046A_Amino_Acids_Krebs_Entry_CGPT-0445]]"
-source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-04
 ---
 
@@ -119,4 +133,4 @@ Fumarylacetoacetate → Fumarate + Acetoacetate
 - [[Glucogenic_vs_Ketogenic_Classification_Z-001-0499]] — Classification system
 
 ---
-*Source: [[L-001-0046A_Amino_Acids_Krebs_Entry_CGPT-0445]] | Inbox: [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*
+*Source: [[L-001-0046A_Amino_Acids_Krebs_Entry_CGPT-0445]] | Inbox: [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*

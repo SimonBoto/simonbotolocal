@@ -41,7 +41,7 @@ tags:
 # Lit: Amino Acids Entering Krebs Cycle: The Complete Map
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
 - **Date:** March 25, 2024
 - **Messages:** 57-62
 - **Context:** Insulin/Metabolism domain
@@ -84,7 +84,7 @@ tags:
 **Zettel:** [[Glucogenic_vs_Ketogenic_Classification_Z-001-0499]]
 
 ## Source Reference
-- **Extracted from:** [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
+- **Extracted from:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
 - **Anchor conversation:** CGPT-0445 (March 25, 2024)
 
 ## Connections

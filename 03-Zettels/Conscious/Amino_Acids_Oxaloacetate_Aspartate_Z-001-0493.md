@@ -1,14 +1,26 @@
 ---
 uid: Z-001-0493
 type: zettel
-title: "Amino Acids to Oxaloacetate — Aspartate and Asparagine"
-aliases: ["Z-001-0493", "Oxaloacetate", "Aspartate", "Asparagine", "B6"]
-domain: 001
-tags: [zettel, aspartate, asparagine, oxaloacetate, transaminase, b6, glucogenic]
+title: Amino Acids to Oxaloacetate — Aspartate and Asparagine
+aliases:
+  - Z-001-0493
+  - Oxaloacetate
+  - Aspartate
+  - Asparagine
+  - B6
+domain: 1
+tags:
+  - zettel
+  - aspartate
+  - asparagine
+  - oxaloacetate
+  - transaminase
+  - b6
+  - glucogenic
 parent-moc: "[[MOC-Nitrogen-Metabolism]]"
 status: conscious
 source-litnote: "[[L-001-0046A_Amino_Acids_Krebs_Entry_CGPT-0445]]"
-source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-04
 ---
 
@@ -115,4 +127,4 @@ Asparagine + H₂O → Aspartate + NH₃
 - [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488]] — OAA metabolism
 
 ---
-*Source: [[L-001-0046A_Amino_Acids_Krebs_Entry_CGPT-0445]] | Inbox: [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*
+*Source: [[L-001-0046A_Amino_Acids_Krebs_Entry_CGPT-0445]] | Inbox: [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*

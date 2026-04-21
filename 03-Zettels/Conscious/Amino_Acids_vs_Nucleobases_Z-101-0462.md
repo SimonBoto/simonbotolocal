@@ -1,14 +1,25 @@
 ---
 uid: Z-101-0462
 type: zettel
-title: "Amino Acids vs Nucleobases — Molecular Building Blocks"
-aliases: ["Z-101-0462", "Amino-Acids-vs-Nucleobases", "Molecular-Building-Blocks", "Evolution"]
+title: Amino Acids vs Nucleobases — Molecular Building Blocks
+aliases:
+  - Z-101-0462
+  - Amino-Acids-vs-Nucleobases
+  - Molecular-Building-Blocks
+  - Evolution
 domain: 101
-tags: [zettel, amino-acids, nucleobases, comparison, evolution, structure, prebiotic]
+tags:
+  - zettel
+  - amino-acids
+  - nucleobases
+  - comparison
+  - evolution
+  - structure
+  - prebiotic
 parent-moc: "[[MOC-Origins-of-Life]]"
 status: conscious
 source-litnote: "[[L-101-0045A_Adenosine_Adenine_Biochemistry_CGPT-0445]]"
-source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-04
 ---
 
@@ -116,4 +127,4 @@ Nucleobase:  Fused rings (adenine: C₅H₅N₅)
 - [[RNA_World_Hypothesis_Evolution_Z-101-0456]] — Integration
 
 ---
-*Source: [[L-101-0045A_Adenosine_Adenine_Biochemistry_CGPT-0445]] | Inbox: [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*
+*Source: [[L-101-0045A_Adenosine_Adenine_Biochemistry_CGPT-0445]] | Inbox: [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*

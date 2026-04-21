@@ -7,9 +7,9 @@ OTHER
 
 MITOCHODNRIA
 
-[[00-Inbox/ChatGPT/insulin_resistance/CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264|CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]
+[[00-Inbox/Fleeting/ChatGPT/insulin_resistance/CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264|CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]
 
-[[00-Inbox/ChatGPT/metabolomics/CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393|CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393]]
+[[00-Inbox/Fleeting/ChatGPT/metabolomics/CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393|CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393]]
 
 VITAMIN D
 

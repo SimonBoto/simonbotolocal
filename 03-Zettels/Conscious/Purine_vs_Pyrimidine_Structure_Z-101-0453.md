@@ -1,14 +1,26 @@
 ---
 uid: Z-101-0453
 type: zettel
-title: "Purine vs Pyrimidine Structure and Chemistry"
-aliases: ["Z-101-0453", "Purine-Pyrimidine", "Nucleobase-Chemistry", "Base-Pairing"]
+title: Purine vs Pyrimidine Structure and Chemistry
+aliases:
+  - Z-101-0453
+  - Purine-Pyrimidine
+  - Nucleobase-Chemistry
+  - Base-Pairing
 domain: 101
-tags: [zettel, nucleobases, purines, pyrimidines, biochemistry, structure, dna, rna]
+tags:
+  - zettel
+  - nucleobases
+  - purines
+  - pyrimidines
+  - biochemistry
+  - structure
+  - dna
+  - rna
 parent-moc: "[[MOC-Metabolic-Pathways]]"
 status: conscious
 source-litnote: "[[L-101-0045A_Adenosine_Adenine_Biochemistry_CGPT-0445]]"
-source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-04
 ---
 
@@ -118,4 +130,4 @@ extraction-date: 2026-03-04
 - [[RNA_World_Hypothesis_Evolution_Z-101-0456]] — Base pairing origins
 
 ---
-*Source: [[L-101-0045A_Adenosine_Adenine_Biochemistry_CGPT-0445]] | Inbox: [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*
+*Source: [[L-101-0045A_Adenosine_Adenine_Biochemistry_CGPT-0445]] | Inbox: [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*

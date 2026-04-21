@@ -39,7 +39,7 @@ tags:
 # Lit: Ribose Biosynthesis: Pentose Phosphate Pathway
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
 - **Date:** March 25, 2024
 - **Messages:** Extracted segments
 - **Context:** Insulin/Metabolism domain
@@ -77,7 +77,7 @@ tags:
 **Zettel:** [[Nucleobase_Phosphorylation_Nucleotide_Formation_Z-001-0465]]
 
 ## Source Reference
-- **Extracted from:** [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
+- **Extracted from:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
 - **Anchor conversation:** CGPT-0445 (March 25, 2024)
 
 ## Connections

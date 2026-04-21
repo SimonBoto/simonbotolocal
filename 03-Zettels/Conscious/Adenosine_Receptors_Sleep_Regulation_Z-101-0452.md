@@ -1,14 +1,25 @@
 ---
 uid: Z-101-0452
 type: zettel
-title: "Adenosine Receptors and Sleep Regulation"
-aliases: ["Z-101-0452", "Adenosine-Sleep", "Purinergic-Signaling", "Caffeine"]
+title: Adenosine Receptors and Sleep Regulation
+aliases:
+  - Z-101-0452
+  - Adenosine-Sleep
+  - Purinergic-Signaling
+  - Caffeine
 domain: 101
-tags: [zettel, adenosine, sleep, neurotransmission, receptors, circadian, caffeine]
+tags:
+  - zettel
+  - adenosine
+  - sleep
+  - neurotransmission
+  - receptors
+  - circadian
+  - caffeine
 parent-moc: "[[MOC-Neurotransmission]]"
 status: conscious
 source-litnote: "[[L-101-0045A_Adenosine_Adenine_Biochemistry_CGPT-0445]]"
-source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-04
 ---
 
@@ -114,4 +125,4 @@ Caffeine blocks A1/A2A receptors → prevents adenosine signaling → wakefulnes
 - [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083]] — Extended adenosine roles
 
 ---
-*Source: [[L-101-0045A_Adenosine_Adenine_Biochemistry_CGPT-0445]] | Inbox: [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*
+*Source: [[L-101-0045A_Adenosine_Adenine_Biochemistry_CGPT-0445]] | Inbox: [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*

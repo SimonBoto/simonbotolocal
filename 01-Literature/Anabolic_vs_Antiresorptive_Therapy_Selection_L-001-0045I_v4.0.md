@@ -36,7 +36,7 @@ tags:
 # Anabolic vs Antiresorptive Therapy Selection — Clinical Decision Framework
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]
 - **Date:** March 07, 2025
 - **Scope:** Clinical decision-making section discussing therapy selection criteria
 

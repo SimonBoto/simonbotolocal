@@ -1,14 +1,25 @@
 ---
 uid: Z-101-0455
 type: zettel
-title: "Meteoritic Nucleobases and Panspermia Hypothesis"
-aliases: ["Z-101-0455", "Panspermia", "Murchison-Meteorite", "Extraterrestrial-Nucleobases"]
+title: Meteoritic Nucleobases and Panspermia Hypothesis
+aliases:
+  - Z-101-0455
+  - Panspermia
+  - Murchison-Meteorite
+  - Extraterrestrial-Nucleobases
 domain: 101
-tags: [zettel, astrobiology, meteorites, panspermia, adenine, nucleobases, origin-of-life]
+tags:
+  - zettel
+  - astrobiology
+  - meteorites
+  - panspermia
+  - adenine
+  - nucleobases
+  - origin-of-life
 parent-moc: "[[MOC-Origins-of-Life]]"
 status: conscious
 source-litnote: "[[L-101-0045B_Prebiotic_Chemistry_HCN_Adenine_CGPT-0445]]"
-source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-04
 ---
 
@@ -116,4 +127,4 @@ extraction-date: 2026-03-04
 - [[Timeline_Prebiotic_Chemistry_to_LUCA_Z-101-0464]] — Evolutionary context
 
 ---
-*Source: [[L-101-0045B_Prebiotic_Chemistry_HCN_Adenine_CGPT-0445]] | Inbox: [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*
+*Source: [[L-101-0045B_Prebiotic_Chemistry_HCN_Adenine_CGPT-0445]] | Inbox: [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*

@@ -33,7 +33,7 @@ tags:
 ## Source
 - **Primary:** Institute of Medicine. (2010). Dietary Reference Intakes for Calcium and Vitamin D.
 - **Critique:** Veugelers, P.J., & Ekwaru, J.P. (2014). Statistical error. *Nutrients*.
-- **ChatGPT conversation:** [[CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]] (lines 7-9)
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]] (lines 7-9)
 - **Scope:** Mathematical/statistical error in calculating RDA led to 10x underestimation
 
 ---

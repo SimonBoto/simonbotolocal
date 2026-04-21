@@ -1,14 +1,26 @@
 ---
 uid: Z-001-0915
 type: zettel
-title: "Glutamate — The Central Amino Acid Hub"
-aliases: ["Z-001-0915", "Glutamate", "Hub", "Central", "Amino-Acid-Metabolism"]
-domain: 001
-tags: [zettel, glutamate, hub, transamination, alpha-ketoglutarate, gdh, neurotransmitter]
+title: Glutamate — The Central Amino Acid Hub
+aliases:
+  - Z-001-0915
+  - Glutamate
+  - Hub
+  - Central
+  - Amino-Acid-Metabolism
+domain: 1
+tags:
+  - zettel
+  - glutamate
+  - hub
+  - transamination
+  - alpha-ketoglutarate
+  - gdh
+  - neurotransmitter
 parent-moc: "[[MOC-Nitrogen-Metabolism]]"
 status: conscious
 source-litnote: "[[L-001-0046B_Amino_Acid_Networks_CGPT-0445]]"
-source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-04
 ---
 
@@ -83,4 +95,4 @@ Or α-KG → Krebs cycle (energy)
 - [[GABA_Synthesis_Glutamate_Decarboxylase_Z-001-1112]] — GABA production
 
 ---
-*Source: [[L-001-0046B_Amino_Acid_Networks_CGPT-0445]] | Inbox: [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*
+*Source: [[L-001-0046B_Amino_Acid_Networks_CGPT-0445]] | Inbox: [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*

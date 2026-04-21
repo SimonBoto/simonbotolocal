@@ -1,14 +1,29 @@
 ---
 uid: Z-001-0497
 type: zettel
-title: "Amino Acids to Pyruvate — Alanine, Serine, Glycine"
-aliases: ["Z-001-0497", "Pyruvate", "Alanine", "Serine", "Glycine", "Folate", "B6"]
-domain: 001
-tags: [zettel, pyruvate, alanine, serine, glycine, folate, glucose-alanine-cycle, glucogenic]
+title: Amino Acids to Pyruvate — Alanine, Serine, Glycine
+aliases:
+  - Z-001-0497
+  - Pyruvate
+  - Alanine
+  - Serine
+  - Glycine
+  - Folate
+  - B6
+domain: 1
+tags:
+  - zettel
+  - pyruvate
+  - alanine
+  - serine
+  - glycine
+  - folate
+  - glucose-alanine-cycle
+  - glucogenic
 parent-moc: "[[MOC-Nitrogen-Metabolism]]"
 status: conscious
 source-litnote: "[[L-001-0046A_Amino_Acids_Krebs_Entry_CGPT-0445]]"
-source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-04
 ---
 
@@ -114,4 +129,4 @@ Serine + THF ↔ Glycine + 5,10-methylene-THF (SHMT)
 - [[One_Carbon_Metabolism_Folate_B12_Z-001-1110]] — Folate metabolism
 
 ---
-*Source: [[L-001-0046A_Amino_Acids_Krebs_Entry_CGPT-0445]] | Inbox: [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*
+*Source: [[L-001-0046A_Amino_Acids_Krebs_Entry_CGPT-0445]] | Inbox: [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*

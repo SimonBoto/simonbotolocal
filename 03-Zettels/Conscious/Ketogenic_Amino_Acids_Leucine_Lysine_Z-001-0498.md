@@ -1,14 +1,27 @@
 ---
 uid: Z-001-0498
 type: zettel
-title: "Ketogenic Amino Acids — Leucine and Lysine"
-aliases: ["Z-001-0498", "Ketogenic", "Leucine", "Lysine", "HMG-CoA", "Acetyl-CoA"]
-domain: 001
-tags: [zettel, ketogenic, leucine, lysine, hmg-coa, pure-ketogenic, mtor]
+title: Ketogenic Amino Acids — Leucine and Lysine
+aliases:
+  - Z-001-0498
+  - Ketogenic
+  - Leucine
+  - Lysine
+  - HMG-CoA
+  - Acetyl-CoA
+domain: 1
+tags:
+  - zettel
+  - ketogenic
+  - leucine
+  - lysine
+  - hmg-coa
+  - pure-ketogenic
+  - mtor
 parent-moc: "[[MOC-Nitrogen-Metabolism]]"
 status: conscious
 source-litnote: "[[L-001-0046A_Amino_Acids_Krebs_Entry_CGPT-0445]]"
-source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-04
 ---
 
@@ -120,4 +133,4 @@ Lysine → Saccharopine → α-aminoadipate → ... → Acetoacetyl-CoA
 - [[mTOR_Signaling_Nutrient_Sensing_Z-001-1111]] — mTOR pathway
 
 ---
-*Source: [[L-001-0046A_Amino_Acids_Krebs_Entry_CGPT-0445]] | Inbox: [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*
+*Source: [[L-001-0046A_Amino_Acids_Krebs_Entry_CGPT-0445]] | Inbox: [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*

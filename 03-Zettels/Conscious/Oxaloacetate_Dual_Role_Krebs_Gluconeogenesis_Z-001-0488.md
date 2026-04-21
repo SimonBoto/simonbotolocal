@@ -1,14 +1,25 @@
 ---
 uid: Z-001-0488
 type: zettel
-title: "Oxaloacetate Dual Role — Krebs Cycle and Gluconeogenesis"
-aliases: ["Z-001-0488", "Oxaloacetate", "Krebs-Cycle", "Gluconeogenesis", "OAA"]
-domain: 001
-tags: [zettel, oxaloacetate, krebs-cycle, gluconeogenesis, oaa, metabolic-crossroads]
+title: Oxaloacetate Dual Role — Krebs Cycle and Gluconeogenesis
+aliases:
+  - Z-001-0488
+  - Oxaloacetate
+  - Krebs-Cycle
+  - Gluconeogenesis
+  - OAA
+domain: 1
+tags:
+  - zettel
+  - oxaloacetate
+  - krebs-cycle
+  - gluconeogenesis
+  - oaa
+  - metabolic-crossroads
 parent-moc: "[[MOC-Glycolysis-PPP]]"
 status: conscious
 source-litnote: "[[L-001-0045H_Oxaloacetate_Gluconeogenesis_CGPT-0445]]"
-source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-04
 ---
 
@@ -114,4 +125,4 @@ Oxaloacetate + GTP → PEP + GDP + CO₂ (PEPCK)
 - [[Ketogenesis_Pathway_Regulation_Z-001-0481]] — OAA and ketogenesis
 
 ---
-*Source: [[L-001-0045H_Oxaloacetate_Gluconeogenesis_CGPT-0445]] | Inbox: [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*
+*Source: [[L-001-0045H_Oxaloacetate_Gluconeogenesis_CGPT-0445]] | Inbox: [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*

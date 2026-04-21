@@ -1,14 +1,27 @@
 ---
 uid: Z-001-0494
 type: zettel
-title: "Amino Acids to α-Ketoglutarate — The Glutamate Hub"
-aliases: ["Z-001-0494", "Alpha-Ketoglutarate", "Glutamate", "Glutamate-Hub", "B6"]
-domain: 001
-tags: [zettel, alpha-ketoglutarate, glutamate, arginine, proline, histidine, b6, glucogenic]
+title: Amino Acids to α-Ketoglutarate — The Glutamate Hub
+aliases:
+  - Z-001-0494
+  - Alpha-Ketoglutarate
+  - Glutamate
+  - Glutamate-Hub
+  - B6
+domain: 1
+tags:
+  - zettel
+  - alpha-ketoglutarate
+  - glutamate
+  - arginine
+  - proline
+  - histidine
+  - b6
+  - glucogenic
 parent-moc: "[[MOC-Nitrogen-Metabolism]]"
 status: conscious
 source-litnote: "[[L-001-0046A_Amino_Acids_Krebs_Entry_CGPT-0445]]"
-source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-04
 ---
 
@@ -110,4 +123,4 @@ extraction-date: 2026-03-04
 - [[Glucogenic_vs_Ketogenic_Classification_Z-001-0499]] — Classification
 
 ---
-*Source: [[L-001-0046A_Amino_Acids_Krebs_Entry_CGPT-0445]] | Inbox: [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*
+*Source: [[L-001-0046A_Amino_Acids_Krebs_Entry_CGPT-0445]] | Inbox: [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*

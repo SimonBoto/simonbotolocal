@@ -1,14 +1,25 @@
 ---
 uid: Z-101-0451
 type: zettel
-title: "ATP as Universal Energy Currency"
-aliases: ["Z-101-0451", "ATP", "Energy-Currency", "Evolution", "Adenosine"]
+title: ATP as Universal Energy Currency
+aliases:
+  - Z-101-0451
+  - ATP
+  - Energy-Currency
+  - Evolution
+  - Adenosine
 domain: 101
-tags: [zettel, atp, energy-metabolism, adenosine, evolution, universal-biochemistry]
+tags:
+  - zettel
+  - atp
+  - energy-metabolism
+  - adenosine
+  - evolution
+  - universal-biochemistry
 parent-moc: "[[MOC-Energy-Metabolism]]"
 status: conscious
 source-litnote: "[[L-101-0045A_Adenosine_Adenine_Biochemistry_CGPT-0445]]"
-source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-04
 ---
 
@@ -119,4 +130,4 @@ extraction-date: 2026-03-04
 - [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]] — Adenine origins
 
 ---
-*Source: [[L-101-0045A_Adenosine_Adenine_Biochemistry_CGPT-0445]] | Inbox: [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*
+*Source: [[L-101-0045A_Adenosine_Adenine_Biochemistry_CGPT-0445]] | Inbox: [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*

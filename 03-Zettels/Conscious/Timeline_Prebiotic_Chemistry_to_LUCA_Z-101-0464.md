@@ -1,14 +1,25 @@
 ---
 uid: Z-101-0464
 type: zettel
-title: "Timeline — Prebiotic Chemistry to LUCA"
-aliases: ["Z-101-0464", "Prebiotic-Timeline", "LUCA-Timeline", "Evolution-Timeline"]
+title: Timeline — Prebiotic Chemistry to LUCA
+aliases:
+  - Z-101-0464
+  - Prebiotic-Timeline
+  - LUCA-Timeline
+  - Evolution-Timeline
 domain: 101
-tags: [zettel, timeline, evolution, prebiotic, luca, origin-of-life, deep-time]
+tags:
+  - zettel
+  - timeline
+  - evolution
+  - prebiotic
+  - luca
+  - origin-of-life
+  - deep-time
 parent-moc: "[[MOC-Origins-of-Life]]"
 status: conscious
 source-litnote: "[[L-101-0045B_Prebiotic_Chemistry_HCN_Adenine_CGPT-0445]]"
-source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-04
 ---
 
@@ -115,4 +126,4 @@ extraction-date: 2026-03-04
 - [[Evolutionary_Ancient_Glycolysis_Z-001-0470]] — Conserved metabolism
 
 ---
-*Source: [[L-101-0045B_Prebiotic_Chemistry_HCN_Adenine_CGPT-0445]] | Inbox: [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*
+*Source: [[L-101-0045B_Prebiotic_Chemistry_HCN_Adenine_CGPT-0445]] | Inbox: [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*

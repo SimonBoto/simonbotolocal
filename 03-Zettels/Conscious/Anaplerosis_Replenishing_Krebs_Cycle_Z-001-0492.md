@@ -1,14 +1,26 @@
 ---
 uid: Z-001-0492
 type: zettel
-title: "Anaplerosis — Replenishing Krebs Cycle Intermediates"
-aliases: ["Z-001-0492", "Anaplerosis", "Krebs-Cycle", "Pyruvate-Carboxylase", "Biotin"]
-domain: 001
-tags: [zettel, anaplerosis, krebs-cycle, pyruvate-carboxylase, biotin, b7, oaa]
+title: Anaplerosis — Replenishing Krebs Cycle Intermediates
+aliases:
+  - Z-001-0492
+  - Anaplerosis
+  - Krebs-Cycle
+  - Pyruvate-Carboxylase
+  - Biotin
+domain: 1
+tags:
+  - zettel
+  - anaplerosis
+  - krebs-cycle
+  - pyruvate-carboxylase
+  - biotin
+  - b7
+  - oaa
 parent-moc: "[[MOC-Glycolysis-PPP]]"
 status: conscious
 source-litnote: "[[L-001-0045H_Oxaloacetate_Gluconeogenesis_CGPT-0445]]"
-source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-04
 ---
 
@@ -112,4 +124,4 @@ Pyruvate + CO₂ + ATP → Oxaloacetate + ADP + Pi
 - [[Vitamin_Dependence_Organic_Acid_Metabolism_Z-001-0479]] — Biotin role
 
 ---
-*Source: [[L-001-0045H_Oxaloacetate_Gluconeogenesis_CGPT-0445]] | Inbox: [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*
+*Source: [[L-001-0045H_Oxaloacetate_Gluconeogenesis_CGPT-0445]] | Inbox: [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*

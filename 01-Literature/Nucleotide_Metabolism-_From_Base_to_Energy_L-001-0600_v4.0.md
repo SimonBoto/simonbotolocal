@@ -38,7 +38,7 @@ tags:
 # Lit: ChatGPT 2024 — Nucleotide Metabolism: From Base to Energy
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
 - **Date:** March 25, 2024
 - **Messages:** 70
 - **Context:** Advanced biochemistry exploration (Ames/Pauling style)
@@ -93,7 +93,7 @@ Adenine (base) + Ribose (sugar) → Adenosine (nucleoside)
 | **Adenine phosphoribosyltransferase deficiency** | APRT enzyme | Kidney stones, renal failure |
 
 ## Source Reference
-- **Extracted from:** [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
+- **Extracted from:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
 - **Anchor conversation:** CGPT-0445 (March 25, 2024)
 
 ## Connections

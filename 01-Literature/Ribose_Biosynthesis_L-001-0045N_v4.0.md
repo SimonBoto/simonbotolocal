@@ -38,7 +38,7 @@ reviewed_by: PENDING
 
 # Lit — Ribose Biosynthesis: Pentose Phosphate Pathway and Metabolic Integration
 
-> **Source:** ChatGPT conversation [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]] (March 25, 2024)  
+> **Source:** ChatGPT conversation [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]] (March 25, 2024)  
 > **Core Claim:** The pentose phosphate pathway (PPP) provides ribose-5-phosphate for nucleotide synthesis and NADPH for reductive biosynthesis and antioxidant defense, with G6PD deficiency representing a common evolutionary trade-off with malaria protection.
 
 ---
@@ -204,7 +204,7 @@ Nucleobase + PRPP → Nucleotide + PPi
 ---
 
 ## Source Reference
-This literature note was extracted from: [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
+This literature note was extracted from: [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
 
 *Literature note processed: 2026-04-09 | FORG v4.0*  
 *Zettels extracted: 6 | Status: extracted*

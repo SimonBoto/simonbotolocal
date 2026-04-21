@@ -1,14 +1,24 @@
 ---
 uid: Z-101-0463
 type: zettel
-title: "Formamide Chemistry — Alternative Prebiotic Pathway"
-aliases: ["Z-101-0463", "Formamide", "Alternative-Prebiotic", "Nucleobase-Synthesis"]
+title: Formamide Chemistry — Alternative Prebiotic Pathway
+aliases:
+  - Z-101-0463
+  - Formamide
+  - Alternative-Prebiotic
+  - Nucleobase-Synthesis
 domain: 101
-tags: [zettel, formamide, prebiotic-chemistry, nucleobase-synthesis, alternative-pathway, hcn]
+tags:
+  - zettel
+  - formamide
+  - prebiotic-chemistry
+  - nucleobase-synthesis
+  - alternative-pathway
+  - hcn
 parent-moc: "[[MOC-Origins-of-Life]]"
 status: conscious
 source-litnote: "[[L-101-0045B_Prebiotic_Chemistry_HCN_Adenine_CGPT-0445]]"
-source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-04
 ---
 
@@ -117,4 +127,4 @@ Formamide + Heat (160°C) + Catalyst → Purines + Pyrimidines
 - [[Timeline_Prebiotic_Chemistry_to_LUCA_Z-101-0464]] — Context
 
 ---
-*Source: [[L-101-0045B_Prebiotic_Chemistry_HCN_Adenine_CGPT-0445]] | Inbox: [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*
+*Source: [[L-101-0045B_Prebiotic_Chemistry_HCN_Adenine_CGPT-0445]] | Inbox: [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*

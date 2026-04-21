@@ -1,14 +1,27 @@
 ---
 uid: Z-001-0484
 type: zettel
-title: "BHB as Energy Substrate for Brain and Heart"
-aliases: ["Z-001-0484", "BHB-Energy", "Brain-Fuel", "Heart-Fuel", "Ketones"]
-domain: 001
-tags: [zettel, bhb, brain, heart, energy, ketones, neuroprotection, mct]
+title: BHB as Energy Substrate for Brain and Heart
+aliases:
+  - Z-001-0484
+  - BHB-Energy
+  - Brain-Fuel
+  - Heart-Fuel
+  - Ketones
+domain: 1
+tags:
+  - zettel
+  - bhb
+  - brain
+  - heart
+  - energy
+  - ketones
+  - neuroprotection
+  - mct
 parent-moc: "[[MOC-Lipid-Metabolism]]"
 status: conscious
 source-litnote: "[[L-001-0045G_Ketogenesis_BHB_Signaling_CGPT-0445]]"
-source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-04
 ---
 
@@ -126,4 +139,4 @@ extraction-date: 2026-03-04
 - [[Three_Ketone_Bodies_Z-001-0482]] — BHB as major circulating ketone
 
 ---
-*Source: [[L-001-0045G_Ketogenesis_BHB_Signaling_CGPT-0445]] | Inbox: [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*
+*Source: [[L-001-0045G_Ketogenesis_BHB_Signaling_CGPT-0445]] | Inbox: [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*

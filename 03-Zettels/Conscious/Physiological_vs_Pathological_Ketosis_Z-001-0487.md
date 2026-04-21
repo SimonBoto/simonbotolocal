@@ -1,14 +1,26 @@
 ---
 uid: Z-001-0487
 type: zettel
-title: "Physiological vs Pathological Ketosis"
-aliases: ["Z-001-0487", "Ketosis", "Ketoacidosis", "DKA", "Nutritional-Ketosis"]
-domain: 001
-tags: [zettel, ketosis, ketoacidosis, dka, nutritional-ketosis, safety, diabetes]
+title: Physiological vs Pathological Ketosis
+aliases:
+  - Z-001-0487
+  - Ketosis
+  - Ketoacidosis
+  - DKA
+  - Nutritional-Ketosis
+domain: 1
+tags:
+  - zettel
+  - ketosis
+  - ketoacidosis
+  - dka
+  - nutritional-ketosis
+  - safety
+  - diabetes
 parent-moc: "[[MOC-Lipid-Metabolism]]"
 status: conscious
 source-litnote: "[[L-001-0045G_Ketogenesis_BHB_Signaling_CGPT-0445]]"
-source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-04
 ---
 
@@ -121,4 +133,4 @@ extraction-date: 2026-03-04
 - [[Type_1_Diabetes_Management_Z-001-1108]] — DKA prevention
 
 ---
-*Source: [[L-001-0045G_Ketogenesis_BHB_Signaling_CGPT-0445]] | Inbox: [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*
+*Source: [[L-001-0045G_Ketogenesis_BHB_Signaling_CGPT-0445]] | Inbox: [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*
