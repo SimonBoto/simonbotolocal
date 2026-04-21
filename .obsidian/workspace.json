@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,10 +242,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d9b0cc583b4000f1",
+  "active": "f8d0a6478bdc6335",
   "lastOpenFiles": [
-    "audit-reports/PHANTOM-LINKS.md",
     "02-References/Hub/INDEX-Facebook-Collection-References.md",
+    "audit-reports/PHANTOM-LINKS.md",
     "03-Zettels/Conscious/Human_Body_Regeneration_Timeline_Z-001-0617.md",
     "02-References/Hub/AHA_2025_Vitamin_D_Heart_Attack_R-001-0088.md",
     "08-Structure/Templates/Template_LitNote_v5.0.md",
