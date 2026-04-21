@@ -4,6 +4,7 @@ type: handoff-dashboard
 date: 2026-04-21
 session: evening
 status: complete
+parent-index: [[Dashboards-Index]]
 ---
 
 # HANDOFF — Session State

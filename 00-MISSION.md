@@ -6,6 +6,7 @@ date: 2026-04-08
 aliases: [Mission, North-Star, Charter]
 tags: [mission, charter, purpose, north-star, permanent, ron]
 status: permanent
+parent-index: [[00-INDEX]]
 ---
 
 # 🎯 MISSION — The North Star

@@ -4,6 +4,7 @@ type: review-list
 date: 2026-04-13
 generated: 2026-04-12
 source: top-50-litnotes
+parent-index: [[Dashboards-Index]]
 ---
 
 # Zettel Review List — Top 312 Zettels
