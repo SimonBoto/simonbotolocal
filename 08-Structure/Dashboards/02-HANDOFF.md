@@ -75,18 +75,34 @@ parent-index: [[Dashboards-Index]]
 
 ---
 
-## 📊 CURRENT METRICS
+## 📊 FULL SYSTEM STATUS
 
-| Component | Value | Updated |
-|-----------|-------|---------|
-| **Zettels** | ~1,605 | 2026-04-21 |
-| **LitNotes** | 220 (100% anchored) | 2026-04-21 |
-| **Reference notes** | 154 | 2026-04-21 |
-| **MOCs** | 79 | 2026-04-21 |
-| **Issues** | 39 active | 2026-04-21 |
-| **Agents** | 3 operational | 2026-04-21 |
-| **Commits today** | 52 | 2026-04-21 |
-| **Phantom links** | ~5 (99.8% reduction) | 2026-04-21 |
+### Content Vault
+| Component | Count | Status |
+|-----------|-------|--------|
+| **Zettels** | ~1,630 | ✅ |
+| **LitNotes** | 221 | 100% anchored, 100% YAML valid |
+| **Reference notes** | 154 | ✅ |
+| **MOCs** | 79 | ✅ |
+| **Synthesis** | 18 | ✅ |
+
+### Operational
+| Component | Count/Status |
+|-----------|--------------|
+| **Issues** | 1 active, 0 backlog |
+| **Protocols** | 4 ready |
+| **Skills** | 7 ready |
+| **Projects** | 49 across 5 areas |
+| **Operations** | 5 ready |
+| **Agents** | 4 operational |
+
+### Health Metrics
+| Metric | Value |
+|--------|-------|
+| **Commits today** | 54 |
+| **Phantom links** | ~5 (99.8% reduction) |
+| **Git status** | Clean |
+| **Agent queue** | FORG/SCOUT idle, RON active |
 
 ---
 
