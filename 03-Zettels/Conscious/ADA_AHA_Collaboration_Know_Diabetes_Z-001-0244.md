@@ -14,9 +14,9 @@ extraction-date: 2026-03-01
 # ADA-AHA Collaboration — Know  by Heart™ Initiative
 ## Related Zettels from Same Source
 
-- [[ADA_Founding_Mission_1940_Z-001-0241]]
+- [[ADA_Founding_Mission_1940_Z-001-5103]]
 - [[ADA_Guideline_Controversies_Evolution_Z-001-0243]]
-- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]
+- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-5104]]
 
 ## Source
 
@@ -24,9 +24,9 @@ extraction-date: 2026-03-01
 
 ## Related Zettels from Same Source
 
-- [[ADA_Founding_Mission_1940_Z-001-0241]]
+- [[ADA_Founding_Mission_1940_Z-001-5103]]
 - [[ADA_Guideline_Controversies_Evolution_Z-001-0243]]
-- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]
+- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-5104]]
 
 ## Status Checklist
 
@@ -45,9 +45,9 @@ extraction-date: 2026-03-01
 
 ## Related Zettels from Same Source
 
-- [[ADA_Founding_Mission_1940_Z-001-0241]]
+- [[ADA_Founding_Mission_1940_Z-001-5103]]
 - [[ADA_Guideline_Controversies_Evolution_Z-001-0243]]
-- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]
+- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-5104]]
 
 ## Source
 
@@ -55,9 +55,9 @@ extraction-date: 2026-03-01
 
 ## Related Zettels from Same Source
 
-- [[ADA_Founding_Mission_1940_Z-001-0241]]
+- [[ADA_Founding_Mission_1940_Z-001-5103]]
 - [[ADA_Guideline_Controversies_Evolution_Z-001-0243]]
-- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]
+- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-5104]]
 
 ## Core Principle
 
@@ -142,8 +142,8 @@ extraction-date: 2026-03-01
 > The American Diabetes Association and American Heart Association jointly launched the "Know Diabetes by Heart™" initiative to address the leading cause of death in people with Type 2 diabetes—cardiovascular disease—through education, research, and community outreach.
 
 ## Related
-- [[ADA_Founding_Mission_1940_Z-001-0241]] — Founding organization
-- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]] — Funding context
+- [[ADA_Founding_Mission_1940_Z-001-5103]] — Founding organization
+- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-5104]] — Funding context
 - [[ADA_Guideline_Controversies_Evolution_Z-001-0243]] — Guideline history
 
 ## Core Principle

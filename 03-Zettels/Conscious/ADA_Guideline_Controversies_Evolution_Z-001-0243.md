@@ -15,8 +15,8 @@ extraction-date: 2026-03-01
 ## Related Zettels from Same Source
 
 - [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]]
-- [[ADA_Founding_Mission_1940_Z-001-0241]]
-- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]
+- [[ADA_Founding_Mission_1940_Z-001-5103]]
+- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-5104]]
 
 ## Source
 
@@ -25,8 +25,8 @@ extraction-date: 2026-03-01
 ## Related Zettels from Same Source
 
 - [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]]
-- [[ADA_Founding_Mission_1940_Z-001-0241]]
-- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]
+- [[ADA_Founding_Mission_1940_Z-001-5103]]
+- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-5104]]
 
 ## Status Checklist
 
@@ -46,8 +46,8 @@ extraction-date: 2026-03-01
 ## Related Zettels from Same Source
 
 - [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]]
-- [[ADA_Founding_Mission_1940_Z-001-0241]]
-- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]
+- [[ADA_Founding_Mission_1940_Z-001-5103]]
+- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-5104]]
 
 ## Source
 
@@ -56,8 +56,8 @@ extraction-date: 2026-03-01
 ## Related Zettels from Same Source
 
 - [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]]
-- [[ADA_Founding_Mission_1940_Z-001-0241]]
-- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]
+- [[ADA_Founding_Mission_1940_Z-001-5103]]
+- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-5104]]
 
 ## Core Principle
 
@@ -156,8 +156,8 @@ extraction-date: 2026-03-01
 > The ADA's clinical guidelines, particularly regarding HbA1c targets and dietary recommendations, have evolved through controversy, with debates over strict glycemic control, individualization, and potential industry influence on treatment recommendations.
 
 ## Related
-- [[ADA_Founding_Mission_1940_Z-001-0241]] — Organizational history
-- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]] — Funding influence
+- [[ADA_Founding_Mission_1940_Z-001-5103]] — Organizational history
+- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-5104]] — Funding influence
 - [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]] — Joint initiatives
 
 ## Core Principle

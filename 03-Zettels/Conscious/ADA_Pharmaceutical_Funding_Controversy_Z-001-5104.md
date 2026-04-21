@@ -1,5 +1,5 @@
 ---
-uid: Z-001-0242
+uid: Z-001-5104
 type: zettel
 title: ADA Pharmaceutical Funding — $53.6M+ Conflict of Interest
 aliases: [ADA-Funding, Pharma-Sponsors, Insulin-Manufacturers]
@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 ## Related Zettels from Same Source
 
 - [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]]
-- [[ADA_Founding_Mission_1940_Z-001-0241]]
+- [[ADA_Founding_Mission_1940_Z-001-5103]]
 - [[ADA_Guideline_Controversies_Evolution_Z-001-0243]]
 
 ## Source
@@ -25,7 +25,7 @@ extraction-date: 2026-03-01
 ## Related Zettels from Same Source
 
 - [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]]
-- [[ADA_Founding_Mission_1940_Z-001-0241]]
+- [[ADA_Founding_Mission_1940_Z-001-5103]]
 - [[ADA_Guideline_Controversies_Evolution_Z-001-0243]]
 
 ## Status Checklist
@@ -46,7 +46,7 @@ extraction-date: 2026-03-01
 ## Related Zettels from Same Source
 
 - [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]]
-- [[ADA_Founding_Mission_1940_Z-001-0241]]
+- [[ADA_Founding_Mission_1940_Z-001-5103]]
 - [[ADA_Guideline_Controversies_Evolution_Z-001-0243]]
 
 ## Source
@@ -56,7 +56,7 @@ extraction-date: 2026-03-01
 ## Related Zettels from Same Source
 
 - [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]]
-- [[ADA_Founding_Mission_1940_Z-001-0241]]
+- [[ADA_Founding_Mission_1940_Z-001-5103]]
 - [[ADA_Guideline_Controversies_Evolution_Z-001-0243]]
 
 ## Core Principle
@@ -165,7 +165,7 @@ extraction-date: 2026-03-01
 > The American  Association receives substantial funding from pharmaceutical companies, including over $53.6 million from  manufacturers, raising concerns about potential conflicts of interest and influence on diabetes care guidelines.
 
 ## Related
-- [[ADA_Founding_Mission_1940_Z-001-0241]] — Historical context
+- [[ADA_Founding_Mission_1940_Z-001-5103]] — Historical context
 - [[ADA_Guideline_Controversies_Evolution_Z-001-0243]] — Guideline conflicts
 - [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]] — Current programs
 

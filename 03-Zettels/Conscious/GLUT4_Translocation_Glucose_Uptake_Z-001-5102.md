@@ -1,5 +1,5 @@
 ---
-uid: Z-001-0202
+uid: Z-001-5102
 type: zettel
 title: GLUT4 Translocation and Glucose Uptake
 date: 2026-04-20
@@ -33,5 +33,5 @@ Insulin stimulates glucose uptake by triggering translocation of GLUT4 glucose t
 Test zettel created for ISSUE-010
 
 ## Connections
-- [[IRS1_Phosphorylation_Signal_Transduction_Z-001-0201]]
+- [[IRS1_Phosphorylation_Signal_Transduction_Z-001-5101]]
 - [[Insulin_Resistance_Mechanisms_Z-001-0004]]

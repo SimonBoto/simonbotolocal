@@ -195,7 +195,7 @@ extraction-date: 2026-03-01
 > Before the discovery of insulin in 1921, Type 1 diabetes was a fatal diagnosis with no effective treatment; the only available therapy was severe caloric restriction (starvation diets) that could prolong life by months at the cost of severe mal.
 
 ## Related
-- [[ADA_Founding_Mission_1940_Z-001-0241]|Z-001-0241]
+- [[ADA_Founding_Mission_1940_Z-001-5103]|Z-001-0241]
 
 
 ## Core Principle

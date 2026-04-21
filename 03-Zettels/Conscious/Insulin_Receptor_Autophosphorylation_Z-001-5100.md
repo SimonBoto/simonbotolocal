@@ -1,5 +1,5 @@
 ---
-uid: Z-001-0200
+uid: Z-001-5100
 type: zettel
 title: Insulin Receptor Autophosphorylation
 date: 2026-04-20

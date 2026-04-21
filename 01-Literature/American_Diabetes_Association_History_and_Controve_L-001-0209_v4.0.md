@@ -60,7 +60,7 @@ tags:
 - Professional training
 - Advocacy and policy
 
-**Zettels extracted:** [[ADA_Founding_Mission_1940_Z-001-0241]]
+**Zettels extracted:** [[ADA_Founding_Mission_1940_Z-001-5103]]
 
 ### 2. Pharmaceutical Funding — $53.6M+ from Industry
 > "Corporate sponsors have cumulatively contributed over $53.6 million. Notable sponsors include Lilly, Novo Nordisk, Sanofi, Merck, Abbott, Dexcom, Pfizer."
@@ -83,7 +83,7 @@ tags:
 - Pricing controversies (insulin costs)
 - Independence questions
 
-**Zettels extracted:** [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]
+**Zettels extracted:** [[ADA_Pharmaceutical_Funding_Controversy_Z-001-5104]]
 
 ### 3. Guideline Controversies
 > "The ADA has occasionally faced controversies regarding its guidelines, particularly around the targets for glucose control in Type 2 Diabetes."
@@ -147,8 +147,8 @@ tags:
 ---
 
 ## Zettels Created from This Source
-1. [[ADA_Founding_Mission_1940_Z-001-0241]]
-2. [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]
+1. [[ADA_Founding_Mission_1940_Z-001-5103]]
+2. [[ADA_Pharmaceutical_Funding_Controversy_Z-001-5104]]
 3. [[ADA_Guideline_Controversies_Evolution_Z-001-0243]]
 4. [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]]
 

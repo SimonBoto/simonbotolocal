@@ -1,5 +1,5 @@
 ---
-uid: Z-001-0241
+uid: Z-001-5103
 type: zettel
 title: American Diabetes Association — Founding and Mission (1940)
 aliases: [ADA-Founding, Diabetes-Association-1940]
@@ -16,7 +16,7 @@ extraction-date: 2026-03-01
 
 - [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]]
 - [[ADA_Guideline_Controversies_Evolution_Z-001-0243]]
-- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]
+- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-5104]]
 
 ## Source
 
@@ -26,7 +26,7 @@ extraction-date: 2026-03-01
 
 - [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]]
 - [[ADA_Guideline_Controversies_Evolution_Z-001-0243]]
-- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]
+- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-5104]]
 
 ## Status Checklist
 
@@ -47,7 +47,7 @@ extraction-date: 2026-03-01
 
 - [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]]
 - [[ADA_Guideline_Controversies_Evolution_Z-001-0243]]
-- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]
+- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-5104]]
 
 ## Source
 
@@ -57,7 +57,7 @@ extraction-date: 2026-03-01
 
 - [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]]
 - [[ADA_Guideline_Controversies_Evolution_Z-001-0243]]
-- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]
+- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-5104]]
 
 ## Core Principle
 
@@ -126,7 +126,7 @@ extraction-date: 2026-03-01
 > Founded in 1940, the American Diabetes Association emerged as the leading organization for diabetes care, research, and advocacy in the United States, filling a critical need for coordinated action against the growing diabetes epidemic.
 
 ## Related
-- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]] — Industry influence context
+- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-5104]] — Industry influence context
 - [[ADA_Guideline_Controversies_Evolution_Z-001-0243]] — Guideline development
 - [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]] — Current initiatives
 

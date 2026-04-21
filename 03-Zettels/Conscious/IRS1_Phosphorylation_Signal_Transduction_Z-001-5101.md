@@ -1,5 +1,5 @@
 ---
-uid: Z-001-0201
+uid: Z-001-5101
 type: zettel
 title: IRS1 Phosphorylation and Signal Transduction
 date: 2026-04-20
@@ -33,5 +33,5 @@ IRS1 (Insulin Receptor Substrate 1) serves as the primary docking protein linkin
 Test zettel created for ISSUE-010
 
 ## Connections
-- [[Insulin_Receptor_Autophosphorylation_Z-001-0200]]
+- [[Insulin_Receptor_Autophosphorylation_Z-001-5100]]
 - [[PI3K_Akt_Pathway_Z-001-0003]]
