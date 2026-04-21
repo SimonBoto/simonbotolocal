@@ -15,7 +15,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: SILVER
-relevance: High — Oxaloacetate role, gluconeogenesis, Krebs cycle integration, anaplerosis
+relevance: High - Oxaloacetate role, gluconeogenesis, Krebs cycle integration, anaplerosis
 status: complete
 parent-moc: [[MOC-Glycolysis-PPP]]
 parent-index: [[01-Literature-Index]]

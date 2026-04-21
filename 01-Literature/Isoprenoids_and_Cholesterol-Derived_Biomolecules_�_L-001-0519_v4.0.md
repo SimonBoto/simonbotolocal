@@ -2,7 +2,7 @@
 uid: L-001-0519
 type: litnote
 source-origin: chatgpt-archive
-title: "Isoprenoids and Cholesterol-Derived Biomolecules — Steroids, Vitamins, and Cell Signals"
+title: "Isoprenoids and Cholesterol-Derived Biomolecules - Steroids, Vitamins, and Cell Signals"
 authors: ChatGPT Analysis (CGPT-0391)
 year: 2024
 journal: ChatGPT Archive
@@ -10,7 +10,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: BRONZE
-relevance: High — Diverse products from mevalonate pathway, clinical significance
+relevance: High - Diverse products from mevalonate pathway, clinical significance
 aliases:
   - L-001-0519
   - Isoprenoids
@@ -21,7 +21,16 @@ aliases:
 domain: 001
 reviewed_by: "FORG"
 updated: "2026-04-09"
-tags: [lit-note, isoprenoids, terpenes, steroids, coq10, vitamin-d, bile-acids, cholesterol-derivatives, cGPT-0391]
+tags:
+  - litnote
+  - isoprenoids
+  - terpenes
+  - steroids
+  - coq10
+  - vitamin-d
+  - bile-acids
+  - cholesterol-derivatives
+  - cGPT-0391
 source-inbox: [[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]
 source-litnote: [[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]
 status: complete
@@ -32,16 +41,16 @@ zettel-count: 5
 reference-count: 0
 zettels-created: 5
 
-# Isoprenoids and Cholesterol-Derived Biomolecules — Steroids, Vitamins, and Cell Signals
+# Isoprenoids and Cholesterol-Derived Biomolecules - Steroids, Vitamins, and Cell Signals
 
-> **Source:** ChatGPT CGPT-0391 (May 15, 2024) — Extended discussion on isoprenoids  
+> **Source:** ChatGPT CGPT-0391 (May 15, 2024) - Extended discussion on isoprenoids  
 > **Key Theme:** Diverse products from IPP: terpenes, steroids, CoQ10, vitamin D, bile acids  
 > **Clinical Relevance:** Hormone synthesis, mitochondrial function, drug targets
 
 
 ## Core Concepts Extracted
 
-### 1. Isoprenoids (Terpenoids) — The IPP Family
+### 1. Isoprenoids (Terpenoids) - The IPP Family
 > "Isoprenoids, also known as terpenoids, are a vast and diverse class of naturally occurring organic chemicals derived from five-carbon isoprene units assembled in various ways."
 
 **Classification by Size:**
@@ -101,7 +110,7 @@ Testosterone → Estradiol (aromatase)
 
 **Zettels extracted:** [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]]
 
-### 3. CoQ10 and Dolichol — Mitochondrial and Glycosylation Functions
+### 3. CoQ10 and Dolichol - Mitochondrial and Glycosylation Functions
 > "Dolichols play roles in the modification of proteins through prenylation, affecting the way proteins interact with cellular membranes."
 
 **Coenzyme Q10 (Ubiquinone):**
@@ -139,7 +148,7 @@ Pre-vitamin D3 → Vitamin D3 (cholecalciferol)
     ↓ Liver (25-hydroxylase)
 25(OH)D3 (calcidiol)
     ↓ Kidney (1α-hydroxylase)
-1,25(OH)₂D3 (calcitriol — active form)
+1,25(OH)₂D3 (calcitriol - active form)
 ```
 
 **Key Points:**
@@ -214,7 +223,7 @@ Bile salts (secreted into bile)
 
 ## My Notes
 
-**Synthesis:** The mevalonate pathway is the biochemical equivalent of a stem cell — it produces IPP, which can differentiate into countless essential molecules. From the familiar (cholesterol, steroid hormones) to the obscure (dolichol for protein glycosylation), isoprenoids touch every aspect of cellular function. The clinical implications are profound: statins don't just lower cholesterol — they impact CoQ10, hormone synthesis, and protein trafficking. Understanding this pathway connects biochemistry to pharmacology, nutrition, and clinical medicine.
+**Synthesis:** The mevalonate pathway is the biochemical equivalent of a stem cell - it produces IPP, which can differentiate into countless essential molecules. From the familiar (cholesterol, steroid hormones) to the obscure (dolichol for protein glycosylation), isoprenoids touch every aspect of cellular function. The clinical implications are profound: statins don't just lower cholesterol - they impact CoQ10, hormone synthesis, and protein trafficking. Understanding this pathway connects biochemistry to pharmacology, nutrition, and clinical medicine.
 
 **Connection to METHAP/PhD:**
 - **CoQ10 supplementation:** Essential for statin patients
@@ -231,19 +240,19 @@ The "statin side effect" conversation must include:
 
 
 ## Zettels Created from This Source
-1. [[Isoprenoids_Terpenes_Overview_Z-001-0569]] — Isoprenoid classification and functions
-2. [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]] — Steroid hormone pathways
-3. [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]] — CoQ10 and protein glycosylation
-4. [[Vitamin_D_Secosteroid_Synthesis_Z-001-0572]] — Vitamin D as cholesterol derivative
-5. [[Bile_Acid_Synthesis_Cholesterol_Z-001-0573]] — Bile acid formation and function
+1. [[Isoprenoids_Terpenes_Overview_Z-001-0569]] - Isoprenoid classification and functions
+2. [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]] - Steroid hormone pathways
+3. [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]] - CoQ10 and protein glycosylation
+4. [[Vitamin_D_Secosteroid_Synthesis_Z-001-0572]] - Vitamin D as cholesterol derivative
+5. [[Bile_Acid_Synthesis_Cholesterol_Z-001-0573]] - Bile acid formation and function
 
 
 ## Related References
-- [[MOC-Lipid-Metabolism]] — Parent MOC for lipid pathways
-- [[MOC-Vitamin-Mineral-Axis]] — Vitamin D details
-- [[MOC-Vitamin-D]] — Vitamin D specific context
-- [[MOC-Mitochondrial-Function]] — CoQ10 and energy context
-- [[L-001-0518_Mevalonate_Pathway_Biochemistry_CGPT-0391]] — Mevalonate pathway details
+- [[MOC-Lipid-Metabolism]] - Parent MOC for lipid pathways
+- [[MOC-Vitamin-Mineral-Axis]] - Vitamin D details
+- [[MOC-Vitamin-D]] - Vitamin D specific context
+- [[MOC-Mitochondrial-Function]] - CoQ10 and energy context
+- [[L-001-0518_Mevalonate_Pathway_Biochemistry_CGPT-0391]] - Mevalonate pathway details
 
 
 
