@@ -55,7 +55,7 @@ tags:
 
 ### 1. Clinical Monitoring Components
 
-**Zettel extracted:** [[Clinical_Monitoring_Components_Z-001-0133]]
+**Zettel extracted:** [[Bone_Density_Monitoring_Intervals_Z-001-0133]]
 
 #### History and Physical
 - **Fracture assessment:** New fragility fractures, location, mechanism
@@ -78,7 +78,7 @@ tags:
 
 ### 2. Imaging Monitoring Protocol
 
-**Zettel extracted:** [[Imaging_Monitoring_Protocol_Z-001-0134]]
+**Zettel extracted:** [[Bone_Turnover_Marker_Monitoring_Z-001-0134]]
 
 #### DXA Scanning
 | Parameter | Frequency | Criteria |
@@ -105,7 +105,7 @@ tags:
 
 ### 3. Treatment Response Assessment
 
-**Zettel extracted:** [[Treatment_Response_Assessment_Z-001-0135]]
+**Zettel extracted:** [[Fracture_Risk_Reassessment_Z-001-0135]]
 
 #### Response Criteria
 | Parameter | Responding | Non-responding | Action |
@@ -138,7 +138,7 @@ Non-response on DXA or BTMs
 
 ### 4. Long-Term Management Framework
 
-**Zettel extracted:** [[Long_Term_Management_Framework_Z-001-0136]]
+**Zettel extracted:** [[Treatment_Response_Evaluation_Z-001-0136]]
 
 #### Medication Duration Guidelines
 | Therapy | Duration | Rationale |

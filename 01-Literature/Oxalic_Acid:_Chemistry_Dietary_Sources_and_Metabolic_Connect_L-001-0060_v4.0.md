@@ -165,15 +165,15 @@ This is critical for understanding branched-chain amino acid metabolism.
 ## Zettels Created from This Source
 
 1. [[Oxalic_Acid_Structure_Properties_Z-001-0601]]
-2. [[Dietary_Sources_Oxalate_High_Low_Z-001-0602]]
+2. [[Dietary_Sources_Oxalate_Table_Z-001-0602]]
 3. [[Oxalate_Mineral_Binding_Calcium_Iron_Z-001-0603]]
-4. [[Glycine_Metabolism_Oxalate_Pathway_Z-001-0604]]
-5. [[Hydroxyproline_Collagen_Oxalate_Z-001-0605]]
-6. [[Vitamin_C_to_Oxalate_Conversion_Z-001-0606]]
-7. [[Amino_Acids_Krebs_Cycle_Map_Z-001-0607]]
-8. [[BCAA_Succinyl_CoA_Connection_Z-001-0608]]
-9. [[Threonine_Metabolism_Glucogenic_Ketogenic_Z-001-0609]]
-10. [[Primary_Hyperoxaluria_Genetic_Z-001-0610]]
+4. [[Kidney_Stones_Calcium_Oxalate_Pathophysiology_Z-001-0604]]
+5. [[Glycine_Metabolism_to_Oxalate_Z-001-0605]]
+6. [[Hydroxyproline_Collagen_Oxalate_Production_Z-001-0606]]
+7. [[Vitamin_C_to_Oxalate_Conversion_Z-001-0607]]
+8. [[Amino_Acids_Krebs_Cycle_Complete_Table_Z-001-0608]]
+9. [[Alpha_Ketoglutarate_Glutamate_Hub_Z-001-0609]]
+10. [[BCAA_Succinyl_CoA_Methylmalonyl_Pathway_Z-001-0610]]
 
 
 ## Related References
@@ -269,16 +269,16 @@ Threonine → propionyl-CoA → methylmalonyl-CoA → succinyl-CoA
 
 ## Additional Content from Legacy Version
 
-10. [[Primary_Hyperoxaluria_Genetic_Z-001-0610]]
+10. [[BCAA_Succinyl_CoA_Methylmalonyl_Pathway_Z-001-0610]]
 1. [[Oxalic_Acid_Structure_Properties_Z-001-0601]]
-2. [[Dietary_Sources_Oxalate_High_Low_Z-001-0602]]
+2. [[Dietary_Sources_Oxalate_Table_Z-001-0602]]
 3. [[Oxalate_Mineral_Binding_Calcium_Iron_Z-001-0603]]
-4. [[Glycine_Metabolism_Oxalate_Pathway_Z-001-0604]]
-5. [[Hydroxyproline_Collagen_Oxalate_Z-001-0605]]
-6. [[Vitamin_C_to_Oxalate_Conversion_Z-001-0606]]
-7. [[Amino_Acids_Krebs_Cycle_Map_Z-001-0607]]
-8. [[BCAA_Succinyl_CoA_Connection_Z-001-0608]]
-9. [[Threonine_Metabolism_Glucogenic_Ketogenic_Z-001-0609]]
+4. [[Kidney_Stones_Calcium_Oxalate_Pathophysiology_Z-001-0604]]
+5. [[Glycine_Metabolism_to_Oxalate_Z-001-0605]]
+6. [[Hydroxyproline_Collagen_Oxalate_Production_Z-001-0606]]
+7. [[Vitamin_C_to_Oxalate_Conversion_Z-001-0607]]
+8. [[Amino_Acids_Krebs_Cycle_Complete_Table_Z-001-0608]]
+9. [[Alpha_Ketoglutarate_Glutamate_Hub_Z-001-0609]]
 - [ ] All zettel links use FULL format
 - [[Amino_Acids_Succinyl_CoA_B12_Z-001-0495]] — Amino Acids to Succinyl-CoA (B12 criticality)
 - [ ] Concept count matches list

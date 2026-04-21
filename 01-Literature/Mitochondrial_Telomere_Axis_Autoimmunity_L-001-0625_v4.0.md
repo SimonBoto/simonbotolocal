@@ -162,10 +162,10 @@ More Cell Divisions + More Inflammation
 ## Connections
 
 **Related Zettels:**
-- [[ROS_Telomere_Damage_Mechanisms_Z-001-1178]] — To create
-- [[Mitochondrial_Dysfunction_Immunity_Z-001-1179]] — To create
-- [[Inflammation_Oxidative_Stress_Cycle_Z-001-1180]] — To create
-- [[Antioxidant_Telomere_Protection_Z-001-1181]] — To create
+- [[ROS_Mediated_Telomere_Damage_Pathways_Z-001-1178]] — To create
+- [[Mitochondrial_Dysfunction_Immune_Cell_Activation_Z-001-1179]] — To create
+- [[Inflammation_Oxidative_Stress_Vicious_Cycle_Z-001-1180]] — To create
+- [[Antioxidant_Strategies_Telomere_Protection_Z-001-1181]] — To create
 
 **MOCs:**
 -  — Primary domain
