@@ -2,7 +2,7 @@
 uid: PRJ-ROOT-0001
 type: index
 title: "07 Projects Index"
-date: 2026-04-06
+date: 2026-04-21
 aliases: [PROJECTS-INDEX, 07-Projects-INDEX]
 tags: [index, projects, dashboard]
 parent-moc: [[08-Structure-Index]]
@@ -12,7 +12,7 @@ status: active
 
 # 07 Projects Index
 
-> **Active work across Clinic, PhD, and Personal domains**
+> **Active work across all domains — organized by function**
 > 
 > **Status tracking:** [[04-PROJECT-CONTROL]] — Dashboard for all project streams
 
@@ -20,47 +20,68 @@ status: active
 
 ## 📂 PROJECT DOMAINS
 
-| Domain | Folder | Status | Priority |
-|--------|--------|--------|----------|
-| **🏥 Clinic** | [[Clinic-Index]] | ✅ Operational | P1 |
-| **🔬 PhD** | [[PhD-Index]] | ⏸️ Blocked | P0 (when unblocked) |
-| **📥 Extraction** | [[Extraction-Index]] | 🟡 Active | P0 |
-| **🎯 Personal** | [[Personal-Index]] | ⏸️ On hold | P2 |
-| **🛠️ Tools** | [[Tools-Index]] | 🟡 In Progress | P1 |
-| **🤖 Agents** | [[Agents-Index]] | 🟡 In Design | P1 |
-| **🤖 Agents** | [[Agents-Index]] | ✅ Operational | P1 |
+| Domain | Folder | Purpose | Status |
+|--------|--------|---------|--------|
+| **🏥 Clinic** | [[Clinic-Index]] | Clinical operations | ✅ Operational |
+| **🔬 PhD** | [[PhD-Index]] | Doctoral research | ⏸️ Blocked |
+| **📥 Extraction** | [[Extraction-Index]] | Knowledge extraction | 🟡 Active |
+| **🎯 Personal** | [[Personal-Index]] | Personal development | ⏸️ On hold |
+| **🤖 Agents** | [[Agents-Index]] | AI agent development | ✅ Operational |
+| **📋 Protocols** | [[Protocols-Index]] | Standardized workflows | ✅ Active |
+| **🛠️ Skills** | [[Skills/Skills-Index]] | Reusable capabilities | ✅ Organized |
+| **🔧 Operations** | [[Operations-Index]] | Audit, fix, maintenance | ✅ Active |
+| **⚙️ Tools** | [[Tools-Index]] | Utility development | 🟡 In Progress |
 
 ---
 
 ## 🗂️ ALL PROJECT NOTES
 
+### Agents
+- [[Agents-Index]] — Multi-agent system hub
+- [[Agent-FORG]] — FORG agent profile
+- [[Agent-RON]] — RON agent profile
+- [[Agent-SCOUT]] — SCOUT agent profile
+- [[FORG_Agent_Project_S-001-0004]] — FORG development project
+- [[SCOUT_Agent_Project_S-001-0014]] — SCOUT development project
+
 ### Clinic
 - [[Clinic-Index]] — Clinic operations hub
-- [[Clinic/Appointment_Types] — 7 appointment types
-- [[Clinic/Schedule_Petralona] — Weekly schedule
 
-### PhD
-- [[PhD-Index]] — PhD project hub
-- [[PhD/Research_Agenda] — 62 hypotheses prioritized
+### Extraction
+- [[Extraction-Index]] — Knowledge extraction programs
+- [[CGPT_Extraction_Program_S-001-0003]] — CGPT extraction
+
+### Operations
+- [[Operations-Index]] — Maintenance and audit hub
+- [[Operations/Audit-Plan]] — Full vault audit plan
+- [[Operations/FORG-LINK-PROTOCOL]] — Link generation rules
+- [[Operations/Scripts]] — Python automation scripts
 
 ### Personal
 - [[Personal-Index]] — Personal projects hub
 
+### PhD
+- [[PhD-Index]] — PhD project hub
+
+### Protocols
+- [[Protocols-Index]] — Workflow standards
+- [[Protocols/Weekly-Consolidation-Ritual]] — Weekly ritual
+- [[Protocols/CGPT_EXTRACTION_PROTOCOL_v2.0]] — Extraction protocol
+
+### Skills
+- [[Skills/Skills-Index]] — All reusable capabilities
+- [[Skills/Skills-README]] — Skills system guide
+- [[Skills/Template-Skill]] — Skill creation template
+- [[Skills/skill-extraction-v1.0]] — Extraction skill
+- [[Skills/skill-moc-consolidation-v1.0]] — MOC skill
+- [[Skills/skill-batch-fix-v1.0]] — Batch fix skill
+- [[Skills/skill-zettel-alignment-v1.0]] — Alignment skill
+
 ### Tools
-- [[Tools-Index]] — Tools and automation projects
-- [[ZettelForge_Concept_S-001-0001]] — Assisted extraction system (concept)
-- [[QMD_Activation_S-001-0002]] — Hybrid search for vault
-- [[QMD_Embedding_Project_S-001-0005]] — Complete QMD embeddings (🔴 Blocked)
-- [[OpenClaw_Model_Cleanup_S-001-0007]] — Model config cleanup (✅ Completed)
-
-### Agents
-- [[Agents-Index]] — Multi-agent system projects
-- [[FORG_Agent_Project_S-001-0004]] — FORG agent (✅ Operational 2026-04-07)
-
-### Extraction
-- [[Extraction-Index]] — Knowledge extraction programs
-- [[CGPT_Extraction_Program_S-001-0003]] — CGPT + Facebook extraction (17/688 anchors)
-- [[CGPT_0264_Resumption_S-001-0006]] — Complete CGPT_0264 (⏸️ Paused)
+- [[Tools-Index]] — Tools and automation
+- [[Tools/ZettelForge_Concept_S-001-0001]] — Assisted extraction
+- [[Tools/QMD_Activation_S-001-0002]] — QMD search
+- [[Tools/QMD_Embedding_Project_S-001-0005]] — QMD embeddings
 
 ---
 
@@ -68,29 +89,25 @@ status: active
 
 **For daily standup and current priorities, see [[PROJECT_CONTROL_BOARD]].**
 
-### This Week (April 7-14, 2026)
+### This Week (April 21-28, 2026)
 
 **Agents (P0):**
-- [x] Configure FORG agent ✅
-- [x] Test FORG → RON workflow ✅
-- [ ] First real extraction task (CGPT_0264)
+- [x] FORG workspace optimized ✅
+- [x] SCOUT workspace created ✅
+- [x] Agent identities synced ✅
+- [ ] Night shift activation (00:00-08:00)
 
-**Extraction (P0):**
-- [ ] Resume CGPT_0264 with FORG (6 LitNotes remaining)
-- [ ] Process CGPT-0133 (28 LitNotes) — after FORG proven
+**Vault (P0):**
+- [x] 220 LitNotes anchored ✅
+- [x] Phantom links reduced 70% ✅
+- [ ] Fix remaining 107 phantoms
 
-**Tools (P1):**
-- [x] Model cleanup ✅
-- [ ] QMD embeddings complete (background)
+**Extraction (P1):**
+- [ ] CGPT prioritization (SCOUT)
+- [ ] Resume batch extraction (FORG)
 
-**Clinic (P2):**
-- [ ] Extract training curriculum — queue for post-CGPT_0264
-
-**PhD (P2, blocked):**
-- [ ] Parallel reading only — university block continues
-
-**Personal:**
-- [ ] None — deprioritized
+**Operations (P2):**
+- [ ] .openclaw cleanup (ISSUE-038)
 
 ---
 
@@ -98,25 +115,38 @@ status: active
 
 | Project | Status | Blocker | Last Update |
 |---------|--------|---------|-------------|
-| Clinic Operations | 🟢 Active | None | April 6, 2026 |
-| Clinic Training | 🟡 In progress | Time | April 6, 2026 |
-| PhD METHAP | 🔴 Blocked | University | April 6, 2026 |
-| PhD Literature | 🟢 Active | None | April 6, 2026 |
-| CGPT Extraction | 🟡 Active | 17/688 anchors | April 7, 2026 |
-| FORG Agent | ✅ Operational | None | April 7, 2026 |
-| ZettelForge | 🟡 Ready | FORG pilot | April 7, 2026 |
-| Personal | ⚪ On hold | Higher priorities | April 6, 2026 |
+| Clinic Operations | 🟢 Active | None | April 21, 2026 |
+| PhD METHAP | 🔴 Blocked | University | April 21, 2026 |
+| CGPT Extraction | 🟡 Active | — | April 21, 2026 |
+| FORG Agent | ✅ Operational | None | April 21, 2026 |
+| SCOUT Agent | ✅ Operational | None | April 21, 2026 |
+| RON Agent | ✅ Operational | None | April 21, 2026 |
+| Skills System | ✅ Organized | None | April 21, 2026 |
+| Operations | ✅ Active | None | April 21, 2026 |
+
+---
+
+## RECENT REORGANIZATION (2026-04-21)
+
+| Change | From | To |
+|--------|------|-----|
+| Skills consolidated | Root files | `Skills/` folder |
+| Scripts moved | `scripts/` | `Skills/scripts/` |
+| Examples moved | `examples/` | `Skills/examples/` |
+| Operations created | — | `Operations/` folder |
+| Audit files moved | Root | `Operations/` |
+| Fix scripts moved | Root | `Operations/Scripts/` |
+| Protocols enhanced | — | Added Weekly Ritual |
+| Audit-reports moved | `07-Projects/` | Vault root |
 
 ---
 
 ## CONNECTION TO VAULT
 
 - Up: [[08-Structure-Index]]
-- Down: [[Clinic-Index]], [[PhD-Index]], [[Personal-Index]]
+- Down: Domain indexes (Clinic, PhD, Personal, etc.)
 - Archive: [[09-Archive-Index]]
 
 ---
 
-*Projects — From vision to execution, tracked.*
-
-🦞 **RON — the central hub for all active work**
+*Projects — From vision to execution, tracked and organized.*
