@@ -50,7 +50,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -207,9 +207,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3defb34dd9bafdc5",
+  "active": "64120ee807f0bd00",
   "lastOpenFiles": [
+    "08-Structure/Issues/Issue-040.md",
     "04-Synthesis/X-Post-First-Synthesis_S-001-0020.md",
+    "04-Synthesis/X-Post-First-Synthesis_S-001-0021.md",
+    "04-Synthesis/Stress_Metabolic_Impact_Synthesis_S-001-0020.md",
+    "07-Projects/Tools/Tools-Index.md",
     "07-Projects/Skills/ZETTEL_ASSESSMENT.md",
     "07-Projects/Skills/MOC-CREATION-STANDARD.md",
     "07-Projects/Archive/UID_COLLISION_FIX_SCRIPT.md",
@@ -236,10 +240,6 @@
     "07-Projects/Archive/Facebook_Collection_S-001-0010.md",
     "07-Projects/Archive/CGPT_0133_Bone_Calcium_S-001-0011.md",
     "07-Projects/Active/PROJECT-The-Triangle.md",
-    "07-Projects/Active/Weekly-Consolidation-Ritual.md",
-    "07-Projects/Active/Protocols-Index.md",
-    "07-Projects/Active/EXTRACTION_PROTOCOL_v1.0.md",
-    "07-Projects/Active/CGPT_EXTRACTION_PROTOCOL_v2.0.md",
     "07-Projects/Archive",
     "07-Projects/Active",
     "07-Projects/Tools/Scripts",

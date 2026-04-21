@@ -1,12 +1,16 @@
 ---
-uid: S-001-0020
+uid: S-001-0021
 type: synthesis
-title: "X Post: The Hidden Metabolic Pillar Everyone Ignores"
+title: "X_Post_First_Synthesis_S-001-0021"
 date: 2026-04-21
 tags: [synthesis, x-post, metabolic-health, stress, social-media]
+source-synthesis: [[Stress_Metabolic_Impact_Synthesis_S-001-0020]]
 source-zettels:
   - [[Metabolic_Health_Pillar_Stress_Z-001-0584D]]
+  - [[Mitochondrial_Dysfunction_Action_S-001-0004]]
+  - [[Magnesium_Metabolic_Cofactor_ATP_Function_Z-001-1104]]
 status: draft
+confidence: medium
 ---
 
 # X Post: The Hidden Metabolic Pillar Everyone Ignores
