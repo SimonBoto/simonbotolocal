@@ -7,5 +7,10 @@
   "obsidian-kanban",
   "excalibrain",
   "obsidian-excalidraw-plugin",
-  "obsidian-local-rest-api"
+  "obsidian-local-rest-api",
+  "mermaid-tools",
+  "templater-obsidian",
+  "quickadd",
+  "periodic-notes",
+  "advanced-canvas"
 ]
