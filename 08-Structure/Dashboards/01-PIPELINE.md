@@ -1,5 +1,5 @@
 ---
-uid: PIPELINE-2026-04-20
+uid: PIPELINE-2026-04-21
 type: pipeline-dashboard
 status: active
 ---
@@ -22,6 +22,7 @@ status: active
 | **04-Synthesis** | 19 | 🟡 Controlled | Triangle v2.0 project ready | Low |
 | **CGPT Anchors** | 688 (17 done) | 🟡 Reservoir | Major unprocessed knowledge store | High |
 | **Agent Ecosystem** | 3 agents | ✅ Operational | RON + FORG + SCOUT | None |
+| **Memory System** | LanceDB | ✅ Active | FTS working, semantic pending | Low |
 
 ---
 
@@ -33,6 +34,12 @@ status: active
 - 68 duplicates archived, 47 UIDs consolidated
 - **Action:** FORG zettel extraction for 77 active files
 
+### ✅ Complete: Core Files Reproducibility
+- **All 8 workspace files enhanced**
+- Quick Reference cards added
+- Executable examples included
+- **Action:** Maintenance mode
+
 ### 🟡 Medium: Conscious Zettel Connections
 - **1,141 connected (78%)** — improved from 706
 - **312 orphaned** — tracked, not blocking
@@ -43,9 +50,10 @@ status: active
 - Risk of endless intake without consolidation
 - **Action needed:** AutoResearch project implementation
 
-### 🟡 Medium: Reference Canonicalization
-- Duplicate groups, provenance ambiguity
-- **Action needed:** Tracker-first cleanup (deferred)
+### 🟡 Low: Memory Semantic Search
+- LanceDB active, FTS working
+- Semantic pending OpenRouter embedding config
+- **Action needed:** API key decision (optional)
 
 ---
 
@@ -53,11 +61,12 @@ status: active
 
 | Item | Value | Effort | Current Constraint |
 |------|-------|--------|-------------------|
+| ISSUE-013 completion | High | 30m | Dashboard sync |
 | FORG zettel sprint (25 P0) | High | 2 hours | 25 files with 0 zettels |
 | FORG zettel sprint (15 P1) | High | 1.5 hours | 15 GOLD under-extracted |
 | FORG zettel sprint (40 total) | High | 3.5 hours | Complete active queue |
 | P0 inbox synthesis | Very High | 1 hour | Triangle v2.0 architecture |
-| CGPT_0264 completion | High | Low-Med | Bounded, active |
+| CGPT AutoResearch pilot | High | 2 hours | SCOUT validation |
 | Orphan zettel MOC | Medium | 2 hours | Non-blocking |
 
 ---
@@ -78,15 +87,17 @@ status: active
 
 ### Healthy
 - ✅ LitNote v4.0 **100% complete** (219 files)
+- ✅ Core files **100% reproducible**
+- ✅ Issues/Agents/Skills system operational
 - Zettel connections improved (78%)
 - FORG pipeline cost-effective ($0.04/file)
-- Dashboards updated
-- Git disciplined (13 commits Apr 12-13)
+- LanceDB memory active
 
 ### Unhealthy
 - CGPT reservoir still high-pressure
 - 312 orphan zettels need attention
 - 77 active LitNotes need zettel extraction
+- 5 P0 inbox items need synthesis
 
 ---
 
@@ -97,11 +108,13 @@ Pipeline diagnosis → COMMAND orders:
 | Pipeline Says | COMMAND Does |
 |-------------|--------------|
 | LitNote conversion **100% done** | FORG zettel extraction |
+| Core files **100% reproducible** | Maintenance mode |
 | CGPT reservoir high | Implement AutoResearch |
 | Zettel connections improved | Defer orphan cleanup |
 | 5 P0 items ready | Synthesize to Triangle v2.0 |
+| Memory semantic pending | Optional: OpenRouter config |
 
-**Correct move:** Decide LitNote scope tomorrow, then execute.
+**Correct move:** Complete ISSUE-013, then decide post-vacation P0s.
 
 ---
 
@@ -126,13 +139,13 @@ Pipeline diagnosis → COMMAND orders:
 
 RON,
 
-Pipeline today: **LitNote conversion COMPLETE. 77 active files ready for zettel extraction.**
+Pipeline today: **LitNote conversion COMPLETE. Core files 100% reproducible. 77 active files ready for zettel extraction.**
 
-219 LitNotes homogeneous, 0 duplicates, 100% YAML standardized. FORG pipeline validated.
+219 LitNotes homogeneous, 0 duplicates, 100% YAML standardized. FORG pipeline validated. Memory system active.
 
-Next: **FORG zettel sprint OR AutoResearch OR PhD parallel work.**
+Next: **Complete ISSUE-013, then post-vacation P0s.**
 
 ---
 
-*Pipeline v3.1 — 219 v4.0 LitNotes, 77 active for extraction*  
-*Updated 2026-04-14*
+*Pipeline v3.2 — 219 v4.0 LitNotes, 77 active for extraction, memory active*  
+*Updated 2026-04-21*

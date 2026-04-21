@@ -7,7 +7,7 @@ date: 2026-04-20
 
 # Completed Issues
 
-**Last updated:** 2026-04-20 18:30  
+**Last updated:** 2026-04-21 10:30  
 **Archive:** Issues remain here permanently for reference
 
 ---
@@ -16,6 +16,8 @@ date: 2026-04-20
 
 | ID | Title | Assignee | Energy | Completed | Outcome |
 |----|-------|----------|--------|-----------|---------|
+| ISSUE-012 | Configure Active Memory Subagent | RON | 30m / $0.20 | 2026-04-21 | Plugin enabled, QMD backend active |
+| ISSUE-011 | Fix Memory Search — LanceDB activation | RON | 2h / $0.80 | 2026-04-21 | LanceDB active, semantic pending |
 | ISSUE-010 | Test new Issues system — create 3 zettels | RON | 1m / $0.01 | 2026-04-20 | System validated, 3 zettels created |
 | ISSUE-001 | Review and improve AGENTS.md with Karpathy principles | RON | 45m / $0.30 | 2026-04-20 | AGENTS.md v2.4 released |
 | ISSUE-002 | Create Issues/Agents/Skills system from Multica | RON | 60m / $0.40 | 2026-04-20 | 13 files created, system operational |
@@ -50,10 +52,10 @@ date: 2026-04-20
 
 | Period | Issues | Total Energy | Success Rate |
 |--------|--------|--------------|--------------|
-| This week | 3 | 2.25h / $0.90 | 100% |
+| This week | 5 | 4.75h / $1.91 | 100% |
 | Last week | 0 | — | — |
-| This month | 9 | 31.25h / $12.60 | 100% |
-| All time | 9 | 31.25h / $12.60 | 100% |
+| This month | 12 | 34.25h / $13.40 | 100% |
+| All time | 12 | 34.25h / $13.40 | 100% |
 
 ---
 

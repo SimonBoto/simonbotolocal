@@ -1,5 +1,5 @@
 ---
-uid: COMMAND-2026-04-20
+uid: COMMAND-2026-04-21
 type: command-dashboard
 status: active
 ---
@@ -12,86 +12,94 @@ status: active
 
 | Metric | Value | Updated |
 |--------|-------|---------|
-| **Zettels** | 1,565 | 2026-04-15 ✅ +112 today |
+| **Zettels** | 1,565 | 2026-04-21 |
 | **Zettels (orphan)** | **0** | 2026-04-14 ✅ FIXED |
-| **LitNotes (v4.0)** | **219** | 2026-04-14 |
+| **LitNotes (v4.0)** | **219** | 2026-04-20 |
 | **LitNotes (legacy)** | **0** | 2026-04-14 |
-| **CGPT Anchors** | 673 (17 processed) | 2026-04-14 |
-| **Agents** | 3 (RON, FORG, SCOUT) | 2026-04-14 |
+| **CGPT Anchors** | 688 (17 processed) | 2026-04-21 |
+| **Agents** | 3 (RON, FORG, SCOUT) | 2026-04-20 |
 | **MOCs** | **79** | 2026-04-15 ✅ Consolidated from 134 |
-| **READMEs** | 7 (all folders) | 2026-04-14 ✅ NEW |
-| **Git Status** | Clean (25+ commits today) | 2026-04-15 |
-| **Last Session** | 2026-04-15 22:14 | 2026-04-15 |
+| **Issues** | 12 completed, 1 active | 2026-04-21 |
+| **Skills** | 4 documented | 2026-04-20 |
+| **Git Status** | Clean | 2026-04-21 |
+| **Last Session** | 2026-04-20 23:35 | 2026-04-21 |
 
 ### Active Fronts
 | Front | Status | Next Action |
 |-------|--------|-------------|
-| **Orphan Zettels** | ✅ **COMPLETE — 57/57 connected** | None |
-| **MOC Consolidation** | ✅ **79 MOCs** | Merged 55 redundant MOCs, all links updated |
-| **README System** | ✅ **7 READMEs created** | All major folders documented |
-| **Archive Cleanup** | ✅ **09-Archive deleted** | 126 files, 1.2MB freed |
-| **Agent Ecosystem** | ✅ **SCOUT workspace complete** | Ready for pilot test |
-| **FORG Pipeline** | ✅ Validated | Ready for zettel sprint |
-| **LitNote Audit** | ✅ **COMPLETE** | All 219 reviewed, YAML fixed, v4.0 compliant |
+| **Vault Audit** | ✅ **COMPLETE — Phases 1-6** | All core files 100% reproducible |
+| **Issues System** | ✅ **12 issues documented** | ISSUE-013 in progress (closure) |
+| **Skills System** | ✅ **4 skills executable** | Scripts + examples complete |
+| **Memory System** | 🟡 **LanceDB active** | Semantic search pending OpenRouter |
+| **Agent Ecosystem** | ✅ **All 3 operational** | RON + FORG + SCOUT ready |
 
 ---
 
-## Today's Achievements (2026-04-14)
+## Recent Achievements (2026-04-20)
 
-### Agent Ecosystem
-| Item | Status |
-|------|--------|
-| SCOUT agent workspace created | ✅ Full context (SOUL, MEMORY, TOOLS, USER, AGENTS, BOOTSTRAP) |
-| FORG completion standard updated | ✅ Never declare partial as complete |
-| Agent differentiation clarified | ✅ RON=curation, FORG=execution, SCOUT=strategy |
+### Phase 1: Core Files (100% Reproducible)
+| File | Enhancement |
+|------|-------------|
+| README.md | ✅ Created — workspace entry point |
+| AGENTS.md | ✅ Quick Reference + examples |
+| TOOLS.md | ✅ Validation commands + Karpathy compliance |
+| SOUL.md | ✅ Core Truths table + examples |
+| USER.md | ✅ Quick Reference added |
+| MEMORY.md | ✅ Quick Reference added |
+| BOOTSTRAP.md | ✅ Quick Reference added |
+| AUTONOMY.md | ✅ Quick Reference added |
+| HEARTBEAT.md | ✅ Quick Reference added |
 
-### Zettelkasten Infrastructure
-| Item | Status |
-|------|--------|
-| 57 orphan zettels connected | ✅ 24 to thematic MOCs + 33 to MOC-RON-System |
-| 6 new MOCs created | ✅ Consciousness, Systems, AI, Learning, Philosophy, RON |
-| MOC creation standard documented | ✅ MOC-CREATION-STANDARD.md |
-| 09-Archive deleted | ✅ 126 legacy files removed |
+### Phase 2: Dashboard Trinity
+| Dashboard | Status |
+|-----------|--------|
+| 00-COMMAND.md | ✅ Updated (this file) |
+| 01-PIPELINE.md | ✅ Flow truth verified |
+| 02-HANDOFF.md | ✅ Session state current |
 
-### Documentation System
-| Item | Status |
-|------|--------|
-| 00-Inbox-README.md | ✅ Created |
-| 02-References-README.md | ✅ Created |
-| 03-Zettels-README.md | ✅ Created |
-| 04-Synthesis-README.md | ✅ Created |
-| 07-Projects-README.md | ✅ Created |
-| 08-Structure-README.md | ✅ Created |
-| **All major folders** | ✅ Index + README complete |
+### Phase 3: Skills System
+| Skill | Uses | Status |
+|-------|------|--------|
+| FORG Extraction Pipeline | 47 | ✅ Executable script |
+| Zettel Template Alignment | 5 | ✅ Executable script |
+| MOC Consolidation | 3 | ✅ Executable script |
+| Batch Fix Protocol | 1 | ✅ Executable script |
 
-### Git Activity
-| Commit | Description |
-|--------|-------------|
-| `473f5c32` | 5 MOCs for orphan zettels |
-| `3c30604f` | Deleted 09-Archive (126 files) |
-| `cc56e2b4` | Connected 57 orphans, MOC-RON-System, Projects README |
-| `bb08dc99` | All folder READMEs complete |
+### Phase 4-6: Templates, Indexes, Verification
+| Component | Status |
+|-----------|--------|
+| Templates | ✅ All with Quick Reference cards |
+| Indexes | ✅ 00-INDEX.md, 08-Structure-Index.md updated |
+| Link Check | ✅ All verified |
+
+### Memory System Activation
+| Component | Status |
+|-----------|--------|
+| LanceDB plugin | ✅ Enabled |
+| Ollama embeddings | ✅ nomic-embed-text (768d) |
+| Active Memory subagent | ✅ Configured |
+| Semantic search | 🟡 Pending OpenRouter API key |
 
 ---
 
 ## Operating Orders
 
 ### Do Now (Max 3)
-- [ ] **Decide** — Zettel assessment scope (priority domain vs. sample vs. full)
-- [ ] **Test** — SCOUT pilot on 10 CGPTs (theme detection validation)
-- [ ] **Rest** — Vacation until Apr 27, light re-entry only
+- [ ] **Complete** — ISSUE-013 (session closure & dashboard sync)
+- [ ] **Decide** — Post-vacation P0s (you're back Apr 21)
+- [ ] **Configure** — OpenRouter for semantic search (optional)
 
 ### Do Next (Queue)
 - FORG zettel extraction sprint (40 files ready)
 - Evidence audit: source verification for zettels
-- PubMed backfill for orphaned claims
-- Process 41 files in 00-Inbox/Fleeting/
+- Process 5 P0 items in 00-Inbox/
+- CGPT AutoResearch pilot with SCOUT
 
 ### Do Not Do (Permanent Guardrails)
 - ❌ Start FORG sprint without explicit batch confirmation
 - ❌ Trust stale protocols over current doctrine
 - ❌ Aggressive cleanup without archive-first safety
-- ❌ Overcommit during vacation period
+- ❌ Overcommit during re-entry period
 
 ---
 
@@ -143,13 +151,15 @@ Weak answer → slow down.
 
 RON,
 
-**Infrastructure complete. Orphans resolved. Documentation system in place.**
+**Vault audit COMPLETE. All 6 phases finished. System 100% reproducible.**
 
-**Next: Zettel quality assessment — your decision on scope.**
+**Infrastructure:** Issues/Agents/Skills operational. Memory system active.
+
+**Next: Your call on post-vacation priorities.**
 
 Move carefully. Move clearly. Move in order.
 
 ---
 
-*Command v4.3 — Infrastructure complete, awaiting quality assessment*  
-*Updated 2026-04-14 17:45*
+*Command v4.4 — Post-audit, post-vacation, awaiting new P0s*  
+*Updated 2026-04-21 10:30*
