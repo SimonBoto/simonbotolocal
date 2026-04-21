@@ -17,6 +17,7 @@ parent-moc: [[MOC-Research]]
 parent-index: [[03-Zettels-Conscious]]
 source-litnote: [[Manuscript_Review_Critical_Concerns_-_Peer_Revie_L-001-0586_v4.0]]
 status: conscious
+extraction-date: "2026-04-21"
 ---
 
 # Critical Appraisal Framework
@@ -49,6 +50,12 @@ status: conscious
 4. Check discussion → evaluate interpretation
 5. Note concerns → categorize severity
 ```
+
+## Status Checklist
+
+- [ ] YAML validated
+- [ ] extraction-date added
+- [ ] Links verified
 
 ## Source
 

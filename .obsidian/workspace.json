@@ -207,8 +207,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "64120ee807f0bd00",
+  "active": "3defb34dd9bafdc5",
   "lastOpenFiles": [
+    "08-Structure/Dashboards/CONNECTIVITY-METRICS.md",
+    "08-Structure/System/CONNECTIVITY-TRACKING.md",
     "08-Structure/Issues/Issue-Backlog-Ranked.md",
     "07-Projects/Skills/skill-content-multiplatform-v1.0.md",
     "07-Projects/Skills/skill-x-content-system-v1.0.md",
@@ -238,8 +240,6 @@
     "07-Projects/Archive/INFRASTRUCTURE_HANDOFF.md",
     "07-Projects/Archive/Audit-Report-2026-04-20.md",
     "07-Projects/Archive/Audit-Plan.md",
-    "07-Projects/Archive/Audit-Plan-Detailed.md",
-    "07-Projects/Archive/ASSESSMENT_Templates_Consolidation.md",
     "07-Projects/Archive",
     "07-Projects/Active",
     "07-Projects/Tools/Scripts",
