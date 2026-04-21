@@ -11,12 +11,10 @@
             "id": "64120ee807f0bd00",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "02-References/Assets/PDFs/NKUA_Metabolomics_Course/ΔΕ 1. ΑΙΤΙΟΠΑΘΟΓΕΝΕΤΙΚΟΙ ΜΗΧΑΝΙΣΜΟΙ ΑΥΤΟΑΝΟΣΩΝ ΚΑΙ ΧΡΟΝΙΩΝ ΝΟΣΗΜΑΤΩΝ .pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "ΔΕ 1. ΑΙΤΙΟΠΑΘΟΓΕΝΕΤΙΚΟΙ ΜΗΧΑΝΙΣΜΟΙ ΑΥΤΟΑΝΟΣΩΝ ΚΑΙ ΧΡΟΝΙΩΝ ΝΟΣΗΜΑΤΩΝ"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -195,8 +193,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3defb34dd9bafdc5",
+  "active": "64120ee807f0bd00",
   "lastOpenFiles": [
+    "02-References/Assets/PDFs/NKUA_Metabolomics_Course/ΔΕ 1. ΑΙΤΙΟΠΑΘΟΓΕΝΕΤΙΚΟΙ ΜΗΧΑΝΙΣΜΟΙ ΑΥΤΟΑΝΟΣΩΝ ΚΑΙ ΧΡΟΝΙΩΝ ΝΟΣΗΜΑΤΩΝ .pdf",
+    "08-Structure/System/audit-reports/YAML-INVALID.md",
+    "08-Structure/System/audit-reports/PHANTOM-LINKS-LITNOTES.md",
+    "08-Structure/System/audit-reports/PHANTOM-LINKS-FRESH.md",
+    "08-Structure/System/audit-reports/LITNOTE-ZETTEL-CONNECTIONS-UPDATED.md",
+    "08-Structure/System/audit-reports/MISSING-FIELDS.md",
+    "08-Structure/System/audit-reports",
     "03-Zettels/Conscious/CGPT_0022_Training_Implementation_Framework_Z-001-1085.md",
     "03-Zettels/Conscious/CGPT_0022_Extraction_Master_Index_Z-001-1083.md",
     "03-Zettels/Conscious/CGPT_0022_Quality_Verification_Framework_Z-001-1084.md",
@@ -217,12 +222,6 @@
     "03-Zettels/Conscious/Regulatory_Frameworks_Integration_Z-001-0581F.md",
     "03-Zettels/Conscious/Belmont_Report_Framework_Z-001-0581D.md",
     "03-Zettels/Conscious/Seven_Requirements_Framework_Z-001-0581A.md",
-    "03-Zettels/Conscious/Nuremberg_Code_Framework_Z-001-0581B.md",
-    "07-Projects/Operations/Operations-Index.md",
-    "audit-reports/YAML-INVALID.md",
-    "audit-reports/PHANTOM-LINKS-LITNOTES.md",
-    "audit-reports/PHANTOM-LINKS-FRESH.md",
-    "audit-reports/MISSING-FIELDS.md",
     "audit-reports",
     "07-Projects/Operations/Scripts/fix-phantom-links.py",
     "07-Projects/Operations/Scripts/fix-missing-brackets.py",
@@ -232,7 +231,6 @@
     "07-Projects/Skills/examples/zettel-alignment",
     "07-Projects/Skills/examples/moc-consolidation",
     "07-Projects/Skills/examples/extraction",
-    "07-Projects/Skills/examples/batch-fix/fix-lit-note.sh",
     "02-References/Assets/Images/2025-12-12_X_Pungao_Seed_Oils_Oxylipins_1.jpg",
     "02-References/Assets/Images/2025-12-13_X_DrWilliamWallac_Vitamin_Functions.jpg",
     "02-References/Assets/Images/2025-12-26_X_BrettBoettcher_Body_Regeneration_Timeline.jpg",

@@ -1,46 +1,41 @@
 ---
-uid: IDX-SYSTEM
+uid: SYS-INDEX-001
 type: index
 title: "System Index"
-date: 2026-04-06
+date: 2026-04-21
 tags: [index, system, infrastructure]
-parent-moc: [[08-Structure-Index]]
 parent-index: [[08-Structure-Index]]
 ---
 
 # System Index
 
-> **Active system infrastructure** — operational files for vault management.
+> **Active infrastructure and system documentation**
 
 ---
 
-## Essential System Files
+## Audit Reports
+
+| Report | Purpose | Date |
+|--------|---------|------|
+| [[audit-reports/PHANTOM-LINKS-FRESH]] | All phantom links | 2026-04-21 |
+| [[audit-reports/PHANTOM-LINKS-LITNOTES]] | LitNote phantoms only | 2026-04-21 |
+| [[audit-reports/MISSING-FIELDS]] | LitNotes needing fields | 2026-04-21 |
+| [[audit-reports/YAML-INVALID]] | YAML validation errors | 2026-04-21 |
+| [[audit-reports/LITNOTE-ZETTEL-CONNECTIONS-UPDATED]] | Connection status | 2026-04-21 |
+
+## System Documentation
+
+| Doc | Purpose |
+|-----|---------|
+| [[Memory-Architecture]] | Dual-layer memory system |
+| [[New-Agent-Hiring-Protocol]] | Agent onboarding |
+
+## Other System Files
 
 | File | Purpose |
 |------|---------|
-| [[CHECKLIST-PreFlight]] | Pre-flight validation checklist |
-| [[EMERGENCY-Recovery]] | OpenClaw gateway recovery procedures |
-
-**System overview:** [[00-INDEX]] — Standards and quick start
+| [[04-LEXICON]] | Terminology definitions |
 
 ---
 
-## Related Locations
-
-| Folder | Contents |
-|--------|----------|
-| [[08-Structure/Protocols]] | Extraction protocols and workflows |
-| [[08-Structure/Templates]] | Note templates (canonical) |
-| [[08-Structure/Dashboards]] | Operational dashboards |
-| [[09-Archive]] | Historical reports and audits |
-
----
-
-## Connection to Vault
-
-- Up: [[08-Structure-Index]]
-- Related: [[Dashboards-Index]], [[Protocols-Index]]
-
----
-
-*The engine room — minimal, active infrastructure only.*
+*System infrastructure — the foundation that enables everything else.*

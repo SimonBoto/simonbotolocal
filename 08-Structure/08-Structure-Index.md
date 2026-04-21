@@ -2,16 +2,14 @@
 uid: IDX-08-STRUCTURE
 type: index
 title: "08 Structure Index"
-date: 2026-04-20
+date: 2026-04-21
 tags: [index, structure, system]
 ---
 
 # 08 Structure Index
 
-> **Quick Reference:** Dashboards | Agents/Issues/Skills | Templates | Protocols
-
 > **System infrastructure for the vault**  
-> Templates, protocols, dashboards, and system documentation.
+> Dashboards, protocols, templates, audits, and system documentation.
 
 ---
 
@@ -19,17 +17,39 @@ tags: [index, structure, system]
 
 | Folder | Purpose | Index |
 |--------|---------|-------|
-| Dashboards/ | Operational dashboards | [[Dashboards-Index]] |
-| Daily/ | Date-stamped daily logs | [[Daily-Index]] |
-| MOCs/ | Maps of Content | [[MOCs-Index]] |
-| Protocols/ | Process documentation | [[Protocols-Index]] |
-| System/ | Active infrastructure | [[System-Index]] |
-| Agents/ | Agent profiles & status | [[Index-Agents]] |
-| Issues/ | Task tracking system | [[Index-Issues]] |
-| Skills/ | Reusable capabilities | [[Index-Skills]] |
-| Templates/ | Note templates | [[Templates-Index]] |
+| **Dashboards/** | Operational dashboards | [[Dashboards-Index]] |
+| **Daily/** | Date-stamped daily logs | [[Daily-Index]] |
+| **Issues/** | Task tracking system | [[Issues-Index]] |
+| **MOCs/** | Maps of Content | [[MOCs-Index]] |
+| **System/** | Active infrastructure & audits | [[System-Index]] |
+| **Templates/** | Note templates | [[Templates-Index]] |
 
-**System overview:** See [[00-INDEX]] — Standards and quick start
+---
+
+## System Components
+
+### Dashboards (Trinity)
+| Dashboard | Purpose |
+|-----------|---------|
+| [[00-COMMAND]] | Priorities & orders |
+| [[01-PIPELINE]] | Flow truth |
+| [[02-HANDOFF]] | Session state |
+
+### System Infrastructure
+| Component | Location |
+|-----------|----------|
+| Audit Reports | [[System/audit-reports]] |
+| Memory Architecture | [[System/Memory-Architecture]] |
+| New Agent Hiring | [[System/New-Agent-Hiring-Protocol]] |
+
+---
+
+## Moved to 07-Projects
+
+The following were reorganized to [[07-Projects-Index]]:
+- **Agents/** → [[07-Projects/Agents]]
+- **Protocols/** → [[07-Projects/Protocols]]
+- **Skills/** → [[07-Projects/Skills]]
 
 ---
 
