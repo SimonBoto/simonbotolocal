@@ -2,13 +2,28 @@
 uid: SKILLS-INDEX
 type: dashboard
 title: Skills Index
-date: 2026-04-20
+date: 2026-04-21
+aliases: [Index-Skills]
+tags: [index, skills, capabilities]
+parent-index: [[07-Projects-Index]]
 ---
 
 # Skills Index
 
-**Last updated:** 2026-04-20  
-**Principle:** Every solution becomes a reusable skill
+> **Reusable capabilities that compound over time**
+> 
+> Every solution becomes a skill. Skills evolve: v1.0 → v1.1 → v2.0 → stable.
+
+---
+
+## Quick Reference
+
+| Need | Skill | File |
+|------|-------|------|
+| Extract zettels | FORG Extraction Pipeline | [[skill-extraction-v1.0]] |
+| Align templates | Zettel Template Alignment | [[skill-zettel-alignment-v1.0]] |
+| Consolidate MOCs | MOC Consolidation | [[skill-moc-consolidation-v1.0]] |
+| Batch fix | Batch Fix Protocol | [[skill-batch-fix-v1.0]] |
 
 ---
 
@@ -18,50 +33,61 @@ date: 2026-04-20
 
 | Skill | Version | Agent | Uses | Status | File |
 |-------|---------|-------|------|--------|------|
-| FORG Extraction Pipeline | v1.0 | FORG | 47 | stable | [skill-extraction-v1.0.md](./skill-extraction-v1.0.md) |
-| Zettel Template Alignment | v1.0 | RON | 5 | stable | [skill-zettel-alignment-v1.0.md](./skill-zettel-alignment-v1.0.md) |
-| Basic LitNote | v1.0 | FORG | — | ready | [extraction-v1.0.md](./extraction-v1.0.md) |
-| Biomarker Focus | v1.1 | FORG | — | ready | [extraction-v1.1.md](./extraction-v1.1.md) |
-| Scalable Review | v2.0 | FORG | — | ready | [extraction-v2.0.md](./extraction-v2.0.md) |
+| FORG Extraction Pipeline | v1.0 | FORG | 47 | stable | [[skill-extraction-v1.0]] |
+| Zettel Template Alignment | v1.0 | RON | 5 | stable | [[skill-zettel-alignment-v1.0]] |
+| Basic LitNote | v1.0 | FORG | — | ready | extraction-v1.0.md |
+| Biomarker Focus | v1.1 | FORG | — | ready | extraction-v1.1.md |
+| Scalable Review | v2.0 | FORG | — | ready | extraction-v2.0.md |
 
 ### Synthesis
 
 | Skill | Version | Agent | Uses | Status | File |
 |-------|---------|-------|------|--------|------|
-| MOC Consolidation | v1.0 | RON | 3 | stable | [skill-moc-consolidation-v1.0.md](./skill-moc-consolidation-v1.0.md) |
-| MOC Generation | v1.0 | RON | — | ready | [synthesis-v1.0.md](./synthesis-v1.0.md) |
-| Weekly Consolidation | v1.0 | RON | — | ready | [consolidation-v1.0.md](./consolidation-v1.0.md) |
+| MOC Consolidation | v1.0 | RON | 3 | stable | [[skill-moc-consolidation-v1.0]] |
+| MOC Generation | v1.0 | RON | — | ready | synthesis-v1.0.md |
+| Weekly Consolidation | v1.0 | RON | — | ready | consolidation-v1.0.md |
 
 ### Search
 
 | Skill | Version | Agent | Uses | Status | File |
 |-------|---------|-------|------|--------|------|
-| QMD Semantic Search | v1.0 | FORG | — | ready | [qmd-search-v1.0.md](./qmd-search-v1.0.md) |
+| QMD Semantic Search | v1.0 | FORG | — | ready | qmd-search-v1.0.md |
 
 ### Coding
 
 | Skill | Version | Agent | Uses | Status | File |
 |-------|---------|-------|------|--------|------|
-| Batch Fix Protocol | v1.0 | RON | 1 | stable | [skill-batch-fix-v1.0.md](./skill-batch-fix-v1.0.md) |
+| Batch Fix Protocol | v1.0 | RON | 1 | stable | [[skill-batch-fix-v1.0]] |
 
 ### Exploration
 
 | Skill | Version | Agent | Uses | Status | File |
 |-------|---------|-------|------|--------|------|
-| CGPT Theme Analysis | v1.0 | SCOUT | — | ready | [theme-analysis-v1.0.md](./theme-analysis-v1.0.md) |
+| CGPT Theme Analysis | v1.0 | SCOUT | — | ready | theme-analysis-v1.0.md |
 
 ---
 
 ## Skill Statistics
 
-| Category | Total | Stable | Beta | Draft |
-|----------|-------|--------|------|-------|
-| Extraction | 5 | 5 | 0 | 0 |
-| Synthesis | 3 | 3 | 0 | 0 |
-| Search | 1 | 1 | 0 | 0 |
+| Category | Total | Stable | Ready | Draft |
+|----------|-------|--------|-------|-------|
+| Extraction | 5 | 2 | 3 | 0 |
+| Synthesis | 3 | 1 | 2 | 0 |
+| Search | 1 | 0 | 1 | 0 |
 | Coding | 1 | 1 | 0 | 0 |
-| Exploration | 1 | 1 | 0 | 0 |
-| **Total** | **11** | **11** | **0** | **0** |
+| Exploration | 1 | 0 | 1 | 0 |
+| **Total** | **11** | **4** | **7** | **0** |
+
+---
+
+## Creating Skills
+
+1. Complete a task successfully
+2. Extract the reusable pattern
+3. Copy [[Template-Skill]]
+4. Document: purpose, when to use, steps, verification, failures
+5. Add to this index
+6. Use and refine
 
 ---
 
@@ -76,15 +102,11 @@ date: 2026-04-20
 
 ---
 
-## How to Create a Skill
+## Resources
 
-1. Complete a task successfully
-2. Extract the reusable pattern
-3. Copy [TEMPLATE.md](./TEMPLATE.md)
-4. Document: purpose, when to use, steps, verification, failures
-5. Add to this index
-6. Use and refine
+- [[Skills-README]] — Skills system guide
+- [[Template-Skill]] — Skill creation template
+- [[07-Projects-Index]] — Up to projects
 
 ---
-
-_See also: [TEMPLATE.md](./TEMPLATE.md) for skill format_
+_Skills compound. Knowledge grows._

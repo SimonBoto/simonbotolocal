@@ -2,8 +2,8 @@
 uid: PRJ-AGENTS-0001
 type: index
 title: "Agents Index"
-date: 2026-04-07
-aliases: [AGENTS-INDEX]
+date: 2026-04-21
+aliases: [AGENTS-INDEX, Index-Agents]
 tags: [index, agents, multi-agent, ai]
 parent-moc: [[07-Projects-Index]]
 parent-index: [[07-Projects-Index]]
@@ -13,35 +13,46 @@ status: active
 # Agents Index
 
 > **Multi-agent system for TheOptimizedBrain operations**
+> 
+> Based on insights from Brian Roemmele (Zero-Human Company) and Andrej Karpathy (LLM Knowledge Bases)
 
-## Philosophy
-
-Based on insights from Brian Roemmele (Zero-Human Company) and Andrej Karpathy (LLM Knowledge Bases):
-
-- **Named agents with specific roles** — Like Roemmele's Luna and Elizabeth
-- **Separate workspaces** — Clean boundaries, targeted capabilities
-- **Human review at edges** — Karpathy's approach: agents do, humans verify
-- **Cost optimization** — Cheap models for bulk, expensive for quality
+---
 
 ## Active Agents
 
 | Agent | Model | Role | Status | Workspace |
 |-------|-------|------|--------|-----------|
-| **RON** | Kimi k2.5 | Primary, quality control, synthesis | ✅ Active | `workspace/` |
-| **FORG** | Qwen Plus | Bulk drafting, extraction prep | ✅ Operational | `workspace-forg/` |
+| **🦞 RON** | Kimi k2.5 | Quality control, finalization, curation | ✅ Active | `workspace/` |
+| **👻 FORG** | Grok 4.1 Fast | Draft creation, bulk extraction | ✅ Operational | `workspace-forg/` |
+| **🦅 SCOUT** | Nemotron 3 Super | Theme detection, exploration | ✅ Operational | `workspace-scout/` |
 
-## Planned Agents
+---
 
-| Agent | Model | Role | Priority |
-|-------|-------|------|----------|
-| **RESEARCH** | (TBD) | Literature extraction, web search | P1 |
-| **EDITOR** | (TBD) | YAML validation, link checking | P2 |
-| **CLINIC** | Kimi k2.5 | Patient workflow assistance | P2 |
-| **PHD** | Kimi k2.5 | Academic writing, paper drafting | P2 |
+## Cost Structure
 
-## Agent Projects
+| Agent | Model | Input | Output | Savings |
+|-------|-------|-------|--------|---------|
+| RON | Kimi k2.5 | $0.38/M | $1.72/M | Baseline |
+| FORG | Grok 4.1 Fast | $0.20/M | $0.60/M | ~99.9% |
+| SCOUT | Nemotron 120B | $0 | $0 | 100% |
 
-- [[FORG_Agent_Project_S-001-0004]] — FORG (The Forge) — Operational 2026-04-07
+---
+
+## Agent Profiles
+
+| Agent | Profile | Project |
+|-------|---------|---------|
+| RON | [[Agent-RON]] | — |
+| FORG | [[Agent-FORG]] | [[FORG_Agent_Project_S-001-0004]] |
+| SCOUT | [[Agent-SCOUT]] | [[SCOUT_Agent_Project_S-001-0014]] |
+
+---
+
+## Status Dashboard
+
+See [[Agent-Status]] for at-a-glance view of all agents.
+
+---
 
 ## Architecture Principles
 
@@ -54,24 +65,28 @@ Based on insights from Brian Roemmele (Zero-Human Company) and Andrej Karpathy (
     ┌─────────┼─────────┐
     ▼         ▼         ▼
 ┌───────┐ ┌───────┐ ┌───────┐
-│ FORG  │ │RESEARCH│ │EDITOR │
-│Qwen   │ │ (TBD)  │ │ (TBD)  │
-│Draft  │ │Search  │ │Check  │
+│ FORG  │ │ SCOUT │ │EDITOR │
+│Grok   │ │Nemo   │ │(future)│
+│Draft  │ │Explore│ │Check  │
 └───────┘ └───────┘ └───────┘
 ```
 
-## Cost Structure
+---
 
-| Agent | Model | Cost | Use Case |
-|-------|-------|------|----------|
-| RON | Kimi k2.5 | $40/M tokens | Final review, complex synthesis |
-| FORG | Qwen Plus | $0.26/M in, $0.78/M out | Bulk drafting, extraction |
-| **Savings** | | **98%** | |
+## Philosophy
+
+- **Named agents with specific roles** — Like Roemmele's Luna and Elizabeth
+- **Separate workspaces** — Clean boundaries, targeted capabilities
+- **Human review at edges** — Karpathy's approach: agents do, humans verify
+- **Cost optimization** — Cheap models for bulk, expensive for quality
+
+---
 
 ## Related
+
 - [[07-Projects-Index]]
-- [[ZettelForge_Concept_S-001-0001]]
-- [[OpenClaw_Model_Cleanup_S-001-0007]]
+- [[New-Agent-Hiring-Protocol]] — How to add new agents
+- [[Memory-Architecture]] — How agent memory works
 
 ---
 *Agents — Specialized workers, coordinated by RON*
