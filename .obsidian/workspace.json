@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08-Structure/System/AGENTS-REFERENCE.md",
+                "file": "08-Structure/Audit-Plan-Detailed.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AGENTS-REFERENCE"
+              "title": "Audit-Plan-Detailed"
             }
           }
         ]
@@ -209,6 +209,8 @@
   },
   "active": "3defb34dd9bafdc5",
   "lastOpenFiles": [
+    "08-Structure/Audit-Plan.md",
+    "08-Structure/System/AGENTS-REFERENCE.md",
     "07-Projects/Template-Skill.md",
     "07-Projects/skill-zettel-alignment-v1.0.md",
     "07-Projects/skill-moc-consolidation-v1.0.md",
@@ -243,8 +245,6 @@
     "08-Structure/Templates/Template_LitNote_v5.0.md",
     "08-Structure/Issues/Issue-037.md",
     "02-References/Hub/Hong_Kong_Meat_Longevity_Synthesis_R-002-0049.md",
-    "02-References/Hub/Twelve_Actions_Better_Health_Synthesis_R-002-0052.md",
-    "02-References/Hub/Autoimmune_Diet_Lifestyle_Synthesis_R-002-0048.md",
     "02-References/Assets/Images/2025-12-12_X_Pungao_Seed_Oils_Oxylipins_1.jpg",
     "02-References/Assets/Images/2025-12-13_X_DrWilliamWallac_Vitamin_Functions.jpg",
     "02-References/Assets/Images/2025-12-26_X_BrettBoettcher_Body_Regeneration_Timeline.jpg",
