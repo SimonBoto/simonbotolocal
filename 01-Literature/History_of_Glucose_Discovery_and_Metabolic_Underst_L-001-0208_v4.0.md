@@ -99,7 +99,7 @@ tags:
 - Foundation for endocrinology
 - Concept of internal secretion (precursor to hormone concept)
 
-**Zettels extracted:** [[Claude_Bernard_Glycogen_Liver_1850s_Z-001-0239]]
+**Zettels extracted:** [[Glucose_Discovery_Historical_Timeline_Z-001-0239]]
 
 ### 4. Glucose-Insulin Connection (1921)
 > "The discovery of insulin in 1921 by Banting and Best helped to clarify the crucial role of glucose in the body's metabolic processes."
@@ -110,7 +110,7 @@ tags:
 - Connection between pancreas and glucose metabolism
 - Diabetes as failure of glucose regulation
 
-**Zettels extracted:** [[Glucose_Insulin_Connection_1921_Z-001-0240]]
+**Zettels extracted:** [[Insulin_Discovery_Banting_Best_Z-001-0240]]
 
 ---
 
@@ -138,8 +138,8 @@ tags:
 ## Zettels Created from This Source
 1. [[Glucose_Discovery_Marggraf_1747_Z-001-0237]]
 2. [[Glucose_Chemistry_Fischer_19th_Century_Z-001-0238]]
-3. [[Claude_Bernard_Glycogen_Liver_1850s_Z-001-0239]]
-4. [[Glucose_Insulin_Connection_1921_Z-001-0240]]
+3. [[Glucose_Discovery_Historical_Timeline_Z-001-0239]]
+4. [[Insulin_Discovery_Banting_Best_Z-001-0240]]
 
 ---
 
