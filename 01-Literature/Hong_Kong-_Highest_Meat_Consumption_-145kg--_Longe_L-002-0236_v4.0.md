@@ -7,8 +7,8 @@ aliases:
   - "L-002-0236"
   - "Hong-Kong-Meat-Longevity"
   - "Meat-Longevity-Paradox"
-source-inbox: [[INBOX-Article-49-Hong-Kong-Meat]]
-source-litnote: [[INBOX-Article-49-Hong-Kong-Meat]]
+source-inbox: 
+source-litnote: 
 authors: "Health & Protection; AHDB; Our World in Data"
 year: "2025"
 journal: "Health & Protection; Various data sources"
@@ -38,7 +38,7 @@ tags:
 ## Source
 - **Full citation:** Health & Protection. "Hong Kong has world's longest life expectancy." February 2025. AHDB. Asia: Meat consumption data. Our World in Data: Life Expectancy — Meat supply per person.
 - **Original Greek:** "Ο πληθυσμός με το υψηλότερο προσδόκιμο ζωής παγκοσμίως είναι το Χονγκ Κονγκ"
-- **Inbox origin:** [[INBOX-Article-49-Hong-Kong-Meat]]
+- **Inbox origin:** 
 - **Reference note:** [[Hong_Kong_Meat_Longevity_Population_Data_R-002-0063]]
 
 ## Core Concepts Extracted
@@ -78,7 +78,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Global-Health]] — Thematic domain
-- **INBOX:** [[INBOX-Article-49-Hong-Kong-Meat]] — Article source
+- **INBOX:**  — Article source
 - **Reference:** [[Hong_Kong_Meat_Longevity_Population_Data_R-002-0063]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

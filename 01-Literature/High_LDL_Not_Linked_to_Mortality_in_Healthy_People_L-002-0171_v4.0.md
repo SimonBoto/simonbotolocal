@@ -5,8 +5,8 @@ source-origin: unknown
 title: "High LDL Not Linked to Mortality in Healthy People (Kip 2024)"
 aliases:
   - L-002-0171
-source-inbox: [[INBOX-Article-5-LDL-Mortality]]
-source-litnote: [[INBOX-Article-5-LDL-Mortality]]
+source-inbox: 
+source-litnote: 
 authors: "Kip KE, Diamond D, Mulukutla S, Marroquin OC"
 year: "2024"
 journal: "BMJ Open"
@@ -35,7 +35,7 @@ tags:
 
 ## Source
 - **Full citation:** Kip KE, Diamond D, Mulukutla S, Marroquin OC (2024). Is LDL cholesterol associated with long-term mortality among primary prevention adults? A retrospective cohort study from a large healthcare system. *BMJ Open*. 14(3):e077949. doi:10.1136/bmjopen-2023-077949
-- **Inbox origin:** [[INBOX-Article-5-LDL-Mortality]]
+- **Inbox origin:** 
 - **Reference note:** [[Kip_2024_LDL_Mortality_Primary_Prevention_R-002-0028]]
 
 ## Core Concepts Extracted
@@ -81,7 +81,7 @@ High LDL cholesterol is **not associated with increased all-cause or cardiovascu
 
 ## Structural Links
 - **Up:** [[MOC-Cholesterol-Quality]] — Thematic domain
-- **Inbox:** [[INBOX-Article-5-LDL-Mortality]] — Raw origin
+- **Inbox:**  — Raw origin
 - **Index:** [[01-Literature-Index]] — Container
 
 ---
@@ -107,7 +107,7 @@ High LDL cholesterol is **not associated with increased all-cause or cardiovascu
 
 ## Connections
 - [[MOC-Cholesterol-Quality]]
-- [[INBOX-Article-5-LDL-Mortality]]
+- 
 - [[Kip_2024_LDL_Mortality_Primary_Prevention_R-002-0028]]
 
 ---

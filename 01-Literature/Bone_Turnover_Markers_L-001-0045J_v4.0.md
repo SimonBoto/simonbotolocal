@@ -16,7 +16,7 @@ tier: SILVER
 relevance: "High - Biochemical monitoring of treatment response in osteoporosis"
 status: complete
 parent-moc: [[MOC-Bone-Health]]
-parent-index: [[02-Literature]]
+parent-index: 
 extraction-date: "2026-03-06"
 source-inbox: [[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]
 source-litnote: [[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]

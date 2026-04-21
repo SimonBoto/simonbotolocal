@@ -6,8 +6,8 @@ title: "Twelve Evidence-Based Actions for Better Health (Lifestyle Medicine Fram
 aliases:
   - "L-002-0212"
   - "Twelve-Actions-Better-Health"
-source-inbox: [[INBOX-Article-31-Twelve-Actions]]
-source-litnote: [[INBOX-Article-31-Twelve-Actions]]
+source-inbox: 
+source-litnote: 
 authors: "Lifestyle Medicine literature, Blue Zones research, Longevity studies"
 year: "2010-2024"
 journal: "American Journal of Lifestyle Medicine, Circulation, PLoS Medicine"
@@ -35,7 +35,7 @@ tags:
 
 ## Source
 - **Full citation:** Lifestyle Medicine core principles; Blue Zones research (Buettner D); Holt-Lunstad J. Social relationships and mortality risk: a meta-analytic review. PLoS Med. 2010;7(7):e1000316. Plus evidence from American Journal of Lifestyle Medicine, Circulation 2010-2024.
-- **Inbox origin:** [[INBOX-Article-31-Twelve-Actions]]
+- **Inbox origin:** 
 - **Reference note:** [[Twelve_Actions_Better_Health_R-002-0052]]
 
 ## Core Concepts Extracted
@@ -75,7 +75,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Clinical-Metabolomics]] — Thematic domain
-- **INBOX:** [[INBOX-Article-31-Twelve-Actions]] — Article source
+- **INBOX:**  — Article source
 - **Reference:** [[Twelve_Actions_Better_Health_R-002-0052]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

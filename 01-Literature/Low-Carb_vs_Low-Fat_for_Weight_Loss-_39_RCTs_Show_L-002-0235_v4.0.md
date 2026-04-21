@@ -7,8 +7,8 @@ aliases:
   - "L-002-0235"
   - "Low-Carb-vs-Low-Fat-39-RCTs"
   - "Low-Carb-Superiority"
-source-inbox: [[INBOX-Article-48-Low-Carb-Low-Fat]]
-source-litnote: [[INBOX-Article-48-Low-Carb-Low-Fat]]
+source-inbox: 
+source-litnote: 
 authors: "Various"
 year: "2010-2025"
 journal: "Various"
@@ -39,7 +39,7 @@ tags:
 ## Source
 - **Full citation:** Meta-analysis of 39 randomized controlled trials comparing low-carbohydrate vs low-fat diets for weight loss and metabolic health (2010-2025).
 - **Original Greek:** "Τι είναι καλύτερο για την απώλεια βάρους: στοιχεία από 39 κλινικές μελέτες"
-- **Inbox origin:** [[INBOX-Article-48-Low-Carb-Low-Fat]]
+- **Inbox origin:** 
 - **Reference note:** [[Low_Carb_Low_Fat_39_RCTs_Meta_Analysis_R-002-0062]]
 
 ## Core Concepts Extracted
@@ -79,7 +79,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Metabolic-Syndrome]] — Thematic domain
-- **INBOX:** [[INBOX-Article-48-Low-Carb-Low-Fat]] — Article source
+- **INBOX:**  — Article source
 - **Reference:** [[Low_Carb_Low_Fat_39_RCTs_Meta_Analysis_R-002-0062]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

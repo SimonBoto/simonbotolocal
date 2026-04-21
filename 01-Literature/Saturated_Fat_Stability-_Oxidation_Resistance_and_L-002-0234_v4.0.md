@@ -7,8 +7,8 @@ aliases:
   - "L-002-0234"
   - "Saturated-Fat-Stability"
   - "Oxidation-Resistance"
-source-inbox: [[INBOX-Article-47-Saturated-Fat-Stability]]
-source-litnote: [[INBOX-Article-47-Saturated-Fat-Stability]]
+source-inbox: 
+source-litnote: 
 authors: "Yamada S, et al.; Valk R, et al.; Astrup A, et al."
 year: "2020-2025"
 journal: "JAMA; Eur J Prev Cardiol; JACC"
@@ -42,7 +42,7 @@ tags:
   2. Valk R, Hammill J, Grip J. "Saturated fat: Villain and bogeyman in the development of cardiovascular disease?" *Eur J Prev Cardiol*. 2022.
   3. Astrup A, et al. "Saturated Fats and Health: A Reassessment and Proposal for Food-Based Recommendations." *JACC*. 2020.
 - **Original Greek:** "Κορεσμένα Λιπαρά — Σταθερότητα και Μη Οξείδωση"
-- **Inbox origin:** [[INBOX-Article-47-Saturated-Fat-Stability]]
+- **Inbox origin:** 
 - **Reference notes:**
   - [[Yamada_2025_Saturated_Fat_CVD_R-001-0098]]
   - [[Valk_2022_Saturated_Fat_CVD_R-001-0104]]
@@ -87,7 +87,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Nutrition]] — Thematic domain
-- **INBOX:** [[INBOX-Article-47-Saturated-Fat-Stability]] — Article source
+- **INBOX:**  — Article source
 - **References:** Multiple (see above) — Primary sources
 - **Index:** [[01-Literature-Index]] — Container
 

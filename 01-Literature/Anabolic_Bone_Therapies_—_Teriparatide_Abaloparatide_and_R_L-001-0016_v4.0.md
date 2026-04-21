@@ -16,7 +16,7 @@ tier: SILVER
 relevance: "High - Treatment options for severe osteoporosis and anabolic strategy"
 status: complete
 parent-moc: [[MOC-Clinical-Metabolomics]]
-parent-index: [[02-Literature]]
+parent-index: 
 extraction-date: "2026-03-06"
 source-inbox: [[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]
 source-litnote: [[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]

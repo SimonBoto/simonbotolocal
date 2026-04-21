@@ -6,8 +6,8 @@ title: "Tobacco and Sugar Industry Tactics to Protect Products (Kearns 2016)"
 aliases:
   - "L-002-0204"
   - "Industry-Tactics-Tobacco-Sugar"
-source-inbox: [[INBOX-Article-23-Industry-Tactics]]
-source-litnote: [[INBOX-Article-23-Industry-Tactics]]
+source-inbox: 
+source-litnote: 
 authors: "Kearns CE, Schmidt LA, Glantz SA"
 year: "2016"
 journal: "JAMA Internal Medicine"
@@ -36,7 +36,7 @@ tags:
 
 ## Source
 - **Full citation:** Kearns CE, Schmidt LA, Glantz SA. "Sugar Industry and Coronary Heart Disease Research: A Historical Analysis of Internal Industry Documents." *JAMA Intern Med*. 2016;176(11):1680-1685. doi:10.1001/jamainternmed.2016.5394. PMID: 27630110.
-- **Inbox origin:** [[INBOX-Article-23-Industry-Tactics]]
+- **Inbox origin:** 
 - **Reference note:** [[Kearns_2016_Sugar_Industry_Documents_R-002-0044]]
 
 ## Core Concepts Extracted
@@ -76,7 +76,7 @@ The sugar industry employed **the same tactics as the tobacco industry** — hid
 
 ## Connections
 - **MOC:** [[MOC-Nutrition]] — Thematic domain
-- **INBOX:** [[INBOX-Article-23-Industry-Tactics]] — Article source
+- **INBOX:**  — Article source
 - **Reference:** [[Kearns_2016_Sugar_Industry_Documents_R-002-0044]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

@@ -6,8 +6,8 @@ title: "Not All Calories Are Equal - Metabolic Effects of Macronutrients (Ebbeli
 aliases:
   - "L-002-0210"
   - "Not-All-Calories-Equal"
-source-inbox: [[INBOX-Article-29-Calories]]
-source-litnote: [[INBOX-Article-29-Calories]]
+source-inbox: 
+source-litnote: 
 authors: "Ebbeling CB, Ludwig DS, et al."
 year: "2018"
 journal: "BMJ"
@@ -35,7 +35,7 @@ tags:
 
 ## Source
 - **Full citation:** Ebbeling CB, Feldman HA, Klein GL, Wong JMW, Bielak L, Steltz SK, et al. Effects of a low carbohydrate diet on energy expenditure during weight loss maintenance: randomized trial. BMJ. 2018;363:k4583. doi:10.1136/bmj.k4583
-- **Inbox origin:** [[INBOX-Article-29-Calories]]
+- **Inbox origin:** 
 - **Reference note:** [[Calories_Not_Equal_Metabolic_R-002-0050]]
 
 ## Core Concepts Extracted
@@ -75,7 +75,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Metabolic-Syndrome]] — Thematic domain
-- **INBOX:** [[INBOX-Article-29-Calories]] — Article source
+- **INBOX:**  — Article source
 - **Reference:** [[Calories_Not_Equal_Metabolic_R-002-0050]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

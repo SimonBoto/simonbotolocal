@@ -5,8 +5,8 @@ source-origin: unknown
 title: "Inflammation Increases CVD Risk via hsCRP (Kurt 2025)"
 aliases:
   - "L-002-0219"
-source-inbox: [[INBOX-Article-15-Inflammation-CRP]]
-source-litnote: [[INBOX-Article-15-Inflammation-CRP]]
+source-inbox: 
+source-litnote: 
 authors: "Kurt B, Reugels M, Schneider KM, et al."
 year: "2025"
 journal: "European Heart Journal"
@@ -35,7 +35,7 @@ tags:
 
 ## Source
 - **Full citation:** Kurt B, Reugels M, Schneider KM, et al. "C-reactive protein and cardiovascular risk in the general population." *Eur Heart J*. 2025. doi:10.1093/eurheartj/ehaf937. PMID: 41378999.
-- **Inbox origin:** [[INBOX-Article-15-Inflammation-CRP]]
+- **Inbox origin:** 
 - **Reference note:** [[Kurt_2025_CRP_CVD_Risk_R-002-0025]]
 
 ## Core Concepts Extracted
@@ -75,7 +75,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Immunology]] — Thematic domain
-- **INBOX:** [[INBOX-Article-15-Inflammation-CRP]] — Article source
+- **INBOX:**  — Article source
 - **Reference:** [[Kurt_2025_CRP_CVD_Risk_R-002-0025]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

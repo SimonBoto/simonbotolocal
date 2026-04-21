@@ -22,7 +22,7 @@ source: [[CGPT_0520_Autoimmune_Diseases_and_Telomeres_CGPT-0520]]
 status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-Immunology]]
-parent-index: [[01-Literature]]
+parent-index: 
 extraction-date: 2026-03-08
 ---
 

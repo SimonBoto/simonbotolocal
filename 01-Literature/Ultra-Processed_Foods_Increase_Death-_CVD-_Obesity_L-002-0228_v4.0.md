@@ -7,8 +7,8 @@ aliases:
   - "L-002-0228"
   - "UPF-Death-CVD-Obesity-Diabetes"
   - "Lane-2024-BMJ"
-source-inbox: [[INBOX-Article-43-UPF-Health-Risks]]
-source-litnote: [[INBOX-Article-43-UPF-Health-Risks]]
+source-inbox: 
+source-litnote: 
 authors: "Lane MM, Gamage E, Du S, et al."
 year: "2024"
 journal: "BMJ"
@@ -41,7 +41,7 @@ tags:
 ## Source
 - **Full citation:** Lane MM, Gamage E, Du S, et al. "Ultra-processed food exposure and adverse health outcomes: umbrella review of epidemiological meta-analyses." *BMJ*. 2024;384:e077310. doi:10.1136/bmj-2023-077310
 - **Original Greek:** "Η Κατανάλωση Υψηλά Επεξεργασμένων Τροφών Αυξάνει τον Κίνδυνο"
-- **Inbox origin:** [[INBOX-Article-43-UPF-Health-Risks]]
+- **Inbox origin:** 
 - **Reference note:** [[Lane_2024_BMJ_UPF_Metaanalysis_R-002-0021]]
 - **Study type:** Umbrella review of 45 clinical studies
 
@@ -82,7 +82,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Metabolic-Syndrome]] — Thematic domain
-- **INBOX:** [[INBOX-Article-43-UPF-Health-Risks]] — Article source
+- **INBOX:**  — Article source
 - **Reference:** [[Lane_2024_BMJ_UPF_Metaanalysis_R-002-0021]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

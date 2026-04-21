@@ -18,7 +18,7 @@ tags:
   - litnote
   - chatgpt
   - phd
-parent-index: [[01-Literature]]
+parent-index: 
 extraction-date: 2026-03-28
 source-litnote: [[CGPT-Source]]
 source: [[CGPT_0359_Compliance_and_Approval_Process_CGPT-0359]]

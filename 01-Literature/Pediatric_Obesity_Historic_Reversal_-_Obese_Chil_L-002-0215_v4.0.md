@@ -6,8 +6,8 @@ title: "Pediatric Obesity Historic Reversal - Obese Children Outnumber Undernour
 aliases:
   - "L-002-0215"
   - "Pediatric-Obesity-Historic-Reversal"
-source-inbox: [[INBOX-Article-33-Pediatric-Obesity]]
-source-litnote: [[INBOX-Article-33-Pediatric-Obesity]]
+source-inbox: 
+source-litnote: 
 authors: "UNICEF"
 year: "2025"
 journal: "UNICEF Child Nutrition Report"
@@ -37,7 +37,7 @@ tags:
 ## Source
 - **Full citation:** The 2025 Child Nutrition Report, 'Feeding Profit: How food environments are failing children'. UNICEF 2025.
 - **Additional:** Obesity exceeds underweight for the first time among school-age children and adolescents globally – UNICEF, press release 9 Sept 2025
-- **Inbox origin:** [[INBOX-Article-33-Pediatric-Obesity]]
+- **Inbox origin:** 
 - **Reference note:** [[UNICEF_2025_Child_Nutrition_Report_R-002-0054]] — Citation from UNICEF report
 - **Note:** Policy/epidemiological report, not peer-reviewed study
 
@@ -78,7 +78,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Nutrition]] — Thematic domain
-- **INBOX:** [[INBOX-Article-33-Pediatric-Obesity]] — Article source
+- **INBOX:**  — Article source
 - **Reference:** [[UNICEF_2025_Child_Nutrition_Report_R-002-0054]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

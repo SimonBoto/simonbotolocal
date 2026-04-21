@@ -5,8 +5,8 @@ source-origin: unknown
 title: "Carbohydrate Restriction Reduces CVD Risk (Zheng 2025)"
 aliases:
   - L-002-0169
-source-inbox: [[INBOX-Article-3-Carb-Restriction]]
-source-litnote: [[INBOX-Article-3-Carb-Restriction]]
+source-inbox: 
+source-litnote: 
 authors: "Zheng Q, Gao X, Ruan X, et al."
 year: "2025"
 journal: "International Journal of Obesity (Nature)"
@@ -33,7 +33,7 @@ tags:
 
 ## Source
 - **Full citation:** Zheng Q, Gao X, Ruan X, et al. (2025). Are low carbohydrate diet interventions beneficial for metabolic syndrome and its components? A systematic review and meta-analysis of randomized controlled trials. *International Journal of Obesity*. doi:10.1038/s41366-025-01822-5
-- **Inbox origin:** [[INBOX-Article-3-Carb-Restriction]]
+- **Inbox origin:** 
 - **Reference note:** [[Zheng_2025_LCD_Metabolic_Syndrome_Meta_R-002-0035]]
 
 ## Core Concepts Extracted
@@ -73,7 +73,7 @@ Low-carbohydrate diets reduce cardiovascular disease risk by improving all compo
 
 ## Structural Links
 - **Up:** [[MOC-Metabolic-Syndrome]] — Thematic domain
-- **Inbox:** [[INBOX-Article-3-Carb-Restriction]] — Raw origin
+- **Inbox:**  — Raw origin
 - **Index:** [[01-Literature-Index]] — Container
 
 ---
@@ -91,7 +91,7 @@ Low-carbohydrate diets reduce cardiovascular disease risk by improving all compo
 
 ## Connections
 - [[MOC-Metabolic-Syndrome]]
-- [[INBOX-Article-3-Carb-Restriction]]
+- 
 - [[Zheng_2025_LCD_Metabolic_Syndrome_Meta_R-002-0035]]
 
 ---

@@ -5,8 +5,8 @@ source-origin: unknown
 title: "Hashimoto's: Low-Carb Diet Reduces Autoantibodies (Huang 2024)"
 aliases:
   - L-002-0170
-source-inbox: [[INBOX-Article-4-Hashimoto]]
-source-litnote: [[INBOX-Article-4-Hashimoto]]
+source-inbox: 
+source-litnote: 
 authors: "Huang XS, et al."
 year: "2024"
 journal: "Endocrine Connections"
@@ -35,7 +35,7 @@ tags:
 
 ## Source
 - **Full citation:** Huang XS, et al. MRI quantitative assessment of the effects of low-carbohydrate therapy on Hashimoto's thyroiditis. *Endocr Connect*. 2024;13(5):e230477. doi:10.1530/EC-23-0477
-- **Inbox origin:** [[INBOX-Article-4-Hashimoto]]
+- **Inbox origin:** 
 - **Reference note:** [[Huang_2024_Hashimoto_LowCarb_MRI_R-002-0027]]
 
 ## Core Concepts Extracted
@@ -97,7 +97,7 @@ Beyond low-carb diet, additional improvements from:
 
 ## Structural Links
 - **Up:** [[MOC-Thyroid]] — Thematic domain
-- **Inbox:** [[INBOX-Article-4-Hashimoto]] — Raw origin
+- **Inbox:**  — Raw origin
 - **Index:** [[01-Literature-Index]] — Container
 
 ---
@@ -123,7 +123,7 @@ Beyond low-carb diet, additional improvements from:
 
 ## Connections
 - [[MOC-Thyroid]]
-- [[INBOX-Article-4-Hashimoto]]
+- 
 - [[Huang_2024_Hashimoto_LowCarb_MRI_R-002-0027]]
 
 ---

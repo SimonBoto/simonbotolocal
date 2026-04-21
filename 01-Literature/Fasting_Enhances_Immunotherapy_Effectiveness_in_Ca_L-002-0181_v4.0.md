@@ -5,8 +5,8 @@ source-origin: unknown
 title: "Fasting Enhances Immunotherapy Effectiveness in Cancer Patients"
 aliases:
   - L-002-0181
-source-inbox: [[INBOX-Article-12-Fasting-Immunotherapy]]
-source-litnote: [[INBOX-Article-12-Fasting-Immunotherapy]]
+source-inbox: 
+source-litnote: 
 authors: "Chen S, et al."
 year: "2026"
 journal: "Cell Metabolism"
@@ -34,7 +34,7 @@ tags:
 
 ## Source
 - **Full citation:** Chen S, et al. "16-hour fasting optimizes cancer immunotherapy in mice and humans." *Cell Metabolism*. 2026. doi:10.1016/j.cmet.2026.01.014. PMID: 41720105.
-- **Inbox origin:** [[INBOX-Article-12-Fasting-Immunotherapy]]
+- **Inbox origin:** 
 - **Reference note:** [[Chen_2026_16h_Fasting_Immunotherapy_R-002-0038]]
 
 ## Core Concepts Extracted
@@ -84,7 +84,7 @@ Fasting or fasting-mimicking diets enhance the effectiveness of immunotherapy in
 
 ## Connections
 - **MOC:** [[MOC-Cancer]] — Thematic domain
-- **INBOX:** [[INBOX-Article-12-Fasting-Immunotherapy]] — Article source
+- **INBOX:**  — Article source
 - **Reference:** [[Chen_2026_16h_Fasting_Immunotherapy_R-002-0038]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

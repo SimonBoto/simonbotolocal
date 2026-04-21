@@ -7,8 +7,8 @@ aliases:
   - "L-002-0229"
   - "CAC-Statin-Benefit"
   - "Calcium-Score-Stratification"
-source-inbox: [[INBOX-Article-44-CAC-Statin]]
-source-litnote: [[INBOX-Article-44-CAC-Statin]]
+source-inbox: 
+source-litnote: 
 authors: "Szilveszter B, et al."
 year: "2025"
 journal: "JACC Cardiovascular Imaging"
@@ -39,7 +39,7 @@ tags:
 ## Source
 - **Full citation:** Szilveszter B, et al. "Calcium score stratifies statin benefit." *JACC Cardiovasc Imaging*. 2025.
 - **Original Greek:** "Σκορ Ασβεστίου – Calcium Score"
-- **Inbox origin:** [[INBOX-Article-44-CAC-Statin]]
+- **Inbox origin:** 
 - **Reference note:** [[Szilveszter_2025_CAC_Statin_Benefit_R-002-0060]]
 
 ## Core Concepts Extracted
@@ -79,7 +79,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Cardiovascular-Health]] — Thematic domain
-- **INBOX:** [[INBOX-Article-44-CAC-Statin]] — Article source
+- **INBOX:**  — Article source
 - **Reference:** [[Szilveszter_2025_CAC_Statin_Benefit_R-002-0060]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

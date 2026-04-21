@@ -7,8 +7,8 @@ aliases:
   - "L-002-0217"
   - "Personalized-Vitamin-D"
   - "TARGET-D"
-source-inbox: [[INBOX-Article-34-Personalized-Vitamin-D]]
-source-litnote: [[INBOX-Article-34-Personalized-Vitamin-D]]
+source-inbox: 
+source-litnote: 
 authors: "May HT, et al."
 year: "2025"
 journal: "American Heart Association Scientific Sessions (Conference Abstract)"
@@ -39,7 +39,7 @@ tags:
 ## Source
 - **Full citation:** May HT, et al. "Heart attack risk halved in adults with heart disease taking tailored vitamin D doses." American Heart Association Scientific Sessions 2025, Abstract 4382525. November 9, 2025.
 - **Original Greek:** "Ο κίνδυνος εμφράγματος μειώθηκε στο μισό σε ενήλικες με καρδιαγγειακή νόσο που λάμβαναν εξατομικευμένες δόσεις βιταμίνης D"
-- **Inbox origin:** [[INBOX-Article-34-Personalized-Vitamin-D]]
+- **Inbox origin:** 
 - **Reference note:** [[May_2025_TARGET_D_Vitamin_D_Personalized_R-002-0055]]
 - **Note:** Conference abstract, not peer-reviewed publication
 
@@ -80,7 +80,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Nutrition]] — Thematic domain
-- **INBOX:** [[INBOX-Article-34-Personalized-Vitamin-D]] — Article source
+- **INBOX:**  — Article source
 - **Reference:** [[May_2025_TARGET_D_Vitamin_D_Personalized_R-002-0055]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

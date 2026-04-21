@@ -6,8 +6,8 @@ title: "Hong Kong: Highest Meat Consumption, Longest Lifespan (Meat-Longevity Pa
 aliases:
   - "L-002-0209"
   - "Hong-Kong-Meat-Longevity"
-source-inbox: [[INBOX-Article-28-Hong-Kong]]
-source-litnote: [[INBOX-Article-28-Hong-Kong]]
+source-inbox: 
+source-litnote: 
 authors: "WHO, FAO, Hong Kong Census and Statistics Department"
 year: "2020-2024"
 journal: "WHO Life Expectancy Reports, FAO Food Balance Sheets"
@@ -35,7 +35,7 @@ tags:
 
 ## Source
 - **Full citation:** WHO World Health Statistics 2023; FAO Food Balance Sheets 2020-2022; Hong Kong Census and Statistics Department. Data shows Hong Kong leads globally in both meat consumption (~145 kg/person/year) and life expectancy (~85.3 years).
-- **Inbox origin:** [[INBOX-Article-28-Hong-Kong]]
+- **Inbox origin:** 
 - **Reference note:** [[Hong_Kong_Meat_Longevity_Paradox_R-002-0049]]
 
 ## Core Concepts Extracted
@@ -75,7 +75,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Nutrition]] — Thematic domain
-- **INBOX:** [[INBOX-Article-28-Hong-Kong]] — Article source
+- **INBOX:**  — Article source
 - **Reference:** [[Hong_Kong_Meat_Longevity_Paradox_R-002-0049]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

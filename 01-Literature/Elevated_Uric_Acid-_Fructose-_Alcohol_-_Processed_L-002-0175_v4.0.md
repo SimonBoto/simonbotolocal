@@ -5,8 +5,8 @@ source-origin: unknown
 title: "Elevated Uric Acid: Fructose, Alcohol & Processed Foods (Chi 2024)"
 aliases:
   - L-002-0175
-source-inbox: [[INBOX-Article-17-Uric-Acid]]
-source-litnote: [[INBOX-Article-17-Uric-Acid]]
+source-inbox: 
+source-litnote: 
 authors: "Chi X, Cen Y, Yang B, et al."
 year: "2024"
 journal: "International Journal of Food Sciences and Nutrition"
@@ -35,7 +35,7 @@ tags:
 
 ## Source
 - **Full citation:** Chi X, Cen Y, Yang B, et al. "Effects of dietary factors on hyperuricaemia and gout: a systematic review and meta-analysis of observational studies." *Int J Food Sci Nutr*. 2024. doi:10.1080/09637486.2024.2400489. PMID: 39289820.
-- **Inbox origin:** [[INBOX-Article-17-Uric-Acid]]
+- **Inbox origin:** 
 - **Reference note:** [[Chi_2024_Fructose_UricAcid_Meta_R-002-0030]]
 
 ## Core Concepts Extracted
@@ -75,7 +75,7 @@ High fructose intake significantly increases hyperuricemia and gout risk through
 
 ## Connections
 - **MOC:** [[MOC-Metabolic-Syndrome]] — Thematic domain
-- **INBOX:** [[INBOX-Article-17-Uric-Acid]] — Article source
+- **INBOX:**  — Article source
 - **Reference:** [[Chi_2024_Fructose_UricAcid_Meta_R-002-0030]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

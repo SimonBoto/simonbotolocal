@@ -17,7 +17,7 @@ tier: SILVER
 relevance: "Medium - Institutional context for diabetes guidelines; pharma funding issues"
 status: complete
 parent-moc: [[MOC-Metabolic-Syndrome]]
-parent-index: [[01-Literature]]
+parent-index: 
 extraction-date: "2026-03-01"
 source-inbox: [[CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471]]
 source-litnote: [[CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471]]

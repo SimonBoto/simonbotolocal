@@ -7,8 +7,8 @@ aliases:
   - "L-002-0227"
   - "Carb-Restriction-CVD-Meta"
   - "Low-Carb-174-RCTs"
-source-inbox: [[INBOX-Article-42-Carb-Restriction-CVD]]
-source-litnote: [[INBOX-Article-42-Carb-Restriction-CVD]]
+source-inbox: 
+source-litnote: 
 authors: "Various"
 year: "2000-2024"
 journal: "Various (Meta-analysis of 174 RCTs)"
@@ -38,7 +38,7 @@ tags:
 ## Source
 - **Full citation:** Largest meta-analysis to date: 174 randomized controlled trials on carbohydrate restriction and cardiovascular risk factors. Various studies (2000-2024).
 - **Original Greek:** "Ο Περιορισμός των Υδατανθράκων Μειώνει τον Καρδιαγγειακό Κίνδυνο"
-- **Inbox origin:** [[INBOX-Article-42-Carb-Restriction-CVD]]
+- **Inbox origin:** 
 - **Reference note:** [[Low_Carb_Meta_Analysis_174_RCTs_R-002-0059]]
 
 ## Core Concepts Extracted
@@ -78,7 +78,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Metabolic-Syndrome]] — Thematic domain
-- **INBOX:** [[INBOX-Article-42-Carb-Restriction-CVD]] — Article source
+- **INBOX:**  — Article source
 - **Reference:** [[Low_Carb_Meta_Analysis_174_RCTs_R-002-0059]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

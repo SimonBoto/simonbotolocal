@@ -26,8 +26,8 @@ tags:
   - facebook-collection
 parent-index: [[01-Literature-Index]]
 parent-moc: [[MOC-Cancer]]
-source-inbox: [[INBOX-Article-1-Aspirin-Metastasis]]
-source-litnote: [[INBOX-Article-1-Aspirin-Metastasis]]
+source-inbox: 
+source-litnote: 
 extraction-date: 2026-04-05
 reference-count: 2
 zettel-count: 5
@@ -158,7 +158,7 @@ pmid: "40044852"
 
 ## Structural Links
 - **Up:** [[MOC-Cancer]] — Thematic domain
-- **Inbox:** [[INBOX-Article-1-Aspirin-Metastasis]] — Raw origin
+- **Inbox:**  — Raw origin
 - **Index:** [[01-Literature-Index]] — Container
 
 ---
@@ -176,7 +176,7 @@ pmid: "40044852"
 
 ## Connections
 - [[MOC-Cancer]]
-- [[INBOX-Article-1-Aspirin-Metastasis]]
+- 
 - [[Yang_2025_Aspirin_Metastasis_TXA2_Nature_R-001-0100]]
 - [[Patrono_Rocca_2025_NEJM_Aspirin_Metastasis_R-002-0036]]
 

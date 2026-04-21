@@ -5,8 +5,8 @@ source-origin: unknown
 title: "Personalized Nutrition Halves Heart Attack Risk (Bermingham 2024)"
 aliases:
   - "L-002-0180"
-source-inbox: [[INBOX-Article-19-Personalized-Nutrition]]
-source-litnote: [[INBOX-Article-19-Personalized-Nutrition]]
+source-inbox: 
+source-litnote: 
 authors: "Bermingham KM, Linenberg I, Polidori L, Asnicar F, Arrè A, Wolf J, et al."
 year: "2024"
 journal: "Nature Medicine"
@@ -34,7 +34,7 @@ tags:
 
 ## Source
 - **Full citation:** Bermingham KM, Linenberg I, Polidori L, et al. "Effects of a personalized nutrition program on cardiometabolic health: a randomized controlled trial." *Nat Med*. 2024;30(7):1888-1897. doi:10.1038/s41591-024-02951-6. PMID: 38714898.
-- **Inbox origin:** [[INBOX-Article-19-Personalized-Nutrition]]
+- **Inbox origin:** 
 - **Reference note:** [[Bermingham_2024_Personalized_Nutrition_RCT_R-002-0040]]
 
 ## Core Concepts Extracted
@@ -74,7 +74,7 @@ Personalized nutritional interventions based on individual metabolic profiles (p
 
 ## Connections
 - **MOC:** [[MOC-Clinical-Metabolomics]] — Thematic domain
-- **INBOX:** [[INBOX-Article-19-Personalized-Nutrition]] — Article source
+- **INBOX:**  — Article source
 - **Reference:** [[Bermingham_2024_Personalized_Nutrition_RCT_R-002-0040]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

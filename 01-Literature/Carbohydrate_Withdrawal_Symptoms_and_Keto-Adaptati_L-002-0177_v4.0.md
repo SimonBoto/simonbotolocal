@@ -5,8 +5,8 @@ source-origin: unknown
 title: "Carbohydrate Withdrawal Symptoms and Keto-Adaptation Timeline (Harvey 2019)"
 aliases:
   - L-002-0177
-source-inbox: [[INBOX-Article-18-Carb-Withdrawal]]
-source-litnote: [[INBOX-Article-18-Carb-Withdrawal]]
+source-inbox: 
+source-litnote: 
 authors: "Harvey CJDC, Schofield GM, Zinn C, Thornley S, et al."
 year: "2019"
 journal: "Nutrition"
@@ -34,7 +34,7 @@ tags:
 
 ## Source
 - **Full citation:** Harvey CJDC, Schofield GM, Zinn C, Thornley S, et al. "Effects of differing levels of carbohydrate restriction on mood, achievement of nutritional ketosis, and symptoms of carbohydrate withdrawal in healthy adults: a randomized clinical trial." *Nutrition*. 2019;67-68:110-116. doi:10.1016/j.nut.2019.06.007. PMID: 34332710.
-- **Inbox origin:** [[INBOX-Article-18-Carb-Withdrawal]]
+- **Inbox origin:** 
 - **Reference note:** [[Harvey_2019_Carb_Withdrawal_KetoAdaptation_R-002-0033]]
 
 ## Core Concepts Extracted
@@ -76,7 +76,7 @@ Carbohydrate restriction produces transient withdrawal symptoms (fatigue, irrita
 
 ## Connections
 - **MOC:** [[MOC-Metabolic-Syndrome]] — Thematic domain
-- **INBOX:** [[INBOX-Article-18-Carb-Withdrawal]] — Article source
+- **INBOX:**  — Article source
 - **Reference:** [[Harvey_2019_Carb_Withdrawal_KetoAdaptation_R-002-0033]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

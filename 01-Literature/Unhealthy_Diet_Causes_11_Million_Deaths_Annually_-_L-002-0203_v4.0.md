@@ -6,8 +6,8 @@ title: "Unhealthy Diet Causes 11 Million Deaths Annually (GBD 2017)"
 aliases:
   - "L-002-0203"
   - "Diet-11-Million-Deaths"
-source-inbox: [[INBOX-Article-22-Diet-Mortality]]
-source-litnote: [[INBOX-Article-22-Diet-Mortality]]
+source-inbox: 
+source-litnote: 
 authors: "GBD 2017 Diet Collaborators"
 year: "2019"
 journal: "The Lancet"
@@ -35,7 +35,7 @@ tags:
 
 ## Source
 - **Full citation:** GBD 2017 Diet Collaborators. "Health effects of dietary risks in 195 countries, 1990-2017: a systematic analysis for the Global Burden of Disease Study 2017." *Lancet*. 2019;393(10184):1958-1972. doi:10.1016/S0140-6736(19)30041-8. PMID: 30954305.
-- **Inbox origin:** [[INBOX-Article-22-Diet-Mortality]]
+- **Inbox origin:** 
 - **Reference note:** [[GBD_2017_Diet_11_Million_Deaths_R-002-0043]]
 
 ## Core Concepts Extracted
@@ -75,7 +75,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Diabetes]] — Thematic domain
-- **INBOX:** [[INBOX-Article-22-Diet-Mortality]] — Article source
+- **INBOX:**  — Article source
 - **Reference:** [[GBD_2017_Diet_11_Million_Deaths_R-002-0043]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

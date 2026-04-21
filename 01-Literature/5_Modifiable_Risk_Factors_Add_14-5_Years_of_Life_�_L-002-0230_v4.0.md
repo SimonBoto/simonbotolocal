@@ -7,8 +7,8 @@ aliases:
   - "L-002-0230"
   - "Five-Risk-Factors-14-Years"
   - "NEJM-2025-Longevity"
-source-inbox: [[INBOX-Article-45-Five-Risk-Factors]]
-source-litnote: [[INBOX-Article-45-Five-Risk-Factors]]
+source-inbox: 
+source-litnote: 
 authors: "Global Cardiovascular Risk Consortium (Mousavi SM, Gu X, Imamura F, et al.)"
 year: "2025"
 journal: "New England Journal of Medicine"
@@ -39,7 +39,7 @@ tags:
 ## Source
 - **Full citation:** Global Cardiovascular Risk Consortium. "Global effect of cardiovascular risk factors on lifetime estimates." *N Engl J Med*. 2025;392(15):e47. doi:10.1056/NEJMoa2415879
 - **Original Greek:** "5 Παράγοντες Κινδύνου που Μπορούν να Τροποποιηθούν και Συνδέονται με έως 14,5 Επιπλέον Χρόνια Ζωής"
-- **Inbox origin:** [[INBOX-Article-45-Five-Risk-Factors]]
+- **Inbox origin:** 
 - **Reference note:** [[NEJM_2025_Global_CV_Risk_Lifetime_Estimates_R-002-0037]]
 - **Study scale:** 2 million people, 39 countries
 
@@ -80,7 +80,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Global-Health]] — Thematic domain
-- **INBOX:** [[INBOX-Article-45-Five-Risk-Factors]] — Article source
+- **INBOX:**  — Article source
 - **Reference:** [[NEJM_2025_Global_CV_Risk_Lifetime_Estimates_R-002-0037]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

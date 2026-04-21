@@ -27,7 +27,7 @@ tags:
 source: [[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]]
 status: complete
 parent-moc: [[MOC-Research]]
-parent-index: [[01-Literature]]
+parent-index: 
 extraction-date: 2026-03-06
 source-inbox: [[CGPT_0551_Manuscript_Review_Critical_Concerns_CGPT-0551]]
 source-litnote: [[CGPT_0551_Manuscript_Review_Critical_Concerns_CGPT-0551]]

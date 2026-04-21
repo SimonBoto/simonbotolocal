@@ -5,8 +5,8 @@ source-origin: unknown
 title: "15-20 Min Exercise Weekly Reduces Mortality 16-40% (Polo-López 2024)"
 aliases:
   - L-002-0174
-source-inbox: [[INBOX-Article-16-Minimal-Exercise]]
-source-litnote: [[INBOX-Article-16-Minimal-Exercise]]
+source-inbox: 
+source-litnote: 
 authors: "Polo-López A, Calatayud J, López-Bueno L, et al."
 year: "2024"
 journal: "Progress in Cardiovascular Diseases"
@@ -34,7 +34,7 @@ tags:
 
 ## Source
 - **Full citation:** Polo-López A, Calatayud J, López-Bueno L, et al. "Dose-response association of accelerometer-measured physical activity with all-cause mortality and cardiovascular disease incidence: Prospective cohort study." *Prog Cardiovasc Dis*. 2024. doi:10.1016/j.pcad.2024.04.001
-- **Inbox origin:** [[INBOX-Article-16-Minimal-Exercise]]
+- **Inbox origin:** 
 - **Reference note:** [[PoloLopez_2024_Minimal_Exercise_Mortality_R-002-0032]]
 
 ## Core Concepts Extracted
@@ -76,7 +76,7 @@ Even **15-20 minutes of vigorous exercise per week** is associated with **16-40%
 
 ## Connections
 - **MOC:** [[MOC-Clinical-Metabolomics]] — Thematic domain
-- **INBOX:** [[INBOX-Article-16-Minimal-Exercise]] — Article source
+- **INBOX:**  — Article source
 - **Reference:** [[PoloLopez_2024_Minimal_Exercise_Mortality_R-002-0032]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

@@ -6,8 +6,8 @@ title: "Fried Potatoes in Seed Oils Increase Diabetes Risk 20% (Oxidized Omega-6
 aliases:
   - "L-002-0211"
   - "Fried-Potatoes-Seed-Oils-Diabetes"
-source-inbox: [[INBOX-Article-30-Fried-Potatoes]]
-source-litnote: [[INBOX-Article-30-Fried-Potatoes]]
+source-inbox: 
+source-litnote: 
 authors: "Multiple studies - frying oil oxidation, AGEs, diabetes epidemiology"
 year: "2015-2024"
 journal: "American Journal of Clinical Nutrition, Diabetes Care"
@@ -35,7 +35,7 @@ tags:
 
 ## Source
 - **Full citation:** Multiple epidemiological studies on fried food consumption and type 2 diabetes risk; lipid oxidation research on omega-6 fatty acids at high heat; advanced glycation end-product (AGE) formation in fried foods. Primary sources: American Journal of Clinical Nutrition, Diabetes Care 2015-2024.
-- **Inbox origin:** [[INBOX-Article-30-Fried-Potatoes]]
+- **Inbox origin:** 
 - **Reference note:** [[Fried_Potatoes_Seed_Oils_Diabetes_R-002-0051]]
 
 ## Core Concepts Extracted
@@ -75,7 +75,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Metabolic-Syndrome]] — Thematic domain
-- **INBOX:** [[INBOX-Article-30-Fried-Potatoes]] — Article source
+- **INBOX:**  — Article source
 - **Reference:** [[Fried_Potatoes_Seed_Oils_Diabetes_R-002-0051]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

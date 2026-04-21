@@ -6,8 +6,8 @@ title: "LDL Lowering Does Not Always Mean Greater Protection (Context-Dependent)
 aliases:
   - "L-002-0207"
   - "LDL-Lowering-Not-Always-Protection"
-source-inbox: [[INBOX-Article-26-LDL-Context]]
-source-litnote: [[INBOX-Article-26-LDL-Context]]
+source-inbox: 
+source-litnote: 
 authors: "IMPROVE-IT, PCSK9 Trial Investigators, CANTOS Group"
 year: "2015-2024"
 journal: "NEJM, Lancet, JACC"
@@ -36,7 +36,7 @@ tags:
 
 ## Source
 - **Full citation:** Multiple large RCTs including IMPROVE-IT (ezetimibe), FOURIER/ODYSSEY (PCSK9 inhibitors), and CANTOS (anti-inflammatory). Evidence synthesized from NEJM, Lancet, JACC 2015-2024.
-- **Inbox origin:** [[INBOX-Article-26-LDL-Context]]
+- **Inbox origin:** 
 - **Reference note:** [[LDL_Lowering_Context_Dependency_R-002-0047]]
 
 ## Core Concepts Extracted
@@ -76,7 +76,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Cholesterol-Quality]] — Thematic domain
-- **INBOX:** [[INBOX-Article-26-LDL-Context]] — Article source
+- **INBOX:**  — Article source
 - **Reference:** [[LDL_Lowering_Context_Dependency_R-002-0047]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

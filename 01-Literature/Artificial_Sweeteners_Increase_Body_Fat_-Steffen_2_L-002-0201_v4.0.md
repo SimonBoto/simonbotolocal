@@ -6,14 +6,14 @@ title: "Artificial Sweeteners Increase Body Fat (Steffen 2023, CARDIA)"
 aliases:
   - "L-002-0201"
   - "Artificial-Sweeteners-Body-Fat"
-source-inbox: [[INBOX-Article-20-Artificial-Sweeteners]]
-source-litnote: [[INBOX-Article-20-Artificial-Sweeteners]]
+source-inbox: 
+source-litnote: 
 
 # ANCHOR SYSTEM v5.0 — Connection Tracking
 anchors:
   up:
-    source-inbox: "[[INBOX-Article-20-Artificial-Sweeteners]] #source"
-    source-litnote: "[[INBOX-Article-20-Artificial-Sweeteners]] #source-lit"
+    source-inbox: " #source"
+    source-litnote: " #source-lit"
   down:
     zettels:
       - "[[Artificial_Sweeteners_Visceral_Fat_Z-002-0741]] #zettel-1"
@@ -52,7 +52,7 @@ tags:
 # Lit: Artificial Sweeteners Increase Body Fat
 
 ## 🔼 Source Anchor
-> **Origin:** [[INBOX-Article-20-Artificial-Sweeteners]] #source  
+> **Origin:**  #source  
 > **Citation:** [[Steffen_2023_Artificial_Sweeteners_CARDIA_R-002-0041]] #ref-1  
 > **DOI:** [10.1038/s41366-023-01336-y](https://doi.org/10.1038/s41366-023-01336-y)  
 > **Date:** 2026-04-04
@@ -107,7 +107,7 @@ Long-term artificial sweetener consumption (aspartame, saccharin) is associated 
 ---
 
 ## Connections
-- **UP:** [[INBOX-Article-20-Artificial-Sweeteners]] — Source #source
+- **UP:**  — Source #source
 - **DOWN:** 3 zettels extracted — #zettels-down
 - **SIDEWAYS:** [[R-002-0041]] — Citation #ref-1
 - **MOC:** [[MOC-Metabolic-Syndrome]] — Thematic domain

@@ -6,8 +6,8 @@ title: "Meat Consumption Eliminates Genetic Alzheimer Risk in APOE4 Carriers (No
 aliases:
   - "L-002-0206"
   - "Meat-Alzheimer-Genetic-Risk"
-source-inbox: [[INBOX-Article-25-Meat-Alzheimer]]
-source-litnote: [[INBOX-Article-25-Meat-Alzheimer]]
+source-inbox: 
+source-litnote: 
 authors: "Norgren J, et al."
 year: "2026"
 journal: "(pending publication)"
@@ -36,7 +36,7 @@ tags:
 
 ## Source
 - **Full citation:** Norgren J, et al. "Meat consumption and dementia risk in APOE4 carriers." *(Pending publication)*. 2026.
-- **Inbox origin:** [[INBOX-Article-25-Meat-Alzheimer]]
+- **Inbox origin:** 
 - **Reference note:** [[Norgren_2026_Meat_APOE4_Dementia_R-002-0046]]
 - **Press coverage:** ScienceDaily, Medical News Today, MedPage Today (April 2026)
 
@@ -77,7 +77,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Nutrition]] — Thematic domain
-- **INBOX:** [[INBOX-Article-25-Meat-Alzheimer]] — Article source
+- **INBOX:**  — Article source
 - **Reference:** [[Norgren_2026_Meat_APOE4_Dementia_R-002-0046]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

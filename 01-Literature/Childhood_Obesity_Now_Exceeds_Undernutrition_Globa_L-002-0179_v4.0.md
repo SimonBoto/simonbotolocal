@@ -5,8 +5,8 @@ source-origin: unknown
 title: "Childhood Obesity Now Exceeds Undernutrition Globally (Kavanagh 2026)"
 aliases:
   - L-002-0179
-source-inbox: [[INBOX-Article-10-Childhood-Obesity]]
-source-litnote: [[INBOX-Article-10-Childhood-Obesity]]
+source-inbox: 
+source-litnote: 
 authors: "Kavanagh ME, Chen ZH, Tamana SK, et al."
 year: "2026"
 journal: "JAMA Network Open"
@@ -34,7 +34,7 @@ tags:
 
 ## Source
 - **Full citation:** Kavanagh ME, Chen ZH, Tamana SK, et al. (2026). Ultra-processed food consumption and behavioral outcomes in children. *(Journal pending)*
-- **Inbox origin:** [[INBOX-Article-10-Childhood-Obesity]]
+- **Inbox origin:** 
 - **Reference note:** [[Kavanagh_2026_UPF_Children_Behavior_R-002-0023]]
 
 ## Core Concepts Extracted
@@ -74,7 +74,7 @@ For the **first time in human history**, obese children now outnumber undernouri
 
 ## Structural Links
 - **Up:** [[MOC-Metabolic-Syndrome]] — Thematic domain
-- **Inbox:** [[INBOX-Article-10-Childhood-Obesity]] — Raw origin
+- **Inbox:**  — Raw origin
 - **Index:** [[01-Literature-Index]] — Container
 
 ---
@@ -92,7 +92,7 @@ For the **first time in human history**, obese children now outnumber undernouri
 
 ## Connections
 - [[MOC-Metabolic-Syndrome]]
-- [[INBOX-Article-10-Childhood-Obesity]]
+- 
 - [[Kavanagh_2026_UPF_Children_Behavior_R-002-0023]]
 
 ---

@@ -5,8 +5,8 @@ source-origin: unknown
 title: "Lifestyle and Diet as Primary Disease Determinants (NEJM 2025)"
 aliases:
   - L-002-0178
-source-inbox: [[INBOX-Article-8-Lifestyle-Determinants]]
-source-litnote: [[INBOX-Article-8-Lifestyle-Determinants]]
+source-inbox: 
+source-litnote: 
 authors: "Global Cardiovascular Risk Consortium"
 year: "2025"
 journal: "New England Journal of Medicine"
@@ -35,7 +35,7 @@ tags:
 
 ## Source
 - **Full citation:** Global Effect of Cardiovascular Risk Factors on Lifetime Estimates. *New England Journal of Medicine*. March 2025.
-- **Inbox origin:** [[INBOX-Article-8-Lifestyle-Determinants]]
+- **Inbox origin:** 
 - **Reference note:** [[NEJM_2025_Global_CV_Risk_Lifetime_Estimates_R-002-0037]]
 
 ## Core Concepts Extracted
@@ -75,7 +75,7 @@ Five modifiable risk factors — high blood pressure, cholesterol, body weight, 
 
 ## Structural Links
 - **Up:** [[MOC-Metabolic-Syndrome]] — Thematic domain
-- **Inbox:** [[INBOX-Article-8-Lifestyle-Determinants]] — Raw origin
+- **Inbox:**  — Raw origin
 - **Index:** [[01-Literature-Index]] — Container
 
 ---
@@ -101,7 +101,7 @@ Five modifiable risk factors — high blood pressure, cholesterol, body weight, 
 
 ## Connections
 - [[MOC-Metabolic-Syndrome]]
-- [[INBOX-Article-8-Lifestyle-Determinants]]
+- 
 - [[NEJM_2025_Global_CV_Risk_Lifetime_Estimates_R-002-0037]]
 
 ---

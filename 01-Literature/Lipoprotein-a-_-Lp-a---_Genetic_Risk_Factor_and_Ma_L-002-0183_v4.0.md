@@ -5,8 +5,8 @@ source-origin: unknown
 title: "Lipoprotein(a) [Lp(a)]: Genetic Risk Factor and Management Strategies"
 aliases:
   - L-002-0183
-source-inbox: [[INBOX-Article-14-Lp(a)-Genetic-Risk]]
-source-litnote: [[INBOX-Article-14-Lp(a)-Genetic-Risk]]
+source-inbox: 
+source-litnote: 
 authors: "Kamstrup PR, Tybjaerg-Hansen A, Steffensen R, Nordestgaard BG"
 year: "2009"
 journal: "JAMA"
@@ -34,7 +34,7 @@ tags:
 
 ## Source
 - **Full citation:** Kamstrup PR, Tybjaerg-Hansen A, Steffensen R, Nordestgaard BG. "Genetically elevated lipoprotein(a) and increased risk of myocardial infarction." *JAMA*. 2009;301(22):2331-2339. doi:10.1001/jama.2009.801. PMID: 19509380.
-- **Inbox origin:** [[INBOX-Article-14-Lp(a)-Genetic-Risk]]
+- **Inbox origin:** 
 - **Reference note:** [[Kamstrup_2009_Lp(a)_Genetic_MI_Risk_R-002-0039]]
 
 ## Core Concepts Extracted
@@ -74,7 +74,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Cholesterol-Quality]] — Thematic domain
-- **INBOX:** [[INBOX-Article-14-Lp(a)-Genetic-Risk]] — Article source
+- **INBOX:**  — Article source
 - **Reference:** [[Kamstrup_2009_Lp(a)_Genetic_MI_Risk_R-002-0039]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

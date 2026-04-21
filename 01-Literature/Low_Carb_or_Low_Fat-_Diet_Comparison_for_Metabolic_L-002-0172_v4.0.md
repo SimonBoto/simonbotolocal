@@ -5,8 +5,8 @@ source-origin: unknown
 title: "Low Carb or Low Fat? Diet Comparison for Metabolic Health (Apekey 2022)"
 aliases:
   - L-002-0172
-source-inbox: [[INBOX-Article-6-Low-Carb-Low-Fat]]
-source-litnote: [[INBOX-Article-6-Low-Carb-Low-Fat]]
+source-inbox: 
+source-litnote: 
 authors: "Apekey TA, et al."
 year: "2022"
 journal: "Nutrients"
@@ -35,7 +35,7 @@ tags:
 
 ## Source
 - **Full citation:** Apekey TA, et al. (2022). Comparison of low carbohydrate and low fat diets in the management of type 2 diabetes: A systematic review and meta-analysis of randomized controlled trials. *Diabetes Research and Clinical Practice*. 191:109444. doi:10.1016/j.diabres.2022.109444
-- **Inbox origin:** [[INBOX-Article-6-Low-Carb-Low-Fat]]
+- **Inbox origin:** 
 - **Reference note:** [[Apekey_2022_LCD_LFD_T2D_Meta_R-002-0034]]
 
 ## Core Concepts Extracted
@@ -75,7 +75,7 @@ Low-carbohydrate diets are **superior to low-fat diets** for improving metabolic
 
 ## Structural Links
 - **Up:** [[MOC-Metabolic-Syndrome]] — Thematic domain
-- **Inbox:** [[INBOX-Article-6-Low-Carb-Low-Fat]] — Raw origin
+- **Inbox:**  — Raw origin
 - **Index:** [[01-Literature-Index]] — Container
 
 ---
@@ -101,7 +101,7 @@ Low-carbohydrate diets are **superior to low-fat diets** for improving metabolic
 
 ## Connections
 - [[MOC-Metabolic-Syndrome]]
-- [[INBOX-Article-6-Low-Carb-Low-Fat]]
+- 
 - [[Apekey_2022_LCD_LFD_T2D_Meta_R-002-0034]]
 
 ---

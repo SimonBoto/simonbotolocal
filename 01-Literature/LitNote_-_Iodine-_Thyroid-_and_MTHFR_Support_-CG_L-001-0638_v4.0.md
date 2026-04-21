@@ -16,7 +16,7 @@ parent-moc: [[MOC-Thyroid]]
 tags:
   - litnote
   - metabolism
-parent-index: [[01-Literature]]
+parent-index: 
 extraction-date: 2026-03-09
 source-litnote: [[CGPT-Source]]
 source: [[CGPT_0199_Dysbiosis_Treatment_Side_Effects_CGPT-0199]]

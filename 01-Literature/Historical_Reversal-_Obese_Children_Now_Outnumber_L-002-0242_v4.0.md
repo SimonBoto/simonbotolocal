@@ -7,8 +7,8 @@ aliases:
   - "L-002-0242"
   - "Obese-Children-Outnumber-Underweight"
   - "UNICEF-Childhood-Obesity"
-source-inbox: [[INBOX-Article-54-Obese-Children]]
-source-litnote: [[INBOX-Article-54-Obese-Children]]
+source-inbox: 
+source-litnote: 
 authors: "UNICEF"
 year: "2025"
 journal: "UNICEF Global Report"
@@ -38,7 +38,7 @@ tags:
 ## Source
 - **Full citation:** UNICEF. "A Historical Reversal: For the First Time Globally, Obese Children Outnumber Underweight Children." 2025.
 - **Original Greek:** "Μια Ιστορική Αναστροφή: Για Πρώτη Φορά Παγκοσμίως, τα Παιδιά με Παχυσαρκία είναι Περισσότερα από τα Παιδιά με Χαμηλό Βάρος"
-- **Inbox origin:** [[INBOX-Article-54-Obese-Children]]
+- **Inbox origin:** 
 - **Reference note:** [[UNICEF_Obese_Children_Outnumber_Underweight_R-002-0066]]
 
 ## Core Concepts Extracted
@@ -78,7 +78,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Global-Health]] — Thematic domain
-- **INBOX:** [[INBOX-Article-54-Obese-Children]] — Article source
+- **INBOX:**  — Article source
 - **Reference:** [[UNICEF_Obese_Children_Outnumber_Underweight_R-002-0066]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

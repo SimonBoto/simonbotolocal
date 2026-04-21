@@ -16,7 +16,7 @@ tier: SILVER
 relevance: High - Diagnostic challenge, clinical pearls, bone marrow interpretation
 status: complete
 parent-moc: [[MOC-Biomarkers]]
-parent-index: [[02-Literature]]
+parent-index: 
 extraction-date: "2026-03-01"
 source-inbox: [[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]
 source-litnote: [[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]

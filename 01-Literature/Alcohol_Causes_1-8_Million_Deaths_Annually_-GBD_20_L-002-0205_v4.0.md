@@ -6,8 +6,8 @@ title: "Alcohol Causes 1.8 Million Deaths Annually (GBD 2019)"
 aliases:
   - "L-002-0205"
   - "Alcohol-1.8M-Deaths"
-source-inbox: [[INBOX-Article-24-Alcohol]]
-source-litnote: [[INBOX-Article-24-Alcohol]]
+source-inbox: 
+source-litnote: 
 authors: "GBD 2019 Alcohol Collaborators"
 year: "2020"
 journal: "The Lancet"
@@ -34,7 +34,7 @@ tags:
 
 ## Source
 - **Full citation:** GBD 2019 Alcohol Collaborators. "Alcohol use and burden for 195 countries and territories, 1990-2019: a systematic analysis for the Global Burden of Disease Study 2019." *Lancet*. 2020;396(10252):1051-1063. doi:10.1016/S0140-6736(20)31344-5. PMID: 32894885.
-- **Inbox origin:** [[INBOX-Article-24-Alcohol]]
+- **Inbox origin:** 
 - **Reference note:** [[GBD_2019_Alcohol_1.8M_Deaths_R-002-0045]]
 
 ## Core Concepts Extracted
@@ -74,7 +74,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Diabetes]] — Thematic domain
-- **INBOX:** [[INBOX-Article-24-Alcohol]] — Article source
+- **INBOX:**  — Article source
 - **Reference:** [[GBD_2019_Alcohol_1.8M_Deaths_R-002-0045]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

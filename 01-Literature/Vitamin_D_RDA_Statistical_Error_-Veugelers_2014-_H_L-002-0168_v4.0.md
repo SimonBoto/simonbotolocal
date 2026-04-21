@@ -6,8 +6,8 @@ title: "Vitamin D RDA Statistical Error (Veugelers 2014, Heaney 2015)"
 aliases:
   - "L-002-0168"
   - "Vitamin-D-RDA-Error"
-source-inbox: [[INBOX-Article-2-Vitamin-D]]
-source-litnote: [[INBOX-Article-2-Vitamin-D]]
+source-inbox: 
+source-litnote: 
 authors: "Veugelers PJ, Ekwaru JP; Heaney RP et al."
 year: "2014, 2015"
 journal: "Nutrients"
@@ -38,7 +38,7 @@ tags:
 - **Full citation:** 
   - Veugelers PJ, Ekwaru JP (2014). A Statistical Error in the Estimation of the Recommended Dietary Allowance for Vitamin D. *Nutrients*. 6(10):4472-4475. doi:10.3390/nu6104472
   - Heaney RP et al. (2015). Letter to Veugelers and Ekwaru, "A Statistical Error in the Estimation of the Recommended Dietary Allowance for Vitamin D". *Nutrients*. 7(3):1688-1690. doi:10.3390/nu7031688
-- **Inbox origin:** [[INBOX-Article-2-Vitamin-D]]
+- **Inbox origin:** 
 - **Reference notes:** 
   - [[Veugelers_Ekwaru_2014_Vitamin_D_Statistical_Error_R-002-0004]] — Primary statistical error study
   - [[Heaney_2015_Vitamin_D_Requirements_R-002-0005]] — Confirmation and 30 ng/mL analysis
@@ -104,7 +104,7 @@ The Institute of Medicine's 2011 RDA of 600 IU/day for vitamin D was based on a 
 
 ## Structural Links
 - **Up:** [[MOC-Vitamin-Mineral-Axis]] — Thematic domain
-- **Inbox:** [[INBOX-Article-2-Vitamin-D]] — Raw origin
+- **Inbox:**  — Raw origin
 - **Index:** [[01-Literature-Index]] — Container
 
 ---
@@ -130,7 +130,7 @@ The Institute of Medicine's 2011 RDA of 600 IU/day for vitamin D was based on a 
 
 ## Connections
 - [[MOC-Vitamin-Mineral-Axis]]
-- [[INBOX-Article-2-Vitamin-D]]
+- 
 - [[Veugelers_Ekwaru_2014_Vitamin_D_Statistical_Error_R-002-0004]]
 - [[Heaney_2015_Vitamin_D_Requirements_R-002-0005]]
 

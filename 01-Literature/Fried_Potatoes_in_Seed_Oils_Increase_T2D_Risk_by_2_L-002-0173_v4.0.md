@@ -5,8 +5,8 @@ source-origin: unknown
 title: "Fried Potatoes in Seed Oils Increase T2D Risk by 20% (Mousavi 2025)"
 aliases:
   - L-002-0173
-source-inbox: [[INBOX-Article-7-Fried-Potatoes]]
-source-litnote: [[INBOX-Article-7-Fried-Potatoes]]
+source-inbox: 
+source-litnote: 
 authors: "Mousavi SM, et al."
 year: "2025"
 journal: "BMJ"
@@ -35,7 +35,7 @@ tags:
 
 ## Source
 - **Full citation:** Mousavi SM, et al. (2025). Fried potato consumption and risk of type 2 diabetes: prospective cohort studies. *BMJ*. doi:10.1136/bmj-2024-082121
-- **Inbox origin:** [[INBOX-Article-7-Fried-Potatoes]]
+- **Inbox origin:** 
 - **Reference note:** [[Mousavi_2025_Potato_T2D_BMJ_R-002-0029]]
 
 ## Core Concepts Extracted
@@ -75,7 +75,7 @@ Consumption of fried potatoes in seed oils increases type 2 diabetes risk by app
 
 ## Structural Links
 - **Up:** [[MOC-Metabolic-Syndrome]] — Thematic domain
-- **Inbox:** [[INBOX-Article-7-Fried-Potatoes]] — Raw origin
+- **Inbox:**  — Raw origin
 - **Index:** [[01-Literature-Index]] — Container
 
 ---
@@ -101,7 +101,7 @@ Consumption of fried potatoes in seed oils increases type 2 diabetes risk by app
 
 ## Connections
 - [[MOC-Metabolic-Syndrome]]
-- [[INBOX-Article-7-Fried-Potatoes]]
+- 
 - [[Mousavi_2025_Potato_T2D_BMJ_R-002-0029]]
 
 ---

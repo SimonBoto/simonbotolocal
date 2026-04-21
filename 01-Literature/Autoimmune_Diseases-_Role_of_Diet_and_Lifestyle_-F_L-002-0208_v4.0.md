@@ -6,8 +6,8 @@ title: "Autoimmune Diseases: Role of Diet and Lifestyle (Fasano, AIP)"
 aliases:
   - "L-002-0208"
   - "Autoimmune-Diet-Lifestyle"
-source-inbox: [[INBOX-Article-27-Autoimmune]]
-source-litnote: [[INBOX-Article-27-Autoimmune]]
+source-inbox: 
+source-litnote: 
 authors: "Fasano A, et al.; AIP trial investigators"
 year: "2012-2024"
 journal: "Clin Rev Allergy Immunol, Various"
@@ -36,7 +36,7 @@ tags:
 
 ## Source
 - **Full citation:** Fasano A. "Leaky gut and autoimmune diseases." *Clin Rev Allergy Immunol*. 2012;42(1):71-78. Plus AIP clinical trials 2017-2024.
-- **Inbox origin:** [[INBOX-Article-27-Autoimmune]]
+- **Inbox origin:** 
 - **Reference note:** [[Autoimmune_Diet_Lifestyle_R-002-0048]]
 
 ## Core Concepts Extracted
@@ -76,7 +76,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Autoimmune]] — Thematic domain
-- **INBOX:** [[INBOX-Article-27-Autoimmune]] — Article source
+- **INBOX:**  — Article source
 - **Reference:** [[Autoimmune_Diet_Lifestyle_R-002-0048]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

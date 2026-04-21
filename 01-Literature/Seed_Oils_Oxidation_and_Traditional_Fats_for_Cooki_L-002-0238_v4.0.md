@@ -7,8 +7,8 @@ aliases:
   - "L-002-0238"
   - "Seed-Oils-Oxidation-Traditional-Fats"
   - "Seed-Oils-Health"
-source-inbox: [[INBOX-Article-51-Seed-Oils]]
-source-litnote: [[INBOX-Article-51-Seed-Oils]]
+source-inbox: 
+source-litnote: 
 authors: "Mousavi SM, et al.; Grootveld M, et al.; Tsoukalas D, et al."
 year: "2018-2025"
 journal: "BMJ; Hepatobiliary Surg Nutr; BMJ Nutr Prev Health"
@@ -45,7 +45,7 @@ tags:
   4. Tsoukalas D, et al. "Metabolomics-based treatment for chronic diseases." *BMJ Nutr Prev Health*. 2024.
   5. Sarandi E, Tsoukalas D. "Metabolic profiling in chronic diseases." *Adv Clin Chem*. 2021.
 - **Original Greek:** "Σπορέλαια και Παραδοσιακά Λιπαρά"
-- **Inbox origin:** [[INBOX-Article-51-Seed-Oils]]
+- **Inbox origin:** 
 - **Reference notes:**
   - [[Mousavi_2025_Potato_T2D_BMJ_R-002-0029]]
   - [[Grootveld_2018_Lipid_Oxidation_Fried_Foods_R-002-0051b]]
@@ -94,7 +94,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Nutrition]] — Thematic domain
-- **INBOX:** [[INBOX-Article-51-Seed-Oils]] — Article source
+- **INBOX:**  — Article source
 - **References:** Multiple (see above) — Primary sources
 - **Index:** [[01-Literature-Index]] — Container
 

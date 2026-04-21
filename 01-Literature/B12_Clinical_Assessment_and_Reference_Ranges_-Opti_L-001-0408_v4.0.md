@@ -17,7 +17,7 @@ tier: SILVER
 relevance: High - Clinical decision-making, optimal vs. standard ranges, METHAP monitoring
 status: complete
 parent-moc: [[MOC-Biomarkers]]
-parent-index: [[02-Literature]]
+parent-index: 
 extraction-date: "2026-03-01"
 source-inbox: [[CGPT_0113_Optimal_Biochemical_Ranges_Assessment_CGPT-0113]]
 source-litnote: [[CGPT_0113_Optimal_Biochemical_Ranges_Assessment_CGPT-0113]]

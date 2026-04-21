@@ -5,8 +5,8 @@ source-origin: unknown
 title: "High-Fat Cheese Linked to Reduced Dementia Risk (Du 2026)"
 aliases:
   - L-002-0176
-source-inbox: [[INBOX-Article-11-Cheese-Dementia]]
-source-litnote: [[INBOX-Article-11-Cheese-Dementia]]
+source-inbox: 
+source-litnote: 
 authors: "Du Y, Borné Y, Samuelsson J, Glans I, Hu X, Nägga K, et al."
 year: "2026"
 journal: "Neurology"
@@ -35,7 +35,7 @@ tags:
 
 ## Source
 - **Full citation:** Du Y, Borné Y, Samuelsson J, et al. (2026). High- and low-fat dairy consumption and long-term risk of dementia: evidence from a 25-year prospective cohort study. *Neurology*. 104(2):e2104343. doi:10.1212/WNL.0000000000214343
-- **Inbox origin:** [[INBOX-Article-11-Cheese-Dementia]]
+- **Inbox origin:** 
 - **Reference note:** [[Du_2026_HighFat_Dairy_Dementia_25yr_R-002-0031]]
 
 ## Core Concepts Extracted
@@ -75,7 +75,7 @@ High-fat dairy consumption, particularly cheese, is associated with **reduced lo
 
 ## Connections
 - **MOC:** [[MOC-Lipid-Metabolism]] — Thematic domain
-- **INBOX:** [[INBOX-Article-11-Cheese-Dementia]] — Article source
+- **INBOX:**  — Article source
 - **Reference:** [[Du_2026_HighFat_Dairy_Dementia_25yr_R-002-0031]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 
