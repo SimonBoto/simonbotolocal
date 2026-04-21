@@ -1,3 +1,12 @@
+---
+uid: PROJECT-PHD-033
+type: project
+title: "The Triangle v2.0 — Superoptimization Architecture"
+status: architecture-design
+date: 2026-04-09
+priority: P0
+---
+
 # PROJECT: The Triangle v2.0 — Superoptimization Architecture
 
 **Status:** Architecture Design  

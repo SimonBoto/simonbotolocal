@@ -1,3 +1,12 @@
+---
+uid: PROJECT-PHD-032
+type: project
+title: "AutoResearch for Knowledge — Autonomous CGPT Extraction"
+status: proposed
+date: 2026-04-09
+priority: P1
+---
+
 # PROJECT: AutoResearch for Knowledge — Autonomous CGPT Extraction
 
 **Status:** Proposed  
