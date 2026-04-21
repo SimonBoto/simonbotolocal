@@ -7,7 +7,7 @@ date: 2026-04-20
 
 # Issue Backlog
 
-**Last updated:** 2026-04-20 18:30  
+**Last updated:** 2026-04-21 10:45  
 **Auto-refresh:** Daily at 08:00, or on issue status change
 
 ---
@@ -16,19 +16,23 @@ date: 2026-04-20
 
 | ID | Title | Assignee | Energy | Created | Notes |
 |----|-------|----------|--------|---------|-------|
-| — | — | — | — | — | No P0 issues |
+| ISSUE-014 | Process 5 P0 Inbox Items — Triangle v2.0 Synthesis | RON | 2h / $1.50 | 2026-04-21 | Synthesis-ready inputs |
+| ISSUE-015 | FORG Zettel Sprint — 25 P0 LitNotes | FORG | 4h / $1.00 | 2026-04-21 | Zero zettels, high value |
 
 ## P1 — Next Up
 
 | ID | Title | Assignee | Energy | Created | Notes |
 |----|-------|----------|--------|---------|-------|
-| — | — | — | — | — | No P1 issues |
+| ISSUE-016 | PhD Parallel Work — 10 GOLD Refs + 2 P1 Hypotheses | RON | 6h / $2.00 | 2026-04-21 | No university dependency |
+| ISSUE-017 | AutoResearch Pilot — Design program-RON.md | RON | 3h / $1.00 | 2026-04-21 | Karpathy + CORAL pattern |
+| ISSUE-019 | CGPT Reservoir — Process 671 Pending Conversations | FORG+SCOUT+RON | 40h / $10.00 | 2026-04-21 | Major backlog, needs ISSUE-017 |
 
 ## P2 — Soon
 
 | ID | Title | Assignee | Energy | Created | Notes |
 |----|-------|----------|--------|---------|-------|
-| — | — | — | — | — | No P2 issues |
+| ISSUE-018 | Memory Semantic Search — OpenRouter Config | RON | 30m / $0.10 | 2026-04-21 | Optional enhancement |
+| ISSUE-020 | Orphan Zettel Reconnection — 312 Orphans | RON | 4h / $1.50 | 2026-04-21 | Deferred, non-blocking |
 
 ## Icebox — Maybe Never
 
@@ -42,12 +46,12 @@ date: 2026-04-20
 
 | Metric | Count |
 |--------|-------|
-| Total issues | 0 |
-| P0 | 0 |
-| P1 | 0 |
-| P2 | 0 |
+| Total issues | 7 |
+| P0 | 2 |
+| P1 | 3 |
+| P2 | 2 |
 | Icebox | 0 |
-| Completed (this week) | 0 |
+| Completed (this week) | 1 |
 
 ---
 
