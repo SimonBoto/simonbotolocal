@@ -7,8 +7,8 @@ aliases:
   - "L-002-0224"
   - "Metabolism-Heart-Health"
   - "Insulin-14x-CAD"
-source-inbox: [[INBOX-Article-39-Metabolism-Heart]]
-source-litnote: [[INBOX-Article-39-Metabolism-Heart]]
+source-inbox: [[INBOX-Source-Facebook]]
+source-litnote: [[INBOX-Source-Facebook]]
 authors: "Pasut A, et al.; Various"
 year: "2010-2025"
 journal: "Nature Reviews Cardiology; Various"
@@ -40,7 +40,7 @@ tags:
   1. Pasut A, et al. "Endothelial cell metabolism in cardiovascular disease." *Nature Reviews Cardiology*. 2025.
   2. Various metabolic cardiology studies on insulin resistance and CAD risk (2010-2025)
 - **Original Greek:** "Μεταβολισμός & Υγεία της Καρδιάς"
-- **Inbox origin:** [[INBOX-Article-39-Metabolism-Heart]]
+- **Inbox origin:** [[INBOX-Source-Facebook]]
 - **Reference notes:**
   - [[Pasut_2025_Endothelial_Metabolism_R-001-0082]]
   - [[Insulin_Resistance_14x_CAD_Risk_Literature_R-002-0058]]
@@ -83,7 +83,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Cardiovascular-Health]] — Thematic domain
-- **INBOX:** [[INBOX-Article-39-Metabolism-Heart]] — Article source
+- **INBOX:** [[INBOX-Source-Facebook]] — Article source
 - **References:** Multiple (see above) — Primary sources
 - **Index:** [[01-Literature-Index]] — Container
 

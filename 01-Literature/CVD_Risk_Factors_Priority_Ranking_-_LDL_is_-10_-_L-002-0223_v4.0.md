@@ -7,8 +7,8 @@ aliases:
   - "L-002-0223"
   - "CVD-Risk-Factors-Ranking"
   - "LDL-Number-10"
-source-inbox: [[INBOX-Article-38-CVD-Risk-Ranking]]
-source-litnote: [[INBOX-Article-38-CVD-Risk-Ranking]]
+source-inbox: [[INBOX-Source-Facebook]]
+source-litnote: [[INBOX-Source-Facebook]]
 authors: "Dugani SB, et al.; Ikezaki H, et al.; Diamond DM, et al."
 year: "2021-2022"
 journal: "JAMA Cardiology; JAHA; Curr Opin Endocrinol"
@@ -42,7 +42,7 @@ tags:
   2. Ikezaki H, et al. "Small Dense Low-Density Lipoprotein Cholesterol Is the Most Atherogenic Lipoprotein Parameter in the Prospective Framingham Offspring Study." *J Am Heart Assoc*. 2021.
   3. Diamond DM, et al. "Statin therapy is not warranted for a person with high LDL-cholesterol on a low-carbohydrate diet." *Curr Opin Endocrinol Diabetes Obes*. 2022.
 - **Original Greek:** "Οι κύριοι παράγοντες κινδύνου για την ανάπτυξη καρδιαγγειακής νόσου"
-- **Inbox origin:** [[INBOX-Article-38-CVD-Risk-Ranking]]
+- **Inbox origin:** [[INBOX-Source-Facebook]]
 - **Reference notes:**
   - [[Dugani_2021_Biomarkers_CHD_Women_R-001-0103]]
   - [[Ikezaki_2021_Small_Dense_LDL_Framingham_R-001-0007]]
@@ -87,7 +87,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Cardiovascular-Health]] — Thematic domain
-- **INBOX:** [[INBOX-Article-38-CVD-Risk-Ranking]] — Article source
+- **INBOX:** [[INBOX-Source-Facebook]] — Article source
 - **References:** Multiple (see above) — Primary sources
 - **Index:** [[01-Literature-Index]] — Container
 

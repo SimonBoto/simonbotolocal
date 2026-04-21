@@ -7,8 +7,8 @@ aliases:
   - "L-002-0233"
   - "Fatigue-Mitochondrial-Message"
   - "Mitochondrial-Dysfunction"
-source-inbox: [[INBOX-Article-46-Fatigue-Mitochondrial]]
-source-litnote: [[INBOX-Article-46-Fatigue-Mitochondrial]]
+source-inbox: [[INBOX-Source-Facebook]]
+source-litnote: [[INBOX-Source-Facebook]]
 authors: "Various"
 year: "2010-2025"
 journal: "Various"
@@ -38,7 +38,7 @@ tags:
 ## Source
 - **Full citation:** Various studies on fatigue, mitochondrial dysfunction, and metabolomic interventions (2010-2025).
 - **Original Greek:** "Η Κούραση Είναι Μήνυμα του Οργανισμού που Δεν Πρέπει να Αγνοούμε"
-- **Inbox origin:** [[INBOX-Article-46-Fatigue-Mitochondrial]]
+- **Inbox origin:** [[INBOX-Source-Facebook]]
 - **Reference note:** [[Fatigue_Mitochondrial_Dysfunction_Literature_R-002-0061]]
 
 ## Core Concepts Extracted
@@ -78,7 +78,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Mitochondrial-Function]] — Thematic domain
-- **INBOX:** [[INBOX-Article-46-Fatigue-Mitochondrial]] — Article source
+- **INBOX:** [[INBOX-Source-Facebook]] — Article source
 - **Reference:** [[Fatigue_Mitochondrial_Dysfunction_Literature_R-002-0061]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

@@ -7,8 +7,8 @@ aliases:
   - "L-002-0239"
   - "Twelve-Actions-Better-Health-2026"
   - "12-Actions-Health"
-source-inbox: [[INBOX-Article-52-Twelve-Actions]]
-source-litnote: [[INBOX-Article-52-Twelve-Actions]]
+source-inbox: [[INBOX-Article-31-Twelve-Actions]]
+source-litnote: [[INBOX-Article-31-Twelve-Actions]]
 authors: "Various"
 year: "2026"
 journal: "Lifestyle Medicine / Clinical Synthesis"
@@ -38,7 +38,7 @@ tags:
 ## Source
 - **Full citation:** Synthesis of lifestyle medicine recommendations for health optimization in 2026. Based on literature review and clinical experience.
 - **Original Greek:** "Δώδεκα Ενέργειες για Καλύτερη Υγεία το 2026"
-- **Inbox origin:** [[INBOX-Article-52-Twelve-Actions]]
+- **Inbox origin:** [[INBOX-Article-31-Twelve-Actions]]
 - **Reference note:** [[Twelve_Actions_Better_Health_2026_R-002-0064]]
 
 ## Core Concepts Extracted
@@ -78,7 +78,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Lifestyle-Medicine]] — Thematic domain
-- **INBOX:** [[INBOX-Article-52-Twelve-Actions]] — Article source
+- **INBOX:** [[INBOX-Article-31-Twelve-Actions]] — Article source
 - **Reference:** [[Twelve_Actions_Better_Health_2026_R-002-0064]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

@@ -7,8 +7,8 @@ aliases:
   - "L-002-0226"
   - "Coffee-Dementia-Risk"
   - "Caffeine-Neuroprotection"
-source-inbox: [[INBOX-Article-41-Coffee-Dementia]]
-source-litnote: [[INBOX-Article-41-Coffee-Dementia]]
+source-inbox: [[INBOX-Source-Facebook]]
+source-litnote: [[INBOX-Source-Facebook]]
 authors: "Zhang Y, Liu Y, Li Y, et al."
 year: "2026"
 journal: "JAMA"
@@ -39,7 +39,7 @@ tags:
 ## Source
 - **Full citation:** Zhang Y, Liu Y, Li Y, et al. "Coffee and tea intake, dementia risk, and cognitive function." *JAMA*. 2026 Feb 9.
 - **Original Greek:** "Ο καφές μειώνει τον κίνδυνο άνοιας"
-- **Inbox origin:** [[INBOX-Article-41-Coffee-Dementia]]
+- **Inbox origin:** [[INBOX-Source-Facebook]]
 - **Reference note:** [[Zhang_2026_Coffee_Tea_Dementia_R-001-0094]]
 
 ## Core Concepts Extracted
@@ -79,7 +79,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Cognitive-Health]] — Thematic domain
-- **INBOX:** [[INBOX-Article-41-Coffee-Dementia]] — Article source
+- **INBOX:** [[INBOX-Source-Facebook]] — Article source
 - **Reference:** [[Zhang_2026_Coffee_Tea_Dementia_R-001-0094]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

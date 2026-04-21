@@ -7,8 +7,8 @@ aliases:
   - "L-002-0240"
   - "Lifestyle-Diet-Modifiable-Factors"
   - "BMJ-95-Percent"
-source-inbox: [[INBOX-Article-53-Lifestyle-Diet]]
-source-litnote: [[INBOX-Article-53-Lifestyle-Diet]]
+source-inbox: [[INBOX-Source-Facebook]]
+source-litnote: [[INBOX-Source-Facebook]]
 authors: "Various"
 year: "2020-2025"
 journal: "BMJ Nutrition, Prevention & Health"
@@ -40,7 +40,7 @@ tags:
 ## Source
 - **Full citation:** BMJ Nutrition, Prevention & Health. Metabolomic-based deficiency correction and health improvement in chronic disease patients.
 - **Original Greek:** "Οι Πιο Καθοριστικοί Παράγοντες Νόσου Οφείλονται στον Τρόπο Ζωής και Στη Διατροφή"
-- **Inbox origin:** [[INBOX-Article-53-Lifestyle-Diet]]
+- **Inbox origin:** [[INBOX-Source-Facebook]]
 - **Reference note:** [[BMJ_Modifiable_Factors_95_Improvement_R-002-0065]]
 
 ## Core Concepts Extracted
@@ -80,7 +80,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Lifestyle-Medicine]] — Thematic domain
-- **INBOX:** [[INBOX-Article-53-Lifestyle-Diet]] — Article source
+- **INBOX:** [[INBOX-Source-Facebook]] — Article source
 - **Reference:** [[BMJ_Modifiable_Factors_95_Improvement_R-002-0065]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

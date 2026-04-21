@@ -7,8 +7,8 @@ aliases:
   - "L-002-0225"
   - "Lpa-Mechanism-Management"
   - "Lipoprotein-a"
-source-inbox: [[INBOX-Article-40-Lpa-Mechanism]]
-source-litnote: [[INBOX-Article-40-Lpa-Mechanism]]
+source-inbox: [[INBOX-Source-Facebook]]
+source-litnote: [[INBOX-Source-Facebook]]
 authors: "Kamstrup PR, et al.; Various"
 year: "2009-2025"
 journal: "JAMA; Various"
@@ -39,7 +39,7 @@ tags:
 ## Source
 - **Full citation:** Kamstrup PR, Tybjaerg-Hansen A, Steffensen R, Nordestgaard BG. "Genetically elevated lipoprotein(a) and increased risk of myocardial infarction." *JAMA*. 2009;301(22):2331-2339. Plus Lp(a) mechanism and risk literature.
 - **Original Greek:** "Λιποπρωτεΐνη Άλφα ή Lp(a), τι Είναι και τι Μπορούμε να Κάνουμε"
-- **Inbox origin:** [[INBOX-Article-40-Lpa-Mechanism]]
+- **Inbox origin:** [[INBOX-Source-Facebook]]
 - **Reference note:** [[Kamstrup_2009_Lp(a)_Genetic_MI_Risk_R-002-0039]]
 
 ## Core Concepts Extracted
@@ -79,7 +79,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Cholesterol-Lipid]] — Thematic domain
-- **INBOX:** [[INBOX-Article-40-Lpa-Mechanism]] — Article source
+- **INBOX:** [[INBOX-Source-Facebook]] — Article source
 - **Reference:** [[Kamstrup_2009_Lp(a)_Genetic_MI_Risk_R-002-0039]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

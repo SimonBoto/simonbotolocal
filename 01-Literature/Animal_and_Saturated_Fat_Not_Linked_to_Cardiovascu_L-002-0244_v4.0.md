@@ -7,8 +7,8 @@ aliases:
   - "L-002-0244"
   - "Animal-Saturated-Fat-Not-Mortality"
   - "Tokyo-Fat-Study"
-source-inbox: [[INBOX-Article-55-Animal-Fat]]
-source-litnote: [[INBOX-Article-55-Animal-Fat]]
+source-inbox: [[INBOX-Source-Facebook]]
+source-litnote: [[INBOX-Source-Facebook]]
 authors: "University of Tokyo"
 year: "2020-2025"
 journal: "University of Tokyo Research"
@@ -39,7 +39,7 @@ tags:
 ## Source
 - **Full citation:** University of Tokyo. "Restriction of Animal and Saturated Fats Not Associated with Reduced Death Risk."
 - **Original Greek:** "Ο Περιορισμός Ζωικών και Κορεσμένων Λιπαρών δεν Συνδέεται με Μείωση του Κινδύνου Θανάτου"
-- **Inbox origin:** [[INBOX-Article-55-Animal-Fat]]
+- **Inbox origin:** [[INBOX-Source-Facebook]]
 - **Reference note:** [[Tokyo_Animal_Saturated_Fat_Not_Mortality_R-002-0067]]
 
 ## Core Concepts Extracted
@@ -79,7 +79,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Cholesterol-Lipid]] — Thematic domain
-- **INBOX:** [[INBOX-Article-55-Animal-Fat]] — Article source
+- **INBOX:** [[INBOX-Source-Facebook]] — Article source
 - **Reference:** [[Tokyo_Animal_Saturated_Fat_Not_Mortality_R-002-0067]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

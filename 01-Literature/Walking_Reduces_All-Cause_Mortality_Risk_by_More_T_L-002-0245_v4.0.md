@@ -7,8 +7,8 @@ aliases:
   - "L-002-0245"
   - "Walking-Mortality-Reduction"
   - "8000-Steps-JAMA"
-source-inbox: [[INBOX-Article-56-Walking-Mortality]]
-source-litnote: [[INBOX-Article-56-Walking-Mortality]]
+source-inbox: [[INBOX-Source-Facebook]]
+source-litnote: [[INBOX-Source-Facebook]]
 authors: "Paluch AE, et al."
 year: "2023"
 journal: "JAMA Network Open"
@@ -38,7 +38,7 @@ tags:
 ## Source
 - **Full citation:** Paluch AE, et al. "Association of Daily Step Patterns With Mortality in US Adults." *JAMA Netw Open*. 2023. doi:10.1001/jamanetworkopen.2023.5174
 - **Original:** Facebook Posts Collection, Article 65
-- **Inbox origin:** [[INBOX-Article-56-Walking-Mortality]]
+- **Inbox origin:** [[INBOX-Source-Facebook]]
 - **Reference note:** [[Paluch_2023_Walking_Mortality_JAMA_R-002-0068]]
 - **Type:** Prospective cohort study
 
@@ -81,7 +81,7 @@ tags:
 - **MOC:** [[MOC-Metabolic-Syndrome]] — Thematic domain
 - **MOC:** [[MOC-Exercise-Physiology]] — Related domain
 - **MOC:** [[MOC-Longevity]] — Related domain
-- **INBOX:** [[INBOX-Article-56-Walking-Mortality]] — Article source
+- **INBOX:** [[INBOX-Source-Facebook]] — Article source
 - **Reference:** [[Paluch_2023_Walking_Mortality_JAMA_R-002-0068]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

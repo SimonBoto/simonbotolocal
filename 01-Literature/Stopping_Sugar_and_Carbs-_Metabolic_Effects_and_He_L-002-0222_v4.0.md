@@ -7,8 +7,8 @@ aliases:
   - "L-002-0222"
   - "Stopping-Sugar-Carbs"
   - "Low-Carb-Metabolic"
-source-inbox: [[INBOX-Article-37-Stopping-Sugar-Carbs]]
-source-litnote: [[INBOX-Article-37-Stopping-Sugar-Carbs]]
+source-inbox: [[INBOX-Source-Facebook]]
+source-litnote: [[INBOX-Source-Facebook]]
 authors: "Teicholz N, et al.; Dehghan M, et al.; Harvey CJC, et al."
 year: "2017-2025"
 journal: "Nutrients; Lancet; Nutrition"
@@ -42,7 +42,7 @@ tags:
   2. Dehghan M, Mente A, Zhang X, et al. "Associations of fats and carbohydrate intake with cardiovascular disease and mortality in 18 countries from five continents (PURE)." *Lancet*. 2017;390:2050-2062.
   3. Harvey CJC, Schofield GM, Zinn C, Thornley S, et al. "Effects of differing levels of carbohydrate restriction on mood, achievement of nutritional ketosis, and symptoms of carbohydrate withdrawal in healthy adults." *Nutrition*. 2019.
 - **Original Greek:** "Αν Διακόψουμε τη Ζάχαρη και τους Υδατάνθρακες Πώς Θα Μπορούσε αυτό να Επηρεάσει την Υγεία Μας;"
-- **Inbox origin:** [[INBOX-Article-37-Stopping-Sugar-Carbs]]
+- **Inbox origin:** [[INBOX-Source-Facebook]]
 - **Reference notes:**
   - [[Teicholz_2025_Low_Carb_Myths_R-001-0049]]
   - [[Dehghan_2017_PURE_Carbohydrate_Mortality_R-002-0057]]
@@ -87,7 +87,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Metabolic-Syndrome]] — Thematic domain
-- **INBOX:** [[INBOX-Article-37-Stopping-Sugar-Carbs]] — Article source
+- **INBOX:** [[INBOX-Source-Facebook]] — Article source
 - **References:** Multiple (see above) — Primary sources
 - **Index:** [[01-Literature-Index]] — Container
 

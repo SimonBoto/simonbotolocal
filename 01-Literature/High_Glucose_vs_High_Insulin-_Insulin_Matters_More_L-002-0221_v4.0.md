@@ -7,8 +7,8 @@ aliases:
   - "L-002-0221"
   - "Glucose-vs-Insulin"
   - "Insulin-CVD-Paradigm"
-source-inbox: [[INBOX-Article-36-Glucose-Insulin]]
-source-litnote: [[INBOX-Article-36-Glucose-Insulin]]
+source-inbox: [[INBOX-Source-Facebook]]
+source-litnote: [[INBOX-Source-Facebook]]
 authors: "ACCORD Study Group; Various"
 year: "2008-2024"
 journal: "New England Journal of Medicine; Various"
@@ -39,7 +39,7 @@ tags:
 ## Source
 - **Full citation:** ACCORD Study Group. Effects of intensive glucose lowering in type 2 diabetes. *N Engl J Med*. 2008;358(24):2545-2559. Plus supporting literature on insulin resistance and CVD (2008-2024).
 - **Original Greek:** "Υψηλή Γλυκόζη ή Υψηλή Ινσουλίνη; Τι Έχει Μεγαλύτερη Σημασία"
-- **Inbox origin:** [[INBOX-Article-36-Glucose-Insulin]]
+- **Inbox origin:** [[INBOX-Source-Facebook]]
 - **Reference note:** [[Glucose_vs_Insulin_CVD_Literature_R-002-0056]]
 - **Note:** Literature synthesis from multiple sources
 
@@ -80,7 +80,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Insulin-Signaling]] — Thematic domain
-- **INBOX:** [[INBOX-Article-36-Glucose-Insulin]] — Article source
+- **INBOX:** [[INBOX-Source-Facebook]] — Article source
 - **Reference:** [[Glucose_vs_Insulin_CVD_Literature_R-002-0056]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

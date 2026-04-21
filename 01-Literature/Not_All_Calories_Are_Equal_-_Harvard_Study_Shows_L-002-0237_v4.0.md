@@ -7,8 +7,8 @@ aliases:
   - "L-002-0237"
   - "Not-All-Calories-Equal-Harvard"
   - "Calories-Not-Equal"
-source-inbox: [[INBOX-Article-50-Not-All-Calories]]
-source-litnote: [[INBOX-Article-50-Not-All-Calories]]
+source-inbox: [[INBOX-Source-Facebook]]
+source-litnote: [[INBOX-Source-Facebook]]
 authors: "Ebbeling CB, Feldman HA, Klein GL, et al."
 year: "2018"
 journal: "BMJ"
@@ -39,7 +39,7 @@ tags:
 ## Source
 - **Full citation:** Ebbeling CB, Feldman HA, Klein GL, Wong JMW, Bielak L, Steltz SK, et al. "Effects of a low carbohydrate diet on energy expenditure during weight loss maintenance: randomized trial." *BMJ*. 2018;363:k4583. doi:10.1136/bmj.k4583
 - **Original Greek:** "Γιατί Δεν Μετράνε Όλες οι Θερμίδες το Ίδιο"
-- **Inbox origin:** [[INBOX-Article-50-Not-All-Calories]]
+- **Inbox origin:** [[INBOX-Source-Facebook]]
 - **Reference note:** [[Ebbeling_2018_Low_Carb_Energy_Expenditure_R-002-0050]]
 - **Study:** Harvard Medical School researchers
 - **Participants:** 164 adults who had already lost weight
@@ -81,7 +81,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Metabolic-Syndrome]] — Thematic domain
-- **INBOX:** [[INBOX-Article-50-Not-All-Calories]] — Article source
+- **INBOX:** [[INBOX-Source-Facebook]] — Article source
 - **Reference:** [[Ebbeling_2018_Low_Carb_Energy_Expenditure_R-002-0050]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 

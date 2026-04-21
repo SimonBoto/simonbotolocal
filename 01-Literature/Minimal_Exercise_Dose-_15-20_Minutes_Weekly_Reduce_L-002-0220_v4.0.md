@@ -7,8 +7,8 @@ aliases:
   - "L-002-0220"
   - "Minimal-Exercise-Dose"
   - "Exercise-Mortality"
-source-inbox: [[INBOX-Article-35-Minimal-Exercise]]
-source-litnote: [[INBOX-Article-35-Minimal-Exercise]]
+source-inbox: [[INBOX-Article-16-Minimal-Exercise]]
+source-litnote: [[INBOX-Article-16-Minimal-Exercise]]
 authors: "Ahmadi MN, Clare PJ, Katzmarzyk PT, Lee IM, Stamatakis E"
 year: "2022"
 journal: "European Heart Journal"
@@ -38,7 +38,7 @@ tags:
 ## Source
 - **Full citation:** Ahmadi MN, Clare PJ, Katzmarzyk PT, Lee IM, Stamatakis E. "Vigorous physical activity, incident heart disease, and cancer: How little is enough?" *European Heart Journal*. 2022.
 - **Original Greek:** "Ακόμη και 15–20 λεπτά έντονης άσκησης την εβδομάδα συνδέονται με 16–40% χαμηλότερο κίνδυνο θανάτου"
-- **Inbox origin:** [[INBOX-Article-35-Minimal-Exercise]]
+- **Inbox origin:** [[INBOX-Article-16-Minimal-Exercise]]
 - **Reference note:** [[Ahmadi_2022_Vigorous_Physical_Activity_R-001-0041]]
 - **Study size:** 72,000 participants followed ~6 years
 
@@ -79,7 +79,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Exercise-Physiology]] — Thematic domain
-- **INBOX:** [[INBOX-Article-35-Minimal-Exercise]] — Article source
+- **INBOX:** [[INBOX-Article-16-Minimal-Exercise]] — Article source
 - **Reference:** [[Ahmadi_2022_Vigorous_Physical_Activity_R-001-0041]] — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 
