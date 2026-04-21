@@ -34,7 +34,7 @@ tags:
 ## Source
 - **Full citation:** Zheng Q, Gao X, Ruan X, et al. (2025). Are low carbohydrate diet interventions beneficial for metabolic syndrome and its components? A systematic review and meta-analysis of randomized controlled trials. *International Journal of Obesity*. doi:10.1038/s41366-025-01822-5
 - **Inbox origin:** 
-- **Reference note:** [[Zheng_2025_LCD_Metabolic_Syndrome_Meta_R-002-0035]]
+- **Reference note:** 
 
 ## Core Concepts Extracted
 Low-carbohydrate diets reduce cardiovascular disease risk by improving all components of metabolic syndrome (waist circumference, triglycerides, HDL, blood pressure, fasting glucose) through mechanisms centered on reducing insulin resistance.
@@ -46,19 +46,19 @@ Low-carbohydrate diets reduce cardiovascular disease risk by improving all compo
 ### 1. Low-Carbohydrate Diet Reverses Metabolic Syndrome
 - **Claim:** Low-carbohydrate diets improve all five diagnostic criteria of metabolic syndrome, making them superior to low-fat diets for metabolic syndrome reversal and CVD risk reduction.
 - **Evidence:** Meta-analysis of RCTs shows significant improvements in waist circumference, triglycerides, HDL cholesterol, blood pressure, and fasting glucose in adults with metabolic syndrome following low-carbohydrate interventions.
-- **Reference:** [[Zheng_2025_LCD_Metabolic_Syndrome_Meta_R-002-0035]] — cited as (Zheng et al., 2025)
+- **Reference:**  — cited as (Zheng et al., 2025)
 - **Zettel:** [[Low_Carbohydrate_Diet_Reverses_Metabolic_Syndrome_Z-002-0641]]
 
 ### 2. Insulin Resistance as Root Cause of CVD
 - **Claim:** Insulin resistance is the fundamental mechanism linking metabolic syndrome to cardiovascular disease; interventions that reduce insulin resistance (like low-carb diets) address CVD at its root cause rather than just managing symptoms.
 - **Evidence:** Metabolic syndrome increases risk of type 2 diabetes and cardiovascular disease; low-carbohydrate diets target insulin resistance directly, improving all metabolic parameters simultaneously.
-- **Reference:** [[Zheng_2025_LCD_Metabolic_Syndrome_Meta_R-002-0035]] — cited as (Zheng et al., 2025)
+- **Reference:**  — cited as (Zheng et al., 2025)
 - **Zettel:** [[Insulin_Resistance_Root_Cause_CVD_Z-002-0642]]
 
 ### 3. Low-Carb Superior to Low-Fat for Lipid Profile
 - **Claim:** Low-carbohydrate diets are superior to low-fat diets for improving cardiovascular lipid profiles, specifically reducing triglycerides and increasing HDL cholesterol — key markers of CVD risk.
 - **Evidence:** Systematic review shows low-carb interventions produce greater improvements in triglycerides and HDL compared to low-fat controls, with particular benefit for overweight/obese individuals with metabolic dysfunction.
-- **Reference:** [[Zheng_2025_LCD_Metabolic_Syndrome_Meta_R-002-0035]] — cited as (Zheng et al., 2025)
+- **Reference:**  — cited as (Zheng et al., 2025)
 - **Zettel:** [[Low_Carb_Superior_Low_Fat_Lipid_Profile_Z-002-0643]]
 
 ---
@@ -67,7 +67,7 @@ Low-carbohydrate diets reduce cardiovascular disease risk by improving all compo
 
 | Reference | Zettels | Times Cited |
 |-----------|---------|-------------|
-| [[Zheng_2025_LCD_Metabolic_Syndrome_Meta_R-002-0035]] | Z-002-0641, Z-002-0642, Z-002-0643 | 3 |
+|  | Z-002-0641, Z-002-0642, Z-002-0643 | 3 |
 
 ---
 
@@ -92,7 +92,7 @@ Low-carbohydrate diets reduce cardiovascular disease risk by improving all compo
 ## Connections
 - [[MOC-Metabolic-Syndrome]]
 - 
-- [[Zheng_2025_LCD_Metabolic_Syndrome_Meta_R-002-0035]]
+- 
 
 ---
 *L-002-0169 | Created: 2026-04-04 | Tier: GOLD*

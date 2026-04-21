@@ -39,7 +39,7 @@ tags:
 - **Full citation:** Health & Protection. "Hong Kong has world's longest life expectancy." February 2025. AHDB. Asia: Meat consumption data. Our World in Data: Life Expectancy — Meat supply per person.
 - **Original Greek:** "Ο πληθυσμός με το υψηλότερο προσδόκιμο ζωής παγκοσμίως είναι το Χονγκ Κονγκ"
 - **Inbox origin:** 
-- **Reference note:** [[Hong_Kong_Meat_Longevity_Population_Data_R-002-0063]]
+- **Reference note:** 
 
 ## Core Concepts Extracted
 **Hong Kong has the world's highest life expectancy while simultaneously having the world's highest per capita meat consumption (~145 kg annually)** — this population-level observation challenges assumptions that meat consumption necessarily reduces lifespan, demonstrating that high meat intake can coexist with exceptional longevity when combined with high fish/seafood consumption, low smoking rates, efficient healthcare, and overall dietary context.
@@ -51,19 +51,19 @@ tags:
 ### 1. Hong Kong: 145kg Meat Annually, Highest Life Expectancy Globally
 - **Claim:** Hong Kong residents consume approximately 145 kg of meat per person annually — the highest meat consumption per capita globally — while simultaneously having the highest life expectancy in the world, demonstrating that high meat intake does not necessarily reduce lifespan.
 - **Evidence:** Hong Kong metrics: life expectancy = highest globally, meat consumption = highest globally (per capita), annual meat per person = ~145 kg; impact assessment: high meat intake → no negative impact on health or longevity, coexistence = high meat + longest life are not mutually exclusive; quote: "Hong Kong has world's longest life expectancy. Hong Kong also has highest meat consumption per capita globally. Each resident consumes approximately 145 kg of meat annually — and this does not appear to have negative impact on health or life expectancy"; data sources: Health & Protection February 2025, AHDB Asia meat consumption data, Our World in Data life expectancy and meat supply statistics; clinical implication: population-level data contradicts simple "meat is harmful" narratives; quantity of meat alone is not determinant of health outcomes.
-- **Reference:** [[Hong_Kong_Meat_Longevity_Population_Data_R-002-0063]] — cited as (Health & Protection 2025, AHDB, Our World in Data)
+- **Reference:**  — cited as (Health & Protection 2025, AHDB, Our World in Data)
 - **Zettel:** [[Hong_Kong_145kg_Meat_Highest_Life_Expectancy_Z-002-0846]]
 
 ### 2. High Meat Consumption Coexists with Longevity — Not Inherently Harmful
 - **Claim:** The coexistence of the world's highest meat consumption with the world's longest life expectancy in Hong Kong demonstrates that meat consumption is not inherently harmful to longevity — challenging the assumption that reducing meat intake is necessary for long life.
 - **Evidence:** Challenging old assumptions: "Meat reduces lifespan" = NOT supported in Hong Kong data, "Plant-based only for longevity" = contradicted by population data, "Meat is harmful" = context matters; key insight: "The increased meat intake does not appear to reduce this population's lifespan. On the contrary, it coexists with the highest life expectancy globally"; contributing factors (beyond meat): high fish/seafood consumption (omega-3s, micronutrients), low smoking rates (reduced CVD/cancer risk), efficient healthcare system (early intervention), lifestyle factors (activity, social connections); the paradox resolved: meat consumption alone does not determine health outcomes; overall dietary pattern and lifestyle context are critical; Hong Kong pattern = high meat + high fish + low smoking + good healthcare + active lifestyle.
-- **Reference:** [[Hong_Kong_Meat_Longevity_Population_Data_R-002-0063]] — cited as (Health & Protection 2025)
+- **Reference:**  — cited as (Health & Protection 2025)
 - **Zettel:** [[High_Meat_Coexists_Longevity_Not_Harmful_Z-002-0847]]
 
 ### 3. Meat Paradox: Context and Quality Matter More Than Quantity Alone
 - **Claim:** The Hong Kong meat-longevity paradox demonstrates that context — including meat quality, preparation methods, overall dietary balance, and metabolic health — matters more than meat quantity alone in determining health outcomes.
 - **Evidence:** Context matters in Hong Kong pattern: meat quality = likely high (fresh, traditional sources), preparation = traditional methods (less processed), overall diet = balanced with seafood, vegetables, metabolic health = better insulin sensitivity; contrast with Western patterns: high meat + high processed foods + high sugar + sedentary = poor outcomes; Hong Kong pattern: high meat + high fish + traditional preparation + active lifestyle = excellent outcomes; key insight: it's not just "how much meat" but "what kind of meat," "how prepared," "what else in diet," "overall lifestyle"; clinical implication: focus on overall dietary pattern rather than single macronutrient; quality and context trump quantity; traditional dietary patterns may be protective even with high meat intake.
-- **Reference:** [[Hong_Kong_Meat_Longevity_Population_Data_R-002-0063]] — cited as (population health data analysis)
+- **Reference:**  — cited as (population health data analysis)
 - **Zettel:** [[Meat_Paradox_Context_Quality_Not_Quantity_Alone_Z-002-0848]]
 
 ---
@@ -72,14 +72,14 @@ tags:
 
 | Reference | Zettels | Times Cited |
 |-----------|---------|-------------|
-| [[Hong_Kong_Meat_Longevity_Population_Data_R-002-0063]] | Z-002-0846, Z-002-0847, Z-002-0848 | 3 |
+|  | Z-002-0846, Z-002-0847, Z-002-0848 | 3 |
 
 ---
 
 ## Connections
 - **MOC:** [[MOC-Global-Health]] — Thematic domain
 - **INBOX:**  — Article source
-- **Reference:** [[Hong_Kong_Meat_Longevity_Population_Data_R-002-0063]] — Primary source
+- **Reference:**  — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 
 ---

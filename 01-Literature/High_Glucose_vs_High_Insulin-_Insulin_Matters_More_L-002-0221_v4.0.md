@@ -40,7 +40,7 @@ tags:
 - **Full citation:** ACCORD Study Group. Effects of intensive glucose lowering in type 2 diabetes. *N Engl J Med*. 2008;358(24):2545-2559. Plus supporting literature on insulin resistance and CVD (2008-2024).
 - **Original Greek:** "Υψηλή Γλυκόζη ή Υψηλή Ινσουλίνη; Τι Έχει Μεγαλύτερη Σημασία"
 - **Inbox origin:** [[INBOX-Source-Facebook]]
-- **Reference note:** [[Glucose_vs_Insulin_CVD_Literature_R-002-0056]]
+- **Reference note:** 
 - **Note:** Literature synthesis from multiple sources
 
 ## Core Concepts Extracted
@@ -53,19 +53,19 @@ tags:
 ### 1. Insulin More Predictive of CVD Than Glucose — The Paradigm Shift
 - **Claim:** Insulin levels and insulin resistance are more predictive of cardiovascular disease and mortality than glucose levels — the ACCORD study showed intensive glucose control increased deaths, while metformin and lifestyle interventions that improve insulin sensitivity reduce mortality, indicating that the insulin-centric paradigm better explains CVD risk than the glucose-centric paradigm.
 - **Evidence:** ACCORD 2008 (n=10,251): intensive glucose lowering (HbA1c <6.0%) increased mortality by 22% vs standard care; excess insulin from treatment may explain harm; metformin (improves insulin sensitivity) reduces mortality; insulin resistance strongly associated with CVD and all-cause death; suggests targeting insulin resistance more important than aggressive glucose lowering.
-- **Reference:** [[Glucose_vs_Insulin_CVD_Literature_R-002-0056]] — cited as (ACCORD Study Group, 2008; subsequent literature)
+- **Reference:**  — cited as (ACCORD Study Group, 2008; subsequent literature)
 - **Zettel:** [[Insulin_More_Predictive_CVD_Glucose_Z-002-0801]]
 
 ### 2. ACCORD Study: Intensive Glucose Lowering Increased Mortality
 - **Claim:** The ACCORD study definitively showed that intensive glucose lowering to near-normal levels (HbA1c <6.0%) in type 2 diabetes increased mortality by 22% and did not significantly reduce cardiovascular events — challenging the "lower is better" glucose paradigm and suggesting harm from aggressive treatment.
 - **Evidence:** ACCORD randomized 10,251 high-risk T2D patients to intensive (HbA1c <6.0%) vs standard (HbA1c 7.0-7.9%) glucose control; study stopped early after 3.5 years due to increased mortality in intensive group (22% higher death rate); no significant reduction in primary CVD endpoint; hypoglycemia and weight gain more common in intensive group; led to revised guidelines abandoning tight glucose targets.
-- **Reference:** [[Glucose_vs_Insulin_CVD_Literature_R-002-0056]] — cited as (ACCORD Study Group, N Engl J Med 2008)
+- **Reference:**  — cited as (ACCORD Study Group, N Engl J Med 2008)
 - **Zettel:** [[ACCORD_Glucose_Lowering_Mortality_Z-002-0802]]
 
 ### 3. Glucose vs Insulin: Different Vessel Types, Different Damage
 - **Claim:** Elevated glucose and elevated insulin damage different types of blood vessels — high glucose primarily affects small vessels (kidneys, eyes, peripheral nerves) causing microvascular complications, while high insulin primarily affects large vessels (heart, brain) causing macrovascular disease (MI, stroke), requiring different prevention strategies.
 - **Evidence:** Glucose toxicity: damages small vessels via glycation, oxidative stress, PKC activation → nephropathy, retinopathy, neuropathy; Insulin toxicity: promotes atherosclerosis, endothelial dysfunction, smooth muscle proliferation in large arteries → MI, stroke; clinical implication: preventing CVD requires insulin control (low-carb, metformin, exercise, weight loss) not just glucose control; fasting insulin optimal range 2-10 μIU/mL; >10-12 suggests insulin resistance; >15 indicates significant resistance.
-- **Reference:** [[Glucose_vs_Insulin_CVD_Literature_R-002-0056]] — cited as (literature synthesis)
+- **Reference:**  — cited as (literature synthesis)
 - **Zettel:** [[Insulin_Resistance_Large_Vessel_Damage_Z-002-0803]]
 
 ---
@@ -74,14 +74,14 @@ tags:
 
 | Reference | Zettels | Times Cited |
 |-----------|---------|-------------|
-| [[Glucose_vs_Insulin_CVD_Literature_R-002-0056]] | Z-002-0801, Z-002-0802, Z-002-0803 | 3 |
+|  | Z-002-0801, Z-002-0802, Z-002-0803 | 3 |
 
 ---
 
 ## Connections
 - **MOC:** [[MOC-Insulin-Signaling]] — Thematic domain
 - **INBOX:** [[INBOX-Source-Facebook]] — Article source
-- **Reference:** [[Glucose_vs_Insulin_CVD_Literature_R-002-0056]] — Primary source
+- **Reference:**  — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 
 ---

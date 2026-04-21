@@ -36,7 +36,7 @@ tags:
 ## Source
 - **Full citation:** Huang XS, et al. MRI quantitative assessment of the effects of low-carbohydrate therapy on Hashimoto's thyroiditis. *Endocr Connect*. 2024;13(5):e230477. doi:10.1530/EC-23-0477
 - **Inbox origin:** 
-- **Reference note:** [[Huang_2024_Hashimoto_LowCarb_MRI_R-002-0027]]
+- **Reference note:** 
 
 ## Core Concepts Extracted
 Low-carbohydrate diets reduce thyroid autoantibodies and inflammation in Hashimoto's thyroiditis through mechanisms involving reduced insulin resistance, decreased systemic inflammation, improved gut barrier function, and reduced oxidative stress.
@@ -70,19 +70,19 @@ Beyond low-carb diet, additional improvements from:
 ### 1. Low-Carbohydrate Diet Reduces Thyroid Autoantibodies
 - **Claim:** Low-carbohydrate dietary intervention significantly reduces thyroid peroxidase antibodies (TPOAb) and thyroglobulin antibodies (TgAb) in patients with Hashimoto's thyroiditis, indicating reduced autoimmune activity.
 - **Evidence:** MRI quantitative assessment shows decreased thyroid inflammation correlating with reduced autoantibody titers following low-carbohydrate diet implementation.
-- **Reference:** [[Huang_2024_Hashimoto_LowCarb_MRI_R-002-0027]] — cited as (Huang et al., 2024)
+- **Reference:**  — cited as (Huang et al., 2024)
 - **Zettel:** [[Low_Carb_Reduces_Thyroid_Autoantibodies_Z-002-0644]]
 
 ### 2. Insulin Resistance and Autoimmune Thyroid Disease
 - **Claim:** Insulin resistance is a key driver of autoimmune activity in Hashimoto's thyroiditis; reducing insulin resistance through carbohydrate restriction modulates immune dysregulation and reduces thyroid autoimmunity.
 - **Evidence:** Low-carbohydrate diets improve insulin sensitivity, which correlates with decreased inflammatory markers and reduced autoimmune antibody production in thyroid tissue.
-- **Reference:** [[Huang_2024_Hashimoto_LowCarb_MRI_R-002-0027]] — cited as (Huang et al., 2024)
+- **Reference:**  — cited as (Huang et al., 2024)
 - **Zettel:** [[Insulin_Resistance_Autoimmune_Thyroid_Z-002-0645]]
 
 ### 3. Dietary Intervention as First-Line Hashimoto's Therapy
 - **Claim:** Low-carbohydrate dietary intervention should be considered first-line therapy for Hashimoto's thyroiditis, potentially reducing medication requirements in early-stage disease and preserving thyroid function.
 - **Evidence:** Clinical improvements in thyroid inflammation and autoantibodies with dietary intervention alone suggest non-pharmacological approaches can modify disease course before irreversible thyroid damage occurs.
-- **Reference:** [[Huang_2024_Hashimoto_LowCarb_MRI_R-002-0027]] — cited as (Huang et al., 2024)
+- **Reference:**  — cited as (Huang et al., 2024)
 - **Zettel:** [[Dietary_Intervention_First_Line_Hashimotos_Z-002-0646]]
 
 ---
@@ -91,7 +91,7 @@ Beyond low-carb diet, additional improvements from:
 
 | Reference | Zettels | Times Cited |
 |-----------|---------|-------------|
-| [[Huang_2024_Hashimoto_LowCarb_MRI_R-002-0027]] | Z-002-0644, Z-002-0645, Z-002-0646 | 3 |
+|  | Z-002-0644, Z-002-0645, Z-002-0646 | 3 |
 
 ---
 
@@ -124,7 +124,7 @@ Beyond low-carb diet, additional improvements from:
 ## Connections
 - [[MOC-Thyroid]]
 - 
-- [[Huang_2024_Hashimoto_LowCarb_MRI_R-002-0027]]
+- 
 
 ---
 *L-002-0170 | Created: 2026-04-04 | Tier: GOLD*

@@ -150,7 +150,7 @@ tags:
 ---
 
 ## Related References
-- [[R-001-0700_Lok_Omega3_Hemodialysis_NEJM_2026]] — Full reference
+-  — Full reference
 - REDUCE-IT trial (high-dose EPA)
 - JELIS trial (Japanese EPA intervention)
 - Dong 2024 meta-analysis

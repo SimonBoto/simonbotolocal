@@ -39,7 +39,7 @@ tags:
 - **Full citation:** UNICEF. "A Historical Reversal: For the First Time Globally, Obese Children Outnumber Underweight Children." 2025.
 - **Original Greek:** "Μια Ιστορική Αναστροφή: Για Πρώτη Φορά Παγκοσμίως, τα Παιδιά με Παχυσαρκία είναι Περισσότερα από τα Παιδιά με Χαμηλό Βάρος"
 - **Inbox origin:** 
-- **Reference note:** [[UNICEF_Obese_Children_Outnumber_Underweight_R-002-0066]]
+- **Reference note:** 
 
 ## Core Concepts Extracted
 **For the first time in human history, obese children now outnumber underweight children globally** — this historic reversal represents one of the most serious threats to children's health, driven primarily by ultra-processed foods, sugar-sweetened beverages, sedentary lifestyles, and screen time, with projections indicating an impending chronic disease epidemic that will strain healthcare systems and reduce quality of life for an entire generation.
@@ -51,19 +51,19 @@ tags:
 ### 1. Obese Children Exceed Underweight — Historic First
 - **Claim:** For the first time in human history, the number of obese children globally now exceeds the number of underweight children — a historic reversal from millennia of undernutrition being the primary childhood health threat.
 - **Evidence:** Historic shift: first time in history = obese children > underweight children, trend = childhood obesity increasing at alarming rate, status = one of the most serious threats to children's health; global health implications: disease burden → future chronic disease epidemic, healthcare systems → unprecedented strain, economic cost → trillions in long-term care, quality of life → reduced for entire generation; the paradox: historical problem = malnutrition, underweight, food scarcity, infectious disease; current problem = overnutrition, obesity, food excess (low quality), chronic metabolic disease; quote: "Childhood obesity is increasing at an alarming rate and is now one of the most serious threats to children's health"; clinical implication: represents fundamental shift in human health challenges; requires completely different public health approach than historical undernutrition focus.
-- **Reference:** [[UNICEF_Obese_Children_Outnumber_Underweight_R-002-0066]] — cited as (UNICEF 2025)
+- **Reference:**  — cited as (UNICEF 2025)
 - **Zettel:** [[Obese_Children_Exceed_Underweight_Historic_First_Z-002-0866]]
 
 ### 2. Childhood Obesity Is Serious Global Health Threat
 - **Claim:** Childhood obesity is now one of the most serious threats to children's health globally — with implications including a future chronic disease epidemic, unprecedented strain on healthcare systems, trillions in economic costs, and reduced quality of life for an entire generation.
 - **Evidence:** Urgency projections: current = obese > underweight, next decade = gap widens, adult population = today's obese children become tomorrow's obese adults with metabolic disease; prevention priorities: individual level → family nutrition education, school level → healthy food programs, policy level → sugar taxes, marketing restrictions, healthcare level → early metabolic screening; economic and health burden: type 2 diabetes, cardiovascular disease, fatty liver disease, mental health issues, reduced lifespan, healthcare costs in trillions; intergenerational impact: obese children → obese adults → metabolic syndrome → early mortality; today's children first generation with shorter life expectancy than parents; clinical implication: urgent need for multi-level intervention; cannot be addressed by healthcare system alone; requires policy, education, and environmental changes.
-- **Reference:** [[UNICEF_Obese_Children_Outnumber_Underweight_R-002-0066]] — cited as (UNICEF global health report)
+- **Reference:**  — cited as (UNICEF global health report)
 - **Zettel:** [[Childhood_Obesity_Serious_Global_Health_Threat_Z-002-0867]]
 
 ### 3. UPF and Sugar-Sweetened Beverages Are Primary Childhood Obesity Drivers
 - **Claim:** Ultra-processed foods and sugar-sweetened beverages are the primary drivers of the childhood obesity epidemic — combined with sedentary lifestyles, excessive screen time, sleep disruption, and environmental toxins, these factors have created a perfect storm for metabolic dysfunction in children.
 - **Evidence:** Driving factors: ultra-processed foods = primary driver (high calorie, low nutrient, addictive), sugar-sweetened beverages = major contributor (liquid calories, no satiety), sedentary lifestyle = reduced energy expenditure, screen time = displaces physical activity, sleep disruption = metabolic dysfunction, environmental toxins = endocrine disruption; mechanism: UPF designed for hyper-palatability → overconsumption, sugar beverages → rapid glucose spikes → insulin resistance, screen time → reduced outdoor play → lower activity, poor sleep → hunger hormone dysregulation → overeating; the perfect storm: multiple factors compound each other, modern environment obesogenic by design, children especially vulnerable to marketing and addiction; clinical implication: addressing childhood obesity requires targeting these primary drivers; UPF elimination and sugar reduction highest impact; cannot exercise way out of poor diet; need environmental redesign, not just individual willpower.
-- **Reference:** [[UNICEF_Obese_Children_Outnumber_Underweight_R-002-0066]] — cited as (UNICEF report on childhood obesity drivers)
+- **Reference:**  — cited as (UNICEF report on childhood obesity drivers)
 - **Zettel:** [[UPF_Sugar_Beverages_Primary_Childhood_Obesity_Drivers_Z-002-0868]]
 
 ---
@@ -72,14 +72,14 @@ tags:
 
 | Reference | Zettels | Times Cited |
 |-----------|---------|-------------|
-| [[UNICEF_Obese_Children_Outnumber_Underweight_R-002-0066]] | Z-002-0866, Z-002-0867, Z-002-0868 | 3 |
+|  | Z-002-0866, Z-002-0867, Z-002-0868 | 3 |
 
 ---
 
 ## Connections
 - **MOC:** [[MOC-Global-Health]] — Thematic domain
 - **INBOX:**  — Article source
-- **Reference:** [[UNICEF_Obese_Children_Outnumber_Underweight_R-002-0066]] — Primary source
+- **Reference:**  — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 
 ---

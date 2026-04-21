@@ -43,10 +43,10 @@ pmid: "40044852"
 - **Type:** Greek health post → English extraction
 
 ## References
-1. **[[Yang_2025_Aspirin_Metastasis_TXA2_Nature_R-001-0100]]** — Primary mechanism study
+1. **** — Primary mechanism study
    - Yang J et al. Aspirin prevents metastasis by limiting platelet TXA2 suppression of T cell immunity. *Nature*. March 2025. doi:10.1038/s41586-025-08626-7
    
-2. **[[Patrono_Rocca_2025_NEJM_Aspirin_Metastasis_R-002-0036]]** — Clinical implications commentary
+2. **** — Clinical implications commentary
    - Patrono C, Rocca B. Understanding How Aspirin Prevents Metastasis. *N Engl J Med*. 2025;392:e47. doi:10.1056/NEJMcibr2502386
 
 ## Core Finding
@@ -118,31 +118,31 @@ pmid: "40044852"
 ### 1. Aspirin TXA2 Mechanism for Metastasis Prevention
 - **Claim:** Aspirin reduces cancer metastasis by 36% and cancer death by 51% through a novel immune mechanism involving platelet TXA2 suppression of T-cell activation, establishing aspirin as an immunomodulator rather than just an anti-platelet agent.
 - **Evidence:** Nature 2025 study demonstrates that aspirin irreversibly inhibits COX-1 in platelets, preventing TXA2 synthesis and releasing T-cells from platelet-mediated immunosuppression, enabling effective immune surveillance of circulating cancer cells.
-- **Reference:** [[Yang_2025_Aspirin_Metastasis_TXA2_Nature_R-001-0100]] — cited as (Yang et al., 2025)
+- **Reference:**  — cited as (Yang et al., 2025)
 - **Zettel:** [[Aspirin_TXA2_Mechanism_Metastasis_Prevention_Z-002-0875]]
 
 ### 2. Platelet COX-1 Inhibition Activates T-Cell Immunity
 - **Claim:** The molecular mechanism linking aspirin to metastasis prevention involves permanent COX-1 inhibition in anucleate platelets, blocking TXA2 production and removing the immunosuppressive brake on T-cell activation.
 - **Evidence:** Platelets produce TXA2 which suppresses T-cell function; aspirin-inhibited platelets cannot regenerate COX-1, resulting in sustained TXA2 reduction and T-cell activation; this creates a vulnerability window for immune attack on circulating cancer cells.
-- **Reference:** [[Yang_2025_Aspirin_Metastasis_TXA2_Nature_R-001-0100]] — cited as (Yang et al., 2025)
+- **Reference:**  — cited as (Yang et al., 2025)
 - **Zettel:** [[Platelet_COX1_Inhibition_T_Cell_Activation_Z-002-0876]]
 
 ### 3. Aspirin as Cancer Immunomodulator Not Just Anti-Platelet
 - **Claim:** Aspirin's anti-metastatic effect represents a paradigm shift from viewing aspirin solely as an anti-platelet/anti-inflammatory drug to recognizing it as a genuine immunomodulator that enhances anti-cancer immunity through platelet-T-cell interactions.
 - **Evidence:** The TXA2-T-cell axis discovery reclassifies aspirin's mechanism; clinical data showing 36% metastasis reduction and 51% cancer death reduction align with immune-mediated effects rather than purely platelet-inhibition effects.
-- **Reference:** [[Yang_2025_Aspirin_Metastasis_TXA2_Nature_R-001-0100]] — cited as (Yang et al., 2025)
+- **Reference:**  — cited as (Yang et al., 2025)
 - **Zettel:** [[Aspirin_Cancer_Immunomodulator_Not_Just_Anti_Platelet_Z-002-0877]]
 
 ### 4. Micrometastases Immune Vulnerability Window
 - **Claim:** Circulating cancer cells and micrometastases represent a critical vulnerability window where immune surveillance can be decisive; aspirin's TXA2 inhibition enhances this window by removing platelet-mediated immunosuppression.
 - **Evidence:** 90% of cancer deaths result from metastasis; circulating tumor cells in blood are exposed to immune attack but survive due to platelet TXA2 suppression of T-cells; aspirin creates conditions for effective immune clearance during this vulnerability window.
-- **Reference:** [[Yang_2025_Aspirin_Metastasis_TXA2_Nature_R-001-0100]] — cited as (Yang et al., 2025)
+- **Reference:**  — cited as (Yang et al., 2025)
 - **Zettel:** [[Micrometastases_Immune_Vulnerability_Window_Z-002-0878]]
 
 ### 5. Low-Dose Aspirin Sufficient for Cancer Prevention
 - **Claim:** Low-dose aspirin (75-300mg daily) is sufficient for metastasis prevention, making the intervention accessible, low-cost, and with manageable risk profiles compared to higher doses.
 - **Evidence:** Clinical data demonstrate effective metastasis reduction (HR 0.64) and cancer death reduction (HR 0.49) at low doses; irreversible COX-1 inhibition means sustained effect without dose escalation; risk-benefit assessment favors low-dose for primary prevention.
-- **Reference:** [[Patrono_Rocca_2025_NEJM_Aspirin_Metastasis_R-002-0036]] — cited as (Patrono & Rocca, 2025)
+- **Reference:**  — cited as (Patrono & Rocca, 2025)
 - **Zettel:** [[Aspirin_Dosing_Cancer_Prevention_Low_Dose_Sufficient_Z-002-0879]]
 
 ---
@@ -151,8 +151,8 @@ pmid: "40044852"
 
 | Reference | Zettels | Times Cited |
 |-----------|---------|-------------|
-| [[Yang_2025_Aspirin_Metastasis_TXA2_Nature_R-001-0100]] | Z-002-0875, Z-002-0876, Z-002-0877, Z-002-0878 | 4 |
-| [[Patrono_Rocca_2025_NEJM_Aspirin_Metastasis_R-002-0036]] | Z-002-0879 | 1 |
+|  | Z-002-0875, Z-002-0876, Z-002-0877, Z-002-0878 | 4 |
+|  | Z-002-0879 | 1 |
 
 ---
 
@@ -177,8 +177,8 @@ pmid: "40044852"
 ## Connections
 - [[MOC-Cancer]]
 - 
-- [[Yang_2025_Aspirin_Metastasis_TXA2_Nature_R-001-0100]]
-- [[Patrono_Rocca_2025_NEJM_Aspirin_Metastasis_R-002-0036]]
+- 
+- 
 
 ---
 *L-002-0246 | Created: 2026-04-05 | Tier: GOLD*

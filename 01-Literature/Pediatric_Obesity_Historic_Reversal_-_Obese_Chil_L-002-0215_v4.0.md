@@ -38,7 +38,7 @@ tags:
 - **Full citation:** The 2025 Child Nutrition Report, 'Feeding Profit: How food environments are failing children'. UNICEF 2025.
 - **Additional:** Obesity exceeds underweight for the first time among school-age children and adolescents globally – UNICEF, press release 9 Sept 2025
 - **Inbox origin:** 
-- **Reference note:** [[UNICEF_2025_Child_Nutrition_Report_R-002-0054]] — Citation from UNICEF report
+- **Reference note:**  — Citation from UNICEF report
 - **Note:** Policy/epidemiological report, not peer-reviewed study
 
 ## Core Concepts Extracted
@@ -51,19 +51,19 @@ tags:
 ### 1. Historic Reversal — Obese Children Now Outnumber Undernourished Globally
 - **Claim:** For the first time in human history, obese children outnumber undernourished children globally — a historic reversal where obesity (9.4%) now exceeds underweight (9.2%) among school-age children and adolescents worldwide, driven by ultra-processed food environments.
 - **Evidence:** UNICEF 2025 data shows underweight decreased from 13% (2000) to 9.2% (2025) while obesity increased from 3% to 9.4%; 188 million children (1 in 10) now have obesity; affects 190+ countries; all regions except sub-Saharan Africa and South Asia.
-- **Reference:** [[UNICEF_2025_Child_Nutrition_Report_R-002-0054]] — Citation from UNICEF 2025 Child Nutrition Report
+- **Reference:**  — Citation from UNICEF 2025 Child Nutrition Report
 - **Zettel:** [[Obese_Children_Outnumber_Undernourished_Z-002-0783]]
 
 ### 2. Ultra-Processed Foods as Primary Drivers of Childhood Obesity
 - **Claim:** Ultra-processed foods are the primary driver of the childhood obesity epidemic — UNICEF identifies UPFs as the root cause, citing aggressive industry marketing, cheap prices, convenient access, and food environments that promote unhealthy eating while undermining health policies.
 - **Evidence:** UNICEF report states UPFs are "widely available, cheap, and aggressively promoted where children live, learn, and play"; industry practices "undermine efforts to establish laws and policies that could protect children"; engineered to be hyper-palatable and convenient.
-- **Reference:** [[UNICEF_2025_Child_Nutrition_Report_R-002-0054]] — Citation from UNICEF 2025 Child Nutrition Report
+- **Reference:**  — Citation from UNICEF 2025 Child Nutrition Report
 - **Zettel:** [[UPF_Childhood_Obesity_Drivers_Z-002-0784]]
 
 ### 3. Childhood Obesity Is Reversible — The Window of Opportunity
 - **Claim:** Childhood obesity is reversible with appropriate interventions — while the global trend is alarming, individual and population-level interventions can reverse childhood obesity, especially when targeted during critical developmental windows before metabolic patterns become entrenched.
 - **Evidence:** UNICEF states "with decisive action, states can adopt comprehensive and mandatory measures to reshape food environments"; examples include Amsterdam (12% reduction), France (marketing restrictions), Chile (warning labels), Mexico (soda tax); childhood metabolic plasticity allows for reversal.
-- **Reference:** [[UNICEF_2025_Child_Nutrition_Report_R-002-0054]] — Citation from UNICEF 2025 Child Nutrition Report
+- **Reference:**  — Citation from UNICEF 2025 Child Nutrition Report
 - **Zettel:** [[Reversible_Childhood_Obesity_Z-002-0785]]
 
 ---
@@ -72,14 +72,14 @@ tags:
 
 | Reference | Zettels | Times Cited |
 |-----------|---------|-------------|
-| [[UNICEF_2025_Child_Nutrition_Report_R-002-0054]] | Z-002-0783, Z-002-0784, Z-002-0785 | 3 |
+|  | Z-002-0783, Z-002-0784, Z-002-0785 | 3 |
 
 ---
 
 ## Connections
 - **MOC:** [[MOC-Nutrition]] — Thematic domain
 - **INBOX:**  — Article source
-- **Reference:** [[UNICEF_2025_Child_Nutrition_Report_R-002-0054]] — Primary source
+- **Reference:**  — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 
 ---

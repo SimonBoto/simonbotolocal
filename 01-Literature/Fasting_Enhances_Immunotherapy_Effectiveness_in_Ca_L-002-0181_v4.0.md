@@ -35,7 +35,7 @@ tags:
 ## Source
 - **Full citation:** Chen S, et al. "16-hour fasting optimizes cancer immunotherapy in mice and humans." *Cell Metabolism*. 2026. doi:10.1016/j.cmet.2026.01.014. PMID: 41720105.
 - **Inbox origin:** 
-- **Reference note:** [[Chen_2026_16h_Fasting_Immunotherapy_R-002-0038]]
+- **Reference note:** 
 
 ## Core Concepts Extracted
 Fasting or fasting-mimicking diets enhance the effectiveness of immunotherapy in cancer patients by reprogramming the tumor microenvironment, reducing immunosuppressive factors, and promoting anti-tumor immune responses — representing a metabolic intervention that synergizes with modern cancer immunotherapy.
@@ -47,19 +47,19 @@ Fasting or fasting-mimicking diets enhance the effectiveness of immunotherapy in
 ### 1. Fasting Enhances Cancer Immunotherapy Response
 - **Claim:** Fasting or fasting-mimicking diets significantly improve response rates to immune checkpoint inhibitors and other immunotherapy approaches in cancer patients by creating a metabolic environment that favors anti-tumor immunity and reduces immunosuppression within the tumor microenvironment.
 - **Evidence:** Cell Metabolism 2026 study demonstrates that fasting reprograms tumor metabolism, reduces immunosuppressive myeloid-derived suppressor cells (MDSCs), enhances T-cell infiltration and function, and improves immunotherapy outcomes — the metabolic stress of fasting appears to sensitize tumors to immune attack while protecting normal tissues.
-- **Reference:** [[Chen_2026_16h_Fasting_Immunotherapy_R-002-0038]] — cited as (Chen et al., 2026)
+- **Reference:**  — cited as (Chen et al., 2026)
 - **Zettel:** [[Fasting_Enhances_Cancer_Immunotherapy_Response_Z-002-0678]]
 
 ### 2. Fasting Reprograms Tumor Microenvironment Metabolism
 - **Claim:** Fasting-induced metabolic changes (low glucose, elevated ketones, reduced insulin/IGF-1) reprogram the tumor microenvironment from immunosuppressive to immun permissive, reducing immunosuppressive cell populations and enhancing anti-tumor immune cell function.
 - **Evidence:** Mechanistic studies show fasting reduces glucose availability (tumors are glucose-dependent), increases ketone bodies (anti-inflammatory), lowers insulin and IGF-1 (pro-growth signals), and reduces immunosuppressive MDSCs and regulatory T-cells while enhancing cytotoxic T-cell and NK cell function against tumors.
-- **Reference:** [[Chen_2026_16h_Fasting_Immunotherapy_R-002-0038]] — cited as (Chen et al., 2026)
+- **Reference:**  — cited as (Chen et al., 2026)
 - **Zettel:** [[Fasting_Reprograms_Tumor_Microenvironment_Z-002-0679]]
 
 ### 3. Fasting-Mimicking Diet as Adjunct Cancer Therapy
 - **Claim:** Fasting-mimicking diets (FMD) — low-calorie, low-protein, plant-based protocols that mimic fasting's metabolic effects without complete food deprivation — represent a practical clinical intervention to enhance immunotherapy and potentially other cancer treatments with improved patient compliance.
 - **Evidence:** FMD protocols provide fasting's metabolic benefits (low glucose, ketosis, reduced growth factors) while allowing some food intake, improving tolerability and compliance; clinical trials demonstrate FMD enhances chemotherapy efficacy and immunotherapy response while reducing side effects — offering a feasible metabolic adjunct to standard cancer care.
-- **Reference:** [[Chen_2026_16h_Fasting_Immunotherapy_R-002-0038]] — cited as (Chen et al., 2026)
+- **Reference:**  — cited as (Chen et al., 2026)
 - **Zettel:** [[Fasting_Mimicking_Diet_Adjunct_Cancer_Therapy_Z-002-0680]]
 
 ---
@@ -68,7 +68,7 @@ Fasting or fasting-mimicking diets enhance the effectiveness of immunotherapy in
 
 | Reference | Zettels | Times Cited |
 |-----------|---------|-------------|
-| [[Chen_2026_16h_Fasting_Immunotherapy_R-002-0038]] | Z-002-0678, Z-002-0679, Z-002-0680 | 3 |
+|  | Z-002-0678, Z-002-0679, Z-002-0680 | 3 |
 
 ---
 
@@ -85,7 +85,7 @@ Fasting or fasting-mimicking diets enhance the effectiveness of immunotherapy in
 ## Connections
 - **MOC:** [[MOC-Cancer]] — Thematic domain
 - **INBOX:**  — Article source
-- **Reference:** [[Chen_2026_16h_Fasting_Immunotherapy_R-002-0038]] — Primary source
+- **Reference:**  — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 
 ---

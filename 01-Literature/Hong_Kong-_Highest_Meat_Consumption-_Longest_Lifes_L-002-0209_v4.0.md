@@ -36,7 +36,7 @@ tags:
 ## Source
 - **Full citation:** WHO World Health Statistics 2023; FAO Food Balance Sheets 2020-2022; Hong Kong Census and Statistics Department. Data shows Hong Kong leads globally in both meat consumption (~145 kg/person/year) and life expectancy (~85.3 years).
 - **Inbox origin:** 
-- **Reference note:** [[Hong_Kong_Meat_Longevity_Paradox_R-002-0049]]
+- **Reference note:** 
 
 ## Core Concepts Extracted
 **Hong Kong demonstrates the meat-longevity paradox** — with the world's highest meat consumption AND longest life expectancy, it directly contradicts the assumption that meat reduces lifespan. The data suggests meat quality (fresh, unprocessed), preparation methods, and overall dietary pattern matter more than meat quantity alone.
@@ -48,19 +48,19 @@ tags:
 ### 1. Hong Kong — Highest Meat Consumption, Longest Life Expectancy
 - **Claim:** Hong Kong has the world's highest per-capita meat consumption (~145 kg/person/year) AND the world's longest life expectancy (~85.3 years), representing a direct contradiction to simplistic anti-meat dietary recommendations and demonstrating that meat consumption does not inherently reduce lifespan.
 - **Evidence:** WHO data ranks Hong Kong #1 globally for life expectancy; FAO data ranks Hong Kong #1 for meat consumption; this paradox challenges the assumption that meat is harmful; confounding factors include excellent healthcare, urban walkability, strong social structures, and East Asian genetics.
-- **Reference:** [[Hong_Kong_Meat_Longevity_Paradox_R-002-0049]] — cited as (WHO, FAO data)
+- **Reference:**  — cited as (WHO, FAO data)
 - **Zettel:** [[Hong_Kong_Highest_Meat_Longest_Life_Z-002-0765]]
 
 ### 2. Meat Paradox — Meat Not Inherently Harmful, Context Determines Health Impact
 - **Claim:** Meat is not inherently harmful to health — epidemiological associations between meat and disease are heavily confounded by processing, preparation methods, overall dietary pattern, and lifestyle factors; context determines whether meat consumption is health-promoting or detrimental.
 - **Evidence:** Populations with high fresh meat intake and good health outcomes include Hong Kong, Japan, Mediterranean regions, and traditional Inuit; populations with meat-related health issues typically consume processed meats, use high-heat cooking, and have overall poor dietary patterns; processing (nitrates, smoking) and preparation (charring, frying) create harmful compounds not present in fresh meat.
-- **Reference:** [[Hong_Kong_Meat_Longevity_Paradox_R-002-0049]] — cited as (Epidemiological studies)
+- **Reference:**  — cited as (Epidemiological studies)
 - **Zettel:** [[Meat_Paradox_Not_Harmful_Context_Z-002-0766]]
 
 ### 3. Quality Not Quantity — Meat Processing Matters More Than Amount
 - **Claim:** Meat quality and degree of processing matter more than quantity for health outcomes — fresh, unprocessed meat consumed within a whole-foods dietary pattern is associated with neutral to positive health outcomes, while processed meats consistently show harm regardless of quantity consumed.
 - **Evidence:** Processed meats (bacon, sausage, deli meats) consistently associated with increased CVD, cancer, and mortality in epidemiological studies; fresh meat associations are inconsistent and confounded; Hong Kong's high meat consumption is primarily fresh pork with minimal processing; IARC classifies processed meat as carcinogenic but not fresh red meat.
-- **Reference:** [[Hong_Kong_Meat_Longevity_Paradox_R-002-0049]] — cited as (IARC, WHO reports)
+- **Reference:**  — cited as (IARC, WHO reports)
 - **Zettel:** [[Quality_Not_Quantity_Meat_Health_Z-002-0767]]
 
 ---
@@ -69,14 +69,14 @@ tags:
 
 | Reference | Zettels | Times Cited |
 |-----------|---------|-------------|
-| [[Hong_Kong_Meat_Longevity_Paradox_R-002-0049]] | Z-002-0765, Z-002-0766, Z-002-0767 | 3 |
+|  | Z-002-0765, Z-002-0766, Z-002-0767 | 3 |
 
 ---
 
 ## Connections
 - **MOC:** [[MOC-Nutrition]] — Thematic domain
 - **INBOX:**  — Article source
-- **Reference:** [[Hong_Kong_Meat_Longevity_Paradox_R-002-0049]] — Primary source
+- **Reference:**  — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 
 ---

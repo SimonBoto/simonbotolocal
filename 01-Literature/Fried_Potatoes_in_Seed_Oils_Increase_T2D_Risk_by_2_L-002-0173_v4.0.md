@@ -36,7 +36,7 @@ tags:
 ## Source
 - **Full citation:** Mousavi SM, et al. (2025). Fried potato consumption and risk of type 2 diabetes: prospective cohort studies. *BMJ*. doi:10.1136/bmj-2024-082121
 - **Inbox origin:** 
-- **Reference note:** [[Mousavi_2025_Potato_T2D_BMJ_R-002-0029]]
+- **Reference note:** 
 
 ## Core Concepts Extracted
 Consumption of fried potatoes in seed oils increases type 2 diabetes risk by approximately **20%**, independent of calorie content, through mechanisms involving oxidized omega-6 fatty acids that promote inflammation, disrupt insulin signaling, and damage mitochondrial function.
@@ -48,19 +48,19 @@ Consumption of fried potatoes in seed oils increases type 2 diabetes risk by app
 ### 1. Fried Potatoes in Seed Oils Increase T2D Risk 20%
 - **Claim:** Regular consumption of fried potatoes prepared in seed/vegetable oils increases type 2 diabetes risk by approximately 20% compared to non-fried potato consumption, with the risk attributable to the frying medium (seed oils) rather than the potato itself.
 - **Evidence:** Prospective cohort studies demonstrate dose-response relationship between fried potato intake and incident T2D, with effect independent of total caloric intake, suggesting specific metabolic toxicity of frying in seed oils.
-- **Reference:** [[Mousavi_2025_Potato_T2D_BMJ_R-002-0029]] — cited as (Mousavi et al., 2025)
+- **Reference:**  — cited as (Mousavi et al., 2025)
 - **Zettel:** [[Fried_Potatoes_Seed_Oil_T2D_Risk_20pct_Z-002-0654]]
 
 ### 2. Oxidized Omega-6 from Frying Disrupts Insulin Signaling
 - **Claim:** High-temperature frying of seed oils creates oxidized omega-6 fatty acids and toxic aldehydes that directly disrupt insulin receptor signaling, promote inflammation, and induce mitochondrial dysfunction — mechanisms that explain the diabetes risk independent of caloric content.
 - **Evidence:** Seed oils (soybean, corn, canola) are high in linoleic acid that oxidizes during frying to produce 4-HNE and other reactive aldehydes; these compounds impair glucose uptake, activate inflammatory pathways, and damage pancreatic beta cells.
-- **Reference:** [[Mousavi_2025_Potato_T2D_BMJ_R-002-0029]] — cited as (Mousavi et al., 2025)
+- **Reference:**  — cited as (Mousavi et al., 2025)
 - **Zettel:** [[Oxidized_Omega6_Disrupts_Insulin_Signaling_Z-002-0655]]
 
 ### 3. Seed Oil Omega-6:Omega-3 Ratio Promotes Inflammation
 - **Claim:** The high omega-6:omega-3 fatty acid ratio in seed oils promotes systemic inflammation when consumed regularly, contributing to insulin resistance and type 2 diabetes risk beyond the effects of oxidation products from frying.
 - **Evidence:** Modern seed oils contain omega-6:omega-3 ratios of 10-20:1 (vs. evolutionary 1-4:1); this imbalance drives arachidonic acid-derived pro-inflammatory eicosanoids that contribute to metabolic dysfunction and diabetes pathogenesis.
-- **Reference:** [[Mousavi_2025_Potato_T2D_BMJ_R-002-0029]] — cited as (Mousavi et al., 2025)
+- **Reference:**  — cited as (Mousavi et al., 2025)
 - **Zettel:** [[Seed_Oil_Omega6_Omega3_Ratio_Inflammation_Z-002-0656]]
 
 ---
@@ -69,7 +69,7 @@ Consumption of fried potatoes in seed oils increases type 2 diabetes risk by app
 
 | Reference | Zettels | Times Cited |
 |-----------|---------|-------------|
-| [[Mousavi_2025_Potato_T2D_BMJ_R-002-0029]] | Z-002-0654, Z-002-0655, Z-002-0656 | 3 |
+|  | Z-002-0654, Z-002-0655, Z-002-0656 | 3 |
 
 ---
 
@@ -102,7 +102,7 @@ Consumption of fried potatoes in seed oils increases type 2 diabetes risk by app
 ## Connections
 - [[MOC-Metabolic-Syndrome]]
 - 
-- [[Mousavi_2025_Potato_T2D_BMJ_R-002-0029]]
+- 
 
 ---
 *L-002-0173 | Created: 2026-04-04 | Tier: GOLD*

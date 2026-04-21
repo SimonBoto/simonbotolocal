@@ -36,7 +36,7 @@ tags:
 ## Source
 - **Full citation:** GBD 2017 Diet Collaborators. "Health effects of dietary risks in 195 countries, 1990-2017: a systematic analysis for the Global Burden of Disease Study 2017." *Lancet*. 2019;393(10184):1958-1972. doi:10.1016/S0140-6736(19)30041-8. PMID: 30954305.
 - **Inbox origin:** 
-- **Reference note:** [[GBD_2017_Diet_11_Million_Deaths_R-002-0043]]
+- **Reference note:** 
 
 ## Core Concepts Extracted
 **Poor diet is responsible for 11 million deaths annually — one in five deaths globally** — making dietary risk the leading cause of death worldwide, with high sodium intake, low whole grain consumption, and low fruit intake being the top three dietary risk factors.
@@ -48,19 +48,19 @@ tags:
 ### 1. Unhealthy Diet Causes 11 Million Annual Deaths
 - **Claim:** Poor diet is the #1 risk factor for death globally, causing approximately 11 million deaths annually (22% of all deaths) — exceeding deaths from tobacco, high blood pressure, and other established risk factors.
 - **Evidence:** GBD 2017 analysis of 195 countries demonstrates that dietary risks cause more death and disability than any other modifiable risk factor; top risks include high sodium (3M deaths), low whole grains (3M), low fruits (2M), low nuts/seeds (2M), and low vegetables (1M).
-- **Reference:** [[GBD_2017_Diet_11_Million_Deaths_R-002-0043]] — cited as (GBD 2017 Diet)
+- **Reference:**  — cited as (GBD 2017 Diet)
 - **Zettel:** [[Unhealthy_Diet_11_Million_Annual_Deaths_Z-002-0747]]
 
 ### 2. Diet Quality Matters More Than Diet Quantity
 - **Claim:** The quality of diet (types of foods consumed and not consumed) is more important for mortality risk than diet quantity (calories alone) — what you don't eat may be more harmful than what you do eat.
 - **Evidence:** GBD 2017 shows that deficiencies in healthy foods (whole grains, fruits, vegetables, nuts) cause more deaths than excess consumption of "unhealthy" foods; the top dietary risks are inadequate intake of protective foods rather than excess intake of harmful foods.
-- **Reference:** [[GBD_2017_Diet_11_Million_Deaths_R-002-0043]] — cited as (GBD 2017 Diet)
+- **Reference:**  — cited as (GBD 2017 Diet)
 - **Zettel:** [[Diet_Quality_vs_Quantity_Mortality_Z-002-0748]]
 
 ### 3. Processed Food Disease Burden Globally
 - **Claim:** High consumption of processed foods — which are typically high in sodium, low in whole grains, and low in protective nutrients — drives the global burden of diet-related disease, contributing to cardiovascular disease, diabetes, and cancer.
 - **Evidence:** Processed food consumption correlates with high sodium intake (3M deaths) and low intake of whole grains, fruits, and vegetables; the global shift toward processed, packaged foods is a major driver of the 11 million annual diet-related deaths.
-- **Reference:** [[GBD_2017_Diet_11_Million_Deaths_R-002-0043]] — cited as (GBD 2017 Diet)
+- **Reference:**  — cited as (GBD 2017 Diet)
 - **Zettel:** [[Processed_Food_Disease_Burden_Global_Z-002-0749]]
 
 ---
@@ -69,14 +69,14 @@ tags:
 
 | Reference | Zettels | Times Cited |
 |-----------|---------|-------------|
-| [[GBD_2017_Diet_11_Million_Deaths_R-002-0043]] | Z-002-0747, Z-002-0748, Z-002-0749 | 3 |
+|  | Z-002-0747, Z-002-0748, Z-002-0749 | 3 |
 
 ---
 
 ## Connections
 - **MOC:** [[MOC-Diabetes]] — Thematic domain
 - **INBOX:**  — Article source
-- **Reference:** [[GBD_2017_Diet_11_Million_Deaths_R-002-0043]] — Primary source
+- **Reference:**  — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 
 ---

@@ -37,7 +37,7 @@ tags:
 ## Source
 - **Full citation:** Norgren J, et al. "Meat consumption and dementia risk in APOE4 carriers." *(Pending publication)*. 2026.
 - **Inbox origin:** 
-- **Reference note:** [[Norgren_2026_Meat_APOE4_Dementia_R-002-0046]]
+- **Reference note:** 
 - **Press coverage:** ScienceDaily, Medical News Today, MedPage Today (April 2026)
 
 ## Core Concepts Extracted
@@ -50,19 +50,19 @@ tags:
 ### 1. Meat Consumption Eliminates Genetic Alzheimer Risk
 - **Claim:** Higher meat consumption completely eliminates the increased genetic risk for Alzheimer's disease in APOE4 carriers — reducing dementia risk by 55% (hazard ratio 0.45, P=0.04) compared to APOE4 carriers with lower meat intake.
 - **Evidence:** 2026 study demonstrates that APOE4 carriers (3/4 and 4/4 genotypes) with higher meat consumption have significantly lower dementia risk; the effect is specific to APOE4 carriers, suggesting genotype-dependent dietary requirements.
-- **Reference:** [[Norgren_2026_Meat_APOE4_Dementia_R-002-0046]] — cited as (Norgren et al., 2026)
+- **Reference:**  — cited as (Norgren et al., 2026)
 - **Zettel:** [[Meat_Eliminates_Alzheimer_Genetic_Risk_Z-002-0756]]
 
 ### 2. APOE4 Meat Protective Effect — Evolutionary Mismatch
 - **Claim:** APOE4 is the evolutionarily oldest APOE variant, adapted to meat-rich Paleolithic environments; modern plant-based diets create an evolutionary mismatch that disadvantages APOE4 carriers and increases their dementia risk.
 - **Evidence:** APOE4 emerged ~200,000+ years ago in hunter-gatherer environments with high meat consumption; the variant is optimized for cholesterol and fat metabolism from animal sources; modern low-meat diets mismatch this evolutionary adaptation.
-- **Reference:** [[Norgren_2026_Meat_APOE4_Dementia_R-002-0046]] — cited as (Norgren et al., 2026)
+- **Reference:**  — cited as (Norgren et al., 2026)
 - **Zettel:** [[APOE4_Meat_Protective_Effect_Z-002-0757]]
 
 ### 3. Vitamin B12 Critical for Brain Health
 - **Claim:** Vitamin B12 is critical for brain health through myelin synthesis, neurotransmission, and homocysteine metabolism — and meat is the only reliable dietary source, making B12 a key mechanism for the protective effect of meat in APOE4 carriers.
 - **Evidence:** B12 deficiency causes cognitive impairment, memory loss, and brain atrophy; APOE4 carriers may have impaired B12 utilization or increased requirements; meat provides highly bioavailable B12 that plant foods cannot supply.
-- **Reference:** [[Norgren_2026_Meat_APOE4_Dementia_R-002-0046]] — cited as (Norgren et al., 2026)
+- **Reference:**  — cited as (Norgren et al., 2026)
 - **Zettel:** [[B12_Critical_Brain_Health_Z-002-0758]]
 
 ---
@@ -71,14 +71,14 @@ tags:
 
 | Reference | Zettels | Times Cited |
 |-----------|---------|-------------|
-| [[Norgren_2026_Meat_APOE4_Dementia_R-002-0046]] | Z-002-0756, Z-002-0757, Z-002-0758 | 3 |
+|  | Z-002-0756, Z-002-0757, Z-002-0758 | 3 |
 
 ---
 
 ## Connections
 - **MOC:** [[MOC-Nutrition]] — Thematic domain
 - **INBOX:**  — Article source
-- **Reference:** [[Norgren_2026_Meat_APOE4_Dementia_R-002-0046]] — Primary source
+- **Reference:**  — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 
 ---

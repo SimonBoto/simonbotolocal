@@ -40,8 +40,8 @@ tags:
   - Heaney RP et al. (2015). Letter to Veugelers and Ekwaru, "A Statistical Error in the Estimation of the Recommended Dietary Allowance for Vitamin D". *Nutrients*. 7(3):1688-1690. doi:10.3390/nu7031688
 - **Inbox origin:** 
 - **Reference notes:** 
-  - [[Veugelers_Ekwaru_2014_Vitamin_D_Statistical_Error_R-002-0004]] — Primary statistical error study
-  - [[Heaney_2015_Vitamin_D_Requirements_R-002-0005]] — Confirmation and 30 ng/mL analysis
+  -  — Primary statistical error study
+  -  — Confirmation and 30 ng/mL analysis
 
 ## Core Concepts Extracted
 The Institute of Medicine's 2011 RDA of 600 IU/day for vitamin D was based on a statistical error (using mean instead of 97.5th percentile), leading to an underestimate of actual population needs by approximately 15-fold (~8,900 IU/day required for 97.5% coverage).
@@ -68,13 +68,13 @@ The Institute of Medicine's 2011 RDA of 600 IU/day for vitamin D was based on a 
 ### 2. Corrected Vitamin D RDA ~8900 IU
 - **Claim:** Proper statistical analysis shows ~8,900 IU/day is needed to achieve 25(OH)D >20 ng/mL in 97.5% of the population, not 600 IU/day.
 - **Evidence:** "When using the correct 97.5th percentile approach, the RDA should be approximately 8,895 IU/day to ensure 97.5% of the population reaches 20 ng/mL."
-- **Reference:** [[Veugelers_Ekwaru_2014_Vitamin_D_Statistical_Error_R-002-0004]] — cited as (Veugelers & Ekwaru, 2014)
+- **Reference:**  — cited as (Veugelers & Ekwaru, 2014)
 - **Zettel:** [[Corrected_Vitamin_D_RDA_8900_IU_Z-002-0637]]
 
 ### 3. Vitamin D Requirements for 30 ng/mL
 - **Claim:** To achieve the higher target of 30 ng/mL (associated with optimal health outcomes), approximately 6,201 IU/day is required.
 - **Evidence:** Heaney et al. confirmed through dose-response analysis that 6,201 IU/day is needed for 97.5% of adults to achieve serum 25(OH)D >30 ng/mL.
-- **Reference:** [[Heaney_2015_Vitamin_D_Requirements_R-002-0005]] — cited as (Heaney et al., 2015)
+- **Reference:**  — cited as (Heaney et al., 2015)
 - **Zettel:** [[Vitamin_D_Requirements_30_ng_mL_6201_IU_Z-002-0638]]
 
 ### 4. Vitamin D as Hormone Not Vitamin
@@ -95,8 +95,8 @@ The Institute of Medicine's 2011 RDA of 600 IU/day for vitamin D was based on a 
 
 | Reference | Zettels | Times Cited |
 |-----------|---------|-------------|
-| [[Veugelers_Ekwaru_2014_Vitamin_D_Statistical_Error_R-002-0004]] | Z-002-0636, Z-002-0637 | 2 |
-| [[Heaney_2015_Vitamin_D_Requirements_R-002-0005]] | Z-002-0638 | 1 |
+|  | Z-002-0636, Z-002-0637 | 2 |
+|  | Z-002-0638 | 1 |
 | Sha_2023_J_Intern_Med | Z-002-0639 | 1 |
 | Hahn_2022_BMJ | Z-002-0639, Z-002-0640 | 2 |
 
@@ -131,8 +131,8 @@ The Institute of Medicine's 2011 RDA of 600 IU/day for vitamin D was based on a 
 ## Connections
 - [[MOC-Vitamin-Mineral-Axis]]
 - 
-- [[Veugelers_Ekwaru_2014_Vitamin_D_Statistical_Error_R-002-0004]]
-- [[Heaney_2015_Vitamin_D_Requirements_R-002-0005]]
+- 
+- 
 
 ---
 *L-002-0168 | Created: 2026-04-04 | Tier: GOLD*

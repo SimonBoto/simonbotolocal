@@ -35,7 +35,7 @@ tags:
 ## Source
 - **Full citation:** Polo-López A, Calatayud J, López-Bueno L, et al. "Dose-response association of accelerometer-measured physical activity with all-cause mortality and cardiovascular disease incidence: Prospective cohort study." *Prog Cardiovasc Dis*. 2024. doi:10.1016/j.pcad.2024.04.001
 - **Inbox origin:** 
-- **Reference note:** [[PoloLopez_2024_Minimal_Exercise_Mortality_R-002-0032]]
+- **Reference note:** 
 
 ## Core Concepts Extracted
 Even **15-20 minutes of vigorous exercise per week** is associated with **16-40% lower mortality risk**, with dose-response showing the greatest benefits at minimal doses — demonstrating that small amounts of physical activity provide substantial health protection.
@@ -47,19 +47,19 @@ Even **15-20 minutes of vigorous exercise per week** is associated with **16-40%
 ### 1. Minimal Exercise Dose 15-20 Min Reduces Mortality 16-40%
 - **Claim:** As little as 15-20 minutes of vigorous physical activity per week provides 16-40% reduction in all-cause mortality, demonstrating that exercise benefits follow a curve of diminishing returns where the smallest doses provide the greatest relative protection.
 - **Evidence:** Prospective cohort studies show dose-response relationship between vigorous exercise and mortality, with steep benefit curve at low doses (15-20 min/week) that gradually plateaus with additional activity.
-- **Reference:** [[PoloLopez_2024_Minimal_Exercise_Mortality_R-002-0032]] — cited as (Polo-López et al., 2024)
+- **Reference:**  — cited as (Polo-López et al., 2024)
 - **Zettel:** [[Minimal_Exercise_15-20min_Mortality_Reduction_Z-002-0657]]
 
 ### 2. Exercise Benefits Follow Diminishing Returns Curve
 - **Claim:** The relationship between exercise volume and mortality reduction follows a diminishing returns curve, where the first 15-30 minutes of weekly vigorous activity provides the greatest marginal benefit, with additional exercise continuing to help but at progressively gentler rates.
 - **Evidence:** Approximately 25 minutes/week of vigorous activity achieves ~46% lower all-cause mortality and ~58% lower CVD mortality, with further increases providing smaller incremental benefits — supporting "some is better than none" messaging over all-or-nothing approaches.
-- **Reference:** [[PoloLopez_2024_Minimal_Exercise_Mortality_R-002-0032]] — cited as (Polo-López et al., 2024)
+- **Reference:**  — cited as (Polo-López et al., 2024)
 - **Zettel:** [[Exercise_Diminishing_Returns_Curve_Z-002-0658]]
 
 ### 3. Vigorous Activity More Efficient Than Moderate
 - **Claim:** Vigorous physical activity (high intensity) provides greater mortality reduction per minute than moderate activity, making it more time-efficient for busy individuals seeking health benefits from minimal exercise investment.
 - **Evidence:** The 15-20 minute weekly threshold refers to vigorous activity; achieving equivalent benefits through moderate activity would require substantially more time, highlighting intensity as a key variable for time-constrained populations.
-- **Reference:** [[PoloLopez_2024_Minimal_Exercise_Mortality_R-002-0032]] — cited as (Polo-López et al., 2024)
+- **Reference:**  — cited as (Polo-López et al., 2024)
 - **Zettel:** [[Vigorous_Activity_More_Efficient_Than_Moderate_Z-002-0659]]
 
 ---
@@ -77,7 +77,7 @@ Even **15-20 minutes of vigorous exercise per week** is associated with **16-40%
 ## Connections
 - **MOC:** [[MOC-Clinical-Metabolomics]] — Thematic domain
 - **INBOX:**  — Article source
-- **Reference:** [[PoloLopez_2024_Minimal_Exercise_Mortality_R-002-0032]] — Primary source
+- **Reference:**  — Primary source
 - **Index:** [[01-Literature-Index]] — Container
 
 ---

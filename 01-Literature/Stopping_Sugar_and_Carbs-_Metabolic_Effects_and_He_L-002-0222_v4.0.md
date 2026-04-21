@@ -44,9 +44,9 @@ tags:
 - **Original Greek:** "Αν Διακόψουμε τη Ζάχαρη και τους Υδατάνθρακες Πώς Θα Μπορούσε αυτό να Επηρεάσει την Υγεία Μας;"
 - **Inbox origin:** [[INBOX-Source-Facebook]]
 - **Reference notes:**
-  - [[Teicholz_2025_Low_Carb_Myths_R-001-0049]]
-  - [[Dehghan_2017_PURE_Carbohydrate_Mortality_R-002-0057]]
-  - [[Harvey_2019_Carb_Withdrawal_KetoAdaptation_R-002-0033]]
+  - 
+  - 
+  - 
 
 ## Core Concepts Extracted
 **Reducing sugar and carbohydrate intake produces profound metabolic benefits** — 90% of the population has metabolic dysfunction, and low-carb/ketogenic diets increase energy, reduce inflammation, and address chronic diseases; the PURE study (135,335 people) found higher carbohydrate intake associated with increased mortality, not decreased, challenging conventional dietary guidelines.
@@ -58,19 +58,19 @@ tags:
 ### 1. 90% of Population Has Metabolic Dysfunction — Low-Carb Benefits
 - **Claim:** Approximately 90% of the population has some degree of metabolic dysfunction (impaired glucose metabolism), and reducing sugar and carbohydrate intake produces significant health benefits including increased energy, reduced inflammation, and improved metabolic markers.
 - **Evidence:** Metabolic dysfunction is widespread in modern populations due to high carbohydrate intake; low-carb diets improve energy levels, reduce chronic inflammation, and address root causes of metabolic disease; high-carb foods to reduce include sweets, starches (bread, cereal, crackers, chips), starchy vegetables (potatoes, rice), sweet fruits (bananas, figs, grapes), and sugary drinks (soda, fruit juice); clinical applications include chronic inflammation, autoimmune diseases, and metabolic disorders (insulin resistance, obesity, hypertension, diabetes).
-- **References:** [[Teicholz_2025_Low_Carb_Myths_R-001-0049]], [[Dehghan_2017_PURE_Carbohydrate_Mortality_R-002-0057]] — cited as (Teicholz et al., 2025; Dehghan et al., 2017)
+- **References:** ,  — cited as (Teicholz et al., 2025; Dehghan et al., 2017)
 - **Zettel:** [[Ninety_Percent_Metabolic_Dysfunction_Low_Carb_Benefit_Z-002-0804]]
 
 ### 2. Ketogenic Diet Myths vs Reality — Evidence-Based Facts
 - **Claim:** Common concerns about ketogenic diets are myths not supported by scientific evidence — the largest dietary study (PURE, 135,335 people, 18 countries) found higher carbohydrate intake associated with increased mortality, while "keto flu" symptoms are preventable electrolyte issues, and properly formulated low-carb diets are nutritionally complete long-term.
 - **Evidence:** MYTH: Low-carb increases heart disease risk. REALITY: PURE study found higher carb intake linked to increased mortality, higher fat intake linked to reduced mortality. MYTH: "Keto flu" is unavoidable and dangerous. REALITY: Symptoms (fatigue, dizziness, cramps, headache, brain fog) caused by fluid/electrolyte loss during initial adaptation, preventable with adequate salt, electrolytes, and magnesium supplementation. MYTH: Low-carb is unbalanced long-term. REALITY: Can be nutritionally complete when properly formulated with adequate vegetables, protein, and healthy fats.
-- **References:** [[Teicholz_2025_Low_Carb_Myths_R-001-0049]], [[Dehghan_2017_PURE_Carbohydrate_Mortality_R-002-0057]], [[Harvey_2019_Carb_Withdrawal_KetoAdaptation_R-002-0033]] — cited as (Teicholz et al., 2025; Dehghan et al., 2017; Harvey et al., 2019)
+- **References:** , ,  — cited as (Teicholz et al., 2025; Dehghan et al., 2017; Harvey et al., 2019)
 - **Zettel:** [[Ketogenic_Diet_Myths_vs_Reality_Evidence_Z-002-0805]]
 
 ### 3. Carbohydrates Are Not Essential — Gluconeogenesis Provides Glucose
 - **Claim:** Carbohydrates are not essential nutrients — no deficiency symptoms occur from complete carbohydrate absence because the body can produce required glucose via gluconeogenesis from protein and fat; in contrast, proteins and fats ARE essential nutrients with defined deficiency syndromes.
 - **Evidence:** No carbohydrate deficiency syndrome exists; brain, red blood cells, and eyes can obtain required glucose via gluconeogenesis (synthesis from amino acids and glycerol); essential fatty acid deficiency (omega-3/6) and essential amino acid deficiency produce clear clinical syndromes; carbohydrates are the only macronutrient class without essential status; after metabolic function restored through low-carb intervention, "good" unprocessed carbs can be gradually reintroduced (fruits, honey, legumes, barley rusks, sourdough breads) following Mediterranean diet patterns.
-- **References:** [[Teicholz_2025_Low_Carb_Myths_R-001-0049]] — cited as (Teicholz et al., 2025)
+- **References:**  — cited as (Teicholz et al., 2025)
 - **Zettel:** [[Carbohydrates_Not_Essential_Nutrient_Gluconeogenesis_Z-002-0806]]
 
 ---
@@ -79,9 +79,9 @@ tags:
 
 | Reference | Zettels | Times Cited |
 |-----------|---------|-------------|
-| [[Teicholz_2025_Low_Carb_Myths_R-001-0049]] | Z-002-0804, Z-002-0805, Z-002-0806 | 3 |
-| [[Dehghan_2017_PURE_Carbohydrate_Mortality_R-002-0057]] | Z-002-0804, Z-002-0805 | 2 |
-| [[Harvey_2019_Carb_Withdrawal_KetoAdaptation_R-002-0033]] | Z-002-0805 | 1 |
+|  | Z-002-0804, Z-002-0805, Z-002-0806 | 3 |
+|  | Z-002-0804, Z-002-0805 | 2 |
+|  | Z-002-0805 | 1 |
 
 ---
 
