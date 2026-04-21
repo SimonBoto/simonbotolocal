@@ -141,7 +141,7 @@ tags:
 - Improved endothelial function
 - Mechanism: MGP activation
 
-**Zettels extracted:** [[D_K2_Metabolic_Outcomes_Co_Supplementation_Z-001-0265]]
+**Zettels extracted:** [[Vitamin_K2_Menaquinone_Forms_Z-001-0265]]
 
 ### 4. Limitations of Current Research
 > "Small sample sizes, short duration, homogeneous populations, variable dosing."
@@ -166,7 +166,7 @@ tags:
 - Null results underreported
 - Need for registry of trials
 
-**Zettels extracted:** [[D_K2_Research_Limitations_Gaps_Z-001-0266]]
+**Zettels extracted:** [[VitD_K2_Combination_Evidence_Z-001-0266]]
 
 ### 5. METHAP Contribution to Evidence
 > "METHAP trial addresses multiple gaps: MetS population, systematic monitoring, high-dose protocol."
@@ -196,7 +196,7 @@ tags:
 - Establishes safety profile
 - Informs clinical practice
 
-**Zettels extracted:** [[METHAP_Evidence_Contribution_Z-001-0267]]
+**Zettels extracted:** [[Menaquinone_7_Pharmacokinetics_Z-001-0267]]
 
 ---
 
@@ -230,9 +230,9 @@ tags:
 ## Zettels Created from This Source
 1. [[D_K2_Co_Supplementation_Evidence_Overview_Z-001-0263]]
 2. [[D_K2_Key_Studies_Summary_Z-001-0264]]
-3. [[D_K2_Metabolic_Outcomes_Co_Supplementation_Z-001-0265]]
-4. [[D_K2_Research_Limitations_Gaps_Z-001-0266]]
-5. [[METHAP_Evidence_Contribution_Z-001-0267]]
+3. [[Vitamin_K2_Menaquinone_Forms_Z-001-0265]]
+4. [[VitD_K2_Combination_Evidence_Z-001-0266]]
+5. [[Menaquinone_7_Pharmacokinetics_Z-001-0267]]
 
 ## Related References
 - [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]] — Mechanisms

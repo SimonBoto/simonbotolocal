@@ -82,7 +82,7 @@ Albumin <2.5 g/dL → Significant edema risk; Trend > single value
 
 **Purpose/Significance:** Critical prognostic indicator in CKD progression
 
-**Zettel:** [[Serum_Albumin_Prognostic_Z-001-0575B]]
+**Zettel:** [[Albumin_Synthesis_Markers_Z-001-0575B]]
 
 ---
 
@@ -103,7 +103,7 @@ Dietary recall (practical) vs UUN (gold standard) → Different accuracy levels
 
 **Purpose/Significance:** Guides appropriate protein restriction or supplementation
 
-**Zettel:** [[Protein_Intake_Assessment_Z-001-0575C]]
+**Zettel:** [[Albumin_Inflammation_Confounder_Z-001-0575C]]
 
 ---
 
@@ -123,7 +123,7 @@ Low albumin + low intake = deficiency; Low albumin + high intake = inflammation
 
 **Purpose/Significance:** Prevents inappropriate interventions with potential harm
 
-**Zettel:** [[Albumin_Protein_Integration_Z-001-0575D]]
+**Zettel:** [[Albumin_Dietary_Assessment_Z-001-0575D]]
 
 ---
 
@@ -143,7 +143,7 @@ Low albumin + low intake = deficiency; Low albumin + high intake = inflammation
 
 **Purpose/Significance:** Safe, evidence-based strategy for acute nutritional support
 
-**Zettel:** [[ShortTerm_HighProtein_Protocol_Z-001-0575E]]
+**Zettel:** [[Albumin_Protein_Integration_Z-001-0575E]]
 
 ---
 
@@ -163,17 +163,17 @@ CKD stage adjustments for A1c targets; Calcium binding for oxalate reduction
 
 **Purpose/Significance:** Comprehensive approach to metabolic management in CKD
 
-**Zettel:** [[Glycemic_Oxalate_Management_Z-001-0575F]]
+**Zettel:** [[Albumin_Clinical_Framework_Z-001-0575F]]
 
 ---
 
 ## Zettels Created
 1. [[Albumin_Protein_Dilemma_Z-001-0575A]] — Albumin-protein intake dilemma
-2. [[Serum_Albumin_Prognostic_Z-001-0575B]] — Serum albumin as prognostic marker
-3. [[Protein_Intake_Assessment_Z-001-0575C]] — Dietary protein intake assessment
-4. [[Albumin_Protein_Integration_Z-001-0575D]] — Integration of albumin and protein intake
-5. [[ShortTerm_HighProtein_Protocol_Z-001-0575E]] — Short-term high protein protocol
-6. [[Glycemic_Oxalate_Management_Z-001-0575F]] — Glycemic control and oxalate management
+2. [[Albumin_Synthesis_Markers_Z-001-0575B]] — Serum albumin as prognostic marker
+3. [[Albumin_Inflammation_Confounder_Z-001-0575C]] — Dietary protein intake assessment
+4. [[Albumin_Dietary_Assessment_Z-001-0575D]] — Integration of albumin and protein intake
+5. [[Albumin_Protein_Integration_Z-001-0575E]] — Short-term high protein protocol
+6. [[Albumin_Clinical_Framework_Z-001-0575F]] — Glycemic control and oxalate management
 
 ---
 
@@ -182,8 +182,8 @@ CKD stage adjustments for A1c targets; Calcium binding for oxalate reduction
 | Citation | Key Finding | Relevance | Zettel |
 |----------|-------------|-----------|--------|
 | CGPT-0370 Protein and Kidney Disease | Albumin and protein intake serve different clinical functions | High | [[Albumin_Protein_Dilemma_Z-001-0575A]] |
-| CKD Nutrition Guidelines (2023) | Protein targets vary by CKD stage and clinical context | High | [[Protein_Intake_Assessment_Z-001-0575C]] |
-| Albumin Interpretation Review (2022) | Albumin is prognostic marker of inflammation and nutrition | High | [[Serum_Albumin_Prognostic_Z-001-0575B]] |
+| CKD Nutrition Guidelines (2023) | Protein targets vary by CKD stage and clinical context | High | [[Albumin_Inflammation_Confounder_Z-001-0575C]] |
+| Albumin Interpretation Review (2022) | Albumin is prognostic marker of inflammation and nutrition | High | [[Albumin_Synthesis_Markers_Z-001-0575B]] |
 
 ---
 

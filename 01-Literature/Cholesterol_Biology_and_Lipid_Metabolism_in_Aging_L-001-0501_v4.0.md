@@ -135,7 +135,7 @@ HDL matures → Liver uptake (SR-B1) → Bile excretion
 - Triglycerides: Independent cardiovascular risk factor
 - Lipoprotein(a): Genetic risk factor
 
-**Zettels extracted:** [[Lipoprotein_Classes_Transport_Functions_Z-001-0502]]
+**Zettels extracted:** [[Lipoproteins_Transport_System_Z-001-0502]]
 
 ### 3. Cellular Cholesterol Homeostasis
 > "Cells maintain precise cholesterol levels through regulated synthesis, uptake, efflux, and storage."
@@ -172,7 +172,7 @@ HDL matures → Liver uptake (SR-B1) → Bile excretion
 - Niemann-Pick C: Cholesterol trafficking defect
 - Atherosclerosis: Cholesterol accumulation in arteries
 
-**Zettels extracted:** [[Cellular_Cholesterol_Homeostasis_Z-001-0503]]
+**Zettels extracted:** [[LDL_Cholesterol_Structure_Function_Risk_Z-001-0503]]
 
 ### 4. Cholesterol and Aging
 > "Cholesterol metabolism changes with aging, contributing to cellular dysfunction and age-related diseases."
@@ -204,7 +204,7 @@ HDL matures → Liver uptake (SR-B1) → Bile excretion
 - PCSK9 inhibitors: More effective in elderly
 - Lifestyle: Dietary changes still effective
 
-**Zettels extracted:** [[Cholesterol_Aging_Cellular_Dysfunction_Z-001-0504]]
+**Zettels extracted:** [[HDL_Cholesterol_Reverse_Cholesterol_Transport_Z-001-0504]]
 
 ### 5. Inflammation and Lipids
 > "Cholesterol metabolism and inflammation are intimately linked, with reciprocal regulation."
@@ -231,7 +231,7 @@ HDL matures → Liver uptake (SR-B1) → Bile excretion
 - Autoimmune diseases: Dyslipidemia common
 - Anti-inflammatory therapies improve lipid profiles
 
-**Zettels extracted:** [[Inflammation_Lipid_Metabolism_Reciprocal_Z-001-0505]]
+**Zettels extracted:** [[Lipid_Peroxidation_Oxidized_LDL_Z-001-0505]]
 
 ### 6. Advanced Lipid Markers
 > "Beyond LDL and HDL, advanced markers provide additional cardiovascular risk stratification."
@@ -256,7 +256,7 @@ HDL matures → Liver uptake (SR-B1) → Bile excretion
 - Residual risk: Present even with "optimal" LDL-C
 - Personalized medicine: Advanced markers guide therapy
 
-**Zettels extracted:** [[Advanced_Lipid_Markers_Beyond_LDL_HDL_Z-001-0506]]
+**Zettels extracted:** [[Cholesterol_Cellular_Aging_Z-001-0506]]
 
 ### 7. Therapeutic Targets
 > "Multiple pharmacological targets exist for modifying cholesterol metabolism."
@@ -283,7 +283,7 @@ HDL matures → Liver uptake (SR-B1) → Bile excretion
 - Statin intolerance: Alternative options
 - Residual risk: New targets addressing
 
-**Zettels extracted:** [[Therapeutic_Targets_Cholesterol_Lowering_Z-001-0507]]
+**Zettels extracted:** [[Inflammation_Cholesterol_Metabolic_Syndrome_Z-001-0507]]
 
 ---
 
