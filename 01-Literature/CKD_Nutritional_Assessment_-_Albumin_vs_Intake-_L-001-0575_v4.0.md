@@ -167,17 +167,6 @@ CKD stage adjustments for A1c targets; Calcium binding for oxalate reduction
 
 ---
 
-## Zettels Created
-1. [[Albumin_Protein_Dilemma_Z-001-0575A]] — Albumin-protein intake dilemma
-2. [[Albumin_Synthesis_Markers_Z-001-0575B]] — Serum albumin as prognostic marker
-3. [[Albumin_Inflammation_Confounder_Z-001-0575C]] — Dietary protein intake assessment
-4. [[Albumin_Dietary_Assessment_Z-001-0575D]] — Integration of albumin and protein intake
-5. [[Albumin_Protein_Integration_Z-001-0575E]] — Short-term high protein protocol
-6. [[Albumin_Clinical_Framework_Z-001-0575F]] — Glycemic control and oxalate management
-
----
-
-## Snowball References
 
 | Citation | Key Finding | Relevance | Zettel |
 |----------|-------------|-----------|--------|

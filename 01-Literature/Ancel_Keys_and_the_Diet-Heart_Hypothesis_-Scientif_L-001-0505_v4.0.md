@@ -443,29 +443,3 @@ tags:
 
 ---
 
-## Zettels Created from This Source
-1. [[Ancel_Keys_Scientific_Legacy_Z-001-0527]]
-2. [[Diet_Heart_Hypothesis_Policy_Evolution_Z-001-0935]]
-3. [[Scientific_Revolution_Fat_Rehabilitation_Z-001-0529]]
-4. [[Low_Fat_Era_Consequences_Z-001-0530]]
-5. [[Evidence_Based_Medicine_Lessons_Z-001-0531]]
-
----
-
-*Literature note processed: 2026-03-01*
-
----
-
----
-parent-index: [[01-Literature-Index]]
-
-## Status Checklist
-
-- [x] Source read completely — ## Source section with content?
-- [ ] YAML standardized — uid, type, title, tags, parent-moc present?
-- [ ] Core claim articulated — One-sentence core claim exists?
-- [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
-- [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
-- [ ] Snowball references documented — ## Related References exists?
-- [x] QMD duplicate check completed — In vault (assume yes)
-- [ ] RON review pending — ALWAYS leave unchecked

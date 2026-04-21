@@ -181,17 +181,6 @@ MTHFR genotyping methods:
 
 ---
 
-## Zettels Created
-1. [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]] — Describes MTHFR enzyme function and its role as the rate-limiting step in folate metabolism
-2. [[C677T_Polymorphism_Thermolabile_Z-001-0414]] — Details the C677T polymorphism, its biochemical consequences, and clinical associations
-3. [[A1298C_Polymorphism_Regulatory_Z-001-0415]] — Explains the A1298C polymorphism and its regulatory impact on MTHFR enzyme function
-4. [[MTHFR_Clinical_Management_Folate_Z-001-0416]] — Covers clinical management approaches including folate requirements and preferred supplementation forms
-5. [[MTHFR_Cancer_Association_Complex_Z-001-0417]] — Documents the complex associations between MTHFR variants and cancer risk
-6. [[MTHFR_Testing_Interpretation_Z-001-0418]] — Provides guidance on MTHFR testing indications and clinical interpretation
-
----
-
-## Snowball References
 
 | Citation | Key Finding | Relevance | Zettel |
 |----------|-------------|-----------|--------|

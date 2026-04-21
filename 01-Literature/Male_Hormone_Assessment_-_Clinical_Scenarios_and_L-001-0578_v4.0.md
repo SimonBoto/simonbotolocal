@@ -147,16 +147,6 @@ Hormone panel pattern → Clinical scenario → Differential diagnosis
 
 ---
 
-## Zettels Created
-1. [[Male_Hormone_Assessment_Overview_Z-001-0578A]] — Hormonal pattern recognition framework
-2. [[Testosterone_Laboratory_Ranges_Z-001-0578B]] — Hypogonadism + hyperprolactinemia pattern
-3. [[SHBG_Impact_Testosterone_Z-001-0578C]] — Steroid abuse/androgen excess pattern
-4. [[Free_Testosterone_Calculation_Z-001-0578D]] — Severe combined deficiency pattern
-5. [[Aromatase_Excess_Pattern_Z-001-0578E]] — Aromatase excess + secondary hypogonadism pattern
-
----
-
-## Snowball References
 
 | Citation | Key Finding | Relevance | Zettel |
 |----------|-------------|-----------|--------|

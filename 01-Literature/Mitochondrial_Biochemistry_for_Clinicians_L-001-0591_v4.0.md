@@ -195,17 +195,6 @@ Aconitase: [4Fe-4S] cluster → Fe²⁺ + H₂O₂ → [3Fe-4S] + OH⁻ + Fe³�
 
 ---
 
-## Zettels Created
-1. [[Krebs_Cycle_Clinical_Biochemistry_Z-001-1048]] — TCA cycle overview
-2. [[TCA_Intermediates_Clinical_Significance_Z-001-1049]] — Individual intermediates
-3. [[Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050]] — ETC and ATP synthase
-4. [[Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051]] — NAD+/NADH, FAD/FADH₂
-5. [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]] — Clinical interpretation
-6. [[Aconitase_Oxidative_Stress_Sensitivity_Z-001-1053]] — Oxidative stress marker
-
----
-
-## Snowball References
 
 | Citation | Key Finding | Relevance | Zettel |
 |----------|-------------|-----------|--------|

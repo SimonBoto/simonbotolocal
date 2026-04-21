@@ -145,34 +145,3 @@ Seeking ethics approval for multiple questionnaires (SF-36, FFQ, Numex, 24-hour 
 | **Exercise** | Physical activity | Self-report limitations |
 | **Alcohol** | Substance use | Sensitivity; confidentiality |
 
-## Zettels Created
-1. [[Questionnaire_Ethics_Approval_Strategies_Z-101-0482]] — Practical guidance for multi-instrument studies
-
-## Connections
-- **IRB communication:** [[IRB_Communication_Best_Practices_Z-101-0481]]
-- **Consent framework:** [[METHAP_Informed_Consent_Framework_Z-101-0474]]
-- **Seven requirements:** [[Emanuel_Seven_Requirements_Ethical_Research_Z-101-0478]]
-
-## Extraction Notes
-- **Focus:** Practical application strategies
-- **Context:** Greek ethics application (Ε.Η.Δ.Ε.)
-- **Value:** Actionable for questionnaire-heavy protocols
-
----
-*Extracted: 2026-03-28 | 1 zettel | Domain: 101 (Research Ethics)*
-
----
-
----
-parent-index: [[01-Literature-Index]]
-
-## Status Checklist
-
-- [x] Source read completely — ## Source section with content?
-- [ ] YAML standardized — uid, type, title, tags, parent-moc present?
-- [ ] Core claim articulated — One-sentence core claim exists?
-- [ ] Core concepts numbered — Concepts numbered 1, 2, 3...?
-- [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
-- [ ] Snowball references documented — ## Related References exists?
-- [x] QMD duplicate check completed — In vault (assume yes)
-- [ ] RON review pending — ALWAYS leave unchecked

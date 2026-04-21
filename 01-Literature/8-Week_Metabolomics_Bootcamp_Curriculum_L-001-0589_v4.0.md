@@ -171,17 +171,6 @@ Military Instructor → Socratic Mentor → Hybrid Precision → Choice based on
 
 ---
 
-## Zettels Created
-1. [[Bootcamp_Four_Phase_Structure_Z-001-1035]] — Bootcamp four phase structure
-2. [[Phase_1_Biochemical_Literacy_Foundation_Z-001-1036]] — Phase 1 biochemical literacy foundation
-3. [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]] — Phase 2 OAT pattern mastery
-4. [[Phase_3_Lipidomics_Interpretation_Z-001-1038]] — Phase 3 lipidomics interpretation
-5. [[Phase_4_Clinical_Integration_Drills_Z-001-1039]] — Phase 4 clinical integration drills
-6. [[Training_Teaching_Style_Framework_Z-001-1040]] — Training teaching style framework
-
----
-
-## Snowball References
 
 | Citation | Key Finding | Relevance | Zettel |
 |----------|-------------|-----------|--------|

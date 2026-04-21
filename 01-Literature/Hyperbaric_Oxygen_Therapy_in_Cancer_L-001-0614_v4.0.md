@@ -69,35 +69,3 @@ source: [[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]
 
 **Synthesis:** HBOT represents an adjunctive metabolic approach to cancer therapy—enhancing oxygen delivery to overcome hypoxia-induced treatment resistance while potentially generating oxidative stress in cancer cells.
 
-## Zettels Created from This Source
-1. [[HBOT_Mechanisms_Cancer_Oxygenation_ROS_Z-001-1138]]
-2. [[HBOT_Radiosensitization_Chemotherapy_Enhancement_Z-001-1139]]
-3. [[HBOT_Clinical_Applications_Safety_Considerations_Z-001-1140]]
-
-## Related References
-- 
-- [[Press_Pulse_Strategy_Metabolic_Cancer_Therapy_Z-001-1123]]
-- 
-
----
-
-*Literature note processed: 2026-03-08*
-*Zettels extracted: 3*
-*Status: extracted*
-
----
-
----
-parent-index: [[01-Literature-Index]]
-
-## Status Checklist
-
-- [ ] Source read completely
-- [x] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [ ] Core claim articulated (one sentence)
-- [ ] Core concepts numbered (1, 2, 3...)
-- [x] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [ ] Zettel links use FULL format with titles
-- [x] Snowball references documented
-- [ ] QMD duplicate check completed
-- [ ] RON review pending

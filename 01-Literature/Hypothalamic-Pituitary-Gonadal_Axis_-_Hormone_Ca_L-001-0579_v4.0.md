@@ -175,17 +175,6 @@ Cortisol → inhibit GnRH → cause stress-induced hypogonadism
 
 ---
 
-## Zettels Created
-1. [[HPGA_Axis_Overview_Z-001-0579A]] — Hormonal hierarchy framework
-2. [[GnRH_Pulsatility_Patterns_Z-001-0579B]] — Hypothalamus as master regulator
-3. [[LH_FSH_Secretion_Regulation_Z-001-0579C]] — Pituitary as command center
-4. [[Testosterone_Feedback_Loops_Z-001-0579D]] — End organs as production sites
-5. [[Estrogen_Feedback_Mechanisms_Z-001-0579E]] — HPG cascade step-by-step
-6. [[Progesterone_Cycle_Influence_Z-001-0579F]] — Feedback loops and clinical integration
-
----
-
-## Snowball References
 
 | Citation | Key Finding | Relevance | Zettel |
 |----------|-------------|-----------|--------|

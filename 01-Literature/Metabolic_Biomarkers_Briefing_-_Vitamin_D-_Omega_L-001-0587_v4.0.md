@@ -167,17 +167,6 @@ Core panel: Vitamin D, Omega-3 Index, hsCRP, Homocysteine, HbA1c → Plus compre
 
 ---
 
-## Zettels Created
-1. [[Z-001-0587A]] — Vitamin D (25-OH) biomarker framework
-2. [[Z-001-0587B]] — Omega-3 index biomarker framework
-3. [[Z-001-0587C]] — hsCRP (high-sensitivity CRP) biomarker framework
-4. [[Z-001-0587D]] — Homocysteine biomarker framework
-5. [[Z-001-0587E]] — HbA1c biomarker framework
-6. [[Z-001-0587F]] — Metabolic health assessment panel framework
-
----
-
-## Snowball References
 
 | Citation | Key Finding | Relevance | Zettel |
 |----------|-------------|-----------|--------|

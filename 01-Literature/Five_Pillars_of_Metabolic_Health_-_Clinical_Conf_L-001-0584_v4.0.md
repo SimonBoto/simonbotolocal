@@ -169,17 +169,6 @@ Assessment flow: Mitochondrial → Metabolomics → Glycation → Minerals → F
 
 ---
 
-## Zettels Created
-1. [[Metabolic_Health_Pillar_Nutrition_Z-001-0584A]] — Pillar 1: mitochondrial health & metabolic flexibility framework
-2. [[Metabolic_Health_Pillar_Movement_Z-001-0584B]] — Pillar 2: precision metabolomics framework
-3. [[Metabolic_Health_Pillar_Sleep_Z-001-0584C]] — Pillar 3: glycation control framework
-4. [[Metabolic_Health_Pillar_Stress_Z-001-0584D]] — Pillar 4: magnesium & core mineral status framework
-5. [[Metabolic_Health_Pillar_Environment_Z-001-0584E]] — Pillar 5: omega-3/omega-6 balance framework
-6. [[Clinical_Assessment_Metabolic_Health_Z-001-0584F]] — Clinical integration framework
-
----
-
-## Snowball References
 
 | Citation | Key Finding | Relevance | Zettel |
 |----------|-------------|-----------|--------|

@@ -85,29 +85,3 @@ tags:
 ## Connections
 - **METHAP relevance:** Cofactors are the "wrench set" of metabolism—METHAP's high-dose B-vitamins, magnesium, and iron (when deficient) ensure all metabolic enzymes function optimally.
 
-## Zettels Created from This Source
-1. [[B_Vitamins_Enzyme_Cofactors_Metabolism_Z-001-1102]] — B-vitamin functions
-2. [[Iron_Sulfur_Clusters_Ancient_Cofactors_Z-001-1103]] — Fe-S clusters
-3. [[Magnesium_Metabolic_Cofactor_ATF_Function_Z-001-1104]] — Magnesium
-4. [[Cofactor_Deficiency_Metabolite_Patterns_Z-001-1105]] — Deficiency patterns
-
-## Status Checklist
-
-
-- [ ] Source read completely
-- [x] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [ ] Core claim articulated (one sentence)
-- [ ] Core concepts numbered (1, 2, 3...)
-- [x] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [ ] Zettel links use FULL format with titles
-- [x] Snowball references documented
-- [ ] QMD duplicate check completed
-- [ ] RON review pending
-- [x] Source verified
-- [x] All zettels extracted
-- [x] All zettels refactored to optimal format
-- [x] YAML standardized
-- [x] Connections verified
-
----
-*Processed: 2026-04-06 | Zettels: 4 | Status: COMPLETE*

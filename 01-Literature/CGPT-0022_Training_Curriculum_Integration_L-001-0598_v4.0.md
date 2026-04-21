@@ -136,13 +136,6 @@ MOC-Metabolomics-Training → Domain-Specific MOCs → Clinical Application
 
 ---
 
-## Zettels Created
-1. [[CGPT_0022_Curriculum_Master_Index_Z-001-1081]] — Complete curriculum map
-2. [[Metabolomics_Training_MOC_Graph_Z-001-1082]] — Knowledge graph connections
-
----
-
-## Snowball References
 
 | Citation | Key Finding | Relevance | Zettel |
 |----------|-------------|-----------|--------|

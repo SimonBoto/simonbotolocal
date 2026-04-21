@@ -164,17 +164,6 @@ ALP interpretation: Mild elevation (common), Moderate (investigate), Marked (sig
 
 ---
 
-## Zettels Created
-1. [[ALP_Isoenzymes_Tissue_Sources_Z-001-0576A]] — ALP isoenzymes and tissue distribution
-2. [[Elevated_ALP_Clinical_Significance_Z-001-0576B]] — Clinical significance of elevated ALP
-3. [[Pagets_Disease_Bone_Pathophysiology_Z-001-0576C]] — Paget's disease pathophysiology
-4. [[Breast_Pagets_Disease_Distinct_Entity_Z-001-0576D]] — Breast Paget's disease
-5. [[Differentiating_ALP_Sources_Z-001-0576E]] — Differentiating ALP sources
-6. [[ALP_Normal_Ranges_Interpretation_Z-001-0576F]] — Normal ranges and interpretation
-
----
-
-## Snowball References
 
 | Citation | Key Finding | Relevance | Zettel |
 |----------|-------------|-----------|--------|

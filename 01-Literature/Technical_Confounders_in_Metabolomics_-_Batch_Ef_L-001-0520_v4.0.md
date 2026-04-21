@@ -175,7 +175,3 @@ Visual consistency doesn't necessarily confirm statistical significance or biolo
 zettel-count: 3
 **Zettel:** [[Instrument_Drift_QC_Monitoring_Requirements_Z-001-0941]]
 **Zettel:** [[Sample_Preparation_Variability_Control_Z-001-0940]]
-## Zettels Created
-*Zettels extracted: 3 | Status: draft*
-
-*Merged from legacy version on 2026-04-12*

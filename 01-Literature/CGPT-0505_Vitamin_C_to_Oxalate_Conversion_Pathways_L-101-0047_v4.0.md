@@ -111,36 +111,3 @@ C₆H₆O₆ → C₂H₂O₄ + 4C (lost as CO₂/other)
 | Analysis method | Chromatographic separation preferred |
 | Interpretation | Consider ascorbate-to-oxalate conversion |
 
-## Zettels Created
-1. [[Vitamin_C_to_Oxalate_Chemistry_Z-101-0469]] — Conversion pathway, stoichiometry
-2. [[Ascorbate_Oxalate_Measurement_Interference_Z-101-0470]] — Clinical lab considerations
-3. [[DHA_Metabolism_Pathways_Z-101-0471]] — Multiple fates of dehydroascorbic acid
-
-## Connections
-- **Related source:** [[LitNote_CGPT_0413_Oxalic_Acid_Chemistry_L-101-0046.md] — Oxalate chemistry fundamentals
-- **PhD context:** Adipic acid as alternative marker avoiding vitamin C confounding
-- **Clinical:** Kidney stone risk assessment, supplement counseling
-
-## Extraction Notes
-- **Focus:** Chemical mechanism + measurement interference (high PhD relevance)
-- **Skipped:** General vitamin C biochemistry (well-covered elsewhere)
-- **Emphasized:** Analytical confounding (directly applicable to METHAP protocol)
-
----
-*Extracted: 2026-03-28 | 3 zettels | Domain: 101 (Adipic Acid)*
-
----
-
----
-parent-index: [[01-Literature-Index]]
-
-## Status Checklist
-
-- [x] Source read completely — ## Source section with content?
-- [x] YAML standardized — uid, type, title, tags, parent-moc present?
-- [ ] Core claim articulated — One-sentence core claim exists?
-- [ ] Core concepts numbered — Concepts numbered 1, 2, 3...?
-- [x] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
-- [x] Snowball references documented — ## Related References exists?
-- [x] QMD duplicate check completed — In vault (assume yes)
-- [ ] RON review pending — ALWAYS leave unchecked

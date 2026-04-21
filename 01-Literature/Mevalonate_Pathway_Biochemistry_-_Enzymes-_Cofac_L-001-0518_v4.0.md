@@ -194,37 +194,3 @@ The mevalonate pathway doesn't just make cholesterol - it makes:
 Statin myopathy isn't just "muscle pain" - it's mitochondrial dysfunction from CoQ10 depletion.
 
 
-## Zettels Created from This Source
-1. [[Mevalonate_Pathway_Step_by_Step_Z-001-0566]] - Complete pathway walkthrough
-2. [[HMG_CoA_Reductase_Regulation_Z-001-0567]] - Regulatory mechanisms and statin action
-3. [[Mevalonate_Pathway_Energy_Cost_Z-001-0568]] - ATP and NADPH requirements
-
-
-## Related References
-- [[MOC-Lipid-Metabolism]] - Parent MOC for lipid pathways
-- [[MOC-Mitochondrial-Function]] - Energy metabolism context
-- [[MOC-Vitamin-Mineral-Axis]] - CoQ10 and cofactor context
-- [[LitNote_Statin_Pharmacology_L-001-0502]] - Statin mechanism and side effects (if exists)
-- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]] - CoQ10 synthesis
-
-zettels-created: 3
-
----
-
-## Source Reference
-This literature note was extracted from: [[CGPT_XXXX]]
-
-*Literature note processed: 2026-04-07 | RON*
-*Zettels extracted: N | Status: extracted*
-
-## Status Checklist
-
-- [ ] Source read completely
-- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [ ] Core claim articulated (one sentence)
-- [ ] Core concepts numbered (1, 2, 3...)
-- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [ ] Zettel links use FULL format with titles
-- [ ] Snowball references documented
-- [ ] QMD duplicate check completed
-- [ ] RON review pending

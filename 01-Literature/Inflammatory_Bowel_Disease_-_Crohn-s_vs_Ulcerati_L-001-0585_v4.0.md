@@ -172,17 +172,6 @@ Crohn's: Transmural healing → Fistulas/strictures prevention → Surgery often
 
 ---
 
-## Zettels Created
-1. [[IBD_Pathophysiology_Overview_Z-001-0585A]] — Pathophysiology overview framework
-2. [[Crohns_Disease_Transmural_Z-001-0585B]] — Crohn's disease pathophysiology framework
-3. [[Ulcerative_Colitis_Mucosal_Z-001-0585C]] — Ulcerative colitis pathophysiology framework
-4. [[IBD_Immune_Mechanisms_Z-001-0585D]] — Comparative features framework
-5. [[Gut_Microbiome_IBD_Role_Z-001-0585E]] — Serological markers framework
-6. [[IBD_Genetic_Predisposition_Z-001-0585F]] — Treatment approach framework
-
----
-
-## Snowball References
 
 | Citation | Key Finding | Relevance | Zettel |
 |----------|-------------|-----------|--------|

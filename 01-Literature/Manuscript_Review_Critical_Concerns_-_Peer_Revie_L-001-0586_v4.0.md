@@ -165,17 +165,6 @@ Types: Financial → Intellectual → Personal → Disclosure: Required → Mana
 
 ---
 
-## Zettels Created
-1. [[Reviewers_Role_Framework_Z-001-0586A]] — Reviewer's role framework
-2. [[Critical_Appraisal_Framework_Z-001-0586B]] — Critical appraisal framework
-3. [[Review_Process_Framework_Z-001-0586C]] — Review process framework
-4. [[Causality_Claims_Appraisal_Framework_Z-001-0586D]] — Causality claims appraisal framework
-5. [[Statistical_Issues_Framework_Z-001-0586E]] — Statistical issues framework
-6. [[Conflicts_of_Interest_Framework_Z-001-0586F]] — Conflicts of interest framework
-
----
-
-## Snowball References
 
 | Citation | Key Finding | Relevance | Zettel |
 |----------|-------------|-----------|--------|

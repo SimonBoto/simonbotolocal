@@ -75,30 +75,3 @@ source: [[CGPT_0199_Dysbiosis_Treatment_Side_Effects_CGPT-0199]]
 | Die-off toxicity | - | ✓ Detox |
 | Inflammation | ✓ | ✓ |
 
-## Zettels Created
-1. [[Glutamine_Intestinal_Repair_Protocol_Z-001-1224]]
-2. [[Taurine_Bile_Gut_Health_Z-001-1225]]
-3. [[Amino_Acids_Gut_Healing_Synergy_Z-001-1226]]
-
-## Related
-- 
-- 
-
----
-*Extracted: 2026-03-09*
----
-
----
-parent-index: [[01-Literature-Index]]
-
-## Status Checklist
-
-- [ ] Source read completely
-- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [ ] Core claim articulated (one sentence)
-- [ ] Core concepts numbered (1, 2, 3...)
-- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [ ] Zettel links use FULL format with titles
-- [ ] Snowball references documented
-- [ ] QMD duplicate check completed
-- [ ] RON review pending

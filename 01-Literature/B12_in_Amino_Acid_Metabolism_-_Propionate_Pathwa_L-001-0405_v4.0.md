@@ -83,25 +83,3 @@ tags:
 ## Connections
 - **METHAP relevance:** The propionate pathway represents a critical B12-dependent energy extraction route. B12 deficiency impairs amino acid oxidation, leading to methylmalonic acid accumulation. High-dose B12 ensures optimal energy extraction from protein.
 
-## Zettels Created from This Source
-1. [[Propionate_Sources_Metabolic_Fate_Z-001-0426]] — Propionate sources
-2. [[Propionyl_CoA_Carboxylase_Biotin_Z-001-0427]] — PCC enzyme
-3. [[Methylmalonyl_CoA_Mutase_B12_Mechanism_Z-001-0428]] — B12 mechanism
-4. [[Succinyl_CoA_Krebs_Anaplerosis_Z-001-0429]] — Krebs entry
-5. [[Amino_Acid_Sources_Propionyl_CoA_Z-001-0430]] — AA sources
-6. [[Odd_Chain_Fatty_Acid_Oxidation_Z-001-0431]] — Odd-chain fats
-
-## Status Checklist
-
-- [x] Source read completely — ## Source section with content?
-- [x] YAML standardized — uid, type, title, tags, parent-moc present?
-- [ ] Core claim articulated — One-sentence core claim exists?
-- [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
-- [x] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
-- [x] Snowball references documented — ## Related References exists?
-- [x] QMD duplicate check completed — In vault (assume yes)
-- [ ] RON review pending — ALWAYS leave unchecked
-
-zettels-created: 6
----
-*Processed: 2026-04-06 | Zettels: 6 | Status: COMPLETE*

@@ -419,24 +419,3 @@ tags:
 - **Monitoring:** Track lipids, inflammatory markers
 
 
-## Zettels Created from This Source
-1. [[Oleic_Acid_Biochemistry_Metabolic_Properties_Z-001-0532]]
-2. [[Oleic_Acid_Metabolic_Benefits_Z-001-0533]]
-3. [[Mediterranean_Diet_Evidence_Mechanisms_Z-001-0534]]
-4. [[Olive_Oil_Clinical_Implementation_Z-001-0535]]
-5. [[Olive_Oil_Special_Populations_Z-001-0536]]
-
-
-*Literature note processed: 2026-03-01*
-
-## Status Checklist
-
-- [ ] Source read completely
-- [x] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [ ] Core claim articulated (one sentence)
-- [ ] Core concepts numbered (1, 2, 3...)
-- [x] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [ ] Zettel links use FULL format with titles
-- [ ] Snowball references documented
-- [ ] QMD duplicate check completed
-- [ ] RON review pending

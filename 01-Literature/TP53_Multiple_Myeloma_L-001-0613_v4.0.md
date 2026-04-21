@@ -70,31 +70,3 @@ reviewed_by: "FORG"
 
 **Synthesis:** TP53 abnormalities represent the highest risk category in multiple myeloma—requiring intensified treatment approaches and novel therapeutic strategies targeting the p53 pathway or bypassing its loss.
 
-## Zettels Created from This Source
-1. [[TP53_Abnormalities_Multiple_Myeloma_del17p_Z-001-1135]]
-2. [[p53_Function_Loss_Cancer_Consequences_Z-001-1136]]
-3. [[Targeting_p53_Dysfunction_MDM2_Inhibitors_Z-001-1137]]
-
-## Related References
-- 
-- [[Multiple_Myeloma_Staging_ISS_R-ISS_Z-001-1133]]
-- [[Multiple_Myeloma_Treatment_Modern_Approach_Z-001-1134]]
-
-
-*Literature note processed: 2026-03-08*
-*Zettels extracted: 3*
-*Status: extracted*
-
-
-
-## Status Checklist
-
-- [ ] Source read completely
-- [x] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [ ] Core claim articulated (one sentence)
-- [ ] Core concepts numbered (1, 2, 3...)
-- [x] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [ ] Zettel links use FULL format with titles
-- [x] Snowball references documented
-- [ ] QMD duplicate check completed
-- [ ] RON review pending

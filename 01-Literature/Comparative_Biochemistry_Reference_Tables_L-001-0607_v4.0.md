@@ -75,21 +75,3 @@ These reference tables provide:
 ## Connections
 - **METHAP relevance:** Reference tables consolidate scattered information—essential for clinical practice, teaching, and rapid consultation of metabolic relationships.
 
-## Zettels Created from This Source
-1. [[Aldoses_Ketoses_Reference_Table_Z-001-1114]] — Sugar classification
-2. [[Amino_Acid_Complete_Classification_Table_Z-001-1115]] — Amino acid reference
-3. [[Organic_Acids_Structures_Functions_Z-001-1116]] — Organic acids reference
-
-## Status Checklist
-
-- [x] Source read completely — ## Source section with content?
-- [ ] YAML standardized — uid, type, title, tags, parent-moc present?
-- [ ] Core claim articulated — One-sentence core claim exists?
-- [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
-- [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
-- [ ] Snowball references documented — ## Related References exists?
-- [x] QMD duplicate check completed — In vault (assume yes)
-- [ ] RON review pending — ALWAYS leave unchecked
-
----
-*Processed: 2026-04-06 | Zettels: 3 | Status: COMPLETE*

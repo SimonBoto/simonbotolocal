@@ -79,29 +79,3 @@ tags:
 ## Connections
 - **METHAP relevance:** Pyruvate dehydrogenase requires B1, B2, B3, B5, lipoate; propionate metabolism requires B7 and B12. High-dose nutrients support these critical pathways.
 
-## Zettels Created from This Source
-1. [[Keto_Acids_vs_Carboxylic_Acids_Z-001-0476]] — Keto vs carboxylic acids
-2. [[Pyruvate_Central_Metabolic_Role_Z-001-0477]] — Pyruvate role
-3. [[Propionate_Metabolism_Gluconeogenesis_Z-001-0478]] — Propionate metabolism
-4. [[Vitamin_Dependence_Organic_Acid_Metabolism_Z-001-0479]] — Vitamin dependence
-5. [[Aldehyde_vs_Ketone_Chemistry_Z-001-0480]] — Aldehyde/ketone chemistry
-
-## Status Checklist
-
-
-- [ ] Source read completely
-- [x] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [ ] Core claim articulated (one sentence)
-- [ ] Core concepts numbered (1, 2, 3...)
-- [x] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [ ] Zettel links use FULL format with titles
-- [x] Snowball references documented
-- [ ] QMD duplicate check completed
-- [ ] RON review pending
-- [x] Source verified
-- [x] All zettels extracted
-- [x] All zettels at optimal format
-- [x] YAML standardized
-- [x] Connections verified
-
-*Processed: 2026-04-06 | Zettels: 5 | Status: COMPLETE*

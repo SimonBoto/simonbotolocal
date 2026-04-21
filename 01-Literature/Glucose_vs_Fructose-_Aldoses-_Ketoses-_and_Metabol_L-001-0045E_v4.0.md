@@ -79,29 +79,3 @@ tags:
 ## Connections
 - **METHAP relevance:** Fructose metabolism differs critically from glucose—bypasses regulation, drives lipogenesis. Understanding sugar metabolism informs dietary recommendations for metabolic syndrome reversal.
 
-## Zettels Created from This Source
-1. [[Aldose_vs_Ketose_Chemistry_Z-001-0471]] — Aldose/ketose chemistry
-2. [[Glucose_Metabolism_Overview_Z-001-0472]] — Glucose metabolism
-3. [[Fructose_Metabolism_Lipogenesis_Z-001-0473]] — Fructose metabolism
-4. [[Common_Aldoses_Roles_Z-001-0474]] — Common aldoses
-5. [[Common_Ketoses_Roles_Z-001-0475]] — Common ketoses
-
-## Status Checklist
-
-
-- [ ] Source read completely
-- [x] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [ ] Core claim articulated (one sentence)
-- [ ] Core concepts numbered (1, 2, 3...)
-- [x] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [ ] Zettel links use FULL format with titles
-- [x] Snowball references documented
-- [ ] QMD duplicate check completed
-- [ ] RON review pending
-- [x] Source verified
-- [x] All zettels extracted
-- [x] All zettels at optimal format
-- [x] YAML standardized
-- [x] Connections verified
-
-*Processed: 2026-04-06 | Zettels: 5 | Status: COMPLETE*

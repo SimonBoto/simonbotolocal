@@ -63,33 +63,3 @@ source: [[CGPT_0475_Metabolic_Biomarkers_for_Insulin_CGPT-0475]]
 
 **Synthesis:** Machine learning complements traditional multivariate analysis in METHAP—Random Forest and SVM provide alternative classification approaches with robust feature selection, while deep learning represents future potential for larger datasets.
 
-## Zettels Created from This Source
-1. [[Random_Forest_Classification_Feature_Importance_Z-001-1153]]
-2. [[SVM_Kernel_Methods_Metabolomics_Classification_Z-001-1154]]
-3. [[Deep_Learning_Neural_Networks_Metabolomics_Z-001-1155]]
-
-## Related References
-- 
-- 
-
----
-
-*Literature note processed: 2026-03-08*
-*Zettels extracted: 3*
-*Status: extracted*
-
----
-
-
-
-## Status Checklist
-
-- [ ] Source read completely
-- [x] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [ ] Core claim articulated (one sentence)
-- [ ] Core concepts numbered (1, 2, 3...)
-- [x] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [ ] Zettel links use FULL format with titles
-- [x] Snowball references documented
-- [ ] QMD duplicate check completed
-- [ ] RON review pending

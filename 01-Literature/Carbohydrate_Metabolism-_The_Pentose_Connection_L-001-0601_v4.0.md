@@ -94,23 +94,3 @@ Hexoses (6C): Glucose-6-P, Fructose-6-P, Glucose, Fructose
 ## Connections
 - **METHAP relevance:** Thiamine (B1) supports transketolase in PPP; mitochondrial nutrients ensure robust glycolytic and oxidative metabolism.
 
-## Zettels Created from This Source
-1. [[Trioses_Simplest_Sugars_Glyceraldehyde_Dihydroxyacetone_Z-001-1088]] — Simplest sugars
-2. [[Triose_Roles_Glycolysis_PPP_Krebs_Integration_Z-001-1089]] — Metabolic crossroads
-3. [[Pentose_Phosphate_Pathway_Ribose_NADPH_Z-001-1090]] — PPP overview
-4. [[Glucose_Ribose_Interconversion_PPP_Link_Z-001-1091]] — Glucose-ribose link
-5. [[Evolutionary_Origins_Glycolysis_Ancient_Metabolism_Z-001-1092]] — Ancient origins
-
-## Status Checklist
-
-- [x] Source read completely — ## Source section with content?
-- [x] YAML standardized — uid, type, title, tags, parent-moc present?
-- [ ] Core claim articulated — One-sentence core claim exists?
-- [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
-- [x] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
-- [x] Snowball references documented — ## Related References exists?
-- [x] QMD duplicate check completed — In vault (assume yes)
-- [ ] RON review pending — ALWAYS leave unchecked
-
----
-*Processed: 2026-04-06 | Zettels: 5 | Status: COMPLETE*

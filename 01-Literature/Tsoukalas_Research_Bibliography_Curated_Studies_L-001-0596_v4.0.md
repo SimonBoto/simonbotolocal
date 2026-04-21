@@ -138,14 +138,6 @@ Mediterranean Diet → Cardiovascular Protection → Metabolic Health → Respir
 
 ---
 
-## Zettels Created
-1. [[Metabolomics_Research_Core_Bibliography_Z-001-1074]] — Key papers by domain
-2. [[Vitamin_D_Safety_Research_Summary_Z-001-1075]] — High-dose D evidence
-3. [[Mediterranean_Diet_Metabolic_Evidence_Z-001-1076]] — Dietary intervention studies
-
----
-
-## Snowball References
 
 | Citation | Key Finding | Relevance | Zettel |
 |----------|-------------|-----------|--------|

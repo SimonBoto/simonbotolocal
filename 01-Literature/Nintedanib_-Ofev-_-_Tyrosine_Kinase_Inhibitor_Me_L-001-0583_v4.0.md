@@ -172,17 +172,6 @@ Safety: Diarrhea (gut kinase inhibition), Hepatotoxicity (ALT/AST monitoring), B
 
 ---
 
-## Zettels Created
-1. [[Nintedanib_Drug_Overview_Framework_Z-001-0583A]] — Nintedanib drug overview framework
-2. [[FGFR_Inhibition_Mechanism_Framework_Z-001-0583B]] — FGFR inhibition mechanism framework
-3. [[VEGFR_Inhibition_Mechanism_Framework_Z-001-0583C]] — VEGFR inhibition mechanism framework
-4. [[PDGFR_Inhibition_Mechanism_Framework_Z-001-0583D]] — PDGFR inhibition mechanism framework
-5. [[Clinical_Outcomes_Framework_Z-001-0583E]] — Clinical outcomes framework
-6. [[Safety_and_Metabolism_Framework_Z-001-0583F]] — Safety and metabolism framework
-
----
-
-## Snowball References
 
 | Citation | Key Finding | Relevance | Zettel |
 |----------|-------------|-----------|--------|

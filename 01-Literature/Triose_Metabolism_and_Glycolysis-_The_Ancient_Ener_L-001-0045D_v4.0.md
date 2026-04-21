@@ -78,29 +78,3 @@ tags:
 ## Connections
 - **METHAP relevance:** Glycolysis is the foundation of energy metabolism. Thiamine (B1) supports pyruvate dehydrogenase; mitochondrial nutrients ensure efficient pyruvate oxidation.
 
-## Zettels Created from This Source
-1. [[Triose_Structure_Glyceraldehyde_DHAP_Z-001-0466]] — Triose structure
-2. [[Glycolysis_Steps_Regulation_Z-001-0467]] — Glycolysis steps
-3. [[Fructose_Glycolytic_Intermediate_Z-001-0468]] — Fructose intermediate
-4. [[Pyruvate_Metabolic_Crossroads_Z-001-0469]] — Pyruvate crossroads
-5. [[Evolutionary_Ancient_Glycolysis_Z-001-0470]] — Ancient glycolysis
-
-## Status Checklist
-
-
-- [ ] Source read completely
-- [x] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [ ] Core claim articulated (one sentence)
-- [ ] Core concepts numbered (1, 2, 3...)
-- [x] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [ ] Zettel links use FULL format with titles
-- [x] Snowball references documented
-- [ ] QMD duplicate check completed
-- [ ] RON review pending
-- [x] Source verified
-- [x] All zettels extracted
-- [x] All zettels at optimal format
-- [x] YAML standardized
-- [x] Connections verified
-
-*Processed: 2026-04-06 | Zettels: 5 | Status: COMPLETE*

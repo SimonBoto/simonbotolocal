@@ -90,22 +90,3 @@ tags:
 ## Connections
 - **METHAP relevance:** B6 required for transamination; B12 required for succinyl-CoA entry. High protein intake increases B-vitamin demand. Complete amino acid oxidation requires adequate cofactors.
 
-## Zettels Created from This Source
-1. [[Amino_Acids_Oxaloacetate_Aspartate_Z-001-0493]] — OAA entry
-2. [[Amino_Acids_Alpha_Ketoglutarate_Hub_Z-001-0494]] — α-KG hub
-3. [[Amino_Acids_Succinyl_CoA_B12_Z-001-0495]] — Succinyl-CoA entry
-4. [[Amino_Acids_Fumarate_Phenylalanine_Tyrosine_Z-001-0496]] — Fumarate entry
-5. [[Amino_Acids_Pyruvate_Alanine_Serine_Glycine_Z-001-0497]] — Pyruvate entry
-6. [[Ketogenic_Amino_Acids_Leucine_Lysine_Z-001-0498]] — Ketogenic AAs
-7. [[Glucogenic_vs_Ketogenic_Classification_Z-001-0499]] — Classification
-
-## Status Checklist
-
-- [x] Source read completely — ## Source section with content?
-- [x] YAML standardized — uid, type, title, tags, parent-moc present?
-- [ ] Core claim articulated — One-sentence core claim exists?
-- [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
-- [x] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
-- [x] Snowball references documented — ## Related References exists?
-- [x] QMD duplicate check completed — In vault (assume yes)
-- [ ] RON review pending — ALWAYS leave unchecked

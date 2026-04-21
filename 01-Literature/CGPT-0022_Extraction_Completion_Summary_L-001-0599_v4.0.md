@@ -136,14 +136,6 @@ Week 1-2 → Week 3-4 → Week 5-6 → Week 7-8 → Ongoing Training
 
 ---
 
-## Zettels Created
-1. [[CGPT_0022_Extraction_Master_Index_Z-001-1083]] — Comprehensive inventory
-2. [[CGPT_0022_Quality_Verification_Framework_Z-001-1084]] — Quality assurance
-3. [[CGPT_0022_Training_Implementation_Framework_Z-001-1085]] — Implementation framework
-
----
-
-## Snowball References
 
 | Citation | Key Finding | Relevance | Zettel |
 |----------|-------------|-----------|--------|

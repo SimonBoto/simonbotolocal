@@ -163,17 +163,6 @@ Clinical decisions based on carb context → Different protein recommendations
 
 ---
 
-## Zettels Created
-1. [[Carb_Context_Hypothesis_Z-001-0574A]] — Carbohydrate context hypothesis
-2. [[Carb_Context_Problem_Z-001-0574B]] — Carbohydrate context problem
-3. [[Carb_Context_Mechanism_Z-001-0574C]] — Carbohydrate context mechanism
-4. [[Carb_Context_Evidence_Z-001-0574D]] — Carbohydrate context evidence
-5. [[Carb_Context_Clinical_Integration_Z-001-0574E]] — Carb context clinical integration
-6. [[Carb_Context_Framework_Z-001-0574F]] — Carbohydrate context framework
-
----
-
-## Snowball References
 
 | Citation | Key Finding | Relevance | Zettel |
 |----------|-------------|-----------|--------|

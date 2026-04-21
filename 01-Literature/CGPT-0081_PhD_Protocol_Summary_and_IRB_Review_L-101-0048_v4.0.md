@@ -118,38 +118,3 @@ source: [[CGPT_0081_PhD_Protocol_Summary_CGPT-0081]]
 | Compensation | Clarify no reimbursement for travel |
 | Lay summary | Add brief overview at beginning |
 
-## Zettels Created
-1. [[METHAP_Study_Design_Overview_Z-101-0472]] — Protocol structure, phases, endpoints
-2. [[METHAP_IRB_Feedback_Action_Items_Z-101-0473]] — Committee concerns and responses
-3. [[METHAP_Informed_Consent_Framework_Z-101-0474]] — Consent elements and best practices
-4. [[METHAP_Supplement_Protocol_Z-101-0475]] — Intervention details, dosages, safety
-
-## Connections
-- **Related:** [[CGPT_0359_Compliance_and_Approval_Process_CGPT-0359]] — IRB procedures
-- **Related:** [[CGPT_0131_Medical_Ethics_Assistance_CGPT-0131]] — Ethics frameworks
-- **Related:** [[CGPT_0205_Ethics_Committee_Follow_Up_CGPT-0205]] — Committee interaction
-- **Domain:** Adipic acid biomarker validation within METHAP framework
-
-## Extraction Notes
-- **Focus:** Study design fundamentals + IRB action items (high immediate relevance)
-- **Skipped:** Detailed statistical methodology (covered in CGPT-0475)
-- **Emphasized:** Actionable committee feedback for rapid protocol revision
-
----
-*Extracted: 2026-03-28 | 4 zettels | Domain: 101 (PhD Research)*
-
----
-
----
-parent-index: [[01-Literature-Index]]
-
-## Status Checklist
-
-- [x] Source read completely — ## Source section with content?
-- [ ] YAML standardized — uid, type, title, tags, parent-moc present?
-- [ ] Core claim articulated — One-sentence core claim exists?
-- [ ] Core concepts numbered — Concepts numbered 1, 2, 3...?
-- [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
-- [ ] Snowball references documented — ## Related References exists?
-- [x] QMD duplicate check completed — In vault (assume yes)
-- [ ] RON review pending — ALWAYS leave unchecked

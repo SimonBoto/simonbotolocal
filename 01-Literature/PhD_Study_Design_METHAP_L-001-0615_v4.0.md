@@ -72,30 +72,3 @@ Shift in metabolic biomarkers (urine OA, plasma TFA) from insulin-resistant patt
 
 **Synthesis:** This is the core METHAP trial design—comparing metabolically healthy vs. insulin-resistant individuals, with intervention testing whether targeted diet and supplementation can reverse metabolic dysfunction as measured by metabolomics.
 
-## Zettels Created from This Source
-1. [[METHAP_Study_Population_Recruitment_Strategy_Z-001-1141]]
-2. [[METHAP_Intervention_Protocol_Diet_Supplements_Z-001-1142]]
-3. [[METHAP_Control_Group_Strategy_Reference_Z-001-1143]]
-4. [[METHAP_Study_Timeline_Testing_Schedule_Z-001-1144]]
-
-## Related References
-- 
-- 
-- 
-
-
-*Literature note processed: 2026-03-08*
-*Zettels extracted: 4*
-*Status: extracted*
-
-## Status Checklist
-
-- [ ] Source read completely
-- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [ ] Core claim articulated (one sentence)
-- [ ] Core concepts numbered (1, 2, 3...)
-- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [ ] Zettel links use FULL format with titles
-- [ ] Snowball references documented
-- [ ] QMD duplicate check completed
-- [ ] RON review pending

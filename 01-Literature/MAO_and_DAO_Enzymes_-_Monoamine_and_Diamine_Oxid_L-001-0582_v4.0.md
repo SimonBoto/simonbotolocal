@@ -168,17 +168,6 @@ Selectivity minimizes off-target effects → Xadago example of clean MAO-B selec
 
 ---
 
-## Zettels Created
-1. [[MAO_Enzyme_Framework_Z-001-0582A]] — MAO enzyme framework
-2. [[DAO_Enzyme_Framework_Z-001-0582B]] — DAO enzyme framework
-3. [[MAO_DAO_Interaction_Analysis_Z-001-0582C]] — MAO-DAO interaction analysis
-4. [[Safinamide_Selectivity_Framework_Z-001-0582D]] — Safinamide selectivity framework
-5. [[Histamine_Intolerance_Clinical_Relevance_Z-001-0582E]] — Histamine intolerance clinical relevance
-6. [[Drug_Development_Implications_Z-001-0582F]] — Drug development implications
-
----
-
-## Snowball References
 
 | Citation | Key Finding | Relevance | Zettel |
 |----------|-------------|-----------|--------|

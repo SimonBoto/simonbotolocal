@@ -240,29 +240,3 @@ tags:
 
 ---
 
-## Zettels Created from This Source
-1. [[Standard_vs_Optimal_Ranges_Philosophy_Z-001-0444]]
-2. [[B12_Reference_Optimal_Values_Z-001-0445]]
-3. [[Folate_Serum_vs_RBC_Assessment_Z-001-0446]]
-4. [[Homocysteine_Ranges_Cardiovascular_Risk_Z-001-0447]]
-5. [[MMA_Sensitive_B12_Marker_Z-001-0448]]
-6. [[Integrated_B12_Assessment_Complete_Picture_Z-001-0449]]
-
----
-
-*Literature note processed: 2026-03-01*
-
----
-
----
-parent-index: [[01-Literature-Index]]
-## Status Checklist
-
-- [x] Source read completely — ## Source section with content?
-- [x] YAML standardized — uid, type, title, tags, parent-moc present?
-- [ ] Core claim articulated — One-sentence core claim exists?
-- [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
-- [x] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
-- [x] Snowball references documented — ## Related References exists?
-- [x] QMD duplicate check completed — In vault (assume yes)
-- [ ] RON review pending — ALWAYS leave unchecked

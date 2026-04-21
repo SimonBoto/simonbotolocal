@@ -124,15 +124,6 @@ Internal validation (cross-validation) and external validation ensure model robu
 
 ---
 
-## Zettels Created
-1. [[Power_Analysis_Sample_Size_METHAP_Z-001-1149]] — METHAP power analysis and sample size calculation methodology
-2. [[PCA_Metabolomics_Dimensionality_Reduction_Z-001-1150]] — Principal component analysis for metabolomics dimensionality reduction
-3. [[Multivariate_Analysis_PLS_OPLS_Regression_Z-001-1151]] — Multivariate analysis methods for metabolomics group discrimination
-4. [[Validation_Cross_Validation_Model_Robustness_Z-001-1152]] — Validation methods to ensure model robustness in metabolomics
-
----
-
-## Snowball References
 
 | Citation | Key Finding | Relevance | Zettel |
 |----------|-------------|-----------|--------|

@@ -88,25 +88,3 @@ tags:
 ## Connections
 - **METHAP relevance:** ATP is the energy currency for all cellular work; adenosine signaling affects sleep and metabolism. Understanding nucleotide biochemistry informs energy dysregulation research.
 
-## Zettels Created from This Source
-1. [[ATP_Universal_Energy_Currency_Z-101-0451]] — ATP energy currency
-2. [[Adenosine_Receptors_Sleep_Regulation_Z-101-0452]] — Adenosine receptors
-3. [[Purine_vs_Pyrimidine_Structure_Z-101-0453]] — Purine structure
-4. [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]] — Prebiotic adenine
-5. [[Meteoritic_Nucleobases_Panspermia_Z-101-0455]] — Panspermia evidence
-6. [[RNA_World_Hypothesis_Evolution_Z-101-0456]] — RNA world
-7. [[Amino_Acids_vs_Nucleobases_Z-101-0462]] — Building blocks
-
-## Status Checklist
-
-- [x] Source read completely — ## Source section with content?
-- [x] YAML standardized — uid, type, title, tags, parent-moc present?
-- [ ] Core claim articulated — One-sentence core claim exists?
-- [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
-- [x] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
-- [x] Snowball references documented — ## Related References exists?
-- [x] QMD duplicate check completed — In vault (assume yes)
-- [ ] RON review pending — ALWAYS leave unchecked
-
----
-*Processed: 2026-04-06 | Zettels: 7 | Status: COMPLETE*

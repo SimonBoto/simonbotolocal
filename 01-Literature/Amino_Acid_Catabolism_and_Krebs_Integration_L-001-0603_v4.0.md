@@ -89,23 +89,3 @@ Krebs cycle entry points
 ## Connections
 - **METHAP relevance:** Amino acid catabolism demonstrates metabolic integration—proteins feed into central energy metabolism at multiple points, with B-vitamins as essential cofactors. High protein intake increases B6 demand.
 
-## Zettels Created from This Source
-1. [[Glycogenic_Ketogenic_Amino_Acid_Classification_Z-001-1097]] — Classification
-2. [[Amino_Acid_Krebs_Entry_Points_Map_Z-001-1098]] — Krebs entry
-3. [[Alpha_Keto_Acids_Transamination_Intermediates_Z-001-1099]] — Alpha-keto acids
-4. [[Transamination_B6_Cofactors_Amino_Acid_Metabolism_Z-001-1100]] — Transamination
-5. [[Glucogenic_Amino_Acids_Gluconeogenesis_Support_Z-001-1101]] — Gluconeogenesis
-
-## Status Checklist
-
-- [x] Source read completely — ## Source section with content?
-- [x] YAML standardized — uid, type, title, tags, parent-moc present?
-- [ ] Core claim articulated — One-sentence core claim exists?
-- [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
-- [x] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
-- [x] Snowball references documented — ## Related References exists?
-- [x] QMD duplicate check completed — In vault (assume yes)
-- [ ] RON review pending — ALWAYS leave unchecked
-
----
-*Processed: 2026-04-06 | Zettels: 5 | Status: COMPLETE*

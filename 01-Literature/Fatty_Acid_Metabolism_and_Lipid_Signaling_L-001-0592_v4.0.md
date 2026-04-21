@@ -164,16 +164,6 @@ Acylcarnitine + CoA → Acyl-CoA + Carnitine (CPT2)
 
 ---
 
-## Zettels Created
-1. [[Beta_Oxidation_Clinical_Mechanisms_Z-001-1054]] — Mitochondrial fat burning
-2. [[Fatty_Acid_Subclasses_Desaturase_Pathways_Z-001-1055]] — n-3 and n-6 pathways
-3. [[Fatty_Acid_Ratios_Clinical_Interpretation_Z-001-1056]] — AA/EPA, 6:3 ratios
-4. [[Ketosis_Metabolic_Flexibility_Clinical_Z-001-1057]] — Ketone physiology
-5. [[Carnitine_Shuttle_Fatty_Acid_Transport_Z-001-1058]] — Transport mechanism
-
----
-
-## Snowball References
 
 | Citation | Key Finding | Relevance | Zettel |
 |----------|-------------|-----------|--------|

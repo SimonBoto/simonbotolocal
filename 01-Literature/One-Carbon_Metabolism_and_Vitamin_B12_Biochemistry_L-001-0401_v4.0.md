@@ -149,30 +149,3 @@ Donates methyl group to B12 → Methionine synthesis
 **Zettels extracted:** [[B12_Deficiency_Manifestations_Z-001-0406]]
 
 
-## Zettels Created
-1. [[One_Carbon_Metabolism_Overview_Z-001-0401]]
-2. [[Vitamin_B12_Cofactor_Enzymes_Z-001-0402]]
-3. [[B12_Absorption_Transport_Z-001-0403]]
-4. [[Methyl_Trap_B12_Folate_Z-001-0404]]
-5. [[Homocysteine_Metabolism_Z-001-0405]]
-6. [[B12_Deficiency_Manifestations_Z-001-0406]]
-
-
-*Literature note processed: 2026-03-01*
-
----
-
----
-*FORG v4.0 conversion: 2026-04-09*
-*Reviewed by: RON*
-## Status Checklist
-
-- [ ] Source read completely
-- [x] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [ ] Core claim articulated (one sentence)
-- [ ] Core concepts numbered (1, 2, 3...)
-- [x] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [ ] Zettel links use FULL format with titles
-- [ ] Snowball references documented
-- [ ] QMD duplicate check completed
-- [ ] RON review pending

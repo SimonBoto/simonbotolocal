@@ -154,16 +154,6 @@ Let trainee make common error → Model correction → Explain why pattern leads
 
 ---
 
-## Zettels Created
-1. [[Metabolomics_Chief_Instructor_Role_Definition_Z-001-1029]] — Metabolomics chief instructor role definition
-2. [[MCI_Three_Function_Architecture_Z-001-1030]] — MCI three-function architecture
-3. [[Six_Stage_Patient_Flow_Framework_Z-001-1031]] — Six-stage patient flow framework
-4. [[Tiered_Supplement_Prescribing_Hierarchy_Z-001-1032]] — Tiered supplement prescribing hierarchy
-5. [[Socratic_Method_Metabolomics_Training_Z-001-1033]] — Socratic method metabolomics training
-
----
-
-## Snowball References
 
 | Citation | Key Finding | Relevance | Zettel |
 |----------|-------------|-----------|--------|

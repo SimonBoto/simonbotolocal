@@ -173,17 +173,6 @@ U.S. regulations (45 CFR 46, FDA) → International standards (ICH-GCP, European
 
 ---
 
-## Zettels Created
-1. [[Seven_Requirements_Framework_Z-001-0581A]] — Seven requirements for ethical research framework
-2. [[Nuremberg_Code_Framework_Z-001-0581B]] — Nuremberg Code framework
-3. [[Declaration_of_Helsinki_Framework_Z-001-0581C]] — Declaration of Helsinki framework
-4. [[Belmont_Report_Framework_Z-001-0581D]] — Belmont Report framework
-5. [[CIOMS_Guidelines_Framework_Z-001-0581E]] — CIOMS guidelines framework
-6. [[Regulatory_Frameworks_Integration_Z-001-0581F]] — Regulatory frameworks integration
-
----
-
-## Snowball References
 
 | Citation | Key Finding | Relevance | Zettel |
 |----------|-------------|-----------|--------|

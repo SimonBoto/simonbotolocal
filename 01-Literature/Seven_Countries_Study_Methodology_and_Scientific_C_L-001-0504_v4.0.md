@@ -422,23 +422,3 @@ Ratio likely captures **Mediterranean dietary pattern** — not mechanistic effe
 - **Nutritional advice:** Question simplistic narratives
 
 
-## Zettels Created from This Source
-1. [[Seven_Countries_Study_Design_Structure_Z-001-0522]]
-2. [[Ecological_Fallacy_Nutrition_Research_Z-001-0523]]
-3. [[Selection_Bias_Cherry_Picking_Countries_Z-001-0931]]
-4. [[Confounding_Variables_Diet_Studies_Z-001-0525]]
-5. [[Statistical_Issues_Overfitting_Correlation_Z-001-0933]]
-
-
-*Literature note processed: 2026-03-01*
-## Status Checklist
-
-- [ ] Source read completely
-- [x] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [ ] Core claim articulated (one sentence)
-- [ ] Core concepts numbered (1, 2, 3...)
-- [x] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [ ] Zettel links use FULL format with titles
-- [ ] Snowball references documented
-- [ ] QMD duplicate check completed
-- [ ] RON review pending

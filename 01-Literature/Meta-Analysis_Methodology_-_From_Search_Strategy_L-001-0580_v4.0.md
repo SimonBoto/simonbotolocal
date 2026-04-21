@@ -169,17 +169,6 @@ Tier 1 (high impact) → Tier 2 (specialized) → Tier 3 (field-specific) → Se
 
 ---
 
-## Zettels Created
-1. [[60_Day_Learning_Framework_Z-001-0580A]] — 60-day learning framework
-2. [[PRISMA_Guidelines_Framework_Z-001-0580B]] — PRISMA guidelines framework
-3. [[Key_Database_Selection_Criteria_Z-001-0580C]] — Key database selection criteria
-4. [[Quality_Assessment_Tools_Framework_Z-001-0580D]] — Quality assessment tools framework
-5. [[Statistical_Analysis_Methodology_Z-001-0580E]] — Statistical analysis methodology
-6. [[Journal_Selection_Strategy_Z-001-0580F]] — Journal selection strategy
-
----
-
-## Snowball References
 
 | Citation | Key Finding | Relevance | Zettel |
 |----------|-------------|-----------|--------|

@@ -164,17 +164,6 @@ mtDNA mutations → Respiratory defects, ROS increase, metabolic reprogramming, 
 
 ---
 
-## Zettels Created
-1. [[VDR_Knockout_Model_Z-001-0577A]] — Vitamin D receptor knockout model
-2. [[POLG_Knockout_Z-001-0577B]] — POLG mitochondrial DNA polymerase knockout
-3. [[TFAM_Knockout_Z-001-0577C]] — TFAM mitochondrial transcription factor knockout
-4. [[Mitochondrial_Dynamics_Knockout_Z-001-0577D]] — Mitochondrial dynamics genes
-5. [[Respiratory_Chain_Knockout_Z-001-0577E]] — Respiratory chain complex knockouts
-6. [[mtDNA_Cancer_Pathogenesis_Z-001-0577F]] — Mitochondrial DNA in cancer pathogenesis
-
----
-
-## Snowball References
 
 | Citation | Key Finding | Relevance | Zettel |
 |----------|-------------|-----------|--------|

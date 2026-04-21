@@ -461,24 +461,3 @@ Docosahexaenoic Acid (DHA, 22:6 n-3)
 - **Insulin sensitivity:** Fatty acid balance affects glucose metabolism
 
 
-## Zettels Created from This Source
-1. [[Omega_6_Omega_3_Ratio_Evolutionary_Modern_Z-001-0516]]
-2. [[Seed_Oils_Production_Metabolic_Impact_Z-001-0517]]
-3. [[Seven_Countries_Study_Reassessment_Z-001-0518]]
-4. [[Olive_Oil_Mediterranean_Advantage_Z-001-0519]]
-5. [[Fatty_Acid_Metabolism_Enzymatic_Pathways_Z-001-0520]]
-6. [[Fatty_Acid_Dietary_Strategies_Z-001-0521]]
-
-
-*Literature note processed: 2026-03-01*
-## Status Checklist
-
-- [ ] Source read completely
-- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [ ] Core claim articulated (one sentence)
-- [ ] Core concepts numbered (1, 2, 3...)
-- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [ ] Zettel links use FULL format with titles
-- [ ] Snowball references documented
-- [ ] QMD duplicate check completed
-- [ ] RON review pending

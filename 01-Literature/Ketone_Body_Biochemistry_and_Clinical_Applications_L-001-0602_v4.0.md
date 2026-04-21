@@ -90,29 +90,3 @@ Fatty acids → Acetyl-CoA → Acetoacetate (primary ketone)
 ## Connections
 - **METHAP relevance:** Ketone metabolism directly connects to insulin resistance research; impaired ketone utilization seen in metabolic syndrome. Mild nutritional ketosis may enhance metabolic flexibility.
 
-## Zettels Created from This Source
-1. [[Three_Ketone_Bodies_Acetoacetate_BHB_Acetone_Z-001-1093]] — Three ketone bodies
-2. [[Ketogenesis_Mechanism_Liver_Mitochondria_Z-001-1094]] — Production mechanism
-3. [[BHB_Hydroxyacid_Not_True_Ketone_Z-001-1095]] — BHB chemistry
-4. [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]] — Clinical applications
-
-## Status Checklist
-
-
-- [ ] Source read completely
-- [x] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [ ] Core claim articulated (one sentence)
-- [ ] Core concepts numbered (1, 2, 3...)
-- [x] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [ ] Zettel links use FULL format with titles
-- [x] Snowball references documented
-- [ ] QMD duplicate check completed
-- [ ] RON review pending
-- [x] Source verified
-- [x] All zettels extracted
-- [x] All zettels refactored to optimal format
-- [x] YAML standardized
-- [x] Connections verified
-
----
-*Processed: 2026-04-06 | Zettels: 4 | Status: COMPLETE*

@@ -75,28 +75,3 @@ Raw Data → Preprocessing → Normalization → Statistical Analysis
 
 **Synthesis:** METHAP data processing follows established metabolomics standards—from raw data preprocessing through biological interpretation—ensuring reproducible, biologically meaningful results.
 
-## Zettels Created from This Source
-1. [[Metabolomics_Preprocessing_Quality_Control_Z-001-1156]]
-2. [[Normalization_Scaling_Metabolomics_Data_Z-001-1157]]
-3. [[Pathway_Analysis_Network_Metabolomics_Z-001-1158]]
-
-## Related References
-- 
-- 
-
-
-*Literature note processed: 2026-03-08*
-*Zettels extracted: 3*
-*Status: extracted*
-
-## Status Checklist
-
-- [ ] Source read completely
-- [x] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [ ] Core claim articulated (one sentence)
-- [ ] Core concepts numbered (1, 2, 3...)
-- [x] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [ ] Zettel links use FULL format with titles
-- [x] Snowball references documented
-- [ ] QMD duplicate check completed
-- [ ] RON review pending

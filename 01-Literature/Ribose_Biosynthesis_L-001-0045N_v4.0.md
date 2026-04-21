@@ -166,17 +166,6 @@ Nucleobase + PRPP → Nucleotide + PPi
 
 ---
 
-## Zettels Created
-1. [[PPP_Oxidative_Phase_Z-001-0457]] — PPP oxidative phase
-2. [[Ribose_Structure_RNA_Backbone_Z-001-0458]] — Ribose structure
-3. [[Triose_Metabolism_G3P_DHAP_Z-001-0459]] — Triose metabolism
-4. [[NADPH_Functions_Antioxidant_Defense_Z-001-0460]] — NADPH functions
-5. [[G6PD_Deficiency_Evolutionary_Trade-offs_Z-001-0461]] — G6PD deficiency
-6. [[Nucleobase_Phosphorylation_Nucleotide_Formation_Z-001-0465]] — Phosphorylation
-
----
-
-## Snowball References
 
 | Citation | Key Finding | Relevance | Zettel |
 |----------|-------------|-----------|--------|

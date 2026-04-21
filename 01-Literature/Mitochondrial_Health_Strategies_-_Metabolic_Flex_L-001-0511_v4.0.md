@@ -390,23 +390,3 @@ Fatty Acid Adaptation (Restored):
 - **Monitoring:** Organic acids as outcome measure
 
 
-## Zettels Created from This Source
-1. [[Metabolic_Flexibility_Substrate_Switch_Z-001-0554]]
-2. [[Mitochondrial_Biogenesis_Exercise_PGC1a_Z-001-0555]]
-3. [[Metabolomics_Guided_Personalization_Z-001-0556]]
-4. [[Combined_Mitochondrial_Intervention_Strategy_Z-001-0557]]
-
-
-*CGPT-0378 extraction complete — 1 LitNote, 4 zettels*
-
-## Status Checklist
-
-- [ ] Source read completely
-- [x] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [ ] Core claim articulated (one sentence)
-- [ ] Core concepts numbered (1, 2, 3...)
-- [x] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [ ] Zettel links use FULL format with titles
-- [ ] Snowball references documented
-- [ ] QMD duplicate check completed
-- [ ] RON review pending
