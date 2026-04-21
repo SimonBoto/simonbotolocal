@@ -4,7 +4,7 @@ title: Vault Architecture — Orphans + Inbox Zero
 assignee: RON+FORG
 energy: 20h / $5.00
 priority: P1
-status: pending
+status: backlog
 created: 2026-04-21
 parent: ISSUE-022
 spawned: []

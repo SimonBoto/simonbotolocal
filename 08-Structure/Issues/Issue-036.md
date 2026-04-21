@@ -4,7 +4,7 @@ title: LitNote Comprehensive Audit — Full Vault Health Assessment
 assignee: RON+FORG+SCOUT
 energy: 16h / $10.00
 priority: P1
-status: planning
+status: active
 created: 2026-04-21
 ---
 

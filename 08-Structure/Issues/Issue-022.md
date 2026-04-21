@@ -4,7 +4,7 @@ title: System Potential Audit — 7 Dimensions to Full Capacity
 assignee: RON
 energy: ongoing
 priority: P1
-status: pending
+status: backlog
 created: 2026-04-21
 parent: none
 spawned: [ISSUE-023, ISSUE-024, ISSUE-025, ISSUE-026, ISSUE-027, ISSUE-028, ISSUE-029]

@@ -3,7 +3,7 @@ uid: ISSUE-037
 type: issue
 title: "Connection Tracking with Anchors — Bidirectional Link Architecture"
 date: 2026-04-21
-status: open
+status: completed
 priority: P1
 ---
 

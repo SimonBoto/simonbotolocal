@@ -4,7 +4,7 @@ title: OpenClaw Skills — Native Integration
 assignee: RON
 energy: 2h / $0.50
 priority: P2
-status: pending
+status: backlog
 created: 2026-04-21
 parent: ISSUE-022
 spawned: []

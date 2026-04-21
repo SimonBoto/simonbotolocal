@@ -4,7 +4,7 @@ title: LitNote YAML Cleanup — 2 Files Fixed, 210 Files Use Multi-Document YAML
 assignee: RON+FORG
 energy: 2h / $1.00
 priority: P1
-status: resolved
+status: completed
 created: 2026-04-21
 resolved: 2026-04-21
 parent: ISSUE-034

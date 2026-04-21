@@ -4,7 +4,7 @@ title: AutoResearch Pilot — Design program-RON.md Architecture
 assignee: RON
 energy: 3h / $1.00
 priority: P1
-status: pending
+status: backlog
 created: 2026-04-21
 parent: none
 spawned: []

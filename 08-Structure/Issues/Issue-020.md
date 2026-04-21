@@ -4,7 +4,7 @@ title: Orphan Zettel Reconnection — 312 Orphans to MOCs
 assignee: RON
 energy: 4h / $1.50
 priority: P2
-status: pending
+status: backlog
 created: 2026-04-21
 parent: none
 spawned: []

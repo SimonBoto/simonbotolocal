@@ -4,7 +4,7 @@ title: Obsidian OpenClaw Plugin/Pipeline
 assignee: RON
 energy: 8h / $2.00
 priority: P2
-status: pending
+status: backlog
 created: 2026-04-21
 parent: ISSUE-022
 spawned: []

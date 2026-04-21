@@ -3,7 +3,7 @@ uid: ISSUE-039
 type: issue
 title: "Agent Identity Sync Rule — Vault ↔ .openclaw/agents/"
 date: 2026-04-21
-status: open
+status: completed
 priority: P1
 ---
 

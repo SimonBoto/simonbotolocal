@@ -4,7 +4,7 @@ title: PhD Parallel Work — 10 GOLD Refs + 2 P1 Hypotheses
 assignee: RON
 energy: 6h / $2.00
 priority: P1
-status: pending
+status: backlog
 created: 2026-04-21
 parent: none
 spawned: []

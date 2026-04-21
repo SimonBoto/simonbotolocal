@@ -4,7 +4,7 @@ title: Memory Semantic Search — Complete Activation
 assignee: RON
 energy: 1h / $0.20
 priority: P1
-status: pending
+status: backlog
 created: 2026-04-21
 parent: ISSUE-022
 spawned: []

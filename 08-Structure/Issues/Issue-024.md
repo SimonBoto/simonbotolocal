@@ -4,7 +4,7 @@ title: Workspace-Vault Auto-Sync
 assignee: RON
 energy: 3h / $1.00
 priority: P2
-status: pending
+status: backlog
 created: 2026-04-21
 parent: ISSUE-022
 spawned: []

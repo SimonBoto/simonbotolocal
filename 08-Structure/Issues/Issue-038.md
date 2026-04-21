@@ -3,7 +3,7 @@ uid: ISSUE-038
 type: issue
 title: ".openclaw Directory Cleanup — Archive Old Backups & Preserve JUNIOR"
 date: 2026-04-21
-status: open
+status: completed
 priority: P2
 ---
 
