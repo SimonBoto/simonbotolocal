@@ -193,8 +193,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "64120ee807f0bd00",
+  "active": "3defb34dd9bafdc5",
   "lastOpenFiles": [
+    "03-Zettels/Conscious/Respiratory_Chain_Complex_Deficiencies_Z-001-1169.md",
     "08-Structure/System/audit-reports/PHANTOM-LINKS-CURRENT.md",
     "08-Structure/System/audit-reports/PHANTOM-LINKS-LITNOTES.md",
     "08-Structure/System/audit-reports/PHANTOM-LINKS-FRESH.md",
@@ -222,7 +223,6 @@
     "03-Zettels/Conscious/Declaration_of_Helsinki_Framework_Z-001-0581C.md",
     "03-Zettels/Conscious/Regulatory_Frameworks_Integration_Z-001-0581F.md",
     "03-Zettels/Conscious/Belmont_Report_Framework_Z-001-0581D.md",
-    "03-Zettels/Conscious/Seven_Requirements_Framework_Z-001-0581A.md",
     "audit-reports",
     "07-Projects/Operations/Scripts/fix-phantom-links.py",
     "07-Projects/Operations/Scripts/fix-missing-brackets.py",
