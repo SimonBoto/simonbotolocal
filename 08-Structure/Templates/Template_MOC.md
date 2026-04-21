@@ -3,7 +3,7 @@ uid: TEMPLATE-MOC-003
 type: template
 title: Template — MOC (Canonical)
 description: "Canonical Map of Content template for thematic navigation — backlinks populate automatically."
-version: "3.0"
+version: "4.0"
 status: active
 updated: 2026-04-20
 ---

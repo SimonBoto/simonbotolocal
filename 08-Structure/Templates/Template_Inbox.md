@@ -3,7 +3,7 @@ uid: TEMPLATE-INBOX-003
 type: template
 title: Template — Inbox (Canonical)
 description: "Canonical inbox template for adaptive intake — size determines processing path."
-version: "3.0"
+version: "4.0"
 status: active
 updated: 2026-04-08
 ---

@@ -3,7 +3,7 @@ uid: TEMPLATE-BIO-002
 type: template
 title: Template — Biomarker (Zettel-Style Canonical)
 description: "Canonical biomarker template for atomic lab marker records, reference ranges, clinical interpretation, and supplement interventions."
-version: "2.0"
+version: "4.0"
 status: active
 updated: 2026-04-08
 ---

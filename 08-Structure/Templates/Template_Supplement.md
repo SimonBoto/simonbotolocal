@@ -3,7 +3,7 @@ uid: TEMPLATE-SUPP-002
 type: template
 title: Template — Supplement (Zettel-Style Canonical)
 description: "Canonical supplement template for atomic product records, sourcing from companies or iHerb, with zettel-style structure and clinical annotations."
-version: "2.0"
+version: "4.0"
 status: active
 updated: 2026-04-08
 ---

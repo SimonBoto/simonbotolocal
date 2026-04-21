@@ -3,7 +3,7 @@ uid: TEMPLATE-REF-003
 type: template
 title: Template — Reference (Canonical)
 description: "Canonical reference template for bibliographic sources, citation hubs, and canonical source records."
-version: "3.0"
+version: "4.0"
 status: active
 updated: 2026-04-08
 ---

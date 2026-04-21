@@ -3,7 +3,7 @@ uid: TEMPLATE-SYN-002
 type: template
 title: Template — Synthesis (Canonical)
 description: "Canonical synthesis template for integrating multiple sources into living documents."
-version: "2.0"
+version: "4.0"
 status: active
 updated: 2026-04-08
 ---

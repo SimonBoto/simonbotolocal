@@ -3,7 +3,7 @@ uid: TEMPLATE-DAILY-005
 type: template
 title: Template — Daily Note
 description: "Date-stamped daily operational note for continuity, learning, and signal preservation."
-version: "2.0"
+version: "4.0"
 status: active
 updated: 2026-04-08
 ---
