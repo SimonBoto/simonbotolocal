@@ -2,7 +2,7 @@
 uid: 20260414170701
 type: readme
 title: "07-Projects — README"
-date: 2026-04-14
+date: 2026-04-21
 aliases: [Projects-README, Projects-Guide]
 tags: [readme, projects, guide, navigation]
 parent-index: "[[07-Projects-Index]]"
@@ -11,7 +11,7 @@ status: active
 
 # 07-Projects — README
 
-> **Active work, organized by domain. Projects move through states: active → paused → completed.**
+> **Active work, organized by lifecycle state and domain.**
 
 ---
 
@@ -26,98 +26,79 @@ Projects are:
 
 ---
 
-## Folder Structure
+## Folder Structure (v2.0)
 
 ```
 07-Projects/
 ├── 07-Projects-Index.md          # Navigation hub
 ├── 07-Projects-README.md         # This file
-├── PROJECT_CONTROL_BOARD.md      # Master status dashboard
 │
-├── Agents/                        # AI agent development
-│   ├── FORG_Agent_Project_S-001-0004.md
-│   └── SCOUT_Agent_Project_S-001-0014.md
+├── Active/                        # 🔥 Current operations
+│   ├── PROJECT-The-Triangle.md
+│   ├── CGPT_Extraction_Program_S-001-0003.md
+│   ├── OPERATIONS.md
+│   └── [active protocols & indexes]
 │
-├── Clinic/                        # Clinical operations
+├── Archive/                       # 📦 Completed & historical
+│   ├── Audit-Report-2026-04-20.md
+│   ├── Facebook_Collection_S-001-0010.md
+│   └── [completed projects]
+│
+├── Agents/                        # 🤖 AI agent configurations
+│   ├── Agent-RON.md
+│   ├── Agent-FORG.md
+│   ├── Agent-SCOUT.md
+│   └── FORG-INTEGRATION-PROTOCOL.md
+│
+├── Clinic/                        # 🏥 Clinical operations
 │   ├── Clinic-Index.md
 │   └── [operational projects]
 │
-├── Extraction/                    # CGPT extraction program
-│   └── CGPT_Extraction_Program_S-001-0003.md
-│
-├── Personal/                      # Personal development
-│   ├── Beeswax_Tallow_Business_S-001-0013.md
-│   ├── Guitar_Learning_S-001-0012.md
-│   └── Personal-Index.md
-│
-├── PhD/                           # Doctoral research
+├── PhD/                           # 🎓 Doctoral research
 │   ├── PhD-Index.md
 │   ├── Research_Agenda.md
-│   ├── PROJECT-AutoResearch-Knowledge.md
 │   └── [study protocols]
 │
-├── Protocols/                     # Standardized workflows
-│   └── [process documentation]
+├── Personal/                      # 👤 Personal development
+│   ├── Personal-Index.md
+│   └── [personal projects]
 │
-└── Tools/                         # Utility development
-    └── [tool projects]
+├── Skills/                        # 🛠️ Reusable capabilities
+│   ├── Skills-Index.md
+│   ├── skill-extraction-v1.0.md
+│   └── [other skills]
+│
+└── Tools/                         # 🧰 Configs & scripts
+    ├── Config/
+    └── Scripts/
 ```
 
 ---
 
-## Status Labels
+## Lifecycle
 
-| Label | Meaning | Action |
-|-------|---------|--------|
-| **🟢 active** | Currently being worked on | Continue / allocate resources |
-| **🟡 paused** | Intentionally suspended | Resume when conditions met |
-| **🔴 blocked** | Cannot proceed (external dependency) | Escalate / find workaround |
-| **⚫ completed** | Delivered, integrated, done | Archive / celebrate |
-| **⚪ draft** | Idea stage, not yet started | Define scope / prioritize |
+```
+Active/ → Archive/
+   ↑
+New projects start here
+```
 
----
-
-## Naming Convention
-
-**Files:** `Descriptive_Title_S-XXX-XXXX.md`
-
-| Component | Meaning |
-|-----------|---------|
-| **S** | Synthesis (project output type) |
-| **XXX** | Domain (001=Insulin, 901=System) |
-| **XXXX** | Sequence number |
-
-**Examples:**
-- `SCOUT_Agent_Project_S-001-0014.md`
-- `Beeswax_Tallow_Business_S-001-0013.md`
+- **Active/** — Currently being worked on
+- **Archive/** — Completed, paused, or deprecated
 
 ---
 
-## How to Add a New Project
+## Quick Navigation
 
-1. **Create file** with S-UID in appropriate subfolder
-2. **Use Template:** `08-Structure/Templates/Template_Project_v1.0.md`
-3. **Set status:** active / paused / blocked / draft
-4. **Link to:** `PROJECT_CONTROL_BOARD.md`
-5. **Update:** `07-Projects-Index.md`
-
----
-
-## Cross-References
-
-- **Planning:** [[00-COMMAND.md]] — Current priorities
-- **Pipeline:** [[01-PIPELINE.md]] — What's actually happening
-- **Archive:** Completed projects move to `09-Archive/Projects/`
+| Need | Go To |
+|------|-------|
+| Current priorities | [[Active/]] |
+| Agent configs | [[Agents/]] |
+| Reusable skills | [[Skills/]] |
+| Completed work | [[Archive/]] |
+| Full index | [[07-Projects-Index]] |
 
 ---
 
-## Rules
-
-1. **Every project has a status** — No untracked work
-2. **Every project has an owner** — Usually Simos, sometimes RON/FORG
-3. **Projects link to sources** — Not floating deliverables
-4. **Completed projects get archived** — Keep active folder lean
-
----
-
-*Created 2026-04-14 to standardize project documentation*
+*Last updated: 2026-04-21*  
+*Structure: Active/Archive/Agents/Clinic/PhD/Personal/Skills/Tools*
