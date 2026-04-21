@@ -6,10 +6,11 @@ date: 2026-04-13
 aliases:
   - Literature-Index
   - LitNotes-Index
-tags: [index
+tags:
+  - index
   - literature
   - litnotes
-  - sources]
+  - sources
 status: complete
 parent-index: [[00-INDEX]]
 parent-moc: [[MOC-Research]]

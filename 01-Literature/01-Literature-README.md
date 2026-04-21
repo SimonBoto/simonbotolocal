@@ -6,12 +6,13 @@ title: "01-Literature — Source Processing"
 aliases:
   - Literature-README
   - LitNotes-Guide
-tags: [index
+tags:
+  - index
   - literature
   - litnotes
   - processing
   - navigation
-  - folder]
+  - folder
 status: complete
 zettel-count: 0
 reference-count: 0
