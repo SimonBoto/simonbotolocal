@@ -1,5 +1,5 @@
 ---
-uid: Z-001-0007
+uid: Z-001-5005
 type: zettel
 title: "PAI1_Senescence_Feedback_Loop"
 aliases:
@@ -53,15 +53,15 @@ The PAI-1 senescence feedback loop represents a key amplification mechanism in a
 - Biomarker development for PAI-1 in senescence monitoring
 
 ## Related Zettels from Same Source
-- [[PAI1_Cardiovascular_Aging_Mechanism_Z-001-0006]]
-- [[PAI1_Genetic_Longevity_Amish_Z-001-0008]]
-- [[Nattokinase_PAI1_Inhibition_Z-001-0009]]
-- [[Nattokinase_Safety_Dosing_Z-001-0010]]
+- [[PAI1_Cardiovascular_Aging_Mechanism_Z-001-5004]]
+- [[PAI1_Genetic_Longevity_Amish_Z-001-5006]]
+- [[Nattokinase_PAI1_Inhibition_Z-001-5007]]
+- [[Nattokinase_Safety_Dosing_Z-001-5008]]
 
 ## Related
-- [[PAI1_Cardiovascular_Aging_Mechanism_Z-001-0006]] — Cardiovascular manifestation
-- [[PAI1_Genetic_Longevity_Amish_Z-001-0008]] — Genetic evidence of importance
-- [[Nattokinase_PAI1_Inhibition_Z-001-0009]] — Intervention to break the loop
+- [[PAI1_Cardiovascular_Aging_Mechanism_Z-001-5004]] — Cardiovascular manifestation
+- [[PAI1_Genetic_Longevity_Amish_Z-001-5006]] — Genetic evidence of importance
+- [[Nattokinase_PAI1_Inhibition_Z-001-5007]] — Intervention to break the loop
 
 ## Support State
 Support attached: primary reference linked

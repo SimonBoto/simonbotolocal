@@ -1,5 +1,5 @@
 ---
-uid: Z-001-0008
+uid: Z-001-5006
 type: zettel
 title: "PAI1_Genetic_Longevity_Amish"
 aliases:
@@ -54,15 +54,15 @@ This natural human experiment provides compelling evidence that PAI-1 is a causa
 - Genetic screening for PAI-1 variants may inform personalized aging prevention strategies
 
 ## Related Zettels from Same Source
-- [[PAI1_Cardiovascular_Aging_Mechanism_Z-001-0006]]
-- [[PAI1_Senescence_Feedback_Loop_Z-001-0007]]
-- [[Nattokinase_PAI1_Inhibition_Z-001-0009]]
-- [[Nattokinase_Safety_Dosing_Z-001-0010]]
+- [[PAI1_Cardiovascular_Aging_Mechanism_Z-001-5004]]
+- [[PAI1_Senescence_Feedback_Loop_Z-001-5005]]
+- [[Nattokinase_PAI1_Inhibition_Z-001-5007]]
+- [[Nattokinase_Safety_Dosing_Z-001-5008]]
 
 ## Related
-- [[PAI1_Cardiovascular_Aging_Mechanism_Z-001-0006]] — Cardiovascular benefits
-- [[PAI1_Senescence_Feedback_Loop_Z-001-0007]] — Cellular mechanisms
-- [[Nattokinase_PAI1_Inhibition_Z-001-0009]] — Therapeutic approach
+- [[PAI1_Cardiovascular_Aging_Mechanism_Z-001-5004]] — Cardiovascular benefits
+- [[PAI1_Senescence_Feedback_Loop_Z-001-5005]] — Cellular mechanisms
+- [[Nattokinase_PAI1_Inhibition_Z-001-5007]] — Therapeutic approach
 
 ## Support State
 Support attached: primary reference linked

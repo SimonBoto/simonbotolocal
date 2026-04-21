@@ -1,5 +1,5 @@
 ---
-uid: Z-001-0003
+uid: Z-001-5001
 type: zettel
 title: "Non-HDL Cholesterol U-Shaped Paradox"
 aliases:
@@ -24,9 +24,9 @@ reference: ""
 created: "2026-04-16"
 updated: "2026-04-16"
 related:
-  - "[[Diabetes_Strongest_Mortality_Risk_Z-001-0002]]"
-  - "[[Metabolic_Syndrome_Cluster_Dominance_Z-001-0004]]"
-  - "[[Population_Attributable_Fraction_Burden_Z-001-0005]]"
+  - "[[Diabetes_Strongest_Mortality_Risk_Z-001-5000]]"
+  - "[[Metabolic_Syndrome_Cluster_Dominance_Z-001-5002]]"
+  - "[[Population_Attributable_Fraction_Burden_Z-001-5003]]"
 ---
 
 # Non-HDL Cholesterol U-Shaped Paradox
@@ -58,9 +58,9 @@ This finding represents a fundamental shift in understanding lipid metabolism, i
 - Provides evidence for optimal cholesterol ranges in clinical guidelines
 
 ## Related Zettels from Same Source
-- [[Diabetes_Strongest_Mortality_Risk_Z-001-0002]]
-- [[Metabolic_Syndrome_Cluster_Dominance_Z-001-0004]]
-- [[Population_Attributable_Fraction_Burden_Z-001-0005]]
+- [[Diabetes_Strongest_Mortality_Risk_Z-001-5000]]
+- [[Metabolic_Syndrome_Cluster_Dominance_Z-001-5002]]
+- [[Population_Attributable_Fraction_Burden_Z-001-5003]]
 
 ## Related
 - [[Diabetes_CVD_Global_Burden_NEJM_2023_L-001-0001]]

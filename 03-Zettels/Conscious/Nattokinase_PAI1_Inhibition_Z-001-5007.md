@@ -1,5 +1,5 @@
 ---
-uid: Z-001-0009
+uid: Z-001-5007
 type: zettel
 title: "Nattokinase_PAI1_Inhibition"
 aliases:
@@ -53,15 +53,15 @@ Nattokinase represents a natural, food-derived therapeutic strategy to inhibit P
 - Potential adjunct therapy for cardiovascular disease prevention
 
 ## Related Zettels from Same Source
-- [[PAI1_Cardiovascular_Aging_Mechanism_Z-001-0006]]
-- [[PAI1_Senescence_Feedback_Loop_Z-001-0007]]
-- [[PAI1_Genetic_Longevity_Amish_Z-001-0008]]
-- [[Nattokinase_Safety_Dosing_Z-001-0010]]
+- [[PAI1_Cardiovascular_Aging_Mechanism_Z-001-5004]]
+- [[PAI1_Senescence_Feedback_Loop_Z-001-5005]]
+- [[PAI1_Genetic_Longevity_Amish_Z-001-5006]]
+- [[Nattokinase_Safety_Dosing_Z-001-5008]]
 
 ## Related
-- [[PAI1_Cardiovascular_Aging_Mechanism_Z-001-0006]] — Cardiovascular benefits
-- [[PAI1_Senescence_Feedback_Loop_Z-001-0007]] — Breaking the senescence feedback loop
-- [[Nattokinase_Safety_Dosing_Z-001-0010]] — Safety considerations
+- [[PAI1_Cardiovascular_Aging_Mechanism_Z-001-5004]] — Cardiovascular benefits
+- [[PAI1_Senescence_Feedback_Loop_Z-001-5005]] — Breaking the senescence feedback loop
+- [[Nattokinase_Safety_Dosing_Z-001-5008]] — Safety considerations
 
 ## Support State
 Support attached: primary reference linked

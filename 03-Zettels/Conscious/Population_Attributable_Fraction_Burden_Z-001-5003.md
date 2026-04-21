@@ -1,5 +1,5 @@
 ---
-uid: Z-001-0005
+uid: Z-001-5003
 type: zettel
 title: "Population Attributable Fraction Burden Quantification"
 aliases:
@@ -24,9 +24,9 @@ reference: ""
 created: "2026-04-16"
 updated: "2026-04-16"
 related:
-  - "[[Diabetes_Strongest_Mortality_Risk_Z-001-0002]]"
-  - "[[NonHDL_Cholesterol_U_Shaped_Paradox_Z-001-0003]]"
-  - "[[Metabolic_Syndrome_Cluster_Dominance_Z-001-0004]]"
+  - "[[Diabetes_Strongest_Mortality_Risk_Z-001-5000]]"
+  - "[[NonHDL_Cholesterol_U_Shaped_Paradox_Z-001-5001]]"
+  - "[[Metabolic_Syndrome_Cluster_Dominance_Z-001-5002]]"
 ---
 
 # Population Attributable Fraction Burden Quantification
@@ -58,9 +58,9 @@ This finding provides the quantitative foundation for public health policy, demo
 - Demonstrates the clinical impact of lifestyle and dietary interventions
 
 ## Related Zettels from Same Source
-- [[Diabetes_Strongest_Mortality_Risk_Z-001-0002]]
-- [[NonHDL_Cholesterol_U_Shaped_Paradox_Z-001-0003]]
-- [[Metabolic_Syndrome_Cluster_Dominance_Z-001-0004]]
+- [[Diabetes_Strongest_Mortality_Risk_Z-001-5000]]
+- [[NonHDL_Cholesterol_U_Shaped_Paradox_Z-001-5001]]
+- [[Metabolic_Syndrome_Cluster_Dominance_Z-001-5002]]
 
 ## Related
 - [[Diabetes_CVD_Global_Burden_NEJM_2023_L-001-0001]]

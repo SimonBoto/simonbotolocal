@@ -1,5 +1,5 @@
 ---
-uid: Z-001-0004
+uid: Z-001-5002
 type: zettel
 title: "Metabolic Syndrome Cluster Dominance"
 aliases:
@@ -24,9 +24,9 @@ reference: ""
 created: "2026-04-16"
 updated: "2026-04-16"
 related:
-  - "[[Diabetes_Strongest_Mortality_Risk_Z-001-0002]]"
-  - "[[NonHDL_Cholesterol_U_Shaped_Paradox_Z-001-0003]]"
-  - "[[Population_Attributable_Fraction_Burden_Z-001-0005]]"
+  - "[[Diabetes_Strongest_Mortality_Risk_Z-001-5000]]"
+  - "[[NonHDL_Cholesterol_U_Shaped_Paradox_Z-001-5001]]"
+  - "[[Population_Attributable_Fraction_Burden_Z-001-5003]]"
 ---
 
 # Metabolic Syndrome Cluster Dominance
@@ -58,9 +58,9 @@ This finding establishes the metabolic syndrome as a coherent clinical entity wi
 - Indicates that interventions targeting the metabolic cluster will have the greatest clinical impact
 
 ## Related Zettels from Same Source
-- [[Diabetes_Strongest_Mortality_Risk_Z-001-0002]]
-- [[NonHDL_Cholesterol_U_Shaped_Paradox_Z-001-0003]]
-- [[Population_Attributable_Fraction_Burden_Z-001-0005]]
+- [[Diabetes_Strongest_Mortality_Risk_Z-001-5000]]
+- [[NonHDL_Cholesterol_U_Shaped_Paradox_Z-001-5001]]
+- [[Population_Attributable_Fraction_Burden_Z-001-5003]]
 
 ## Related
 - [[Diabetes_CVD_Global_Burden_NEJM_2023_L-001-0001]]

@@ -1,5 +1,5 @@
 ---
-uid: Z-001-0006
+uid: Z-001-5004
 type: zettel
 title: "PAI1_Cardiovascular_Aging_Mechanism"
 aliases:
@@ -54,15 +54,15 @@ PAI-1 is a central mediator linking cellular senescence to vascular aging, repre
 - PAI-1 inhibition strategies could complement existing CVD prevention approaches
 
 ## Related Zettels from Same Source
-- [[PAI1_Senescence_Feedback_Loop_Z-001-0007]]
-- [[PAI1_Genetic_Longevity_Amish_Z-001-0008]]
-- [[Nattokinase_PAI1_Inhibition_Z-001-0009]]
-- [[Nattokinase_Safety_Dosing_Z-001-0010]]
+- [[PAI1_Senescence_Feedback_Loop_Z-001-5005]]
+- [[PAI1_Genetic_Longevity_Amish_Z-001-5006]]
+- [[Nattokinase_PAI1_Inhibition_Z-001-5007]]
+- [[Nattokinase_Safety_Dosing_Z-001-5008]]
 
 ## Related
-- [[PAI1_Senescence_Feedback_Loop_Z-001-0007]] — Senescence feedback loop mechanism
-- [[PAI1_Genetic_Longevity_Amish_Z-001-0008]] — Genetic longevity evidence
-- [[Nattokinase_PAI1_Inhibition_Z-001-0009]] — Therapeutic intervention
+- [[PAI1_Senescence_Feedback_Loop_Z-001-5005]] — Senescence feedback loop mechanism
+- [[PAI1_Genetic_Longevity_Amish_Z-001-5006]] — Genetic longevity evidence
+- [[Nattokinase_PAI1_Inhibition_Z-001-5007]] — Therapeutic intervention
 
 ## Support State
 Support attached: primary reference linked

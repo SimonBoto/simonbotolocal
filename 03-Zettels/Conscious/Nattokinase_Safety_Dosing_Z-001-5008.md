@@ -1,5 +1,5 @@
 ---
-uid: Z-001-0010
+uid: Z-001-5008
 type: zettel
 title: "Nattokinase_Safety_Dosing"
 aliases:
@@ -53,15 +53,15 @@ The favorable safety profile of nattokinase makes it a promising natural therape
 - Risk-benefit assessment for patient populations
 
 ## Related Zettels from Same Source
-- [[PAI1_Cardiovascular_Aging_Mechanism_Z-001-0006]]
-- [[PAI1_Senescence_Feedback_Loop_Z-001-0007]]
-- [[PAI1_Genetic_Longevity_Amish_Z-001-0008]]
-- [[Nattokinase_PAI1_Inhibition_Z-001-0009]]
+- [[PAI1_Cardiovascular_Aging_Mechanism_Z-001-5004]]
+- [[PAI1_Senescence_Feedback_Loop_Z-001-5005]]
+- [[PAI1_Genetic_Longevity_Amish_Z-001-5006]]
+- [[Nattokinase_PAI1_Inhibition_Z-001-5007]]
 
 ## Related
-- [[Nattokinase_PAI1_Inhibition_Z-001-0009]] — Mechanism of action
-- [[PAI1_Cardiovascular_Aging_Mechanism_Z-001-0006]] — Clinical relevance
-- [[PAI1_Senescence_Feedback_Loop_Z-001-0007]] — Therapeutic implications
+- [[Nattokinase_PAI1_Inhibition_Z-001-5007]] — Mechanism of action
+- [[PAI1_Cardiovascular_Aging_Mechanism_Z-001-5004]] — Clinical relevance
+- [[PAI1_Senescence_Feedback_Loop_Z-001-5005]] — Therapeutic implications
 
 ## Support State
 Support attached: primary reference linked

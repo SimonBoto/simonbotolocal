@@ -17,11 +17,11 @@ COMPLETE: 13/13 files verified on disk
 - [[Chen_2018_Biomarker_Insights_R-001-0012]]
 
 #### Zettels (5)
-- [[PAI1_Cardiovascular_Aging_Mechanism_Z-001-0006]]
-- [[PAI1_Senescence_Feedback_Loop_Z-001-0007]]
-- [[PAI1_Genetic_Longevity_Amish_Z-001-0008]]
-- [[Nattokinase_PAI1_Inhibition_Z-001-0009]]
-- [[Nattokinase_Safety_Dosing_Z-001-0010]]
+- [[PAI1_Cardiovascular_Aging_Mechanism_Z-001-5004]]
+- [[PAI1_Senescence_Feedback_Loop_Z-001-5005]]
+- [[PAI1_Genetic_Longevity_Amish_Z-001-5006]]
+- [[Nattokinase_PAI1_Inhibition_Z-001-5007]]
+- [[Nattokinase_Safety_Dosing_Z-001-5008]]
 
 #### Inbox Note (1)
 - [[INBOX-PAI1-Nattokinase-2026-04-16]]

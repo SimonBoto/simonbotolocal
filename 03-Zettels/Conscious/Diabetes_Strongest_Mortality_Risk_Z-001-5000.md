@@ -1,5 +1,5 @@
 ---
-uid: Z-001-0002
+uid: Z-001-5000
 type: zettel
 title: "Diabetes as Strongest Mortality Risk Factor"
 aliases:
@@ -24,9 +24,9 @@ reference: ""
 created: "2026-04-16"
 updated: "2026-04-16"
 related:
-  - "[[NonHDL_Cholesterol_U_Shaped_Paradox_Z-001-0003]]"
-  - "[[Metabolic_Syndrome_Cluster_Dominance_Z-001-0004]]"
-  - "[[Population_Attributable_Fraction_Burden_Z-001-0005]]"
+  - "[[NonHDL_Cholesterol_U_Shaped_Paradox_Z-001-5001]]"
+  - "[[Metabolic_Syndrome_Cluster_Dominance_Z-001-5002]]"
+  - "[[Population_Attributable_Fraction_Burden_Z-001-5003]]"
 ---
 
 # Diabetes as Strongest Mortality Risk Factor
@@ -57,9 +57,9 @@ This finding shifts the clinical perspective on diabetes from being primarily a 
 - Provides evidence for prioritizing diabetes management in resource-constrained settings
 
 ## Related Zettels from Same Source
-- [[NonHDL_Cholesterol_U_Shaped_Paradox_Z-001-0003]]
-- [[Metabolic_Syndrome_Cluster_Dominance_Z-001-0004]]
-- [[Population_Attributable_Fraction_Burden_Z-001-0005]]
+- [[NonHDL_Cholesterol_U_Shaped_Paradox_Z-001-5001]]
+- [[Metabolic_Syndrome_Cluster_Dominance_Z-001-5002]]
+- [[Population_Attributable_Fraction_Burden_Z-001-5003]]
 
 ## Related
 - [[Diabetes_CVD_Global_Burden_NEJM_2023_L-001-0001]]

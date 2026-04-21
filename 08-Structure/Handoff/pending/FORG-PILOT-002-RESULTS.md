@@ -11,13 +11,13 @@
 - UID: `L-001-0001`
 
 ### Zettels
-- `/home/simon/Workspaces/TheOptimizedBrain/03-Zettels/Conscious/Diabetes_Strongest_Mortality_Risk_Z-001-0002.md`
+- `/home/simon/Workspaces/TheOptimizedBrain/03-Zettels/Conscious/Diabetes_Strongest_Mortality_Risk_Z-001-5000.md`
 - UID: `Z-001-0002`
-- `/home/simon/Workspaces/TheOptimizedBrain/03-Zettels/Conscious/NonHDL_Cholesterol_U_Shaped_Paradox_Z-001-0003.md`
+- `/home/simon/Workspaces/TheOptimizedBrain/03-Zettels/Conscious/NonHDL_Cholesterol_U_Shaped_Paradox_Z-001-5001.md`
 - UID: `Z-001-0003`
-- `/home/simon/Workspaces/TheOptimizedBrain/03-Zettels/Conscious/Metabolic_Syndrome_Cluster_Dominance_Z-001-0004.md`
+- `/home/simon/Workspaces/TheOptimizedBrain/03-Zettels/Conscious/Metabolic_Syndrome_Cluster_Dominance_Z-001-5002.md`
 - UID: `Z-001-0004`
-- `/home/simon/Workspaces/TheOptimizedBrain/03-Zettels/Conscious/Population_Attributable_Fraction_Burden_Z-001-0005.md`
+- `/home/simon/Workspaces/TheOptimizedBrain/03-Zettels/Conscious/Population_Attributable_Fraction_Burden_Z-001-5003.md`
 - UID: `Z-001-0005`
 
 ## Verification Summary

@@ -64,7 +64,7 @@ What the source gives:
 Why it matters:
 > This finding highlights diabetes not just as a metabolic disorder but as the most critical target for mortality reduction in global health policy and clinical practice.
 
-Candidate Zettel: [[Diabetes_Strongest_Mortality_Risk_Z-001-0002]]
+Candidate Zettel: [[Diabetes_Strongest_Mortality_Risk_Z-001-5000]]
 
 ### 2. Non-HDL Cholesterol U-Shaped Paradox
 
@@ -76,7 +76,7 @@ What the source gives:
 Why it matters:
 > This challenges simple 'lower is better' approaches to lipid management and indicates the need for personalized targets based on individual risk profiles.
 
-Candidate Zettel: [[NonHDL_Cholesterol_U_Shaped_Paradox_Z-001-0003]]
+Candidate Zettel: [[NonHDL_Cholesterol_U_Shaped_Paradox_Z-001-5001]]
 
 ### 3. Metabolic Syndrome Cluster Dominance
 
@@ -88,7 +88,7 @@ What the source gives:
 Why it matters:
 > This supports integrated clinical management of metabolic disorders rather than isolated treatment of individual risk factors, emphasizing the importance of lifestyle and dietary interventions.
 
-Candidate Zettel: [[Metabolic_Syndrome_Cluster_Dominance_Z-001-0004]]
+Candidate Zettel: [[Metabolic_Syndrome_Cluster_Dominance_Z-001-5002]]
 
 ### 4. Population Attributable Fraction Burden Quantification
 
@@ -100,14 +100,14 @@ What the source gives:
 Why it matters:
 > These population attributable fractions provide concrete metrics for public health prioritization and demonstrate that a substantial portion of cardiovascular disease burden is preventable.
 
-Candidate Zettel: [[Population_Attributable_Fraction_Burden_Z-001-0005]]
+Candidate Zettel: [[Population_Attributable_Fraction_Burden_Z-001-5003]]
 
 ## Zettels Created
 
-- [[Diabetes_Strongest_Mortality_Risk_Z-001-0002]] — Diabetes as strongest mortality risk factor
-- [[NonHDL_Cholesterol_U_Shaped_Paradox_Z-001-0003]] — Non-HDL cholesterol U-shaped risk curve
-- [[Metabolic_Syndrome_Cluster_Dominance_Z-001-0004]] — Metabolic factors dominate CVD risk
-- [[Population_Attributable_Fraction_Burden_Z-001-0005]] — Global burden quantification
+- [[Diabetes_Strongest_Mortality_Risk_Z-001-5000]] — Diabetes as strongest mortality risk factor
+- [[NonHDL_Cholesterol_U_Shaped_Paradox_Z-001-5001]] — Non-HDL cholesterol U-shaped risk curve
+- [[Metabolic_Syndrome_Cluster_Dominance_Z-001-5002]] — Metabolic factors dominate CVD risk
+- [[Population_Attributable_Fraction_Burden_Z-001-5003]] — Global burden quantification
 
 ## Structural Links
 

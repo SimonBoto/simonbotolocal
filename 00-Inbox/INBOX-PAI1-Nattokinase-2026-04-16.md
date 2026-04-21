@@ -36,11 +36,11 @@ This inbox note captures the complete PAI-1 and nattokinase research cluster ext
 - [[Chen_2018_Biomarker_Insights_R-001-0012]] — Clinical efficacy
 
 ### Zettels (5)
-- [[PAI1_Cardiovascular_Aging_Mechanism_Z-001-0006]] — PAI-1 cardiovascular aging mechanism
-- [[PAI1_Senescence_Feedback_Loop_Z-001-0007]] — PAI-1 senescence feedback loop
-- [[PAI1_Genetic_Longevity_Amish_Z-001-0008]] — PAI-1 genetic longevity evidence
-- [[Nattokinase_PAI1_Inhibition_Z-001-0009]] — Nattokinase PAI-1 inhibition mechanism
-- [[Nattokinase_Safety_Dosing_Z-001-0010]] — Nattokinase safety and dosing
+- [[PAI1_Cardiovascular_Aging_Mechanism_Z-001-5004]] — PAI-1 cardiovascular aging mechanism
+- [[PAI1_Senescence_Feedback_Loop_Z-001-5005]] — PAI-1 senescence feedback loop
+- [[PAI1_Genetic_Longevity_Amish_Z-001-5006]] — PAI-1 genetic longevity evidence
+- [[Nattokinase_PAI1_Inhibition_Z-001-5007]] — Nattokinase PAI-1 inhibition mechanism
+- [[Nattokinase_Safety_Dosing_Z-001-5008]] — Nattokinase safety and dosing
 
 ## Next Steps
 - RON review and validation of all created notes
