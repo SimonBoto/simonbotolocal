@@ -11,7 +11,7 @@ year: "2026"
 journal: "JAMA Network Open"
 doi: "10.1001/jamanetworkopen.2026.0434"
 tier: "GOLD"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Metabolic-Syndrome]]
 parent-index: [[01-Literature-Index]]

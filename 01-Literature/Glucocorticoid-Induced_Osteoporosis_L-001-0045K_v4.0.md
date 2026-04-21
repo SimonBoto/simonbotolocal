@@ -1,7 +1,7 @@
 ---
 uid: L-001-0045K
 type: litnote
-title: "Glucocorticoid-Induced Osteoporosis — Pathogenesis and Management"
+title: "Glucocorticoid-Induced Osteoporosis - Pathogenesis and Management"
 aliases:
   - L-001-0045E
   - Glucocorticoid-Induced-Osteoporosis
@@ -13,7 +13,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: SILVER
-relevance: "High — Specialized management for patients on chronic glucocorticoid therapy"
+relevance: "High - Specialized management for patients on chronic glucocorticoid therapy"
 status: complete
 parent-moc: [[MOC-Clinical-Metabolomics]]
 parent-index: [[02-Literature]]

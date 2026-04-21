@@ -14,7 +14,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: SILVER
-relevance: High — Trioses, glycolytic steps, evolutionary ancient pathway, pyruvate crossroads
+relevance: High - Trioses, glycolytic steps, evolutionary ancient pathway, pyruvate crossroads
 status: complete
 parent-moc: [[MOC-Glycolysis-PPP]]
 parent-index: [[01-Literature-Index]]

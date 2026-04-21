@@ -9,7 +9,7 @@ year: 2025
 journal: ChatGPT Archive
 pmid: N/A
 tier: SILVER
-relevance: High — Clinical trial registration, NIH compliance, trial transparency requirements
+relevance: High - Clinical trial registration, NIH compliance, trial transparency requirements
 status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-PhD-Research]]

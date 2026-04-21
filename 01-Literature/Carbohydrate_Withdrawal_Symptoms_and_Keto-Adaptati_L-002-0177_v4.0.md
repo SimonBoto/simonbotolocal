@@ -12,7 +12,7 @@ journal: "Nutrition"
 doi: "10.1016/j.nut.2019.06.007"
 pmid: "34332710"
 tier: "GOLD"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Metabolic-Syndrome]]
 parent-index: [[01-Literature-Index]]

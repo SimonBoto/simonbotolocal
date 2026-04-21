@@ -12,7 +12,7 @@ journal: "European Heart Journal"
 doi: "10.1093/eurheartj/ehaf937"
 pmid: "41378999"
 tier: "GOLD"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Immunology]]
 parent-index: [[01-Literature-Index]]

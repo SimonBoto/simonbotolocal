@@ -13,7 +13,7 @@ journal: "JAMA Internal Medicine"
 doi: "10.1001/jamainternmed.2016.5394"
 pmid: "27630110"
 tier: "GOLD"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Nutrition]]
 parent-index: [[01-Literature-Index]]

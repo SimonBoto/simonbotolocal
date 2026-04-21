@@ -1,7 +1,7 @@
 ---
 uid: L-001-0622
 type: litnote
-title: Mitochondrial Gene Knockout Models — Energy Dysfunction and Disease
+title: Mitochondrial Gene Knockout Models - Energy Dysfunction and Disease
 authors: ChatGPT Analysis
 year: 2024
 journal: ChatGPT Archive
@@ -9,7 +9,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: SILVER
-relevance: High — Mitochondrial dysfunction in metabolic disease and neurodegeneration
+relevance: High - Mitochondrial dysfunction in metabolic disease and neurodegeneration
 aliases:
   - L-001-0622
   - Mitochondrial Knockout

@@ -15,7 +15,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: SILVER
-relevance: High — Ketogenesis pathway, BHB structure, HDAC inhibition, NLRP3 inflammasome, insulin resistance
+relevance: High - Ketogenesis pathway, BHB structure, HDAC inhibition, NLRP3 inflammasome, insulin resistance
 status: complete
 parent-moc: [[MOC-Lipid-Metabolism]]
 parent-index: [[01-Literature-Index]]

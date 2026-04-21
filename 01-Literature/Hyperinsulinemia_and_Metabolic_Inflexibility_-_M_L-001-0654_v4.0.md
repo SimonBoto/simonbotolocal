@@ -1,7 +1,7 @@
 ---
 uid: L-001-0654
 type: litnote
-title: "Hyperinsulinemia and Metabolic Inflexibility — Mechanisms of Beta-Oxidation Inhibition_L-001-0654"
+title: "Hyperinsulinemia and Metabolic Inflexibility - Mechanisms of Beta-Oxidation Inhibition_L-001-0654"
 aliases:
   - L-001-0654
   - Hyperinsulinemia-Metabolic-Inflexibility
@@ -13,7 +13,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: GOLD
-relevance: "Critical — Core mechanism linking hyperinsulinemia to metabolic dysfunction; foundational for METHAP metabolic interventions"
+relevance: "Critical - Core mechanism linking hyperinsulinemia to metabolic dysfunction; foundational for METHAP metabolic interventions"
 status: complete
 parent-moc: [[MOC-Insulin-Signaling]]
 parent-index: [[01-Literature-Index]]

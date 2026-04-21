@@ -11,7 +11,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: BRONZE
-relevance: High — HBOT mechanisms, radiosensitization, bone healing, therapeutic benefits and risks
+relevance: High - HBOT mechanisms, radiosensitization, bone healing, therapeutic benefits and risks
 status: complete
 reviewed_by: "FORG"
 parent-moc:

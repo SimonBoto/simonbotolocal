@@ -2,7 +2,7 @@
 uid: L-002-0228
 type: litnote
 source-origin: facebook-article
-title: "Ultra-Processed Foods Increase Death, CVD, Obesity, Diabetes — BMJ Umbrella Review (Lane 2024)"
+title: "Ultra-Processed Foods Increase Death, CVD, Obesity, Diabetes - BMJ Umbrella Review (Lane 2024)"
 aliases:
   - "L-002-0228"
   - "UPF-Death-CVD-Obesity-Diabetes"
@@ -15,7 +15,7 @@ journal: "BMJ"
 doi: "10.1136/bmj-2023-077310"
 pmid: "38355169"
 tier: "GOLD"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Metabolic-Syndrome]]
 parent-index: [[01-Literature-Index]]

@@ -1,7 +1,7 @@
 ---
 uid: L-001-0577
 type: litnote
-title: "Lit — VDR and Mitochondrial Knockout Studies — Genetic Models of Vitamin D and Mitochondrial Dysfunction"
+title: "Lit - VDR and Mitochondrial Knockout Studies - Genetic Models of Vitamin D and Mitochondrial Dysfunction"
 aliases:
   - L-001-0577
   - VDR-Mitochondrial-Knockout
@@ -13,7 +13,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: GOLD
-relevance: Foundational — genetic research on VDR and mitochondrial function
+relevance: Foundational - genetic research on VDR and mitochondrial function
 status: complete
 parent-moc: [[MOC-Genetics]]
 parent-index: [[01-Literature-Index]]

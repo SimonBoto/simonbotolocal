@@ -15,7 +15,7 @@ journal: "European Heart Journal"
 doi: "(pending)"
 pmid: "(pending)"
 tier: "SILVER"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Exercise-Physiology]]
 parent-index: [[01-Literature-Index]]

@@ -13,7 +13,7 @@ journal: "American Journal of Lifestyle Medicine, Circulation, PLoS Medicine"
 doi: "(multiple)"
 pmid: "(multiple)"
 tier: "GOLD"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Clinical-Metabolomics]]
 parent-index: [[01-Literature-Index]]

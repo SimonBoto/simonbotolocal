@@ -15,7 +15,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: BRONZE
-relevance: "High — Multiple myeloma diagnosis, CRAB features, staging, prognosis, treatment overview"
+relevance: "High - Multiple myeloma diagnosis, CRAB features, staging, prognosis, treatment overview"
 status: complete
 parent-moc: [[MOC-Cancer]]
 parent-index: [[01-Literature-Index]]

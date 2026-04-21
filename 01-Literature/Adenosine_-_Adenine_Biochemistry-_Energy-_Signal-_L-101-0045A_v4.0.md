@@ -14,7 +14,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: SILVER
-relevance: High — ATP as energy currency, adenosine signaling, purine metabolism, SCID, pharmacometabolomics
+relevance: High - ATP as energy currency, adenosine signaling, purine metabolism, SCID, pharmacometabolomics
 status: complete
 parent-moc: [[MOC-Metabolic-Pathways]]
 parent-index: [[01-Literature-Index]]

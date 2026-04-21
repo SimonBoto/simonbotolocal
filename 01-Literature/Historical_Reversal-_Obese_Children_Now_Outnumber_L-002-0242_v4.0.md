@@ -15,7 +15,7 @@ journal: "UNICEF Global Report"
 doi: "(UNICEF)"
 pmid: "N/A"
 tier: "SILVER"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Global-Health]]
 parent-index: [[01-Literature-Index]]

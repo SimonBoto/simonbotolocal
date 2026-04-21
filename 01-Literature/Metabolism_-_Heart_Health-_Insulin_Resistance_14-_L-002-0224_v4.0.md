@@ -15,7 +15,7 @@ journal: "Nature Reviews Cardiology; Various"
 doi: "(multiple)"
 pmid: "(multiple)"
 tier: "SILVER"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Cardiovascular-Health]]
 parent-index: [[01-Literature-Index]]

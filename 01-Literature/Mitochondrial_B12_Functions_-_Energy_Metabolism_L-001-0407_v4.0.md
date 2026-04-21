@@ -1,7 +1,7 @@
 ---
 uid: L-001-0407
 type: litnote
-title: "Mitochondrial B12 Functions — Energy Metabolism and Exercise Performance"
+title: "Mitochondrial B12 Functions - Energy Metabolism and Exercise Performance"
 aliases:
   - L-001-0407
   - Mitochondrial-B12
@@ -15,7 +15,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: SILVER
-relevance: High — Mitochondrial energy production, exercise implications, clinical B12 assessment
+relevance: High - Mitochondrial energy production, exercise implications, clinical B12 assessment
 status: complete
 parent-moc: [[MOC-Methylation]]
 parent-index: [[01-Literature-Index]]

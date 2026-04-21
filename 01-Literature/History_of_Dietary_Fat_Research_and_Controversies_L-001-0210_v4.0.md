@@ -1,7 +1,7 @@
 ---
 uid: L-001-0210
 type: litnote
-title: "Lit — History of Dietary Fat Research and Controversies (Ancel Keys to Present)"
+title: "Lit - History of Dietary Fat Research and Controversies (Ancel Keys to Present)"
 aliases:
   - L-001-0210
   - Dietary-Fat-History
@@ -14,7 +14,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: SILVER
-relevance: "High — Foundation of modern dietary guidelines; seed oil industry influence"
+relevance: "High - Foundation of modern dietary guidelines; seed oil industry influence"
 status: complete
 parent-moc: [[MOC-Nutrition]]
 parent-index: [[01-Literature-Index]]

@@ -1,7 +1,7 @@
 ---
 uid: L-001-0213
 type: litnote
-title: "Lit — Calcium-PTH Homeostasis (Regulation, Monitoring, METHAP Safety)"
+title: "Lit - Calcium-PTH Homeostasis (Regulation, Monitoring, METHAP Safety)"
 aliases:
   - L-001-0213
   - Calcium-PTH-Homeostasis
@@ -14,7 +14,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: GOLD
-relevance: "Critical — METHAP safety monitoring; hypercalcemia prevention"
+relevance: "Critical - METHAP safety monitoring; hypercalcemia prevention"
 status: complete
 parent-moc: [[MOC-Vitamin-D]]
 parent-index: [[02-Literature]]

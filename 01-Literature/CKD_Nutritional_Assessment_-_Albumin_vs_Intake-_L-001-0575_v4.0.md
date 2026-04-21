@@ -1,7 +1,7 @@
 ---
 uid: L-001-0575
 type: litnote
-title: "Lit — CKD Nutritional Assessment — Albumin vs Intake, Oxalate, and Glycemic Control"
+title: "Lit - CKD Nutritional Assessment - Albumin vs Intake, Oxalate, and Glycemic Control"
 aliases:
   - L-001-0575
   - CKD-Nutrition-Assessment
@@ -13,7 +13,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: GOLD
-relevance: Practical — clinical assessment framework for CKD nutrition
+relevance: Practical - clinical assessment framework for CKD nutrition
 status: complete
 parent-moc: [[MOC-Metabolic-Syndrome]]
 parent-index: [[01-Literature-Index]]

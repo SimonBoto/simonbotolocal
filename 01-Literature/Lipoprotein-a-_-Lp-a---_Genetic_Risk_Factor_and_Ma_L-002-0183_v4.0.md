@@ -12,7 +12,7 @@ journal: "JAMA"
 doi: "10.1001/jama.2009.801"
 pmid: "19509380"
 tier: "GOLD"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Cholesterol-Quality]]
 parent-index: [[01-Literature-Index]]

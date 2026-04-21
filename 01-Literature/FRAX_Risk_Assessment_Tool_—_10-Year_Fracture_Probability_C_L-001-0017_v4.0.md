@@ -1,7 +1,7 @@
 ---
 uid: L-001-0017
 type: litnote
-title: "FRAX Risk Assessment Tool — 10-Year Fracture Probability Calculation_L-001-0017"
+title: "FRAX Risk Assessment Tool - 10-Year Fracture Probability Calculation_L-001-0017"
 aliases:
   - L-001-0017
   - FRAX-Risk-Assessment
@@ -13,7 +13,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: SILVER
-relevance: "High — Clinical decision tool for osteoporosis treatment thresholds"
+relevance: "High - Clinical decision tool for osteoporosis treatment thresholds"
 status: complete
 parent-moc: [[MOC-Bone-Health]]
 parent-index: [[02-Literature]]

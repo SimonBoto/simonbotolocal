@@ -1,7 +1,7 @@
 ---
 uid: L-001-0617
 type: litnote
-title: "Lit — Statistical Analysis for Omics Research METHAP"
+title: "Lit - Statistical Analysis for Omics Research METHAP"
 aliases:
   - L-001-0617
   - Statistical Analysis Omics METHAP
@@ -12,7 +12,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: BRONZE
-relevance: High — Power analysis, PCA, multivariate analysis, regression, validation methods for PhD metabolomics data
+relevance: High - Power analysis, PCA, multivariate analysis, regression, validation methods for PhD metabolomics data
 status: complete
 parent-moc: [[MOC-Statistics]]
 parent-index: [[01-Literature-Index]]

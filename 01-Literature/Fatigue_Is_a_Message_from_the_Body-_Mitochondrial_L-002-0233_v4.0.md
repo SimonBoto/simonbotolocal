@@ -15,7 +15,7 @@ journal: "Various"
 doi: "(multiple)"
 pmid: "(multiple)"
 tier: "SILVER"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Mitochondrial-Function]]
 parent-index: [[01-Literature-Index]]

@@ -14,7 +14,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: BRONZE
-relevance: High — B-vitamins in metabolism, iron-sulfur clusters, magnesium, cofactor deficiency impacts
+relevance: High - B-vitamins in metabolism, iron-sulfur clusters, magnesium, cofactor deficiency impacts
 status: complete
 parent-moc: [[MOC-Metabolomics]]
 parent-index: [[01-Literature-Index]]

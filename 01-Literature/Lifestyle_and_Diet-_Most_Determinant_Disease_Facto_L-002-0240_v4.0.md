@@ -2,7 +2,7 @@
 uid: L-002-0240
 type: litnote
 source-origin: facebook-article
-title: "Lifestyle and Diet: Most Determinant Disease Factors Are Modifiable — BMJ 95.7% Improvement"
+title: "Lifestyle and Diet: Most Determinant Disease Factors Are Modifiable - BMJ 95.7% Improvement"
 aliases:
   - "L-002-0240"
   - "Lifestyle-Diet-Modifiable-Factors"
@@ -15,7 +15,7 @@ journal: "BMJ Nutrition, Prevention & Health"
 doi: "(BMJ NPH)"
 pmid: "(pending)"
 tier: "SILVER"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Lifestyle-Medicine]]
 parent-index: [[01-Literature-Index]]

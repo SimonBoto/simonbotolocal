@@ -14,7 +14,7 @@ doi: "N/A"
 pmid: "N/A"
 pmcid: "N/A"
 tier: BRONZE
-relevance: "High — Drug toxicity mechanisms relevant to metabolic interventions"
+relevance: "High - Drug toxicity mechanisms relevant to metabolic interventions"
 status: complete
 parent-moc: [[MOC-Endocrinology]]
 parent-index: [[01-Literature-Index]]

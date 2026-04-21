@@ -10,7 +10,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: SILVER
-relevance: High — Foundation for understanding fatty acid metabolism and dicarboxylic acid formation
+relevance: High - Foundation for understanding fatty acid metabolism and dicarboxylic acid formation
 aliases:
   - L-001-0632
   - Fatty Acids

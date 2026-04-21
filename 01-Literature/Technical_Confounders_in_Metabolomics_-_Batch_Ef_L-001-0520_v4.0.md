@@ -1,7 +1,7 @@
 ---
 uid: L-001-0520
 type: litnote
-title: Technical Confounders in Metabolomics — Batch Effects and Artifacts
+title: Technical Confounders in Metabolomics - Batch Effects and Artifacts
 authors: ChatGPT Analysis from CGPT-0328
 year: 2024
 journal: ChatGPT Archive
@@ -9,7 +9,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: SILVER
-relevance: High — Essential for METHAP quality control and study design
+relevance: High - Essential for METHAP quality control and study design
 aliases:
   - L-001-0520
   - Batch Effects

@@ -1,7 +1,7 @@
 ---
 uid: L-001-0656
 type: litnote
-title: "Lit — KingOfVitamins_Pauling_Vitamin_C_2025"
+title: "Lit - KingOfVitamins_Pauling_Vitamin_C_2025"
 aliases:
   - L-001-0656
 source-inbox: [[INBOX-2026-04-04-002_Pauling_Vitamin_C_Thread]]

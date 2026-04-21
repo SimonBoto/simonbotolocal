@@ -12,7 +12,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: BRONZE
-relevance: "High — Preprocessing, normalization, pathway analysis, network analysis for PhD metabolomics workflow"
+relevance: "High - Preprocessing, normalization, pathway analysis, network analysis for PhD metabolomics workflow"
 status: complete
 source-origin: legacy
 parent-moc: [[MOC-Metabolomics]]

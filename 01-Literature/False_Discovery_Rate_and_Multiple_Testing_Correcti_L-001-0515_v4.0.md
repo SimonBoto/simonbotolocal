@@ -9,7 +9,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: BRONZE
-relevance: High — Core statistical methodology for PhD metabolomics work
+relevance: High - Core statistical methodology for PhD metabolomics work
 aliases:
   - L-001-0515
   - FDR Correction

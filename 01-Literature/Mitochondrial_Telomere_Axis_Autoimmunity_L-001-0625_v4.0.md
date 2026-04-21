@@ -9,7 +9,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: SILVER
-relevance: High — Mechanistic link between metabolism and cellular aging
+relevance: High - Mechanistic link between metabolism and cellular aging
 aliases:
   - L-001-0625
   - Mitochondria Telomere Axis

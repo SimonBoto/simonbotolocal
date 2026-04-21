@@ -11,7 +11,7 @@ year: "2024"
 journal: "Progress in Cardiovascular Diseases"
 doi: "10.1016/j.pcad.2024.04.001"
 tier: "GOLD"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Clinical-Metabolomics]]
 parent-index: [[01-Literature-Index]]

@@ -1,7 +1,7 @@
 ---
 uid: L-001-0401
 type: litnote
-title: "Lit — One-Carbon Metabolism and Vitamin B12 Biochemistry"
+title: "Lit - One-Carbon Metabolism and Vitamin B12 Biochemistry"
 aliases:
   - L-001-0401
   - One-Carbon-Metabolism
@@ -14,7 +14,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: GOLD
-relevance: "Critical — Foundation for methylation, DNA synthesis, METHAP cofactor understanding"
+relevance: "Critical - Foundation for methylation, DNA synthesis, METHAP cofactor understanding"
 status: complete
 parent-moc: [[MOC-Methylation]]
 parent-index: [[01-Literature-Index]]

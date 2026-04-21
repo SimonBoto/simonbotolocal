@@ -12,7 +12,7 @@ journal: "Neurology"
 doi: "10.1212/WNL.0000000000214343"
 pmid: "41406402"
 tier: "GOLD"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Lipid-Metabolism]]
 parent-index: [[01-Literature-Index]]

@@ -2,7 +2,7 @@
 uid: L-002-0223
 type: litnote
 source-origin: facebook-article
-title: "CVD Risk Factors Priority Ranking — LDL is #10 (Dugani 2021, Ikezaki 2021, Diamond 2022)"
+title: "CVD Risk Factors Priority Ranking - LDL is #10 (Dugani 2021, Ikezaki 2021, Diamond 2022)"
 aliases:
   - "L-002-0223"
   - "CVD-Risk-Factors-Ranking"
@@ -15,7 +15,7 @@ journal: "JAMA Cardiology; JAHA; Curr Opin Endocrinol"
 doi: "(multiple)"
 pmid: "(multiple)"
 tier: "GOLD"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Cardiovascular-Health]]
 parent-index: [[01-Literature-Index]]

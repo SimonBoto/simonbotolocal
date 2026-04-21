@@ -13,7 +13,7 @@ journal: "The Lancet"
 doi: "10.1016/S0140-6736(19)30041-8"
 pmid: "30954305"
 tier: "GOLD"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Diabetes]]
 parent-index: [[01-Literature-Index]]

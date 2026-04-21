@@ -1,7 +1,7 @@
 ---
 uid: L-001-0587
 type: litnote
-title: "Lit — Metabolic Biomarkers Briefing — Vitamin D, Omega-3, Inflammation, Glycation"
+title: "Lit - Metabolic Biomarkers Briefing - Vitamin D, Omega-3, Inflammation, Glycation"
 aliases:
   - L-001-0587
   - Biomarkers-Briefing

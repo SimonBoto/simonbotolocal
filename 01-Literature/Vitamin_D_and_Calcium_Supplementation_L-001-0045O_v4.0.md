@@ -1,7 +1,7 @@
 ---
 uid: L-001-0045O
 type: litnote
-title: "Vitamin D and Calcium Supplementation — Foundation of Osteoporosis Treatment"
+title: "Vitamin D and Calcium Supplementation - Foundation of Osteoporosis Treatment"
 aliases:
   - L-001-0045O
   - Vitamin-D-Calcium
@@ -13,7 +13,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: SILVER
-relevance: "High — Foundational nutritional therapy for all osteoporosis patients"
+relevance: "High - Foundational nutritional therapy for all osteoporosis patients"
 status: complete
 parent-moc: [[MOC-Bone-Health]]
 parent-index: [[01-Literature-Index]]

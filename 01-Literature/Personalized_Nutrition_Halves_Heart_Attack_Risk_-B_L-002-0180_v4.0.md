@@ -12,7 +12,7 @@ journal: "Nature Medicine"
 doi: "10.1038/s41591-024-02951-6"
 pmid: "38714898"
 tier: "GOLD"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Clinical-Metabolomics]]
 parent-index: [[01-Literature-Index]]

@@ -12,7 +12,7 @@ journal: "BMJ"
 doi: "10.1136/bmj-2024-082121"
 pmid: "40769531"
 tier: "GOLD"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Metabolic-Syndrome]]
 parent-index: [[01-Literature-Index]]

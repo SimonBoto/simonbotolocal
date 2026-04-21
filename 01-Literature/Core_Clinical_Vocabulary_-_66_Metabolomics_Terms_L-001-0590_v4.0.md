@@ -1,7 +1,7 @@
 ---
 uid: L-001-0590
 type: litnote
-title: "Lit — Core Clinical Vocabulary — 66 Metabolomics Terms"
+title: "Lit - Core Clinical Vocabulary - 66 Metabolomics Terms"
 aliases:
   - L-001-0590
   - Core-Vocabulary
@@ -13,7 +13,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: SILVER
-relevance: "High — Foundational terminology for metabolomics training; 66 terms organized by clinical domain"
+relevance: "High - Foundational terminology for metabolomics training; 66 terms organized by clinical domain"
 status: complete
 parent-moc: [[MOC-Metabolomics]]
 parent-index: [[01-Literature-Index]]

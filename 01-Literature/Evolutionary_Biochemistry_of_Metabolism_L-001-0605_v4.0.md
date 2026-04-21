@@ -14,7 +14,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: BRONZE
-relevance: High — Ancient pathways, RNA world hypothesis, origins of metabolism, metabolic fossils
+relevance: High - Ancient pathways, RNA world hypothesis, origins of metabolism, metabolic fossils
 status: complete
 parent-moc: [[MOC-Evolutionary-Biochemistry]]
 parent-index: [[01-Literature-Index]]

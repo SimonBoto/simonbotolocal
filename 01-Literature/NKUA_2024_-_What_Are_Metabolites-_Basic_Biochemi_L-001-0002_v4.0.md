@@ -1,7 +1,7 @@
 ---
 uid: L-001-0002
 type: litnote
-title: "NKUA 2024 — What Are Metabolites: Basic Biochemistry (DE2)"
+title: "NKUA 2024 - What Are Metabolites: Basic Biochemistry (DE2)"
 aliases:
   - L-001-0002
 authors: "Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών"
@@ -11,7 +11,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: 1
-relevance: "CRITICAL — Explains cofactor→metabolite biomarker logic (parallel to VD→adipic acid); Krebs cycle metabolites in IR; carnitine/fatty acid metabolism"
+relevance: "CRITICAL - Explains cofactor→metabolite biomarker logic (parallel to VD→adipic acid); Krebs cycle metabolites in IR; carnitine/fatty acid metabolism"
 status: complete
 reviewed_by: "FORG"
 parent-moc: 

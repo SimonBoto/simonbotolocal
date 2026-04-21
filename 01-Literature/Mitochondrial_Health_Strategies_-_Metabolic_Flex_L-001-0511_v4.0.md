@@ -1,7 +1,7 @@
 ---
 uid: L-001-0511
 type: litnote
-title: "Lit — Mitochondrial Health Strategies — Metabolic Flexibility, Biogenesis, and Metabolomics-Guided Interventions"
+title: "Lit - Mitochondrial Health Strategies - Metabolic Flexibility, Biogenesis, and Metabolomics-Guided Interventions"
 aliases:
   - L-001-0511
   - Mitochondrial-Health-Strategies
@@ -16,7 +16,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: GOLD
-relevance: "High — Clinical application of mitochondrial optimization through diet, exercise, and metabolomics monitoring"
+relevance: "High - Clinical application of mitochondrial optimization through diet, exercise, and metabolomics monitoring"
 status: complete
 parent-moc: [[MOC-Mitochondrial-Function]]
 parent-index: [[01-Literature-Index]]

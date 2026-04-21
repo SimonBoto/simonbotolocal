@@ -9,7 +9,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: SILVER
-relevance: High — Foundational for understanding accelerated aging in autoimmunity
+relevance: High - Foundational for understanding accelerated aging in autoimmunity
 aliases:
   - L-001-0623
   - Telomere Basics

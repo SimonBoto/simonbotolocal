@@ -1,7 +1,7 @@
 ---
 uid: L-001-0593
 type: litnote
-title: "Lit — Vitamin Mineral Axis Clinical Biochemistry"
+title: "Lit - Vitamin Mineral Axis Clinical Biochemistry"
 aliases:
   - L-001-0593
   - Vitamin-Mineral-Axis
@@ -13,7 +13,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: BRONZE
-relevance: "High — Vitamin D/PTH/Ca/Mg/K2 axis, micronutrient cofactors, deficiency patterns"
+relevance: "High - Vitamin D/PTH/Ca/Mg/K2 axis, micronutrient cofactors, deficiency patterns"
 status: complete
 parent-moc: [[MOC-Vitamin-Mineral-Axis]]
 parent-index: [[01-Literature-Index]]

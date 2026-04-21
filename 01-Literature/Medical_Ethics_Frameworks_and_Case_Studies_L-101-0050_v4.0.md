@@ -9,7 +9,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: SILVER
-relevance: High — Research ethics fundamentals, IRB preparation, historical context
+relevance: High - Research ethics fundamentals, IRB preparation, historical context
 aliases:
   - L-101-0050
   - Medical Ethics

@@ -1,7 +1,7 @@
 ---
 uid: L-001-0212
 type: litnote
-title: "Lit — Vitamin D and K2 Synergy Mechanisms (Protein Synthesis, Carboxylation, Metabolic Integration)"
+title: "Lit - Vitamin D and K2 Synergy Mechanisms (Protein Synthesis, Carboxylation, Metabolic Integration)"
 aliases:
   - L-001-0212
   - D_K2_Synergy
@@ -14,7 +14,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: GOLD
-relevance: "Critical — METHAP protocol synergy rationale; biochemical foundation for co-supplementation"
+relevance: "Critical - METHAP protocol synergy rationale; biochemical foundation for co-supplementation"
 status: complete
 parent-moc: [[MOC-Vitamin-D]]
 parent-index: [[01-Literature-Index]]

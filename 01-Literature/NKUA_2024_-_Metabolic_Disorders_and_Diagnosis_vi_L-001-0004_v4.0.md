@@ -1,7 +1,7 @@
 ---
 uid: L-001-0004
 type: litnote
-title: "NKUA 2024 — Metabolic Disorders and Diagnosis via Metabolomics (DE4)"
+title: "NKUA 2024 - Metabolic Disorders and Diagnosis via Metabolomics (DE4)"
 authors: "Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών"
 year: "2024"
 journal: "Πρόγραμμα Συμπληρωματικής Εκπαίδευσης"
@@ -9,7 +9,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: 2
-relevance: "Diagnostic metabolomics methodology — inherited metabolic diseases as precedent for IR biomarker validation; carbohydrate/lipid metabolism directly applicable to METHAP"
+relevance: "Diagnostic metabolomics methodology - inherited metabolic diseases as precedent for IR biomarker validation; carbohydrate/lipid metabolism directly applicable to METHAP"
 status: complete
 reviewed_by: "FORG"
 aliases:

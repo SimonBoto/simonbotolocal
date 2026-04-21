@@ -1,7 +1,7 @@
 ---
 uid: L-001-0206
 type: litnote
-title: "Lit — Vitamin K2 in Metabolic Syndrome (Calcium, Vascular Health, Insulin Sensitivity)"
+title: "Lit - Vitamin K2 in Metabolic Syndrome (Calcium, Vascular Health, Insulin Sensitivity)"
 aliases:
   - L-001-0206
 source-origin: chatgpt-archive
@@ -12,7 +12,7 @@ doi: "N/A"
 pmid: "N/A"
 pmcid: "N/A"
 tier: GOLD
-relevance: "High — Vascular calcification prevention; synergy with VitD and Mg"
+relevance: "High - Vascular calcification prevention; synergy with VitD and Mg"
 status: complete
 parent-moc: [[MOC-Vitamin-K2]]
 parent-index: [[01-Literature-Index]]

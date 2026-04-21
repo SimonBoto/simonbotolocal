@@ -1,7 +1,7 @@
 ---
 uid: L-001-0506
 type: litnote
-title: "Lit — Oleic Acid and Clinical Applications (Monounsaturated Fat, Mediterranean Pattern, and Metabolic Benefits)"
+title: "Lit - Oleic Acid and Clinical Applications (Monounsaturated Fat, Mediterranean Pattern, and Metabolic Benefits)"
 aliases:
   - L-001-0506
   - Oleic-Acid-Clinical-Applications
@@ -13,7 +13,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: GOLD
-relevance: "Critical — Practical implementation of olive oil-based interventions, metabolic benefits, METHAP dietary guidance"
+relevance: "Critical - Practical implementation of olive oil-based interventions, metabolic benefits, METHAP dietary guidance"
 status: complete
 parent-moc: [[MOC-Nutrition]]
 parent-index: [[01-Literature-Index]]

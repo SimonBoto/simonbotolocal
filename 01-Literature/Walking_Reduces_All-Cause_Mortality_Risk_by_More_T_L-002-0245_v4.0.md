@@ -2,7 +2,7 @@
 uid: L-002-0245
 type: litnote
 source-origin: facebook-article
-title: "Walking Reduces All-Cause Mortality Risk by More Than Half — JAMA 2023 (Paluch)"
+title: "Walking Reduces All-Cause Mortality Risk by More Than Half - JAMA 2023 (Paluch)"
 aliases:
   - "L-002-0245"
   - "Walking-Mortality-Reduction"
@@ -15,7 +15,7 @@ journal: "JAMA Network Open"
 doi: "10.1001/jamanetworkopen.2023.5174"
 pmid: "(pending)"
 tier: "GOLD"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Metabolic-Syndrome]]
 parent-index: [[01-Literature-Index]]

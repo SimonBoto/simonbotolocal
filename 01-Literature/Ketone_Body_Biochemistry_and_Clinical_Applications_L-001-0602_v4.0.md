@@ -14,7 +14,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: BRONZE
-relevance: High — BHB, acetoacetate, acetone, ketogenesis, therapeutic ketosis, neurological applications
+relevance: High - BHB, acetoacetate, acetone, ketogenesis, therapeutic ketosis, neurological applications
 status: complete
 parent-moc: [[MOC-Lipid-Metabolism]]
 parent-index: [[01-Literature-Index]]

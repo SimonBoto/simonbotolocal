@@ -9,7 +9,7 @@ domain: "002"
 status: complete
 reviewed_by: RON
 tier: "SILVER"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 tags:
   - litnote
   - aspirin

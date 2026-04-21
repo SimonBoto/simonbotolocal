@@ -2,7 +2,7 @@
 uid: L-001-0006
 type: litnote
 source-origin: chatgpt-archive
-title: "Lit — Historical Vitamin D Toxicity Misconceptions"
+title: "Lit - Historical Vitamin D Toxicity Misconceptions"
 aliases:
   - L-001-0006
   - Historical-Vitamin-D-Toxicity-Misconceptions
@@ -10,7 +10,7 @@ authors: "Synthesized from ChatGPT CGPT-0284 conversation"
 year: "2024"
 journal: "Internal synthesis from historical analysis"
 tier: SILVER
-relevance: "High — Corrects foundational public health misconceptions about vitamin D safety"
+relevance: "High - Corrects foundational public health misconceptions about vitamin D safety"
 status: complete
 parent-moc: [[MOC-Vitamin-D]]
 parent-index: [[01-Literature-Index]]

@@ -1,7 +1,7 @@
 ---
 uid: L-001-0609
 type: litnote
-title: "Metabolic Therapy for Cancer — Seyfried Protocol"
+title: "Metabolic Therapy for Cancer - Seyfried Protocol"
 aliases:
   - L-001-0609
   - Metabolic-Therapy
@@ -16,7 +16,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: BRONZE
-relevance: "High — Ketogenic diet for cancer, caloric restriction, Press-Pulse protocol, mitochondrial dysfunction exploitation"
+relevance: "High - Ketogenic diet for cancer, caloric restriction, Press-Pulse protocol, mitochondrial dysfunction exploitation"
 status: complete
 parent-moc: [[MOC-Cancer]]
 parent-index: [[01-Literature-Index]]

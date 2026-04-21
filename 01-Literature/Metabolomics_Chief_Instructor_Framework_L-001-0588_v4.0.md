@@ -1,7 +1,7 @@
 ---
 uid: L-001-0588
 type: litnote
-title: "Lit — Metabolomics Chief Instructor Framework"
+title: "Lit - Metabolomics Chief Instructor Framework"
 aliases:
   - L-001-0588
   - MCI-Framework
@@ -13,7 +13,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: SILVER
-relevance: High — Foundational training philosophy for metabolomics clinic; defines instructor role and 6-stage patient flow
+relevance: High - Foundational training philosophy for metabolomics clinic; defines instructor role and 6-stage patient flow
 status: complete
 parent-moc: [[MOC-Metabolomics]]
 parent-index: [[01-Literature-Index]]

@@ -11,7 +11,7 @@ year: "2025"
 journal: "International Journal of Obesity (Nature)"
 doi: "10.1038/s41366-025-01822-5"
 tier: "GOLD"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Metabolic-Syndrome]]
 parent-index: [[01-Literature-Index]]

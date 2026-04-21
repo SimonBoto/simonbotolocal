@@ -16,7 +16,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: GOLD
-relevance: Critical — Foundation for lipid management, cardiovascular risk, METHAP metabolic support
+relevance: Critical - Foundation for lipid management, cardiovascular risk, METHAP metabolic support
 status: complete
 parent-moc: [[MOC-Lipid-Metabolism]]
 parent-index: [[01-Literature-Index]]

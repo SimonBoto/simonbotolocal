@@ -15,7 +15,7 @@ journal: "BMJ; Hepatobiliary Surg Nutr; BMJ Nutr Prev Health"
 doi: "(multiple)"
 pmid: "(multiple)"
 tier: "GOLD"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Nutrition]]
 parent-index: [[01-Literature-Index]]

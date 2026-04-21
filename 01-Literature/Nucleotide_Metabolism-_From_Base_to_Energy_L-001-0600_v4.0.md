@@ -14,7 +14,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: BRONZE
-relevance: "High — Foundational nucleotide biochemistry: adenosine, adenine, ribose, nucleoside formation, salvage pathway, evolutionary origins"
+relevance: "High - Foundational nucleotide biochemistry: adenosine, adenine, ribose, nucleoside formation, salvage pathway, evolutionary origins"
 status: complete
 parent-moc: [[MOC-Metabolic-Pathways]]
 parent-index: [[01-Literature-Index]]

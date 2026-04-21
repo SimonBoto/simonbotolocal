@@ -1,7 +1,7 @@
 ---
 uid: L-001-0402
 type: litnote
-title: "Lit — The Methylation Cycle (SAM, SAH, Epigenetic Regulation)"
+title: "Lit - The Methylation Cycle (SAM, SAH, Epigenetic Regulation)"
 aliases:
   - L-001-0402
   - Methylation-Cycle
@@ -14,7 +14,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: GOLD
-relevance: "Critical — Epigenetic regulation, DNA methylation, METHAP gene expression effects"
+relevance: "Critical - Epigenetic regulation, DNA methylation, METHAP gene expression effects"
 status: complete
 parent-moc: [[MOC-Methylation]]
 parent-index: [[01-Literature-Index]]

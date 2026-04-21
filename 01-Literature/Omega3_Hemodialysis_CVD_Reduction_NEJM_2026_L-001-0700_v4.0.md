@@ -1,7 +1,7 @@
 ---
 uid: L-001-0700
 type: litnote
-title: "Omega-3 Hemodialysis CVD Reduction — NEJM 2026"
+title: "Omega-3 Hemodialysis CVD Reduction - NEJM 2026"
 aliases:
   - L-001-0700
   - Omega3-Hemodialysis-NEJM
@@ -11,7 +11,7 @@ journal: "New England Journal of Medicine"
 doi: "10.1056/NEJMoa2513032"
 pmid: "41201837"
 tier: GOLD
-relevance: "CRITICAL — High-dose omega-3 efficacy in high-risk metabolic population"
+relevance: "CRITICAL - High-dose omega-3 efficacy in high-risk metabolic population"
 status: complete
 parent-moc: [[MOC-Cardiovascular-Health]]
 parent-index: [[01-Literature-Index]]

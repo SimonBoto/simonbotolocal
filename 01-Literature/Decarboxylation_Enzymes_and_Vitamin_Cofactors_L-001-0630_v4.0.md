@@ -10,7 +10,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: SILVER
-relevance: High — Connects B-vitamins to fatty acid and energy metabolism
+relevance: High - Connects B-vitamins to fatty acid and energy metabolism
 aliases:
   - L-001-0630
   - Decarboxylases

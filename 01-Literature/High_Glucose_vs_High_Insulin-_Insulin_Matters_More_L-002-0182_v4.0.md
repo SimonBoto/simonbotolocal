@@ -12,7 +12,7 @@ journal: "International Journal of Cardiology"
 doi: "10.1016/j.ijcard.2019.01.098"
 pmid: "30716618"
 tier: "GOLD"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Insulin-Signaling]]
 parent-index: [[01-Literature-Index]]

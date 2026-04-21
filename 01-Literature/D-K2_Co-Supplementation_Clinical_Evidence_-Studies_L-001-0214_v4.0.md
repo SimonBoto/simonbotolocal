@@ -1,7 +1,7 @@
 ---
 uid: L-001-0214
 type: litnote
-title: "Lit — D-K2 Co-Supplementation Clinical Evidence (Studies, Outcomes, Limitations)"
+title: "Lit - D-K2 Co-Supplementation Clinical Evidence (Studies, Outcomes, Limitations)"
 aliases:
   - L-001-0214
   - D_K2_Evidence
@@ -14,7 +14,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: SILVER
-relevance: "High — Evidence base for METHAP protocol; study design rationale"
+relevance: "High - Evidence base for METHAP protocol; study design rationale"
 status: complete
 parent-moc: [[MOC-Vitamin-D]]
 parent-index: [[01-Literature-Index]]

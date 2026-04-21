@@ -13,7 +13,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: BRONZE
-relevance: "High — IV vitamin C, pro-oxidant mechanisms, epigenetic effects, clinical trials in cancer"
+relevance: "High - IV vitamin C, pro-oxidant mechanisms, epigenetic effects, clinical trials in cancer"
 status: complete
 parent-moc: [[MOC-Cancer]]
 parent-index: [[01-Literature-Index]]

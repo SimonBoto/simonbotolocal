@@ -1,7 +1,7 @@
 ---
 uid: L-001-0215
 type: litnote
-title: "Lit — Vascular Calcification Deep Dive (Mechanisms, MGP, Clinical Consequences)"
+title: "Lit - Vascular Calcification Deep Dive (Mechanisms, MGP, Clinical Consequences)"
 aliases:
   - L-001-0215
   - Vascular-Calcification
@@ -14,7 +14,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: GOLD
-relevance: "High — METHAP safety rationale; cardiovascular protection mechanisms"
+relevance: "High - METHAP safety rationale; cardiovascular protection mechanisms"
 status: complete
 parent-moc: [[MOC-Cardiovascular-Health]]
 parent-index: [[01-Literature-Index]]

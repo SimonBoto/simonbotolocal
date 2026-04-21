@@ -1,7 +1,7 @@
 ---
 uid: L-101-0001
 type: litnote
-title: "NKUA 2024 — Pharmacometabolomics & Precision Medicine (Course 3175, DE4)"
+title: "NKUA 2024 - Pharmacometabolomics & Precision Medicine (Course 3175, DE4)"
 aliases:
   - L-101-0001
 authors: "Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών"
@@ -11,7 +11,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: 1
-relevance: "CRITICAL — Pharmacometabolomics framework, metformin/mTOR mechanisms, immunometabolism, metabolic reprogramming in autoimmunity"
+relevance: "CRITICAL - Pharmacometabolomics framework, metformin/mTOR mechanisms, immunometabolism, metabolic reprogramming in autoimmunity"
 status: complete
 reviewed_by: "FORG"
 parent-moc: 

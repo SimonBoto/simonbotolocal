@@ -1,7 +1,7 @@
 ---
 uid: L-001-0574
 type: litnote
-title: "Lit — Carbohydrate Context Modifies Protein Effects — The Missing Variable in CKD Research"
+title: "Lit - Carbohydrate Context Modifies Protein Effects - The Missing Variable in CKD Research"
 aliases:
   - L-001-0574
   - Carb-Context-Protein
@@ -13,7 +13,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: GOLD
-relevance: Critical — metabolic context determines protein effects
+relevance: Critical - metabolic context determines protein effects
 status: complete
 parent-moc: [[MOC-Metabolic-Syndrome]]
 parent-index: [[01-Literature-Index]]

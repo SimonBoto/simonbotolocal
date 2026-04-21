@@ -1,7 +1,7 @@
 ---
 uid: L-001-0596
 type: litnote
-title: "Lit — Tsoukalas Research Bibliography Curated Studies"
+title: "Lit - Tsoukalas Research Bibliography Curated Studies"
 aliases:
   - L-001-0596
   - Tsoukalas-Bibliography
@@ -13,7 +13,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: BRONZE
-relevance: "High — 50+ curated papers on metabolomics, Vitamin D safety, fatty acids, metabolic syndrome"
+relevance: "High - 50+ curated papers on metabolomics, Vitamin D safety, fatty acids, metabolic syndrome"
 status: complete
 parent-moc: [[MOC-Metabolomics]]
 parent-index: [[01-Literature-Index]]

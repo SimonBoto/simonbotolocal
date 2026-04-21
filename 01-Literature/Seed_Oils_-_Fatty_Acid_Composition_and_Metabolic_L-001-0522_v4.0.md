@@ -1,7 +1,7 @@
 ---
 uid: L-001-0522
 type: litnote
-title: Seed Oils — Fatty Acid Composition and Metabolic Fate
+title: Seed Oils - Fatty Acid Composition and Metabolic Fate
 authors: ChatGPT synthesis from CGPT-0281, CGPT-0282, CGPT-0340
 year: 2024
 journal: Internal clinical synthesis
@@ -9,7 +9,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: GOLD
-relevance: Critical — Foundational knowledge for lipid metabolism and metabolic disease
+relevance: Critical - Foundational knowledge for lipid metabolism and metabolic disease
 aliases:
   - L-001-0522
   - Seed Oils

@@ -1,7 +1,7 @@
 ---
 uid: L-001-0597
 type: litnote
-title: "Lit — Metabolomics Clinic Operations Manual"
+title: "Lit - Metabolomics Clinic Operations Manual"
 aliases:
   - L-001-0597
   - Clinic-Operations
@@ -13,7 +13,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: BRONZE
-relevance: "High — Patient flow, quality standards, follow-up rhythms, operational protocols"
+relevance: "High - Patient flow, quality standards, follow-up rhythms, operational protocols"
 status: complete
 parent-moc: [[MOC-Metabolomics]]
 parent-index: [[01-Literature-Index]]

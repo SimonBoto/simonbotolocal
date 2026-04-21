@@ -1,7 +1,7 @@
 ---
 uid: L-001-0503
 type: litnote
-title: "Lit — Seed Oils, Omega-6/Omega-3 Ratio, and Inflammation (Dietary Fat Quality and Cardiovascular Risk)"
+title: "Lit - Seed Oils, Omega-6/Omega-3 Ratio, and Inflammation (Dietary Fat Quality and Cardiovascular Risk)"
 aliases:
   - L-001-0503
   - Seed-Oils
@@ -15,7 +15,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: GOLD
-relevance: Critical — Understanding dietary fat quality, omega-6/omega-3 balance, and metabolic impact for METHAP protocol
+relevance: Critical - Understanding dietary fat quality, omega-6/omega-3 balance, and metabolic impact for METHAP protocol
 status: complete
 parent-moc: [[MOC-Lipid-Metabolism]]
 parent-index: [[01-Literature-Index]]

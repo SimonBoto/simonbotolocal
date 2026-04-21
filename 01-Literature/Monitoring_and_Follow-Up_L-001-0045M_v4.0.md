@@ -1,7 +1,7 @@
 ---
 uid: L-001-0045M
 type: litnote
-title: "Monitoring and Follow-Up — Osteoporosis Treatment Management"
+title: "Monitoring and Follow-Up - Osteoporosis Treatment Management"
 aliases:
   - L-001-0045G
   - Monitoring-Follow-Up
@@ -13,7 +13,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: SILVER
-relevance: "High — Comprehensive framework for long-term osteoporosis management"
+relevance: "High - Comprehensive framework for long-term osteoporosis management"
 status: complete
 parent-moc: [[MOC-Clinical-Metabolomics]]
 parent-index: [[02-Literature]]

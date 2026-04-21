@@ -12,7 +12,7 @@ journal: "Endocrine Connections"
 doi: "10.1530/EC-23-0477"
 pmid: "38552311"
 tier: "GOLD"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Thyroid]]
 parent-index: [[01-Literature-Index]]

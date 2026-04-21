@@ -14,7 +14,7 @@ doi: "N/A"
 pmid: "N/A"
 pmcid: "N/A"
 tier: SILVER
-relevance: "High — All 20 amino acids, Krebs entry points, enzymes, cofactors, glucogenic vs ketogenic"
+relevance: "High - All 20 amino acids, Krebs entry points, enzymes, cofactors, glucogenic vs ketogenic"
 status: complete
 parent-moc: [[MOC-Nitrogen-Metabolism]]
 parent-index: [[01-Literature-Index]]

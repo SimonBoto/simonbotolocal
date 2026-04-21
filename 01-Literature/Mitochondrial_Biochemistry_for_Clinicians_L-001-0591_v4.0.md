@@ -1,7 +1,7 @@
 ---
 uid: L-001-0591
 type: litnote
-title: "Lit — Mitochondrial Biochemistry for Clinicians"
+title: "Lit - Mitochondrial Biochemistry for Clinicians"
 aliases:
   - L-001-0591
   - Mitochondrial-Biochemistry
@@ -13,7 +13,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: SILVER
-relevance: "High — Comprehensive mitochondrial mechanisms, Krebs cycle, OXPHOS, cofactors, OAT interpretation"
+relevance: "High - Comprehensive mitochondrial mechanisms, Krebs cycle, OXPHOS, cofactors, OAT interpretation"
 status: complete
 parent-moc: [[MOC-Mitochondrial-Function]]
 parent-index: [[01-Literature-Index]]

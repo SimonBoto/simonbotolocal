@@ -15,7 +15,7 @@ doi: "N/A"
 pmid: "N/A"
 pmcid: "N/A"
 tier: BRONZE
-relevance: "High — Drug-induced diabetes mechanisms relevant to transplant patients"
+relevance: "High - Drug-induced diabetes mechanisms relevant to transplant patients"
 status: complete
 parent-moc: [[MOC-Endocrinology]]
 parent-index: [[01-Literature-Index]]

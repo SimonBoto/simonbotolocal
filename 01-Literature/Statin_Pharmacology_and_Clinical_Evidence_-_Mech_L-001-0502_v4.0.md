@@ -1,7 +1,7 @@
 ---
 uid: L-001-0502
 type: litnote
-title: "Statin Pharmacology and Clinical Evidence — Mechanisms, Major Trials, and Precision Use"
+title: "Statin Pharmacology and Clinical Evidence - Mechanisms, Major Trials, and Precision Use"
 aliases:
   - L-001-0502
   - Statin-Pharmacology
@@ -14,7 +14,7 @@ doi: "N/A"
 pmid: "N/A"
 pmcid: ""
 tier: SILVER
-relevance: "High — Statin mechanisms, clinical evidence, precision use, drug interactions, METHAP integration"
+relevance: "High - Statin mechanisms, clinical evidence, precision use, drug interactions, METHAP integration"
 status: complete
 parent-moc: [[MOC-Cholesterol-Lipid]]
 parent-index: [[01-Literature-Index]]

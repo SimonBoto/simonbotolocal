@@ -1,7 +1,7 @@
 ---
 uid: L-001-0208
 type: litnote
-title: "Lit — History of Glucose Discovery and Metabolic Understanding"
+title: "Lit - History of Glucose Discovery and Metabolic Understanding"
 aliases:
   - L-001-0208
   - History-of-Glucose-Discovery
@@ -14,7 +14,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: SILVER
-relevance: "Medium — Foundation for carbohydrate metabolism understanding"
+relevance: "Medium - Foundation for carbohydrate metabolism understanding"
 status: complete
 parent-moc: [[MOC-Glucose-History]]
 parent-index: [[01-Literature-Index]]

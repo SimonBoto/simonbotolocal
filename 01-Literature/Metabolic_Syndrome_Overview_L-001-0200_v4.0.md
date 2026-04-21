@@ -1,7 +1,7 @@
 ---
 uid: L-001-0200
 type: litnote
-title: "Lit — Metabolic Syndrome Overview (Definition, Epidemiology, Pathophysiology)"
+title: "Lit - Metabolic Syndrome Overview (Definition, Epidemiology, Pathophysiology)"
 aliases:
   - L-001-0200
 source-origin: chatgpt-archive
@@ -12,7 +12,7 @@ doi: "N/A"
 pmid: "N/A"
 pmcid: "N/A"
 tier: SILVER
-relevance: "High — Foundational context for all nutrient-MetS research; METHAP trial background"
+relevance: "High - Foundational context for all nutrient-MetS research; METHAP trial background"
 status: complete
 parent-moc: [[MOC-Metabolic-Syndrome]]
 parent-index: [[01-Literature-Index]]

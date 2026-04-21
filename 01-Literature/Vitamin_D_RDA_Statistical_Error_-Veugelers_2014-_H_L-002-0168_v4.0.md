@@ -13,7 +13,7 @@ journal: "Nutrients"
 doi: "10.3390/nu6104472; 10.3390/nu7031688"
 pmid: "25333201; 25763527"
 tier: "GOLD"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Vitamin-Mineral-Axis]]
 parent-index: [[01-Literature-Index]]

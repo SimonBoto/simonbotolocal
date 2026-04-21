@@ -10,7 +10,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: SILVER
-relevance: High — Links energy metabolism to iron homeostasis
+relevance: High - Links energy metabolism to iron homeostasis
 aliases:
   - L-001-0631
   - Aconitase

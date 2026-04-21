@@ -13,7 +13,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: SILVER
-relevance: "High — Mechanistic foundation for osteoporosis pathophysiology"
+relevance: "High - Mechanistic foundation for osteoporosis pathophysiology"
 status: complete
 parent-moc: [[MOC-Clinical-Metabolomics]]
 parent-index: [[02-Literature]]

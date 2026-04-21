@@ -1,7 +1,7 @@
 ---
 uid: L-001-0621
 type: litnote
-title: "VDR Knockout Studies — Immune Function and Autoimmune Implications"
+title: "VDR Knockout Studies - Immune Function and Autoimmune Implications"
 date: 2026-04-12
 authors: "ChatGPT Analysis"
 year: 2024
@@ -10,7 +10,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: SILVER
-relevance: "Critical — Links Vitamin D to autoimmunity mechanisms"
+relevance: "Critical - Links Vitamin D to autoimmunity mechanisms"
 aliases:
   - L-001-0621
   - VDR Immunity

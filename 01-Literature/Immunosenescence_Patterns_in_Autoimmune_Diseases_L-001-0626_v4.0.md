@@ -9,7 +9,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: SILVER
-relevance: High — Premature aging of the immune system in autoimmunity
+relevance: High - Premature aging of the immune system in autoimmunity
 aliases:
   - L-001-0626
   - Immune Aging

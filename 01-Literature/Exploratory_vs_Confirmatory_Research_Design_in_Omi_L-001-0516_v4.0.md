@@ -9,7 +9,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: BRONZE
-relevance: High — Critical for PhD study design and METHAP trial methodology
+relevance: High - Critical for PhD study design and METHAP trial methodology
 aliases:
   - L-001-0516
   - Study Design Standards

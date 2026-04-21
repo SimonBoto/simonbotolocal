@@ -1,7 +1,7 @@
 ---
 uid: L-001-0595
 type: litnote
-title: "Lit — Patient Communication Scripts and Objection Handling"
+title: "Lit - Patient Communication Scripts and Objection Handling"
 aliases:
   - L-001-0595
   - Patient-Communication
@@ -13,7 +13,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: BRONZE
-relevance: "High — 25+ patient objection responses, metabolic storytelling, reframing techniques"
+relevance: "High - 25+ patient objection responses, metabolic storytelling, reframing techniques"
 status: complete
 parent-moc: [[MOC-Metabolomics]]
 parent-index: [[01-Literature-Index]]

@@ -2,7 +2,7 @@
 uid: L-002-0226
 type: litnote
 source-origin: facebook-article
-title: "Coffee Reduces Dementia Risk — 37-Year Study (Zhang 2026, JAMA)"
+title: "Coffee Reduces Dementia Risk - 37-Year Study (Zhang 2026, JAMA)"
 aliases:
   - "L-002-0226"
   - "Coffee-Dementia-Risk"
@@ -15,7 +15,7 @@ journal: "JAMA"
 doi: "(pending)"
 pmid: "(pending)"
 tier: "SILVER"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Cognitive-Health]]
 parent-index: [[01-Literature-Index]]

@@ -2,7 +2,7 @@
 uid: L-001-0012
 type: litnote
 source-origin: chatgpt-archive
-title: "Lit — Denosumab Mechanism, Rebound Effect, and Discontinuation Protocol"
+title: "Lit - Denosumab Mechanism, Rebound Effect, and Discontinuation Protocol"
 aliases:
   - L-001-0012
   - Denosumab-Mechanism-Rebound-Protocol
@@ -10,7 +10,7 @@ authors: "Cummings et al., ChatGPT synthesis (CGPT-0133)"
 year: "2018/2025"
 journal: "Lancet Diabetes Endocrinol / Internal synthesis"
 tier: GOLD
-relevance: "High — Critical safety knowledge for clinical practice"
+relevance: "High - Critical safety knowledge for clinical practice"
 status: complete
 parent-moc: [[MOC-Bone-Health]]
 parent-index: [[01-Literature-Index]]

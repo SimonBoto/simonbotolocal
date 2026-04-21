@@ -2,7 +2,7 @@
 uid: L-001-0014
 type: litnote
 source-origin: chatgpt-archive
-title: "Lit — High-Protein Diet and Bone Health (Muscle-Bone Unit)"
+title: "Lit - High-Protein Diet and Bone Health (Muscle-Bone Unit)"
 aliases:
   - L-001-0014
   - High-Protein-Diet-Muscle-Bone-Unit
@@ -10,7 +10,7 @@ authors: "ChatGPT synthesis from clinical review (CGPT-0133)"
 year: "2025"
 journal: "Internal clinical synthesis"
 tier: GOLD
-relevance: "High — Underutilized nutritional intervention for osteoporosis"
+relevance: "High - Underutilized nutritional intervention for osteoporosis"
 status: complete
 parent-moc: [[MOC-Bone-Health]]
 parent-index: [[01-Literature-Index]]

@@ -1,7 +1,7 @@
 ---
 uid: L-001-0606
 type: litnote
-title: "Lit — McCarty_Nicotine_Biosynthesis_2026"
+title: "Lit - McCarty_Nicotine_Biosynthesis_2026"
 aliases:
   - L-001-0606
 source-inbox: [[INBOX-2026-04-04-001_Nicotine_Biosynthesis_X_Post]]

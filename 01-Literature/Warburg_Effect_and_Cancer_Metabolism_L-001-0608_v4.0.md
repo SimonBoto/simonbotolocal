@@ -15,7 +15,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: BRONZE
-relevance: High — Aerobic glycolysis in cancer, metabolic reprogramming, tumor microenvironment, lactate production
+relevance: High - Aerobic glycolysis in cancer, metabolic reprogramming, tumor microenvironment, lactate production
 status: complete
 parent-moc: [[MOC-Cancer]]
 parent-index: [[01-Literature-Index]]

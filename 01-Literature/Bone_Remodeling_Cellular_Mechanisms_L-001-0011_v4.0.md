@@ -2,7 +2,7 @@
 uid: L-001-0011
 type: litnote
 source-origin: chatgpt-archive
-title: "Lit — Bone Remodeling Cellular Mechanisms (Osteoclasts/Osteoblasts)"
+title: "Lit - Bone Remodeling Cellular Mechanisms (Osteoclasts/Osteoblasts)"
 aliases:
   - L-001-0011
   - Bone-Remodeling-Cellular-Mechanisms
@@ -10,7 +10,7 @@ authors: "ChatGPT synthesis from clinical review (CGPT-0133)"
 year: "2025"
 journal: "Internal clinical synthesis"
 tier: GOLD
-relevance: "High — Core mechanistic biology for bone therapeutics"
+relevance: "High - Core mechanistic biology for bone therapeutics"
 status: complete
 parent-moc: [[MOC-Bone-Health]]
 parent-index: [[01-Literature-Index]]

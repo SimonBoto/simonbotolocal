@@ -1,14 +1,14 @@
 ---
 uid: L-001-0637
 type: litnote
-title: LitNote — Therapeutic Fasting and Fermentation (CGPT-0199)
+title: LitNote - Therapeutic Fasting and Fermentation (CGPT-0199)
 aliases:
   - L-001-0637
 authors: ChatGPT Analysis (CGPT-0199)
 year: 2025
 journal: ChatGPT Archive
 tier: SILVER
-relevance: High — Kefir fermentation, therapeutic fasting protocols, gut reset strategies
+relevance: High - Kefir fermentation, therapeutic fasting protocols, gut reset strategies
 status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-Gut-Health]]

@@ -2,7 +2,7 @@
 uid: L-002-0244
 type: litnote
 source-origin: facebook-article
-title: "Animal and Saturated Fat Not Linked to Cardiovascular Death — Tokyo University"
+title: "Animal and Saturated Fat Not Linked to Cardiovascular Death - Tokyo University"
 aliases:
   - "L-002-0244"
   - "Animal-Saturated-Fat-Not-Mortality"
@@ -15,7 +15,7 @@ journal: "University of Tokyo Research"
 doi: "(Tokyo)"
 pmid: "(pending)"
 tier: "SILVER"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Cholesterol-Lipid]]
 parent-index: [[01-Literature-Index]]

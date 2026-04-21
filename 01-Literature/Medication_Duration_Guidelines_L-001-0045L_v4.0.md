@@ -1,7 +1,7 @@
 ---
 uid: L-001-0045L
 type: litnote
-title: "Medication Duration Guidelines — Osteoporosis Treatment Longevity"
+title: "Medication Duration Guidelines - Osteoporosis Treatment Longevity"
 aliases:
   - L-001-0045H
   - Medication-Duration
@@ -13,7 +13,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: SILVER
-relevance: "High — Evidence-based duration guidelines for osteoporosis medications"
+relevance: "High - Evidence-based duration guidelines for osteoporosis medications"
 status: complete
 parent-moc: [[MOC-Clinical-Metabolomics]]
 parent-index: [[02-Literature]]

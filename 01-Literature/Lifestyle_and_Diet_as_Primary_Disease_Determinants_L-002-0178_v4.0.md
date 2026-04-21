@@ -12,7 +12,7 @@ journal: "New England Journal of Medicine"
 doi: "10.1056/NEJMoa2415879"
 pmid: "40162648"
 tier: "GOLD"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Metabolic-Syndrome]]
 parent-index: [[01-Literature-Index]]

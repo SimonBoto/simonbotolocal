@@ -1,7 +1,7 @@
 ---
 uid: L-001-0505
 type: litnote
-title: "Lit — Ancel Keys and the Diet-Heart Hypothesis (Scientific Legacy, Policy Impact, and Modern Reassessment)"
+title: "Lit - Ancel Keys and the Diet-Heart Hypothesis (Scientific Legacy, Policy Impact, and Modern Reassessment)"
 aliases:
   - L-001-0505
   - Ancel-Keys-Diet-Heart-Hypothesis
@@ -13,7 +13,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: GOLD
-relevance: "Critical — Understanding how scientific ideas become policy, the history of dietary guidelines, and lessons for evidence-based medicine"
+relevance: "Critical - Understanding how scientific ideas become policy, the history of dietary guidelines, and lessons for evidence-based medicine"
 status: complete
 parent-moc: [[MOC-Nutrition]]
 parent-index: [[01-Literature-Index]]

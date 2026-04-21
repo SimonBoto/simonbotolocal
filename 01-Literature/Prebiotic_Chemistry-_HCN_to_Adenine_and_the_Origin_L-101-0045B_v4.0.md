@@ -15,7 +15,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: SILVER
-relevance: High — Prebiotic synthesis, HCN polymerization, extraterrestrial origins, astrobiology, panspermia
+relevance: High - Prebiotic synthesis, HCN polymerization, extraterrestrial origins, astrobiology, panspermia
 status: complete
 parent-moc: [[MOC-Origins-of-Life]]
 parent-index: [[01-Literature-Index]]

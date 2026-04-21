@@ -1,7 +1,7 @@
 ---
 uid: L-001-0045J
 type: litnote
-title: "Bone Turnover Markers — Biochemical Monitoring in Osteoporosis"
+title: "Bone Turnover Markers - Biochemical Monitoring in Osteoporosis"
 aliases:
   - L-001-0045C
   - Bone-Turnover-Markers
@@ -13,7 +13,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: SILVER
-relevance: "High — Biochemical monitoring of treatment response in osteoporosis"
+relevance: "High - Biochemical monitoring of treatment response in osteoporosis"
 status: complete
 parent-moc: [[MOC-Bone-Health]]
 parent-index: [[02-Literature]]

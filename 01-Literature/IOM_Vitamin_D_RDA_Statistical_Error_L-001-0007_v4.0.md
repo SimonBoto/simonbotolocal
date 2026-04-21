@@ -2,7 +2,7 @@
 uid: L-001-0007
 type: litnote
 source-origin: chatgpt-archive
-title: "Lit — IOM Vitamin D RDA Statistical Error"
+title: "Lit - IOM Vitamin D RDA Statistical Error"
 aliases:
   - L-001-0007
   - IOM-Vitamin-D-RDA-Statistical-Error
@@ -10,7 +10,7 @@ authors: "Veugelers, Ekwaru, IOM Committee (critiqued)"
 year: "2010/2015"
 journal: "Institute of Medicine Report / Critiques in peer review"
 tier: GOLD
-relevance: "High — 10x underestimation of vitamin D requirements affects global public health"
+relevance: "High - 10x underestimation of vitamin D requirements affects global public health"
 status: complete
 parent-moc: [[MOC-Vitamin-D]]
 parent-index: [[01-Literature-Index]]

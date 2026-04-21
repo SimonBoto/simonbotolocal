@@ -1,7 +1,7 @@
 ---
 uid: L-001-0504
 type: litnote
-title: "Lit — Seven Countries Study Methodology and Scientific Critique (Ecological Fallacy, Selection Bias, and Statistical Limitations)"
+title: "Lit - Seven Countries Study Methodology and Scientific Critique (Ecological Fallacy, Selection Bias, and Statistical Limitations)"
 aliases:
   - L-001-0504
   - Seven-Countries-Methodology
@@ -15,7 +15,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: GOLD
-relevance: Critical — Understanding methodological flaws in nutritional epidemiology, ecological fallacy, and evidence quality assessment
+relevance: Critical - Understanding methodological flaws in nutritional epidemiology, ecological fallacy, and evidence quality assessment
 status: complete
 parent-moc: [[MOC-Research]]
 parent-index: [[01-Literature-Index]]

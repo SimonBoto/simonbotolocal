@@ -12,7 +12,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: BRONZE
-relevance: "High — TP53 abnormalities, del(17p), p53 dysfunction, MDM2 inhibitors, therapeutic strategies"
+relevance: "High - TP53 abnormalities, del(17p), p53 dysfunction, MDM2 inhibitors, therapeutic strategies"
 status: complete
 source-origin: legacy
 parent-moc: [[MOC-Cancer]]

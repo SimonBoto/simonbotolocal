@@ -1,7 +1,7 @@
 ---
 uid: L-001-0599
 type: litnote
-title: "Lit — CGPT-0022 Extraction Completion Summary"
+title: "Lit - CGPT-0022 Extraction Completion Summary"
 aliases:
   - L-001-0599
   - CGPT-0022-Summary
@@ -13,7 +13,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: BRONZE
-relevance: "High — Final extraction summary, batch inventory, quality verification"
+relevance: "High - Final extraction summary, batch inventory, quality verification"
 status: complete
 parent-moc: [[MOC-Metabolomics]]
 parent-index: [[01-Literature-Index]]

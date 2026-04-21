@@ -13,7 +13,7 @@ journal: "International Journal of Obesity"
 doi: "10.1038/s41366-023-01336-y"
 pmid: "37443272"
 tier: "GOLD"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Metabolic-Syndrome]]
 parent-index: [[01-Literature-Index]]

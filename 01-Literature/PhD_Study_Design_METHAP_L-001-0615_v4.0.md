@@ -11,7 +11,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: BRONZE
-relevance: Critical — RCT structure, inclusion criteria, intervention protocol, timeline for PhD research on metabolic biomarkers and insulin resistance
+relevance: Critical - RCT structure, inclusion criteria, intervention protocol, timeline for PhD research on metabolic biomarkers and insulin resistance
 status: complete
 parent-moc: 
 tags:

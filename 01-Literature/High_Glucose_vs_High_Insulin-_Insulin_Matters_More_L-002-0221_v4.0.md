@@ -15,7 +15,7 @@ journal: "New England Journal of Medicine; Various"
 doi: "(multiple)"
 pmid: "(multiple)"
 tier: "SILVER"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Insulin-Signaling]]
 parent-index: [[01-Literature-Index]]

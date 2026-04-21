@@ -10,7 +10,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: GOLD
-relevance: Critical — Completes adipic acid metabolic fate for PhD biomarker interpretation
+relevance: Critical - Completes adipic acid metabolic fate for PhD biomarker interpretation
 aliases:
   - L-001-0629
   - Adipate Metabolism

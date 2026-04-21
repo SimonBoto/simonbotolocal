@@ -1,7 +1,7 @@
 ---
 uid: L-001-0655
 type: litnote
-title: "Ketone Body Metabolism Deep Dive — From Beta-Oxidation to ATP Yield_L-001-0655"
+title: "Ketone Body Metabolism Deep Dive - From Beta-Oxidation to ATP Yield_L-001-0655"
 aliases:
   - L-001-0655
   - Ketone Bodies
@@ -17,7 +17,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: GOLD
-relevance: "Critical — Alternative fuel metabolism; therapeutic ketosis applications; brain fuel during fasting"
+relevance: "Critical - Alternative fuel metabolism; therapeutic ketosis applications; brain fuel during fasting"
 status: complete
 parent-moc: [[MOC-Lipid-Metabolism]]
 parent-index: [[01-Literature-Index]]

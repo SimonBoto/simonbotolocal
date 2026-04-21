@@ -16,7 +16,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: GOLD
-relevance: "Critical — Essential trace minerals for mitochondrial antioxidant defense, enzyme function, and oxidative phosphorylation protection"
+relevance: "Critical - Essential trace minerals for mitochondrial antioxidant defense, enzyme function, and oxidative phosphorylation protection"
 status: complete
 parent-moc: [[MOC-Mitochondrial-Function]]
 parent-index: [[01-Literature-Index]]

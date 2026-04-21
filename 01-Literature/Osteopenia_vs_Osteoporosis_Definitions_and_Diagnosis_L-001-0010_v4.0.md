@@ -2,7 +2,7 @@
 uid: L-001-0010
 type: litnote
 source-origin: chatgpt-archive
-title: "Lit — Osteopenia vs Osteoporosis Definitions and Diagnosis"
+title: "Lit - Osteopenia vs Osteoporosis Definitions and Diagnosis"
 aliases:
   - L-001-0010
   - Osteopenia-vs-Osteoporosis-Definitions
@@ -10,7 +10,7 @@ authors: "ChatGPT synthesis from clinical review (CGPT-0133)"
 year: "2025"
 journal: "Internal clinical synthesis"
 tier: SILVER
-relevance: "High — Foundational for bone health clinical assessment"
+relevance: "High - Foundational for bone health clinical assessment"
 status: complete
 parent-moc: [[MOC-Bone-Health]]
 parent-index: [[01-Literature-Index]]

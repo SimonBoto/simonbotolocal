@@ -2,7 +2,7 @@
 uid: L-002-0239
 type: litnote
 source-origin: facebook-article
-title: "Twelve Actions for Better Health in 2026 — Lifestyle Medicine Protocol"
+title: "Twelve Actions for Better Health in 2026 - Lifestyle Medicine Protocol"
 aliases:
   - "L-002-0239"
   - "Twelve-Actions-Better-Health-2026"
@@ -15,7 +15,7 @@ journal: "Lifestyle Medicine / Clinical Synthesis"
 doi: "(synthesis)"
 pmid: "N/A"
 tier: "SILVER"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Lifestyle-Medicine]]
 parent-index: [[01-Literature-Index]]

@@ -10,7 +10,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: BRONZE
-relevance: High — Clinical diagnostic markers for METHAP protocol
+relevance: High - Clinical diagnostic markers for METHAP protocol
 aliases:
   - L-101-0003
   - Dicarboxylic Aciduria

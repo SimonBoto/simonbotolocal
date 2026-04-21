@@ -1,14 +1,14 @@
 ---
 uid: L-001-0638
 type: litnote
-title: LitNote — Iodine, Thyroid, and MTHFR Support (CGPT-0199)
+title: LitNote - Iodine, Thyroid, and MTHFR Support (CGPT-0199)
 aliases:
   - L-001-0638
 authors: ChatGPT Analysis (CGPT-0199)
 year: 2025
 journal: ChatGPT Archive
 tier: SILVER
-relevance: Critical — Iodine dosing, selenium synergy, MTHFR considerations, supplement interactions
+relevance: Critical - Iodine dosing, selenium synergy, MTHFR considerations, supplement interactions
 status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-Thyroid]]

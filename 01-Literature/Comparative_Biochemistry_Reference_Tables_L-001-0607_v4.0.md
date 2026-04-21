@@ -14,7 +14,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: BRONZE
-relevance: High — Aldoses/ketoses reference, amino acid classification, organic acids, Krebs intermediates
+relevance: High - Aldoses/ketoses reference, amino acid classification, organic acids, Krebs intermediates
 status: complete
 parent-moc: [[MOC-Metabolomics]]
 parent-index: [[01-Literature-Index]]

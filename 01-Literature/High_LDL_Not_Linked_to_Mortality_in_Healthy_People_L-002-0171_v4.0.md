@@ -12,7 +12,7 @@ journal: "BMJ Open"
 doi: "10.1136/bmjopen-2023-077949"
 pmid: "38548371"
 tier: "GOLD"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Cholesterol-Quality]]
 parent-index: [[01-Literature-Index]]

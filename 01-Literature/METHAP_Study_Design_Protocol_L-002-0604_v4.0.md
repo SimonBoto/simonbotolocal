@@ -1,7 +1,7 @@
 ---
 uid: L-002-0604
 type: litnote
-title: "METHAP Study Design and Protocol — IRB Application"
+title: "METHAP Study Design and Protocol - IRB Application"
 aliases:
   - L-002-0604
 authors: "Simos Xenidis, PhD Candidate"
@@ -11,7 +11,7 @@ doi: "N/A"
 pmid: "N/A"
 pmcid: "N/A"
 tier: GOLD
-relevance: "Critical — Complete IRB application for METHAP trial, study design, participant selection, intervention protocol"
+relevance: "Critical - Complete IRB application for METHAP trial, study design, participant selection, intervention protocol"
 status: complete
 parent-moc: 
 tags:

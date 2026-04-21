@@ -2,7 +2,7 @@
 uid: L-001-0013
 type: litnote
 source-origin: chatgpt-archive
-title: "Lit — Vitamin D and K2 Synergy for Bone Health"
+title: "Lit - Vitamin D and K2 Synergy for Bone Health"
 aliases:
   - L-001-0013
   - Vitamin-D-K2-Synergy-Bone-Health
@@ -10,7 +10,7 @@ authors: "Holick, Cockayne et al., ChatGPT synthesis (CGPT-0133)"
 year: "2006-2025"
 journal: "N Engl J Med, Arch Intern Med / Internal synthesis"
 tier: GOLD
-relevance: "High — Core nutritional intervention for osteoporosis"
+relevance: "High - Core nutritional intervention for osteoporosis"
 status: complete
 parent-moc: [[MOC-Bone-Health]]
 parent-index: [[01-Literature-Index]]

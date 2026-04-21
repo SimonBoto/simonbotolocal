@@ -1,7 +1,7 @@
 ---
 uid: L-001-0598
 type: litnote
-title: "Lit — CGPT-0022 Training Curriculum Integration"
+title: "Lit - CGPT-0022 Training Curriculum Integration"
 aliases:
   - L-001-0598
   - CGPT-0022-Training
@@ -13,7 +13,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: BRONZE
-relevance: "High — Synthesis of 8-week bootcamp, integration of all training modules, MOC connections"
+relevance: "High - Synthesis of 8-week bootcamp, integration of all training modules, MOC connections"
 status: complete
 parent-moc: [[MOC-Metabolomics]]
 parent-index: [[01-Literature-Index]]

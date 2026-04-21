@@ -12,7 +12,7 @@ doi: "N/A"
 pmid: "N/A"
 pmcid: "N/A"
 tier: SILVER
-relevance: "High — PhD marker for adipic acid metabolism, oxalate biochemistry"
+relevance: "High - PhD marker for adipic acid metabolism, oxalate biochemistry"
 status: complete
 parent-moc: [[MOC-Metabolic-Pathways]]
 parent-index: [[01-Literature-Index]]

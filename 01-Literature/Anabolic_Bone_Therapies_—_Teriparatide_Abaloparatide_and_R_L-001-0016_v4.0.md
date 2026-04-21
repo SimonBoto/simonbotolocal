@@ -1,7 +1,7 @@
 ---
 uid: L-001-0016
 type: litnote
-title: "Anabolic Bone Therapies — Teriparatide, Abaloparatide, and Romosozumab_L-001-0016"
+title: "Anabolic Bone Therapies - Teriparatide, Abaloparatide, and Romosozumab_L-001-0016"
 aliases:
   - L-001-0016
   - Anabolic-Bone-Therapies
@@ -13,7 +13,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: SILVER
-relevance: "High — Treatment options for severe osteoporosis and anabolic strategy"
+relevance: "High - Treatment options for severe osteoporosis and anabolic strategy"
 status: complete
 parent-moc: [[MOC-Clinical-Metabolomics]]
 parent-index: [[02-Literature]]

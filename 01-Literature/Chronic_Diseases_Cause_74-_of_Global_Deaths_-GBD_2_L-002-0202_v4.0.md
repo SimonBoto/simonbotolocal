@@ -13,7 +13,7 @@ journal: "The Lancet (GBD 2019)"
 doi: "10.1016/S0140-6736(20)30752-2"
 pmid: "36726528"
 tier: "GOLD"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Diabetes]]
 parent-index: [[01-Literature-Index]]

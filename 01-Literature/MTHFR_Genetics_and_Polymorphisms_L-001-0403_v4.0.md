@@ -1,19 +1,19 @@
 ---
 uid: L-001-0403
 type: litnote
-title: "Lit — MTHFR Genetics and Polymorphisms"
+title: "Lit - MTHFR Genetics and Polymorphisms"
 aliases:
   - L-001-0403
   - MTHFR-Genetics-LitNote
 source-origin: chatgpt-archive
 authors: "ChatGPT synthesis (CGPT-0264)"
 year: 2024
-journal: "ChatGPT Archive — Internal clinical synthesis"
+journal: "ChatGPT Archive - Internal clinical synthesis"
 doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: SILVER
-relevance: High — Genetic variation affecting methylation, folate requirements, METHAP personalization
+relevance: High - Genetic variation affecting methylation, folate requirements, METHAP personalization
 status: complete
 parent-moc: [[MOC-Methylation]]
 parent-index: [[01-Literature-Index]]

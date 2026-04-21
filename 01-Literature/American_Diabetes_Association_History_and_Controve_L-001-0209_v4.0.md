@@ -1,7 +1,7 @@
 ---
 uid: L-001-0209
 type: litnote
-title: "Lit — American Diabetes Association History and Controversies"
+title: "Lit - American Diabetes Association History and Controversies"
 aliases:
   - L-001-0209
   - ADA-History
@@ -14,7 +14,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: SILVER
-relevance: "Medium — Institutional context for diabetes guidelines; pharma funding issues"
+relevance: "Medium - Institutional context for diabetes guidelines; pharma funding issues"
 status: complete
 parent-moc: [[MOC-Metabolic-Syndrome]]
 parent-index: [[01-Literature]]

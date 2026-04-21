@@ -1,7 +1,7 @@
 ---
 uid: L-001-0405
 type: litnote
-title: "B12 in Amino Acid Metabolism — Propionate Pathway and Odd-Chain Fatty Acids"
+title: "B12 in Amino Acid Metabolism - Propionate Pathway and Odd-Chain Fatty Acids"
 aliases:
   - L-001-0405
   - B12-Amino-Acid
@@ -15,7 +15,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: SILVER
-relevance: High — Propionate metabolism, methylmalonyl-CoA mutase, odd-chain fatty acid catabolism, Krebs cycle integration
+relevance: High - Propionate metabolism, methylmalonyl-CoA mutase, odd-chain fatty acid catabolism, Krebs cycle integration
 status: complete
 parent-moc: [[MOC-Methylation]]
 parent-index: [[01-Literature-Index]]

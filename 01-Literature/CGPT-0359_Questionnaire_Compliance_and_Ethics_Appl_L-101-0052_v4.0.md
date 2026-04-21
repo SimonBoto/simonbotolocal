@@ -9,7 +9,7 @@ year: 2024
 journal: ChatGPT Archive
 pmid: N/A
 tier: BRONZE
-relevance: Moderate — Practical strategies for questionnaire ethics approval
+relevance: Moderate - Practical strategies for questionnaire ethics approval
 status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-PhD-Research]]

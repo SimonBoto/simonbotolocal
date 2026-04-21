@@ -9,7 +9,7 @@ year: 2024
 journal: ChatGPT Archive
 pmid: N/A
 tier: SILVER
-relevance: High — Ascorbate metabolism, oxalate measurement confounders, PhD analytical considerations
+relevance: High - Ascorbate metabolism, oxalate measurement confounders, PhD analytical considerations
 status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-Metabolic-Syndrome]]

@@ -10,7 +10,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: BRONZE
-relevance: Medium — Cofactor biochemistry supporting fatty acid metabolism
+relevance: Medium - Cofactor biochemistry supporting fatty acid metabolism
 aliases:
   - L-101-0004
   - CoA Biosynthesis

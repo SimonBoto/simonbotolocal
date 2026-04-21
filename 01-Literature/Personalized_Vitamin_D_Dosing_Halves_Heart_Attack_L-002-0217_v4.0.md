@@ -15,7 +15,7 @@ journal: "American Heart Association Scientific Sessions (Conference Abstract)"
 doi: "(not applicable)"
 pmid: "(not applicable)"
 tier: "BRONZE"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Nutrition]]
 parent-index: [[01-Literature-Index]]

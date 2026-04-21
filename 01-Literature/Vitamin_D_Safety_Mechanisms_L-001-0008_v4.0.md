@@ -2,7 +2,7 @@
 uid: L-001-0008
 type: litnote
 source-origin: chatgpt-archive
-title: "Lit — Vitamin D Safety Mechanisms"
+title: "Lit - Vitamin D Safety Mechanisms"
 aliases:
   - L-001-0008
   - Vitamin-D-Safety-Mechanisms
@@ -10,7 +10,7 @@ authors: "Synthesized from ChatGPT CGPT-0284 + Holick, Uwitonze & Razzaque, Schw
 year: "2007-2018"
 journal: "JAMA, JAOA, J Nutr Metab"
 tier: GOLD
-relevance: "High — Mechanisms enabling safe high-dose vitamin D protocols"
+relevance: "High - Mechanisms enabling safe high-dose vitamin D protocols"
 status: complete
 parent-moc: [[MOC-Vitamin-D]]
 parent-index: [[01-Literature-Index]]

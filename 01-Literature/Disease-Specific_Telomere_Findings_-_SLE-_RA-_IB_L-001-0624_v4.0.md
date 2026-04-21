@@ -1,7 +1,7 @@
 ---
 uid: L-001-0624
 type: litnote
-title: Disease-Specific Telomere Findings — SLE, RA, IBD, Psoriasis
+title: Disease-Specific Telomere Findings - SLE, RA, IBD, Psoriasis
 authors: ChatGPT Analysis / Georgin-Lavialle et al.
 year: 2023
 journal: ChatGPT Archive / Autoimmunity Reviews
@@ -9,7 +9,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: 2
-relevance: High — Clinical evidence across major autoimmune diseases
+relevance: High - Clinical evidence across major autoimmune diseases
 aliases:
   - L-001-0624
   - SLE Telomeres

@@ -11,7 +11,7 @@ doi: "N/A"
 pmid: "N/A"
 pmcid: "N/A"
 tier: GOLD
-relevance: "High — Historical foundation for modern IRB requirements and METHAP ethics compliance"
+relevance: "High - Historical foundation for modern IRB requirements and METHAP ethics compliance"
 status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-Research-Ethics]]

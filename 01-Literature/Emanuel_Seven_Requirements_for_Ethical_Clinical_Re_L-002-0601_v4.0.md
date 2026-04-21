@@ -11,7 +11,7 @@ doi: "10.1001/jama.283.20.2701"
 pmid: "10819955"
 pmcid: "N/A"
 tier: GOLD
-relevance: "High — Foundational framework for IRB approval and METHAP trial design"
+relevance: "High - Foundational framework for IRB approval and METHAP trial design"
 status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-Research-Ethics]]

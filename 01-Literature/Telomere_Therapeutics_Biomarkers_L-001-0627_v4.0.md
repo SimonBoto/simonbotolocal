@@ -9,7 +9,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: SILVER
-relevance: High — Clinical translation potential
+relevance: High - Clinical translation potential
 aliases:
   - L-001-0627
   - Telomere Therapeutics

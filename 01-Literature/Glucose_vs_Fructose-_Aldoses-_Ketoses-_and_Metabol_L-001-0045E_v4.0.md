@@ -15,7 +15,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: SILVER
-relevance: High — Aldose/ketose chemistry, metabolic differences, lipogenesis, health implications
+relevance: High - Aldose/ketose chemistry, metabolic differences, lipogenesis, health implications
 status: complete
 parent-moc: [[MOC-Glycolysis-PPP]]
 parent-index: [[01-Literature-Index]]

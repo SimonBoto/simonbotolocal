@@ -12,7 +12,7 @@ journal: "Cell Metabolism"
 doi: "10.1016/j.cmet.2026.01.014"
 pmid: "41720105"
 tier: "GOLD"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Cancer]]
 parent-index: [[01-Literature-Index]]

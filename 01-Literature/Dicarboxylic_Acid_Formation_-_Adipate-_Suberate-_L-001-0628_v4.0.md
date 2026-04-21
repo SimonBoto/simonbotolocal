@@ -2,7 +2,7 @@
 uid: L-001-0628
 type: litnote
 source-origin: chatgpt-archive
-title: "Dicarboxylic Acid Formation — Adipate, Suberate, Sebacate from Fatty Acids"
+title: "Dicarboxylic Acid Formation - Adipate, Suberate, Sebacate from Fatty Acids"
 authors: ChatGPT Analysis (CGPT-0586)
 year: 2023
 journal: ChatGPT Archive
@@ -10,7 +10,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: GOLD
-relevance: Critical — Primary PhD biomarker pathway for insulin resistance detection
+relevance: Critical - Primary PhD biomarker pathway for insulin resistance detection
 aliases:
   - L-001-0628
   - Adipate Formation

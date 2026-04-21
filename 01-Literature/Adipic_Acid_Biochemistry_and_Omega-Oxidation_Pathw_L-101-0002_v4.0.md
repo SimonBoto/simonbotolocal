@@ -10,7 +10,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: BRONZE
-relevance: High — Primary PhD research marker for insulin resistance detection
+relevance: High - Primary PhD research marker for insulin resistance detection
 aliases:
   - L-101-0002
   - Adipate Formation

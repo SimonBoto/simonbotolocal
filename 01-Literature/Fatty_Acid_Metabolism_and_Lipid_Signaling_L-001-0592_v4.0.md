@@ -1,7 +1,7 @@
 ---
 uid: L-001-0592
 type: litnote
-title: "Lit — Fatty Acid Metabolism and Lipid Signaling"
+title: "Lit - Fatty Acid Metabolism and Lipid Signaling"
 aliases:
   - L-001-0592
   - Fatty-Acid-Metabolism
@@ -13,7 +13,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: BRONZE
-relevance: "High — Beta-oxidation, desaturase enzymes, fatty acid subclasses, clinical ratios"
+relevance: "High - Beta-oxidation, desaturase enzymes, fatty acid subclasses, clinical ratios"
 status: complete
 parent-moc: [[MOC-Mitochondrial-Function]]
 parent-index: [[01-Literature-Index]]

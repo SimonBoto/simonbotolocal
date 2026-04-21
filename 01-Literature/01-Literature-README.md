@@ -2,7 +2,7 @@
 uid: IDX-01-README
 folder: 01-Literature
 type: index
-title: "01-Literature — Source Processing"
+title: "01-Literature - Source Processing"
 aliases:
   - Literature-README
   - LitNotes-Guide
@@ -18,7 +18,7 @@ zettel-count: 0
 reference-count: 0
 reviewed_by: "FORG"
 tier: "SILVER"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 parent-moc: [[00-INDEX]]
 parent-index: [[00-INDEX]]
 ---

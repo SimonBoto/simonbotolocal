@@ -2,14 +2,14 @@
 uid: L-001-0005
 type: litnote
 source-origin: academic-article
-title: "Lit — IR Mechanisms Map (Synthesis Document)"
+title: "Lit - IR Mechanisms Map (Synthesis Document)"
 aliases:
   - L-001-0005
 authors: "Synthesized from 35+ atomic notes"
 year: "2026"
 journal: "Internal Synthesis"
 tier: SILVER
-relevance: "High — Comprehensive causal pathway framework"
+relevance: "High - Comprehensive causal pathway framework"
 status: complete
 parent-moc: [[MOC-Insulin-Signaling]]
 parent-index: [[01-Literature-Index]]

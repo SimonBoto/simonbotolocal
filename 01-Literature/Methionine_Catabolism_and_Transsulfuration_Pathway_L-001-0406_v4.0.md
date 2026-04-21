@@ -15,7 +15,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: GOLD
-relevance: High — Complete methionine degradation, cysteine synthesis, glutathione production
+relevance: High - Complete methionine degradation, cysteine synthesis, glutathione production
 status: complete
 parent-moc: [[MOC-Methylation]]
 parent-index: [[01-Literature-Index]]

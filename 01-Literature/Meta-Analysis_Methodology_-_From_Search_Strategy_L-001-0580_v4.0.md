@@ -1,7 +1,7 @@
 ---
 uid: L-001-0580
 type: litnote
-title: "Lit — Meta-Analysis Methodology — From Search Strategy to Publication"
+title: "Lit - Meta-Analysis Methodology - From Search Strategy to Publication"
 aliases:
   - L-001-0580
   - Meta-Analysis-Methodology

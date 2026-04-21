@@ -12,7 +12,7 @@ journal: "International Journal of Food Sciences and Nutrition"
 doi: "10.1080/09637486.2024.2400489"
 pmid: "39289820"
 tier: "GOLD"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Metabolic-Syndrome]]
 parent-index: [[01-Literature-Index]]

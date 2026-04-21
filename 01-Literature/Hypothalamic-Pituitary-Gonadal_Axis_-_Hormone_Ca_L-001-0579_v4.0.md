@@ -1,7 +1,7 @@
 ---
 uid: L-001-0579
 type: litnote
-title: "Lit — Hypothalamic-Pituitary-Gonadal Axis — Hormone Cascade and Regulation"
+title: "Lit - Hypothalamic-Pituitary-Gonadal Axis - Hormone Cascade and Regulation"
 aliases:
   - L-001-0579
   - HPG-Axis

@@ -14,7 +14,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: BRONZE
-relevance: High — Trioses, glycolysis, pentose phosphate pathway, glucose-ribose interconversion, evolutionary origins of carbohydrate metabolism
+relevance: High - Trioses, glycolysis, pentose phosphate pathway, glucose-ribose interconversion, evolutionary origins of carbohydrate metabolism
 status: complete
 parent-moc: [[MOC-Glycolysis-PPP]]
 parent-index: [[01-Literature-Index]]

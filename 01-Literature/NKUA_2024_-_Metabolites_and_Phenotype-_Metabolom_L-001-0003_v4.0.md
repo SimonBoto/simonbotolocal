@@ -1,7 +1,7 @@
 ---
 uid: L-001-0003
 type: litnote
-title: "NKUA 2024 — Metabolites and Phenotype: Metabolomics Advantages in Clinical Practice"
+title: "NKUA 2024 - Metabolites and Phenotype: Metabolomics Advantages in Clinical Practice"
 authors: "Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών"
 year: "2024"
 journal: "Πρόγραμμα Συμπληρωματικής Εκπαίδευσης"
@@ -9,7 +9,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: 2
-relevance: "High — Clinical phenotype mapping with direct METHAP trial applications (oxidative stress biomarkers, micronutrient assessment, IR phenotyping)"
+relevance: "High - Clinical phenotype mapping with direct METHAP trial applications (oxidative stress biomarkers, micronutrient assessment, IR phenotyping)"
 status: complete
 reviewed_by: "FORG"
 aliases:

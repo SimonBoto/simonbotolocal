@@ -2,7 +2,7 @@
 uid: L-002-0227
 type: litnote
 source-origin: facebook-article
-title: "Carbohydrate Restriction Reduces CVD Risk — Meta-Analysis of 174 RCTs"
+title: "Carbohydrate Restriction Reduces CVD Risk - Meta-Analysis of 174 RCTs"
 aliases:
   - "L-002-0227"
   - "Carb-Restriction-CVD-Meta"
@@ -15,7 +15,7 @@ journal: "Various (Meta-analysis of 174 RCTs)"
 doi: "(multiple)"
 pmid: "(multiple)"
 tier: "SILVER"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Metabolic-Syndrome]]
 parent-index: [[01-Literature-Index]]

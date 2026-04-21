@@ -1,7 +1,7 @@
 ---
 uid: L-001-0594
 type: litnote
-title: "Lit — OAT Interpretation Clinical Protocol"
+title: "Lit - OAT Interpretation Clinical Protocol"
 aliases:
   - L-001-0594
   - OAT-Interpretation
@@ -13,7 +13,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: BRONZE
-relevance: "High — Comprehensive OAT marker interpretation, pattern recognition, clinical decision-making"
+relevance: "High - Comprehensive OAT marker interpretation, pattern recognition, clinical decision-making"
 status: complete
 parent-moc: [[MOC-Metabolomics]]
 parent-index: [[01-Literature-Index]]

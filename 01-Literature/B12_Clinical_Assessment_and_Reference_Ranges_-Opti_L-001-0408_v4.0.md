@@ -1,7 +1,7 @@
 ---
 uid: L-001-0408
 type: litnote
-title: "Lit — B12 Clinical Assessment and Reference Ranges (Optimal vs. Standard)"
+title: "Lit - B12 Clinical Assessment and Reference Ranges (Optimal vs. Standard)"
 aliases:
   - L-001-0408
   - B12-Clinical-Assessment
@@ -14,7 +14,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: SILVER
-relevance: High — Clinical decision-making, optimal vs. standard ranges, METHAP monitoring
+relevance: High - Clinical decision-making, optimal vs. standard ranges, METHAP monitoring
 status: complete
 parent-moc: [[MOC-Biomarkers]]
 parent-index: [[02-Literature]]

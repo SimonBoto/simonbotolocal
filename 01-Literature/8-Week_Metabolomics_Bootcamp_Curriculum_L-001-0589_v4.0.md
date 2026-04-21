@@ -1,7 +1,7 @@
 ---
 uid: L-001-0589
 type: litnote
-title: "Lit — 8-Week Metabolomics Bootcamp Curriculum"
+title: "Lit - 8-Week Metabolomics Bootcamp Curriculum"
 aliases:
   - L-001-0589
   - Bootcamp-Curriculum
@@ -13,7 +13,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: SILVER
-relevance: High — Time-bound training curriculum scaffolding cognitive transformation from biochemical literacy to clinical integration
+relevance: High - Time-bound training curriculum scaffolding cognitive transformation from biochemical literacy to clinical integration
 status: complete
 parent-moc: [[MOC-Metabolomics]]
 parent-index: [[01-Literature-Index]]

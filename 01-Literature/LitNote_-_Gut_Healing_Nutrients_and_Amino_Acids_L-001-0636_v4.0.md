@@ -1,14 +1,14 @@
 ---
 uid: L-001-0636
 type: litnote
-title: LitNote — Gut Healing Nutrients and Amino Acids (CGPT-0199)
+title: LitNote - Gut Healing Nutrients and Amino Acids (CGPT-0199)
 aliases:
   - L-001-0636
 authors: ChatGPT Analysis (CGPT-0199)
 year: 2025
 journal: ChatGPT Archive
 tier: SILVER
-relevance: High — Clinical protocols for intestinal barrier repair, glutamine, taurine dosing
+relevance: High - Clinical protocols for intestinal barrier repair, glutamine, taurine dosing
 status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-Gut-Health]]

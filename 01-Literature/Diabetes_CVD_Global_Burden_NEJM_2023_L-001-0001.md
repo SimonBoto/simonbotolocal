@@ -1,7 +1,7 @@
 ---
 uid: L-001-0001
 type: litnote
-title: "Diabetes and Insulin Resistance — Main Cause of Cardiovascular Deaths_L-001-0001"
+title: "Diabetes and Insulin Resistance - Main Cause of Cardiovascular Deaths_L-001-0001"
 aliases:
   - L-001-0001
   - Diabetes_CVD_Global_Burden_NEJM_2023
@@ -13,7 +13,7 @@ doi: "10.1056/NEJMoa2206916"
 pmid: "37703328"
 pmcid: ""
 tier: GOLD
-relevance: "High — foundational study quantifying global CVD burden and modifiable risk factors"
+relevance: "High - foundational study quantifying global CVD burden and modifiable risk factors"
 status: complete
 parent-moc: [[MOC-Clinical-Metabolomics]]
 parent-index: [[01-Literature-Index]]

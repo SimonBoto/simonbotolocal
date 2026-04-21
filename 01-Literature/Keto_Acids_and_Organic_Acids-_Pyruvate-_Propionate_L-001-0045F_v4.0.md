@@ -15,7 +15,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: SILVER
-relevance: High — Keto acids vs carboxylic acids, pyruvate, propionate metabolism, vitamin dependencies
+relevance: High - Keto acids vs carboxylic acids, pyruvate, propionate metabolism, vitamin dependencies
 status: complete
 parent-moc: [[MOC-Glycolysis-PPP]]
 parent-index: [[01-Literature-Index]]

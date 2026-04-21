@@ -1,7 +1,7 @@
 ---
 uid: L-001-0201
 type: litnote
-title: "Lit — Magnesium Supplementation (Forms, Dosing, Sources, Monitoring)"
+title: "Lit - Magnesium Supplementation (Forms, Dosing, Sources, Monitoring)"
 aliases:
   - L-001-0201
 source-origin: chatgpt-archive
@@ -12,7 +12,7 @@ doi: "N/A"
 pmid: "N/A"
 pmcid: "N/A"
 tier: GOLD
-relevance: "Critical — METHAP protocol implementation; practical dosing guidance"
+relevance: "Critical - METHAP protocol implementation; practical dosing guidance"
 status: complete
 parent-moc: [[MOC-Magnesium]]
 parent-index: [[01-Literature-Index]]

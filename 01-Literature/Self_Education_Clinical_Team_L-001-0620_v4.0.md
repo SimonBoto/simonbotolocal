@@ -9,7 +9,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: BRONZE
-relevance: High — Team education framework for personalized medicine practice
+relevance: High - Team education framework for personalized medicine practice
 aliases:
   - L-001-0620
   - Clinical Team Education

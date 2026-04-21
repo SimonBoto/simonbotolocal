@@ -9,7 +9,7 @@ authors: "ChatGPT Analysis (CGPT-0230)"
 year: 2024
 journal: "ChatGPT Archive"
 tier: GOLD
-relevance: "Critical — Core PhD literature on VitD/K2 mechanisms in MetS"
+relevance: "Critical - Core PhD literature on VitD/K2 mechanisms in MetS"
 status: complete
 source-origin: legacy
 parent-moc: [[MOC-Vitamin-D]]

@@ -1,7 +1,7 @@
 ---
 uid: L-001-0207
 type: litnote
-title: "Lit — History of Insulin Discovery (1921-1923)"
+title: "Lit - History of Insulin Discovery (1921-1923)"
 aliases:
   - L-001-0207
 source-origin: chatgpt-archive
@@ -12,7 +12,7 @@ doi: "N/A"
 pmid: "N/A"
 pmcid: "N/A"
 tier: SILVER
-relevance: "High — Foundational understanding of diabetes treatment; historical context for IR research"
+relevance: "High - Foundational understanding of diabetes treatment; historical context for IR research"
 status: complete
 parent-moc: [[MOC-Insulin-Signaling]]
 parent-index: [[01-Literature-Index]]

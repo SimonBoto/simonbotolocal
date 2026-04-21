@@ -1,7 +1,7 @@
 ---
 uid: L-001-0583
 type: litnote
-title: "Lit — Nintedanib (Ofev) — Tyrosine Kinase Inhibitor Mechanism and Clinical Use"
+title: "Lit - Nintedanib (Ofev) - Tyrosine Kinase Inhibitor Mechanism and Clinical Use"
 aliases:
   - L-001-0583
   - Nintedanib-Ofev

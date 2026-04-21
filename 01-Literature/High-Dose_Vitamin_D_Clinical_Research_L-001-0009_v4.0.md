@@ -2,7 +2,7 @@
 uid: L-001-0009
 type: litnote
 source-origin: chatgpt-archive
-title: "Lit — High-Dose Vitamin D Clinical Research"
+title: "Lit - High-Dose Vitamin D Clinical Research"
 aliases:
   - L-001-0009
   - High-Dose-Vitamin-D-Clinical-Research
@@ -10,7 +10,7 @@ authors: "Gallo et al., Saadi et al., Gordon et al., Munns et al. (Global Consen
 year: "2008-2016"
 journal: "JAMA, J Clin Endocrinol Metab, JAMA, J Clin Endocrinol Metab"
 tier: GOLD
-relevance: "High — Evidence base for high-dose protocols in infants, children, adolescents"
+relevance: "High - Evidence base for high-dose protocols in infants, children, adolescents"
 status: complete
 parent-moc: [[MOC-Vitamin-D]]
 parent-index: [[01-Literature-Index]]

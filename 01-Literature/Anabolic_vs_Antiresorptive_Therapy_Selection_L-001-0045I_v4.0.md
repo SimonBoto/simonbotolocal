@@ -1,7 +1,7 @@
 ---
 uid: L-001-0045I
 type: litnote
-title: "Anabolic vs Antiresorptive Therapy Selection — Clinical Decision Framework"
+title: "Anabolic vs Antiresorptive Therapy Selection - Clinical Decision Framework"
 aliases:
   - L-001-0045F
   - Therapy-Selection-Framework
@@ -13,7 +13,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: SILVER
-relevance: "High — Evidence-based framework for selecting optimal osteoporosis therapy"
+relevance: "High - Evidence-based framework for selecting optimal osteoporosis therapy"
 status: complete
 parent-moc: [[MOC-Clinical-Metabolomics]]
 parent-index: [[02-Literature]]

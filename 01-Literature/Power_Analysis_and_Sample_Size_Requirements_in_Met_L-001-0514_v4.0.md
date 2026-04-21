@@ -15,7 +15,7 @@ doi: "N/A"
 pmid: "N/A"
 pmcid: "N/A"
 tier: BRONZE
-relevance: "High — Essential for PhD trial design and METHAP methodology"
+relevance: "High - Essential for PhD trial design and METHAP methodology"
 status: complete
 parent-moc: [[MOC-Research]]
 parent-index: [[01-Literature-Index]]

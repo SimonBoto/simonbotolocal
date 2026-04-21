@@ -1,7 +1,7 @@
 ---
 uid: L-001-0517
 type: litnote
-title: Omega-6 Fatty Acids in Poultry — Feed Dependence and Inflammatory Potential
+title: Omega-6 Fatty Acids in Poultry - Feed Dependence and Inflammatory Potential
 authors: ChatGPT Analysis
 year: 2025
 journal: ChatGPT Archive
@@ -9,7 +9,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: BRONZE
-relevance: Medium — Practical nutrition guidance for patient counseling on food quality
+relevance: Medium - Practical nutrition guidance for patient counseling on food quality
 aliases:
   - L-001-0517
   - Chicken Fatty Acids

@@ -1,7 +1,7 @@
 ---
 uid: L-001-0521
 type: litnote
-title: Scientific Writing — Critical Assessment Methodology for Study Evaluation
+title: Scientific Writing - Critical Assessment Methodology for Study Evaluation
 authors: ChatGPT Analysis from CGPT-0328
 year: 2024
 journal: ChatGPT Archive
@@ -9,7 +9,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: SILVER
-relevance: High — Critical thinking framework for PhD research evaluation
+relevance: High - Critical thinking framework for PhD research evaluation
 aliases:
   - L-001-0521
   - Scientific Writing

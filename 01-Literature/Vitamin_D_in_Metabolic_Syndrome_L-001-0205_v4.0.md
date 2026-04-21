@@ -1,7 +1,7 @@
 ---
 uid: L-001-0205
 type: litnote
-title: "Lit — Vitamin D in Metabolic Syndrome (Mechanisms, Glucose, Lipids, Inflammation)"
+title: "Lit - Vitamin D in Metabolic Syndrome (Mechanisms, Glucose, Lipids, Inflammation)"
 aliases:
   - L-001-0205
 source-origin: chatgpt-archive
@@ -12,7 +12,7 @@ doi: "N/A"
 pmid: "N/A"
 pmcid: "N/A"
 tier: GOLD
-relevance: "High — Core METHAP mechanism; high-dose VitD rationale for IR"
+relevance: "High - Core METHAP mechanism; high-dose VitD rationale for IR"
 status: complete
 parent-moc: [[MOC-Vitamin-D]]
 parent-index: [[01-Literature-Index]]

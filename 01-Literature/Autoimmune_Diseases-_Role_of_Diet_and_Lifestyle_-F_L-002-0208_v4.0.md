@@ -13,7 +13,7 @@ journal: "Clin Rev Allergy Immunol, Various"
 doi: "(multiple)"
 pmid: "(multiple)"
 tier: "GOLD"
-relevance: "Medium — clinical biochemistry"
+relevance: "Medium - clinical biochemistry"
 status: complete
 parent-moc: [[MOC-Autoimmune]]
 parent-index: [[01-Literature-Index]]

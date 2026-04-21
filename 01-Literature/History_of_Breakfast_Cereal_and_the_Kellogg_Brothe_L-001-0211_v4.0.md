@@ -1,7 +1,7 @@
 ---
 uid: L-001-0211
 type: litnote
-title: "Lit — History of Breakfast Cereal and the Kellogg Brothers"
+title: "Lit - History of Breakfast Cereal and the Kellogg Brothers"
 aliases:
   - L-001-0211
   - Breakfast-Cereal-History
@@ -14,7 +14,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: BRONZE
-relevance: "Low-Medium — Cultural nutrition history; sanitarium movement"
+relevance: "Low-Medium - Cultural nutrition history; sanitarium movement"
 status: complete
 parent-moc: [[MOC-Nutrition]]
 parent-index: [[01-Literature-Index]]

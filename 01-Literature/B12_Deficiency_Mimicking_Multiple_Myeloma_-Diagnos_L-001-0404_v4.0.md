@@ -1,7 +1,7 @@
 ---
 uid: L-001-0404
 type: litnote
-title: "Lit — B12 Deficiency Mimicking Multiple Myeloma (Diagnostic Differentiation)"
+title: "Lit - B12 Deficiency Mimicking Multiple Myeloma (Diagnostic Differentiation)"
 aliases:
   - L-001-0404
   - B12-MM-Mimicry-Diagnostic-Differentiation
@@ -13,7 +13,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: SILVER
-relevance: High — Diagnostic challenge, clinical pearls, bone marrow interpretation
+relevance: High - Diagnostic challenge, clinical pearls, bone marrow interpretation
 status: complete
 parent-moc: [[MOC-Biomarkers]]
 parent-index: [[02-Literature]]

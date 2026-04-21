@@ -1,7 +1,7 @@
 ---
 uid: L-001-0523
 type: litnote
-title: Mechanisms of Metabolic Disruption — Inflammation, Oxidative Stress, and Insulin Resistance
+title: Mechanisms of Metabolic Disruption - Inflammation, Oxidative Stress, and Insulin Resistance
 authors: ChatGPT synthesis from CGPT-0281, CGPT-0282
 year: 2024
 journal: Internal clinical synthesis
@@ -9,7 +9,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: GOLD
-relevance: Critical — Core pathophysiology linking seed oils to metabolic disease
+relevance: Critical - Core pathophysiology linking seed oils to metabolic disease
 aliases:
   - L-001-0523
   - Metabolic Disruption

@@ -9,7 +9,7 @@ year: 2025
 journal: ChatGPT Archive
 pmid: N/A
 tier: BRONZE
-relevance: Moderate — Practical IRB communication guidance
+relevance: Moderate - Practical IRB communication guidance
 status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-Research-Ethics]]

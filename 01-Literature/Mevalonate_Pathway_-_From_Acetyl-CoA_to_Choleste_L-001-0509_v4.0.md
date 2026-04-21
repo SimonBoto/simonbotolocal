@@ -1,7 +1,7 @@
 ---
 uid: L-001-0509
 type: litnote
-title: "Mevalonate Pathway — From Acetyl-CoA to Cholesterol and Coenzyme Q10"
+title: "Mevalonate Pathway - From Acetyl-CoA to Cholesterol and Coenzyme Q10"
 aliases:
   - L-001-0509
   - Mevalonate-Pathway
@@ -16,7 +16,7 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: GOLD
-relevance: "Critical — Central metabolic pathway connecting energy metabolism to cholesterol synthesis, CoQ10 production, and protein prenylation"
+relevance: "Critical - Central metabolic pathway connecting energy metabolism to cholesterol synthesis, CoQ10 production, and protein prenylation"
 status: complete
 parent-moc: [[MOC-Lipid-Metabolism]]
 parent-index: [[01-Literature-Index]]
@@ -25,7 +25,6 @@ source-inbox: [[CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT
 source-litnote: [[CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393]]
 zettel-count: 5
 reference-count: 0
-reviewed_by: "RON"
 created: "2026-03-01"
 updated: "2026-04-09"
 reviewed_by: "FORG"

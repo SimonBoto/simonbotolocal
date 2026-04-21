@@ -2,7 +2,7 @@
 uid: L-001-0518
 type: litnote
 source-origin: chatgpt-archive
-title: "Mevalonate Pathway Biochemistry — Enzymes, Cofactors, and Energy Requirements"
+title: "Mevalonate Pathway Biochemistry - Enzymes, Cofactors, and Energy Requirements"
 authors: ChatGPT Analysis (CGPT-0391)
 year: 2024
 journal: ChatGPT Archive
@@ -10,7 +10,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: BRONZE
-relevance: High — Core cholesterol synthesis pathway, statin mechanism, CoQ10 production
+relevance: High - Core cholesterol synthesis pathway, statin mechanism, CoQ10 production
 aliases:
   - L-001-0518
   - HMG-CoA Reductase
@@ -39,7 +39,7 @@ tags:
 source-inbox: [[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]
 source-litnote: [[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]
 
-# Mevalonate Pathway Biochemistry — Enzymes, Cofactors, and Energy Requirements
+# Mevalonate Pathway Biochemistry - Enzymes, Cofactors, and Energy Requirements
 
 > **Source:** ChatGPT CGPT-0391 (May 15, 2024)  
 > **Key Theme:** Complete mevalonate pathway from acetyl-CoA to isopentenyl pyrophosphate  
@@ -94,7 +94,7 @@ source-litnote: [[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]
 
 **Zettels extracted:** [[Mevalonate_Pathway_Step_by_Step_Z-001-0566]]
 
-### 2. HMG-CoA Reductase — The Regulatory Master Switch
+### 2. HMG-CoA Reductase - The Regulatory Master Switch
 > "HMG-CoA reductase is the key regulatory step in the pathway and is where energy is first utilized. This is also where drugs like statins act."
 
 **Regulatory Mechanisms:**
@@ -171,7 +171,7 @@ source-litnote: [[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]
 
 ## My Notes
 
-**Synthesis:** The mevalonate pathway represents a significant metabolic investment — nearly 250 ATP equivalents per cholesterol molecule. This cost is justified by cholesterol's critical roles: cell membrane integrity, steroid hormone synthesis, bile acid production, and vitamin D synthesis. The pathway's heavy energy requirement explains why it's tightly regulated and why statin side effects (CoQ10 depletion) are so significant — you're not just blocking cholesterol, you're blocking an entire metabolic hub that produces essential isoprenoids.
+**Synthesis:** The mevalonate pathway represents a significant metabolic investment - nearly 250 ATP equivalents per cholesterol molecule. This cost is justified by cholesterol's critical roles: cell membrane integrity, steroid hormone synthesis, bile acid production, and vitamin D synthesis. The pathway's heavy energy requirement explains why it's tightly regulated and why statin side effects (CoQ10 depletion) are so significant - you're not just blocking cholesterol, you're blocking an entire metabolic hub that produces essential isoprenoids.
 
 **Connection to METHAP/PhD:**
 - **Statin considerations:** CoQ10 supplementation rationale (blocked at HMG-CoA reductase)
@@ -186,26 +186,26 @@ source-litnote: [[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]
 - How does the mevalonate pathway interact with insulin resistance?
 
 **Statin Side Effect Connection:**
-The mevalonate pathway doesn't just make cholesterol — it makes:
+The mevalonate pathway doesn't just make cholesterol - it makes:
 - CoQ10 (mitochondrial function)
 - Dolichol (protein glycosylation)
 - Isoprenoids (cell signaling)
 
-Statin myopathy isn't just "muscle pain" — it's mitochondrial dysfunction from CoQ10 depletion.
+Statin myopathy isn't just "muscle pain" - it's mitochondrial dysfunction from CoQ10 depletion.
 
 
 ## Zettels Created from This Source
-1. [[Mevalonate_Pathway_Step_by_Step_Z-001-0566]] — Complete pathway walkthrough
-2. [[HMG_CoA_Reductase_Regulation_Z-001-0567]] — Regulatory mechanisms and statin action
-3. [[Mevalonate_Pathway_Energy_Cost_Z-001-0568]] — ATP and NADPH requirements
+1. [[Mevalonate_Pathway_Step_by_Step_Z-001-0566]] - Complete pathway walkthrough
+2. [[HMG_CoA_Reductase_Regulation_Z-001-0567]] - Regulatory mechanisms and statin action
+3. [[Mevalonate_Pathway_Energy_Cost_Z-001-0568]] - ATP and NADPH requirements
 
 
 ## Related References
-- [[MOC-Lipid-Metabolism]] — Parent MOC for lipid pathways
-- [[MOC-Mitochondrial-Function]] — Energy metabolism context
-- [[MOC-Vitamin-Mineral-Axis]] — CoQ10 and cofactor context
-- [[LitNote_Statin_Pharmacology_L-001-0502]] — Statin mechanism and side effects (if exists)
-- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]] — CoQ10 synthesis
+- [[MOC-Lipid-Metabolism]] - Parent MOC for lipid pathways
+- [[MOC-Mitochondrial-Function]] - Energy metabolism context
+- [[MOC-Vitamin-Mineral-Axis]] - CoQ10 and cofactor context
+- [[LitNote_Statin_Pharmacology_L-001-0502]] - Statin mechanism and side effects (if exists)
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]] - CoQ10 synthesis
 
 zettels-created: 3
 

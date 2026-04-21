@@ -11,7 +11,7 @@ doi: "N/A"
 pmid: "N/A"
 pmcid: "N/A"
 tier: BRONZE
-relevance: "Medium — Practical guidance for IRB navigation, administrative rather than substantive ethics"
+relevance: "Medium - Practical guidance for IRB navigation, administrative rather than substantive ethics"
 status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-Research-Ethics]]
