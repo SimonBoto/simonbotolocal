@@ -55,7 +55,7 @@ tags:
 
 ### 1. Fracture Risk Stratification
 
-**Zettel extracted:** [[Fracture_Risk_Stratification_Anabolic_Selection_Z-001-0129]]
+**Zettel extracted:** [[Anabolic_Therapy_Indications_Z-001-0129]]
 
 #### High-Risk Indicators (Anabolic First)
 | Indicator | Definition | Evidence Strength |
@@ -78,7 +78,7 @@ tags:
 
 ### 2. Patient-Specific Factors
 
-**Zettel extracted:** [[Patient_Specific_Factors_Therapy_Selection_Z-001-0130]]
+**Zettel extracted:** [[Anabolic_vs_Antiresorptive_Outcomes_Z-001-0130]]
 
 #### Administration Preferences
 | Factor | Anabolic Preference | Antiresorptive Preference |
@@ -100,7 +100,7 @@ tags:
 
 ### 3. Treatment Goals and Outcomes
 
-**Zettel extracted:** [[Treatment_Goals_Outcomes_Selection_Z-001-0131]]
+**Zettel extracted:** [[Sequential_Therapy_Strategy_Z-001-0131]]
 
 #### Goal Alignment
 | Treatment Goal | Preferred Therapy | Rationale |
@@ -124,7 +124,7 @@ tags:
 
 ### 4. Shared Decision-Making Framework
 
-**Zettel extracted:** [[Shared_Decision_Making_Framework_Z-001-0132]]
+**Zettel extracted:** [[Anabolic_Therapy_Safety_Z-001-0132]]
 
 #### Clinical Conversation Structure
 ```
