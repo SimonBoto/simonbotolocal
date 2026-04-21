@@ -60,7 +60,7 @@ Hypothalamus → Pituitary → End Organs → Target Tissues → Feedback
 
 **Purpose/Significance:** Provides the structural framework for understanding endocrine regulation and clinical assessment
 
-**Zettel:** [[Hormonal_Hierarchy_Framework_Z-001-0579A]]
+**Zettel:** [[HPGA_Axis_Overview_Z-001-0579A]]
 
 ---
 
@@ -81,7 +81,7 @@ GnRH pulses → LH/FSH release → Gonadal function
 
 **Purpose/Significance:** Explains how hypothalamic function coordinates multiple endocrine systems and how its disruption causes widespread endocrine pathology
 
-**Zettel:** [[Hypothalamus_Master_Regulator_Z-001-0579B]]
+**Zettel:** [[GnRH_Pulsatility_Patterns_Z-001-0579B]]
 
 ---
 
@@ -103,7 +103,7 @@ Posterior pituitary: ADH, oxytocin (storage only)
 
 **Purpose/Significance:** Clarifies the central role of pituitary in coordinating endocrine output and how pituitary dysfunction causes multi-system endocrine disease
 
-**Zettel:** [[Pituitary_Command_Center_Z-001-0579C]]
+**Zettel:** [[LH_FSH_Secretion_Regulation_Z-001-0579C]]
 
 ---
 
@@ -126,7 +126,7 @@ Prostate: Target organ (5-alpha-reductase → DHT)
 
 **Purpose/Significance:** Identifies the anatomical and biochemical basis for hormone production and how end-organ dysfunction causes specific hormone deficiencies
 
-**Zettel:** [[End_Organs_Production_Sites_Z-001-0579D]]
+**Zettel:** [[Testosterone_Feedback_Loops_Z-001-0579D]]
 
 ---
 
@@ -148,7 +148,7 @@ Hypothalamus → GnRH → Pituitary → LH/FSH → Testes → Testosterone → T
 
 **Purpose/Significance:** Provides the complete physiological pathway for clinical interpretation of hormone test results and understanding of hormone interactions
 
-**Zettel:** [[HPG_Cascade_Step_by_Step_Z-001-0579E]]
+**Zettel:** [[Estrogen_Feedback_Mechanisms_Z-001-0579E]]
 
 ---
 
@@ -171,17 +171,17 @@ Cortisol → inhibit GnRH → cause stress-induced hypogonadism
 
 **Purpose/Significance:** Explains the physiological basis for clinical patterns and enables differentiation of various causes of endocrine dysfunction
 
-**Zettel:** [[Feedback_Loops_Clinical_Integration_Z-001-0579F]]
+**Zettel:** [[Progesterone_Cycle_Influence_Z-001-0579F]]
 
 ---
 
 ## Zettels Created
-1. [[Hormonal_Hierarchy_Framework_Z-001-0579A]] — Hormonal hierarchy framework
-2. [[Hypothalamus_Master_Regulator_Z-001-0579B]] — Hypothalamus as master regulator
-3. [[Pituitary_Command_Center_Z-001-0579C]] — Pituitary as command center
-4. [[End_Organs_Production_Sites_Z-001-0579D]] — End organs as production sites
-5. [[HPG_Cascade_Step_by_Step_Z-001-0579E]] — HPG cascade step-by-step
-6. [[Feedback_Loops_Clinical_Integration_Z-001-0579F]] — Feedback loops and clinical integration
+1. [[HPGA_Axis_Overview_Z-001-0579A]] — Hormonal hierarchy framework
+2. [[GnRH_Pulsatility_Patterns_Z-001-0579B]] — Hypothalamus as master regulator
+3. [[LH_FSH_Secretion_Regulation_Z-001-0579C]] — Pituitary as command center
+4. [[Testosterone_Feedback_Loops_Z-001-0579D]] — End organs as production sites
+5. [[Estrogen_Feedback_Mechanisms_Z-001-0579E]] — HPG cascade step-by-step
+6. [[Progesterone_Cycle_Influence_Z-001-0579F]] — Feedback loops and clinical integration
 
 ---
 
@@ -189,9 +189,9 @@ Cortisol → inhibit GnRH → cause stress-induced hypogonadism
 
 | Citation | Key Finding | Relevance | Zettel |
 |----------|-------------|-----------|--------|
-| CGPT_0438_Hormone_Scenarios | Complete HPG axis hormonal cascade and regulatory feedback mechanisms | High | [[Hormonal_Hierarchy_Framework_Z-001-0579A]] |
-| Endocrine Physiology Textbook (2023) | GnRH pulsatility is essential for normal gonadotropin secretion | High | [[Hypothalamus_Master_Regulator_Z-001-0579B]] |
-| Male Endocrinology Review (2022) | Cortisol inhibition of GnRH explains stress-induced hypogonadism | Medium | [[Feedback_Loops_Clinical_Integration_Z-001-0579F]] |
+| CGPT_0438_Hormone_Scenarios | Complete HPG axis hormonal cascade and regulatory feedback mechanisms | High | [[HPGA_Axis_Overview_Z-001-0579A]] |
+| Endocrine Physiology Textbook (2023) | GnRH pulsatility is essential for normal gonadotropin secretion | High | [[GnRH_Pulsatility_Patterns_Z-001-0579B]] |
+| Male Endocrinology Review (2022) | Cortisol inhibition of GnRH explains stress-induced hypogonadism | Medium | [[Progesterone_Cycle_Influence_Z-001-0579F]] |
 
 ---
 
@@ -205,7 +205,7 @@ Cortisol → inhibit GnRH → cause stress-induced hypogonadism
 
 ## Related References
 - [[MOC-Endocrinology]] — Parent MOC
-- [[Hormonal_Hierarchy_Framework_Z-001-0579A]] — Related zettel
+- [[HPGA_Axis_Overview_Z-001-0579A]] — Related zettel
 - [[Male_Hormone_Assessment_-_Clinical_Scenarios_and_L-001-0578_v4.0]] — Related LitNote
 
 ---
