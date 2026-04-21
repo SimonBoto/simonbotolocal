@@ -427,7 +427,7 @@ parent-index: [[08-Structure-Index]], [[MOCs-Index]]
 
 ### Training Curricula
 Structured learning programs for practitioners:
-- [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]] — 8-week progressive curriculum
+- [[8-Week_Metabolomics_Bootcamp_Curriculum_L-001-0589_v4.0]] — 8-week progressive curriculum
 - [[Bootcamp_Four_Phase_Structure_Z-001-1035]] — Four-phase training architecture
 
 ### Pedagogical Frameworks
@@ -442,7 +442,7 @@ Evaluation and progression:
 - [[Phase_4_Clinical_Integration_Drills_Z-001-1039]] — Integration competency
 
 ### Clinical Integration
-- [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]] — MCI role definition
+- [[Metabolomics_Chief_Instructor_Framework_L-001-0588_v4.0]] — MCI role definition
 
 ---
 

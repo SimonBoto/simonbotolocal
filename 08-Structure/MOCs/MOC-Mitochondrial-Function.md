@@ -157,7 +157,7 @@ domain: 999
 tags:
   - moc
   - map-of-content
-parent-moc: "[[MOC-Root]]"
+parent-moc: "[[MOCs-Index]]"
 status: active
 created: 2026-04-15
 updated: 2026-04-15
@@ -172,7 +172,7 @@ Map of content for Mitochondrial Energy concepts, mechanisms, and clinical appli
 <!-- Auto-populated from backlinks -->
 
 ## Related MOCs
-- [[MOC-Root]]
+- [[MOCs-Index]]
 
 ## Status
 - [ ] Initial population

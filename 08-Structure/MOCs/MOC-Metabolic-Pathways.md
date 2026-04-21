@@ -68,7 +68,7 @@ last-updated: "2026-04-04"
 
 | LitNote | Zettels Extracted | Status |
 |---------|-------------------|--------|
-| [[LitNote_McCarty_Nicotine_Biosynthesis_2026_L-001-0606]] | 4 zettels | ✅ Integrated |
+| [[McCarty-Nicotine-Biosynthesis-2026_L-001-0606_v4.0]] | 4 zettels | ✅ Integrated |
 
 ---
 
@@ -109,7 +109,7 @@ domain: 999
 tags:
   - moc
   - map-of-content
-parent-moc: "[[MOC-Root]]"
+parent-moc: "[[MOCs-Index]]"
 status: active
 created: 2026-04-15
 updated: 2026-04-15
@@ -124,7 +124,7 @@ Map of content for Dicarboxylic Acids concepts, mechanisms, and clinical applica
 <!-- Auto-populated from backlinks -->
 
 ## Related MOCs
-- [[MOC-Root]]
+- [[MOCs-Index]]
 
 ## Status
 - [ ] Initial population
@@ -210,7 +210,7 @@ last-updated: "2026-04-04"
 
 | LitNote | Zettels Extracted | Status |
 |---------|-------------------|--------|
-| [[LitNote_McCarty_Nicotine_Biosynthesis_2026_L-001-0606]] | 8 zettels | ✅ Integrated |
+| [[McCarty-Nicotine-Biosynthesis-2026_L-001-0606_v4.0]] | 8 zettels | ✅ Integrated |
 
 ---
 
@@ -546,7 +546,7 @@ domain: 999
 tags:
   - moc
   - map-of-content
-parent-moc: "[[MOC-Root]]"
+parent-moc: "[[MOCs-Index]]"
 status: active
 created: 2026-04-15
 updated: 2026-04-15
@@ -561,7 +561,7 @@ Map of content for Hematology concepts, mechanisms, and clinical applications.
 <!-- Auto-populated from backlinks -->
 
 ## Related MOCs
-- [[MOC-Root]]
+- [[MOCs-Index]]
 
 ## Status
 - [ ] Initial population

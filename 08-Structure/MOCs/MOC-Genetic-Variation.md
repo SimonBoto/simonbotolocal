@@ -65,7 +65,7 @@ last-updated: "2026-04-04"
 
 | LitNote | Zettels Extracted | Status |
 |---------|-------------------|--------|
-| [[LitNote_McCarty_Nicotine_Biosynthesis_2026_L-001-0606]] | 1 zettel | ✅ Integrated |
+| [[McCarty-Nicotine-Biosynthesis-2026_L-001-0606_v4.0]] | 1 zettel | ✅ Integrated |
 
 ---
 

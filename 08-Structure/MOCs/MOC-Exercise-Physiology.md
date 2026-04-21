@@ -8,7 +8,7 @@ domain: 999
 tags:
   - moc
   - map-of-content
-parent-moc: "[[MOC-Root]]"
+parent-moc: "[[MOCs-Index]]"
 status: active
 created: 2026-04-15
 updated: 2026-04-15
@@ -23,7 +23,7 @@ Map of content for Exercise Physiology concepts, mechanisms, and clinical applic
 <!-- Auto-populated from backlinks -->
 
 ## Related MOCs
-- [[MOC-Root]]
+- [[MOCs-Index]]
 
 ## Status
 - [ ] Initial population
@@ -42,7 +42,7 @@ domain: 999
 tags:
   - moc
   - map-of-content
-parent-moc: "[[MOC-Root]]"
+parent-moc: "[[MOCs-Index]]"
 status: active
 created: 2026-04-15
 updated: 2026-04-15
@@ -57,7 +57,7 @@ Map of content for Physical Activity concepts, mechanisms, and clinical applicat
 <!-- Auto-populated from backlinks -->
 
 ## Related MOCs
-- [[MOC-Root]]
+- [[MOCs-Index]]
 
 ## Status
 - [ ] Initial population

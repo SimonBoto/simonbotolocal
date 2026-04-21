@@ -82,8 +82,8 @@ last-updated: "2026-04-04"
 
 | LitNote | Zettels Extracted | Status |
 |---------|-------------------|--------|
-| [[LitNote_KingOfVitamins_Pauling_Vitamin_C_2025_L-001-0656]] | 8 zettels | ✅ Integrated |
-| [[LitNote_McCarty_Nicotine_Biosynthesis_2026_L-001-0606]] | 0 (but vitamin C in pathway) | ✅ Related |
+| [[KingOfVitamins-Pauling-Vitamin-C-2025_L-001-0656_v4.0]] | 8 zettels | ✅ Integrated |
+| [[McCarty-Nicotine-Biosynthesis-2026_L-001-0606_v4.0]] | 0 (but vitamin C in pathway) | ✅ Related |
 
 ---
 

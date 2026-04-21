@@ -8,7 +8,7 @@ domain: 999
 tags:
   - moc
   - map-of-content
-parent-moc: "[[MOC-Root]]"
+parent-moc: "[[MOCs-Index]]"
 status: active
 created: 2026-04-15
 updated: 2026-04-15
@@ -23,7 +23,7 @@ Map of content for Research concepts, mechanisms, and clinical applications.
 <!-- Auto-populated from backlinks -->
 
 ## Related MOCs
-- [[MOC-Root]]
+- [[MOCs-Index]]
 
 ## Status
 - [ ] Initial population
@@ -110,8 +110,8 @@ Statistical methodology, study design, and clinical research standards for metab
 
 ## 📚 Key References
 
-- [[LitNote_Power_Analysis_Metabolomics_L-001-0514]] — Power analysis comprehensive guide
-- [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]] — FDR and multiple testing
+- [[Power_Analysis_and_Sample_Size_Requirements_in_Met_L-001-0514_v4.0]] — Power analysis comprehensive guide
+- [[False_Discovery_Rate_and_Multiple_Testing_Correcti_L-001-0515_v4.0]] — FDR and multiple testing
 
 ---
 
@@ -232,7 +232,7 @@ last-updated: "2026-04-04"
 
 | LitNote | Zettels Extracted | Status |
 |---------|-------------------|--------|
-| [[LitNote_McCarty_Nicotine_Biosynthesis_2026_L-001-0606]] | 1 zettel | ✅ Integrated |
+| [[McCarty-Nicotine-Biosynthesis-2026_L-001-0606_v4.0]] | 1 zettel | ✅ Integrated |
 
 ---
 
@@ -273,7 +273,7 @@ domain: 999
 tags:
   - moc
   - map-of-content
-parent-moc: "[[MOC-Root]]"
+parent-moc: "[[MOCs-Index]]"
 status: active
 created: 2026-04-15
 updated: 2026-04-15
@@ -288,7 +288,7 @@ Map of content for Methodology concepts, mechanisms, and clinical applications.
 <!-- Auto-populated from backlinks -->
 
 ## Related MOCs
-- [[MOC-Root]]
+- [[MOCs-Index]]
 
 ## Status
 - [ ] Initial population

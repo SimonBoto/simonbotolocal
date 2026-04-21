@@ -63,9 +63,9 @@ Precision medicine through metabolomics — understanding drug response, individ
 
 ## 📚 Source References
 
-- [[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]] — Adipic acid biochemistry
-- [[LitNote_Dicarboxylic_Acids_Clinical_Markers_L-101-0003]] — Clinical markers
-- [[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004]] — CoA synthesis
+- [[Adipic_Acid_Biochemistry_and_Omega-Oxidation_Pathw_L-101-0002_v4.0]] — Adipic acid biochemistry
+- [[Dicarboxylic_Acids_as_Clinical_Metabolic_Markers_L-101-0003_v4.0]] — Clinical markers
+- [[Coenzyme_A_Synthesis_and_Decarboxylation_Enzymolog_L-101-0004_v4.0]] — CoA synthesis
 
 ---
 

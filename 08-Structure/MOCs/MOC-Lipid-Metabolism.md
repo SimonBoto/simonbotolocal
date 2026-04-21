@@ -129,7 +129,7 @@ domain: 999
 tags:
   - moc
   - map-of-content
-parent-moc: "[[MOC-Root]]"
+parent-moc: "[[MOCs-Index]]"
 status: active
 created: 2026-04-15
 updated: 2026-04-15
@@ -144,7 +144,7 @@ Map of content for Fatty Acids concepts, mechanisms, and clinical applications.
 <!-- Auto-populated from backlinks -->
 
 ## Related MOCs
-- [[MOC-Root]]
+- [[MOCs-Index]]
 
 ## Status
 - [ ] Initial population
@@ -163,7 +163,7 @@ domain: 999
 tags:
   - moc
   - map-of-content
-parent-moc: "[[MOC-Root]]"
+parent-moc: "[[MOCs-Index]]"
 status: active
 created: 2026-04-15
 updated: 2026-04-15
@@ -178,7 +178,7 @@ Map of content for Dietary Fats concepts, mechanisms, and clinical applications.
 <!-- Auto-populated from backlinks -->
 
 ## Related MOCs
-- [[MOC-Root]]
+- [[MOCs-Index]]
 
 ## Status
 - [ ] Initial population
@@ -277,7 +277,7 @@ Omega-3 and omega-6 fatty acid balance, food quality, and inflammatory potential
 
 ## 📚 Source References
 
-- [[LitNote_Omega6_Poultry_Feed_Inflammatory_L-001-0517]] — Poultry fatty acid quality (CGPT-0141)
+- [[Omega-6_Fatty_Acids_in_Poultry_-_Feed_Dependence_L-001-0517_v4.0]] — Poultry fatty acid quality (CGPT-0141)
 
 **Key Studies Cited:**
 - Simopoulos (2002) — Omega-6:3 ratio importance
