@@ -18,151 +18,7 @@
             }
           },
           {
-            "id": "a5a67206467641b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Literature/Anabolic_vs_Antiresorptive_Therapy_Selection_L-001-0045I_v4.0.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Anabolic_vs_Antiresorptive_Therapy_Selection_L-001-0045I_v4.0"
-            }
-          },
-          {
-            "id": "e3bad202f5d9a9ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Literature/Artificial_Sweeteners_Increase_Body_Fat_-Steffen_2_L-002-0201_v4.0.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Artificial_Sweeteners_Increase_Body_Fat_-Steffen_2_L-002-0201_v4.0"
-            }
-          },
-          {
-            "id": "5d248f2e5ab52ed1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Literature/Autoimmune_Diseases-_Role_of_Diet_and_Lifestyle_-F_L-002-0208_v4.0.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Autoimmune_Diseases-_Role_of_Diet_and_Lifestyle_-F_L-002-0208_v4.0"
-            }
-          },
-          {
-            "id": "46a95290834bdaed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Literature/Bone_Remodeling_Cellular_Mechanisms_L-001-0011_v4.0.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Bone_Remodeling_Cellular_Mechanisms_L-001-0011_v4.0"
-            }
-          },
-          {
-            "id": "b9664bd1cd9124d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Literature/CGPT-0022_Extraction_Completion_Summary_L-001-0599_v4.0.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CGPT-0022_Extraction_Completion_Summary_L-001-0599_v4.0"
-            }
-          },
-          {
-            "id": "9ef5eea8bef4cf3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-References/Hub/AHA_2025_Vitamin_D_Heart_Attack_R-001-0088.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "AHA_2025_Vitamin_D_Heart_Attack_R-001-0088"
-            }
-          },
-          {
-            "id": "fd75ada029964a2c",
+            "id": "f8d0a6478bdc6335",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,8 +40,33 @@
               "icon": "lucide-file",
               "title": "PHANTOM-LINKS"
             }
+          },
+          {
+            "id": "d9b0cc583b4000f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-References/Hub/INDEX-Facebook-Collection-References.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "INDEX-Facebook-Collection-References"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -361,8 +242,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "64120ee807f0bd00",
+  "active": "d9b0cc583b4000f1",
   "lastOpenFiles": [
+    "audit-reports/PHANTOM-LINKS.md",
+    "02-References/Hub/INDEX-Facebook-Collection-References.md",
+    "03-Zettels/Conscious/Human_Body_Regeneration_Timeline_Z-001-0617.md",
     "02-References/Hub/AHA_2025_Vitamin_D_Heart_Attack_R-001-0088.md",
     "08-Structure/Templates/Template_LitNote_v5.0.md",
     "08-Structure/Issues/Issue-037.md",
@@ -386,9 +270,6 @@
     "03-Zettels/Conscious/Stress_Telomere_Shortening_Z-001-1187.md",
     "03-Zettels/Conscious/Exercise_Telomere_Protection_Z-001-1186.md",
     "02-References/Hub/Zheng_2025_LCD_Metabolic_Syndrome_Meta_R-002-0035.md",
-    "02-References/Hub/Zhou_Hypponen_2022_Vitamin_D_CRP_R-001-0089.md",
-    "01-Literature/Zinc_and_Selenium_as_Mitochondrial_Cofactors_L-001-0510_v4.0.md",
-    "01-Literature/Warburg_Effect_and_Cancer_Metabolism_L-001-0608_v4.0.md",
     "08-Structure/Skills/fix-missing-brackets.py",
     "08-Structure/Skills/fix-phantom-links.py",
     "08-Structure/Skills/audit-moc-index.py",
