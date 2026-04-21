@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07-Projects/Tools/Tools-Index.md",
+                "file": "04-Synthesis/Stress_Metabolic_Impact_Synthesis_S-001-0020.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tools-Index"
+              "title": "Stress_Metabolic_Impact_Synthesis_S-001-0020"
             }
           }
         ]
@@ -209,11 +209,12 @@
   },
   "active": "64120ee807f0bd00",
   "lastOpenFiles": [
+    "08-Structure/MOCs/MOC-Social-Content.md",
+    "04-Synthesis/X-Post-First-Synthesis_S-001-0021.md",
+    "07-Projects/Tools/Tools-Index.md",
     "08-Structure/Issues/Issue-040.md",
     "04-Synthesis/X-Post-First-Synthesis_S-001-0020.md",
-    "04-Synthesis/X-Post-First-Synthesis_S-001-0021.md",
     "04-Synthesis/Stress_Metabolic_Impact_Synthesis_S-001-0020.md",
-    "07-Projects/Tools/Tools-Index.md",
     "07-Projects/Skills/ZETTEL_ASSESSMENT.md",
     "07-Projects/Skills/MOC-CREATION-STANDARD.md",
     "07-Projects/Archive/UID_COLLISION_FIX_SCRIPT.md",
@@ -239,7 +240,6 @@
     "07-Projects/Archive/ARTICLE_NUMBERING_INVESTIGATION.md",
     "07-Projects/Archive/Facebook_Collection_S-001-0010.md",
     "07-Projects/Archive/CGPT_0133_Bone_Calcium_S-001-0011.md",
-    "07-Projects/Active/PROJECT-The-Triangle.md",
     "07-Projects/Archive",
     "07-Projects/Active",
     "07-Projects/Tools/Scripts",

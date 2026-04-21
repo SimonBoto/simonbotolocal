@@ -108,6 +108,14 @@ Source: Clinical metabolomics practice + [[Five_Pillars_of_Metabolic_Health_L-00
 
 ---
 
-*Synthesized from vault zettel Z-001-0584D*  
+## Source Synthesis
+
+📄 **Core Synthesis:** [[Stress_Metabolic_Impact_Synthesis_S-001-0020]]
+
+*This X post is a derivative work for social media distribution.*
+
+---
+
+*Synthesized from vault*  
 *Ready for X posting*  
 *Premium+ activated ✅*
