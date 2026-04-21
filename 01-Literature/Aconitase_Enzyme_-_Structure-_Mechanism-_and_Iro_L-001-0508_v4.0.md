@@ -184,10 +184,10 @@ This literature note was extracted from: [[CGPT_0393_Mitochondrial_Health_Interv
 ## Status Checklist
 
 - [x] Source read completely — ## Source section with content?
-- [ ] YAML standardized — uid, type, title, tags, parent-moc present?
+- [x] YAML standardized — uid, type, title, tags, parent-moc present?
 - [ ] Core claim articulated — One-sentence core claim exists?
 - [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
-- [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
-- [ ] Snowball references documented — ## Related References exists?
+- [x] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
+- [x] Snowball references documented — ## Related References exists?
 - [x] QMD duplicate check completed — In vault (assume yes)
 - [ ] RON review pending — ALWAYS leave unchecked

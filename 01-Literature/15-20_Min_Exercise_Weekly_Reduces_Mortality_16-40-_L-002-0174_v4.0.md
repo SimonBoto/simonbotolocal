@@ -86,10 +86,10 @@ Even **15-20 minutes of vigorous exercise per week** is associated with **16-40%
 
 
 - [x] Source read completely — ## Source section with content
-- [ ] YAML standardized — uid, type, title, tags, parent-moc present?
+- [x] YAML standardized — uid, type, title, tags, parent-moc present?
 - [x] Core claim articulated — One-sentence core claim exists
 - [x] Core concepts numbered — Concepts numbered 1, 2, 3...
-- [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**
+- [x] Subsection headers used — **Category**, **Mechanism**, **Purpose**
 - [x] Snowball references documented — ## Related References exists
 - [x] QMD duplicate check completed — In vault (assume yes)
 - [ ] RON review pending — ALWAYS leave unchecked

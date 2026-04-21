@@ -209,7 +209,7 @@ Military Instructor → Socratic Mentor → Hybrid Precision → Choice based on
 ## Status Checklist
 
 - [x] Source read completely — ## Source section with content?
-- [ ] YAML standardized — uid, type, title, tags, parent-moc present?
+- [x] YAML standardized — uid, type, title, tags, parent-moc present?
 - [x] Core claim articulated — One-sentence core claim exists?
 - [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
 - [x] Subsection headers used — **Category**, **Mechanism**, **Purpose**?

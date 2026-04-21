@@ -172,7 +172,7 @@ Week 1-2 → Week 3-4 → Week 5-6 → Week 7-8 → Ongoing Training
 ## Status Checklist
 
 - [x] Source read completely — ## Source section with content?
-- [ ] YAML standardized — uid, type, title, tags, parent-moc present?
+- [x] YAML standardized — uid, type, title, tags, parent-moc present?
 - [x] Core claim articulated — One-sentence core claim exists?
 - [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
 - [x] Subsection headers used — **Category**, **Mechanism**, **Purpose**?

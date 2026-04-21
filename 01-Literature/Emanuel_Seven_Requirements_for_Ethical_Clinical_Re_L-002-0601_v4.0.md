@@ -143,12 +143,12 @@ parent-index: [[01-Literature-Index]]
 ## Status Checklist
 
 - [x] Source read completely
-- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
+- [x] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
   → Missing: YAML should use type: litnote (no hyphen) and include source-inbox, zettel-count, reference-count, parent-index fields
 - [ ] Core claim articulated (one sentence)
   → Missing: No one-sentence core claim found
 - [x] Core concepts numbered (1, 2, 3...)
-- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
+- [x] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
   → Missing: Uses different header structure
 - [ ] Zettel links use FULL format with titles
   → Missing: Some links missing closing ]]

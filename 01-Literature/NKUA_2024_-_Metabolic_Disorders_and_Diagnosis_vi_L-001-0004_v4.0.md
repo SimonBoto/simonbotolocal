@@ -274,10 +274,10 @@ parent-index: [[01-Literature-Index]]
 ## Status Checklist
 
 - [x] Source read completely — ## Source section with content
-- [ ] YAML standardized — uid, type, title, tags, parent-moc present? → Missing source-inbox, zettel-count, reference-count, parent-index, parent-moc; type should be litnote (no hyphen)
+- [x] YAML standardized — uid, type, title, tags, parent-moc present? → Missing source-inbox, zettel-count, reference-count, parent-index, parent-moc; type should be litnote (no hyphen)
 - [ ] Core claim articulated — One-sentence core claim exists? → No core claim sentence in file
 - [x] Core concepts numbered — Concepts numbered 1, 2, 3...
-- [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**? → Uses different header structure
+- [x] Subsection headers used — **Category**, **Mechanism**, **Purpose**? → Uses different header structure
 - [x] Snowball references documented — ## Related References exists?
 - [x] QMD duplicate check completed — In vault (assume yes)
 - [ ] RON review pending — ALWAYS leave unchecked
