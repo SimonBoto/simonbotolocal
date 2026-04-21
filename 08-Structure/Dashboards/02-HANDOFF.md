@@ -1,96 +1,54 @@
 ---
-uid: HANDOFF-2026-04-21-MORNING
+uid: HANDOFF-2026-04-21-AFTERNOON
 type: handoff-dashboard
 date: 2026-04-21
-session: morning
-status: active
+session: afternoon
+status: complete
 ---
 
 # HANDOFF — Session State
 
 > **Quick Reference:** Last → Blockers → Ready For | Update every session
 
-## Date: 2026-04-21 (10:30)
-**Status:** ✅ Active — ISSUE-013 in progress
+## Date: 2026-04-21 (13:41)
+**Status:** ✅ Session complete — system stabilized
 
 ---
 
 ## 📋 LAST SESSION
 
-**What:** Full vault audit — Phases 1-6 complete
-**When:** 2026-04-20, ~6 hours (interrupted by restarts)
-**Outcome:** All core files, dashboards, templates, indexes 100% reproducible
+**What:** System stabilization — memory config fixed, Telegram restored
+**When:** 2026-04-21, 12:25–13:41
+**Outcome:** 
+- LanceDB removed (using QMD exclusively)
+- Telegram bot token updated (@SimonLocalbot)
+- Workspace committed (14 files)
+- 8 issues reviewed, system potential audit complete
 
 ---
 
-## ✅ COMPLETED (2026-04-20)
+## ✅ COMPLETED (2026-04-21)
 
-### Phase 1: Core Files (100% Reproducible)
-| File | Enhancement |
-|------|-------------|
-| README.md | ✅ Created — workspace entry point |
-| AGENTS.md | ✅ Quick Reference + examples |
-| TOOLS.md | ✅ Validation commands + Karpathy compliance |
-| SOUL.md | ✅ Core Truths table + examples |
-| USER.md | ✅ Quick Reference added |
-| MEMORY.md | ✅ Quick Reference added |
-| BOOTSTRAP.md | ✅ Quick Reference added |
-| AUTONOMY.md | ✅ Quick Reference added |
-| HEARTBEAT.md | ✅ Quick Reference added |
+### System Fixes
+| Task | Status |
+|------|--------|
+| LanceDB plugin removed | ✅ Clean config, no warnings |
+| Telegram token updated | ✅ @SimonLocalbot active |
+| Workspace git commit | ✅ 14 files, 886eee7 |
+| Core file splits committed | ✅ AGENTS/SOUL/TOOLS + REFERENCES |
+| QMD embedding | 🟡 39,495 vectors, 2,333 pending |
 
-### Phase 2: Dashboard Trinity
-| Dashboard | Status |
-|-----------|--------|
-| 00-COMMAND.md | ✅ Updated with current metrics |
-| 01-PIPELINE.md | ✅ Flow truth verified |
-| 02-HANDOFF.md | ✅ This file — current |
-
-### Phase 3: Skills System
-| Skill | Uses | Status |
-|-------|------|--------|
-| FORG Extraction Pipeline | 47 | ✅ Executable script + examples |
-| Zettel Template Alignment | 5 | ✅ Executable script + examples |
-| MOC Consolidation | 3 | ✅ Executable script + examples |
-| Batch Fix Protocol | 1 | ✅ Executable script + examples |
-
-### Phase 4: Templates
-| Template | Status |
-|----------|--------|
-| Template_Zettel.md | ✅ Quick Reference card |
-| Template_LitNote.md | ✅ Quick Reference card |
-| Template_MOC.md | ✅ Quick Reference card |
-
-### Phase 5: Indexes
-| Index | Status |
-|-------|--------|
-| 00-INDEX.md | ✅ Updated |
-| 08-Structure-Index.md | ✅ Updated |
-
-### Phase 6: Verification
-| Check | Status |
-|-------|--------|
-| Link validation | ✅ All working |
-| YAML validation | ✅ All valid |
-| Git commits | ✅ 2 commits (vault + workspace) |
-
-### Issues System (12 Complete)
+### Issues Reviewed
 | Issue | Title | Status |
 |-------|-------|--------|
-| ISSUE-001 | AGENTS.md Karpathy principles | ✅ Complete |
-| ISSUE-002 | Create Issues/Agents/Skills system | ✅ Complete |
-| ISSUE-003 | Naming alignment | ✅ Complete |
-| ISSUE-004-009 | Historical work documentation | ✅ Complete |
-| ISSUE-010 | Test Issues system | ✅ Complete |
-| ISSUE-011 | Fix Memory Search (LanceDB) | ✅ Complete |
-| ISSUE-012 | Configure Active Memory Subagent | ✅ Complete |
-
-### Memory System
-| Component | Status |
-|-----------|--------|
-| LanceDB plugin | ✅ Enabled |
-| Ollama embeddings | ✅ nomic-embed-text (768d) |
-| Active Memory subagent | ✅ Configured |
-| Semantic search | 🟡 Pending OpenRouter |
+| ISSUE-022 | System Potential Audit | ✅ 7 dimensions mapped |
+| ISSUE-023 | OpenClaw Skills Native | pending |
+| ISSUE-024 | Workspace-Vault Auto-Sync | pending |
+| ISSUE-025 | Obsidian Plugin/Pipeline | pending |
+| ISSUE-026 | Vault Orphans + Inbox | P1 |
+| ISSUE-027 | Zettel AI Suggestions | pending |
+| ISSUE-028 | Memory Semantic Search | P1 — QMD-based |
+| ISSUE-029 | Multi-Agent AutoResearch | P1 |
 
 ---
 
@@ -101,10 +59,10 @@ status: active
 | **Zettels** | 1,565 | 2026-04-21 |
 | **LitNotes** | 219 | 2026-04-20 |
 | **MOCs** | 79 | 2026-04-15 |
-| **Issues** | 12 completed, 1 active | 2026-04-21 |
-| **Skills** | 4 documented, 4 executable | 2026-04-20 |
-| **Core Files** | 9 enhanced (100%) | 2026-04-20 |
-| **Git Status** | Clean | 2026-04-21 |
+| **Issues** | 8 active (P1/P2) | 2026-04-21 |
+| **Skills** | 4 documented | 2026-04-20 |
+| **Git Status** | Clean (workspace) | 2026-04-21 |
+| **QMD Vectors** | 39,495 | 2026-04-21 |
 
 ---
 
@@ -116,30 +74,25 @@ None.
 
 ## 🎯 READY FOR
 
-### ISSUE-013 (In Progress)
-- [x] Create issue
-- [x] Update 00-COMMAND.md
-- [x] Update 01-PIPELINE.md
-- [x] Update 02-HANDOFF.md
-- [ ] Create 2026-04-21 daily note
-- [ ] Update 02-COMPLETED.md with all 12 issues
-- [ ] Git commit all changes
-
-### Post-Vacation P0s (Your Decision)
-- FORG zettel extraction sprint (40 files ready)
-- Process 5 P0 items in 00-Inbox/
+### Next Session
+- Resume QMD embedding (2,333 files pending)
+- FORG zettel extraction sprint
+- Process P0 inbox items
 - CGPT AutoResearch pilot with SCOUT
-- Evidence audit for zettels
+
+### Open Issues (P1)
+- ISSUE-026: Vault orphans + inbox zero
+- ISSUE-028: Memory semantic search (QMD-based)
+- ISSUE-029: Multi-agent AutoResearch
 
 ---
 
 ## 🦞 RON NOTES
 
-Session closure incomplete due to late-night restarts for memory configuration. ISSUE-013 created to track dashboard sync. All 6 phases actually completed, not just Phase 1.
+Session complete. System stabilized after config chaos. LanceDB removed in favor of QMD (simpler, working). Telegram restored with new bot token. All core files committed.
 
-Current state: Clean slate, all systems operational, awaiting your post-vacation priorities.
+System health: GREEN. Ready for productive work.
 
 ---
-
-*Checkpoint: 10:30, Tuesday April 21, 2026*  
-*Next: Complete ISSUE-013, then your call*
+*Checkpoint: 13:41, Tuesday April 21, 2026*  
+*Next: Your call on priorities*
