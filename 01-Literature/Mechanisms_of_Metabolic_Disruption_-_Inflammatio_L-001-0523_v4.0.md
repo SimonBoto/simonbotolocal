@@ -33,8 +33,8 @@ source: [[CGPT_0281_Seed_Oils_and_Metabolic_Health_CGPT-0281]]
 status: complete
 parent-moc: [[MOC-Lipid-Metabolism]]
 extraction-date: 2026-03-06
-source-inbox: [[00-Inbox]]
-source-litnote: [[00-Inbox]]
+source-inbox: [[CGPT_0370_Metabolic_Inflammation_CGPT-0370]]
+source-litnote: [[CGPT_0370_Metabolic_Inflammation_CGPT-0370]]
 zettel-count: 0
 reference-count: 0
 source-origin: chatgpt-archive

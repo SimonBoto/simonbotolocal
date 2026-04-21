@@ -29,8 +29,8 @@ status: complete
 parent-moc: [[MOC-Research]]
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-06
-source-inbox: [[00-Inbox]]
-source-litnote: [[00-Inbox]]
+source-inbox: [[CGPT_0551_Manuscript_Review_Critical_Concerns_CGPT-0551]]
+source-litnote: [[CGPT_0551_Manuscript_Review_Critical_Concerns_CGPT-0551]]
 zettel-count: 0
 reference-count: 0
 source-origin: chatgpt-archive

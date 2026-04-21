@@ -19,8 +19,8 @@ tags:
   - litnote
   - metabolism
 extraction-date: 2026-03-27
-source-inbox: [[00-Inbox]]
-source-litnote: [[00-Inbox]]
+source-inbox: [[CGPT_0645_METHAP_Protocol_Design_CGPT-0645]]
+source-litnote: [[CGPT_0645_METHAP_Protocol_Design_CGPT-0645]]
 zettel-count: 0
 reference-count: 0
 source: [[CGPT_0359_Compliance_and_Approval_Process_CGPT-0359]]

@@ -143,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-References/Hub/Zhao_2019_Insulin_CVD_Mortality_R-002-0026.md",
+                "file": "02-References/Hub/AHA_2025_Vitamin_D_Heart_Attack_R-001-0088.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -158,7 +158,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Zhao_2019_Insulin_CVD_Mortality_R-002-0026"
+              "title": "AHA_2025_Vitamin_D_Heart_Attack_R-001-0088"
             }
           },
           {
@@ -364,6 +364,7 @@
   },
   "active": "9ef5eea8bef4cf3e",
   "lastOpenFiles": [
+    "02-References/Hub/Zhao_2019_Insulin_CVD_Mortality_R-002-0026.md",
     "03-Zettels/Conscious/Vitamin_K2_D_Mg_Synergy_Metabolic_Health_Z-001-0230.md",
     "03-Zettels/Conscious/Vitamin_K2_Glucose_Metabolism_Osteocalcin_Z-001-0229.md",
     "03-Zettels/Conscious/mtDNA_Cancer_Pathogenesis_Z-001-0577F.md",
@@ -389,7 +390,6 @@
     "01-Literature/Vitamin_D_RDA_Statistical_Error_-Veugelers_2014-_H_L-002-0168_v4.0.md",
     "01-Literature/Vitamin_D_in_Metabolic_Syndrome_L-001-0205_v4.0.md",
     "01-Literature/Vitamin_D_and_K2_Synergy_Mechanisms_-Protein_Synth_L-001-0212_v4.0.md",
-    "01-Literature/Vitamin_D_and_K2_Synergy_for_Bone_Health_L-001-0013_v4.0.md",
     "08-Structure/Skills/fix-missing-brackets.py",
     "08-Structure/Skills/fix-phantom-links.py",
     "08-Structure/Skills/audit-moc-index.py",

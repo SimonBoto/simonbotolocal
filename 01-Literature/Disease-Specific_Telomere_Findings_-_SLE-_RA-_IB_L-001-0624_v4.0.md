@@ -23,8 +23,8 @@ status: complete
 reviewed_by: "FORG"
 parent-moc: 
 extraction-date: 2026-03-08
-source-inbox: [[00-Inbox]]
-source-litnote: [[00-Inbox]]
+source-inbox: [[CGPT_0520_Autoimmune_Diseases_and_Telomeres_CGPT-0520]]
+source-litnote: [[CGPT_0520_Autoimmune_Diseases_and_Telomeres_CGPT-0520]]
 zettel-count: 0
 reference-count: 0
 ---

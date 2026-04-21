@@ -30,8 +30,8 @@ source: [[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370]]
 status: complete
 parent-moc: [[MOC-Metabolic-Syndrome]]
 extraction-date: 2026-03-07
-source-inbox: [[00-Inbox]]
-source-litnote: [[00-Inbox]]
+source-inbox: [[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370]]
+source-litnote: [[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370]]
 zettel-count: 0
 reference-count: 0
 source-origin: chatgpt-archive
