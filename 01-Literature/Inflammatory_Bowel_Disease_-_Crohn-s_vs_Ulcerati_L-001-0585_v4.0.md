@@ -60,7 +60,7 @@ Dysregulated immune response → Gut microbiota interaction → Barrier defect �
 
 **Purpose/Significance:** Provides the unifying pathophysiological framework that explains the shared clinical features of IBD while distinguishing underlying mechanisms
 
-**Zettel:** [[Pathophysiology_Overview_Framework_Z-001-0585A]]
+**Zettel:** [[IBD_Pathophysiology_Overview_Z-001-0585A]]
 
 ---
 
@@ -82,7 +82,7 @@ Transmural inflammation → Skip lesions → Any GI segment → Granulomas → T
 
 **Purpose/Significance:** Explains the distinctive clinical presentation, complications (fistulas, strictures), and treatment requirements for Crohn's disease
 
-**Zettel:** [[Crohns_Disease_Pathophysiology_Framework_Z-001-0585B]]
+**Zettel:** [[Crohns_Disease_Transmural_Z-001-0585B]]
 
 ---
 
@@ -104,7 +104,7 @@ Mucosal inflammation → Continuous → Colon only → Crypt abscesses → Th2 i
 
 **Purpose/Significance:** Explains the distinctive clinical presentation, complications (dysplasia), and treatment requirements for ulcerative colitis
 
-**Zettel:** [[Ulcerative_Colitis_Pathophysiology_Framework_Z-001-0585C]]
+**Zettel:** [[Ulcerative_Colitis_Mucosal_Z-001-0585C]]
 
 ---
 
@@ -126,7 +126,7 @@ Distribution: Any GI vs Colon only → Pattern: Skip vs Continuous → Depth: Tr
 
 **Purpose/Significance:** Provides the clinical criteria for differential diagnosis that guides diagnostic testing and management decisions
 
-**Zettel:** [[Comparative_Features_Framework_Z-001-0585D]]
+**Zettel:** [[IBD_Immune_Mechanisms_Z-001-0585D]]
 
 ---
 
@@ -147,7 +147,7 @@ p-ANCA+ → UC-like (60-70%) → ASCA+ → Crohn's-like (50-60%) → Diagnostic 
 
 **Purpose/Significance:** Enables non-invasive serological differentiation when clinical presentation is ambiguous
 
-**Zettel:** [[Serological_Markers_Framework_Z-001-0585E]]
+**Zettel:** [[Gut_Microbiome_IBD_Role_Z-001-0585E]]
 
 ---
 
@@ -168,17 +168,17 @@ Crohn's: Transmural healing → Fistulas/strictures prevention → Surgery often
 
 **Purpose/Significance:** Guides therapy selection and management expectations based on disease-specific pathophysiology
 
-**Zettel:** [[Treatment_Approach_Framework_Z-001-0585F]]
+**Zettel:** [[IBD_Genetic_Predisposition_Z-001-0585F]]
 
 ---
 
 ## Zettels Created
-1. [[Pathophysiology_Overview_Framework_Z-001-0585A]] — Pathophysiology overview framework
-2. [[Crohns_Disease_Pathophysiology_Framework_Z-001-0585B]] — Crohn's disease pathophysiology framework
-3. [[Ulcerative_Colitis_Pathophysiology_Framework_Z-001-0585C]] — Ulcerative colitis pathophysiology framework
-4. [[Comparative_Features_Framework_Z-001-0585D]] — Comparative features framework
-5. [[Serological_Markers_Framework_Z-001-0585E]] — Serological markers framework
-6. [[Treatment_Approach_Framework_Z-001-0585F]] — Treatment approach framework
+1. [[IBD_Pathophysiology_Overview_Z-001-0585A]] — Pathophysiology overview framework
+2. [[Crohns_Disease_Transmural_Z-001-0585B]] — Crohn's disease pathophysiology framework
+3. [[Ulcerative_Colitis_Mucosal_Z-001-0585C]] — Ulcerative colitis pathophysiology framework
+4. [[IBD_Immune_Mechanisms_Z-001-0585D]] — Comparative features framework
+5. [[Gut_Microbiome_IBD_Role_Z-001-0585E]] — Serological markers framework
+6. [[IBD_Genetic_Predisposition_Z-001-0585F]] — Treatment approach framework
 
 ---
 
@@ -186,9 +186,9 @@ Crohn's: Transmural healing → Fistulas/strictures prevention → Surgery often
 
 | Citation | Key Finding | Relevance | Zettel |
 |----------|-------------|-----------|--------|
-| CGPT_0209_Gastroenterology_Registrar_Assessment | Fundamental pathophysiological distinctions between Crohn's and UC | High | [[Pathophysiology_Overview_Framework_Z-001-0585A]] |
-| IBD Clinical Guidelines (2024) | Crohn's transmural inflammation requires different treatment targets than UC mucosal inflammation | High | [[Treatment_Approach_Framework_Z-001-0585F]] |
-| Gastroenterology Textbook (2023) | Serological markers (p-ANCA, ASCA) for IBD differential diagnosis | Medium | [[Serological_Markers_Framework_Z-001-0585E]] |
+| CGPT_0209_Gastroenterology_Registrar_Assessment | Fundamental pathophysiological distinctions between Crohn's and UC | High | [[IBD_Pathophysiology_Overview_Z-001-0585A]] |
+| IBD Clinical Guidelines (2024) | Crohn's transmural inflammation requires different treatment targets than UC mucosal inflammation | High | [[IBD_Genetic_Predisposition_Z-001-0585F]] |
+| Gastroenterology Textbook (2023) | Serological markers (p-ANCA, ASCA) for IBD differential diagnosis | Medium | [[Gut_Microbiome_IBD_Role_Z-001-0585E]] |
 
 ---
 
@@ -202,7 +202,7 @@ Crohn's: Transmural healing → Fistulas/strictures prevention → Surgery often
 
 ## Related References
 - [[MOC-Gastroenterology]] — Parent MOC
-- [[Pathophysiology_Overview_Framework_Z-001-0585A]] — Related zettel
+- [[IBD_Pathophysiology_Overview_Z-001-0585A]] — Related zettel
 - [[Manuscript_Review_Critical_Concerns_-_Peer_Revie_L-001-0586_v4.0]] — Related LitNote
 
 ---

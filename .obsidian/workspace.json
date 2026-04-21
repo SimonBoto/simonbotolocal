@@ -143,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Literature/KingOfVitamins-Pauling-Vitamin-C-2025_L-001-0656_v4.0.md",
+                "file": "01-Literature/Machine_Learning_in_Metabolomics_METHAP_L-001-0618_v4.0.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -158,7 +158,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "KingOfVitamins-Pauling-Vitamin-C-2025_L-001-0656_v4.0"
+              "title": "Machine_Learning_in_Metabolomics_METHAP_L-001-0618_v4.0"
             }
           },
           {
@@ -364,6 +364,20 @@
   },
   "active": "9ef5eea8bef4cf3e",
   "lastOpenFiles": [
+    "01-Literature/Low-Carb_vs_Low-Fat_for_Weight_Loss-_39_RCTs_Show_L-002-0235_v4.0.md",
+    "01-Literature/Low_Carb_or_Low_Fat-_Diet_Comparison_for_Metabolic_L-002-0172_v4.0.md",
+    "01-Literature/LitNote_Statistical_Analysis_Omics_L-001-0617_v4.0.md",
+    "01-Literature/LitNote_-_Therapeutic_Fasting_and_Fermentation_-_L-001-0637_v4.0.md",
+    "01-Literature/LitNote_-_Iodine-_Thyroid-_and_MTHFR_Support_-CG_L-001-0638_v4.0.md",
+    "01-Literature/LitNote_-_Gut_Healing_Nutrients_and_Amino_Acids_L-001-0636_v4.0.md",
+    "01-Literature/LitNote_-_Dysbiosis_Treatment_and_Die-Off_Reacti_L-001-0635_v4.0.md",
+    "01-Literature/Lipoprotein-a-_-Lp-a---_Genetic_Risk_Factor_and_Ma_L-002-0183_v4.0.md",
+    "01-Literature/Lipoprotein-a-_-_Mechanism-_Risk_Levels-_and_Man_L-002-0225_v4.0.md",
+    "01-Literature/Lifestyle_Disease_Factors_Are_Modifiable_-_80-_o_L-002-0213_v4.0.md",
+    "01-Literature/Lifestyle_and_Diet-_Most_Determinant_Disease_Facto_L-002-0240_v4.0.md",
+    "01-Literature/Lifestyle_and_Diet_as_Primary_Disease_Determinants_L-002-0178_v4.0.md",
+    "01-Literature/LDL_Lowering_Does_Not_Always_Mean_Greater_Protecti_L-002-0207_v4.0.md",
+    "01-Literature/KingOfVitamins-Pauling-Vitamin-C-2025_L-001-0656_v4.0.md",
     "01-Literature/Ketone_Body_Metabolism_Deep_Dive_-_From_Beta-Oxi_L-001-0655_v4.0.md",
     "01-Literature/Ketone_Body_Biochemistry_and_Clinical_Applications_L-001-0602_v4.0.md",
     "01-Literature/Ketogenesis_and_BHB-_Energy_Substrate_and_Signalin_L-001-0045G_v4.0.md",
@@ -376,20 +390,6 @@
     "01-Literature/Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0.md",
     "01-Literature/Hyperinsulinemia_and_Metabolic_Inflexibility_-_M_L-001-0654_v4.0.md",
     "01-Literature/Hyperbaric_Oxygen_Therapy_in_Cancer_L-001-0614_v4.0.md",
-    "01-Literature/Hong_Kong-_Highest_Meat_Consumption-_Longest_Lifes_L-002-0209_v4.0.md",
-    "01-Literature/Hong_Kong-_Highest_Meat_Consumption_-145kg--_Longe_L-002-0236_v4.0.md",
-    "01-Literature/History_of_Insulin_Discovery_L-001-0207_v4.0.md",
-    "01-Literature/History_of_Glucose_Discovery_and_Metabolic_Underst_L-001-0208_v4.0.md",
-    "01-Literature/History_of_Dietary_Fat_Research_and_Controversies_L-001-0210_v4.0.md",
-    "01-Literature/History_of_Breakfast_Cereal_and_the_Kellogg_Brothe_L-001-0211_v4.0.md",
-    "01-Literature/Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006_v4.0.md",
-    "01-Literature/Historical_Reversal-_Obese_Children_Now_Outnumber_L-002-0242_v4.0.md",
-    "01-Literature/Historical_Ethics_Guidelines_and_Frameworks_in_Hum_L-002-0602_v4.0.md",
-    "01-Literature/High-Protein_Diet_and_Bone_Health_L-001-0014_v4.0.md",
-    "01-Literature/High-Fat_Cheese_Linked_to_Reduced_Dementia_Risk_-D_L-002-0176_v4.0.md",
-    "01-Literature/High-Dose_Vitamin_D_Clinical_Research_L-001-0009_v4.0.md",
-    "01-Literature/High-Dose_Vitamin_C_in_Oncology_L-001-0610_v4.0.md",
-    "01-Literature/High_LDL_Not_Linked_to_Mortality_in_Healthy_People_L-002-0171_v4.0.md",
     "08-Structure/Skills/fix-missing-brackets.py",
     "08-Structure/Skills/fix-phantom-links.py",
     "08-Structure/Skills/audit-moc-index.py",
