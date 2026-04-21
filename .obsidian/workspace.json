@@ -143,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Literature/Bone_Turnover_Markers_L-001-0045J_v4.0.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -158,7 +158,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bone_Turnover_Markers_L-001-0045J_v4.0"
+              "title": "Untitled"
             }
           }
         ],
@@ -338,8 +338,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3defb34dd9bafdc5",
+  "active": "a5a67206467641b9",
   "lastOpenFiles": [
+    "08-Structure/System/OpenClaw-Obsidian-Integration.md",
+    "01-Literature/Bone_Turnover_Markers_L-001-0045J_v4.0.md",
     "08-Structure/Issues/ISSUE-011-Memory-Fix-Plan.md",
     "07-Projects/Tools/Misc/00-MISSION_v2_draft.md",
     "07-Projects/Tools/Misc/UID_COLLISION_FIX_SCRIPT.md",
@@ -369,8 +371,6 @@
     "07-Projects/Personal/Facebook-Audit/FACEBOOK_ARTICLE_INDEX.md",
     "07-Projects/Personal/Facebook-Audit",
     "07-Projects/Extraction/CGPT-Analysis/CGPT_CLUSTERS_DEEP_DIVE.md",
-    "07-Projects/Extraction/CGPT-Analysis/CGPT_AUDIT.md",
-    "07-Projects/Extraction/CGPT-Analysis/CGPT_ANCHOR_MAPPING.md",
     "07-Projects/Extraction/CGPT-Analysis",
     "02-References/Assets/Excalidraw",
     "09-Archive/completed-logs",
