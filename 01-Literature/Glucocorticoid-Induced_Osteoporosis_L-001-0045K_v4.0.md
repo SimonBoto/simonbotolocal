@@ -55,7 +55,7 @@ tags:
 
 ### 1. Pathophysiological Mechanisms
 
-**Zettel extracted:** [[Glucocorticoid_Pathophysiology_Osteoblast_Osteocyte_Effects_Z-001-0125]]
+**Zettel extracted:** [[Glucocorticoid_Osteoporosis_Pathophysiology_Z-001-0125]]
 
 #### Direct Effects on Bone Cells
 - **Osteoblasts:** Apoptosis, reduced differentiation, inhibited collagen synthesis
@@ -78,7 +78,7 @@ tags:
 
 ### 2. Risk Assessment and Screening
 
-**Zettel extracted:** [[Glucocorticoid_Risk_Assessment_Screening_Z-001-0126]]
+**Zettel extracted:** [[Glucocorticoid_Bone_Loss_Mechanisms_Z-001-0126]]
 
 #### Risk Stratification
 | Risk Level | Criteria | Intervention Timing |
@@ -101,7 +101,7 @@ tags:
 
 ### 3. Management Guidelines
 
-**Zettel extracted:** [[Glucocorticoid_Management_Guidelines_Z-001-0127]]
+**Zettel extracted:** [[Glucocorticoid_Osteoporosis_Prevention_Z-001-0127]]
 
 #### Non-Pharmacologic
 - **Vitamin D:** 1000–2000 IU/day (target 25(OH)D >30 ng/mL)
@@ -125,7 +125,7 @@ tags:
 
 ### 4. Treatment Monitoring and Outcomes
 
-**Zettel extracted:** [[Glucocorticoid_Treatment_Monitoring_Outcomes_Z-001-0128]]
+**Zettel extracted:** [[Glucocorticoid_Osteoporosis_Treatment_Z-001-0128]]
 
 #### Monitoring Parameters
 | Parameter | Frequency | Target |
@@ -150,7 +150,7 @@ tags:
 ## Integration Notes
 
 **Links to Existing Zettels:**
-- [[Bone_Remodeling_Cycle_Dynamics_Phase_Regulation_Z-001-0099]] — Physiological basis
+- [[Protein_Requirements_Bone_Health_1.2_to_1.5_gkg_Z-001-0099]] — Physiological basis
 - [[Teriparatide_PTH_1-34_Intermittent_Anabolic_Therapy_Z-001-0105]] — Therapy option
 - [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]] — Therapy option
 
