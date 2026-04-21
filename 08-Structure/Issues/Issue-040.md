@@ -38,7 +38,8 @@ Need formalized workflow for creating daily X posts from vault zettels.
 - **Source Zettels:** [[Metabolic_Health_Pillar_Stress_Z-001-0584D]], [[Mitochondrial_Dysfunction_Action_S-001-0004]], [[Magnesium_Metabolic_Cofactor_ATP_Function_Z-001-1104]]
 
 ## Success Criteria
-- [ ] Skill documented
+- [x] Skill documented: [[skill-x-content-system-v1.0]]
+- [x] Multi-platform vision: [[skill-content-multiplatform-v1.0]]
 - [ ] 7 posts created (one week)
 - [ ] Engagement tracked
 - [ ] Workflow refined
