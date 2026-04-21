@@ -9,17 +9,27 @@ parent-index: [[00-INDEX]]
 
 # 07 Projects Index
 
-> **Active work, agents, skills, and protocols**
+> **Active work, agents, skills, and archived projects**
 
 ---
 
-## 🚀 Active Projects
+## 🔥 Active
 
-| Project | Status | Priority |
-|---------|--------|----------|
-| [[PROJECT-The-Triangle]] | Active | P0 |
-| [[PROJECT-AutoResearch-Knowledge]] | Active | P1 |
-| [[PhD-Index]] | Active | P1 |
+Current operations and active projects.
+
+| File | Type | Status |
+|------|------|--------|
+| [[PROJECT-The-Triangle]] | Project | P0 Active |
+| [[CGPT_Extraction_Program_S-001-0003]] | Synthesis | Active |
+| [[CGPT_0264_Resumption_S-001-0006]] | Synthesis | Active |
+| [[OPERATIONS]] | Consolidated | Active |
+| [[FORG-LINK-PROTOCOL]] | Protocol | Active |
+| [[CGPT_EXTRACTION_PROTOCOL_v2.0]] | Protocol | Active |
+| [[EXTRACTION_PROTOCOL_v1.0]] | Protocol | Active |
+| [[Weekly-Consolidation-Ritual]] | Protocol | Active |
+| [[Extraction-Index]] | Index | Active |
+| [[Operations-Index]] | Index | Active |
+| [[Protocols-Index]] | Index | Active |
 
 ---
 
@@ -36,6 +46,8 @@ parent-index: [[00-INDEX]]
 
 ## 🛠️ Skills
 
+Reusable capabilities.
+
 | Skill | Purpose |
 |-------|---------|
 | [[Skills-Index]] | All skills |
@@ -46,33 +58,11 @@ parent-index: [[00-INDEX]]
 
 ---
 
-## 📜 Protocols
-
-| Protocol | Purpose |
-|----------|---------|
-| [[Protocols-Index]] | All protocols |
-| [[Weekly-Consolidation-Ritual]] | Weekly maintenance |
-| [[FORG-LINK-PROTOCOL]] | Link standards |
-
----
-
-## ⚙️ Operations
-
-| Operation | Status |
-|-----------|--------|
-| [[Operations-Index]] | All operations |
-| [[Audit-Plan]] | Active |
-| [[Audit-Plan-Detailed]] | Active |
-
----
-
 ## 🏥 Clinic
 
 | Area | Index |
 |------|-------|
 | [[Clinic-Index]] | All clinic projects |
-| B2B/ | Business to business |
-| Training/ | Staff training |
 
 ---
 
@@ -86,7 +76,17 @@ parent-index: [[00-INDEX]]
 
 ---
 
+## 👤 Personal
+
+| Area | Index |
+|------|-------|
+| [[Personal-Index]] | All personal projects |
+
+---
+
 ## 🧰 Tools
+
+Tool configurations and scripts.
 
 | Category | Location |
 |----------|----------|
@@ -96,16 +96,29 @@ parent-index: [[00-INDEX]]
 
 ---
 
-## 🏠 Personal
+## 📦 Archive
 
-| Area | Index |
-|------|-------|
-| [[Personal-Index]] | All personal projects |
-| Facebook-Audit/ | Social media analysis |
-| Guitar_Learning/ | Skill development |
-| Beeswax_Tallow_Business/ | Side business |
+Completed and historical projects.
+
+| File | Type | Status |
+|------|------|--------|
+| [[Facebook_Collection_S-001-0010]] | Synthesis | Completed |
+| [[CGPT_0133_Bone_Calcium_S-001-0011]] | Synthesis | Planned |
+| [[Audit-Plan]] | Audit | Complete |
+| [[Audit-Plan-Detailed]] | Audit | Complete |
+| [[Audit-Report-2026-04-20]] | Audit Report | Complete |
+| [[ARTICLE_NUMBERING_INVESTIGATION]] | Investigation | Complete |
+| [[INFRASTRUCTURE_HANDOFF]] | Handoff | Archived |
+| [[PROTOCOLS]] | Consolidated | Archived |
+| [[FIX-INBOX-MAPPING]] | Fix | Archived |
+| [[ASSESSMENT_Templates_Consolidation]] | Assessment | Archived |
+| [[REFERENCE_AUDIT_COMPLETE_2026-04-05]] | Audit | Archived |
+| [[CGPT_ANCHOR_MAPPING]] | Analysis | Archived |
+| [[CGPT_AUDIT]] | Audit | Archived |
+| [[CGPT_CLUSTERS_DEEP_DIVE]] | Analysis | Archived |
 
 ---
 
+*Structure: Active/Agents/Skills/Clinic/PhD/Personal/Tools/Archive*  
 *Last updated: 2026-04-21*  
-*Status: Organized ✅*
+*Status: Fully aligned ✅*
