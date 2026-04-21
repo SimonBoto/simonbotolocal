@@ -1,5 +1,5 @@
 ---
-uid: COMMAND-2026-04-21
+uid: COMMAND-2026-04-21-EVENING
 type: command-dashboard
 status: active
 ---
@@ -12,94 +12,78 @@ status: active
 
 | Metric | Value | Updated |
 |--------|-------|---------|
-| **Zettels** | 1,565 | 2026-04-21 |
-| **Zettels (orphan)** | **0** | 2026-04-14 ✅ FIXED |
-| **LitNotes (v4.0)** | **219** | 2026-04-20 |
-| **LitNotes (legacy)** | **0** | 2026-04-14 |
-| **CGPT Anchors** | 688 (17 processed) | 2026-04-21 |
-| **Agents** | 3 (RON, FORG, SCOUT) | 2026-04-20 |
-| **MOCs** | **79** | 2026-04-15 ✅ Consolidated from 134 |
-| **Issues** | 12 completed, 1 active | 2026-04-21 |
-| **Skills** | 4 documented | 2026-04-20 |
+| **Zettels** | ~1,605 | 2026-04-21 |
+| **LitNotes** | 220 (100% anchored v5.0) | 2026-04-21 |
+| **Reference notes** | 154 | 2026-04-21 |
+| **MOCs** | 79 | 2026-04-21 |
+| **Issues** | 39 active | 2026-04-21 |
+| **Agents** | 3 (RON, FORG, SCOUT) | 2026-04-21 |
+| **Commits today** | 39 | 2026-04-21 |
+| **Phantom links** | 107 remaining | 2026-04-21 |
 | **Git Status** | Clean | 2026-04-21 |
-| **Last Session** | 2026-04-20 23:35 | 2026-04-21 |
 
 ### Active Fronts
 | Front | Status | Next Action |
 |-------|--------|-------------|
-| **Vault Audit** | ✅ **COMPLETE — Phases 1-6** | All core files 100% reproducible |
-| **Issues System** | ✅ **12 issues documented** | ISSUE-013 in progress (closure) |
-| **Skills System** | ✅ **4 skills executable** | Scripts + examples complete |
-| **Memory System** | 🟡 **LanceDB active** | Semantic search pending OpenRouter |
-| **Agent Ecosystem** | ✅ **All 3 operational** | RON + FORG + SCOUT ready |
+| **LitNote Anchors** | ✅ **220/220 anchored** | Complete |
+| **Agent Ecosystem** | ✅ **All 3 operational** | Night shift activation |
+| **Phantom Links** | 🟡 **107 remaining** | Batch fix or defer |
+| **.openclaw Cleanup** | 📝 **ISSUE-038** | 1.2GB assessment |
+| **INBOX Reorganization** | 🟡 **In progress** | ChatGPT → Fleeting |
 
 ---
 
-## Recent Achievements (2026-04-20)
+## Recent Achievements (2026-04-21)
 
-### Phase 1: Core Files (100% Reproducible)
-| File | Enhancement |
-|------|-------------|
-| README.md | ✅ Created — workspace entry point |
-| AGENTS.md | ✅ Quick Reference + examples |
-| TOOLS.md | ✅ Validation commands + Karpathy compliance |
-| SOUL.md | ✅ Core Truths table + examples |
-| USER.md | ✅ Quick Reference added |
-| MEMORY.md | ✅ Quick Reference added |
-| BOOTSTRAP.md | ✅ Quick Reference added |
-| AUTONOMY.md | ✅ Quick Reference added |
-| HEARTBEAT.md | ✅ Quick Reference added |
-
-### Phase 2: Dashboard Trinity
-| Dashboard | Status |
-|-----------|--------|
-| 00-COMMAND.md | ✅ Updated (this file) |
-| 01-PIPELINE.md | ✅ Flow truth verified |
-| 02-HANDOFF.md | ✅ Session state current |
-
-### Phase 3: Skills System
-| Skill | Uses | Status |
-|-------|------|--------|
-| FORG Extraction Pipeline | 47 | ✅ Executable script |
-| Zettel Template Alignment | 5 | ✅ Executable script |
-| MOC Consolidation | 3 | ✅ Executable script |
-| Batch Fix Protocol | 1 | ✅ Executable script |
-
-### Phase 4-6: Templates, Indexes, Verification
+### Anchor System Deployment (ISSUE-037)
 | Component | Status |
 |-----------|--------|
-| Templates | ✅ All with Quick Reference cards |
-| Indexes | ✅ 00-INDEX.md, 08-Structure-Index.md updated |
-| Link Check | ✅ All verified |
+| Template v5.0 | ✅ Created |
+| CSS styling | ✅ Added |
+| 220 LitNotes | ✅ Anchored (UP/DOWN/SIDEWAYS) |
+| FORG batch | ✅ 2m 14s deployment |
 
-### Memory System Activation
-| Component | Status |
-|-----------|--------|
-| LanceDB plugin | ✅ Enabled |
-| Ollama embeddings | ✅ nomic-embed-text (768d) |
-| Active Memory subagent | ✅ Configured |
-| Semantic search | 🟡 Pending OpenRouter API key |
+### Agent Configuration (ISSUE-039)
+| Agent | Action | Status |
+|-------|--------|--------|
+| FORG | SOUL.md merged v5.1 | ✅ Synced |
+| SCOUT | SOUL.md merged v5.1 | ✅ Synced |
+| Both | DREAMS.md added | ✅ Complete |
+| Both | Workspace verified | ✅ Tested |
+
+### System Documentation
+| Document | Location | Purpose |
+|----------|----------|---------|
+| Memory-Architecture.md | 08-Structure/System/ | Dual-layer memory system |
+| New-Agent-Hiring-Protocol.md | 08-Structure/System/ | Agent onboarding |
+
+### Vault Reorganization
+| Component | Moved To |
+|-----------|----------|
+| Protocols | 07-Projects/Protocols/ |
+| Skills | 07-Projects/ |
+| Agents | 07-Projects/Agents/ |
+| Handoff | 08-Structure/Dashboards/ |
+| 04-LEXICON.md | 08-Structure/System/ |
 
 ---
 
 ## Operating Orders
 
-### Do Now (Max 3)
-- [ ] **Complete** — ISSUE-013 (session closure & dashboard sync)
-- [ ] **Decide** — Post-vacation P0s (you're back Apr 21)
-- [ ] **Configure** — OpenRouter for semantic search (optional)
+### Do Now (P0 — Max 3)
+- [ ] **Night Shift Activation** — Configure FORG 00:00-08:00 batch processing
+- [ ] **CGPT Prioritization** — SCOUT analyzes 673 conversations
+- [ ] **INBOX Completion** — Finish ChatGPT → Fleeting reorganization
 
-### Do Next (Queue)
-- FORG zettel extraction sprint (40 files ready)
-- Evidence audit: source verification for zettels
-- Process 5 P0 items in 00-Inbox/
-- CGPT AutoResearch pilot with SCOUT
+### Do Next (P1)
+- Fix remaining 107 phantom links (FORG batch or manual)
+- .openclaw directory cleanup per ISSUE-038
+- Weekly consolidation ritual (Sunday 20:00)
 
-### Do Not Do (Permanent Guardrails)
-- ❌ Start FORG sprint without explicit batch confirmation
-- ❌ Trust stale protocols over current doctrine
-- ❌ Aggressive cleanup without archive-first safety
-- ❌ Overcommit during re-entry period
+### Do Not Do (Guardrails)
+- ❌ Start new major projects before night shift tested
+- ❌ Delete .openclaw files without ISSUE-038 review
+- ❌ Modify agent workspaces without protocol
 
 ---
 
@@ -151,15 +135,19 @@ Weak answer → slow down.
 
 RON,
 
-**Vault audit COMPLETE. All 6 phases finished. System 100% reproducible.**
+**39 commits today. Massive system overhaul complete.**
 
-**Infrastructure:** Issues/Agents/Skills operational. Memory system active.
+**Infrastructure:**
+- 220 LitNotes anchored with full traceability
+- 3 agents operational and tested
+- System documented (memory, hiring protocols)
+- Vault reorganized and optimized
 
-**Next: Your call on post-vacation priorities.**
+**Next:** Night shift activation. CGPT prioritization. Scale to production.
 
 Move carefully. Move clearly. Move in order.
 
 ---
 
-*Command v4.4 — Post-audit, post-vacation, awaiting new P0s*  
-*Updated 2026-04-21 10:30*
+*Command v4.5 — Post-massive-overhaul, ready for production scaling*  
+*Updated 2026-04-21 20:47*
