@@ -31,17 +31,6 @@ tags:
   - health
   - clinical
   - cgp
-# Connectivity
-creates_from:
-  - [[CGPT_0124_Profound_Truths_Revolutionizing_Health_CGPT-0124]]
-extracts:
-  - [[Metabolic_Health_Pillar_Stress_Z-001-0584D]]
-  - [[Metabolic_Health_Pillar_Sleep_Z-001-0584C]]
-  - [[Metabolic_Health_Pillar_Nutrition_Z-001-0584A]]
-  - [[Metabolic_Health_Pillar_Exercise_Z-001-0584B]]
-  - [[Metabolic_Health_Pillar_Minerals_Z-001-0584E]]
-synthesizes_into:
-  - [[Stress_Metabolic_Impact_Synthesis_S-001-0020]]
 ---
 
 # Lit — Five Pillars of Metabolic Health — Clinical Conference Framework
