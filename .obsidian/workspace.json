@@ -195,8 +195,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "64120ee807f0bd00",
+  "active": "3defb34dd9bafdc5",
   "lastOpenFiles": [
+    "08-Structure/Issues/Issue-056.md",
+    "08-Structure/Issues/Issue-054.md",
+    "08-Structure/Issues/Issue-057.md",
+    "08-Structure/Issues/Issue-055.md",
     "Untitled Kanban.md",
     "08-Structure/Dashboards/Kanban-Issues.md",
     "08-Structure/Dashboards/Dataview-Issues.md",
@@ -227,10 +231,6 @@
     "09-Archive/PROJECT-Zettel-v4-Update.md",
     "09-Archive/PROJECT-LitNote-v4-Update.md",
     "07-Projects/Standards/FORG-LINK-PROTOCOL.md",
-    "07-Projects/Standards/ZETTEL_ASSESSMENT.md",
-    "07-Projects/Standards/MOC-CREATION-STANDARD.md",
-    "07-Projects/Standards/CGPT_EXTRACTION_PROTOCOL_v2.0.md",
-    "07-Projects/Standards/EXTRACTION_PROTOCOL_v1.0.md",
     "07-Projects/Standards",
     "07-Projects/Operations",
     "07-Projects/Tools/Vault_Inventory.base",

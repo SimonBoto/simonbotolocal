@@ -34,9 +34,11 @@ Semantic search inactive. 2,535 files not searchable by vector.
 - [12:47] qmd embed restarted (batch-size 100)
 - [12:48] Memory search tested — working (builtin backend)
 - [12:48] 2,511 files still pending embedding
+- [13:57] **Superseded by ISSUE-054** — QMD embed completion now tracked separately
 
 ## Blockers
 None — config ready, just needs execution
 
 ## Notes
 Highest ROI — 30 min to complete.
+**DEPRECATED:** Specific embed work moved to ISSUE-054. This issue now tracks overall semantic search activation only.
