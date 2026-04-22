@@ -211,6 +211,7 @@
   },
   "active": "64120ee807f0bd00",
   "lastOpenFiles": [
+    "04-Synthesis/Artificial_Sweeteners_Metabolic_Harm_SYN-002-001.md",
     "02-References/Hub/Teicholz_2023_Saturated_Fat_History_R-001-0017.md",
     "02-References/Hub/Teicholz_2025_Low_Carb_Myths_R-001-0049.md",
     "02-References/Hub/Veugelers_Ekwaru_2014_Vitamin_D_Statistical_Error_R-002-0004.md",
@@ -236,7 +237,6 @@
     "08-Structure/Issues/Issue-078.md",
     "08-Structure/Issues/Issue-077.md",
     "08-Structure/Issues/Issue-076.md",
-    "08-Structure/Issues/Issue-075.md",
     "07-Projects/Tools/update_zettels_to_litnotes.py",
     "07-Projects/Tools/batch_create_cgpt_litnotes.py",
     "07-Projects/Agents/SCOUT",
