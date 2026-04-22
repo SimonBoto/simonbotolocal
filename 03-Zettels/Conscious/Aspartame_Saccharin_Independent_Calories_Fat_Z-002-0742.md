@@ -45,7 +45,7 @@ related:
 - [[Diet_Soda_Paradox_Weight_Gain_Z-002-0743]]
 
 ## Source
-- **LitNote:** [[L-002-0201_Artificial_Sweeteners_Increase_Body_Fat]]
+- **LitNote:** [[Artificial_Sweeteners_Increase_Body_Fat_-Steffen_2_L-002-0201_v4.0]]
 
 ---
 *Z-002-0742 | Created: 2026-04-04 | Status: conscious*

@@ -46,7 +46,7 @@ related:
 - [[Aspartame_Saccharin_Independent_Calories_Fat_Z-002-0742]]
 
 ## Source
-- **LitNote:** [[L-002-0201_Artificial_Sweeteners_Increase_Body_Fat]]
+- **LitNote:** [[Artificial_Sweeteners_Increase_Body_Fat_-Steffen_2_L-002-0201_v4.0]]
 
 ---
 *Z-002-0743 | Created: 2026-04-04 | Status: conscious*
