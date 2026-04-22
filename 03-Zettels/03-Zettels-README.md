@@ -127,7 +127,7 @@ status: conscious
 
 | ❌ Wrong | ✅ Correct |
 |----------|------------|
-| `[[Z-001-0001]]` | `[[Insulin_Receptor_Z-001-0001]]` |
+| `[[Insulin_Receptor_Structure_Z-001-0001]]` | `[[Insulin_Receptor_Z-001-0001]]` |
 
 ---
 

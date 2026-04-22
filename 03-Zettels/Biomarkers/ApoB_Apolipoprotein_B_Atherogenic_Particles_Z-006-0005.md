@@ -205,8 +205,8 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[Cholesterol_Lipid_Panel_[B-006-0001].md|Cholesterol Panel Guide]
-- [[Z-006-0001|LDL Cholesterol — Low-Density Lipoprotein]
-- [[Z-006-0004|Total Cholesterol — Complete Lipid Pool]
+- [[LDL_Cholesterol_Low-Density_Lipoprotein_Z-006-0001|LDL Cholesterol — Low-Density Lipoprotein]
+- [[Total_Cholesterol_Complete_Lipid_Pool_Z-006-0004|Total Cholesterol — Complete Lipid Pool]
 
 source-litnote: Synthesized from clinical practice
 ---

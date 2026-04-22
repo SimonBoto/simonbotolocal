@@ -184,8 +184,8 @@ Tryptophan → 5-HTP → Serotonin → (MAO-A) → 5-HIAA
 
 ## RELATED FILES
 - [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]
-- [[Z-012-0201|HVA — Homovanillic Acid]
-- [[Z-012-0204|5-HIAA — Serotonin Metabolite (duplicate)]
+- [[Homovanillic_Acid_HVA_Dopamine_Marker_Z-012-0201|HVA — Homovanillic Acid]
+- [[5-HIAA_Serotonin_Metabolite_Z-012-0204|5-HIAA — Serotonin Metabolite (duplicate)]
 
 ---
 *Complete biomarker foundation — 5-HIAA*

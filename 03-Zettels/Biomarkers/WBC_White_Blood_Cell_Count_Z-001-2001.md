@@ -193,11 +193,11 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[WBC_[B-001-0001]|WBC Comprehensive Guide]
-- [[Z-001-2002|Neutrophils — Immune Defense]
-- [[Z-001-2003|Lymphocytes — Adaptive Immunity]
-- [[Z-001-2004|Monocytes — Innate Immune Phagocytes]
-- [[Z-001-2005|Eosinophils — Allergy & Parasite Defense]
-- [[Z-001-2006|Basophils — Allergic Response]
+- [[Neutrophils_Immune_Defense_Z-001-2002|Neutrophils — Immune Defense]
+- [[Lymphocytes_Adaptive_Immunity_Z-001-2003|Lymphocytes — Adaptive Immunity]
+- [[Monocytes_Innate_Immune_Phagocytes_Z-001-2004|Monocytes — Innate Immune Phagocytes]
+- [[Eosinophils_Allergy_Parasite_Defense_Z-001-2005|Eosinophils — Allergy & Parasite Defense]
+- [[Basophils_Allergic_Response_Inflammation_Z-001-2006|Basophils — Allergic Response]
 
 ---
 *Complete biomarker foundation — WBC*

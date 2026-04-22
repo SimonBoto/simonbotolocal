@@ -209,9 +209,9 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[Metabolic_Panel_[B-005-0001].md|Metabolic Panel Guide]
-- [[Z-005-0001|Glucose — Blood Sugar]
-- [[Z-005-0002|Insulin — Pancreatic Beta-Cell Response]
-- [[Z-005-0003|HbA1c — Glycemic Control]
+- [[Thyroid_Optimal_Ranges_Z-005-0001|Glucose — Blood Sugar]
+- [[Hashimoto_Pattern_Anti_TPO_Anti_TG_Z-005-0002|Insulin — Pancreatic Beta-Cell Response]
+- [[HbA1c_Glycemic_Control_Biomarker_Z-005-0003|HbA1c — Glycemic Control]
 
 source-litnote: Synthesized from clinical practice
 ---

@@ -204,8 +204,8 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[WBC_[B-001-0001]|WBC Comprehensive Guide]
-- [[Z-001-2001|WBC — White Blood Cell Count]
-- [[Z-001-2002|Neutrophils — Immune Defense]
+- [[WBC_White_Blood_Cell_Count_Z-001-2001|WBC — White Blood Cell Count]
+- [[Neutrophils_Immune_Defense_Z-001-2002|Neutrophils — Immune Defense]
 
 ---
 *Complete biomarker foundation — Lymphocytes*

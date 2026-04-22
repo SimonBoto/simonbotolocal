@@ -182,7 +182,7 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]
-- [[Z-012-0009|Lactic Acid — Anaerobic Glycolysis]
+- [[Lactic_Acid_Anaerobic_Glycolysis_Z-012-0009|Lactic Acid — Anaerobic Glycolysis]
 
 source-litnote: Synthesized from clinical practice
 ---

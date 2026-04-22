@@ -176,8 +176,8 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[Male_Hormones_[B-011-0001]|Male Hormones Panel]
-- [[Z-011-0001|Testosterone — Primary Male Androgen]
-- [[Z-011-0008|SHBG — Sex Hormone Binding Globulin]
+- [[Testosterone_Primary_Male_Androgen_Z-011-0001|Testosterone — Primary Male Androgen]
+- [[SHBG_Sex_Hormone_Binding_Globulin_Z-011-0008|SHBG — Sex Hormone Binding Globulin]
 
 ---
 *Complete biomarker foundation — Free Testosterone*

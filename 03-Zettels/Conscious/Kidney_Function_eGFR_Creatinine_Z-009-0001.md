@@ -87,7 +87,7 @@ Synthesized from clinical practice
 - Diabetic nephropathy: Glomerular hyperfiltration → progressive decline
 
 **Uric Acid:**
-- [[Z-001-00XX] — Uric acid (target <5.5 mg/dL)
+- [[Uric_Acid_Hyperuricemia_Gout_Z-001-00XX]] — Uric acid (target <5.5 mg/dL)
 - Elevated uric acid → endothelial dysfunction → reduced eGFR
 
 ---

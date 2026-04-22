@@ -190,8 +190,8 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[CBC_[B-001-0001].md|CBC Comprehensive Guide]
-- [[Z-001-1003|MCV — Mean Corpuscular Volume]
-- [[Z-003-0001|Ferritin — Iron Storage]
+- [[MCV_Mean_Corpuscular_Volume_Z-001-1003|MCV — Mean Corpuscular Volume]
+- [[Ferritin_Iron_Storage_Systemic_Status_Z-003-0001|Ferritin — Iron Storage]
 
 source-litnote: Synthesized from clinical practice
 ---

@@ -200,8 +200,8 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[Male_Hormones_[B-011-0001]|Male Hormones Family Guide]
-- [[Z-011-0001|Testosterone — Primary Male Androgen]
-- [[Z-011-0005|Cortisol — Primary Stress Hormone]
+- [[Testosterone_Primary_Male_Androgen_Z-011-0001|Testosterone — Primary Male Androgen]
+- [[Cortisol_Primary_Stress_Hormone_Z-011-0005|Cortisol — Primary Stress Hormone]
 
 source-litnote: Synthesized from clinical practice
 ---

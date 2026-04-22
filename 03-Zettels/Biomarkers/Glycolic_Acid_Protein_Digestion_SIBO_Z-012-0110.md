@@ -161,7 +161,7 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]
-- [[Z-012-0301|Oxalate Metabolism]
+- [[Oxalate_Metabolism_Glyceric_Glycolic_Oxalic_Z-012-0301|Oxalate Metabolism]
 
 source-litnote: Synthesized from clinical practice
 ---

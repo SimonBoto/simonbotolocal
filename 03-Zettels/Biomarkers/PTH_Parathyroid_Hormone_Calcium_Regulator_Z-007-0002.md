@@ -211,8 +211,8 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[Vitamin_D_Calcium_Family_[B-007-0001]|Vitamin D-Calcium Family Guide]
-- [[Z-007-0001|Vitamin D — Calciferol]
-- [[Z-009-0003|ALP — Alkaline Phosphatase]
+- [[Vitamin_D_Calciferol_Steroid_Hormone_Z-007-0001|Vitamin D — Calciferol]
+- [[ALP_Alkaline_Phosphatase_Z-009-0003|ALP — Alkaline Phosphatase]
 
 source-litnote: Synthesized from clinical practice
 ---

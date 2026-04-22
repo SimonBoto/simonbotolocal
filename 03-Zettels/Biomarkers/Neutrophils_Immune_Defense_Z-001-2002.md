@@ -204,8 +204,8 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[WBC_[B-001-0001]|WBC Comprehensive Guide]
-- [[Z-001-2001|WBC — White Blood Cell Count]
-- [[Z-001-2003|Lymphocytes — Adaptive Immunity]
+- [[WBC_White_Blood_Cell_Count_Z-001-2001|WBC — White Blood Cell Count]
+- [[Lymphocytes_Adaptive_Immunity_Z-001-2003|Lymphocytes — Adaptive Immunity]
 
 ---
 *Complete biomarker foundation — Neutrophils*

@@ -240,9 +240,9 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[Lipid_Ratios_[B-006-0001]|Lipid Ratios Family Guide]
-- [[Z-006-0002|HDL Cholesterol — High-Density Lipoprotein]
-- [[Z-006-0003|Triglycerides — Lipid Energy]
-- [[Z-006-0004|ApoB — Apolipoprotein B]
+- [[HDL_Cholesterol_High-Density_Lipoprotein_Z-006-0002|HDL Cholesterol — High-Density Lipoprotein]
+- [[Triglycerides_Lipid_Energy_Storage_Z-006-0003|Triglycerides — Lipid Energy]
+- [[Total_Cholesterol_Complete_Lipid_Pool_Z-006-0004|ApoB — Apolipoprotein B]
 
 source-litnote: Synthesized from clinical practice
 ---

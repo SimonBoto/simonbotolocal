@@ -184,8 +184,8 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]
-- [[Z-012-0009|Lactic Acid — Anaerobic Glycolysis]
-- [[Z-012-0010|Pyruvic Acid — Glycolysis Gateway]
+- [[Lactic_Acid_Anaerobic_Glycolysis_Z-012-0009|Lactic Acid — Anaerobic Glycolysis]
+- [[Pyruvic_Acid_Glycolysis_Gateway_Z-012-0010|Pyruvic Acid — Glycolysis Gateway]
 
 source-litnote: Synthesized from clinical practice
 ---

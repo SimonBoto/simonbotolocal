@@ -55,8 +55,8 @@ source-anchor: "#source"  # Link to source section
 ### 2. DOWN — Zettel Extraction
 ```yaml
 zettel-anchors:
-  - "[[Z-001-0583A|Nintedanib Overview]] #zettel-1"
-  - "[[Z-001-0583B|FGFR Mechanism]] #zettel-2"
+  - "[[Nintedanib_Drug_Overview_Framework_Z-001-0583A|Nintedanib Overview]] #zettel-1"
+  - "[[FGFR_Inhibition_Mechanism_Framework_Z-001-0583B|FGFR Mechanism]] #zettel-2"
 zettel-count: 6
 ```
 

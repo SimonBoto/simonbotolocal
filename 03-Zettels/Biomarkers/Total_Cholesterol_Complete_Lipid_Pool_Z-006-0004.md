@@ -213,9 +213,9 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[Cholesterol_Lipid_Panel_[B-006-0001].md|Cholesterol Panel Guide]
-- [[Z-006-0001|LDL Cholesterol — Low-Density Lipoprotein]
-- [[Z-006-0002|HDL Cholesterol — High-Density Lipoprotein]
-- [[Z-006-0005|ApoB — Apolipoprotein B]
+- [[LDL_Cholesterol_Low-Density_Lipoprotein_Z-006-0001|LDL Cholesterol — Low-Density Lipoprotein]
+- [[HDL_Cholesterol_High-Density_Lipoprotein_Z-006-0002|HDL Cholesterol — High-Density Lipoprotein]
+- [[ApoB_Apolipoprotein_B_Atherogenic_Particles_Z-006-0005|ApoB — Apolipoprotein B]
 
 source-litnote: Synthesized from clinical practice
 ---

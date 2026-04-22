@@ -420,8 +420,8 @@ This dramatic shift contributes to:
 ## Related Files
 - [[B-006-0002|Free Fatty Acids Panel — Biomarker Guide]
 - [[S-001-0005|Omega Fatty Acids Framework]
-- [[Z-001-1192|Beta-Oxidation Mitochondrial Fatty Acid Breakdown]
-- [[Z-001-1194|Carnitine Shuttle Fatty Acid Transport]
+- [[Beta_Oxidation_Mitochondrial_Fatty_Acid_Breakdown_Z-001-1192|Beta-Oxidation Mitochondrial Fatty Acid Breakdown]
+- [[Carnitine_Shuttle_Fatty_Acid_Transport_System_Z-001-1194|Carnitine Shuttle Fatty Acid Transport]
 
 ---
 *Complete extraction from extended clinical guide — 2026-03-31*

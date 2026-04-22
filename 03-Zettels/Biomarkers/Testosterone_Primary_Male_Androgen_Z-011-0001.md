@@ -246,8 +246,8 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[Male_Hormones_[B-011-0001]|Male Hormones Family Guide]
-- [[Z-011-0002|Free Testosterone — Active Androgen]
-- [[Z-011-0003|SHBG — Sex Hormone Binding Globulin]
+- [[DHEA-S_Adrenal_Androgen_Precursor_Z-011-0002|Free Testosterone — Active Androgen]
+- [[Estradiol_Primary_Female_Estrogen_Z-011-0003|SHBG — Sex Hormone Binding Globulin]
 
 source-litnote: Synthesized from clinical practice
 ---

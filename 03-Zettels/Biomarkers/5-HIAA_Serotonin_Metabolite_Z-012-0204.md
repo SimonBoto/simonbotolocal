@@ -191,7 +191,7 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]
-- [[Z-012-0201|HVA — Homovanillic Acid, Dopamine Metabolite]
+- [[Homovanillic_Acid_HVA_Dopamine_Marker_Z-012-0201|HVA — Homovanillic Acid, Dopamine Metabolite]
 
 source-litnote: Synthesized from clinical practice
 ---

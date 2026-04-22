@@ -219,8 +219,8 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[CBC_[B-001-0001].md|CBC Comprehensive Guide]
-- [[Z-001-1002|Hematocrit — RBC Volume Fraction]
-- [[Z-003-0001|Ferritin — Iron Storage]
+- [[Hematocrit_RBC_Volume_Fraction_Z-001-1002|Hematocrit — RBC Volume Fraction]
+- [[Ferritin_Iron_Storage_Systemic_Status_Z-003-0001|Ferritin — Iron Storage]
 
 source-litnote: Synthesized from clinical practice
 ---

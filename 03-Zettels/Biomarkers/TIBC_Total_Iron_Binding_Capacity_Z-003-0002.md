@@ -112,7 +112,7 @@ source-litnote: Synthesized from clinical practice
 ### For Elevated TIBC (Iron Deficiency)
 
 **Address iron deficiency:**
-- See [[Z-003-0001|Ferritin] interventions
+- See [[Ferritin_Iron_Storage_Systemic_Status_Z-003-0001|Ferritin] interventions
 - TIBC will normalize as iron status improves
 
 ### For Reduced TIBC
@@ -206,9 +206,9 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Z-003-0001|Ferritin — Iron Storage]
-- [[Z-003-0003|Transferrin Saturation]
-- [[Z-003-0004|Serum Iron]
+- [[Ferritin_Iron_Storage_Systemic_Status_Z-003-0001|Ferritin — Iron Storage]
+- [[Transferrin_Saturation_Functional_Iron_Z-003-0003|Transferrin Saturation]
+- [[Serum_Iron_Circulating_Availability_Z-003-0004|Serum Iron]
 - [[Iron_Family_[B-003-0001]|Iron Studies Family Guide]
 
 source-litnote: Synthesized from clinical practice

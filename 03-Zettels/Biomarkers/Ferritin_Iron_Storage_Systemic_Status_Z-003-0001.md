@@ -378,11 +378,11 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Iron Studies Family Guide]
-- [[Z-003-0002|TIBC — Total Iron Binding Capacity]
-- [[Z-003-0003|Transferrin Saturation]
-- [[Z-003-0004|Serum Iron]
-- [[Z-002-0001|CRP — C-Reactive Protein]
-- [[Z-010-0001|TSH — Thyroid Stimulating Hormone]
+- [[TIBC_Total_Iron_Binding_Capacity_Z-003-0002|TIBC — Total Iron Binding Capacity]
+- [[Transferrin_Saturation_Functional_Iron_Z-003-0003|Transferrin Saturation]
+- [[Serum_Iron_Circulating_Availability_Z-003-0004|Serum Iron]
+- [[CRP_C_Reactive_Protein_Inflammation_Z-002-0001|CRP — C-Reactive Protein]
+- [[TSH_Thyroid_Stimulating_Hormone_Z-010-0001|TSH — Thyroid Stimulating Hormone]
 - [[B-012-0002|Isocitrate — Fe-S Cluster Marker]
 
 source-litnote: Synthesized from clinical practice

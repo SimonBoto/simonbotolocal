@@ -185,7 +185,7 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]
-- [[Z-005-0004|HOMA-IR — Insulin Resistance Index]
+- [[HOMA-IR_Insulin_Resistance_Index_Z-005-0004|HOMA-IR — Insulin Resistance Index]
 
 source-litnote: Synthesized from clinical practice
 ---

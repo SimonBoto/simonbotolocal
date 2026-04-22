@@ -211,8 +211,8 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[Kidney_Function_[B-008-0001]|Kidney Function Guide]
-- [[Z-008-0001|Creatinine — Muscle Metabolite]
-- [[Z-005-0001|Glucose — Blood Sugar]
+- [[Creatinine_Muscle_Metabolite_Kidney_Function_Z-008-0001|Creatinine — Muscle Metabolite]
+- [[Thyroid_Optimal_Ranges_Z-005-0001|Glucose — Blood Sugar]
 
 source-litnote: Synthesized from clinical practice
 ---

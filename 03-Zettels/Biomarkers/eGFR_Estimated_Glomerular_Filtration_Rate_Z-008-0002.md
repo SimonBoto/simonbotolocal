@@ -224,8 +224,8 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[Kidney_Function_[B-008-0001]|Kidney Function Family Guide]
-- [[Z-008-0001|Creatinine — Muscle Metabolite]
-- [[Z-008-0003|BUN — Blood Urea Nitrogen]
+- [[Creatinine_Muscle_Metabolite_Kidney_Function_Z-008-0001|Creatinine — Muscle Metabolite]
+- [[BUN_Blood_Urea_Nitrogen_Z-008-0003|BUN — Blood Urea Nitrogen]
 
 source-litnote: Synthesized from clinical practice
 ---

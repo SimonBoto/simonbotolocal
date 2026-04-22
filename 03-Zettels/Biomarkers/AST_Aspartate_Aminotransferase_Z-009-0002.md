@@ -236,9 +236,9 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[Liver_Function_[B-009-0001]|Liver Function Family Guide]
-- [[Z-009-0001|ALT — Alanine Aminotransferase]
-- [[Z-009-0003|ALP — Alkaline Phosphatase]
-- [[Z-009-0004|GGT — Gamma-Glutamyl Transferase]
+- [[ALT_Alanine_Aminotransferase_Z-009-0001|ALT — Alanine Aminotransferase]
+- [[ALP_Alkaline_Phosphatase_Z-009-0003|ALP — Alkaline Phosphatase]
+- [[GGT_Gamma-Glutamyl_Transferase_Z-009-0004|GGT — Gamma-Glutamyl Transferase]
 
 source-litnote: Synthesized from clinical practice
 ---

@@ -155,7 +155,7 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[CBC_[B-001-0001].md|CBC Comprehensive Guide]
-- [[Z-001-1003|MCV — Mean Corpuscular Volume]
+- [[MCV_Mean_Corpuscular_Volume_Z-001-1003|MCV — Mean Corpuscular Volume]
 
 source-litnote: Synthesized from clinical practice
 ---

@@ -231,8 +231,8 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[Lipid_Ratios_[B-006-0001]|Lipid Ratios Family Guide]
-- [[Z-006-0001|LDL Cholesterol — Low-Density Lipoprotein]
-- [[Z-006-0002|HDL Cholesterol — High-Density Lipoprotein]
+- [[LDL_Cholesterol_Low-Density_Lipoprotein_Z-006-0001|LDL Cholesterol — Low-Density Lipoprotein]
+- [[HDL_Cholesterol_High-Density_Lipoprotein_Z-006-0002|HDL Cholesterol — High-Density Lipoprotein]
 
 source-litnote: Synthesized from clinical practice
 ---

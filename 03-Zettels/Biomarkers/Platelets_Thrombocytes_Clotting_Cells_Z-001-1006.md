@@ -218,8 +218,8 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[CBC_[B-001-0001].md|CBC Comprehensive Guide]
-- [[Z-001-1007|PDW — Platelet Distribution Width]
-- [[Z-003-0001|Ferritin — Iron Storage]
+- [[PDW_Platelet_Distribution_Width_Z-001-1007|PDW — Platelet Distribution Width]
+- [[Ferritin_Iron_Storage_Systemic_Status_Z-003-0001|Ferritin — Iron Storage]
 
 source-litnote: Synthesized from clinical practice
 ---

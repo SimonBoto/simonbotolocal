@@ -130,7 +130,7 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[Free_Fatty_Acids_Complete_[REF-FFA-001].md|Fatty Acids Reference]
-- [[Z-006-0102|EPA — Eicosapentaenoic Acid]
+- [[Eicosapentaenoic_Acid_EPA_Omega-3_Z-006-0102|EPA — Eicosapentaenoic Acid]
 
 ---
 *Complete biomarker foundation — DHA*

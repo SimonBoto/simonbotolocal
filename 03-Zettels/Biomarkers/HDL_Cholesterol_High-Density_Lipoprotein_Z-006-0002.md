@@ -223,8 +223,8 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[Lipid_Ratios_[B-006-0001]|Lipid Ratios Family Guide]
-- [[Z-006-0001|LDL Cholesterol — Low-Density Lipoprotein]
-- [[Z-006-0003|Triglycerides — Lipid Energy]
+- [[LDL_Cholesterol_Low-Density_Lipoprotein_Z-006-0001|LDL Cholesterol — Low-Density Lipoprotein]
+- [[Triglycerides_Lipid_Energy_Storage_Z-006-0003|Triglycerides — Lipid Energy]
 
 source-litnote: Synthesized from clinical practice
 ---

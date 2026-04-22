@@ -252,9 +252,9 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[Liver_Function_[B-009-0001]|Liver Function Family Guide]
-- [[Z-009-0001|ALT — Alanine Aminotransferase]
-- [[Z-009-0002|AST — Aspartate Aminotransferase]
-- [[Z-009-0003|ALP — Alkaline Phosphatase]
+- [[ALT_Alanine_Aminotransferase_Z-009-0001|ALT — Alanine Aminotransferase]
+- [[AST_Aspartate_Aminotransferase_Z-009-0002|AST — Aspartate Aminotransferase]
+- [[ALP_Alkaline_Phosphatase_Z-009-0003|ALP — Alkaline Phosphatase]
 
 source-litnote: Synthesized from clinical practice
 ---

@@ -189,8 +189,8 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[CBC_[B-001-0001].md|CBC Comprehensive Guide]
-- [[Z-001-1001|Hemoglobin — Oxygen Transport]
-- [[Z-003-0001|Ferritin — Iron Storage]
+- [[Hemoglobin_Oxygen_Transport_Protein_Z-001-1001|Hemoglobin — Oxygen Transport]
+- [[Ferritin_Iron_Storage_Systemic_Status_Z-003-0001|Ferritin — Iron Storage]
 
 ---
 *Complete biomarker foundation — Reticulocytes*

@@ -190,8 +190,8 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[Cholesterol_Lipid_Panel_[B-006-0001].md|Lipid Panel]
-- [[Z-006-0005|ApoB — Apolipoprotein B]
-- [[Z-006-0001|LDL Cholesterol]
+- [[ApoB_Apolipoprotein_B_Atherogenic_Particles_Z-006-0005|ApoB — Apolipoprotein B]
+- [[LDL_Cholesterol_Low-Density_Lipoprotein_Z-006-0001|LDL Cholesterol]
 
 ---
 *Complete biomarker foundation — LDL-P*

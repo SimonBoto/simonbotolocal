@@ -195,8 +195,8 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Thyroid Panel Family Guide]
-- [[Z-010-0004|Anti-TPO — Thyroid Peroxidase Antibodies]
-- [[Z-010-0001|TSH — Thyroid Stimulating Hormone]
+- [[Anti-TPO_Thyroid_Peroxidase_Antibodies_Z-010-0004|Anti-TPO — Thyroid Peroxidase Antibodies]
+- [[TSH_Thyroid_Stimulating_Hormone_Z-010-0001|TSH — Thyroid Stimulating Hormone]
 
 source-litnote: Synthesized from clinical practice
 ---

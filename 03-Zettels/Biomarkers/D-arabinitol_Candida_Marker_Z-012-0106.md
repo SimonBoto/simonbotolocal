@@ -127,7 +127,7 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]
-- [[Z-012-0109|Orotic Acid — Candida/Pyrimidine]
+- [[Orotic_Acid_Candida_Pyrimidine_Z-012-0109|Orotic Acid — Candida/Pyrimidine]
 
 ---
 *Complete biomarker foundation — D-arabinitol*

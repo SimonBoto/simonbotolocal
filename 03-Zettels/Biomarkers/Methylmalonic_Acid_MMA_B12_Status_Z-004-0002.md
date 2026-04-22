@@ -219,8 +219,8 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Methylation Family Guide]
-- [[Z-004-0001|Homocysteine — Methylation Marker]
-- [[Z-001-0002|MCV — Mean Corpuscular Volume]
+- [[Homocysteine_Methylation_Cardiovascular_Risk_Z-004-0001|Homocysteine — Methylation Marker]
+- [[Insulin_Hormone_Structure_Z-001-0002|MCV — Mean Corpuscular Volume]
 
 source-litnote: Synthesized from clinical practice
 ---

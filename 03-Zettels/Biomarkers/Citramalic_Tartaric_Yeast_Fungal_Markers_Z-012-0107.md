@@ -127,7 +127,7 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]
-- [[Z-012-0106|D-arabinitol — Candida Marker]
+- [[D-arabinitol_Candida_Marker_Z-012-0106|D-arabinitol — Candida Marker]
 
 ---
 *Complete biomarker foundation — Citramalic & Tartaric Acids*

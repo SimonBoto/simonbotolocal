@@ -218,8 +218,8 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Methylation Family Guide]
-- [[Z-004-0001|Homocysteine — Methylation Marker]
-- [[Z-004-0003|Vitamin B12 (Serum) — Cobalamin Status]
+- [[Homocysteine_Methylation_Cardiovascular_Risk_Z-004-0001|Homocysteine — Methylation Marker]
+- [[Vitamin_B12_Serum_Cobalamin_Status_Z-004-0003|Vitamin B12 (Serum) — Cobalamin Status]
 
 source-litnote: Synthesized from clinical practice
 ---

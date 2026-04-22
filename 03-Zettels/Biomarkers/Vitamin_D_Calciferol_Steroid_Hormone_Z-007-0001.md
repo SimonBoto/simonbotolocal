@@ -242,8 +242,8 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[Vitamin_D_Calcium_Family_[B-007-0001]|Vitamin D-Calcium Family Guide]
-- [[Z-007-0002|PTH — Parathyroid Hormone]
-- [[Z-009-0003|ALP — Alkaline Phosphatase]
+- [[PTH_Parathyroid_Hormone_Calcium_Regulator_Z-007-0002|PTH — Parathyroid Hormone]
+- [[ALP_Alkaline_Phosphatase_Z-009-0003|ALP — Alkaline Phosphatase]
 
 source-litnote: Synthesized from clinical practice
 ---

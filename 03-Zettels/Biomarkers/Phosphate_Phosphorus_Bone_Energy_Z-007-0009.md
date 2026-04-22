@@ -204,9 +204,9 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Z-007-0003|Calcium — Mineral, Bone & Signaling]
-- [[Z-007-0002|PTH — Parathyroid Hormone]
-- [[Z-007-0001|Vitamin D — Calciferol]
+- [[Calcium_Mineral_Bone_Signaling_Z-007-0003|Calcium — Mineral, Bone & Signaling]
+- [[PTH_Parathyroid_Hormone_Calcium_Regulator_Z-007-0002|PTH — Parathyroid Hormone]
+- [[Vitamin_D_Calciferol_Steroid_Hormone_Z-007-0001|Vitamin D — Calciferol]
 
 ---
 *Complete biomarker foundation — Phosphate*
