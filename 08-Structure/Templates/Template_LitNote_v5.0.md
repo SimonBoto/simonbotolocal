@@ -11,6 +11,7 @@ journal: "[Journal Name]"
 doi: "[DOI or N/A]"
 pmid: "[PMID or N/A]"
 pmcid: "[PMCID or N/A]"
+source-reference: "[[Author_Year_Title_R-XXX-XXXX]]"  # REQUIRED: Link to canonical Reference note
 tier: [GOLD|SILVER|BRONZE]
 relevance: "[High/Medium/Low - brief context]"
 status: [complete|draft|pending]
@@ -50,6 +51,7 @@ tags:
 ## 🔼 Source Anchor
 > **Origin:** [[INBOX-Source-Name]] #source  
 > **Conversation:** [[CGPT_XXXX_Topic_CGPT-XXXX]] #source-lit  
+> **Canonical Reference:** [[Author_Year_Title_R-XXX-XXXX]] #reference  
 > **Date:** [Extraction Date]
 
 ---
@@ -126,6 +128,8 @@ tags:
 - [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
 - [x] Zettel anchors linked — Each concept has #zettel-N?
 - [x] Reference anchors linked — Each citation has #ref-N?
+- [x] Source-reference in YAML — Links to canonical Reference note?
+- [x] Source-reference in BODY — Obsidian graph connection exists?
 - [x] QMD duplicate check completed — In vault
 - [ ] RON review pending — ALWAYS leave unchecked
 
