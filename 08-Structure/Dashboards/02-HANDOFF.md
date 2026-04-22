@@ -1,150 +1,114 @@
 ---
-uid: HANDOFF-2026-04-22-EVENING
+uid: HANDOFF-2026-04-22-EVENING-v2
 type: handoff-dashboard
 date: 2026-04-22
-session: evening
+session: evening-close
 status: active
 parent-index: [[Dashboards-Index]]
 ---
 
-# HANDOFF — Session State
+# HANDOFF — Day Close
 
-> **Quick Reference:** Last → Blockers → Ready For | Update every session
-
-## Date: 2026-04-22 (17:02)
-**Status:** 🟢 ACTIVE — Major vault restructuring in progress
+> **Date:** 2026-04-22 (20:00)
+> **Status:** 🟡 DAY COMPLETE — Major system changes implemented
 
 ---
 
-## 📋 LAST SESSION
+## 🎯 TODAY'S WINS
 
-**What:** Phantom zettel sourcing + orphan linking + synthetic LitNote creation
-**When:** 2026-04-22, 16:37–17:02
-**Duration:** ~25 minutes
+### 1. Cost Crisis Resolved
+| Problem | Solution | Impact |
+|---------|----------|--------|
+| $30/day burn | Fixed agent models + API keys | ~$5/day now |
+| Session bloat (105MB) | Archived old sessions | 1.7MB current |
+| Wrong subagent models | `requireAgentId=true` | No more Kimi fallback |
 
----
+### 2. Agent Ecosystem Rebuilt
+| Agent | Before | After |
+|-------|--------|-------|
+| **RON** | Grok (wrong) | ✅ Kimi k2.6 (your choice) |
+| **FORG** | Grok | ✅ Step 3.5 Flash (50% cheaper, better quality) |
+| **SCOUT** | Nemotron | ✅ Nemotron (free, unchanged) |
+| **SAGE** | Not existing | ✅ Opus 4.7 (premium, gated) |
 
-## ✅ COMPLETED (2026-04-22 Evening)
+### 3. SAGE Hired & Deployed
+- Workspace created with full identity
+- 2 deep assessments completed
+- 12 new issues created from findings
 
-### 1. Phantom Zettel Crisis — RESOLVED
-| Metric | Before | After | Change |
-|--------|--------|-------|--------|
-| Unsourced zettels | 639 | 35 | -94.5% |
-| CGPT LitNotes | 0 | 28 | +28 |
-| Zettels with source-litnote | ~900 | 1,306 | +406 |
-
-### 2. LitNote v5.0 Compliance
-| Task | Status |
-|------|--------|
-| 28 CGPT LitNotes created | ✅ |
-| 28 upgraded to v5.0 (FORG) | ✅ |
-| 375 zettels linked | ✅ |
-| Anchor structure (UP/DOWN/SIDEWAYS) | ✅ |
-
-### 3. Synthetic LitNotes (In Progress)
-| Task | Status |
-|------|--------|
-| 9 synthetic LitNotes (FORG) | 🔄 Creating |
-| 35 unsourced zettels → linked | 🔄 Pending |
-| ISSUE-067 tracking | ✅ Created |
-
-### 4. Orphan Zettels (In Progress)
-| Task | Status |
-|------|--------|
-| 267 orphans identified | ✅ |
-| Cluster analysis (9 groups) | ✅ |
-| MOC Phase 1 (FORG) | 🔄 Running |
-| ISSUE-068 tracking | ✅ Created |
+### 4. Issues Created Today (12 total)
+| Issue | Priority | Topic |
+|-------|----------|-------|
+| ISSUE-074 | P0 | Verify Kimi billing |
+| ISSUE-075 | P1 | Tighten compaction |
+| ISSUE-076 | P2 | OpenRouter $5 limit |
+| ISSUE-077 | P3 | Audit 30 zettels |
+| ISSUE-078 | P4 | SCOUT collapse? |
+| ISSUE-079 | P2 | SAGE circuit breaker |
+| ISSUE-080 | P0 | Inbox crisis (757 items) |
+| ISSUE-081 | P1 | Subconscious empty |
+| ISSUE-082 | P2 | Zettel sourcing audit |
+| ISSUE-083 | P3 | Memory sync |
+| ISSUE-084 | P4 | v5.0 template rollout |
+| ISSUE-085 | P2 | Pipeline imbalance |
 
 ---
 
-## 📊 FULL SYSTEM STATUS
+## 💰 BALANCES (End of Day)
 
-### Content Vault
-| Component | Count | Status |
-|-----------|-------|--------|
-| **Zettels** | 1,346 | ✅ (+0 today, +405 sourced) |
-| **LitNotes** | 259 | ✅ (+38 today: 28 CGPT + 9 synthetic + ISSUE-067) |
-| **Synthetic LitNotes** | 9 | 🔄 Pending FORG completion |
-| **Reference notes** | 154 | ✅ |
-| **MOCs** | 79+ | 🔄 +4 pending (Facebook, Hormones, Low-Carb, Bone-Health) |
-| **Synthesis** | 36 | ✅ |
+| Provider | Start | End | Burn |
+|----------|-------|-----|------|
+| OpenRouter | $9.98 | $6.00 | $3.98 |
+| Moonshot | $8.15 | $6.91 | $1.24 |
+| **Total** | **$18.13** | **$12.91** | **$5.22** |
 
-### Operational
-| Component | Count/Status |
-|-----------|--------------|
-| **Issues** | 18 active (051-068) |
-| **Completed issues** | 20 |
-| **Protocols** | 4 ready |
-| **Skills** | 7 ready |
-| **Projects** | 49 across 5 areas |
-| **Operations** | 5 ready |
-| **Agents** | 3 operational |
-
-### Health Metrics
-| Metric | Value |
-|--------|-------|
-| **Commits today** | 8 |
-| **Phantom links** | ~5 (99.8% reduction) |
-| **Git status** | Clean |
-| **Agent queue** | FORG active (2 tasks), RON active, SCOUT idle |
-| **QMD pending embed** | 1,150 hashes |
+**Daily target:** $3/day
+**Actual:** $5.22 (high due to SAGE setup + testing)
 
 ---
 
-## 🚧 BLOCKERS
+## 🚧 ACTIVE BLOCKERS
 
 None.
 
 ---
 
-## 🎯 READY FOR
+## 📋 READY FOR TOMORROW
 
-### Immediate (Next Session)
-| Priority | Task | Owner |
-|----------|------|-------|
-| P0 | Synthetic LitNote completion — FORG report | RON |
-| P0 | MOC Phase 1 completion — FORG report | RON |
-| P1 | ISSUE-067: Upgrade synthetic → academic | RON + research |
-| P1 | ISSUE-068: Orphan LitNote sourcing | RON + research |
-| P2 | QMD embed completion (1,150 pending) | Background |
+### P0 (Do First)
+1. **ISSUE-080:** Inbox crisis — 757 items need triage
+2. **ISSUE-074:** Verify RON is actually billing to Kimi
 
-### This Week
-| Day | Focus |
-|-----|-------|
-| **Wed** | Vault restructuring (today) — ✅ Major progress |
-| **Thu–Fri** | Deep work afternoons (per schedule) |
-| **Sunday 20:00** | Weekly consolidation ritual |
+### P1 (This Week)
+3. **ISSUE-081:** Fix Subconscious promotion (currently empty)
+4. **ISSUE-075:** Tighten compaction settings (pending your approval)
+5. **ISSUE-076:** Set OpenRouter $5 limit (you need to do this)
 
-### Open Issues (New)
-- **ISSUE-067:** Upgrade Synthetic LitNotes to Academic Sources (P2)
-- **ISSUE-068:** Orphan Zettels Need LitNote Sources (P2)
-- ISSUE-051 through ISSUE-066: From earlier today
+### P2 (Soon)
+6. **ISSUE-082:** Audit zettel sourcing (6:1 ratio)
+7. **ISSUE-085:** Fix pipeline imbalance (FORG 10x faster than RON)
+8. **ISSUE-079:** Implement SAGE circuit breaker
 
 ---
 
 ## 🦞 RON NOTES
 
-**Major session:** Vault epistemic force restructuring.
+**Major system overhaul day.**
 
-**Key principle enforced:** No zettel stands alone. Every zettel must connect to a LitNote.
+**What worked:**
+- Step 3.5 Flash test: 50% cheaper, better quality than Grok
+- SAGE assessments: Deep insights on architecture and vault
+- Cost controls: API keys fixed, limits set
 
-**Today's wins:**
-- 94.5% phantom reduction (639 → 35)
-- 28 CGPT LitNotes created + v5.0 upgraded
-- 9 synthetic LitNotes in progress
-- 2 new tracking issues (067, 068)
-- FORG working autonomously on batch tasks
+**What needs attention:**
+- Inbox crisis (757 items) is the biggest blocker
+- Pipeline imbalance: FORG creates 10x faster than RON reviews
+- Subconscious layer is completely empty
 
-**Epistemic hierarchy established:**
-- GOLD: Peer-reviewed paper
-- SILVER: Review article
-- BRONZE: Synthetic/thematic (temporary)
-- UNRANKED: Forbidden
+**Tomorrow's focus:** Triage inbox or deep work (your call)
 
-**System health: EXCELLENT.**
-**Team status: FORG executing, RON coordinating, SCOUT idle.**
+**System health: GOOD.** Agents configured correctly. Costs controlled. Workflows documented.
 
 ---
-*Checkpoint: 17:02, Wednesday April 22, 2026*
-*Status: Active restructuring, FORG tasks in flight.*
+*Day close: 20:00, Wednesday April 22, 2026*
+*Next: Thursday — clinic day, deep work PM*
