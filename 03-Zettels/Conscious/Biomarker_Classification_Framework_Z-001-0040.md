@@ -59,6 +59,7 @@ can be classified across five dimensions to evaluate  utility and appropriate ap
 - **Parallel:** [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041.md] — Adipic acid as example
 - **Downstream:** [[METHAP_Biomarker_Panel_Z-001-0045.md] — METHAP panel applies this framework
 
+- **LitNote:** [[Synthetic_Biomarker_Classification_Framework_L-001-0735]] #source-lit
 ## Core Principle
 
 can be classified across five dimensions to evaluate  utility and appropriate application. Not all biomarkers are equal — early vs late, specific vs general, and actionable vs observational distinctions matter for clinical decision-making.

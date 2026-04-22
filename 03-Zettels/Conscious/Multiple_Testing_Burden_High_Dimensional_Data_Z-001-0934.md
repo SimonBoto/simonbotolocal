@@ -195,3 +195,7 @@ Many "discoveries" in omics fail to replicate because:
 
 ---
 parent-index: [[03-Zettels-Conscious]]
+
+## Source
+
+- **LitNote:** [[Synthetic_Omics_Methods_Statistics_L-001-0732]] #source-lit

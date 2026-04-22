@@ -74,6 +74,7 @@ Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and 
 - **Parallel:** l_Dysfunction_IR_Z-001-0030.md] — Oxidative stress activates same pathways
 - **Downstream:** [[Vicious_Cycle_Inflammation_IR_Z-001-0038.md] — Vicious cycle: inflammation ↔ IR
 
+- **LitNote:** [[Synthetic_Insulin_Resistance_Pathophysiology_L-001-0730]] #source-lit
 ## Mechanism
 
 Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and free fatty acids), triggering NF-κB nuclear translocation and NLRP3 inflammasome activation.

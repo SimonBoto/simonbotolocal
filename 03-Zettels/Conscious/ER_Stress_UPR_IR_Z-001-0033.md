@@ -58,6 +58,7 @@ Metabolic overload creates endoplasmic reticulum stress when protein synthesis d
 - **Parallel:** [[Inflammatory_Signaling_IR_Z-001-0031.md] — Shared JNK activation pathway
 - **Downstream:** [[Compensatory_IR_Stage_Z-001-0034.md] — Compensatory hyperinsulinemia
 
+- **LitNote:** [[Synthetic_Insulin_Resistance_Pathophysiology_L-001-0730]] #source-lit
 ## Core Principle
 
 Metabolic overload creates endoplasmic reticulum stress when protein synthesis demand and lipid synthesis exceed ER capacity, coupled with calcium dysregulation. This triggers the Unfolded Protein Response (UPR).

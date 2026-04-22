@@ -102,6 +102,7 @@ If 80% of disease risk comes from **environmental modulation of phenotype**, the
 - **Parallel/Related:**  — Mechanism of environmental influence
 - **Downstream/Consequence:**  — VD as modifiable factor
 
+- **LitNote:** [[Synthetic_Omics_Methods_Statistics_L-001-0732]] #source-lit
 ## Core Principle
 
 **Critical Statistic:** 80% of chronic and autoimmune diseases are linked to environmental factors.

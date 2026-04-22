@@ -33,6 +33,7 @@ Insulin stimulates glucose uptake by triggering translocation of GLUT4 glucose t
 ## Source
 Test zettel created for ISSUE-010
 
+- **LitNote:** [[Synthetic_Insulin_Signaling_Cascade_L-001-0733]] #source-lit
 ## Connections
 - [[IRS1_Phosphorylation_Signal_Transduction_Z-001-5101]]
 - [[Insulin_Resistance_Mechanisms_Z-001-0004]]

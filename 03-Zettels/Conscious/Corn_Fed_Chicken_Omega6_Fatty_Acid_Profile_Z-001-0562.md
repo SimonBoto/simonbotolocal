@@ -141,3 +141,7 @@ Chickens fed predominantly on corn and grain-based diets accumulate significantl
 
 ---
 parent-index: [[03-Zettels-Conscious]]
+
+## Source
+
+- **LitNote:** [[Synthetic_Poultry_Fatty_Acid_Composition_L-001-0731]] #source-lit

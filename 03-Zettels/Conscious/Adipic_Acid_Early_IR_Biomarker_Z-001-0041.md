@@ -65,6 +65,7 @@ Adipic acid (hexanedioic acid) is a urinary organic acid marker indicating impai
 - **Parallel:** [[BCAAs_IR_Risk_Z-001-0042.md] — BCAAs as complementary marker
 - **Downstream:** [[METHAP_Biomarker_Panel_Z-001-0045.md] — Included in METHAP panel
 
+- **LitNote:** [[Synthetic_Adipic_Acid_Clinical_Relevance_L-001-0734]] #source-lit
 ## Core Principle
 
 Adipic acid (hexanedioic acid) is a urinary organic acid marker indicating impaired beta-oxidation of fatty acids. Elevated levels signal mitochondrial dysfunction and lipotoxicity before glucose abnormalities appear.

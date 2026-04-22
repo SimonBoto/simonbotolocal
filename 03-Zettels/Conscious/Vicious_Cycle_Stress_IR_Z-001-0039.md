@@ -69,6 +69,7 @@ Chronic stress (psychological or physiological) activates the HPA axis, elevatin
 - **Parallel:** [[Vicious_Cycle_IR_Obesity_Z-001-0037.md], _IR_Z-001-0038.md] — Other vicious cycles
 - **Downstream:**  — Interventions
 
+- **LitNote:** [[Synthetic_Insulin_Resistance_Pathophysiology_L-001-0730]] #source-lit
 ## Core Principle
 
 Chronic stress (psychological or physiological) activates the HPA axis, elevating cortisol. Cortisol increases gluconeogenesis and promotes visceral fat redistribution, both driving  resistance.

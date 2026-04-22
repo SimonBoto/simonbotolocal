@@ -166,3 +166,7 @@ rejected, corrected, _, _ = multipletests(p_values, alpha=0.1, method='fdr_bh')
 
 ---
 parent-index: [[03-Zettels-Conscious]]
+
+## Source
+
+- **LitNote:** [[Synthetic_Omics_Methods_Statistics_L-001-0732]] #source-lit

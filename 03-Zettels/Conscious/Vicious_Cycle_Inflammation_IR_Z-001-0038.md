@@ -65,6 +65,7 @@ Inflammatory cytokines (TNF-α, IL-6) trigger IRS-1 serine phosphorylation, bloc
 - **Parallel:** [[Vicious_Cycle_IR_Obesity_Z-001-0037.md], [[Vicious_Cycle_Stress_IR_Z-001-0039.md] — Other vicious cycles
 - **Downstream:**  — Interventions
 
+- **LitNote:** [[Synthetic_Insulin_Resistance_Pathophysiology_L-001-0730]] #source-lit
 ## Core Principle
 
 Inflammatory cytokines (TNF-α, IL-6) trigger IRS-1 serine phosphorylation, blocking  signaling and creating insulin resistance. The resulting IR produces adipokine dysregulation (↓adiponectin, dysfunctional leptin) that generates more inflammation.

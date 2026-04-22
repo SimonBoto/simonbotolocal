@@ -139,6 +139,7 @@ Microbiomics studies the microbiome — the complete set of microbial genes and 
 - **Parallel/Related:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md] — Environmental factor (diet) shapes microbiome
 - **Downstream/Consequence:** [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903]] — Mechanism of environmental disease drivers
 
+- **LitNote:** [[Synthetic_Omics_Methods_Statistics_L-001-0732]] #source-lit
 ## Core Principle
 
 Microbiomics studies the microbiome — the complete set of microbial genes and molecules produced by the microorganisms inhabiting the human body. The gut microbiome functions as a **metabolic organ** interacting with host physiology.

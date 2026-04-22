@@ -93,3 +93,7 @@ Also bind oxalate, though less clinically significant than calcium.
 
 ---
 parent-index: [[03-Zettels-Conscious]]
+
+## Source
+
+- **LitNote:** [[Synthetic_Oxalate_Metabolism_L-001-0729]] #source-lit

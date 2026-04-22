@@ -63,6 +63,7 @@ Immune cell function is regulated by metabolic state. Pro-inflammatory cells (M1
 - **Parallel:** [[Metformin_AMPK_mTOR_Immunometabolism_Z-101-0002.md] — Metformin modulates metabolism
 - **Downstream:** [[Vicious_Cycle_Inflammation_IR_Z-001-0038.md] — Inflammation → IR vicious cycle
 
+- **LitNote:** [[Synthetic_Immunometabolism_L-001-0736]] #source-lit
 ## Core Principle
 
 Immune cell function is regulated by metabolic state. Pro-inflammatory cells (M1 macrophages, activated T-cells) rely on aerobic glycolysis (the Warburg effect), while anti-inflammatory cells (M2 macrophages, regulatory T-cells) use oxidative phosphorylation. This metabolic dichotomy offers therapeutic targets.

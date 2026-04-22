@@ -85,6 +85,7 @@ title: Methotrexate Low-Dose Mechanism via Adenosine
 - **Parallel:** [[Metformin_AMPK_mTOR_Immunometabolism_Z-101-0002.md] — Also activates AMPK
 - **Downstream:** , 
 
+- **LitNote:** [[Synthetic_Immunometabolism_L-001-0736]] #source-lit
 ## Mechanism
 
 title: Methotrexate Low-Dose Mechanism via Adenosine

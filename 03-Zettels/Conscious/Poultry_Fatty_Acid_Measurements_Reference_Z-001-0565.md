@@ -189,3 +189,7 @@ To achieve 4:1 ratio with this poultry intake:
 
 ---
 parent-index: [[03-Zettels-Conscious]]
+
+## Source
+
+- **LitNote:** [[Synthetic_Poultry_Fatty_Acid_Composition_L-001-0731]] #source-lit

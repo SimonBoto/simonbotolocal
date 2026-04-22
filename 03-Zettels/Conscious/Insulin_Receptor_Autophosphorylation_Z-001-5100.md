@@ -33,6 +33,7 @@ The insulin receptor undergoes autophosphorylation on tyrosine residues upon ins
 ## Source
 Test zettel created for ISSUE-010
 
+- **LitNote:** [[Synthetic_Insulin_Signaling_Cascade_L-001-0733]] #source-lit
 ## Connections
 - [[Insulin_Signaling_Pathway_Z-001-0001]]
 - [[IRS1_Phosphorylation_Z-001-0002]]

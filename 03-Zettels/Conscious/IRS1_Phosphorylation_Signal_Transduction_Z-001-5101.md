@@ -33,6 +33,7 @@ IRS1 (Insulin Receptor Substrate 1) serves as the primary docking protein linkin
 ## Source
 Test zettel created for ISSUE-010
 
+- **LitNote:** [[Synthetic_Insulin_Signaling_Cascade_L-001-0733]] #source-lit
 ## Connections
 - [[Insulin_Receptor_Autophosphorylation_Z-001-5100]]
 - [[PI3K_Akt_Pathway_Z-001-0003]]

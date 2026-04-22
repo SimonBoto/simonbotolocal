@@ -65,6 +65,7 @@ Beta-cell mass becomes insufficient to maintain glycemic control, resulting in a
 - **Parallel:** [[HOMA_IR_Late_Marker_Z-001-0043.md] — HbA1c finally becomes abnormal (late marker)
 - **Downstream:**  — Complications management
 
+- **LitNote:** [[Synthetic_Insulin_Resistance_Pathophysiology_L-001-0730]] #source-lit
 ## Core Principle
 
 Beta-cell mass becomes insufficient to maintain glycemic control, resulting in absolute  deficiency relative to the degree of . This is the end-stage of untreated or poorly managed insulin resistance.

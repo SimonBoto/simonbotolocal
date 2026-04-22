@@ -170,3 +170,7 @@ The fatty acid composition of egg yolks is **directly determined by the hen's di
 
 ---
 parent-index: [[03-Zettels-Conscious]]
+
+## Source
+
+- **LitNote:** [[Synthetic_Poultry_Fatty_Acid_Composition_L-001-0731]] #source-lit

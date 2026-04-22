@@ -56,6 +56,7 @@ Mitochondrial overload from chronic nutrient excess creates oxidative stress whe
 - **Parallel:** [[Inflammatory_Signaling_IR_Z-001-0031.md] —  amplifies oxidative stress
 - **Downstream:** [[Compensatory_IR_Stage_Z-001-0034.md] — Compensatory IR develops
 
+- **LitNote:** [[Synthetic_Insulin_Resistance_Pathophysiology_L-001-0730]] #source-lit
 ## Core Principle
 
 Mitochondrial overload from chronic nutrient excess creates oxidative stress when reactive oxygen species (ROS) production exceeds antioxidant capacity. This damages mitochondrial DNA and impairs electron transport chain function.

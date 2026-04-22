@@ -65,6 +65,7 @@ resistance creates hyperinsulinemia as beta-cells attempt compensation. Elevated
 - **Parallel:** _IR_Z-001-0038.md], [[Vicious_Cycle_Stress_IR_Z-001-0039.md] — Other vicious cycles
 - **Downstream:**  — Why diets fail
 
+- **LitNote:** [[Synthetic_Insulin_Resistance_Pathophysiology_L-001-0730]] #source-lit
 ## Core Principle
 
 resistance creates hyperinsulinemia as beta-cells attempt compensation. Elevated insulin promotes fat storage (lipogenesis) and inhibits lipolysis, driving weight gain.

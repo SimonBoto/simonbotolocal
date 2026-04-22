@@ -171,3 +171,7 @@ When chicken fat exceeds **36% omega-6 fatty acids** (common in corn-fed birds):
 
 ---
 parent-index: [[03-Zettels-Conscious]]
+
+## Source
+
+- **LitNote:** [[Synthetic_Poultry_Fatty_Acid_Composition_L-001-0731]] #source-lit

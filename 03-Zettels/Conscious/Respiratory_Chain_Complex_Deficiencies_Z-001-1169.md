@@ -96,3 +96,5 @@ Neuronal death (high energy demand)
 ---
 
 *Z-001-1169 | Created: 2026-04-21 | Status: Conscious*
+
+- **LitNote:** [[Synthetic_Respiratory_Chain_Complex_Deficiencies_L-001-0737]] #source-lit

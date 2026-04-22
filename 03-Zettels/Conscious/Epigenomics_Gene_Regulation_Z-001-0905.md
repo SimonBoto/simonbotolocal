@@ -107,6 +107,7 @@ Epigenomics studies changes in gene function through epigenetic factors that mod
 - **Parallel/Related:** [[Transcriptomics_mRNA_Expression_Z-001-0006.md] — Output of epigenetic regulation
 - **Downstream/Consequence:** [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903]] — Mechanism of environmental impact
 
+- **LitNote:** [[Synthetic_Omics_Methods_Statistics_L-001-0732]] #source-lit
 ## Core Principle
 
 Epigenomics studies changes in gene function through epigenetic factors that modify the genome **without altering the DNA base sequence**. This is the molecular mechanism linking environment to gene expression.

@@ -124,6 +124,7 @@ Transcriptomics studies the complete set of transcription products (RNAs) in an 
 - **Parallel/Related:** [[Genomics_Structure_Function_Genome_Z-001-0904]] — Source of transcripts
 - **Downstream/Consequence:** [[Proteomics_Protein_Function_Z-001-0007.md] — What RNA produces
 
+- **LitNote:** [[Synthetic_Omics_Methods_Statistics_L-001-0732]] #source-lit
 ## Core Principle
 
 Transcriptomics studies the complete set of transcription products (RNAs) in an organism — the transcriptome. This represents the **first step of gene expression**, where genetic information flows from DNA to functional molecules.
