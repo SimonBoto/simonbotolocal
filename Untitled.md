@@ -11,3 +11,5 @@ Token for the bot SimonBotoLocal @SimonLocalbot has been revoked. New token is:
 
 8484256230:AAFQ3bY9WZUoSvBVxFUtLeBjObZjxZFacOM
 
+KIMI 
+sk-ZdFdZ97I1aHwdaZ8I3MzJLs6M9U7wq9CG4SxVUnFHmKmbg99

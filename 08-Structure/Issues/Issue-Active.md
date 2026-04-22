@@ -36,6 +36,7 @@ date: 2026-04-21
 | 11:26 | Config restored from backup |
 | 12:03 | ISSUE-021 created — Bootstrap truncation fix |
 | 12:16 | ISSUE-021 completed — Core files split to READMEs |
+| 11:40 | ISSUE-045 to ISSUE-050 created — K2.6 Exploitation Plan |
 
 ## Blocked
 

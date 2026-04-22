@@ -18,6 +18,7 @@ date: 2026-04-21
 |----|-------|----------|--------|---------|-------|
 | ISSUE-014 | Process 5 P0 Inbox Items — Triangle v2.0 Synthesis | RON | 2h / $1.50 | 2026-04-21 | Synthesis-ready inputs |
 | ISSUE-015 | FORG Zettel Sprint — 25 P0 LitNotes | FORG | 4h / $1.00 | 2026-04-21 | Zero zettels, high value |
+| ISSUE-045 | K2.6 Agent Swarm Orchestration — Parallel FORG Processing | RON | 4h / $1.50 | 2026-04-22 | 5× throughput, 77 LitNotes |
 
 ## P1 — Next Up
 
@@ -30,6 +31,8 @@ date: 2026-04-21
 | ISSUE-016 | PhD Parallel Work — 10 GOLD Refs + 2 P1 Hypotheses | RON | 6h / $2.00 | 2026-04-21 | No university dependency |
 | ISSUE-017 | AutoResearch Pilot — Design program-RON.md | RON | 3h / $1.00 | 2026-04-21 | Karpathy + CORAL pattern |
 | ISSUE-019 | CGPT Reservoir — Process 671 Pending Conversations | FORG+SCOUT+RON | 40h / $10.00 | 2026-04-21 | Major backlog, needs ISSUE-017 |
+| ISSUE-046 | K2.6 Autonomous Night Shift — 24/7 Batch Processing | RON | 6h / $2.00 | 2026-04-22 | 10-15 LitNotes/night |
+| ISSUE-047 | K2.6 CGPT AutoResearch — Autonomous Knowledge Extraction | RON+SCOUT+FORG | 10h / $3.50 | 2026-04-22 | 671 CGPT conversations |
 
 ## P2 — Soon
 
@@ -40,6 +43,9 @@ date: 2026-04-21
 | ISSUE-025 | Obsidian OpenClaw Plugin/Pipeline | RON | 8h / $2.00 | 2026-04-21 | Research phase |
 | ISSUE-027 | Zettelkasten AI Suggestions | RON | 4h / $1.50 | 2026-04-21 | QMD vectors ready |
 | ISSUE-020 | Orphan Zettel Reconnection — 312 Orphans | RON | 4h / $1.50 | 2026-04-21 | Deferred, non-blocking |
+| ISSUE-048 | K2.6 Self-Healing Vault — Autonomous Maintenance | RON | 6h / $2.00 | 2026-04-22 | Daily health checks |
+| ISSUE-049 | K2.6 Intelligent Synthesis Engine — Continuous Insight | RON | 10h / $3.50 | 2026-04-22 | 3-5 candidates/week |
+| ISSUE-050 | K2.6 Multi-Modal Paper Processing — Figure/Table Extraction | RON | 12h / $4.00 | 2026-04-22 | 30% more info/paper |
 
 ## Icebox — Maybe Never
 
@@ -53,10 +59,10 @@ date: 2026-04-21
 
 | Metric | Count |
 |--------|-------|
-| Total issues | 14 |
-| P0 | 2 |
-| P1 | 7 |
-| P2 | 5 |
+| Total issues | 20 |
+| P0 | 3 |
+| P1 | 9 |
+| P2 | 8 |
 | Icebox | 0 |
 | Completed (this week) | 2 |
 
