@@ -184,6 +184,23 @@ with SharedMemory() as mem:
     print(f"{len(pending)} extractions ready for review")
 ```
 
+### Auto-Index to QMD (Critical)
+
+After every 2 extractions AND at end of batch:
+
+```bash
+# Index new files to QMD
+cd ~/Workspaces/TheOptimizedBrain
+qmd index
+
+# Verify searchable
+qmd search "topic you just extracted"
+```
+
+**Why:** New zettels must be searchable by morning.
+**When:** Every 2 extractions + end of batch.
+**Cost:** ~5 seconds per index.
+
 ---
 
 ## Success Metrics
