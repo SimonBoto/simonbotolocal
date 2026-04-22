@@ -37,7 +37,8 @@ SCOUT idle. No night shift autonomous extraction.
 - [14:48] **SCOUT queue created** — 671 conversations prioritized ✅
 - [14:48] **FORG program created** — program-RON.md extraction protocol ✅
 - [14:48] **Night shift scheduled** — 00:00-06:00, 10 conversations/night ✅
-- [ ] Test 3-agent loop end-to-end (tonight)
+- [14:59] **Night shift ACTIVATED** — Batch-001 queued for tonight ✅
+- [ ] Morning review: validate Batch-001 output (tomorrow 08:00)
 
 ## Blockers
 None — all infrastructure ready
