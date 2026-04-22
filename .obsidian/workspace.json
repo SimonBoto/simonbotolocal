@@ -11,13 +11,10 @@
             "id": "64120ee807f0bd00",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "08-Structure/Dashboards/Vault_Inventory.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Vault_Inventory"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -200,6 +197,21 @@
   },
   "active": "3defb34dd9bafdc5",
   "lastOpenFiles": [
+    "07-Projects/Tools/Vault_Inventory.base",
+    "07-Projects/Tools/OpenClaw-Obsidian-Integration.md",
+    "07-Projects/NOTE-CONNECTIVITY.md",
+    "07-Projects/CONNECTIVITY-TRACKING.md",
+    "07-Projects/New-Agent-Hiring-Protocol.md",
+    "07-Projects/CHECKLIST-PreFlight.md",
+    "09-Archive/YAML-INVALID.md",
+    "09-Archive/PHANTOM-LINKS-CURRENT.md",
+    "09-Archive/MISSING-FIELDS.md",
+    "09-Archive/LITNOTE-ZETTEL-CONNECTIONS-UPDATED.md",
+    "07-Projects/Agents/FORG/FORG-ZETTEL-EXTRACTION-GUIDE.md",
+    "07-Projects/Agents/FORG/FORG-PILOT-003-RESULTS.md",
+    "07-Projects/Agents/FORG/FORG-PILOT-003-ANALYSIS.md",
+    "07-Projects/Agents/FORG/FORG-PILOT-002-RESULTS.md",
+    "09-Archive/00-MISSION_v2_draft.md",
     "07-Projects/Weekly-Consolidation-Ritual.md",
     "07-Projects/Agents/FORG/FORG-LINK-PROTOCOL.md",
     "07-Projects/Skills/CGPT_EXTRACTION_PROTOCOL_v2.0.md",
@@ -211,21 +223,6 @@
     "09-Archive/FORG-Briefs/FORG-BRIEF-0046.md",
     "09-Archive/FORG-Briefs/FORG-BRIEF-0045.md",
     "09-Archive/FORG-Briefs/FORG-BRIEF-0044.md",
-    "09-Archive/FORG-Briefs/FORG-BRIEF-0043.md",
-    "09-Archive/FORG-Briefs/FORG-BRIEF-0042.md",
-    "09-Archive/FORG-Briefs/FORG-BRIEF-0041.md",
-    "09-Archive/FORG-Briefs/FORG-BRIEF-0040.md",
-    "09-Archive/FORG-Briefs/FORG-BRIEF-0039.md",
-    "09-Archive/FORG-Briefs/FORG-BRIEF-0038.md",
-    "09-Archive/FORG-Briefs/FORG-BRIEF-0037.md",
-    "09-Archive/FORG-Briefs/FORG-BRIEF-0036.md",
-    "09-Archive/FORG-Briefs/FORG-BRIEF-0035.md",
-    "09-Archive/FORG-Briefs/FORG-BRIEF-0034.md",
-    "09-Archive/FORG-Briefs/FORG-BRIEF-0033.md",
-    "09-Archive/FORG-Briefs/FORG-BRIEF-0032.md",
-    "09-Archive/FORG-Briefs/FORG-BRIEF-0031.md",
-    "09-Archive/FORG-Briefs/FORG-BRIEF-0030.md",
-    "09-Archive/FORG-Briefs/FORG-BRIEF-0029.md",
     "09-Archive/FORG-Briefs",
     "08-Structure/Archive/FORG-Briefs",
     "08-Structure/Archive",
