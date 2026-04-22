@@ -11,10 +11,24 @@
             "id": "64120ee807f0bd00",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04-Synthesis/Vault-Wide-Patterns_S-001-0022.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Vault-Wide-Patterns_S-001-0022"
             }
           }
         ]
@@ -195,8 +209,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3defb34dd9bafdc5",
+  "active": "64120ee807f0bd00",
   "lastOpenFiles": [
+    "04-Synthesis/X-Post-First-Synthesis_S-001-0021.md",
     "04-Synthesis/Vault-Wide-Patterns_S-001-0022.md",
     "08-Structure/Issues/Issue-056.md",
     "08-Structure/Issues/Issue-054.md",
@@ -230,7 +245,6 @@
     "09-Archive/PROJECT-AutoResearch-Knowledge.md",
     "09-Archive/PROJECT-The-Triangle-v2.0-Superoptimization.md",
     "09-Archive/PROJECT-Zettel-v4-Update.md",
-    "09-Archive/PROJECT-LitNote-v4-Update.md",
     "07-Projects/Standards",
     "07-Projects/Operations",
     "07-Projects/Tools/Vault_Inventory.base",
