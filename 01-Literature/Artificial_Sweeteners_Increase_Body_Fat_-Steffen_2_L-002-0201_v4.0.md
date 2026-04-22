@@ -6,13 +6,13 @@ title: "Artificial Sweeteners Increase Body Fat (Steffen 2023, CARDIA)"
 aliases:
   - "L-002-0201"
   - "Artificial-Sweeteners-Body-Fat"
-source-inbox: 
-source-litnote: 
+source-inbox: "[[INBOX-Article-20-Artificial-Sweeteners]]"
+source-litnote: ""
 
 # ANCHOR SYSTEM v5.0 — Connection Tracking
 anchors:
   up:
-    source-inbox: " #source"
+    source-inbox: "[[INBOX-Article-20-Artificial-Sweeteners]] #source"
     source-litnote: " #source-lit"
   down:
     zettels:
@@ -22,7 +22,7 @@ anchors:
     count: 3
   sideways:
     references:
-      - " #ref-1"
+      - "[[Steffen_2023_CARDIA_Artificial_Sweeteners_R-002-0003]] #ref-1"
     count: 1
 authors: "Steffen BT, Jacobs DR, Yi D, et al."
 year: "2023"
@@ -67,19 +67,19 @@ Long-term artificial sweetener consumption (aspartame, saccharin) is associated 
 ### 1. Artificial Sweeteners Increase Visceral Fat Accumulation
 - **Claim:** Artificial sweetener intake — including aspartame, saccharin, and diet beverages — is associated with increased visceral adipose tissue (VAT) accumulation over 25 years, representing a dangerous increase in metabolically active fat that drives cardiovascular and metabolic disease risk.
 - **Evidence:** CARDIA study of 3,088 adults demonstrates dose-response relationship between long-term artificial sweetener consumption and CT-measured visceral fat volumes; association persists after adjustment for calories, diet quality, and BMI — indicating direct metabolic effects.
-- **Reference:**  — cited as (Steffen et al., 2023)
+- **Reference:** [[Steffen_2023_CARDIA_Artificial_Sweeteners_R-002-0003]] — cited as (Steffen et al., 2023)
 - **Zettel:** [[Artificial_Sweeteners_Visceral_Fat_Accumulation_Z-002-0741]]
 
 ### 2. Aspartame and Saccharin Effects Independent of Calories
 - **Claim:** The association between artificial sweeteners (aspartame, saccharin) and increased body fat is independent of total calorie intake, diet quality, and BMI — challenging the "calories in, calories out" model and suggesting alternative metabolic mechanisms (gut microbiome, insulin signaling, appetite dysregulation).
 - **Evidence:** Statistical adjustment for calories, diet quality, and BMI does not eliminate the association between sweetener intake and fat accumulation; zero-calorie sweeteners produce metabolic effects that promote fat storage despite absence of caloric content.
-- **Reference:**  — cited as (Steffen et al., 2023)
+- **Reference:** [[Steffen_2023_CARDIA_Artificial_Sweeteners_R-002-0003]] — cited as (Steffen et al., 2023)
 - **Zettel:** [[Aspartame_Saccharin_Independent_Calories_Fat_Z-002-0742]]
 
 ### 3. Diet Soda Paradox — Zero Calories But Weight Gain
 - **Claim:** The "diet soda paradox" — consumption of zero-calorie diet beverages is associated with weight gain and increased body fat, not weight loss, suggesting that metabolic and behavioral effects of artificial sweeteners override the calorie reduction benefit.
 - **Evidence:** Long-term observational data consistently shows diet beverage consumers have higher BMI and more metabolic dysfunction than non-consumers; potential mechanisms include disrupted gut microbiome, impaired glucose tolerance, increased cravings for sweet foods, and compensatory overeating.
-- **Reference:**  — cited as (Steffen et al., 2023)
+- **Reference:** [[Steffen_2023_CARDIA_Artificial_Sweeteners_R-002-0003]] — cited as (Steffen et al., 2023)
 - **Zettel:** [[Diet_Soda_Paradox_Weight_Gain_Z-002-0743]]
 
 ---

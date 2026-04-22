@@ -45,11 +45,16 @@ topic: artificial-sweeteners, aspartame, saccharin, body-fat, visceral-fat, CARD
 
 ## Key References
 - Steffen BT, et al. Int J Obes (Lond), 2023. PMID: 37443272
+- Reference: [[Steffen_2023_CARDIA_Artificial_Sweeteners_R-002-0003]]
+- LitNote: [[Artificial_Sweeteners_Increase_Body_Fat_-Steffen_2_L-002-0201_v4.0]]
 
 ## Extraction Status
 - [x] SPARK check: Artificial sweetener zettels exist; 25-year longitudinal data is NEW
 - [x] Priority: P0 (counter-intuitive finding — diet products cause fat gain)
-- [x] LitNote: [[L-002-0201_Artificial_Sweeteners_Increase_Body_Fat]]
-- [x] Zettels: 3 zettels (Z-002-0741 to Z-002-0743)
-- [x] Reference note: R-002-0041 (to be created)
+- [x] LitNote: [[Artificial_Sweeteners_Increase_Body_Fat_-Steffen_2_L-002-0201_v4.0]]
+- [x] Zettels: 3 zettels
+  - [[Artificial_Sweeteners_Visceral_Fat_Accumulation_Z-002-0741]]
+  - [[Aspartame_Saccharin_Independent_Calories_Fat_Z-002-0742]]
+  - [[Diet_Soda_Paradox_Weight_Gain_Z-002-0743]]
+- [x] Reference note: [[Steffen_2023_CARDIA_Artificial_Sweeteners_R-002-0003]]
 - [x] MOC: [[MOC-Metabolic-Syndrome]]

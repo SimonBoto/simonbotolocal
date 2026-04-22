@@ -8,10 +8,12 @@ status: conscious
 tags: [zettel, diet-soda, paradox, weight-gain, obesity]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
-source-litnote: "[[L-002-0201_Artificial_Sweeteners_Increase_Body_Fat]]"
+source-litnote: "[[Artificial_Sweeteners_Increase_Body_Fat_-Steffen_2_L-002-0201_v4.0]]"
 extraction-date: 2026-04-15
-source-reference: "[[Steffen_2023_Artificial_Sweeteners_CARDIA_R-002-0041]]"
-related: []
+source-reference: "[[Steffen_2023_CARDIA_Artificial_Sweeteners_R-002-0003]]"
+related:
+  - "[[Artificial_Sweeteners_Visceral_Fat_Accumulation_Z-002-0741]]"
+  - "[[Aspartame_Saccharin_Independent_Calories_Fat_Z-002-0742]]"
 ---
 
 # Diet Soda Paradox: Associated with Weight Gain

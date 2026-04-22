@@ -20,7 +20,7 @@ Steffen BT, Jacobs DR Jr, Yi SY, et al. Long-term aspartame and saccharin intake
 
 ## Source
 - **Primary source:** International Journal of Obesity
-- **Citation extracted from:** Facebook Posts Collection, Article 20 (L-002-0201)
+- **Citation extracted from:** Facebook Posts Collection, Article 20 ([[INBOX-Article-20-Artificial-Sweeteners]])
 - **DOI:** 10.1038/s41366-023-01336-y
 - **PMID:** 37443272
 - **URL:** https://www.nature.com/articles/s41366-023-01336-y
@@ -32,12 +32,14 @@ Steffen BT, Jacobs DR Jr, Yi SY, et al. Long-term aspartame and saccharin intake
 
 | Zettel | Claim | Context |
 |--------|-------|---------|
-| TBD | Artificial sweeteners increase visceral, intermuscular, and subcutaneous fat | Metabolic effects of non-nutritive sweeteners |
+| [[Artificial_Sweeteners_Visceral_Fat_Accumulation_Z-002-0741]] | Artificial sweeteners increase visceral fat | Metabolic effects of non-nutritive sweeteners |
+| [[Aspartame_Saccharin_Independent_Calories_Fat_Z-002-0742]] | Effects independent of calories | Challenges calorie model |
+| [[Diet_Soda_Paradox_Weight_Gain_Z-002-0743]] | Diet soda paradox — zero calories but weight gain | Behavioral/metabolic effects |
 
 ---
 
 ## LitNotes Using This Reference
-- `LitNote_Artificial_Sweeteners_Body_Fat_L-XXX-XXXX` — Article 3 (Artificial Sweeteners and Body Fat)
+- [[Artificial_Sweeteners_Increase_Body_Fat_-Steffen_2_L-002-0201_v4.0]] — Article 20 (Artificial Sweeteners and Body Fat)
 
 ---
 
