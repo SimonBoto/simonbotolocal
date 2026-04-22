@@ -34,8 +34,10 @@ SCOUT idle. No night shift autonomous extraction.
 - [14:58] **FORG officially activated** — First employee onboarded ✅
 - [15:00] **SCOUT activated** — Qwen3 Next 80B free model ✅
 - [15:03] SCOUT Workspace v5.0 created
-- [ ] Test 3-agent loop end-to-end
-- [ ] Design night shift schedule
+- [14:48] **SCOUT queue created** — 671 conversations prioritized ✅
+- [14:48] **FORG program created** — program-RON.md extraction protocol ✅
+- [14:48] **Night shift scheduled** — 00:00-06:00, 10 conversations/night ✅
+- [ ] Test 3-agent loop end-to-end (tonight)
 
 ## Blockers
 None — all infrastructure ready
