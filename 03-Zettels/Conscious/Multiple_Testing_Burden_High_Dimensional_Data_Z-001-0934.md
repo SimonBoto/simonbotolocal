@@ -8,6 +8,7 @@ domain-name: Research Methods
 tags: [zettel, statistics, multiple-testing, high-dimensional-data, omics, metabolomics, type-1-error, false-positives]
 parent-moc: [[MOC-Insulin-Signaling]]
 source: "[[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]"
+source-litnote: "[[Synthetic_Omics_Methods_Statistics_L-001-0732]]"
 confidence: high
 created: 2026-03-03
 updated: 2026-03-05

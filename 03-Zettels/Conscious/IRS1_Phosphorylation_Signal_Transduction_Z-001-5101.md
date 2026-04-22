@@ -10,6 +10,7 @@ parent-index: [[03-Zettels-Conscious]]
 parent-moc: [[MOC-Insulin-Signaling]]
 related: []
 status: conscious
+source-litnote: "[[Synthetic_Insulin_Signaling_Cascade_L-001-0733]]"
 ---
 
 # IRS1 Phosphorylation and Signal Transduction

@@ -8,6 +8,7 @@ domain-name: Insulin Signaling
 tags: [zettel, vicious-cycle, stress, cortisol, HPA-axis, IR]
 parent-moc: [[MOC-Insulin-Signaling]]
 source: [[LitNote_IR_Mechanisms_Map_L-001-0005]
+source-litnote: "[[Synthetic_Insulin_Resistance_Pathophysiology_L-001-0730]]"
 confidence: high
 created: 2026-02-24
 ---

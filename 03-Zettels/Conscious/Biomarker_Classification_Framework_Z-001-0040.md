@@ -8,6 +8,7 @@ domain-name: Insulin Signaling
 tags: [zettel, biomarkers, classification, taxonomy, framework]
 parent-moc: [[MOC-Insulin-Signaling]]
 source: [[LitNote_Biomarkers_Taxonomy_L-001-0006]
+source-litnote: "[[Synthetic_Biomarker_Classification_Framework_L-001-0735]]"
 confidence: high
 created: 2026-02-24
 ---

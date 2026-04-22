@@ -8,6 +8,7 @@ domain-name: Pharmacometabolomics
 tags: [zettel, immunometabolism, Warburg-effect, glycolysis, M1-macrophages, M2-macrophages]
 parent-moc: [[MOC-Mitochondrial-Function]]
 source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]
+source-litnote: "[[Synthetic_Immunometabolism_L-001-0736]]"
 confidence: high
 created: 2026-02-24
 ---

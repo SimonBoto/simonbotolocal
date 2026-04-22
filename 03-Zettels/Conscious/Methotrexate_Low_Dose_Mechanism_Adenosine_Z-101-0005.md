@@ -8,6 +8,7 @@ domain-name: Pharmacometabolomics
 tags: [zettel, methotrexate, low-dose, adenosine, AMPK, autoimmunity]
 parent-moc: [[MOC-Vitamin-Metabolism]]
 source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]
+source-litnote: "[[Synthetic_Immunometabolism_L-001-0736]]"
 confidence: high
 created: 2026-02-24
 ---

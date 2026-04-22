@@ -8,6 +8,7 @@ domain-name: Insulin Signaling
 tags: [zettel, adipic-acid, biomarker, early-detection, beta-oxidation, organic-acids]
 parent-moc: [[MOC-Insulin-Signaling]]
 source: [[LitNote_Biomarkers_Taxonomy_L-001-0006]
+source-litnote: "[[Synthetic_Adipic_Acid_Clinical_Relevance_L-001-0734]]"
 confidence: high
 created: 2026-02-24
 extraction-date: 2026-04-21

@@ -1,8 +1,8 @@
 ---
-uid: HANDOFF-2026-04-22-MIDDAY
+uid: HANDOFF-2026-04-22-EVENING
 type: handoff-dashboard
 date: 2026-04-22
-session: midday
+session: evening
 status: active
 parent-index: [[Dashboards-Index]]
 ---
@@ -11,26 +11,50 @@ parent-index: [[Dashboards-Index]]
 
 > **Quick Reference:** Last → Blockers → Ready For | Update every session
 
-## Date: 2026-04-22 (12:33)
-**Status:** 🟡 SESSION CLOSE — Dashboards Updated, FORG Task Complete
+## Date: 2026-04-22 (17:02)
+**Status:** 🟢 ACTIVE — Major vault restructuring in progress
 
 ---
 
 ## 📋 LAST SESSION
 
-**What:** FORG zettel extraction (Z-001-0272), session close prep
-**When:** 2026-04-22, 12:30–12:33
-**Duration:** ~3 minutes
+**What:** Phantom zettel sourcing + orphan linking + synthetic LitNote creation
+**When:** 2026-04-22, 16:37–17:02
+**Duration:** ~25 minutes
 
 ---
 
-## ✅ COMPLETED (2026-04-22 Morning)
+## ✅ COMPLETED (2026-04-22 Evening)
 
-### 1. FORG Zettel Extraction
+### 1. Phantom Zettel Crisis — RESOLVED
+| Metric | Before | After | Change |
+|--------|--------|-------|--------|
+| Unsourced zettels | 639 | 35 | -94.5% |
+| CGPT LitNotes | 0 | 28 | +28 |
+| Zettels with source-litnote | ~900 | 1,306 | +406 |
+
+### 2. LitNote v5.0 Compliance
 | Task | Status |
 |------|--------|
-| Z-001-0272 created | ✅ Written to /tmp/forf-output-Z001-0272.md |
-| Subagent runtime | ✅ 29s, 20.2k tokens |
+| 28 CGPT LitNotes created | ✅ |
+| 28 upgraded to v5.0 (FORG) | ✅ |
+| 375 zettels linked | ✅ |
+| Anchor structure (UP/DOWN/SIDEWAYS) | ✅ |
+
+### 3. Synthetic LitNotes (In Progress)
+| Task | Status |
+|------|--------|
+| 9 synthetic LitNotes (FORG) | 🔄 Creating |
+| 35 unsourced zettels → linked | 🔄 Pending |
+| ISSUE-067 tracking | ✅ Created |
+
+### 4. Orphan Zettels (In Progress)
+| Task | Status |
+|------|--------|
+| 267 orphans identified | ✅ |
+| Cluster analysis (9 groups) | ✅ |
+| MOC Phase 1 (FORG) | 🔄 Running |
+| ISSUE-068 tracking | ✅ Created |
 
 ---
 
@@ -39,16 +63,18 @@ parent-index: [[Dashboards-Index]]
 ### Content Vault
 | Component | Count | Status |
 |-----------|-------|--------|
-| **Zettels** | ~1,631 | ✅ (+1 from FORG) |
-| **LitNotes** | 221 | 100% anchored, 100% YAML valid |
+| **Zettels** | 1,346 | ✅ (+0 today, +405 sourced) |
+| **LitNotes** | 259 | ✅ (+38 today: 28 CGPT + 9 synthetic + ISSUE-067) |
+| **Synthetic LitNotes** | 9 | 🔄 Pending FORG completion |
 | **Reference notes** | 154 | ✅ |
-| **MOCs** | 79 | ✅ |
-| **Synthesis** | 19 | ✅ |
+| **MOCs** | 79+ | 🔄 +4 pending (Facebook, Hormones, Low-Carb, Bone-Health) |
+| **Synthesis** | 36 | ✅ |
 
 ### Operational
 | Component | Count/Status |
 |-----------|--------------|
-| **Issues** | 6 active (045-050) |
+| **Issues** | 18 active (051-068) |
+| **Completed issues** | 20 |
 | **Protocols** | 4 ready |
 | **Skills** | 7 ready |
 | **Projects** | 49 across 5 areas |
@@ -58,10 +84,11 @@ parent-index: [[Dashboards-Index]]
 ### Health Metrics
 | Metric | Value |
 |--------|-------|
-| **Commits today** | 1 (K2.6 Exploitation Plan) |
+| **Commits today** | 8 |
 | **Phantom links** | ~5 (99.8% reduction) |
 | **Git status** | Clean |
-| **Agent queue** | FORG/SCOUT idle, RON active |
+| **Agent queue** | FORG active (2 tasks), RON active, SCOUT idle |
+| **QMD pending embed** | 1,150 hashes |
 
 ---
 
@@ -76,40 +103,48 @@ None.
 ### Immediate (Next Session)
 | Priority | Task | Owner |
 |----------|------|-------|
-| P0 | Clinic patient flow — ISSUE-051 | Simos + RON |
-| P0 | PhD ClinicalTrials.gov — ISSUE-052 | Simos + RON |
-| P1 | CGPT backlog pipeline — ISSUE-053 | FORG + RON |
-| P1 | Z-001-0272 integration | RON |
+| P0 | Synthetic LitNote completion — FORG report | RON |
+| P0 | MOC Phase 1 completion — FORG report | RON |
+| P1 | ISSUE-067: Upgrade synthetic → academic | RON + research |
+| P1 | ISSUE-068: Orphan LitNote sourcing | RON + research |
+| P2 | QMD embed completion (1,150 pending) | Background |
 
 ### This Week
 | Day | Focus |
 |-----|-------|
-| **Wed** | K2.6 exploitation, night shift testing |
+| **Wed** | Vault restructuring (today) — ✅ Major progress |
 | **Thu–Fri** | Deep work afternoons (per schedule) |
 | **Sunday 20:00** | Weekly consolidation ritual |
 
-### Open Issues
-- **ISSUE-051:** Clinic Patient Flow Optimization (NEW — P0)
-- **ISSUE-052:** PhD ClinicalTrials.gov Submission (NEW — P0)
-- **ISSUE-053:** CGPT Backlog Processing Pipeline (NEW — P1)
-- ISSUE-045 through ISSUE-050: K2.6 Exploitation Plan (deferred)
-- ISSUE-038: .openclaw cleanup
+### Open Issues (New)
+- **ISSUE-067:** Upgrade Synthetic LitNotes to Academic Sources (P2)
+- **ISSUE-068:** Orphan Zettels Need LitNote Sources (P2)
+- ISSUE-051 through ISSUE-066: From earlier today
 
 ---
 
 ## 🦞 RON NOTES
 
-**Light session:** FORG task completed, dashboards refreshed.
+**Major session:** Vault epistemic force restructuring.
 
-**Key context:**
-- K2.6 model now active (upgraded from k2.5)
-- 6 new issues created for exploitation plan
-- Z-001-0272 pending integration
+**Key principle enforced:** No zettel stands alone. Every zettel must connect to a LitNote.
 
-**System health: GOOD.**
-**Team status: 3 agents, operational.**
-**Next: K2.6 exploitation or your direction.**
+**Today's wins:**
+- 94.5% phantom reduction (639 → 35)
+- 28 CGPT LitNotes created + v5.0 upgraded
+- 9 synthetic LitNotes in progress
+- 2 new tracking issues (067, 068)
+- FORG working autonomously on batch tasks
+
+**Epistemic hierarchy established:**
+- GOLD: Peer-reviewed paper
+- SILVER: Review article
+- BRONZE: Synthetic/thematic (temporary)
+- UNRANKED: Forbidden
+
+**System health: EXCELLENT.**
+**Team status: FORG executing, RON coordinating, SCOUT idle.**
 
 ---
-*Checkpoint: 12:33, Wednesday April 22, 2026*
-*Status: Session close, all dashboards updated.*
+*Checkpoint: 17:02, Wednesday April 22, 2026*
+*Status: Active restructuring, FORG tasks in flight.*

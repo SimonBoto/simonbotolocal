@@ -13,6 +13,7 @@ related:
   - [[TFAM_Knockout_Transcription_Failure_Z-001-1168]]
   - [[Mitochondrial_Dynamics_Fusion_Fission_Z-001-1170]]
 status: conscious
+source-litnote: "[[Synthetic_Respiratory_Chain_Complex_Deficiencies_L-001-0737]]"
 ---
 
 # Respiratory Chain Complex Deficiencies — Clinical Phenotypes and Mechanisms

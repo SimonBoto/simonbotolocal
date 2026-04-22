@@ -8,6 +8,7 @@ domain-name: Nutrition
 tags: [zettel, claim, omega-6, omega-3, inflammation, eicosanoids, linoleic-acid, arachidonic-acid]
 parent-moc: [[MOC-Insulin-Signaling]]
 source: "[[LitNote_Omega6_Poultry_Feed_Inflammatory_L-001-0517]"
+source-litnote: "[[Synthetic_Poultry_Fatty_Acid_Composition_L-001-0731]]"
 confidence: high
 created: 2026-03-03
 ---

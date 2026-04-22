@@ -7,6 +7,7 @@ domain: 001
 tags: [zettel, oxalic-acid, dicarboxylic-acid, chemistry, structure]
 parent-moc: [[MOC-Insulin-Signaling]]
 source: [[L-001-0060A]
+source-litnote: "[[Synthetic_Oxalate_Metabolism_L-001-0729]]"
 confidence: high
 created: 2026-03-04
 ---

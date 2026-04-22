@@ -11,24 +11,10 @@
             "id": "64120ee807f0bd00",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-MISSION.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "00-MISSION"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -211,6 +197,19 @@
   },
   "active": "64120ee807f0bd00",
   "lastOpenFiles": [
+    "08-Structure/Issues/Issue-068.md",
+    "08-Structure/Issues/ISSUE-067-Synthetic-LitNote-Upgrade-Tracking.md",
+    "01-Literature/Synthetic_Omics_Methods_Statistics_L-001-0732.md",
+    "01-Literature/Synthetic_Biomarker_Classification_Framework_L-001-0735.md",
+    "01-Literature/Synthetic_Oxalate_Metabolism_L-001-0729.md",
+    "01-Literature/Synthetic_Respiratory_Chain_Complex_Deficiencies_L-001-0737.md",
+    "01-Literature/Synthetic_Poultry_Fatty_Acid_Composition_L-001-0731.md",
+    "01-Literature/Synthetic_Immunometabolism_L-001-0736.md",
+    "01-Literature/Synthetic_Adipic_Acid_Clinical_Relevance_L-001-0734.md",
+    "01-Literature/Synthetic_Insulin_Resistance_Pathophysiology_L-001-0730.md",
+    "01-Literature/Synthetic_Insulin_Signaling_Cascade_L-001-0733.md",
+    "08-Structure/Issues/Issue-067.md",
+    "00-MISSION.md",
     "07-Projects/Tools/update_zettels_to_litnotes.py",
     "01-Literature/CGPT_0384_Darvetou_Ladder_Search_L-001-0728.md",
     "01-Literature/CGPT_0551_Manuscript_Review_Critical_Concerns_L-001-0727.md",
@@ -225,18 +224,6 @@
     "01-Literature/CGPT_0438_Hormone_Scenarios_Normal_vs_Pathological_L-001-0718.md",
     "01-Literature/CGPT_0340_Seed_oils_history_and_process_L-001-0717.md",
     "01-Literature/CGPT_0621_Publishing_Meta-Analysis_Guidelines_L-001-0716.md",
-    "01-Literature/CGPT_0647_ATP_Pathways_Overview_L-001-0715.md",
-    "01-Literature/CGPT_0337_Cholesterol_Study_Reassessment_Overview_L-001-0714.md",
-    "01-Literature/CGPT_0391_Mevalonate_Pathway_Enzymes__Cofactors_L-001-0713.md",
-    "01-Literature/CGPT_0086_Δημόσιοι_υπάλληλοι_συμμετοχή_ΕΕ_L-001-0712.md",
-    "01-Literature/CGPT_0131_Medical_Ethics_Assistance_L-001-0711.md",
-    "01-Literature/CGPT_0281_Seed_Oils_and_Metabolic_Health_L-001-0710.md",
-    "01-Literature/CGPT_0475_Metabolic_Biomarkers_for_Insulin_L-001-0709.md",
-    "01-Literature/CGPT_0370_Protein_and_Kidney_Disease_L-001-0708.md",
-    "01-Literature/CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_L-001-0707.md",
-    "01-Literature/CGPT_0124_Profound_Truths_Revolutionizing_Health_L-001-0706.md",
-    "01-Literature/CGPT_0209_Gastroenterology_Registrar_Assessment_L-001-0705.md",
-    "01-Literature/CGPT_0264_Warburg_Effect_and_Cancer_L-001-0704.md",
     "07-Projects/Tools/batch_create_cgpt_litnotes.py",
     "07-Projects/Agents/SCOUT",
     "Untitled.canvas",
@@ -247,7 +234,6 @@
     "07-Projects/Standards/examples/extraction",
     "07-Projects/Standards/examples/batch-fix",
     "07-Projects/Standards/examples",
-    "07-Projects/Standards",
     "02-References/Assets/Images/2025-12-12_X_Pungao_Seed_Oils_Oxylipins_1.jpg",
     "02-References/Assets/Images/2025-12-13_X_DrWilliamWallac_Vitamin_Functions.jpg",
     "02-References/Assets/Images/2025-12-26_X_BrettBoettcher_Body_Regeneration_Timeline.jpg",
