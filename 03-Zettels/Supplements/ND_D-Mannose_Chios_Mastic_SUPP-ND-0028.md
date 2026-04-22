@@ -17,6 +17,10 @@ target: uti-prevention, urinary-tract-health, antimicrobial
 key_ingredients: [d-mannose, chios-mastiha, cranberry-alternative]
 source_url: https://naturaldoctor.gr/el/catalogue/d-mannose-chios-mastiha-69/
 tags: [d-mannose, uti, urinary-tract, chios-mastiha, antimicrobial]
+clinical_priority: adjunct
+indications: [UTI-prevention, recurrent-UTIs, post-intercourse-UTI-prevention, cystitis]
+contraindications: [active-UTI-with-fever-blood-in-urine-see-physician, severe-kidney-disease]
+drug_interactions: [diabetes-monitor-blood-sugar-minimal-impact]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -99,6 +103,30 @@ Take 2 capsules with water, three times daily (6 total), for up to one week or a
 | Chios mastic | 300 mg | None |
 | Daily cost | €2.33 (acute) | Varies |
 | Evidence | Strong for D-mannose | Moderate for PACs |
+
+## Clinical Indications
+**Primary:** UTI prevention, recurrent UTIs, post-intercourse UTI prevention
+**Secondary:** Cystitis support, urinary tract maintenance
+**Adjunct:** With probiotics (vaginal/urinary flora), cranberry (alternative mechanism), adequate hydration
+
+## Contraindications & Precautions
+- active-UTI-with-fever-blood-in-urine-see-physician
+- severe-kidney-disease
+
+
+## Drug Interactions
+- diabetes-monitor-blood-sugar-minimal-impact
+
+
+
+## Prescribing Logic
+**When to choose this:** Recurrent UTIs, post-intercourse prevention, cystitis support
+**When to choose alternative:** Active infection with fever → antibiotics (see physician); Need cranberry → cranberry PACs
+**Combination notes:** NOT an antibiotic — works preventively. 3g D-mannose for acute. 1g for maintenance. Chios mastiha adds antimicrobial.
+
+## Related Conditions
+- [[Urinary_Tract_Infection_UTI_Z-008-XXXX]] #uti
+- [[E_Coli_UTI_Pathogen_Z-008-XXXX]] #e-coli
 
 ---
 *Catalog created: 2026-03-31*  

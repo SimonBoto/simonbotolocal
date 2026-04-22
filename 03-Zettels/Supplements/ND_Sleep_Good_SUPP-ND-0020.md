@@ -17,6 +17,10 @@ target: sleep-onset, sleep-quality, relaxation
 key_ingredients: [melatonin, tryptophan, theanine, gaba, 5-htp, magnolia, chamomile]
 source_url: https://naturaldoctor.gr/el/catalogue/sleep-good-31/
 tags: [sleep, melatonin, tryptophan, theanine, gaba, 5-htp, relaxation]
+clinical_priority: second-line
+indications: [insomnia, sleep-onset, stress-related-sleep, jet-lag, shift-work]
+contraindications: [pregnancy, depression-on-SSRIs, sedative-medications]
+drug_interactions: [sedatives, antidepressants, benzodiazepines]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -114,6 +118,30 @@ Take 1 capsule 1-2 hours before bedtime or as directed by your physician.
 | 5-HTP | 5 mg | None |
 | Focus | Sleep onset | Daytime stress |
 | Daily cost | €0.57 | €1.05 |
+
+## Clinical Indications
+**Primary:** Insomnia, sleep onset, stress-related sleep issues
+**Secondary:** Jet lag, shift work, general sleep quality
+**Adjunct:** With magnesium, ashwagandha, L-theanine
+
+## Contraindications & Precautions
+- pregnancy
+- depression-on-SSRIs
+- sedative-medications
+
+## Drug Interactions
+- sedatives
+- antidepressants
+- benzodiazepines
+
+## Prescribing Logic
+**When to choose this:** Difficulty falling asleep, stress-related insomnia, jet lag
+**When to choose alternative:** Need stronger melatonin → standalone; Need GABA only → GABA supplement
+**Combination notes:** Multi-pathway sleep support. 1mg melatonin conservative. Caution with antidepressants (serotonin syndrome).
+
+## Related Conditions
+- [[Cortisol_Primary_Stress_Hormone_Z-011-0005]] #cortisol
+- [[Melatonin_Sleep_Hormone_Z-011-0010]] #melatonin
 
 ---
 *Catalog created: 2026-03-31*  

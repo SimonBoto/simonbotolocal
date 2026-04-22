@@ -17,6 +17,10 @@ target: nad-plus-production, cellular-energy, longevity
 key_ingredients: [nicotinamide-riboside, nad-precursor]
 source_url: https://naturaldoctor.gr/el/catalogue/life-energy-70/
 tags: [nad-plus, nicotinamide-riboside, nr, longevity, cellular-energy, anti-aging]
+clinical_priority: second-line
+indications: [healthy-aging, cellular-energy, mitochondrial-health, NAD-depletion, longevity]
+contraindications: [pregnancy, breastfeeding, cancer-active-treatment-consult]
+drug_interactions: [blood-pressure-medications, immunosuppressants]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -106,6 +110,30 @@ Take 1 capsule daily with water or as directed by your physician.
 | Key ingredient | NR 250 mg | Cycloastragenol 16 mg | Fisetin 1500 mg |
 | Best value | ✅ Yes | — | — |
 | Research status | Strong | Emerging | Early |
+
+## Clinical Indications
+**Primary:** Healthy aging, cellular energy, mitochondrial health, NAD+ depletion
+**Secondary:** Longevity protocols, biohacking, general vitality
+**Adjunct:** With resveratrol (SIRT1 activation), exercise, caloric restriction mimetics
+
+## Contraindications & Precautions
+- pregnancy
+- breastfeeding
+- cancer-active-treatment-consult
+
+## Drug Interactions
+- blood-pressure-medications
+- immunosuppressants
+
+
+## Prescribing Logic
+**When to choose this:** Aging concerns, low energy, longevity protocol, mitochondrial dysfunction
+**When to choose alternative:** Budget NAD+ support → Nicotinamide (500mg); Higher dose NR → 500-1000mg products
+**Combination notes:** NR 250mg is moderate. Effects cumulative. Take morning (may affect circadian rhythm). Synergy with resveratrol.
+
+## Related Conditions
+- [[NAD_Plus_Cellular_Energy_Z-001-XXXX]] #nad
+- [[Mitochondrial_Function_Markers_Z-001-XXXX]] #mitochondria
 
 ---
 *Catalog created: 2026-03-31*  

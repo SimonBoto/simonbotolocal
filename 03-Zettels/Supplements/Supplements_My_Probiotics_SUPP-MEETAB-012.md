@@ -15,6 +15,10 @@ target: gut-microbiome, probiotics
 key_ingredients: [probiotics, lactobacillus, bifidobacterium, l-glutamine]
 source_url: https://meetabstore.ch/en/for-the-gut/18-my-probiotics.html
 tags: [probiotics, gut-health, microbiome, immune]
+clinical_priority: first-line
+indications: [gut-dysbiosis, post-antibiotic-recovery, IBS, immune-support, leaky-gut]
+contraindications: [immunocompromised-consult-physician, severe-pancreatitis]
+drug_interactions: [antibiotics-separate-by-2-hours]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -68,6 +72,30 @@ Take 1 capsule daily.
 |-------|------------|-----|----------|
 | 1 capsule | €0.95 | 60 billion | Standard maintenance |
 | 2 capsules | €1.90 | 120 billion | Dysbiosis / post-antibiotic |
+
+## Clinical Indications
+**Primary:** Gut dysbiosis, post-antibiotic recovery, IBS, immune support
+**Secondary:** Leaky gut, bloating, general microbiome support
+**Adjunct:** With L-glutamine (barrier repair), prebiotics, post-antibiotics
+
+## Contraindications & Precautions
+- immunocompromised-consult-physician
+- severe-pancreatitis
+
+
+## Drug Interactions
+- antibiotics-separate-by-2-hours
+
+
+
+## Prescribing Logic
+**When to choose this:** Higher CFU needed (60B), broader strain diversity (35+), post-antibiotic
+**When to choose alternative:** Need enteric coating → 40 Billion Live; Need butyrate → My Postbiotics
+**Combination notes:** Take with food. Refrigerate after opening. Pair with glutamine for barrier support.
+
+## Related Conditions
+- [[Gut_Microbiome_OAT_Markers_Z-001-1064]] #gut-microbiome
+- [[Zonulin_Leaky_Gut_Marker_Z-012-XXXX]] #leaky-gut
 
 ---
 *Catalog created: 2026-02-25*  

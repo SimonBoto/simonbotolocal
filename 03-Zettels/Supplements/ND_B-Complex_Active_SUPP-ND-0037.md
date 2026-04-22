@@ -17,6 +17,10 @@ target: energy-metabolism, nervous-system, methylation
 key_ingredients: [b-complex, methylated-b-vitamins, folate, b12, b6]
 source_url: https://naturaldoctor.gr/el/catalogue/b-complex-active-64/
 tags: [b-complex, methylated, b-vitamins, energy, methylation, active-forms]
+clinical_priority: first-line
+indications: [fatigue, stress, methylation-support, MTHFR-variant, vegan-diet, neuropathy]
+contraindications: [active-cancer-treatment-consult-oncologist]
+drug_interactions: [metformin-B12-depletion, PPIs-B12-depletion, methotrexate-folate-antagonist, levodopa-B6-interaction]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -125,6 +129,30 @@ Take 1 capsule daily or as directed by your physician.
 | Other nutrients | Choline, inositol | 120+ nutrients |
 | Daily cost | €0.42 | €0.57 |
 | Best for | Targeted B support | Comprehensive |
+
+## Clinical Indications
+**Primary:** Fatigue, stress, methylation support, MTHFR variants
+**Secondary:** Neuropathy prevention, homocysteine elevation, vegan/vegetarian diets
+**Adjunct:** With magnesium (B-vitamin cofactor), omega-3 (methylation support)
+
+## Contraindications & Precautions
+- active-cancer-treatment-consult-oncologist
+
+
+
+## Drug Interactions
+- metformin-B12-depletion
+- PPIs-B12-depletion
+- methotrexate-folate-antagonist
+
+## Prescribing Logic
+**When to choose this:** Elevated homocysteine, fatigue, stress, MTHFR variant, vegan diet, on metformin/PPIs
+**When to choose alternative:** Need higher B12 only → B12 Active; Need folate only → methylfolate standalone
+**Combination notes:** Essential pair with magnesium. Morning dosing (energizing).
+
+## Related Conditions
+- [[Homocysteine_Methylation_Cardiovascular_Risk_Z-004-0001]] #homocysteine
+- [[Vitamin_B12_Cobalamin_Z-004-0002]] #b12
 
 ---
 *Catalog created: 2026-03-31*  

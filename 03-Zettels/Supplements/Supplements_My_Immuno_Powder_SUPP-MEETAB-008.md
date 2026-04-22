@@ -18,6 +18,10 @@ target: immune-defense, collagen-support
 key_ingredients: [vitamin-c, lysine, proline, bioflavonoids]
 source_url: https://meetabstore.ch/en/for-defenses/12-my-immuno.html
 tags: [vitamin-c, immune, collagen, cardiovascular, powder]
+clinical_priority: second-line
+indications: [immune-defense, collagen-support, cardiovascular-protection, wound-healing, stress, allergies]
+contraindications: [iron-overload-enhances-absorption, kidney-stones-history-high-dose]
+drug_interactions: [iron-enhances-absorption, chemotherapy-consult, estrogen]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -104,6 +108,30 @@ Take 1/2 scoop daily (1.5g).
 - Cool, dry place
 - Product may harden after opening — normal, break up clumps
 - Seal container tightly
+
+## Clinical Indications
+**Primary:** Immune defense, collagen synthesis, cardiovascular protection (Pauling protocol)
+**Secondary:** Wound healing, stress, allergies, iron absorption enhancement
+**Adjunct:** With bioflavonoids (included), zinc (immune), vitamin D (immune)
+
+## Contraindications & Precautions
+- iron-overload-enhances-absorption
+- kidney-stones-history-high-dose
+
+
+## Drug Interactions
+- iron-enhances-absorption
+- chemotherapy-consult
+- estrogen
+
+## Prescribing Logic
+**When to choose this:** Immune support, collagen needs, cardiovascular protection, flexible dosing preferred
+**When to choose alternative:** Need tablets → My Immuno Tablets (lower dose); Need lower C → Vitamin C Incell
+**Combination notes:** Pauling-Rath protocol: C + lysine + proline. 900mg C per dose. Flexible powder dosing. May harden — normal.
+
+## Related Conditions
+- [[Immune_Function_Markers_Z-001-XXXX]] #immune
+- [[Collagen_Synthesis_Skin_Health_Z-001-XXXX]] #collagen
 
 ---
 *Catalog created: 2026-02-25*  

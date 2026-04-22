@@ -17,6 +17,10 @@ target: senescent-cell-clearance, longevity, antioxidant
 key_ingredients: [fisetin, resveratrol, quercetin, grape-seed-extract]
 source_url: https://naturaldoctor.gr/el/catalogue/senolytics-74/
 tags: [senolytics, fisetin, resveratrol, quercetin, longevity, anti-aging]
+clinical_priority: specialty
+indications: [senescent-cell-clearance, longevity, anti-aging, inflammation-reduction, biohacking]
+contraindications: [pregnancy, breastfeeding, bleeding-disorders, upcoming-surgery]
+drug_interactions: [anticoagulants, antiplatelets, chemotherapy]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -123,6 +127,30 @@ Compounds that selectively clear **senescent cells** ("zombie cells"):
 | Mechanism | Clear senescent cells | Telomerase activation | Cellular protection |
 | Key ingredient | Fisetin 1500 mg | Cycloastragenol 16 mg | Centella 9 mg |
 | Best for | Senescent cell burden | Telomere lengthening | General antioxidant |
+
+## Clinical Indications
+**Primary:** Senescent cell clearance, longevity, anti-aging
+**Secondary:** Inflammation reduction (SASP), cutting-edge aging science
+**Adjunct:** With NAD+ precursors (cellular energy), resveratrol (SIRT1), exercise
+
+## Contraindications & Precautions
+- pregnancy
+- breastfeeding
+- bleeding-disorders
+
+## Drug Interactions
+- anticoagulants
+- antiplatelets
+- chemotherapy
+
+## Prescribing Logic
+**When to choose this:** Longevity enthusiast, biohacker, targeting cellular senescence, intermittent protocol
+**When to choose alternative:** Budget option → fisetin standalone; Need telomerase → Reyouth; Need NAD+ → Life Energy+
+**Combination notes:** Very high doses (fisetin 1500mg, resveratrol 1000mg). Intermittent use common (2-3 days/week). €11.25/day.
+
+## Related Conditions
+- [[Inflammatory_Markers_CRP_IL6_Z-002-XXXX]] #inflammation
+- [[Telomere_Length_Cellular_Aging_Z-001-XXXX]] #telomeres
 
 ---
 *Catalog created: 2026-03-31*  

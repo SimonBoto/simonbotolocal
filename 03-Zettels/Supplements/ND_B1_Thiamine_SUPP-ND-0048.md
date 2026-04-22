@@ -17,6 +17,10 @@ target: nervous-system, energy-metabolism, heart-function
 key_ingredients: [thiamine, vitamin-b1]
 source_url: https://naturaldoctor.gr/el/catalogue/b1-thiamine-77/
 tags: [b1, thiamine, b-vitamin, nervous-system, energy, heart]
+clinical_priority: second-line
+indications: [fatigue, neuropathy, high-carbohydrate-diet, alcohol-related-depletion, beriberi-prevention, diabetes]
+contraindications: [none-significant]
+drug_interactions: [diuretics-increase-excretion, metformin-may-deplete]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -106,6 +110,30 @@ Take 1 capsule daily with water or as directed by your physician.
 | Standalone | Yes | In complex |
 | Daily cost | €0.20 | €0.57 |
 | Best for | Targeted B1 | Comprehensive |
+
+## Clinical Indications
+**Primary:** Fatigue, neuropathy, high carbohydrate diet, alcohol-related depletion
+**Secondary:** Beriberi prevention, diabetes support, heart function, brain energy
+**Adjunct:** With other B-vitamins (B-complex), magnesium (cofactor), alpha-lipoic acid (neuropathy)
+
+## Contraindications & Precautions
+- none-significant
+
+
+
+## Drug Interactions
+- diuretics-increase-excretion
+- metformin-may-deplete
+
+
+## Prescribing Logic
+**When to choose this:** Fatigue, neuropathy, high carb diet, alcohol use, diabetes, beriberi risk
+**When to choose alternative:** Need comprehensive B support → B-Complex Active; Need lower dose → multivitamin
+**Combination notes:** 100mg is very high (9091% NRV). Water-soluble, very safe. Take with food. Alcohol depletes B1.
+
+## Related Conditions
+- [[Neuropathy_Peripheral_Z-001-XXXX]] #neuropathy
+- [[Beriberi_Thiamine_Deficiency_Z-001-XXXX]] #beriberi
 
 ---
 *Catalog created: 2026-03-31*  

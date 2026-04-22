@@ -17,6 +17,10 @@ target: joint-health, cartilage-support, inflammation
 key_ingredients: [uc-ii, msm, glucosamine, niacin]
 source_url: https://naturaldoctor.gr/el/catalogue/anoson-4/
 tags: [joints, uc-ii, msm, glucosamine, cartilage, collagen]
+clinical_priority: specialty
+indications: [osteoarthritis, joint-discomfort, cartilage-protection, athletic-joint-stress]
+contraindications: [shellfish-allergy, pregnancy, breastfeeding]
+drug_interactions: [anticoagulants, diabetes-medications]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -109,6 +113,30 @@ Take 2 capsules daily in the evening or as directed by your physician.
 | Boswellia | None | 300 mg |
 | Daily cost | €2.07 | €0.54 |
 | Mechanism | Collagen/immune | Herbal anti-inflammatory |
+
+## Clinical Indications
+**Primary:** Osteoarthritis, joint discomfort, cartilage protection
+**Secondary:** Athletic joint stress, age-related joint wear
+**Adjunct:** With omega-3 (inflammation), turmeric (inflammation), collagen (structure), glucosamine/chondroitin
+
+## Contraindications & Precautions
+- shellfish-allergy
+- pregnancy
+- breastfeeding
+
+## Drug Interactions
+- anticoagulants
+- diabetes-medications
+
+
+## Prescribing Logic
+**When to choose this:** Osteoarthritis, joint pain, cartilage concerns, UC-II specifically desired
+**When to choose alternative:** Need herbal anti-inflammatory → Turmeric & Ginger; Need collagen → Collagen Peptides+; Budget → My Relief
+**Combination notes:** UC-II 40mg is clinically validated. Shellfish warning (glucosamine). Takes 8-12 weeks. Evening dosing.
+
+## Related Conditions
+- [[Osteoarthritis_Joint_Degeneration_Z-001-XXXX]] #osteoarthritis
+- [[CRP_C-Reactive_Protein_Z-002-0001]] #crp
 
 ---
 *Catalog created: 2026-03-31*  

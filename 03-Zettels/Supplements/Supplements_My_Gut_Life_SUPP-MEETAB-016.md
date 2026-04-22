@@ -15,6 +15,10 @@ target: gut-microbiome, antimicrobial, digestive
 key_ingredients: [black-garlic, cinnamon, olive-leaf, oregano, fennel]
 source_url: https://meetabstore.ch/en/for-the-gut/29-my-gut-life.html
 tags: [gut-health, antimicrobial, herbs, digestive, microbiome]
+clinical_priority: second-line
+indications: [dysbiosis, SIBO-adjunct, candida-overgrowth, bloating, gut-infection-recovery]
+contraindications: [pregnancy-consult, severe-gastritis]
+drug_interactions: [antibiotics, antifungals, probiotics-separate-timing]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -91,6 +95,30 @@ Take 2 tablets daily after meal.
 |-------|------------|----------|
 | 1 tablet | €0.92 | Maintenance |
 | 2 tablets | €1.83 | Therapeutic dose |
+
+## Clinical Indications
+**Primary:** Dysbiosis, SIBO adjunct, Candida overgrowth, bloating
+**Secondary:** Gut infection recovery, general antimicrobial support
+**Adjunct:** With probiotics (rebuild), postbiotics (butyrate), L-glutamine (barrier)
+
+## Contraindications & Precautions
+- pregnancy-consult
+- severe-gastritis
+
+
+## Drug Interactions
+- antibiotics
+- antifungals
+- probiotics-separate-timing
+
+## Prescribing Logic
+**When to choose this:** Suspected dysbiosis, SIBO, Candida, bloating, gut infection recovery
+**When to choose alternative:** Need probiotic → My Probiotics; Need butyrate → My Postbiotics; Need H. pylori → L-Glutamine + Mastiha
+**Combination notes:** Broad antimicrobial herbs. Black garlic, cinnamon, olive leaf, oregano, fennel. Take with food.
+
+## Related Conditions
+- [[Gut_Microbiome_OAT_Markers_Z-001-1064]] #gut-microbiome
+- [[SIBO_Small_Intestinal_Bacterial_Overgrowth_Z-012-XXXX]] #sibo
 
 ---
 *Catalog created: 2026-02-25*  

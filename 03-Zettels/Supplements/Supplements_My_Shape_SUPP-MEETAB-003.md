@@ -17,6 +17,10 @@ target: ideal weight, metabolic syndrome
 key_ingredients: [alpha-lipoic-acid, cinnamon, carnitine, chromium]
 source_url: https://meetabstore.ch/en/for-the-weight/10-my-shape.html
 tags: [weight-management, glucose-control, insulin-sensitivity, metabolic-syndrome]
+clinical_priority: second-line
+indications: [metabolic-syndrome, insulin-resistance, weight-management, type-2-diabetes-adjunct, carbohydrate-metabolism]
+contraindications: [hypoglycemia-risk-with-diabetes-meds, pregnancy, breastfeeding]
+drug_interactions: [diabetes-medications-monitor-glucose, metformin, blood-pressure-medications]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -95,6 +99,30 @@ Take 3 capsules daily.
 - Weight management
 - Carbohydrate metabolism issues
 - Type 2 diabetes support (adjunct)
+
+## Clinical Indications
+**Primary:** Metabolic syndrome, insulin resistance, weight management
+**Secondary:** Type 2 diabetes adjunct, carbohydrate metabolism issues
+**Adjunct:** With berberine (AMPK), chromium (glucose), magnesium (insulin sensitivity)
+
+## Contraindications & Precautions
+- hypoglycemia-risk-with-diabetes-meds
+- pregnancy
+- breastfeeding
+
+## Drug Interactions
+- diabetes-medications-monitor-glucose
+- metformin
+- blood-pressure-medications
+
+## Prescribing Logic
+**When to choose this:** Metabolic syndrome, insulin resistance, weight management, comprehensive metabolic approach
+**When to choose alternative:** Need pure berberine → Berberine Complex; Need lower cost → Healthy Blood Sugar
+**Combination notes:** ALA 375mg + cinnamon 375mg + chromium 150mcg. Good comprehensive metabolic formula. Higher cost (€2/day).
+
+## Related Conditions
+- [[HOMA-IR_Insulin_Resistance_Index_Z-005-0004]] #insulin-resistance
+- [[Metabolic_Syndrome_Z-005-XXXX]] #metabolic-syndrome
 
 ---
 *Catalog created: 2026-02-25*  

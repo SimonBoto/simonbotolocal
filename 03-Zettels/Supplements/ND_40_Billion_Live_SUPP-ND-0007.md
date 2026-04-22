@@ -17,6 +17,10 @@ target: gut-microbiome, digestive-health, immune-support
 key_ingredients: [probiotics, lactobacillus, bifidobacterium, streptococcus-thermophilus]
 source_url: https://naturaldoctor.gr/el/catalogue/probiotics-36/
 tags: [probiotics, gut-health, microbiome, 13-strains, enteric-coated]
+clinical_priority: first-line
+indications: [gut-dysbiosis, post-antibiotic-recovery, IBS, immune-support, bloating, constipation]
+contraindications: [immunocompromised-consult-physician, severe-pancreatitis, central-line]
+drug_interactions: [antibiotics-separate-by-2-hours, antifungals]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -115,6 +119,30 @@ Take 1 capsule daily with main meal or as directed by your physician.
 | Daily cost | €0.97 | €0.95 |
 | Special features | Gradual-release | L-glutamine added, kefir base |
 | Storage | Room temp | Refrigerate after opening |
+
+## Clinical Indications
+**Primary:** Gut dysbiosis, post-antibiotic recovery, IBS, immune support
+**Secondary:** Bloating, constipation, general gut health maintenance
+**Adjunct:** With prebiotics, L-glutamine (gut barrier), post-antibiotics
+
+## Contraindications & Precautions
+- immunocompromised-consult-physician
+- severe-pancreatitis
+- central-line
+
+## Drug Interactions
+- antibiotics-separate-by-2-hours
+- antifungals
+
+
+## Prescribing Logic
+**When to choose this:** Post-antibiotic, IBS symptoms, bloating, frequent infections, poor diet
+**When to choose alternative:** Need higher CFU → My Probiotics (60B); Need postbiotics → My Postbiotics
+**Combination notes:** Take with food. Separate from antibiotics by 2+ hours. Pair with prebiotic fiber.
+
+## Related Conditions
+- [[Gut_Microbiome_OAT_Markers_Z-001-1064]] #gut-microbiome
+- [[Calprotectin_Gut_Inflammation_[B-002-0002]]] #gut-inflammation
 
 ---
 *Catalog created: 2026-03-31*  

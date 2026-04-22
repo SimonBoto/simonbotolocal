@@ -17,6 +17,10 @@ target: inflammation, cardiovascular, brain-health
 key_ingredients: [fish-oil, krill-oil, borage-oil, omega-3-6-9]
 source_url: https://meetabstore.ch/en/for-inflammation/24-my-omega-krill.html
 tags: [omega-3, epa, dha, krill, anti-inflammatory, cardiovascular]
+clinical_priority: second-line
+indications: [inflammation, cardiovascular-health, brain-health, joint-health, skin-conditions, autoimmune-adjunct]
+contraindications: [fish-allergy, shellfish-allergy, bleeding-disorders, upcoming-surgery]
+drug_interactions: [anticoagulants, antiplatelets, blood-pressure-medications]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -104,6 +108,30 @@ Take 2 softgels daily.
 | GLA | Yes (81 mg) | No |
 | Absorption | Higher | Lower |
 | Cost/day | €1.63 | €0.30-1.00 |
+
+## Clinical Indications
+**Primary:** Inflammation, cardiovascular health, brain health
+**Secondary:** Joint health, skin conditions (eczema, psoriasis), autoimmune adjunct, pregnancy DHA
+**Adjunct:** With vitamin D (immune), curcumin (inflammation), GLA (skin)
+
+## Contraindications & Precautions
+- fish-allergy
+- shellfish-allergy
+- bleeding-disorders
+
+## Drug Interactions
+- anticoagulants
+- antiplatelets
+- blood-pressure-medications
+
+## Prescribing Logic
+**When to choose this:** Higher EPA/DHA needed (1156mg), inflammation, premium absorption (phospholipid), astaxanthin desired
+**When to choose alternative:** Budget option → Clear Omega 3; Vegan → algae omega-3; Need higher GLA → add Evening Primrose Oil
+**Combination notes:** Phospholipid-bound omega-3 (better absorption). Astaxanthin prevents oxidation. GLA from borage included.
+
+## Related Conditions
+- [[Inflammatory_Markers_CRP_IL6_Z-002-XXXX]] #inflammation
+- [[Omega_3_Index_RBC_Membrane_Z-006-XXXX]] #omega-3-index
 
 ---
 *Catalog created: 2026-02-25*  

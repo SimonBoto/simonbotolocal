@@ -17,6 +17,10 @@ target: digestion, nutrient-absorption, bloating, enzyme-support
 key_ingredients: [protease, amylase, lipase, bromelain, cellulase, amyloglucosidase]
 source_url: https://naturaldoctor.gr/el/catalogue/easy-digest-30/
 tags: [digestive-enzymes, protease, amylase, lipase, bromelain, digestion]
+clinical_priority: adjunct
+indications: [bloating, indigestion, gas, nutrient-malabsorption, post-gallbladder-surgery, age-related-enzyme-decline]
+contraindications: [acute-pancreatitis, gastric-ulcer-acute]
+drug_interactions: [acarbose-may-interfere, alpha-glucosidase-inhibitors]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -127,6 +131,30 @@ Take 1 capsule before each meal or as directed by your physician.
 | Lipase | 200 mg (10⁴ U/g) | 5 mg (10⁴ FIP/g) |
 | Focus | Digestive support | Multivitamin with enzymes |
 | Daily cost | €0.60-1.80 | €0.57 |
+
+## Clinical Indications
+**Primary:** Bloating, indigestion, gas, nutrient malabsorption
+**Secondary:** Post-gallbladder surgery, age-related enzyme decline, heavy meals
+**Adjunct:** With probiotics (gut flora), betaine HCl (if low stomach acid), bile salts (if gallbladder removed)
+
+## Contraindications & Precautions
+- acute-pancreatitis
+- gastric-ulcer-acute
+
+
+## Drug Interactions
+- acarbose-may-interfere
+- alpha-glucosidase-inhibitors
+
+
+## Prescribing Logic
+**When to choose this:** Digestive discomfort after meals, bloating, gas, nutrient deficiencies, post-cholecystectomy
+**When to choose alternative:** Need HCl → betaine HCl supplement; Need bile → ox bile supplement
+**Combination notes:** Take BEFORE meals. 6 enzymes, high activity. Can open capsule for children. Bromelain has anti-inflammatory use away from food.
+
+## Related Conditions
+- [[Digestive_Enzymes_Pancreatic_Function_Z-009-XXXX]] #digestive-enzymes
+- [[Stool_Analysis_Digestion_Markers_Z-012-XXXX]] #stool-analysis
 
 ---
 *Catalog created: 2026-03-31*  

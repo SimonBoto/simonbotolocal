@@ -17,6 +17,10 @@ target: muscle-recovery, exercise-recovery, immune-support
 key_ingredients: [l-glutamine, amino-acid]
 source_url: https://naturaldoctor.gr/el/catalogue/glutamine-sport-54/
 tags: [glutamine, sport, recovery, exercise, muscle, amino-acid]
+clinical_priority: second-line
+indications: [athletic-recovery, overtraining, immune-support-exercise, muscle-preservation, intense-exercise]
+contraindications: [severe-kidney-disease, liver-disease-advanced]
+drug_interactions: [lactulose, anticonvulsants]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -98,6 +102,30 @@ Take 5 capsules daily or as directed by your physician.
 | Focus | Athletic recovery | Gut health |
 | Daily cost | €1.46 | €0.49-1.47 |
 | Best for | Exercise recovery | Gastric/H. pylori |
+
+## Clinical Indications
+**Primary:** Athletic recovery, overtraining prevention, immune support during exercise
+**Secondary:** Muscle preservation, intense exercise recovery, gut healing
+**Adjunct:** With BCAAs (muscle), creatine (strength), magnesium (recovery)
+
+## Contraindications & Precautions
+- severe-kidney-disease
+- liver-disease-advanced
+
+
+## Drug Interactions
+- lactulose
+- anticonvulsants
+
+
+## Prescribing Logic
+**When to choose this:** Athletes, intense training, overtraining risk, post-workout recovery
+**When to choose alternative:** Need gut-specific → L-Glutamine & Chios Mastiha; Need higher dose → powder form (5-10g)
+**Combination notes:** 3.5g is therapeutic for athletes. Post-workout timing optimal. Also supports gut barrier.
+
+## Related Conditions
+- [[Exercise_Recovery_Z-001-XXXX]] #exercise-recovery
+- [[Overtraining_Syndrome_Z-001-XXXX]] #overtraining
 
 ---
 *Catalog created: 2026-03-31*  

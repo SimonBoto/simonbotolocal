@@ -15,6 +15,10 @@ target: bone-health, vitamin-d, magnesium
 key_ingredients: [magnesium, calcium, vitamin-d3]
 source_url: https://meetabstore.ch/en/for-stress/17-my-calmag.html
 tags: [bone-health, vitamin-d, magnesium, calcium, electrolytes]
+clinical_priority: first-line
+indications: [bone-health, vitamin-d-deficiency, magnesium-deficiency, children, elderly]
+contraindications: [hypercalcemia, severe-kidney-disease]
+drug_interactions: [bisphosphonates-separate, thyroid-medication-separate-by-4-hours]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -71,6 +75,30 @@ Dissolve 1/2 dose in cold or room temperature water. **DO NOT USE IN HOT OR BOIL
 | 1/4 scoop | €0.24 | Children / maintenance |
 | 1/2 scoop | €0.49 | Standard dose |
 | 1 scoop | €0.98 | Higher mineral needs |
+
+## Clinical Indications
+**Primary:** Bone health, vitamin D and magnesium deficiency, easy administration
+**Secondary:** Children, elderly, those who can't swallow tablets
+**Adjunct:** With vitamin K2, additional magnesium if needed
+
+## Contraindications & Precautions
+- hypercalcemia
+- severe-kidney-disease
+
+
+## Drug Interactions
+- bisphosphonates-separate
+- thyroid-medication-separate-by-4-hours
+
+
+## Prescribing Logic
+**When to choose this:** Patient prefers powder, has difficulty swallowing, children, elderly
+**When to choose alternative:** Need tablets → My Calmag Tablets; Need higher D → Pure D3
+**Combination notes:** Same formula as tablets. Lemon flavor, stevia sweetened. Don't use hot water.
+
+## Related Conditions
+- [[Vitamin_D_Calciferol_Steroid_Hormone_Z-007-0001]] #vitamin-d
+- [[Calcium_Mineral_Bone_Signaling_Z-007-0003]] #calcium
 
 ---
 *Catalog created: 2026-02-25*  

@@ -17,6 +17,10 @@ target: iron-deficiency, anemia-prevention, energy
 key_ingredients: [iron-bisglycinate, ferrochel]
 source_url: https://naturaldoctor.gr/el/catalogue/iron-softly-absorbed-3/
 tags: [iron, bisglycinate, ferrochel, anemia, ferritin]
+clinical_priority: second-line
+indications: [iron-deficiency-anemia, low-ferritin, fatigue, menstruating-women, pregnancy, vegetarian]
+contraindications: [hemochromatosis, iron-overload, thalassemia]
+drug_interactions: [antacids-reduce-absorption, thyroid-medication-separate-by-4-hours, antibiotics-quinolones-tetracyclines]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -105,6 +109,30 @@ Take 1 capsule daily after food or as directed by your physician.
 | Daily cost | €0.27 | €0.57 |
 | Best for | Deficiency correction | Maintenance |
 | Can combine | Yes | Yes (if more iron needed) |
+
+## Clinical Indications
+**Primary:** Iron deficiency anemia, low ferritin, fatigue from iron deficiency
+**Secondary:** Menstruating women, pregnancy, vegetarian/vegan diets, athletes
+**Adjunct:** With vitamin C (enhances absorption), avoid calcium/coffee/tea with dose
+
+## Contraindications & Precautions
+- hemochromatosis
+- iron-overload
+- thalassemia
+
+## Drug Interactions
+- antacids-reduce-absorption
+- thyroid-medication-separate-by-4-hours
+- antibiotics-quinolones-tetracyclines
+
+## Prescribing Logic
+**When to choose this:** Ferritin <50 ng/mL, iron deficiency anemia, heavy menstrual bleeding, pregnancy
+**When to choose alternative:** Can't tolerate oral iron → IV iron; Need higher dose → 65mg ferrous sulfate
+**Combination notes:** Ferrochel® bisglycinate is gentlest form. Take with vitamin C. Avoid with calcium, coffee, tea.
+
+## Related Conditions
+- [[Ferritin_Iron_Storage_Z-003-0001]] #ferritin
+- [[Iron_Serum_Transport_Z-003-0002]] #iron
 
 ---
 *Catalog created: 2026-03-31*  

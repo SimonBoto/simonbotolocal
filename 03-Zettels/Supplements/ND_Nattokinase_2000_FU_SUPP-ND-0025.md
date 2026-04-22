@@ -17,6 +17,10 @@ target: cardiovascular-health, fibrinolysis, circulation
 key_ingredients: [nattokinase, fermented-soybean-extract]
 source_url: https://naturaldoctor.gr/el/catalogue/nattokinase-2000-fu-84/
 tags: [nattokinase, cardiovascular, fibrinolytic, enzyme, circulation]
+clinical_priority: second-line
+indications: [cardiovascular-support, circulation, fibrinolytic-support, sedentary-lifestyle, long-haul-travel]
+contraindications: [bleeding-disorders, upcoming-surgery-discontinue-2-weeks, pregnancy, breastfeeding]
+drug_interactions: [anticoagulants-warfarin-heparin-DOACs, antiplatelets-aspirin-clopidogrel, blood-pressure-medications]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -110,6 +114,30 @@ Take 1 capsule daily with water or as directed by your physician.
 | Daily cost | €0.28 | €0.97 |
 | Research | Moderate | Extensive |
 | Can combine | Yes | Yes (synergistic) |
+
+## Clinical Indications
+**Primary:** Cardiovascular support, healthy circulation, fibrinolytic support
+**Secondary:** Sedentary lifestyle support, long-haul travel, general vascular health
+**Adjunct:** With omega-3 (cardiovascular), vitamin E (antioxidant), magnesium
+
+## Contraindications & Precautions
+- bleeding-disorders
+- upcoming-surgery-discontinue-2-weeks
+- pregnancy
+
+## Drug Interactions
+- anticoagulants-warfarin-heparin-DOACs
+- antiplatelets-aspirin-clopidogrel
+- blood-pressure-medications
+
+## Prescribing Logic
+**When to choose this:** Cardiovascular risk, poor circulation, sedentary lifestyle, long travel
+**When to choose alternative:** Need stronger dose → 4000-8000 FU products; On blood thinners → avoid
+**Combination notes:** Take on empty stomach. Discontinue 2 weeks before surgery. Caution with all blood thinners.
+
+## Related Conditions
+- [[Cardiovascular_Risk_Assessment_Z-008-XXXX]] #cardiovascular
+- [[D-Dimer_Fibrin_Degradation_Z-008-XXXX]] #d-dimer
 
 ---
 *Catalog created: 2026-03-31*  

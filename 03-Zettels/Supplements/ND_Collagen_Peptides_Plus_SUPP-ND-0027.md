@@ -17,6 +17,10 @@ target: skin-elasticity, hair-nails, joint-tendon-support
 key_ingredients: [collagen-peptides, type-i-collagen, type-iii-collagen]
 source_url: https://naturaldoctor.gr/el/catalogue/collagen-peptides-plus-80/
 tags: [collagen, peptides, type-i, type-iii, skin, hair, nails, joints]
+clinical_priority: second-line
+indications: [skin-aging, wrinkles, joint-pain, osteoporosis, hair-loss, nail-brittleness]
+contraindications: [fish-or-shellfish-allergy-if-marine-source, severe-kidney-disease-high-protein]
+drug_interactions: [none-significant]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -108,6 +112,30 @@ Add 2 scoops (10 g) powder to water, juice, yogurt, or soup. Mix well. Consume o
 | Daily cost | €1.27 | €1.27 |
 | Best for | Structural collagen | Beauty nutrients |
 | Can combine | Yes | Yes (synergistic) |
+
+## Clinical Indications
+**Primary:** Skin aging, wrinkles, joint pain, osteoarthritis
+**Secondary:** Hair strength, nail brittleness, bone density, post-workout recovery
+**Adjunct:** With vitamin C (collagen synthesis), hyaluronic acid, omega-3
+
+## Contraindications & Precautions
+- fish-or-shellfish-allergy-if-marine-source
+- severe-kidney-disease-high-protein
+
+
+## Drug Interactions
+- none-significant
+
+
+
+## Prescribing Logic
+**When to choose this:** Patient concerned with skin aging, joint discomfort, hair/nail quality
+**When to choose alternative:** Need beauty nutrients → Regene +; Need joint-specific → Anoson
+**Combination notes:** Take with vitamin C for enhanced synthesis. Results visible after 8-12 weeks.
+
+## Related Conditions
+- [[Collagen_Synthesis_Skin_Health_Z-001-XXXX]] #collagen
+- [[Osteoarthritis_Joint_Degeneration_Z-001-XXXX]] #osteoarthritis
 
 ---
 *Catalog created: 2026-03-31*  

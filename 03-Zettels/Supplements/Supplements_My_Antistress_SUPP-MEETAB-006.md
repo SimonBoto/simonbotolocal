@@ -17,6 +17,10 @@ target: stress, adrenal-support, cortisol-regulation
 key_ingredients: [rhodiola, ashwagandha, siberian-ginseng, b-vitamins]
 source_url: https://meetabstore.ch/en/for-stress/26-my-antistress.html
 tags: [adaptogens, stress, adrenal, cortisol, anxiety, energy]
+clinical_priority: second-line
+indications: [chronic-stress, burnout, adrenal-fatigue, anxiety-with-fatigue, high-cortisol, mental-exhaustion]
+contraindications: [bipolar-disorder, mania-risk, pregnancy-consult]
+drug_interactions: [sedatives, antidepressants, stimulants, thyroid-medications]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -108,6 +112,30 @@ Take 1 tablet daily.
 ## Comparison
 - **My Relax** (also Meetab) — more sedative, for evening
 - **My Antistress** — balanced, for daytime use
+
+## Clinical Indications
+**Primary:** Chronic stress, burnout, adrenal fatigue, anxiety with fatigue
+**Secondary:** High cortisol, stress-induced insomnia, mental/physical exhaustion
+**Adjunct:** With magnesium (calming), B-complex (nervous system), phosphatidylserine (cortisol)
+
+## Contraindications & Precautions
+- bipolar-disorder
+- mania-risk
+- pregnancy-consult
+
+## Drug Interactions
+- sedatives
+- antidepressants
+- stimulants
+
+## Prescribing Logic
+**When to choose this:** Chronic stress, burnout, high cortisol, anxiety with fatigue, adrenal dysfunction
+**When to choose alternative:** Need pure ashwagandha → KSM-66; Need sleep focus → Sleep Good; Need lower cost → individual adaptogens
+**Combination notes:** Triple adaptogen (950mg total). Excellent value at €1.05/day. Rhodiola (energy), Ashwagandha (calm), Ginseng (endurance).
+
+## Related Conditions
+- [[Cortisol_Primary_Stress_Hormone_Z-011-0005]] #cortisol
+- [[Adrenal_Fatigue_Z-011-XXXX]] #adrenal-fatigue
 
 ---
 *Catalog created: 2026-02-25*  

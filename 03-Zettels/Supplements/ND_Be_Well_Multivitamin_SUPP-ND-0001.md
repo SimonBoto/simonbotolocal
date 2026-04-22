@@ -17,6 +17,10 @@ target: complete-nutritional-support, fatigue-reduction
 key_ingredients: [multivitamin, b-complex, minerals, digestive-enzymes, food-blend]
 source_url: https://naturaldoctor.gr/el/catalogue/be-well-multivitamin-24/
 tags: [multivitamin, b-vitamins, minerals, digestive-enzymes, methylated]
+clinical_priority: first-line
+indications: [general-nutrition, fatigue, methylation-support, MTHFR-variant, digestive-support]
+contraindications: [iron-overload-contains-2.5mg-iron]
+drug_interactions: [anticoagulants-vitamin-K2, metformin-B12-depletion]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -117,6 +121,30 @@ Take 1 capsule daily after breakfast or as directed by your physician.
 | Zinc | 20 mg | 12.5 mg |
 | Amino acids | No | Yes (full profile) |
 | Digestive enzymes | Yes | Yes |
+
+## Clinical Indications
+**Primary:** Comprehensive nutritional foundation, fatigue, methylation support
+**Secondary:** Digestive enzyme support, general wellness, MTHFR variants
+**Adjunct:** With omega-3, magnesium, vitamin D as needed
+
+## Contraindications & Precautions
+- iron-overload-contains-2.5mg-iron
+
+
+
+## Drug Interactions
+- anticoagulants-vitamin-K2
+- metformin-B12-depletion
+
+
+## Prescribing Logic
+**When to choose this:** Cost-effective comprehensive multivitamin, methylated B vitamins needed, enzyme support
+**When to choose alternative:** Need amino acids → My Health; Sensitive stomach → My Total Health
+**Combination notes:** Excellent value at €0.57/day. Add Mg, D3, Omega-3 for complete foundation.
+
+## Related Conditions
+- [[Homocysteine_Methylation_Cardiovascular_Risk_Z-004-0001]] #homocysteine
+- [[Vitamin_D_Calciferol_Steroid_Hormone_Z-007-0001]] #vitamin-d
 
 ---
 *Catalog created: 2026-03-31*  

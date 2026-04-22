@@ -15,6 +15,10 @@ target: immune-defense, cardiovascular
 key_ingredients: [vitamin-c, lysine, proline, bioflavonoids]
 source_url: https://meetabstore.ch/en/for-defenses/36-my-immuno-tablets.html
 tags: [vitamin-c, immune, pauling-protocol, cardiovascular]
+clinical_priority: second-line
+indications: [immune-maintenance, cardiovascular-support, travel, daily-wellness]
+contraindications: [iron-overload]
+drug_interactions: [iron-enhances-absorption, chemotherapy-consult]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -68,6 +72,30 @@ Take 1 tablet daily.
 |-------|------------|-----------|----------|
 | 1 tablet | €0.42 | 500 mg | Standard maintenance |
 | 2 tablets | €0.84 | 1000 mg | Increased immune support |
+
+## Clinical Indications
+**Primary:** Daily immune maintenance, cardiovascular support
+**Secondary:** Travel-friendly option, general wellness
+**Adjunct:** With zinc (immune), vitamin D (immune), bioflavonoids (included)
+
+## Contraindications & Precautions
+- iron-overload
+
+
+
+## Drug Interactions
+- iron-enhances-absorption
+- chemotherapy-consult
+
+
+## Prescribing Logic
+**When to choose this:** Convenient tablet form, travel, lower intensity immune support
+**When to choose alternative:** Need higher dose → My Immuno Powder (900mg C); Need buffered C → Vitamin C Incell
+**Combination notes:** Same Pauling formula as powder but lower dose (500mg C). More convenient for travel.
+
+## Related Conditions
+- [[Immune_Function_Markers_Z-001-XXXX]] #immune
+- [[Vitamin_C_Calciferol_Steroid_Hormone_Z-007-0001]] #vitamin-c
 
 ---
 *Catalog created: 2026-02-25*  

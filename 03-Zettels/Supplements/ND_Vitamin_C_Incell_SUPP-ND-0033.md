@@ -17,6 +17,10 @@ target: immune-support, collagen-synthesis, antioxidant
 key_ingredients: [vitamin-c, ascorbyl-palmitate, magnesium-ascorbate, calcium-ascorbate, lysine, proline]
 source_url: https://naturaldoctor.gr/el/catalogue/vitamin-c-incell-15/
 tags: [vitamin-c, buffered, lysine, proline, collagen, immune]
+clinical_priority: first-line
+indications: [immune-support, collagen-synthesis, antioxidant, iron-absorption, wound-healing]
+contraindications: [iron-overload, history-of-kidney-stones-oxalate, G6PD-deficiency-high-doses]
+drug_interactions: [iron-enhances-absorption, chemotherapy-consult-oncologist, estrogen-may-increase-levels]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -104,6 +108,30 @@ Take 2 capsules daily or as directed by your physician.
 | Form | Buffered alkaline | Standard ascorbic |
 | Daily cost | €0.53 | €0.57 |
 | Best for | Targeted C support | Comprehensive nutrition |
+
+## Clinical Indications
+**Primary:** Immune support, collagen synthesis, antioxidant protection
+**Secondary:** Iron absorption enhancement, wound healing, cardiovascular support
+**Adjunct:** With iron (enhances absorption), lysine/proline (collagen), bioflavonoids
+
+## Contraindications & Precautions
+- iron-overload
+- history-of-kidney-stones-oxalate
+- G6PD-deficiency-high-doses
+
+## Drug Interactions
+- iron-enhances-absorption
+- chemotherapy-consult-oncologist
+- estrogen-may-increase-levels
+
+## Prescribing Logic
+**When to choose this:** Immune support, collagen needs, iron deficiency (with iron), buffered form for sensitive stomach
+**When to choose alternative:** Higher dose needed → My Immuno Powder (900mg); Pauling protocol → My Immuno
+**Combination notes:** Buffered forms gentle on stomach. Essential pair with iron supplementation.
+
+## Related Conditions
+- [[Vitamin_C_Calciferol_Steroid_Hormone_Z-007-0001]] #vitamin-c
+- [[Iron_Ferritin_Storage_Z-003-0001]] #iron
 
 ---
 *Catalog created: 2026-03-31*  

@@ -15,6 +15,10 @@ target: gut-barrier, inflammation, insulin-resistance, immune-regulation
 key_ingredients: [butyric-acid, butyrate, postbiotics, pomegranate, ellagic-acid]
 source_url: https://meetabstore.ch/en/for-the-gut/37-my-postbiotics.html
 tags: [postbiotics, butyrate, gut-barrier, inflammation, immune]
+clinical_priority: second-line
+indications: [leaky-gut, autoimmune-conditions, insulin-resistance, inflammatory-bowel, dysbiosis, cognitive-health]
+contraindications: [severe-acute-gut-infection]
+drug_interactions: [immunosuppressants]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -99,6 +103,30 @@ Take 2 capsules per day after meals.
 |-------|------------|----------|
 | 1 capsule | €0.82 | Maintenance |
 | 2 capsules | €1.63 | Therapeutic dose |
+
+## Clinical Indications
+**Primary:** Leaky gut, autoimmune conditions, insulin resistance, inflammatory bowel
+**Secondary:** Dysbiosis (low butyrate producers), cognitive health, cardiovascular protection
+**Adjunct:** With probiotics (live cultures), L-glutamine (barrier), prebiotic fiber
+
+## Contraindications & Precautions
+- severe-acute-gut-infection
+
+
+
+## Drug Interactions
+- immunosuppressants
+
+
+
+## Prescribing Logic
+**When to choose this:** Autoimmune, leaky gut, insulin resistance, low butyrate producers, IBD
+**When to choose alternative:** Need live probiotics → My Probiotics; Need antimicrobial → My Gut Life
+**Combination notes:** Butyrate is colon cell fuel. Postbiotics = faster than probiotics (no colonization needed). T-reg support for autoimmunity.
+
+## Related Conditions
+- [[Zonulin_Leaky_Gut_Marker_Z-012-XXXX]] #leaky-gut
+- [[Autoimmune_Thyroiditis_Z-010-XXXX]] #autoimmune
 
 ---
 *Catalog created: 2026-02-25*  

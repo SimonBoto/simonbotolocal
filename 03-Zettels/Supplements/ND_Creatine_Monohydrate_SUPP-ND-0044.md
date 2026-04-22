@@ -17,6 +17,10 @@ target: strength, power, muscle-performance, atp-production
 key_ingredients: [creatine-monohydrate]
 source_url: https://naturaldoctor.gr/el/catalogue/creative-monohydrate-88/
 tags: [creatine, monohydrate, athletic, strength, power, atp, muscle]
+clinical_priority: second-line
+indications: [strength-training, power-sports, muscle-mass, cognitive-support, aging-muscle-preservation]
+contraindications: [severe-kidney-disease, dehydration-risk]
+drug_interactions: [nephrotoxic-drugs, caffeine-may-enhance-effects]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -98,6 +102,30 @@ Take 6 capsules daily with water or as directed by your physician. Drink plenty 
 | Daily cost | €1.70 | €1.00 |
 | Best for | Performance | General energy |
 | Research support | Extensive | Limited |
+
+## Clinical Indications
+**Primary:** Strength and power training, muscle mass building, athletic performance
+**Secondary:** Cognitive support, aging muscle preservation, vegan/vegetarian athletes
+**Adjunct:** With protein (muscle synthesis), carbohydrates (uptake), beta-alanine (endurance)
+
+## Contraindications & Precautions
+- severe-kidney-disease
+- dehydration-risk
+
+
+## Drug Interactions
+- nephrotoxic-drugs
+- caffeine-may-enhance-effects
+
+
+## Prescribing Logic
+**When to choose this:** Strength athletes, power sports, muscle building goals, aging muscle loss
+**When to choose alternative:** Need cognitive only → lower dose (1-2g); Can't tolerate capsules → powder form
+**Combination notes:** 3g is maintenance dose. Loading optional (20g x 5 days). Hydration essential. Very well-researched.
+
+## Related Conditions
+- [[Muscle_Mass_Sarcopenia_Z-001-XXXX]] #sarcopenia
+- [[Exercise_Performance_Z-001-XXXX]] #exercise-performance
 
 ---
 *Catalog created: 2026-03-31*  

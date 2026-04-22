@@ -17,6 +17,10 @@ target: ketosis, energy, cognitive-function, metabolic-support
 key_ingredients: [mct-oil, caprylic-acid, c8, coconut-oil]
 source_url: https://naturaldoctor.gr/el/catalogue/keto-mct-c8-oil-66/
 tags: [mct, c8, caprylic-acid, ketosis, keto, energy, brain]
+clinical_priority: adjunct
+indications: [ketogenic-diet, intermittent-fasting, cognitive-enhancement, appetite-control, quick-energy]
+contraindications: [severe-liver-disease, pancreatic-insufficiency, MCAD-deficiency]
+drug_interactions: [none-significant]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -122,6 +126,30 @@ Ketones provide:
 | Palm oil | Free | Often included |
 | Daily cost | €0.96 | Varies |
 | Ketone production | Faster | Slower |
+
+## Clinical Indications
+**Primary:** Ketogenic diet support, intermittent fasting, cognitive enhancement
+**Secondary:** Appetite control, quick energy, athletic performance, metabolic flexibility
+**Adjunct:** With electrolytes (keto adaptation), magnesium (cramps), omega-3
+
+## Contraindications & Precautions
+- severe-liver-disease
+- pancreatic-insufficiency
+- MCAD-deficiency
+
+## Drug Interactions
+- none-significant
+
+
+
+## Prescribing Logic
+**When to choose this:** Keto dieter, intermittent faster, needs quick ketones, cognitive clarity
+**When to choose alternative:** Need C10/C12 mix → generic MCT oil; Can't tolerate oil → MCT powder
+**Combination notes:** 99% C8 = fastest ketone production. Start low (1 tsp) to avoid GI distress. Add to coffee ('bulletproof').
+
+## Related Conditions
+- [[Ketones_BHB_AcAc_Z-005-XXXX]] #ketones
+- [[Cognitive_Decline_Markers_Z-001-XXXX]] #cognitive-decline
 
 ---
 *Catalog created: 2026-03-31*  

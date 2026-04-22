@@ -17,6 +17,10 @@ target: complete-amino-acid-profile, protein-synthesis, recovery
 key_ingredients: [all-20-amino-acids, plant-based, fermented]
 source_url: https://naturaldoctor.gr/el/catalogue/20-free-aminos-2/
 tags: [amino-acids, complete-profile, plant-based, fermented, protein, recovery]
+clinical_priority: second-line
+indications: [vegan-diet, exercise-recovery, protein-synthesis, digestive-issues, wound-healing]
+contraindications: [phenylketonuria-PKU, maple-syrup-urine-disease]
+drug_interactions: [levodopa-competes-with-amino-acids]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -125,6 +129,30 @@ Take 2 capsules daily after meal or as directed by your physician.
 | Absorption | Rapid (free-form) | Rapid |
 | Cost per gram | Higher | Lower |
 | Best for | Complete coverage | Specific needs |
+
+## Clinical Indications
+**Primary:** Vegan/vegetarian diets, exercise recovery, protein synthesis support
+**Secondary:** Digestive issues (pre-digested form), wound healing, general wellness
+**Adjunct:** With B-complex (protein metabolism), magnesium (muscle), vitamin C (collagen)
+
+## Contraindications & Precautions
+- phenylketonuria-PKU
+- maple-syrup-urine-disease
+
+
+## Drug Interactions
+- levodopa-competes-with-amino-acids
+
+
+
+## Prescribing Logic
+**When to choose this:** Vegan/vegetarian needing complete amino profile, exercise recovery, poor protein digestion
+**When to choose alternative:** Need specific amino acids → individual supplements; Higher dose → protein powder
+**Combination notes:** Free-form rapid absorption. Plant-based, fermented. Moderate individual doses (~1.5g total).
+
+## Related Conditions
+- [[Protein_Status_Markers_Z-001-XXXX]] #protein
+- [[Exercise_Recovery_Z-001-XXXX]] #exercise-recovery
 
 ---
 *Catalog created: 2026-03-31*  

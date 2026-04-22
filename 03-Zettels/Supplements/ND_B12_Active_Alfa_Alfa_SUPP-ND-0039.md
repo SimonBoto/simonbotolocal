@@ -17,6 +17,10 @@ target: b12-deficiency, nervous-system, energy, methylation
 key_ingredients: [methylcobalamin, b12, alfalfa]
 source_url: https://naturaldoctor.gr/el/catalogue/b12-active-alfa-alfa-68/
 tags: [b12, methylcobalamin, active-b12, alfalfa, methylation, vegan]
+clinical_priority: second-line
+indications: [b12-deficiency, vegan-diet, neuropathy, pernicious-anemia, MTHFR-variant, cognitive-decline]
+contraindications: [polycythemia-vera, severe-erythrocytosis]
+drug_interactions: [metformin-depletes-B12, PPIs-deplete-B12, chloramphenicol]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -107,6 +111,30 @@ Take 1 capsule daily or as directed by your physician.
 | Other nutrients | Alfalfa | 120+ nutrients |
 | Daily cost | €0.20 | €0.57 |
 | Best for | Targeted B12 | Comprehensive |
+
+## Clinical Indications
+**Primary:** B12 deficiency, vegan/vegetarian diets, neuropathy, pernicious anemia
+**Secondary:** MTHFR variants, cognitive decline, fatigue, methylation support
+**Adjunct:** With folate (methylation synergy), B-complex (cofactors), intrinsic factor if pernicious anemia
+
+## Contraindications & Precautions
+- polycythemia-vera
+- severe-erythrocytosis
+
+
+## Drug Interactions
+- metformin-depletes-B12
+- PPIs-deplete-B12
+- chloramphenicol
+
+## Prescribing Logic
+**When to choose this:** B12 <400 pg/mL, vegan/vegetarian, on metformin/PPIs, neuropathy, MTHFR variant
+**When to choose alternative:** Need B-complex → B-Complex Active; Need sublingual → sublingual B12
+**Combination notes:** Methylcobalamin is active form. 1000mcg is therapeutic. No toxicity (water-soluble). Check MMA for functional status.
+
+## Related Conditions
+- [[Vitamin_B12_Cobalamin_Z-004-0002]] #b12
+- [[Methylmalonic_Acid_MMA_Z-004-0003]] #mma
 
 ---
 *Catalog created: 2026-03-31*  

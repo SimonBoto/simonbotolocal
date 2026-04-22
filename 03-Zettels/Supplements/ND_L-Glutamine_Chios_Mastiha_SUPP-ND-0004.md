@@ -17,6 +17,10 @@ target: gut-barrier, gastric-health, intestinal-repair
 key_ingredients: [l-glutamine, chios-mastiha, inulin]
 source_url: https://naturaldoctor.gr/el/catalogue/glutamine-chios-mastiha-13/
 tags: [gut-health, glutamine, mastiha, gastric, intestinal-barrier, h-pylori]
+clinical_priority: adjunct
+indications: [gastritis, gastric-ulcers, h-pylori-adjunct, GERD, leaky-gut, intestinal-permeability]
+contraindications: [severe-kidney-disease]
+drug_interactions: [lactulose, anticonvulsants, chemotherapy]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -112,6 +116,30 @@ Take 1-3 capsules daily after food or as directed by your physician.
 | Probiotics | No | No | Postbiotics only |
 | Daily cost | €0.49-1.47 | €1.83 | €1.63 |
 | Unique benefit | H. pylori support | Broad antimicrobial | T-reg/immune modulation |
+
+## Clinical Indications
+**Primary:** Gastritis, gastric ulcers, H. pylori adjunct, GERD
+**Secondary:** Leaky gut, intestinal permeability, post-antibiotic gut repair
+**Adjunct:** With probiotics (rebuild flora), zinc carnosine (gastric healing), DGL (ulcers)
+
+## Contraindications & Precautions
+- severe-kidney-disease
+
+
+
+## Drug Interactions
+- lactulose
+- anticonvulsants
+- chemotherapy
+
+## Prescribing Logic
+**When to choose this:** Gastric issues, H. pylori, GERD, leaky gut, Chios mastiha specifically desired
+**When to choose alternative:** Need higher glutamine → Glutamine Sport; Need pure gut barrier → L-glutamine powder
+**Combination notes:** Unique H. pylori support from Chios Mastiha. Glutamine modest (300-900mg). Kyowa® pharmaceutical grade.
+
+## Related Conditions
+- [[Helicobacter_pylori_Gastric_Pathogen_Z-009-XXXX]] #h-pylori
+- [[Zonulin_Leaky_Gut_Marker_Z-012-XXXX]] #leaky-gut
 
 ---
 *Catalog created: 2026-03-31*  

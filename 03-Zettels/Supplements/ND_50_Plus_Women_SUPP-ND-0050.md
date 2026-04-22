@@ -17,6 +17,10 @@ target: fertility, womens-vitality, hormonal-balance, reproductive-health
 key_ingredients: [ashwagandha, maca, ginkgo, ginseng, cordyceps, arginine, taurine, carnitine, selenium, zinc, vitamin-d3]
 source_url: https://naturaldoctor.gr/el/catalogue/female-libido-92/
 tags: [womens-health, fertility, vitality, ashwagandha, maca, ginkgo, hormonal]
+clinical_priority: specialty
+indications: [womens-vitality, perimenopause, menopause, fertility-support, libido-women, hormonal-balance]
+contraindications: [pregnancy, breastfeeding, hormone-sensitive-cancers, endometriosis-may-worsen]
+drug_interactions: [blood-pressure-medications, blood-thinners, diabetes-medications, hormonal-contraceptives]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -116,6 +120,31 @@ Take 2 capsules daily or as directed by your physician.
 | Vitex | 4.5 mg | None |
 | Daily cost | €2.00 | €2.00 |
 | Focus | Female vitality | Male vitality |
+
+## Clinical Indications
+**Primary:** Women's vitality, perimenopause, menopause, fertility support
+**Secondary:** Libido enhancement, hormonal balance, energy and stress management
+**Adjunct:** With magnesium (calming), omega-3 (inflammation), vitamin D (bone/immune)
+
+## Contraindications & Precautions
+- pregnancy
+- breastfeeding
+- hormone-sensitive-cancers
+
+## Drug Interactions
+- blood-pressure-medications
+- blood-thinners
+- diabetes-medications
+
+## Prescribing Logic
+**When to choose this:** Women 50+, perimenopause/menopause symptoms, vitality concerns, fertility support
+**When to choose alternative:** Need pure ashwagandha → KSM-66; Need hormone-specific → Agnus Castus; Need lower cost → individual ingredients
+**Combination notes:** Comprehensive formula. KSM-66® quality. Vitex modest (4.5mg). Good for perimenopausal women. €2/day.
+
+## Related Conditions
+- [[Estradiol_Primary_Female_Estrogen_Z-011-0003]] #estrogen
+- [[Progesterone_Luteal_Phase_Hormone_Z-011-0004]] #progesterone
+- [[Menopause_Z-011-XXXX]] #menopause
 
 ---
 *Catalog created: 2026-03-31*  

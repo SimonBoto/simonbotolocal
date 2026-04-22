@@ -17,6 +17,10 @@ target: nitric-oxide, circulation, exercise-performance
 key_ingredients: [l-arginine, amino-acid]
 source_url: https://naturaldoctor.gr/el/catalogue/l-arginine-base-91/
 tags: [arginine, nitric-oxide, circulation, exercise, amino-acid]
+clinical_priority: second-line
+indications: [exercise-performance, circulation, erectile-dysfunction, cardiovascular-health, wound-healing]
+contraindications: [herpes-simplex-may-trigger-outbreaks, severe-kidney-disease]
+drug_interactions: [blood-pressure-medications, nitrates, PDE5-inhibitors-viagra, anticoagulants]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -104,6 +108,30 @@ Take 2 capsules daily with water or as directed by your physician.
 | Standalone | Yes | In formula |
 | Daily cost | €0.57 | €2.00 (as part of formula) |
 | Best for | Targeted NO support | Combined benefits |
+
+## Clinical Indications
+**Primary:** Exercise performance, circulation support, erectile dysfunction
+**Secondary:** Cardiovascular health, wound healing, immune function
+**Adjunct:** With citrulline (better NO production), pine bark extract (circulation), CoQ10 (heart)
+
+## Contraindications & Precautions
+- herpes-simplex-may-trigger-outbreaks
+- severe-kidney-disease
+
+
+## Drug Interactions
+- blood-pressure-medications
+- nitrates
+- PDE5-inhibitors-viagra
+
+## Prescribing Logic
+**When to choose this:** Exercise performance, circulation concerns, erectile dysfunction support
+**When to choose alternative:** Need better absorption → L-citrulline (converts to arginine); Need higher dose → 3-6g
+**Combination notes:** 1g is moderate. Therapeutic often 3-6g. Take on empty stomach. Citrulline may be better absorbed.
+
+## Related Conditions
+- [[Erectile_Dysfunction_Z-011-XXXX]] #erectile-dysfunction
+- [[Cardiovascular_Risk_Assessment_Z-008-XXXX]] #cardiovascular
 
 ---
 *Catalog created: 2026-03-31*  

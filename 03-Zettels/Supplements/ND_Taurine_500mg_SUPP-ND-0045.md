@@ -17,6 +17,10 @@ target: cardiovascular, exercise-performance, electrolyte-balance
 key_ingredients: [taurine, amino-acid]
 source_url: https://naturaldoctor.gr/el/catalogue/taurine-500-mg-79/
 tags: [taurine, amino-acid, cardiovascular, exercise, electrolytes, calming]
+clinical_priority: second-line
+indications: [cardiovascular-support, exercise-performance, calming, eye-health, electrolyte-balance]
+contraindications: [severe-kidney-disease]
+drug_interactions: [lithium-may-reduce-excretion, blood-pressure-medications]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -99,6 +103,30 @@ Take 2-4 capsules daily with water or as directed by your physician.
 | Standalone | Yes | In formula |
 | Daily cost | €0.40-0.80 | €2.00 (as part of formula) |
 | Best for | Targeted support | Combined benefits |
+
+## Clinical Indications
+**Primary:** Cardiovascular support, exercise performance, calming/anxiety
+**Secondary:** Eye health, electrolyte balance, bile support, heart rhythm stabilization
+**Adjunct:** With magnesium (heart/calm synergy), potassium (electrolytes), CoQ10 (cardiac)
+
+## Contraindications & Precautions
+- severe-kidney-disease
+
+
+
+## Drug Interactions
+- lithium-may-reduce-excretion
+- blood-pressure-medications
+
+
+## Prescribing Logic
+**When to choose this:** Heart rhythm concerns, exercise performance, anxiety, eye health, vegan diet
+**When to choose alternative:** Need lower dose → included in formulas (Healthy Testosterone has 180mg)
+**Combination notes:** Very safe even at high doses. Vegan consideration (primarily in animal foods). Synergy with magnesium.
+
+## Related Conditions
+- [[Cardiovascular_Risk_Assessment_Z-008-XXXX]] #cardiovascular
+- [[Electrolyte_Balance_Z-001-XXXX]] #electrolytes
 
 ---
 *Catalog created: 2026-03-31*  

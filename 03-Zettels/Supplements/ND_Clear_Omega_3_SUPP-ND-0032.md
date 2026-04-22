@@ -17,6 +17,10 @@ target: cardiovascular-health, brain-function, vision
 key_ingredients: [fish-oil, epa, dha, omega-3, vitamin-e]
 source_url: https://naturaldoctor.gr/el/catalogue/clear-omega-3-14/
 tags: [omega-3, epa, dha, fish-oil, cardiovascular, brain, vision]
+clinical_priority: first-line
+indications: [cardiovascular-health, inflammation, brain-health, depression, triglycerides, pregnancy]
+contraindications: [bleeding-disorders, upcoming-surgery-discontinue-2-weeks, fish-allergy]
+drug_interactions: [anticoagulants-warfarin, antiplatelet-aspirin, blood-pressure-medications]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -101,6 +105,30 @@ Take 1-3 softgels daily after food or as directed by your physician.
 | Astaxanthin | No | 2 mg |
 | Daily cost | €0.32-0.97 | €1.63 |
 | Best for | Budget, high dose | Premium, phospholipid form |
+
+## Clinical Indications
+**Primary:** Cardiovascular health, inflammation, brain function
+**Secondary:** Depression support, triglyceride reduction, pregnancy DHA
+**Adjunct:** With vitamin D, magnesium, curcumin for inflammation synergy
+
+## Contraindications & Precautions
+- bleeding-disorders
+- upcoming-surgery-discontinue-2-weeks
+- fish-allergy
+
+## Drug Interactions
+- anticoagulants-warfarin
+- antiplatelet-aspirin
+- blood-pressure-medications
+
+## Prescribing Logic
+**When to choose this:** Elevated triglycerides, inflammatory markers, depression, cognitive concerns, limited fish intake
+**When to choose alternative:** Need phospholipid form → krill oil; Vegan → algae omega-3
+**Combination notes:** Synergistic with vitamin D and curcumin. Take with meals for absorption.
+
+## Related Conditions
+- [[Triglycerides_Lipid_Status_Z-006-0003]] #triglycerides
+- [[Inflammatory_Markers_CRP_IL6_Z-002-XXXX]] #inflammation
 
 ---
 *Catalog created: 2026-03-31*  

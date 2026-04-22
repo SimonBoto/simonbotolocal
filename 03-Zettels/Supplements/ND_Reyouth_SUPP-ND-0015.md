@@ -17,6 +17,10 @@ target: longevity, cellular-protection, immune-support, energy
 key_ingredients: [cycloastragenol, amino-acid-blend, vitamins, minerals, centella]
 source_url: https://naturaldoctor.gr/el/catalogue/reyouth-34/
 tags: [anti-aging, longevity, cycloastragenol, telomeres, premium, comprehensive]
+clinical_priority: specialty
+indications: [longevity, telomere-support, cellular-protection, anti-aging, biohacking]
+contraindications: [pregnancy, breastfeeding, active-cancer-consult-oncologist]
+drug_interactions: [immunosuppressants, blood-pressure-medications]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -142,6 +146,30 @@ Take 2 capsules daily, away from meals, or as directed by your physician.
 - [[Telomere_Length_Cellular_Aging_Z-001-XXXX] — cycloastragenol may support
 - [[Vitamin_D_Calciferol_Steroid_Hormone_Z-007-0001]] — 2000 IU included
 - [[Glutathione_Master_Antioxidant_Z-001-0436]] — NAC precursor in formula
+
+## Clinical Indications
+**Primary:** Longevity, telomere support, cellular protection, anti-aging
+**Secondary:** General vitality, cutting-edge longevity science
+**Adjunct:** With NAD+ precursors (Life Energy+), resveratrol, senolytics (intermittent)
+
+## Contraindications & Precautions
+- pregnancy
+- breastfeeding
+- active-cancer-consult-oncologist
+
+## Drug Interactions
+- immunosuppressants
+- blood-pressure-medications
+
+
+## Prescribing Logic
+**When to choose this:** Longevity enthusiast, biohacker, budget for premium anti-aging, telomere interest
+**When to choose alternative:** Better value NAD+ → Life Energy+; Need senolytics → Senolytics; Budget → Nicotinamide
+**Combination notes:** Cycloastragenol 16mg is significant. Limited human data. Premium pricing (€6.63/day). Long-term commitment needed.
+
+## Related Conditions
+- [[Telomere_Length_Cellular_Aging_Z-001-XXXX]] #telomeres
+- [[Oxidative_Stress_Markers_Z-001-XXXX]] #oxidative-stress
 
 ---
 *Catalog created: 2026-03-31*  

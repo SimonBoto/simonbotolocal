@@ -17,6 +17,10 @@ target: cognitive-function, energy-metabolism, antioxidant
 key_ingredients: [acetyl-l-carnitine, alc, amino-acid]
 source_url: https://naturaldoctor.gr/el/catalogue/acetyl-l-carnitine-500mg-85/
 tags: [acetyl-l-carnitine, alc, cognitive, energy, brain, antioxidant]
+clinical_priority: second-line
+indications: [cognitive-decline, brain-fog, fatigue, peripheral-neuropathy, male-fertility, depression]
+contraindications: [bipolar-disorder-may-trigger-mania, seizure-disorder]
+drug_interactions: [thyroid-medications, warfarin, chemotherapy]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -103,6 +107,30 @@ Take 1 capsule daily with water or as directed by your physician.
 | Primary use | Cognitive/brain | Physical performance |
 | Daily cost | €0.58 | €2.00 (as part of formula) |
 | Best for | Brain energy | Athletic performance |
+
+## Clinical Indications
+**Primary:** Cognitive decline, brain fog, fatigue, peripheral neuropathy
+**Secondary:** Male fertility, depression support, physical endurance
+**Adjunct:** With alpha-lipoic acid (synergistic for neuropathy), omega-3 (brain), CoQ10 (energy)
+
+## Contraindications & Precautions
+- bipolar-disorder-may-trigger-mania
+- seizure-disorder
+
+
+## Drug Interactions
+- thyroid-medications
+- warfarin
+- chemotherapy
+
+## Prescribing Logic
+**When to choose this:** Cognitive concerns, brain fog, peripheral neuropathy, fatigue, low energy
+**When to choose alternative:** Need physical performance → L-carnitine tartrate; Need brain + metabolic → ALA combo
+**Combination notes:** Morning dosing (energizing). Synergistic with alpha-lipoic acid for neuropathy.
+
+## Related Conditions
+- [[Cognitive_Decline_Markers_Z-001-XXXX]] #cognitive-decline
+- [[Peripheral_Neuropathy_Z-001-XXXX]] #neuropathy
 
 ---
 *Catalog created: 2026-03-31*  

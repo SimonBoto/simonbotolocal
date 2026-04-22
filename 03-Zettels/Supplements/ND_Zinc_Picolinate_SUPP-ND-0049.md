@@ -17,6 +17,10 @@ target: immune-support, antioxidant, skin-hair-nails, cognitive
 key_ingredients: [zinc, picolinate]
 source_url: https://naturaldoctor.gr/el/catalogue/zinc-picolinate-72/
 tags: [zinc, picolinate, immune, antioxidant, skin, hair, nails]
+clinical_priority: second-line
+indications: [immune-support, skin-conditions, hair-loss, testosterone-support, wound-healing, acne]
+contraindications: [copper-deficiency-risk-with-long-term-high-dose]
+drug_interactions: [antibiotics-tetracyclines-quinolones, penicillamine, diuretics]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -112,6 +116,30 @@ Take 1 capsule daily with water or as directed by your physician.
 | Form | Picolinate | Bisglycinate |
 | Daily cost | €0.15 | €0.57 |
 | Best for | Targeted zinc | Comprehensive |
+
+## Clinical Indications
+**Primary:** Immune support, skin conditions, hair loss, testosterone support
+**Secondary:** Wound healing, acne, cognitive function, taste/smell disturbances
+**Adjunct:** With copper (balance if long-term), vitamin C (immune), vitamin A (skin)
+
+## Contraindications & Precautions
+- copper-deficiency-risk-with-long-term-high-dose
+
+
+
+## Drug Interactions
+- antibiotics-tetracyclines-quinolones
+- penicillamine
+- diuretics
+
+## Prescribing Logic
+**When to choose this:** Immune support, acne, hair loss, low testosterone, vegetarian/vegan
+**When to choose alternative:** Need lower dose → multivitamin zinc; Need bisglycinate form → Be Well contains 20mg bisglycinate
+**Combination notes:** 22mg is therapeutic. Upper limit 40mg long-term. Take with food. Balance with copper if >20mg long-term.
+
+## Related Conditions
+- [[Zinc_RBC_Functional_Mineral_Z-007-0006]] #zinc
+- [[Acne_Vulgaris_Z-001-XXXX]] #acne
 
 ---
 *Catalog created: 2026-03-31*  

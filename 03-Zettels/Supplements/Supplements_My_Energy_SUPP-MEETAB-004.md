@@ -17,6 +17,10 @@ target: energy-production, amino-acid-support
 key_ingredients: [amino-acids, carnitine, vitamin-c]
 source_url: https://meetabstore.ch/en/for-energy/34-my-energy.html
 tags: [energy, amino-acids, protein-synthesis, mitochondrial-support]
+clinical_priority: second-line
+indications: [energy-production, exercise-recovery, tissue-repair, protein-synthesis, mitochondrial-support]
+contraindications: [PKU, maple-syrup-urine-disease]
+drug_interactions: [levodopa]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -106,6 +110,30 @@ Take 2 capsules daily.
 - Tissue repair (post-surgery, injury)
 - Protein synthesis support
 - Mitochondrial function
+
+## Clinical Indications
+**Primary:** Energy production, exercise recovery, tissue repair
+**Secondary:** Protein synthesis support, mitochondrial function, post-surgery recovery
+**Adjunct:** With B-complex (energy metabolism), magnesium (cofactor), CoQ10 (mitochondrial)
+
+## Contraindications & Precautions
+- PKU
+- maple-syrup-urine-disease
+
+
+## Drug Interactions
+- levodopa
+
+
+
+## Prescribing Logic
+**When to choose this:** Fatigue, exercise recovery, tissue repair needs, low protein intake
+**When to choose alternative:** Need creatine → Creatine Monohydrate; Need simpler formula → B-Complex Active
+**Combination notes:** 20 amino acids + carnitine + high-dose vitamin C. Good for recovery and tissue repair.
+
+## Related Conditions
+- [[Fatigue_Chronic_Z-001-XXXX]] #fatigue
+- [[Exercise_Recovery_Z-001-XXXX]] #exercise-recovery
 
 ---
 *Catalog created: 2026-02-25*  

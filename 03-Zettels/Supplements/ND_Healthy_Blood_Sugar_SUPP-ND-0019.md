@@ -17,6 +17,10 @@ target: glucose-metabolism, insulin-sensitivity, glycogen-metabolism
 key_ingredients: [alpha-lipoic-acid, cinnamon, carnitine, glutamine, chromium, inositol]
 source_url: https://naturaldoctor.gr/el/catalogue/healthy-blood-sugar-55/
 tags: [blood-sugar, glucose, alpha-lipoic-acid, cinnamon, chromium, metabolic]
+clinical_priority: second-line
+indications: [blood-sugar-regulation, metabolic-syndrome, type-2-diabetes-adjunct, sugar-cravings]
+contraindications: [hypoglycemia-risk-with-diabetes-meds]
+drug_interactions: [diabetes-medications-monitor-glucose, metformin]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -118,6 +122,30 @@ Take 4 capsules daily or as directed by your physician.
 | Cinnamon | 25 mg (extract) | No | No |
 | Chromium | 9 μg | No | 95 μg |
 | Daily cost | €1.78 | €0.73 | €1.47 |
+
+## Clinical Indications
+**Primary:** Blood sugar regulation, metabolic syndrome, type 2 diabetes adjunct
+**Secondary:** Sugar craving reduction, general metabolic health
+**Adjunct:** With berberine, chromium, magnesium for comprehensive glucose support
+
+## Contraindications & Precautions
+- hypoglycemia-risk-with-diabetes-meds
+
+
+
+## Drug Interactions
+- diabetes-medications-monitor-glucose
+- metformin
+
+
+## Prescribing Logic
+**When to choose this:** Mild glucose elevation, metabolic syndrome, sugar cravings, comprehensive approach preferred
+**When to choose alternative:** Need stronger berberine → Berberine Complex; Need ACV → ACV & Berberine
+**Combination notes:** Multi-ingredient but modest individual doses. Good for comprehensive metabolic support.
+
+## Related Conditions
+- [[Glucose_Blood_Sugar_Energy_Z-005-0001]] #glucose
+- [[HOMA-IR_Insulin_Resistance_Index_Z-005-0004]] #insulin-resistance
 
 ---
 *Catalog created: 2026-03-31*  

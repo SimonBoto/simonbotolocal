@@ -17,6 +17,10 @@ target: glucose-metabolism, insulin-sensitivity, metabolic-health
 key_ingredients: [berberine, phytosomal-berberine]
 source_url: https://naturaldoctor.gr/el/catalogue/berberine-complex-89/
 tags: [berberine, phytosomal, glucose, insulin, metabolic, ampk]
+clinical_priority: second-line
+indications: [insulin-resistance, type-2-diabetes-adjunct, metabolic-syndrome, PCOS, dyslipidemia, NAFLD]
+contraindications: [pregnancy, breastfeeding, hypoglycemia-risk-with-diabetes-meds]
+drug_interactions: [metformin-additive, sulfonylureas-hypoglycemia-risk, CYP3A4-inhibitor, blood-pressure-meds, blood-thinners]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -116,6 +120,31 @@ Take 1 capsule daily with water or as directed by your physician.
 | Daily cost | €0.73 | €2.00 |
 | Phytosomal | Yes | No |
 | Best for | Glucose/insulin | Comprehensive metabolic |
+
+## Clinical Indications
+**Primary:** Insulin resistance, type 2 diabetes adjunct, metabolic syndrome, PCOS
+**Secondary:** Dyslipidemia, NAFLD, weight management support
+**Adjunct:** With chromium, alpha-lipoic acid, magnesium for glucose metabolism
+
+## Contraindications & Precautions
+- pregnancy
+- breastfeeding
+- hypoglycemia-risk-with-diabetes-meds
+
+## Drug Interactions
+- metformin-additive
+- sulfonylureas-hypoglycemia-risk
+- CYP3A4-inhibitor
+
+## Prescribing Logic
+**When to choose this:** Elevated fasting glucose, HbA1c, HOMA-IR, metabolic syndrome, PCOS with insulin resistance
+**When to choose alternative:** Need ACV combo → Apple Cider Vinegar & Berberine; Need multi-ingredient → Healthy Blood Sugar
+**Combination notes:** Take with meals. Monitor glucose if on diabetes meds. Phytosomal form better absorption.
+
+## Related Conditions
+- [[Glucose_Blood_Sugar_Energy_Z-005-0001]] #glucose
+- [[HOMA-IR_Insulin_Resistance_Index_Z-005-0004]] #insulin-resistance
+- [[HbA1c_Glycated_Hemoglobin_Z-005-0003]] #hba1c
 
 ---
 *Catalog created: 2026-03-31*  

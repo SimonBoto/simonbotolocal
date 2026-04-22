@@ -15,6 +15,10 @@ target: bone-health, vitamin-d, magnesium
 key_ingredients: [magnesium, calcium, vitamin-d3]
 source_url: https://meetabstore.ch/en/for-stress/30-my-calmag-tablets.html
 tags: [bone-health, vitamin-d, magnesium, calcium, value]
+clinical_priority: first-line
+indications: [bone-health, vitamin-d-deficiency, magnesium-deficiency, sleep, anxiety]
+contraindications: [hypercalcemia, severe-kidney-disease, sarcoidosis]
+drug_interactions: [bisphosphonates-separate, thyroid-medication-separate-by-4-hours, antibiotics-tetracyclines]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -60,6 +64,30 @@ Vitamin D requires magnesium as a cofactor for activation. This formula provides
 |-------|------------|----------|
 | 1 tablet | €0.33 | Standard dose |
 | 2 tablets | €0.65 | Higher mineral needs |
+
+## Clinical Indications
+**Primary:** Bone health, vitamin D and magnesium deficiency, sleep support
+**Secondary:** Anxiety, muscle relaxation, calcium balance
+**Adjunct:** With vitamin K2 (directs calcium to bone), additional magnesium if needed
+
+## Contraindications & Precautions
+- hypercalcemia
+- severe-kidney-disease
+- sarcoidosis
+
+## Drug Interactions
+- bisphosphonates-separate
+- thyroid-medication-separate-by-4-hours
+- antibiotics-tetracyclines
+
+## Prescribing Logic
+**When to choose this:** Patient needs D3 + Mg + Ca in one convenient tablet, bone health focus
+**When to choose alternative:** Need powder form → My Calmag Powder; Need higher Mg → 3plus Magnesium
+**Combination notes:** Best value D3/Mg/Ca combo. Citrate forms well-absorbed. Add K2 for arterial protection.
+
+## Related Conditions
+- [[Vitamin_D_Calciferol_Steroid_Hormone_Z-007-0001]] #vitamin-d
+- [[Magnesium_Essential_Mineral_Cofactor_Z-007-0008]] #magnesium
 
 ---
 *Catalog created: 2026-02-25*  

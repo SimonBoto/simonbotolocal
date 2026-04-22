@@ -17,6 +17,10 @@ target: cholesterol-regulation, lipid-metabolism, cardiovascular
 key_ingredients: [red-yeast-rice, monacolins, choline, magnesium, vitamin-d3, b-vitamins]
 source_url: https://naturaldoctor.gr/el/catalogue/healthy-Lipid-21/
 tags: [cholesterol, red-yeast-rice, monacolins, lipid, cardiovascular, statin-alternative]
+clinical_priority: second-line
+indications: [mild-hypercholesterolemia, statin-intolerance, cardiovascular-prevention, dyslipidemia]
+contraindications: [pregnancy, breastfeeding, children-under-18, adults-over-70, already-on-statins, liver-disease]
+drug_interactions: [statins-additive-toxicity, antibiotics-tetracycline, blood-thinners]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -114,6 +118,30 @@ Take 1 capsule daily after breakfast or as directed by your physician.
 | Monitoring | Liver enzymes needed | Generally not needed |
 | Daily cost | €0.57 | €0.32-0.97 |
 | Can combine | Caution required | Yes |
+
+## Clinical Indications
+**Primary:** Mild hypercholesterolemia, statin-intolerant patients (with supervision), cardiovascular prevention
+**Secondary:** Dyslipidemia, LDL reduction
+**Adjunct:** With omega-3 (triglycerides), CoQ10 (if on statins), berberine (metabolic)
+
+## Contraindications & Precautions
+- pregnancy
+- breastfeeding
+- children-under-18
+
+## Drug Interactions
+- statins-additive-toxicity
+- antibiotics-tetracycline
+- blood-thinners
+
+## Prescribing Logic
+**When to choose this:** Mild cholesterol elevation, statin intolerance, patient prefers natural approach
+**When to choose alternative:** Need stronger effect → prescription statin; Need triglyceride focus → omega-3
+**Combination notes:** Contains monacolin K (same as lovastatin). Monitor liver enzymes. Do NOT combine with statins.
+
+## Related Conditions
+- [[LDL_Cholesterol_Low-Density_Lipoprotein_Z-006-0001]] #ldl
+- [[Total_Cholesterol_Overall_Z-006-0004]] #cholesterol
 
 ---
 *Catalog created: 2026-03-31*  

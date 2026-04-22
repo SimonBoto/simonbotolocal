@@ -17,6 +17,10 @@ target: bone-health, vitamin-d-activation, cardiovascular
 key_ingredients: [vitamin-d3, vitamin-k2, magnesium-bisglycinate]
 source_url: https://naturaldoctor.gr/el/catalogue/complete-d3-26/
 tags: [vitamin-d, k2, magnesium, bone-health, calcium-regulation]
+clinical_priority: second-line
+indications: [vitamin-d-deficiency, osteopenia, osteoporosis-prevention, cardiovascular-protection, high-dose-d3-therapy]
+contraindications: [hypercalcemia, sarcoidosis, primary-hyperparathyroidism, severe-kidney-disease, warfarin-K2-interaction]
+drug_interactions: [warfarin-vitamin-K2-antagonizes, thiazide-diuretics, corticosteroids]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -97,6 +101,30 @@ Take 1 capsule daily after food or as directed by your physician.
 | Calcium | None | 78.1 mg citrate | 78.1 mg citrate |
 | Daily cost | €0.63 | €0.33 | €0.49 |
 | Focus | D3 repletion + K2 | Mg/Ca balance | Mg/Ca balance |
+
+## Clinical Indications
+**Primary:** Vitamin D deficiency with bone/cardiovascular concerns, osteopenia/osteoporosis prevention
+**Secondary:** High-dose D3 therapy safety (K2 prevents arterial calcification)
+**Adjunct:** With additional magnesium (56mg may be insufficient), calcium if dietary intake low
+
+## Contraindications & Precautions
+- hypercalcemia
+- sarcoidosis
+- primary-hyperparathyroidism
+
+## Drug Interactions
+- warfarin-vitamin-K2-antagonizes
+- thiazide-diuretics
+- corticosteroids
+
+## Prescribing Logic
+**When to choose this:** High-dose D3 needed (4000 IU), bone health concerns, cardiovascular protection priority
+**When to choose alternative:** Need more Mg → 3plus Magnesium; On warfarin → avoid K2 (use Pure D3 + Mg instead)
+**Combination notes:** K2 essential with high-dose D3. Mg modest (56mg) — may need additional. ON WARFARIN → CONTRAINDICATED due to K2.
+
+## Related Conditions
+- [[Vitamin_D_Calciferol_Steroid_Hormone_Z-007-0001]] #vitamin-d
+- [[Vitamin_K2_MK7_Calcium_Direction_Z-007-0005]] #vitamin-k2
 
 ---
 *Catalog created: 2026-03-31*  

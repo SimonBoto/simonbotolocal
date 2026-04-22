@@ -15,6 +15,10 @@ target: hydration, electrolytes, exercise-recovery
 key_ingredients: [potassium, sodium, magnesium, vitamin-c, glycine]
 source_url: https://meetabstore.ch/en/for-energy/25-my-minerals-7640167810550.html
 tags: [electrolytes, hydration, minerals, exercise, trace-minerals]
+clinical_priority: second-line
+indications: [exercise-recovery, hydration, electrolyte-imbalance, muscle-cramps, hot-weather]
+contraindications: [kidney-disease, sodium-restriction, hyperkalemia]
+drug_interactions: [ACE-inhibitors, ARBs, potassium-sparing-diuretics, lithium]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -79,6 +83,30 @@ Dissolve 1 sachet daily in water.
 |-------|------------|----------|
 | 1/2 sachet | €0.73 | Light activity |
 | 1 sachet | €1.45 | Standard/exercise days |
+
+## Clinical Indications
+**Primary:** Exercise recovery, hydration, electrolyte imbalance
+**Secondary:** Muscle cramps, hot weather, trace mineral supplementation
+**Adjunct:** With magnesium (muscle), additional potassium if needed
+
+## Contraindications & Precautions
+- kidney-disease
+- sodium-restriction
+- hyperkalemia
+
+## Drug Interactions
+- ACE-inhibitors
+- ARBs
+- potassium-sparing-diuretics
+
+## Prescribing Logic
+**When to choose this:** Athletes, heavy sweating, muscle cramps, hot weather, trace mineral needs
+**When to choose alternative:** Need lower sodium → adjust dose; Need just magnesium → 3plus Magnesium
+**Combination notes:** 92 minerals + electrolytes. Higher sodium (661mg) — caution for sodium-restricted patients. Vitamin C 559mg included.
+
+## Related Conditions
+- [[Electrolyte_Balance_Z-001-XXXX]] #electrolytes
+- [[Exercise_Recovery_Z-001-XXXX]] #exercise-recovery
 
 ---
 *Catalog created: 2026-02-25*  

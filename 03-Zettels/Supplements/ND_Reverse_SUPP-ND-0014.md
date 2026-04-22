@@ -17,6 +17,10 @@ target: cellular-protection, anti-aging, skin-health
 key_ingredients: [centella-asiatica, vitamin-d3, vitamin-c, zinc]
 source_url: https://naturaldoctor.gr/el/catalogue/reverse-35/
 tags: [anti-aging, premium, centella, vitamin-d, oxidative-stress]
+clinical_priority: adjunct
+indications: [cellular-protection, anti-aging, skin-health]
+contraindications: [none-significant]
+drug_interactions: [none-significant]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -99,6 +103,30 @@ Part of Natural Doctor's "Reverse Aging" product line:
 - [[Vitamin_D_Calciferol_Steroid_Hormone_Z-007-0001]] — cellular health, aging
 - [[Zinc_RBC_Functional_Mineral_Z-007-0006]] — antioxidant defense
 - [[Vitamin_C_Calciferol_Steroid_Hormone_Z-007-0001] — collagen, antioxidant
+
+## Clinical Indications
+**Primary:** Cellular protection, anti-aging, skin health
+**Secondary:** General antioxidant coverage
+**Adjunct:** With other antioxidants (vitamin C, E), collagen, omega-3
+
+## Contraindications & Precautions
+- none-significant
+
+
+
+## Drug Interactions
+- none-significant
+
+
+
+## Prescribing Logic
+**When to choose this:** Patient specifically wants premium ND longevity line, brand loyalty
+**When to choose alternative:** Better value → Regene + (more Centella, much cheaper); Need comprehensive → Reyouth
+**Combination notes:** VERY HIGH PRICE (€4.98/day) for modest ingredients. 9mg Centella vs 1600mg in Regene +. Value questionable.
+
+## Related Conditions
+- [[Oxidative_Stress_Markers_Z-001-XXXX]] #oxidative-stress
+- [[Vitamin_D_Calciferol_Steroid_Hormone_Z-007-0001]] #vitamin-d
 
 ---
 *Catalog created: 2026-03-31*  

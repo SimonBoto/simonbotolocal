@@ -17,6 +17,10 @@ target: antioxidant-protection, cellular-defense
 key_ingredients: [natural-vitamin-e, d-alpha-tocopherol, mixed-tocopherols]
 source_url: https://naturaldoctor.gr/el/catalogue/natural-vitamin-e-73/
 tags: [vitamin-e, antioxidant, tocopherols, natural-form, cellular-protection]
+clinical_priority: second-line
+indications: [oxidative-stress, cellular-protection, skin-health, cardiovascular-protection, immune-support]
+contraindications: [vitamin-K-deficiency-bleeding-risk, hemorrhagic-stroke-history]
+drug_interactions: [anticoagulants-additive-effect, antiplatelets, chemotherapy-radiation]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -96,6 +100,30 @@ Take 1 softgel daily with water or as directed by your physician.
 | Daily cost | €0.70 | €0.98 (as part of multivitamin) |
 | Standalone | Yes | No (in multivitamin) |
 | Mixed tocopherols | Yes (T-90) | Yes |
+
+## Clinical Indications
+**Primary:** Oxidative stress protection, cellular membrane integrity, skin health
+**Secondary:** Cardiovascular protection, immune support, anti-aging
+**Adjunct:** With vitamin C (recycles E), selenium (antioxidant network), omega-3
+
+## Contraindications & Precautions
+- vitamin-K-deficiency-bleeding-risk
+- hemorrhagic-stroke-history
+
+
+## Drug Interactions
+- anticoagulants-additive-effect
+- antiplatelets
+- chemotherapy-radiation
+
+## Prescribing Logic
+**When to choose this:** High oxidative stress, skin aging concerns, cardiovascular protection, antioxidant protocol
+**When to choose alternative:** Lower dose needed → multivitamin E; Mixed tocopherols priority → this product
+**Combination notes:** Natural D-alpha form preferred. 418 IU is therapeutic. Fat-soluble — take with food.
+
+## Related Conditions
+- [[Vitamin_E_Tocopherols_Antioxidant_Z-007-0004]] #vitamin-e
+- [[Oxidative_Stress_Markers_Z-001-XXXX]] #oxidative-stress
 
 ---
 *Catalog created: 2026-03-31*  

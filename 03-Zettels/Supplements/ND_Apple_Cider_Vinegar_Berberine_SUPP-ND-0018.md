@@ -17,6 +17,10 @@ target: glucose-metabolism, digestion, metabolic-health
 key_ingredients: [apple-cider-vinegar, berberine, chromium, choline, carnitine]
 source_url: https://naturaldoctor.gr/el/catalogue/apple-cider-vinegar-berberine-104/
 tags: [apple-cider-vinegar, berberine, chromium, metabolic, glucose, digestion]
+clinical_priority: adjunct
+indications: [post-meal-glucose, metabolic-syndrome, digestion, weight-management]
+contraindications: [gastritis, GERD, esophagitis, hypoglycemia-risk]
+drug_interactions: [diabetes-medications-monitor-glucose, blood-pressure-meds, blood-thinners, digoxin]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -109,6 +113,30 @@ Take 1 capsule with water before meals, twice daily, or as directed by your phys
 | Choline/Carnitine | Yes | No |
 | Daily cost | €1.47 | €0.73 |
 | Best for | Comprehensive metabolic | Pure berberine |
+
+## Clinical Indications
+**Primary:** Post-meal glucose control, metabolic syndrome, digestive support
+**Secondary:** Weight management, lipid metabolism
+**Adjunct:** With berberine (AMPK), chromium (glucose), magnesium (insulin sensitivity)
+
+## Contraindications & Precautions
+- gastritis
+- GERD
+- esophagitis
+
+## Drug Interactions
+- diabetes-medications-monitor-glucose
+- blood-pressure-meds
+- blood-thinners
+
+## Prescribing Logic
+**When to choose this:** Post-meal glucose spikes, metabolic syndrome, digestive support, prefers combo product
+**When to choose alternative:** Need pure berberine → Berberine Complex; Need ACV only → liquid ACV
+**Combination notes:** Take before meals for glucose effects. High berberine (~456mg). ACV in capsule avoids taste/erosion.
+
+## Related Conditions
+- [[Glucose_Blood_Sugar_Energy_Z-005-0001]] #glucose
+- [[Metabolic_Syndrome_Z-005-XXXX]] #metabolic-syndrome
 
 ---
 *Catalog created: 2026-03-31*  

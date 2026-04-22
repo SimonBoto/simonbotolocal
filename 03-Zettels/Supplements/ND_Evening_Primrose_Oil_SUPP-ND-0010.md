@@ -17,6 +17,10 @@ target: womens-health, skin-health, pms-support, anti-inflammatory
 key_ingredients: [evening-primrose-oil, gla, linoleic-acid]
 source_url: https://naturaldoctor.gr/el/catalogue/evening-primrose-oil-63/
 tags: [evening-primrose, gla, omega-6, linoleic-acid, womens-health, skin]
+clinical_priority: adjunct
+indications: [PMS, menopause, atopic-eczema, acne, dry-skin, diabetic-neuropathy]
+contraindications: [epilepsy, schizophrenia, bleeding-disorders, upcoming-surgery]
+drug_interactions: [anticoagulants, antiplatelets, phenothiazines, blood-pressure-medications]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -134,6 +138,30 @@ Many people have impaired conversion of LA → GLA due to:
 | Focus | Women's health, skin | Cardiovascular, inflammation |
 | Daily cost | €0.28-0.85 | €1.63 |
 | Best combined with | Omega-3 | — |
+
+## Clinical Indications
+**Primary:** PMS, menopausal support, atopic eczema, dry skin
+**Secondary:** Acne, diabetic neuropathy, rheumatoid arthritis, hormonal balance
+**Adjunct:** With omega-3 (fatty acid balance), vitamin E (antioxidant), B6 (PMS)
+
+## Contraindications & Precautions
+- epilepsy
+- schizophrenia
+- bleeding-disorders
+
+## Drug Interactions
+- anticoagulants
+- antiplatelets
+- phenothiazines
+
+## Prescribing Logic
+**When to choose this:** PMS symptoms, menopause, eczema, dry skin, GLA deficiency suspected
+**When to choose alternative:** Need higher GLA → borage oil (20-24% GLA); Need omega-3 → Clear Omega 3
+**Combination notes:** GLA bypasses impaired delta-6-desaturase. 270mg GLA at 3 softgels. Takes 4-12 weeks for effects.
+
+## Related Conditions
+- [[PMS_Premenstrual_Syndrome_Z-011-XXXX]] #pms
+- [[Atopic_Dermatitis_Eczema_Z-001-XXXX]] #eczema
 
 ---
 *Catalog created: 2026-03-31*  

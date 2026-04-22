@@ -17,6 +17,10 @@ target: thyroid-health, immune-support, antioxidant
 key_ingredients: [selenium, l-selenomethionine]
 source_url: https://naturaldoctor.gr/el/catalogue/selenium-200-mcg-78/
 tags: [selenium, selenomethionine, thyroid, immune, antioxidant]
+clinical_priority: second-line
+indications: [thyroid-health, hashimotos-adjunct, immune-support, antioxidant, male-fertility]
+contraindications: [selenium-toxicity-risk-dont-exceed-400mcg-total]
+drug_interactions: [chemotherapy, barbiturates, blood-thinners]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -110,6 +114,30 @@ Take 1 capsule daily with water or as directed by your physician.
 | Other nutrients | None | Multiple |
 | Daily cost | €0.30 | €1.33 |
 | Best for | Selenium boost | Comprehensive thyroid |
+
+## Clinical Indications
+**Primary:** Thyroid health, Hashimoto's adjunct, immune support
+**Secondary:** Antioxidant status, male fertility, hair/nail health
+**Adjunct:** With vitamin E (synergistic antioxidant), zinc (immune), iodine (thyroid)
+
+## Contraindications & Precautions
+- selenium-toxicity-risk-dont-exceed-400mcg-total
+
+
+
+## Drug Interactions
+- chemotherapy
+- barbiturates
+- blood-thinners
+
+## Prescribing Logic
+**When to choose this:** Hashimoto's thyroiditis, hypothyroidism, low selenium regions, immune support
+**When to choose alternative:** Need comprehensive thyroid → Healthy Thyroid; Budget option → Brazil nuts
+**Combination notes:** 200mcg is therapeutic. Don't exceed 400mcg total from all sources. L-selenomethionine is best form.
+
+## Related Conditions
+- [[TSH_Thyroid_Stimulating_Hormone_Z-010-0001]] #tsh
+- [[Anti-TPO_Thyroid_Peroxidase_Antibodies_Z-010-0004]] #hashimotos
 
 ---
 *Catalog created: 2026-03-31*  

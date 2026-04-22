@@ -17,6 +17,10 @@ target: hormonal-balance, pms, menstrual-regularity
 key_ingredients: [agnus-castus, chaste-tree, vitex]
 source_url: https://naturaldoctor.gr/el/catalogue/agnus-castus-71/
 tags: [agnus-castus, vitex, chaste-tree, womens-health, pms, progesterone]
+clinical_priority: specialty
+indications: [PMS, irregular-menstrual-cycles, luteal-phase-defect, cyclic-breast-pain, hormonal-acne, perimenopause]
+contraindications: [pregnancy, breastfeeding, hormonal-contraceptives-may-reduce-efficacy, hormone-sensitive-cancers]
+drug_interactions: [dopamine-agonists, hormonal-contraceptives, HRT, antipsychotics]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -100,6 +104,31 @@ Take 2 capsules daily or as directed by your physician.
 | Onset | 2-3 cycles | 4-12 weeks |
 | Daily cost | €0.93 | €0.28-0.85 |
 | Can combine | Yes | Yes (synergistic) |
+
+## Clinical Indications
+**Primary:** PMS, irregular menstrual cycles, luteal phase defect, cyclic breast pain
+**Secondary:** Hormonal acne, perimenopause transition, hyperprolactinemia
+**Adjunct:** With evening primrose oil (PMS synergy), magnesium (cramps), B6 (PMS)
+
+## Contraindications & Precautions
+- pregnancy
+- breastfeeding
+- hormonal-contraceptives-may-reduce-efficacy
+
+## Drug Interactions
+- dopamine-agonists
+- hormonal-contraceptives
+- HRT
+
+## Prescribing Logic
+**When to choose this:** PMS (physical/emotional), irregular cycles, luteal phase deficiency, cyclic mastalgia
+**When to choose alternative:** Need stronger hormonal support → prescription; Need GLA → Evening Primrose Oil
+**Combination notes:** Takes 2-3 cycles for effects. Start day 1-5 of cycle. Dopaminergic effect — lowers prolactin.
+
+## Related Conditions
+- [[PMS_Premenstrual_Syndrome_Z-011-XXXX]] #pms
+- [[Progesterone_Luteal_Phase_Hormone_Z-011-0004]] #progesterone
+- [[Prolactin_Pituitary_Hormone_Z-011-0006]] #prolactin
 
 ---
 *Catalog created: 2026-03-31*  

@@ -17,6 +17,10 @@ target: energy-metabolism, nervous-system, psychological-function
 key_ingredients: [nicotinamide, niacinamide, vitamin-b3]
 source_url: https://naturaldoctor.gr/el/catalogue/nicotinamide-40/
 tags: [nicotinamide, niacinamide, vitamin-b3, energy, nervous-system]
+clinical_priority: second-line
+indications: [energy-metabolism, skin-health, NAD-precursor-budget, psychological-function, nervous-system]
+contraindications: [severe-liver-disease, gout-may-worsen]
+drug_interactions: [carbamazepine, primidone, blood-pressure-medications]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -117,6 +121,30 @@ Take 1 capsule daily after food or as directed by your physician.
 | Daily cost | €0.21 | €0.57 |
 | Best for | Targeted B3 support | Comprehensive nutrition |
 | Can combine | Yes | Yes |
+
+## Clinical Indications
+**Primary:** Energy metabolism, skin health, NAD+ precursor (budget option)
+**Secondary:** Psychological function, nervous system support, general B3 needs
+**Adjunct:** With other B-vitamins (synergy), magnesium (cofactor), resveratrol (SIRT1)
+
+## Contraindications & Precautions
+- severe-liver-disease
+- gout-may-worsen
+
+
+## Drug Interactions
+- carbamazepine
+- primidone
+- blood-pressure-medications
+
+## Prescribing Logic
+**When to choose this:** General B3 needs, energy support, skin health, budget NAD+ precursor
+**When to choose alternative:** Need direct NAD+ boost → Life Energy+ (NR); Need flushing niacin → nicotinic acid
+**Combination notes:** 500mg is therapeutic. Non-flushing form. Indirect NAD+ pathway. Much cheaper than NR/NMN.
+
+## Related Conditions
+- [[NAD_Plus_Cellular_Energy_Z-001-XXXX]] #nad
+- [[Energy_Metabolism_Markers_Z-005-XXXX]] #energy
 
 ---
 *Catalog created: 2026-03-31*  

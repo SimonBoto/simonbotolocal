@@ -17,6 +17,10 @@ target: skin-health, hair-health, nail-health, collagen-support
 key_ingredients: [centella-asiatica, vitamin-c, zinc, biotin, copper, l-cysteine]
 source_url: https://naturaldoctor.gr/el/catalogue/regene-6/
 tags: [beauty, skin, hair, nails, collagen, centella, biotin]
+clinical_priority: adjunct
+indications: [weak-nails, thin-hair, skin-aging, post-acne-healing, collagen-support]
+contraindications: [none-significant]
+drug_interactions: [none-significant]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -114,6 +118,30 @@ Take 2 capsules twice daily after food or as directed by your physician.
 | Vitamin C | 160 mg | 300 mg |
 | Zinc | 10 mg | 12.5 mg |
 | Daily cost | €1.27 | €4.20 |
+
+## Clinical Indications
+**Primary:** Weak nails, thin hair, skin aging, collagen support
+**Secondary:** Post-acne healing, general beauty maintenance
+**Adjunct:** With collagen peptides (structural), vitamin C (synthesis), omega-3 (skin)
+
+## Contraindications & Precautions
+- none-significant
+
+
+
+## Drug Interactions
+- none-significant
+
+
+
+## Prescribing Logic
+**When to choose this:** Beauty concerns (hair, skin, nails), collagen support, centella asiatica desired
+**When to choose alternative:** Need collagen directly → Collagen Peptides+; Need lower cost → individual nutrients
+**Combination notes:** High-dose Centella (1600mg) + biotin 500mcg + zinc/copper balanced. Takes 8-12 weeks for visible results.
+
+## Related Conditions
+- [[Collagen_Synthesis_Skin_Health_Z-001-XXXX]] #collagen
+- [[Zinc_RBC_Functional_Mineral_Z-007-0006]] #zinc
 
 ---
 *Catalog created: 2026-03-31*  

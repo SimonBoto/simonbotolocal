@@ -17,6 +17,10 @@ target: glutathione-status, antioxidant-defense, cellular-protection
 key_ingredients: [setria-glutathione, l-glutathione, reduced-glutathione]
 source_url: https://naturaldoctor.gr/el/catalogue/setria-glutathione-102/
 tags: [glutathione, setria, antioxidant, detox, master-antioxidant]
+clinical_priority: second-line
+indications: [antioxidant-status, detoxification, immune-enhancement, skin-brightening, athletic-recovery]
+contraindications: [asthma-inhalation-may-trigger]
+drug_interactions: [chemotherapy-consult-oncologist, immunosuppressants]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -101,6 +105,30 @@ Take 1-2 capsules daily with water or as directed by your physician. Drink plent
 - [[Glutathione_Master_Antioxidant_Z-001-0436]] — primary marker
 - [[GGT_Gamma-Glutamyl_Transferase_Z-009-0004]] — glutathione metabolism enzyme
 - [[ALT_Alanine_Aminotransferase_Z-009-0001]] — liver function marker
+
+## Clinical Indications
+**Primary:** Antioxidant status optimization, detoxification, immune enhancement
+**Secondary:** Skin brightening, athletic recovery, general cellular protection
+**Adjunct:** With NAC (precursor support), vitamin C (recycles glutathione), selenium (GPx cofactor)
+
+## Contraindications & Precautions
+- asthma-inhalation-may-trigger
+
+
+
+## Drug Interactions
+- chemotherapy-consult-oncologist
+- immunosuppressants
+
+
+## Prescribing Logic
+**When to choose this:** High oxidative stress, detox needs, immune support, skin brightening, athletic recovery
+**When to choose alternative:** Budget option → NAC 300mg (precursor); Need higher dose → 1000mg
+**Combination notes:** Setria® proven absorption. Can combine with NAC for dual approach. Morning dosing preferred.
+
+## Related Conditions
+- [[Glutathione_Master_Antioxidant_Z-001-0436]] #glutathione
+- [[Oxidative_Stress_Markers_Z-001-XXXX]] #oxidative-stress
 
 ---
 *Catalog created: 2026-03-31*  

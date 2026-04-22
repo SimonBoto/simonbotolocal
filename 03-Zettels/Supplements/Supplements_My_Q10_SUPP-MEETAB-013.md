@@ -15,6 +15,10 @@ target: mitochondrial-energy, heart-health, antioxidant
 key_ingredients: [ubiquinol, coq10, kaneka]
 source_url: https://meetabstore.ch/en/for-your-youth/19-my-q10.html
 tags: [coq10, ubiquinol, mitochondrial, heart, antioxidant]
+clinical_priority: second-line
+indications: [cardiovascular-support, statin-therapy, mitochondrial-dysfunction, energy-production, aging]
+contraindications: [hypotension]
+drug_interactions: [statins-deplete-CoQ10, blood-pressure-medications, anticoagulants, chemotherapy]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -75,6 +79,30 @@ Take 1 softgel daily.
 |-------|------------|-----------|----------|
 | 1 softgel | €1.05 | 50 mg | Maintenance |
 | 2 softgels | €2.10 | 100 mg | Therapeutic |
+
+## Clinical Indications
+**Primary:** Cardiovascular support, statin therapy patients, mitochondrial dysfunction
+**Secondary:** Energy production, aging (CoQ10 declines with age), antioxidant protection
+**Adjunct:** With omega-3 (cardiovascular), magnesium (heart), carnitine (energy)
+
+## Contraindications & Precautions
+- hypotension
+
+
+
+## Drug Interactions
+- statins-deplete-CoQ10
+- blood-pressure-medications
+- anticoagulants
+
+## Prescribing Logic
+**When to choose this:** On statin therapy, cardiovascular concerns, mitochondrial dysfunction, fatigue
+**When to choose alternative:** Need higher dose → 100-200mg products; Need ubiquinone → cheaper alternative
+**Combination notes:** Ubiquinol (active form) 50mg is maintenance. Statins deplete CoQ10 — essential for statin patients. Kaneka gold standard.
+
+## Related Conditions
+- [[Cardiovascular_Risk_Assessment_Z-008-XXXX]] #cardiovascular
+- [[Statin-Induced_Myopathy_Z-001-XXXX]] #statin-myopathy
 
 ---
 *Catalog created: 2026-02-25*  

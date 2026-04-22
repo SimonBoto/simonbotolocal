@@ -17,6 +17,10 @@ target: stress-relief, energy, vitality, cognitive-function
 key_ingredients: [ashwagandha, ksm-66, withania-somnifera]
 source_url: https://naturaldoctor.gr/el/catalogue/ashwagandha-ksm66-500mg-82/
 tags: [ashwagandha, ksm-66, adaptogen, stress, cortisol, ayurveda]
+clinical_priority: second-line
+indications: [stress, anxiety, low-testosterone, cognitive-decline, subclinical-hypothyroidism, athletic-performance]
+contraindications: [pregnancy, breastfeeding, autoimmune-disease-consult-physician, thyroid-disorder-monitor]
+drug_interactions: [sedatives, thyroid-medications-monitor-TSH, immunosuppressants, benzodiazepines]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -119,6 +123,31 @@ Take 1-2 capsules daily after breakfast or as directed by your physician.
 | Focus | Pure adaptogen | Thyroid-specific |
 | Daily cost | €0.50-1.00 | €1.33 |
 | Best for | Stress, energy, testosterone | Thyroid support |
+
+## Clinical Indications
+**Primary:** Stress, anxiety, cortisol reduction, low testosterone
+**Secondary:** Cognitive support, subclinical hypothyroidism, athletic performance, sleep
+**Adjunct:** With magnesium (calming), B-complex (stress), rhodiola (energy)
+
+## Contraindications & Precautions
+- pregnancy
+- breastfeeding
+- autoimmune-disease-consult-physician
+
+## Drug Interactions
+- sedatives
+- thyroid-medications-monitor-TSH
+- immunosuppressants
+
+## Prescribing Logic
+**When to choose this:** High cortisol, stress, anxiety, low testosterone in men, subclinical hypothyroidism
+**When to choose alternative:** Need thyroid-specific formula → Healthy Thyroid; Need triple adaptogen → My Antistress
+**Combination notes:** Morning dosing. Effects build over 2-4 weeks. KSM-66 is gold standard extract.
+
+## Related Conditions
+- [[Cortisol_Primary_Stress_Hormone_Z-011-0005]] #cortisol
+- [[Testosterone_Primary_Male_Androgen_Z-011-0001]] #testosterone
+- [[TSH_Thyroid_Stimulating_Hormone_Z-010-0001]] #thyroid
 
 ---
 *Catalog created: 2026-03-31*  

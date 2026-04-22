@@ -17,6 +17,10 @@ target: muscle-function, nervous-system, energy-production, electrolyte-balance
 key_ingredients: [magnesium-malate, magnesium-bisglycinate, magnesium-citrate]
 source_url: https://naturaldoctor.gr/el/catalogue/plus-magnesium-22/
 tags: [magnesium, malate, bisglycinate, citrate, multi-form, high-absorption]
+clinical_priority: first-line
+indications: [muscle-cramps, insomnia, anxiety, fatigue, constipation, migraine-prevention, vitamin-d-cofactor]
+contraindications: [severe-renal-failure, myasthenia-gravis, heart-block]
+drug_interactions: [bisphosphonates, antibiotics-tetracyclines, diuretics]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -110,6 +114,30 @@ Take 3 capsules daily after food or as directed by your physician.
 | Vitamin D | None | 2000 IU | 2000 IU |
 | Daily cost | €1.70 | €0.33 | €0.49 |
 | Focus | Multi-form Mg | Mg/Ca/D combo | Mg/Ca/D combo |
+
+## Clinical Indications
+**Primary:** Muscle cramps, insomnia, anxiety, fatigue
+**Secondary:** Constipation, migraine prevention, PMS
+**Adjunct:** With Vitamin D (required for activation), B-complex
+
+## Contraindications & Precautions
+- severe-renal-failure
+- myasthenia-gravis
+- heart-block
+
+## Drug Interactions
+- bisphosphonates
+- antibiotics-tetracyclines
+- diuretics
+
+## Prescribing Logic
+**When to choose this:** Patient reports muscle cramps, poor sleep, anxiety, or on high-dose Vitamin D therapy
+**When to choose alternative:** Severe deficiency → higher-dose standalone magnesium; GI sensitivity → bisglycinate only
+**Combination notes:** Pairs with Vitamin D, B-complex, and calcium. Essential cofactor for D activation.
+
+## Related Conditions
+- [[Magnesium_Essential_Mineral_Cofactor_Z-007-0008]] #magnesium
+- [[Vitamin_D_Calciferol_Steroid_Hormone_Z-007-0001]] #vitamin-d
 
 ---
 *Catalog created: 2026-03-31*  

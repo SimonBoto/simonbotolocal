@@ -17,6 +17,10 @@ target: liver-function, detoxification, hepatoprotection
 key_ingredients: [milk-thistle, silymarin, alpha-lipoic-acid, choline]
 source_url: https://naturaldoctor.gr/el/catalogue/healthy-liver-60/
 tags: [liver, milk-thistle, silymarin, alpha-lipoic-acid, choline, detox]
+clinical_priority: second-line
+indications: [NAFLD, alcohol-related-liver-stress, detoxification, elevated-liver-enzymes, medication-induced-liver-stress]
+contraindications: [acute-hepatitis-consult-physician, gallbladder-obstruction]
+drug_interactions: [medications-metabolized-by-liver]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -126,6 +130,30 @@ Milk thistle/silymarin has been studied for:
 | Choline | 82.5 mg | 3.1 mg |
 | Focus | Liver-specific | Metabolic/antioxidant |
 | Daily cost | €0.43 | €4.20 |
+
+## Clinical Indications
+**Primary:** NAFLD, alcohol-related liver stress, detoxification support
+**Secondary:** Elevated liver enzymes, medication-induced liver stress, general hepatoprotection
+**Adjunct:** With NAC (glutathione precursor), alpha-lipoic acid, choline (lipid metabolism)
+
+## Contraindications & Precautions
+- acute-hepatitis-consult-physician
+- gallbladder-obstruction
+
+
+## Drug Interactions
+- medications-metabolized-by-liver
+
+
+
+## Prescribing Logic
+**When to choose this:** Elevated ALT/AST, NAFLD, alcohol use, medication burden, detox support
+**When to choose alternative:** Need higher silymarin → standalone milk thistle; Need NAC → NAC 300mg
+**Combination notes:** Silymarin moderate dose (114mg). ALA 300mg is good therapeutic dose. Monitor liver enzymes.
+
+## Related Conditions
+- [[ALT_Alanine_Aminotransferase_Z-009-0001]] #alt
+- [[NAFLD_Non-Alcoholic_Fatty_Liver_Z-009-XXXX]] #nafld
 
 ---
 *Catalog created: 2026-03-31*  

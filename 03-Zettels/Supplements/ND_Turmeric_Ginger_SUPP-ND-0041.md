@@ -17,6 +17,10 @@ target: inflammation, joint-health, digestion, antioxidant
 key_ingredients: [turmeric, curcumin, ginger, piperine, black-pepper]
 source_url: https://naturaldoctor.gr/el/catalogue/turmeric-ginger-65/
 tags: [turmeric, curcumin, ginger, anti-inflammatory, piperine, joints]
+clinical_priority: second-line
+indications: [osteoarthritis, joint-pain, inflammation, IBS-IBD, exercise-recovery, metabolic-syndrome]
+contraindications: [gallstones, bile-duct-obstruction, upcoming-surgery-discontinue-2-weeks, pregnancy-high-doses]
+drug_interactions: [anticoagulants, antiplatelets, diabetes-medications]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -119,6 +123,30 @@ Take 1 capsule daily or as directed by your physician.
 | Piperine | 5 mg | 5 mg |
 | Daily cost | €0.57 | €0.54 |
 | Best for | General anti-inflammatory | Joint-specific |
+
+## Clinical Indications
+**Primary:** Osteoarthritis, joint pain, inflammation
+**Secondary:** IBS/IBD support, exercise recovery, metabolic syndrome, general wellness
+**Adjunct:** With omega-3 (inflammation), boswellia (joints), ginger already included
+
+## Contraindications & Precautions
+- gallstones
+- bile-duct-obstruction
+- upcoming-surgery-discontinue-2-weeks
+
+## Drug Interactions
+- anticoagulants
+- antiplatelets
+- diabetes-medications
+
+## Prescribing Logic
+**When to choose this:** Joint pain, osteoarthritis, inflammatory conditions, digestive inflammation
+**When to choose alternative:** Need higher curcumin → My Relief (475mg); Need boswellia → My Relief
+**Combination notes:** Piperine enhances absorption 2000%. Take with fat. Therapeutic curcumin often 500-1000mg.
+
+## Related Conditions
+- [[CRP_C-Reactive_Protein_Z-002-0001]] #crp
+- [[Osteoarthritis_Joint_Degeneration_Z-001-XXXX]] #osteoarthritis
 
 ---
 *Catalog created: 2026-03-31*  

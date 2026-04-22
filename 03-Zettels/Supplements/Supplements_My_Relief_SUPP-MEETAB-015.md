@@ -15,6 +15,10 @@ target: inflammation, water-retention, anti-edema
 key_ingredients: [hibiscus, blackcurrant, alisma, diuretic]
 source_url: https://meetabstore.ch/en/for-inflammation/23-my-relief.html
 tags: [anti-inflammatory, diuretic, water-retention, herbal]
+clinical_priority: second-line
+indications: [water-retention, edema, mild-hypertension, PMS-bloating, joint-inflammation-fluid]
+contraindications: [severe-kidney-disease, electrolyte-imbalance, dehydration]
+drug_interactions: [diuretics-additive, blood-pressure-medications, lithium]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -80,6 +84,30 @@ Take 1 capsule daily.
 |-------|------------|----------|
 | 1 capsule | €0.54 | Standard dose |
 | 2 capsules | €1.09 | Higher water retention |
+
+## Clinical Indications
+**Primary:** Water retention, edema, mild hypertension support
+**Secondary:** PMS bloating, joint inflammation with fluid retention
+**Adjunct:** With magnesium (electrolyte balance), potassium (if on long-term), anti-inflammatory herbs
+
+## Contraindications & Precautions
+- severe-kidney-disease
+- electrolyte-imbalance
+- dehydration
+
+## Drug Interactions
+- diuretics-additive
+- blood-pressure-medications
+- lithium
+
+## Prescribing Logic
+**When to choose this:** Water retention, PMS bloating, mild edema, mild hypertension
+**When to choose alternative:** Need stronger diuretic → prescription; Need anti-inflammatory → Turmeric & Ginger
+**Combination notes:** Natural diuretic (hibiscus, blackcurrant, alisma). Potassium-sparing. Monitor electrolytes with long-term use.
+
+## Related Conditions
+- [[Blood_Pressure_Cardiovascular_Z-008-XXXX]] #blood-pressure
+- [[Edema_Fluid_Retention_Z-008-XXXX]] #edema
 
 ---
 *Catalog created: 2026-02-25*  

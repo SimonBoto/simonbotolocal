@@ -17,6 +17,10 @@ target: glutathione-production, detoxification, liver-health, respiratory-health
 key_ingredients: [nac, n-acetyl-cysteine]
 source_url: https://naturaldoctor.gr/el/catalogue/nac-300-mg-103/
 tags: [nac, glutathione, antioxidant, detox, liver, respiratory]
+clinical_priority: second-line
+indications: [glutathione-support, liver-detox, respiratory-mucus, OCD, PCOS, fertility]
+contraindications: [bleeding-disorders, upcoming-surgery-discontinue-2-weeks]
+drug_interactions: [nitroglycerin-may-enhance-effects, blood-thinners, activated-charcoal]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -118,6 +122,30 @@ Take 1 capsule daily with water or as directed by your physician.
 | Standalone | Yes | No (in formula) |
 | Daily cost | €0.27 | €1.00 |
 | Primary use | Detox/antioxidant | Energy/recovery |
+
+## Clinical Indications
+**Primary:** Glutathione support, liver detoxification, respiratory mucus clearance
+**Secondary:** OCD, PCOS (insulin sensitivity), fertility (egg quality), immune support
+**Adjunct:** With vitamin C (recycles glutathione), selenium (glutathione peroxidase), Setria glutathione
+
+## Contraindications & Precautions
+- bleeding-disorders
+- upcoming-surgery-discontinue-2-weeks
+
+
+## Drug Interactions
+- nitroglycerin-may-enhance-effects
+- blood-thinners
+- activated-charcoal
+
+## Prescribing Logic
+**When to choose this:** Liver support needed, respiratory conditions, OCD, PCOS, glutathione deficiency
+**When to choose alternative:** Need direct glutathione → Setria Glutathione; Need higher dose → 600-1200mg
+**Combination notes:** Dose is modest (300mg). Therapeutic often 600-1200mg. Sulfur smell is normal.
+
+## Related Conditions
+- [[Glutathione_Master_Antioxidant_Z-001-0436]] #glutathione
+- [[ALT_Alanine_Aminotransferase_Z-009-0001]] #liver-enzymes
 
 ---
 *Catalog created: 2026-03-31*  

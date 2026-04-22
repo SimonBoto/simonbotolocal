@@ -17,6 +17,10 @@ target: testosterone-support, fertility, male-vitality
 key_ingredients: [ashwagandha-ksm66, l-arginine, ginkgo, ginseng, cordyceps, zinc, selenium]
 source_url: https://naturaldoctor.gr/el/catalogue/healthy-testosterone-94/
 tags: [testosterone, mens-health, fertility, ashwagandha, libido, vitality]
+clinical_priority: second-line
+indications: [low-testosterone, male-fertility, low-libido, fatigue-men, stress-related-vitality-decline]
+contraindications: [prostate-cancer, severe-cardiovascular-disease]
+drug_interactions: [testosterone-replacement-therapy, blood-pressure-medications, blood-thinners]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -120,6 +124,30 @@ Take 2 capsules daily or as directed by your physician.
 | Arginine | 300 mg | 100 mg |
 | Vitamin D | 1000 IU | 1000 IU |
 | Daily cost | €2.00 | €1.05 |
+
+## Clinical Indications
+**Primary:** Low testosterone support, male fertility, libido enhancement
+**Secondary:** Fatigue in men, stress-related vitality decline, exercise performance
+**Adjunct:** With zinc (testosterone synthesis), vitamin D (linked to T levels), magnesium
+
+## Contraindications & Precautions
+- prostate-cancer
+- severe-cardiovascular-disease
+
+
+## Drug Interactions
+- testosterone-replacement-therapy
+- blood-pressure-medications
+- blood-thinners
+
+## Prescribing Logic
+**When to choose this:** Low testosterone symptoms, low libido, fatigue in men, fertility optimization
+**When to choose alternative:** Need pure ashwagandha → KSM-66; Need higher arginine → L-Arginine Base
+**Combination notes:** Ashwagandha evidence: 15% T increase in stressed men. Zinc critical for T synthesis.
+
+## Related Conditions
+- [[Testosterone_Primary_Male_Androgen_Z-011-0001]] #testosterone
+- [[Free_Testosterone_Bioavailable_Androgen_Z-011-0007]] #free-testosterone
 
 ---
 *Catalog created: 2026-03-31*  

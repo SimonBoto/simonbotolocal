@@ -17,6 +17,10 @@ target: pediatric-nutrition, immune-support, growth-development
 key_ingredients: [multivitamin, minerals, beta-carotene, methylated-b-vitamins]
 source_url: https://naturaldoctor.gr/el/catalogue/healthy-kid-29/
 tags: [pediatric, children, multivitamin, immune, growth, development]
+clinical_priority: adjunct
+indications: [pediatric-nutrition, picky-eaters, immune-support-children, growth-development]
+contraindications: [iron-overload]
+drug_interactions: [none-significant]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -125,6 +129,30 @@ Children's multivitamin to replenish nutritional deficiencies from daily diet. C
 | Iron | 1.28 mg | 2.5 mg |
 | Capsule size | Mini | Standard |
 | Daily cost | €0.23-0.70 | €0.57 |
+
+## Clinical Indications
+**Primary:** Pediatric nutrition, picky eaters, immune support, growth and development
+**Secondary:** Children with dietary restrictions, nutritional insurance
+**Adjunct:** With omega-3 (brain development), vitamin D (if additional needed), probiotics (immune)
+
+## Contraindications & Precautions
+- iron-overload
+
+
+
+## Drug Interactions
+- none-significant
+
+
+
+## Prescribing Logic
+**When to choose this:** Children 3+, picky eaters, frequent illness, dietary restrictions
+**When to choose alternative:** Need liquid → liquid children's multivitamin; Need higher D → add Pure D3 drops
+**Combination notes:** Age-appropriate dosing (1-3 capsules). Can open capsules for young children. Methylated B vitamins. Mini capsules.
+
+## Related Conditions
+- [[Vitamin_D_Calciferol_Steroid_Hormone_Z-007-0001]] #vitamin-d
+- [[Pediatric_Nutrition_Z-001-XXXX]] #pediatric
 
 ---
 *Catalog created: 2026-03-31*  

@@ -17,6 +17,10 @@ target: cellular-protection, oxidative-stress
 key_ingredients: [alpha-lipoic-acid, cinnamon, green-tea-egcg, carnitine]
 source_url: https://meetabstore.ch/en/for-your-youth/1-my-antioxidant.html
 tags: [antioxidant, metabolic-syndrome, glucose-control, anti-aging]
+clinical_priority: second-line
+indications: [high-oxidative-stress, metabolic-syndrome, anti-aging, diabetes-adjunct, cardiovascular-protection]
+contraindications: [hypoglycemia-risk-with-diabetes-meds]
+drug_interactions: [diabetes-medications, blood-pressure-medications, anticoagulants]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -93,6 +97,30 @@ Very similar formula to My Shape — possibly the same base formula with differe
 - Anti-aging protocols
 - Diabetes support (adjunct)
 - Cardiovascular protection
+
+## Clinical Indications
+**Primary:** High oxidative stress, metabolic syndrome, anti-aging
+**Secondary:** Diabetes support, cardiovascular protection, cellular protection
+**Adjunct:** With vitamin C (recycles E), selenium (antioxidant network), CoQ10 (mitochondrial)
+
+## Contraindications & Precautions
+- hypoglycemia-risk-with-diabetes-meds
+
+
+
+## Drug Interactions
+- diabetes-medications
+- blood-pressure-medications
+- anticoagulants
+
+## Prescribing Logic
+**When to choose this:** High oxidative stress, metabolic syndrome, anti-aging protocol, diabetes
+**When to choose alternative:** Very similar to My Shape — possibly same base formula. Lower dose → My Shape
+**Combination notes:** Highest daily cost in Meetab line (€4.20). ALA 500mg at 4 tablets. Strong metabolic protection focus.
+
+## Related Conditions
+- [[Oxidative_Stress_Markers_Z-001-XXXX]] #oxidative-stress
+- [[Metabolic_Syndrome_Z-005-XXXX]] #metabolic-syndrome
 
 ---
 *Catalog created: 2026-02-25*  

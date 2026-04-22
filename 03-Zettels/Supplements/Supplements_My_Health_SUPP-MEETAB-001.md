@@ -15,6 +15,10 @@ price_per_day: 0.98
 target: global wellbeing
 source_url: https://meetabstore.ch/en/global-wellbeing/6-my-health.html
 tags: [multivitamin, amino-acids, foundational, metabolic-support]
+clinical_priority: first-line
+indications: [general-nutritional-insurance, fatigue, methylation-support, immune-support]
+contraindications: [iron-overload-contains-2.5mg-iron]
+drug_interactions: [anticoagulants-vitamin-K, metformin-B12-depletion]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -114,6 +118,30 @@ Take 1 tablet daily after meals.
 - High-dose B1 (2273% NRV) supports energy metabolism
 - Vitamin C at 312% NRV with alkaline mineral ascorbates
 - Comprehensive amino acid mix supports protein synthesis
+
+## Clinical Indications
+**Primary:** Comprehensive nutritional foundation, fatigue, general wellness
+**Secondary:** Methylation support, immune function, amino acid supplementation
+**Adjunct:** With omega-3, vitamin D if additional needed, magnesium
+
+## Contraindications & Precautions
+- iron-overload-contains-2.5mg-iron
+
+
+
+## Drug Interactions
+- anticoagulants-vitamin-K
+- metformin-B12-depletion
+
+
+## Prescribing Logic
+**When to choose this:** Patient needs comprehensive nutritional foundation, poor diet, high stress
+**When to choose alternative:** Sensitive stomach → My Total Health (alkaline C); Higher D needed → add Pure D3
+**Combination notes:** Foundation for most protocols. Add D3, Mg, Omega-3 as needed.
+
+## Related Conditions
+- [[Homocysteine_Methylation_Cardiovascular_Risk_Z-004-0001]] #homocysteine
+- [[Vitamin_D_Calciferol_Steroid_Hormone_Z-007-0001]] #vitamin-d
 
 ---
 *Catalog created: 2026-02-25*  

@@ -17,6 +17,10 @@ target: thyroid-function, hormone-regulation, metabolic-support
 key_ingredients: [ashwagandha, l-tyrosine, selenium, zinc, vitamin-d3, alpha-lipoic-acid]
 source_url: https://naturaldoctor.gr/el/catalogue/healthy-thyroid-61/
 tags: [thyroid, ashwagandha, tyrosine, selenium, iodine, hormone-balance]
+clinical_priority: second-line
+indications: [subclinical-hypothyroidism, hashimotos-adjunct, T4-to-T3-conversion, stress-related-thyroid-dysfunction]
+contraindications: [hyperthyroidism, pregnancy-consult-physician, autoimmune-thyroiditis-monitor-antibodies]
+drug_interactions: [thyroid-medication-monitor-TSH, immunosuppressants]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -127,6 +131,31 @@ Take 2 capsules daily or as directed by your physician.
 | Selenium | 100 μg | 80 μg |
 | Iodine | None | None |
 | Daily cost | €1.33 | €1.05 |
+
+## Clinical Indications
+**Primary:** Subclinical hypothyroidism, Hashimoto's adjunct, T4→T3 conversion support
+**Secondary:** Stress-related thyroid dysfunction, general thyroid health
+**Adjunct:** With selenium (deiodinase cofactor), vitamin D (often low in thyroid patients), magnesium
+
+## Contraindications & Precautions
+- hyperthyroidism
+- pregnancy-consult-physician
+- autoimmune-thyroiditis-monitor-antibodies
+
+## Drug Interactions
+- thyroid-medication-monitor-TSH
+- immunosuppressants
+
+
+## Prescribing Logic
+**When to choose this:** Elevated TSH with normal T4, Hashimoto's (with medical supervision), low T3
+**When to choose alternative:** Need higher selenium → Selenium 200mcg; Need pure ashwagandha → KSM-66
+**Combination notes:** No iodine added (assumes dietary intake). Monitor TSH if on thyroid meds. Ashwagandha may raise T3.
+
+## Related Conditions
+- [[TSH_Thyroid_Stimulating_Hormone_Z-010-0001]] #tsh
+- [[Free_T3_Triiodothyronine_Active_Hormone_Z-010-0003]] #t3
+- [[Anti-TPO_Thyroid_Peroxidase_Antibodies_Z-010-0004]] #hashimotos
 
 ---
 *Catalog created: 2026-03-31*  

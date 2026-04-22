@@ -17,6 +17,10 @@ target: mood-support, cognitive-function, nervous-system
 key_ingredients: [glutamine, niacin, tyrosine, 5-htp, vitamin-b6, zinc, iodine]
 source_url: https://naturaldoctor.gr/el/catalogue/neurobalance-28/
 tags: [mood, cognitive, neurotransmitter, 5-htp, tyrosine, glutamine, stress]
+clinical_priority: second-line
+indications: [low-mood, stress, cognitive-function, neurotransmitter-imbalance, anxiety]
+contraindications: [bipolar-disorder-5-HTP-may-trigger-mania, pregnancy, on-SSRIs-MAOIs]
+drug_interactions: [antidepressants-serotonin-syndrome-risk, dopaminergic-drugs, thyroid-medication]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -114,6 +118,30 @@ Take 1-2 capsules once daily after food or as directed by your physician.
 | Melatonin | None | 1 mg |
 | Focus | Daytime mood/cognitive | Nighttime sleep |
 | Daily cost | €0.65-1.30 | €0.57 |
+
+## Clinical Indications
+**Primary:** Low mood, stress, cognitive function, neurotransmitter balance
+**Secondary:** Anxiety, nervous system support, general mental wellness
+**Adjunct:** With magnesium (calming), B-complex (neurotransmitter synthesis), omega-3 (brain)
+
+## Contraindications & Precautions
+- bipolar-disorder-5-HTP-may-trigger-mania
+- pregnancy
+- on-SSRIs-MAOIs
+
+## Drug Interactions
+- antidepressants-serotonin-syndrome-risk
+- dopaminergic-drugs
+- thyroid-medication
+
+## Prescribing Logic
+**When to choose this:** Mild mood concerns, stress, cognitive support, neurotransmitter imbalance suspected
+**When to choose alternative:** Need higher 5-HTP → standalone 5-HTP; Need higher tyrosine → standalone tyrosine
+**Combination notes:** Modest 5-HTP (10mg) and tyrosine (50mg) doses. Niacin high (125mg) may cause flushing.
+
+## Related Conditions
+- [[Serotonin_Neurotransmitter_Mood_Z-001-XXXX]] #serotonin
+- [[Dopamine_Motivation_Neurotransmitter_Z-001-XXXX]] #dopamine
 
 ---
 *Catalog created: 2026-03-31*  

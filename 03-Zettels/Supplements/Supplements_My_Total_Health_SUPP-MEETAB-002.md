@@ -17,6 +17,10 @@ target: ideal weight
 distinguishing_feature: alkaline vitamin C forms
 source_url: https://meetabstore.ch/en/for-the-weight/35-my-total-health.html
 tags: [multivitamin, amino-acids, foundational, weight-management]
+clinical_priority: second-line
+indications: [general-nutrition, sensitive-stomach, alkaline-vitamin-C, foundational-support]
+contraindications: [iron-overload]
+drug_interactions: [anticoagulants-vitamin-K]
 parent-moc: "[[MOC-Supplements]]"
 ---
 
@@ -110,6 +114,30 @@ Take 2 capsules daily after meals.
 - Good option for patients with acid sensitivity
 - Lower vitamin D (500 IU vs 1000 IU)
 - Comparable amino acid diversity but at reduced concentrations
+
+## Clinical Indications
+**Primary:** General nutrition, sensitive stomach, alkaline vitamin C forms
+**Secondary:** Foundational support for patients with acid sensitivity
+**Adjunct:** With omega-3, magnesium, vitamin D as needed
+
+## Contraindications & Precautions
+- iron-overload
+
+
+
+## Drug Interactions
+- anticoagulants-vitamin-K
+
+
+
+## Prescribing Logic
+**When to choose this:** Sensitive stomach, acid sensitivity, need gentler multivitamin
+**When to choose alternative:** Need higher doses → My Health; Need lower cost → Be Well
+**Combination notes:** Alkaline C (magnesium ascorbate + calcium ascorbate). ~50% lower doses than My Health. Good for sensitive patients.
+
+## Related Conditions
+- [[Vitamin_D_Calciferol_Steroid_Hormone_Z-007-0001]] #vitamin-d
+- [[Homocysteine_Methylation_Cardiovascular_Risk_Z-004-0001]] #homocysteine
 
 ---
 *Catalog created: 2026-02-25*  
