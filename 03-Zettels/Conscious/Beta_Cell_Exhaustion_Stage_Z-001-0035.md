@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, beta-cell, exhaustion, IFG, IGT, prediabetes]
 parent-moc: [[MOC-Insulin-Signaling]]
-source: [[LitNote_IR_Mechanisms_Map_L-001-0005]
+source-litnote: "[[LitNote_IR_Mechanisms_Map_L-001-0005]]"
 confidence: high
 created: 2026-02-24
 ---
