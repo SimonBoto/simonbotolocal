@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "01-Literature/The_Methylation_Cycle_-SAM-_SAH-_Epigenetic_Regula_L-001-0402_v4.0.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "The_Methylation_Cycle_-SAM-_SAH-_Epigenetic_Regula_L-001-0402_v4.0"
             }
           }
         ]
@@ -211,6 +211,8 @@
   },
   "active": "64120ee807f0bd00",
   "lastOpenFiles": [
+    "Untitled.md",
+    "08-Structure/Issues/Issue-086.md",
     "03-Zettels/Conscious/Olive_Oil_Polyphenols_Enhance_Endothelial_Function_Reduce_Oxidative_Stress_Z-TEST-0006.md",
     "03-Zettels/Conscious/Zinc_Supplementation_Accelerates_Wound_Healing_Diabetic_Patients_Z-TEST-0005.md",
     "03-Zettels/Conscious/Sleep_Deprivation_Impairs_Glucose_Metabolism_via_Cortisol_Dysregulation_Z-TEST-0004.md",
@@ -235,8 +237,6 @@
     "08-Structure/Issues/Issue-071.md",
     "08-Structure/Issues/Issue-070.md",
     "08-Structure/Issues/Issue-069.md",
-    "08-Structure/Issues/Issue-068.md",
-    "08-Structure/Issues/ISSUE-067-Synthetic-LitNote-Upgrade-Tracking.md",
     "07-Projects/Tools/update_zettels_to_litnotes.py",
     "07-Projects/Tools/batch_create_cgpt_litnotes.py",
     "07-Projects/Agents/SCOUT",

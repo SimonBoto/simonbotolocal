@@ -20,3 +20,6 @@ status: conscious
 **Mechanism:** Anti-arrhythmic, triglyceride lowering.
 
 **Significance:** CV protection biomarker.
+
+
+Source: [[Metabolic_Biomarkers_Briefing_-_Vitamin_D-_Omega_L-001-0587_v4.0]]

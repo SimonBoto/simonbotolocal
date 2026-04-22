@@ -18,3 +18,6 @@ status: conscious
 **Key Process:** VitD, Omega3, hsCRP, Hcy, HbA1c + CMP.
 
 **Significance:** Precision metabolic assessment.
+
+
+Source: [[Metabolic_Biomarkers_Briefing_-_Vitamin_D-_Omega_L-001-0587_v4.0]]

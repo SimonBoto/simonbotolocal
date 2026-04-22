@@ -17,3 +17,6 @@ status: conscious
 **Key Process:** PubMed, Embase, Cochrane, WoS, Scopus.
 
 **Significance:** Comprehensive coverage.
+
+
+Source: [[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]

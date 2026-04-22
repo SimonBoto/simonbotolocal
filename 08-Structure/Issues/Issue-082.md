@@ -1,43 +1,50 @@
 ---
 issue-id: ISSUE-082
-status: open
+status: pending
 priority: P2
 agent: RON
 created: 2026-04-22
+updated: 2026-04-22
 source: SAGE Vault Assessment
 ---
 
-# ISSUE-082: Audit Zettel Sourcing — 6:1 Ratio (1,634 Zettels / 259 LitNotes)
+# ISSUE-082: Audit Zettel Sourcing — 112 Placeholder Sources Need Real Academic Links
 
 ## Problem
-1,634 zettels on 259 LitNotes = 6.3:1 ratio. Either:
-- (a) Lots of synthesis zettels (legitimate)
-- (b) Unsourced zettels (quality risk)
+112 zettels have `source-litnote: legacy-no-source` — placeholder, not real academic sources.
 
-## Evidence
-- Zettels: ~1,634
-- LitNotes: 259
-- Ratio: 6.3:1
-- Healthy ratio: 3-5:1
+## Evidence (from ISSUE-077 audit)
+- Total zettels: 1,341
+- With source-litnote field: 1,341 (100%)
+- Real sources: ~1,229
+- **Placeholder (`legacy-no-source`): 112**
+- Missing entirely: 0
 
-## Action
-Audit random sample of 30 zettels:
-- [ ] Check `source-litnote` field exists
-- [ ] Verify source-litnote links to real LitNote
-- [ ] Check body has `[[LitNote]]` link
-- [ ] Flag unsourced zettels
+## Audit Results (30-sample)
+- Valid YAML: 26/30 (86%)
+- Has source-litnote: 30/30 (100%)
+- Has parent-moc: 29/30 (96%)
+- Has wiki links: 0/30 (0%) — FIXED by FORG batch job (+21 links)
 
-## Method
-```bash
-cd ~/Workspaces/TheOptimizedBrain/03-Zettels/Conscious
-ls | shuf | head -30 | xargs grep -L "source-litnote"
-```
+## The 112 Placeholder Zettels
+Need real academic sources. FORG can:
+- List all 112
+- Attempt web search for sources
+- Create LitNotes if sources found
+- CANNOT evaluate scientific validity (needs RON/SAGE)
+
+## Action Pending
+- [ ] List all 112 placeholder zettels
+- [ ] Categorize by topic/domain
+- [ ] Batch research sources (FORG + web search)
+- [ ] RON validates sources
+- [ ] Update zettels with real source-litnote
 
 ## Owner
-RON
+RON (with FORG assistance)
 
 ## Acceptance Criteria
-- [ ] 30 zettels audited
-- [ ] Sourcing rate calculated (% with valid source)
-- [ ] Unsourced zettels flagged
-- [ ] Fix plan for unsourced
+- [ ] 112 placeholder zettels identified
+- [ ] Real sources found for >50%
+- [ ] Remaining flagged for manual research
+- [ ] Ratio improves from 6.3:1 toward 3-5:1

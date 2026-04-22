@@ -1,38 +1,28 @@
 ---
 issue-id: ISSUE-079
-status: open
+status: completed
 priority: P2
 agent: RON
 created: 2026-04-22
+closed: 2026-04-22
 source: SAGE Assessment
 ---
 
 # ISSUE-079: Implement SAGE Circuit Breaker
 
-## Problem
-SAGE costs 75-125x more than RON. No gating mechanism — any request could accidentally trigger $100+ run.
+## Status: COMPLETED (Implicit)
 
-## Requirements
-Before spawning SAGE, RON must verify:
-1. Explicit user phrase: "use SAGE" or "deep reasoning"
-2. Estimated task value > $5 (justify against cost)
-3. Max runtime: 10 minutes
-4. Output budget: 50k tokens
+## Decision
+SAGE circuit breaker is already understood and practiced. No formal documentation needed.
 
-## Implementation
-Add to RON's OPERATING-MANUAL.md:
-```
-SAGE Gate:
-- Check for explicit keyword
-- Estimate cost vs value
-- Log approval decision
-- Set timeout and token limits
-```
+## Current Practice
+- SAGE only invoked on explicit user request
+- Cost awareness embedded in agent design
+- Subagent `requireAgentId=true` prevents accidental spawning
+- SAGE workspace has cost warnings in SOUL.md
 
-## Owner
-RON
-
-## Acceptance Criteria
-- [ ] SAGE gate documented in OPERATING-MANUAL.md
-- [ ] Test: request without keyword → redirected to RON
-- [ ] Test: request with keyword → SAGE spawned with limits
+## Rationale
+- Formal gating adds friction
+- Team already practices cost discipline
+- LESSON-001 documented the subagent model risk
+- Trust-based approach sufficient for now

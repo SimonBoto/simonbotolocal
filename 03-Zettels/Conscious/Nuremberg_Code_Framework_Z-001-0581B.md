@@ -18,3 +18,6 @@ status: conscious
 **Key Process:** Voluntary informed consent -> Avoid unnecessary harm -> Scientific validity -> Right to withdraw -> Qualified investigators
 
 **Significance:** Foundational principle of voluntary informed consent post-WWII.
+
+
+Source: [[Medical_Ethics_in_Clinical_Research_-_Frameworks_L-001-0581_v4.0]]

@@ -18,3 +18,6 @@ status: conscious
 **Key Process:** Informed consent -> Ethical review -> Patient welfare priority -> Therapeutic distinction -> Post-trial access
 
 **Significance:** International standard for medical research ethics.
+
+
+Source: [[Medical_Ethics_in_Clinical_Research_-_Frameworks_L-001-0581_v4.0]]

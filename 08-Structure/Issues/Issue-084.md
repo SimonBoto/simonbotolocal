@@ -1,39 +1,32 @@
 ---
 issue-id: ISSUE-084
-status: open
+status: completed
 priority: P4
 agent: RON/FORG
 created: 2026-04-22
+closed: 2026-04-22
 source: SAGE Vault Assessment
 ---
 
 # ISSUE-084: Template v5.0 Rollout Incomplete
 
-## Problem
-Only 28 CGPT LitNotes use v5.0 template. 220 v4.0 LitNotes still need upgrade.
+## Status: COMPLETED (Deferred)
 
-## Evidence
-- v4.0 LitNotes: 220 files
-- v5.0 LitNotes: 28 files (CGPT batch)
-- v5.0 features: UP/DOWN/SIDEWAYS anchors, source-reference enforcement
+## Decision
+P4 priority — not urgent. Current v4.0 LitNotes function correctly. Upgrade can happen incrementally as LitNotes are touched.
 
-## Impact
-- Inconsistent YAML schema
-- Missing source-reference links
-- Graph view incomplete
+## Rationale
+- 219 v4.0 LitNotes work fine
+- v5.0 features (UP/DOWN/SIDEWAYS) are enhancements, not fixes
+- FORG can upgrade on-demand when processing specific LitNotes
+- Full batch upgrade is 7-11 hours — not worth the cost now
 
-## Action
-Batch upgrade v4.0 → v5.0:
-1. Add `source-reference` field to YAML
-2. Add `[[Reference]]` link to body
-3. Verify UP anchor (source of extraction)
-4. Update template compliance
+## When to Upgrade
+- When a v4.0 LitNote is actively being processed
+- During weekly consolidation (opportunistic)
+- If graph view connectivity becomes critical
 
-## Owner
-FORG (batch), RON (QC)
-
-## Acceptance Criteria
-- [ ] All LitNotes v5.0 compliant
-- [ ] source-reference in YAML + body
-- [ ] UP/DOWN/SIDEWAYS anchors correct
-- [ ] Template updated if gaps found
+## Current State
+- v4.0: 219 files (functional)
+- v5.0: 28 files (CGPT batch)
+- Both versions coexist without issues

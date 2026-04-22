@@ -22,6 +22,8 @@ extraction-date: 2026-04-21
 
 ## Status Checklist
 
+
+Source: [[Metabolic_Biomarkers_Briefing_-_Vitamin_D-_Omega_L-001-0587_v4.0]]
 - [ ] Source verified and linked
 - [ ] Core Principle articulated
 - [ ] Mechanism/Key Details present

@@ -20,3 +20,6 @@ status: conscious
 **Mechanism:** Optimal for bone, immune, CV protection. Toxicity >100 ng/mL.
 
 **Significance:** Clinical framework for vitamin D interpretation.
+
+
+Source: [[Metabolic_Biomarkers_Briefing_-_Vitamin_D-_Omega_L-001-0587_v4.0]]

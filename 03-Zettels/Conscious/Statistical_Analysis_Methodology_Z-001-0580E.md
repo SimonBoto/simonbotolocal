@@ -17,3 +17,6 @@ status: conscious
 **Key Process:** MD/SMD, RR/OR, I2, funnel plot.
 
 **Significance:** Meta-analysis stats foundation.
+
+
+Source: [[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]

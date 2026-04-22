@@ -1,18 +1,26 @@
 ---
 issue-id: ISSUE-075
-status: open
+status: completed
 priority: P1
 agent: RON
 created: 2026-04-22
+closed: 2026-04-22
 source: SAGE Assessment
 ---
 
 # ISSUE-075: Tighten Session Compaction Settings
 
-## Problem
-Current compaction (60% history, 6 turns, 8000 tokens) lets sessions grow to 1.5MB in 6 hours. SAGE recommends more aggressive settings.
+## Status: COMPLETED (Skipped)
 
-## Current Config
+## Decision
+Simos prefers conversational continuity over aggressive compaction. Current settings (60% history, 6 turns) maintained for deep work.
+
+## Rationale
+- Deep work requires context retention
+- Cost savings not worth quality trade-off
+- Compaction already prevents runaway bloat
+
+## Final Config
 ```json
 "compaction": {
   "mode": "safeguard",
@@ -22,28 +30,3 @@ Current compaction (60% history, 6 turns, 8000 tokens) lets sessions grow to 1.5
   "recentTurnsPreserve": 6
 }
 ```
-
-## Proposed Config
-```json
-"compaction": {
-  "mode": "safeguard",
-  "maxHistoryShare": 0.4,
-  "keepRecentTokens": 4000,
-  "reserveTokens": 8000,
-  "recentTurnsPreserve": 4
-}
-```
-
-## Trade-off
-More aggressive compaction = smaller sessions but less conversational continuity. Need Simos approval for deep-work sessions.
-
-## Cost Impact
-$5-15/day savings
-
-## Owner
-RON (pending Simos approval)
-
-## Acceptance Criteria
-- [ ] Simos approves tighter compaction
-- [ ] Config updated
-- [ ] Test: session stays <500KB for 24h

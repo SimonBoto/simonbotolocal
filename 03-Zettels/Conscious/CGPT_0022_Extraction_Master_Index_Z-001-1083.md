@@ -17,3 +17,6 @@ status: conscious
 **Key Process:** LitNotes -> Zettels -> Batches -> MOC.
 
 **Significance:** Inventory for training extraction.
+
+
+Source: [[CGPT-0022_Extraction_Completion_Summary_L-001-0599_v4.0]]

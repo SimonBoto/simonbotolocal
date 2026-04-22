@@ -21,6 +21,8 @@ extraction-date: 2026-04-21
 
 ## Status Checklist
 
+
+Source: [[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]
 - [ ] Source verified and linked
 - [ ] Core Principle articulated
 - [ ] Mechanism/Key Details present

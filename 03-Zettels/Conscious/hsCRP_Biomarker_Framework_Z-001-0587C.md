@@ -20,3 +20,6 @@ status: conscious
 **Mechanism:** Systemic inflammation marker.
 
 **Significance:** CV and metabolic syndrome risk.
+
+
+Source: [[Metabolic_Biomarkers_Briefing_-_Vitamin_D-_Omega_L-001-0587_v4.0]]

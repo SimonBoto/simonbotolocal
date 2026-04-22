@@ -17,3 +17,6 @@ status: conscious
 **Key Process:** Week1-2 Foundational -> Week7-8 Integration.
 
 **Significance:** Curriculum delivery.
+
+
+Source: [[CGPT-0022_Extraction_Completion_Summary_L-001-0599_v4.0]]

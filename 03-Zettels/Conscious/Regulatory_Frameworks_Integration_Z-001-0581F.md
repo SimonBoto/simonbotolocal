@@ -22,6 +22,8 @@ extraction-date: 2026-04-21
 
 ## Status Checklist
 
+
+Source: [[Medical_Ethics_in_Clinical_Research_-_Frameworks_L-001-0581_v4.0]]
 - [ ] Source verified and linked
 - [ ] Core Principle articulated
 - [ ] Mechanism/Key Details present

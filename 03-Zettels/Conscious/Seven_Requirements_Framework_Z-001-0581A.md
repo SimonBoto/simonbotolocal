@@ -20,3 +20,6 @@ status: conscious
 **Mechanism:** 1. Value justifies risks 2. Validity ensures reliability 3. Fair selection 4. Risk-benefit balance 5. Independent review 6. Consent 7. Respect subjects.
 
 **Significance:** Comprehensive ethical framework for research.
+
+
+Source: [[Medical_Ethics_in_Clinical_Research_-_Frameworks_L-001-0581_v4.0]]

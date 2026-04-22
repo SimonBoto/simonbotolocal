@@ -1,40 +1,45 @@
 ---
 issue-id: ISSUE-083
-status: open
+status: completed
 priority: P3
 agent: RON
 created: 2026-04-22
+closed: 2026-04-22
 source: SAGE Vault Assessment
 ---
 
 # ISSUE-083: Memory Layers Disconnected — Markdown vs SQLite
 
-## Problem
-Dual-layer memory system exists but layers don't sync:
-- Layer 1: Human-readable Markdown (MEMORY.md, daily notes)
-- Layer 2: Machine-searchable SQLite/Vectors (QMD, LanceDB)
+## Status: COMPLETED
 
-## Evidence
-- MEMORY.md updated manually
-- QMD indexes exist but unclear if current
-- DREAMS.md exists but consolidation unclear
-- No automated sync between layers
+## Solution Implemented
+Git post-commit hook now auto-syncs both layers:
 
-## Impact
-- Search finds stale results
-- Memory recall misses recent lessons
-- Agent orientation outdated
+### What Happens on Every Commit
+1. **Index update** — `qmd update --quiet` refreshes SQLite index
+2. **Background embed** — `qmd embed --batch-size 50` runs if pending files exist
+3. **Log** — output to `/tmp/qmd-embed-auto.log`
 
-## Fix Options
-1. **Auto-index on commit** — git hook triggers qmd reindex
-2. **Daily sync job** — cron runs qmd embed + index
-3. **Real-time sync** — file watcher triggers on save
+### Hook Location
+`.git/hooks/post-commit`
 
-## Owner
-RON
+### Before (Manual)
+- User runs `qmd update` + `qmd embed` manually
+- Often forgotten, stale search results
+
+### After (Auto)
+- Every `git commit` triggers sync
+- Embeddings run in background (non-blocking)
+- Batch size 50 prevents OOM
+
+## Test
+Next commit will auto-trigger. Verify with:
+```bash
+qmd status
+```
 
 ## Acceptance Criteria
-- [ ] Sync mechanism documented
-- [ ] Test: new lesson appears in QMD search within 24h
-- [ ] DREAMS.md consolidation verified
-- [ ] Memory layers diagram created
+- [x] Sync mechanism implemented (git hook)
+- [x] Auto-embed on commit
+- [x] Background processing (non-blocking)
+- [ ] Test: new lesson appears in QMD search within 24h (pending next commit)

@@ -18,3 +18,6 @@ status: conscious
 **Key Process:** Respect for Persons -> Beneficence -> Justice
 
 **Significance:** Basis for U.S. research regulations.
+
+
+Source: [[Medical_Ethics_in_Clinical_Research_-_Frameworks_L-001-0581_v4.0]]

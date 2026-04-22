@@ -18,3 +18,6 @@ status: conscious
 **Key Process:** International research -> Vulnerable populations -> Resource-limited settings -> Collaborative partnerships
 
 **Significance:** Ethical research in international contexts.
+
+
+Source: [[Medical_Ethics_in_Clinical_Research_-_Frameworks_L-001-0581_v4.0]]
