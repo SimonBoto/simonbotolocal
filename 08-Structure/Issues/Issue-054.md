@@ -23,6 +23,11 @@ QMD has 43,201 vectors embedded but 2,286 files still pending. These files are N
 
 ## Progress Log
 - [13:57] Issue created from memory system review
+- [14:13] qmd embed started — 2,286 pending
+- [14:33] Progress: 861 pending remaining (~62% complete)
+- [14:43] Process killed (SIGKILL), likely OOM or system limit
+- [14:43] Progress: 797 pending remaining (~65% complete)
+- [14:43] Need to restart with smaller batches
 
 ## Blockers
 None
