@@ -11,6 +11,7 @@ source-litnote: [[LitNote_Medical_Ethics_Clinical_Research_L-001-0581]
 status: conscious
 ---
 
+source-litnote: "[[CGPT_0131_Medical_Ethics_Assistance_L-001-0711]]"
 # Historical Ethical Guidelines — Nuremberg Code to Declaration of Helsinki
 ## Source
 

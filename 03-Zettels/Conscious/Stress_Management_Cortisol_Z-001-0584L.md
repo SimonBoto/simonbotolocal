@@ -12,7 +12,7 @@ tags: []
   - stress
   - cortisol
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
-source-litnote: "[[Five_Pillars_of_Metabolic_Health_-_Clinical_Conf_L-001-0584_v4.0]]"
+source-litnote: "[[CGPT_0124_Profound_Truths_Revolutionizing_Health_L-001-0706]]"
 extraction-date: 2026-04-15
 status: conscious
 ---

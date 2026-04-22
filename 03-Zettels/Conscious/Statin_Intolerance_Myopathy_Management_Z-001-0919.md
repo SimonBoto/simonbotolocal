@@ -20,7 +20,7 @@ tags: []
 parent-moc:
   - - MOC-Insulin-Signaling
 status: conscious
-source-litnote: "[[LitNote_Statin_Pharmacology_L-001-0502]]"
+source-litnote: "[[CGPT_0337_Cholesterol_Study_Reassessment_Overview_L-001-0714]]"
 source-inbox: "[[00-Inbox/Processed/CGPT_0337_Cholesterol_Study_Reassessment_Overview_CGPT-0337]]"
 extraction-date: 2026-03-01
 updated: 2026-03-05

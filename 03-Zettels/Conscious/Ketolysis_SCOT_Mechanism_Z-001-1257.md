@@ -10,6 +10,7 @@ source-litnote: [[L-001-0655_Ketone_Body_Metabolism_Deep_Dive_CGPT-0647]]
 extraction-date: 2026-03-11
 ---
 
+source-litnote: "[[CGPT_0647_ATP_Pathways_Overview_L-001-0715]]"
 # Ketolysis and SCOT Mechanism — Extrahepatic Ketone Utilization
 ## Status Checklist
 

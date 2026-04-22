@@ -11,6 +11,7 @@ source-litnote: [[LitNote_Epidemiological_Evidence_L-001-0525]
 status: conscious
 ---
 
+source-litnote: "[[CGPT_0282_Seed_Oils_and_Chronic_Diseases_L-001-0720]]"
 # Industry Funding Bias — Early PUFA Research and Suppressed Science
 ## Source
 

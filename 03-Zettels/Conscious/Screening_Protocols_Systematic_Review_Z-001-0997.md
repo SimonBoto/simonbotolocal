@@ -11,6 +11,7 @@ source-litnote: [[LitNote_Meta_Analysis_Methodology_L-001-0580]
 status: conscious
 ---
 
+source-litnote: "[[CGPT_0621_Publishing_Meta-Analysis_Guidelines_L-001-0716]]"
 # Screening Protocols for Systematic Reviews — Dual Review and Conflict Resolution
 ## Source
 

@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, saturated-fats, unsaturated-fats, monounsaturated, polyunsaturated, lipid-structure]
 parent-moc: "[[MOC-Lipid-Metabolism]]"
 status: conscious
-source-litnote: "[[L-001-0632_Fatty_Acid_Structure_Classification_CGPT-0586]]"
+source-litnote: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_L-001-0703]]"
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 extraction-date: 2026-03-08
 ---

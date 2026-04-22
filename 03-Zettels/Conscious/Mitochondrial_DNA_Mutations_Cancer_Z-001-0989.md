@@ -11,6 +11,7 @@ source-litnote: [[LitNote_VDR_Mitochondrial_Knockout_Studies_L-001-0577]
 status: conscious
 ---
 
+source-litnote: "[[CGPT_0311_Self-Education_Program_Plan_L-001-0721]]"
 # Mitochondrial DNA Mutations in Cancer — Oncogenic Mechanisms and Clinical Implications
 ## Source
 

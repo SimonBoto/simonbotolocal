@@ -11,6 +11,7 @@ source-litnote: [[LitNote_Industrial_Processing_Toxin_Formation_L-001-0524]]
 status: conscious
 ---
 
+source-litnote: "[[CGPT_0281_Seed_Oils_and_Metabolic_Health_L-001-0710]]"
 # Advanced Lipoxidation End-Products (ALEs) — Toxic Aldehydes from Heated Oils
 ## Source
 

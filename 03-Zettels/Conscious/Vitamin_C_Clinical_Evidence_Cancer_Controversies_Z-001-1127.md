@@ -20,7 +20,7 @@ status: conscious
 extracted_by: "RON"
 reviewed_by: "RON"
 extraction-date: "2026-03-08"
-source-litnote: "[[L-001-0610_High_Dose_Vitamin_C_Oncology_CGPT-0264]]"
+source-litnote: "[[CGPT_0264_Warburg_Effect_and_Cancer_L-001-0704]]"
 source-inbox: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
 reference: ""
 created: "2026-03-08"

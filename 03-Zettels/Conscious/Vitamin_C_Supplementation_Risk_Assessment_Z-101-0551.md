@@ -11,6 +11,7 @@ extraction-date: 2026-04-15
 status: draft
 ---
 
+source-litnote: "[[CGPT_0549_Chemical_Type_of_Ascorbate_L-001-0722]]"
 # Vitamin C Supplementation Risk Assessment
 ## Source
 

@@ -7,7 +7,7 @@ domain: 101
 tags: [zettel, pantothenic-acid, vitamin-b5, b5-deficiency, clinical-aspects, cofactors]
 parent-moc: "[[MOC-Methylation]]"
 status: conscious
-source-litnote: "[[L-101-0004_CoA_Synthesis_Decarboxylation_Enzymology_CGPT-0586]]"
+source-litnote: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_L-001-0703]]"
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 extraction-date: 2026-03-02
 ---

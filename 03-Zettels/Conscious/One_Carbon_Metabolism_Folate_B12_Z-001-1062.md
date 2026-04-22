@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, one-carbon, folate, b12, methylation, homocysteine, dna-synthesis]
 parent-moc: "[[MOC-Vitamin-Mineral-Axis]]"
 status: conscious
-source-litnote: "[[L-001-0593_Vitamin_Mineral_Axis_Biochemistry_CGPT-0022]]"
+source-litnote: "[[CGPT-0022_Extraction_Completion_Summary_L-001-0599_v4.0]]"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
 extraction-date: 2026-03-08
 ---

@@ -18,7 +18,7 @@ tags:
   - origin-of-life
 parent-moc: "[[MOC-Origins-of-Life]]"
 status: conscious
-source-litnote: "[[L-101-0045B_Prebiotic_Chemistry_HCN_Adenine_CGPT-0445]]"
+source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
 source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-04
 ---

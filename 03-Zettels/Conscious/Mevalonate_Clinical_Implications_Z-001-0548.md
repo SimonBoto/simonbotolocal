@@ -11,6 +11,7 @@ source-litnote: [[Mevalonate_Pathway_From_Acetyl-CoA_to_Cholesterol_L-001-0509_C
 extraction-date: 2026-03-01
 ---
 
+source-litnote: "[[CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_L-001-0707]]"
 # Mevalonate Clinical Implications
 ## Status Checklist
 

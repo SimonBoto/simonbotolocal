@@ -11,6 +11,7 @@ source-litnote: [[Metabolic_Therapy_for_Cancer_Seyfried_Protocol_L-001-0609_CGPT
 extraction-date: 2026-03-08
 ---
 
+source-litnote: "[[CGPT_0264_Warburg_Effect_and_Cancer_L-001-0704]]"
 # Ketogenic Diet Cancer Therapy Metabolic Inflexibility
 ## Status Checklist
 

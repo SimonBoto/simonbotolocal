@@ -11,6 +11,7 @@ source-litnote: [[Aconitase_Enzyme_Structure,_Mechanism,_and_Iron-Sulfur_L-001-0
 extraction-date: 2026-03-01
 ---
 
+source-litnote: "[[CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_L-001-0707]]"
 # Cytosolic Aconitase IRP1 Dual Function
 ## Status Checklist
 

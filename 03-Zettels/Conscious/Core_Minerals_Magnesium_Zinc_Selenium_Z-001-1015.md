@@ -11,6 +11,7 @@ source-litnote: [[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]
 status: conscious
 ---
 
+source-litnote: "[[CGPT_0124_Profound_Truths_Revolutionizing_Health_L-001-0706]]"
 # Core Mineral Status — Magnesium, Zinc, Selenium, Copper Clinical Assessment
 ## Source
 

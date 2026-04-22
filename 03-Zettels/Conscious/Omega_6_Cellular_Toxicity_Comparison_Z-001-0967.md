@@ -12,6 +12,7 @@ source-litnote: [[LitNote_Seed_Oils_Environmental_Toxins_L-001-0526]
 status: conscious
 ---
 parent-index: [[03-Zettels-Conscious]]
+source-litnote: "[[CGPT_0281_Seed_Oils_and_Metabolic_Health_L-001-0710]]"
 
 # Omega-6 Cellular Toxicity Mechanisms — Comparison to Known Toxins
 ## Source

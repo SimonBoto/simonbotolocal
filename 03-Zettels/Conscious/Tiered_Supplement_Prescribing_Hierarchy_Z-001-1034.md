@@ -13,6 +13,7 @@ confidence: high
 created: 2026-03-08
 ---
 
+source-litnote: "[[CGPT-0022_Extraction_Completion_Summary_L-001-0599_v4.0]]"
 # Tiered Supplement Prescribing Hierarchy
 ## Source
 

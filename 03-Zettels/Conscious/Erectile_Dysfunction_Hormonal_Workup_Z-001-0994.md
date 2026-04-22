@@ -11,6 +11,7 @@ source-litnote: [[LitNote_Male_Hormone_Assessment_Scenarios_L-001-0578]
 status: conscious
 ---
 
+source-litnote: "[[CGPT_0438_Hormone_Scenarios_Normal_vs_Pathological_L-001-0718]]"
 # Erectile Dysfunction Hormonal Workup — Diagnostic Algorithm
 ## Source
 

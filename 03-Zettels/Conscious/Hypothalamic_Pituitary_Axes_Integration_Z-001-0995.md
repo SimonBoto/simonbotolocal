@@ -11,6 +11,7 @@ source-litnote: [[LitNote_HPG_Axis_Hormone_Cascade_L-001-0579]
 status: conscious
 ---
 
+source-litnote: "[[CGPT_0438_Hormone_Scenarios_Normal_vs_Pathological_L-001-0718]]"
 # Hypothalamic-Pituitary Axes Integration — HPA, HPG, and HPT Coordination
 ## Source
 

@@ -7,7 +7,7 @@ domain: 101
 tags: [zettel, clinical-scenarios, dicarboxylic-acids, case-studies, insulin-resistance, carnitine]
 parent-moc: "[[MOC-Clinical-Metabolomics]]"
 status: conscious
-source-litnote: "[[L-101-0003_Dicarboxylic_Acids_Clinical_Markers_CGPT-0586]]"
+source-litnote: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_L-001-0703]]"
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 extraction-date: 2026-03-02
 ---

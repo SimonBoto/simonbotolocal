@@ -11,6 +11,7 @@ source-litnote: [[LitNote_Industrial_Processing_Toxin_Formation_L-001-0524]
 status: conscious
 ---
 
+source-litnote: "[[CGPT_0340_Seed_oils_history_and_process_L-001-0717]]"
 # Seed Oil Extraction Methods — Expeller Press vs Hexane Solvent
 ## Source
 

@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, mevalonate-pathway, energy, atp, nadph, cholesterol, metabolism]
 parent-moc: "[[MOC-Cholesterol-Lipid]]"
 status: conscious
-source-litnote: "[[L-001-0518_Mevalonate_Pathway_Biochemistry_CGPT-0391]]"
+source-litnote: "[[CGPT_0391_Mevalonate_Pathway_Enzymes__Cofactors_L-001-0713]]"
 source-inbox: "[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]"
 extraction-date: 2026-03-03
 ---

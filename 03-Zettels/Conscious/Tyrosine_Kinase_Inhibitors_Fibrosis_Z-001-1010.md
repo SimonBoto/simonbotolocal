@@ -11,6 +11,7 @@ source-litnote: [[LitNote_Nintedanib_Ofev_TKI_L-001-0583]
 status: conscious
 ---
 
+source-litnote: "[[CGPT_0064_Ofev_MOA_and_effects_L-001-0723]]"
 # Tyrosine Kinase Inhibitors — FGFR, VEGFR, PDGFR Blockade in Fibrosis
 ## Source
 

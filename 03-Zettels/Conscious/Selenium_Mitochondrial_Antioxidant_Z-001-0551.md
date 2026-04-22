@@ -11,6 +11,7 @@ source-litnote: [[Zinc_and_Selenium_as_Mitochondrial_Cofactors_L-001-0510_CGPT-0
 extraction-date: 2026-03-01
 ---
 
+source-litnote: "[[CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_L-001-0707]]"
 # Selenium Mitochondrial Antioxidant
 ## Status Checklist
 

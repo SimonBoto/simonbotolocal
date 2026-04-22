@@ -19,7 +19,7 @@ tags: []
   - energy
 parent-moc: "[[MOC-Glycolysis-PPP]]"
 status: conscious
-source-litnote: "[[L-001-0045D_Triose_Metabolism_Glycolysis_CGPT-0445]]"
+source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
 source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-04
 ---

@@ -211,6 +211,7 @@
   },
   "active": "64120ee807f0bd00",
   "lastOpenFiles": [
+    "07-Projects/Tools/update_zettels_to_litnotes.py",
     "01-Literature/CGPT_0384_Darvetou_Ladder_Search_L-001-0728.md",
     "01-Literature/CGPT_0551_Manuscript_Review_Critical_Concerns_L-001-0727.md",
     "01-Literature/CGPT_0258_MAOIs_and_DAO_Interaction_L-001-0726.md",
@@ -236,7 +237,6 @@
     "01-Literature/CGPT_0124_Profound_Truths_Revolutionizing_Health_L-001-0706.md",
     "01-Literature/CGPT_0209_Gastroenterology_Registrar_Assessment_L-001-0705.md",
     "01-Literature/CGPT_0264_Warburg_Effect_and_Cancer_L-001-0704.md",
-    "01-Literature/CGPT_0586_Fatty_Acid_Metabolism_Pathways_L-001-0703.md",
     "07-Projects/Tools/batch_create_cgpt_litnotes.py",
     "07-Projects/Agents/SCOUT",
     "Untitled.canvas",

@@ -11,6 +11,7 @@ source-litnote: [[LitNote_Alkaline_Phosphatase_Overview_L-001-0576]]
 status: conscious
 ---
 
+source-litnote: "[[CGPT_0345_Alkaline_Phosphatase_Overview_L-001-0719]]"
 # ALP Isoenzymes — Tissue Sources and  Differentiation
 ## Source
 

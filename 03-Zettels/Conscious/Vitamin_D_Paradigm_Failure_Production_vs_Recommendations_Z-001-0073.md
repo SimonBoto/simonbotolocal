@@ -23,6 +23,7 @@ source-litnote: legacy-no-source
 extraction-date: 2026-04-15
 ---
 
+source-litnote: "[[CGPT_0284_Vitamin_D_Toxicity_Misconception_L-001-0725]]"
 #  Paradigm Failure — Production vs Recommendations
 ## Status Checklist
 

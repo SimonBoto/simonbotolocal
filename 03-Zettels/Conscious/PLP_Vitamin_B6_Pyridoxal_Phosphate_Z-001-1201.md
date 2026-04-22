@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, plp, vitamin-b6, pyridoxal-phosphate, transamination, decarboxylation]
 parent-moc: "[[MOC-Methylation]]"
 status: conscious
-source-litnote: "[[L-001-0630_Decarboxylation_Enzymes_Vitamin_Cofactors_CGPT-0586]]"
+source-litnote: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_L-001-0703]]"
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 extraction-date: 2026-03-08
 ---

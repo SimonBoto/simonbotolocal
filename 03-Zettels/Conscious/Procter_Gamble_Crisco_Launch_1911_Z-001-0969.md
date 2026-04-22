@@ -11,6 +11,7 @@ source-litnote: [[LitNote_History_Industrial_Development_L-001-0527]
 status: conscious
 ---
 
+source-litnote: "[[CGPT_0340_Seed_oils_history_and_process_L-001-0717]]"
 # Procter & Gamble Crisco Launch 1911 — Marketing Revolution in Food
 ## Source
 

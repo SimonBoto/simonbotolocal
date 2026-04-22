@@ -13,7 +13,7 @@ tags: []
   - albumin
   - protein
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
-source-litnote: "[[CKD_Nutritional_Assessment_-_Albumin_vs_Intake-_L-001-0575_v4.0]]"
+source-litnote: "[[CGPT_0370_Protein_and_Kidney_Disease_L-001-0708]]"
 extraction-date: 2026-04-15
 status: conscious
 ---

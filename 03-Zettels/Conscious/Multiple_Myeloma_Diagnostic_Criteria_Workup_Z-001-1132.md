@@ -11,6 +11,7 @@ source-litnote: [[Multiple_Myeloma_Comprehensive_L-001-0612_CGPT-0264]]
 extraction-date: 2026-03-08
 ---
 
+source-litnote: "[[CGPT_0264_Warburg_Effect_and_Cancer_L-001-0704]]"
 # Multiple Myeloma Diagnostic Criteria Workup
 ## Status Checklist
 

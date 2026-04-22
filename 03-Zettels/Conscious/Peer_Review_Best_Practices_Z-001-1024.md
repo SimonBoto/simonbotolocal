@@ -12,6 +12,7 @@ source-litnote: [[LitNote_Manuscript_Review_Critical_Concerns_L-001-0586]
 status: conscious
 ---
 parent-index: [[03-Zettels-Conscious]]
+source-litnote: "[[CGPT_0551_Manuscript_Review_Critical_Concerns_L-001-0727]]"
 
 # Peer Review Best Practices — Structure, Tone, and Decision Framework
 ## Source

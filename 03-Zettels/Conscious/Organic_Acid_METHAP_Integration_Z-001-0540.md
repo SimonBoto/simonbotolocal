@@ -11,6 +11,7 @@ source-litnote: [[Machine_Learning_in_Metabolomics_METHAP_L-001-0618_v4.0]]
 extraction-date: 2026-03-01
 ---
 
+source-litnote: "[[CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_L-001-0707]]"
 # Organic Acid METHAP Integration
 ## Status Checklist
 

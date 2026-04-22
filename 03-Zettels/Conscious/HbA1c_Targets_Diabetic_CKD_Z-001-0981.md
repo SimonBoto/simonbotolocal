@@ -11,6 +11,7 @@ source-litnote: [[LitNote_CKD_Nutritional_Assessment_L-001-0575]
 status: conscious
 ---
 
+source-litnote: "[[CGPT_0370_Protein_and_Kidney_Disease_L-001-0708]]"
 # HbA1c Targets in Diabetic CKD — Glycemic Control Goals by Stage
 ## Source
 

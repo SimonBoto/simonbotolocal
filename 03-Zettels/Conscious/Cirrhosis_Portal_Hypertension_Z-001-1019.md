@@ -11,6 +11,7 @@ source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]
 status: conscious
 ---
 
+source-litnote: "[[CGPT_0209_Gastroenterology_Registrar_Assessment_L-001-0705]]"
 # Cirrhosis and Portal Hypertension — MELD-Na, TIPS, and Complications
 ## Source
 

@@ -20,7 +20,7 @@ tags: []
   - threonine
 parent-moc: "[[MOC-Nitrogen-Metabolism]]"
 status: conscious
-source-litnote: "[[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]]"
+source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
 source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-01
 ---

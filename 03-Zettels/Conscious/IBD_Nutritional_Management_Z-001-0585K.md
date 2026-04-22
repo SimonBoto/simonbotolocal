@@ -12,7 +12,7 @@ tags: []
   - gastroenterology
   - nutrition
 parent-moc: "[[MOC-Gastroenterology]]"
-source-litnote: "[[Inflammatory_Bowel_Disease_-_Crohn-s_vs_Ulcerati_L-001-0585_v4.0]]"
+source-litnote: "[[CGPT_0209_Gastroenterology_Registrar_Assessment_L-001-0705]]"
 extraction-date: 2026-04-15
 status: conscious
 ---

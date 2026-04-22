@@ -12,6 +12,7 @@ extraction-date: 2026-04-15
 ethical-consideration: control-group-receives-standard-care
 ---
 
+source-litnote: "[[CGPT_0475_Metabolic_Biomarkers_for_Insulin_L-001-0709]]"
 # METHAP Control Group Strategy Reference
 ## Source
 

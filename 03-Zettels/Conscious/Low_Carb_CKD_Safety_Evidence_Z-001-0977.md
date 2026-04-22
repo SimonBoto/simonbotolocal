@@ -11,6 +11,7 @@ source-litnote: [[LitNote_Carbohydrate_Context_Protein_CKD_L-001-0574]
 status: conscious
 ---
 
+source-litnote: "[[CGPT_0370_Protein_and_Kidney_Disease_L-001-0708]]"
 # Low Carb CKD Safety Evidence — Ketogenic Diets in Kidney Disease
 ## Source
 

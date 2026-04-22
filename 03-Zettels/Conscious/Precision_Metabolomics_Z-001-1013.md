@@ -12,6 +12,7 @@ source-litnote: [[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]
 status: conscious
 ---
 parent-index: [[03-Zettels-Conscious]]
+source-litnote: "[[CGPT_0124_Profound_Truths_Revolutionizing_Health_L-001-0706]]"
 
 # Precision  — Urine Organic Acids and Plasma Metabolite Profiling
 ## Source

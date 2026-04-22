@@ -11,6 +11,7 @@ source-litnote: [[LitNote_Alkaline_Phosphatase_Overview_L-001-0576]
 status: conscious
 ---
 
+source-litnote: "[[CGPT_0345_Alkaline_Phosphatase_Overview_L-001-0719]]"
 # Paget's Disease of Bone — Diagnosis, ALP Patterns, and Management
 ## Source
 

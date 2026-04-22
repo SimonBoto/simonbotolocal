@@ -11,6 +11,7 @@ source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]
 status: conscious
 ---
 
+source-litnote: "[[CGPT_0209_Gastroenterology_Registrar_Assessment_L-001-0705]]"
 # Crohn's Disease vs Ulcerative Colitis — Clinical and Pathological Differentiation
 ## Source
 

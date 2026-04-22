@@ -18,7 +18,7 @@ tags: []
   - biomarkers
 parent-moc: "[[MOC-Metabolomics]]"
 status: conscious
-source-litnote: "[[LitNote_Comparative_Biochemistry_Tables_L-001-0607]]"
+source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
 source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-08
 ---

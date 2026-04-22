@@ -11,6 +11,7 @@ source-litnote: [[Organic_Acid_Krebs_Cycle_Markers_Clinical_L-001-0507_CGPT-0393
 extraction-date: 2026-03-01
 ---
 
+source-litnote: "[[CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_L-001-0707]]"
 # Mitochondrial Supplementation Protocol
 ## Status Checklist
 

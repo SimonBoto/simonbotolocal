@@ -14,7 +14,7 @@ tags: []
   - precision-nutrition
 parent-moc:
   - - MOC-Insulin-Signaling
-source-litnote: "[[00-Inbox/Processed/CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]"
+source-litnote: "[[CGPT_0284_Vitamin_D_Toxicity_Misconception_L-001-0725]]"
 extraction-date: 2026-04-15
 confidence: high
 created: 2026-03-01

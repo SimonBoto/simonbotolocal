@@ -19,7 +19,7 @@ tags: []
   - sugars
 parent-moc: "[[MOC-Glycolysis-PPP]]"
 status: conscious
-source-litnote: "[[LitNote_Keto_Acids_Organic_Acids_L-001-0045F]]"
+source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
 source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-04
 ---

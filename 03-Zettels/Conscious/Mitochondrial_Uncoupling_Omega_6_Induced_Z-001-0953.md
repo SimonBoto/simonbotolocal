@@ -11,6 +11,7 @@ source-litnote: [[LitNote_Mechanisms_Metabolic_Disruption_L-001-0523]
 status: conscious
 ---
 
+source-litnote: "[[CGPT_0281_Seed_Oils_and_Metabolic_Health_L-001-0710]]"
 # Mitochondrial Uncoupling — Omega-6 Induced
 ## Source
 

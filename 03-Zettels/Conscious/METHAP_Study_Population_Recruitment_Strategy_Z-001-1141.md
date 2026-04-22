@@ -13,6 +13,7 @@ confidence: high
 created: 2026-03-08
 ---
 
+source-litnote: "[[CGPT_0475_Metabolic_Biomarkers_for_Insulin_L-001-0709]]"
 # METHAP Study Population Recruitment Strategy
 ## Source
 

@@ -11,6 +11,7 @@ source-litnote: [[LitNote_Metabolic_Biomarkers_Briefing_L-001-0587]
 status: conscious
 ---
 
+source-litnote: "[[CGPT_0384_Darvetou_Ladder_Search_L-001-0728]]"
 # Core Metabolic s Panel — , Omega-3, hsCRP, Homocysteine, HbA1c
 ## Source
 

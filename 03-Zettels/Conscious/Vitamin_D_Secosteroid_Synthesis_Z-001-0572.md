@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, vitamin-d, secosteroid, cholesterol, calcitriol, calcium, immunity]
 parent-moc: "[[MOC-Vitamin-Mineral-Axis]]"
 status: conscious
-source-litnote: "[[L-001-0519_Isoprenoids_Cholesterol_Derivatives_CGPT-0391]]"
+source-litnote: "[[CGPT_0391_Mevalonate_Pathway_Enzymes__Cofactors_L-001-0713]]"
 source-inbox: "[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]"
 extraction-date: 2026-03-03
 ---

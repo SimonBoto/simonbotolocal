@@ -11,6 +11,7 @@ source-litnote: [[LitNote_MAO_DAO_Enzymes_L-001-0582]
 status: conscious
 ---
 
+source-litnote: "[[CGPT_0258_MAOIs_and_DAO_Interaction_L-001-0726]]"
 # DAO Diamine Oxidase — Histamine  and Intestinal Function
 ## Source
 

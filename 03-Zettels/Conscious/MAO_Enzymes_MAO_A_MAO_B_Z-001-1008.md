@@ -11,6 +11,7 @@ source-litnote: [[LitNote_MAO_DAO_Enzymes_L-001-0582]
 status: conscious
 ---
 
+source-litnote: "[[CGPT_0258_MAOIs_and_DAO_Interaction_L-001-0726]]"
 # MAO Enzymes MAO-A and MAO-B — Functions, Inhibitors, and Clinical Significance
 ## Source
 

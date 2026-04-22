@@ -11,6 +11,7 @@ source-litnote: [[LitNote_Seed_Oils_Environmental_Toxins_L-001-0526]
 status: conscious
 ---
 
+source-litnote: "[[CGPT_0281_Seed_Oils_and_Metabolic_Health_L-001-0710]]"
 # Linoleic Acid Bioaccumulation — Adipose Tissue Half-Life 600-680 Days
 ## Source
 

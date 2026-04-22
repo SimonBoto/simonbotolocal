@@ -11,6 +11,7 @@ source-litnote: [[Cholesterol_Biology_and_Lipid_Metabolism_in_L-001-0501_CGPT-00
 extraction-date: 2026-03-01
 ---
 
+source-litnote: "[[CGPT_0086_Δημόσιοι_υπάλληλοι_συμμετοχή_ΕΕ_L-001-0712]]"
 # Lipoproteins — The Transport System
 ## Status Checklist
 

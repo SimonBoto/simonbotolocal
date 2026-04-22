@@ -11,6 +11,7 @@ source-litnote: [[LitNote_MTHFR_Genetics_L-001-0403]
 extraction-date: 2026-03-01
 ---
 
+source-litnote: "[[CGPT_0264_Warburg_Effect_and_Cancer_L-001-0704]]"
 # MTHFR  Association — Complex Relationship
 ## Related Zettels from Same Source
 

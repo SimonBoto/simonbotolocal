@@ -13,6 +13,7 @@ confidence: high
 created: 2026-03-08
 ---
 
+source-litnote: "[[CGPT_0264_Warburg_Effect_and_Cancer_L-001-0704]]"
 # p53 Function Loss  Consequences
 ## Source
 

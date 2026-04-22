@@ -11,6 +11,7 @@ source-litnote: [[Warburg_Effect_and_Cancer_Metabolism_L-001-0608_CGPT-0264]]
 extraction-date: 2026-03-08
 ---
 
+source-litnote: "[[CGPT_0264_Warburg_Effect_and_Cancer_L-001-0704]]"
 # Cancer Metabolic Reprogramming Glycolysis PPP
 ## Status Checklist
 

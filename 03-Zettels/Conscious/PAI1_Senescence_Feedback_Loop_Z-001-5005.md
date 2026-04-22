@@ -18,7 +18,7 @@ status: conscious
 extracted_by: "FORG"
 reviewed_by: ""
 extraction-date: 2026-04-16
-source-litnote: "[[L-001-0654_Vaughan2017_PAI1_Aging_L-001-0654]]"
+source-litnote: "[[CGPT_0264_Warburg_Effect_and_Cancer_L-001-0704]]"
 source-inbox: "[[CGPT_0264_Intro_L-001-0608]]"
 reference: "[[Eren_2014_PNAS_R-001-0007]]"
 created: 2026-04-16

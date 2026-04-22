@@ -19,7 +19,7 @@ parent-moc:
   - - MOC-Insulin-Signaling
 status: conscious
 created: 2026-03-04
-source-litnote: "[[L-001-0045C]]"
+source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
 extraction-date: 2026-04-15
 source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 ---

@@ -11,6 +11,7 @@ source-litnote: Synthesized from clinical practice
 extraction-date: 2026-04-15
 ---
 
+source-litnote: "[[CGPT_0328_Methodology_Mistakes_Identified_L-001-0724]]"
 # Rewriting Overstated Claims Using Cautious Scientific Language
 ## Status Checklist
 

@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, fatty-acids, omega-3, omega-6, desaturase, elongase, lipid-signaling]
 parent-moc: "[[MOC-Mitochondrial-Function]]"
 status: conscious
-source-litnote: "[[L-001-0592_Fatty_Acid_Metabolism_Lipid_Signaling_CGPT-0022]]"
+source-litnote: "[[CGPT-0022_Extraction_Completion_Summary_L-001-0599_v4.0]]"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
 extraction-date: 2026-03-08
 ---

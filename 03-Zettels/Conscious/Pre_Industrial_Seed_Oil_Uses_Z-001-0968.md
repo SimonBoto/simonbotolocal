@@ -11,6 +11,7 @@ source-litnote: [[LitNote_History_Industrial_Development_L-001-0527]
 status: conscious
 ---
 
+source-litnote: "[[CGPT_0340_Seed_oils_history_and_process_L-001-0717]]"
 # Pre-Industrial Seed Oil Uses — Mechanical Pressing, Lamp Oil, Lubricants
 ## Source
 

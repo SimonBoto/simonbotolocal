@@ -11,6 +11,7 @@ source-litnote: [[B-Vitamins_and_Cancer_Metabolism_L-001-0611_CGPT-0264]]
 extraction-date: 2026-03-08
 ---
 
+source-litnote: "[[CGPT_0264_Warburg_Effect_and_Cancer_L-001-0704]]"
 # B Vitamins Methylation Epigenetics Cancer
 ## Status Checklist
 

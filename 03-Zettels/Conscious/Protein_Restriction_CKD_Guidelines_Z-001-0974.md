@@ -11,6 +11,7 @@ source-litnote: [[LitNote_Protein_CKD_Progression_Evidence_L-001-0573]
 status: conscious
 ---
 
+source-litnote: "[[CGPT_0370_Protein_and_Kidney_Disease_L-001-0708]]"
 # Protein Restriction CKD Guidelines — NKF KDIGO Recommendations
 ## Source
 
