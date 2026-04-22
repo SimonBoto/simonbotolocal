@@ -21,23 +21,27 @@ extraction-date: "YYYY-MM-DD"
 
 # ANCHOR SYSTEM v5.0 — Connection Tracking
 anchors:
-  # UP — Source Connection
+  # UP — Source of Extraction (where this LitNote came FROM)
   up:
     source-inbox: "[[INBOX-Source-Name]] #source"
     source-litnote: "[[CGPT_XXXX_Topic_CGPT-XXXX]] #source-lit"
+    # NOTE: For CGPT-origin LitNotes, the CGPT is the UP source
+    # The academic reference mentioned IN the CGPT goes to SIDEWAYS
   
-  # DOWN — Zettel Extractions
+  # DOWN — Zettel Extractions (what this LitNote produces)
   down:
     zettels:
       - "[[Z-XXX-XXXX_Zettel_Title]] #zettel-1"
       - "[[Z-XXX-XXXX_Zettel_Title]] #zettel-2"
     count: 0
   
-  # SIDEWAYS — Reference Citations
+  # SIDEWAYS — Supporting References (papers cited WITHIN the source)
   sideways:
     references:
       - "[[Author_Year_Title_R-XXX-XXXX]] #ref-1"
     count: 0
+    # NOTE: These are references MENTIONED in the source, not the source itself
+    # They provide epistemic force for claims made in the LitNote
 
 zettel-count: 0
 reference-count: 0
@@ -48,11 +52,12 @@ tags:
 
 # Lit: [Full Title]
 
-## 🔼 Source Anchor
+## 🔼 Source Anchor (UP — Origin of Extraction)
 > **Origin:** [[INBOX-Source-Name]] #source  
 > **Conversation:** [[CGPT_XXXX_Topic_CGPT-XXXX]] #source-lit  
-> **Canonical Reference:** [[Author_Year_Title_R-XXX-XXXX]] #reference  
 > **Date:** [Extraction Date]
+>
+> *This LitNote was extracted FROM the above source. The reference below is cited WITHIN that source.*
 
 ---
 
@@ -102,11 +107,13 @@ tags:
 
 ---
 
-## ↔️ References
+## ↔️ Supporting References (SIDEWAYS — Epistemic Force)
 
-| Reference | Citation | Anchor |
-|-----------|----------|--------|
-| [[R-XXX-XXXX]] | [Author Year] | #ref-1 |
+These references were **cited within the source material** (above). They provide academic grounding for claims made in this LitNote, but they are NOT the source of extraction.
+
+| Reference | Citation | Claim Supported | Anchor |
+|-----------|----------|-----------------|--------|
+| [[R-XXX-XXXX]] | [Author Year] | [What this reference supports] | #ref-1 |
 
 **Total references:** [N] | **Anchor tag:** #references-side
 
