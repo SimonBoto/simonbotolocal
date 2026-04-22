@@ -24,6 +24,12 @@ Result: Can't trace from agent log to zettel.
 
 ## Progress Log
 - [2026-04-22] Issue created from memory system audit
+- [2026-04-22] Schema updated: vault_path column added to agent_knowledge
+- [2026-04-22] Schema updated: zettel_paths column added to pending_extractions
+- [2026-04-22] add_knowledge() updated with vault_path parameter
+- [2026-04-22] add_extraction() updated with zettel_paths parameter
+- [2026-04-22] Test passed: Vault paths stored and retrievable ✅
+- [2026-04-22] Database recreated with new schema (old data preserved in backup)
 
 ## Blockers
 None
