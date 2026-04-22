@@ -25,6 +25,7 @@ spawned: []
 
 ## Progress Log
 - [2026-04-22] Issue created from memory system audit
+- [2026-04-22] qmd embed started with batch-size 100 (PID 2687982)
 
 ## Blockers
 None
