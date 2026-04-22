@@ -11,24 +11,13 @@
             "id": "64120ee807f0bd00",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "08-Structure/Dashboards/Vault_Inventory.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-table",
+              "title": "Vault_Inventory"
             }
           }
         ]
@@ -211,6 +200,10 @@
   },
   "active": "3defb34dd9bafdc5",
   "lastOpenFiles": [
+    "08-Structure/Issues/Issue-053.md",
+    "08-Structure/Issues/Issue-052.md",
+    "08-Structure/Issues/Issue-051.md",
+    "Untitled.md",
     "08-Structure/Daily/2026/2026-04-22.md",
     "08-Structure/Issues/Issue-050.md",
     "08-Structure/Issues/Issue-049.md",
@@ -233,10 +226,6 @@
     "07-Projects/Agents/FORG/pending/FORG-BRIEF-0039.md",
     "07-Projects/Agents/FORG/pending/FORG-BRIEF-0038.md",
     "07-Projects/Agents/FORG/pending/FORG-BRIEF-0037.md",
-    "07-Projects/Agents/FORG/pending/FORG-BRIEF-0036.md",
-    "07-Projects/Agents/FORG/pending/FORG-BRIEF-0035.md",
-    "07-Projects/Agents/FORG/pending/FORG-BRIEF-0034.md",
-    "07-Projects/Agents/FORG/pending/FORG-BRIEF-0033.md",
     "07-Projects/Agents/FORG/pending",
     "07-Projects/Agents/FORG/output",
     "07-Projects/Agents/FORG",

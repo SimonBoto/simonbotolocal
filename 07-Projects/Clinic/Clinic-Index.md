@@ -41,11 +41,16 @@ status: active
 - [[Appointment_Types]] — 7 appointment types defined
 - [[Schedule_Petralona]] — Weekly rhythm and protected time
 
-### Workflow Gaps
-- [ ] Result email templates (Obsidian → Desknet)
+### Active Development (ISSUE-051)
+- [ ] Patient flow documentation (booking → prep → visit → follow-up → results)
+- [ ] Appointment-type-specific prep checklists
+- [ ] Results email template library
+- [ ] Follow-up trigger system
+- [ ] Desknet integration points vs. Obsidian tracking
+
+### Workflow Gaps (Legacy)
 - [ ] Phone call outcome logging
-- [ ] Follow-up scheduling triggers
-- [ ] Preparation checklists by appointment type
+- [ ] Nutritionist handoff protocol
 
 ---
 
@@ -94,17 +99,18 @@ status: active
 
 ## 🎯 CURRENT PRIORITIES (P0)
 
-1. **Extract training curriculum** from bootcamp zettels
+1. **Patient flow optimization** — ISSUE-051
+   - Make Simos's time count double
+   - Real-time experience → RON analysis → optimization
+   - **Next:** Simos describes one complete patient flow
+   
+2. **Extract training curriculum** from bootcamp zettels
    - Source: 03-Zettels/Conscious/Bootcamp_*
    - Deliverable: Doctors training manual
    
-2. **Create nutritionists guide**
+3. **Create nutritionists guide**
    - Source: Existing protocols in zettels
    - Deliverable: Nutritionist handbook
-   
-3. **Develop B2B partnership framework**
-   - Source: Partnership_Playbook (adapt from RON collaboration)
-   - Deliverable: Clinic partnership proposal
 
 ---
 

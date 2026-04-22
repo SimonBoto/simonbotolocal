@@ -76,10 +76,10 @@ None.
 ### Immediate (Next Session)
 | Priority | Task | Owner |
 |----------|------|-------|
-| P0 | Integrate Z-001-0272 into vault | RON |
-| P0 | Review K2.6 Exploitation Plan (Issues 045-050) | RON |
-| P1 | Night shift activation (00:00-08:00) | FORG |
-| P1 | CGPT backlog prioritization (SCOUT) | SCOUT |
+| P0 | Clinic patient flow — ISSUE-051 | Simos + RON |
+| P0 | PhD ClinicalTrials.gov — ISSUE-052 | Simos + RON |
+| P1 | CGPT backlog pipeline — ISSUE-053 | FORG + RON |
+| P1 | Z-001-0272 integration | RON |
 
 ### This Week
 | Day | Focus |
@@ -89,9 +89,11 @@ None.
 | **Sunday 20:00** | Weekly consolidation ritual |
 
 ### Open Issues
-- ISSUE-045 through ISSUE-050: K2.6 Exploitation Plan
+- **ISSUE-051:** Clinic Patient Flow Optimization (NEW — P0)
+- **ISSUE-052:** PhD ClinicalTrials.gov Submission (NEW — P0)
+- **ISSUE-053:** CGPT Backlog Processing Pipeline (NEW — P1)
+- ISSUE-045 through ISSUE-050: K2.6 Exploitation Plan (deferred)
 - ISSUE-038: .openclaw cleanup
-- ISSUE-029: Multi-agent AutoResearch
 
 ---
 

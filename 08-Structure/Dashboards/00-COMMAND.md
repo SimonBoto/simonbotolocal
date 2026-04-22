@@ -55,13 +55,13 @@ status: active
 ## Operating Orders
 
 ### Do Now (P0 — Max 3)
-- [ ] **K2.6 Exploitation** — Execute Issues 045-050 based on priority
+- [ ] **Clinic Flow Optimization** — ISSUE-051: Patient flow templates, prep checklists, email library
+- [ ] **PhD ClinicalTrials.gov** — ISSUE-052: Draft submission, unblock enrollment
 - [ ] **Z-001-0272 Integration** — Move from /tmp to 03-Zettels/Conscious/
-- [ ] **Night Shift Activation** — Configure FORG 00:00-08:00 batch processing
 
 ### Do Next (P1)
-- Review K2.6 cost-benefit vs k2.5 baseline
-- CGPT backlog prioritization (SCOUT)
+- **CGPT Backlog Pipeline** — ISSUE-053: Process 688 conversations (agent project)
+- K2.6 exploitation (Issues 045-050) — deferred until P0s moving
 - .openclaw directory cleanup per ISSUE-038
 
 ### Do Not Do (Guardrails)
