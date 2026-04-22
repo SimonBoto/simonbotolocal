@@ -101,5 +101,9 @@ tags:
 - [x] Reference-zettel links functional
 - [x] Source references added to all zettels
 
+
+## Source Reference
+- **Canonical Source:** [[GBD 2017 Diet — Health Effects_R-002-0043]] #reference
+
 ---
 *L-002-0203 | Created: 2026-04-04 | Tier: GOLD*

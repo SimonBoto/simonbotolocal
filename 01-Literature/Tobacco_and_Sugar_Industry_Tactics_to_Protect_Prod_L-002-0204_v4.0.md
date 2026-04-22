@@ -102,5 +102,9 @@ The sugar industry employed **the same tactics as the tobacco industry** — hid
 - [x] Reference-zettel links functional
 - [x] Source references added to all zettels
 
+
+## Source Reference
+- **Canonical Source:** [[Kearns 2016 — Sugar Industry a_R-002-0044]] #reference
+
 ---
 *L-002-0204 | Created: 2026-04-04 | Tier: GOLD*

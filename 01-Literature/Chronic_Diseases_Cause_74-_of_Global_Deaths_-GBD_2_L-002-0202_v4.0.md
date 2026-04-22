@@ -93,5 +93,9 @@ tags:
 - [x] QMD duplicate check completed — In vault (assume yes)
 - [ ] RON review pending — ALWAYS leave unchecked
 
+
+## Source Reference
+- **Canonical Source:** [[GBD 2019 — Global Burden of No_R-002-0042]] #reference
+
 ---
 *L-002-0202 | Created: 2026-04-04 | Tier: GOLD*

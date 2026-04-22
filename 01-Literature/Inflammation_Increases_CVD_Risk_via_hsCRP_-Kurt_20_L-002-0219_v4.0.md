@@ -101,5 +101,9 @@ tags:
 - [x] Reference-zettel links functional
 - [x] Source references added to all zettels
 
+
+## Source Reference
+- **Canonical Source:** [[Kurt 2025 — C-Reactive Protein_R-002-0025]] #reference
+
 ---
 *L-002-0219 | Created: 2026-04-04 | Tier: GOLD*

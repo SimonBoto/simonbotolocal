@@ -100,5 +100,9 @@ tags:
 - [x] Reference-zettel links functional
 - [x] Source references added to all zettels
 
+
+## Source Reference
+- **Canonical Source:** [[Kamstrup 2009 — Genetically El_R-002-0039]] #reference
+
 ---
 *L-002-0183 | Created: 2026-04-04 | Tier: GOLD*

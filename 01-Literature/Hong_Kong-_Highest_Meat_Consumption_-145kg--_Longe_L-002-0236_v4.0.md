@@ -104,5 +104,9 @@ tags:
 - [x] Reference-zettel links functional
 - [x] Source references added to all zettels
 
+
+## Source Reference
+- **Canonical Source:** [[Hong Kong: Highest Meat Consum_R-002-0063]] #reference
+
 ---
 *L-002-0236 | Created: 2026-04-04 | Updated: 2026-04-05 | Tier: SILVER*

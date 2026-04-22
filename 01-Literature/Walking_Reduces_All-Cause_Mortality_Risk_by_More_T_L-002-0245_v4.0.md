@@ -107,5 +107,9 @@ tags:
 - [x] Reference-zettel links functional
 - [x] Source references added to all zettels
 
+
+## Source Reference
+- **Canonical Source:** [[Paluch 2023 — Walking Reduces _R-002-0068]] #reference
+
 ---
 *L-002-0245 | Created: 2026-04-05 | Updated: 2026-04-05 | Tier: GOLD*

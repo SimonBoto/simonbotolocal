@@ -97,5 +97,9 @@ tags:
 - [x] QMD duplicate check completed — In vault (assume yes)
 - [ ] RON review pending — ALWAYS leave unchecked
 
+
+## Source Reference
+- **Canonical Source:** [[Szilveszter 2025 — Calcium Sco_R-002-0060]] #reference
+
 ---
 *L-002-0229 | Created: 2026-04-04 | Updated: 2026-04-05 | Tier: SILVER*

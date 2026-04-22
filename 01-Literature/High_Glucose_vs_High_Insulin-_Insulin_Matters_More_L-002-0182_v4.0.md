@@ -102,5 +102,9 @@ tags:
 - [x] Reference-zettel links functional
 - [x] Source references added to all zettels
 
+
+## Source Reference
+- **Canonical Source:** [[Zhao 2019 — Fasting Insulin, I_R-002-0026]] #reference
+
 ---
 *L-002-0182 | Created: 2026-04-04 | Tier: GOLD*

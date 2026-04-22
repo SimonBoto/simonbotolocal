@@ -100,5 +100,9 @@ Personalized nutritional interventions based on individual metabolic profiles (p
 - [x] Reference-zettel links functional
 - [x] Source references added to all zettels
 
+
+## Source Reference
+- **Canonical Source:** [[Bermingham 2024 — Personalized_R-002-0040]] #reference
+
 ---
 *L-002-0180 | Created: 2026-04-04 | Tier: GOLD*

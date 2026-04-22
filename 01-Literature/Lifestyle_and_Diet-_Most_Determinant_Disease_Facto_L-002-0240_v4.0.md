@@ -106,5 +106,9 @@ tags:
 - [x] Reference-zettel links functional
 - [x] Source references added to all zettels
 
+
+## Source Reference
+- **Canonical Source:** [[Lifestyle and Diet: Modifiable_R-002-0065]] #reference
+
 ---
 *L-002-0240 | Created: 2026-04-04 | Updated: 2026-04-05 | Tier: SILVER*

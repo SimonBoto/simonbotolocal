@@ -101,5 +101,9 @@ tags:
 - [x] Reference-zettel links functional
 - [x] Source references added to all zettels
 
+
+## Source Reference
+- **Canonical Source:** [[Twelve Evidence-Based Actions _R-002-0052]] #reference
+
 ---
 *L-002-0212 | Created: 2026-04-04 | Tier: GOLD*

@@ -110,5 +110,9 @@ Fasting or fasting-mimicking diets enhance the effectiveness of immunotherapy in
 - [x] Reference-zettel links functional
 - [x] Source references added to all zettels
 
+
+## Source Reference
+- **Canonical Source:** [[Chen 2026 - Fasting Enhances I_R-002-0038]] #reference
+
 ---
 *L-002-0181 | Created: 2026-04-04 | Tier: GOLD*

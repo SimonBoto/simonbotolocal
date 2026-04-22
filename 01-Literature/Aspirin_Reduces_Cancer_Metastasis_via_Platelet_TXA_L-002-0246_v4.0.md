@@ -181,5 +181,9 @@ pmid: "40044852"
 - 
 - 
 
+
+## Source Reference
+- **Canonical Source:** [[Aspirin prevents metastasis by_R-001-0100]] #reference
+
 ---
 *L-002-0246 | Created: 2026-04-05 | Tier: GOLD*

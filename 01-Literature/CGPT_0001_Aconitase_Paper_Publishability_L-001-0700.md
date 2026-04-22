@@ -124,6 +124,10 @@ anchors:
 - [ ] QMD duplicate check completed — In vault
 - [ ] RON review pending — ALWAYS leave unchecked
 
+
+## Source Reference
+- **Canonical Source:** [[Fish-Oil Supplementation and C_R-001-0700]] #reference
+
 ---
 
 *L-001-0700 | Created: 2026-04-22 | Tier: BRONZE | Anchors: UP ✓ DOWN ✓ SIDEWAYS ✓*

@@ -92,5 +92,9 @@ tags:
 - [x] QMD duplicate check completed — In vault (assume yes)
 - [ ] RON review pending — ALWAYS leave unchecked
 
+
+## Source Reference
+- **Canonical Source:** [[GBD 2019 Alcohol — Global Burd_R-002-0045]] #reference
+
 ---
 *L-002-0205 | Created: 2026-04-04 | Tier: GOLD*

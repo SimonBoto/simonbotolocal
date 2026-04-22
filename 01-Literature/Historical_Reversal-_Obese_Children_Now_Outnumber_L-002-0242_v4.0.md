@@ -104,5 +104,9 @@ tags:
 - [x] Reference-zettel links functional
 - [x] Source references added to all zettels
 
+
+## Source Reference
+- **Canonical Source:** [[UNICEF Report: Obese Children _R-002-0066]] #reference
+
 ---
 *L-002-0242 | Created: 2026-04-04 | Updated: 2026-04-05 | Tier: SILVER*

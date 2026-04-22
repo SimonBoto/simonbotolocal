@@ -97,5 +97,9 @@ tags:
 - [x] QMD duplicate check completed — In vault (assume yes)
 - [ ] RON review pending — ALWAYS leave unchecked
 
+
+## Source Reference
+- **Canonical Source:** [[Animal and Saturated Fat Not L_R-002-0067]] #reference
+
 ---
 *L-002-0244 | Created: 2026-04-04 | Updated: 2026-04-05 | Tier: SILVER*
