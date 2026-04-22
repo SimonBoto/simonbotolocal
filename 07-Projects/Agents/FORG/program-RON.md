@@ -140,6 +140,52 @@ status: conscious
 
 ---
 
+## Shared Memory Integration
+
+### After Each Extraction
+
+```python
+from shared_memory import SharedMemory
+
+with SharedMemory() as mem:
+    # 1. Log knowledge
+    mem.add_knowledge('FORG', 'extraction', {
+        'cgpt_id': 'CGPT-XXXX',
+        'topic': 'Topic',
+        'zettels_created': N,
+        'quality_score': 0.XX,
+        'key_findings': ['finding1', 'finding2']
+    }, source='CGPT-XXXX')
+    
+    # 2. Queue for RON review
+    mem.add_extraction(
+        batch_id='BATCH-001',
+        cgpt_id='CGPT-XXXX',
+        litnote_path='pending/CGPT_XXXX_LitNote.md',
+        zettel_count=N,
+        quality_score=0.XX
+    )
+    
+    # 3. Update agent state
+    mem.update_agent_state('FORG', 'working', 
+                          current_task='CGPT-XXXX')
+```
+
+### End of Night Shift
+
+```python
+with SharedMemory() as mem:
+    # Log completion
+    mem.update_agent_state('FORG', 'idle',
+                          current_task='Batch-001 complete')
+    
+    # Summary for RON
+    pending = mem.get_pending_extractions()
+    print(f"{len(pending)} extractions ready for review")
+```
+
+---
+
 ## Success Metrics
 
 | Metric | Target |
@@ -149,6 +195,7 @@ status: conscious
 | Quality score | >70% |
 | YAML valid | 100% |
 | Cost per conversation | <$0.25 |
+| Shared memory sync | 100% |
 
 ---
 
@@ -157,9 +204,11 @@ status: conscious
 | Date | Change | Trigger |
 |------|--------|---------|
 | 2026-04-22 | Program created | ISSUE-029 activation |
+| 2026-04-22 | Shared memory integration | ISSUE-056 Phase 2 |
 
 ---
 
 *Program: FORG-PROGRAM-001*
 *Agent: FORG (Grok 4.1 Fast)*
 *Queue: [[queue-scout.md]]*
+*Shared Memory: [[SHARED-MEMORY-ARCHITECTURE.md]]*

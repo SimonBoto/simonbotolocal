@@ -34,9 +34,12 @@ FORG doesn't know what RON learned yesterday. SCOUT can't access FORG's extracti
 - [15:09] **Phase 1 IMPLEMENTED** — shared.sqlite created with 5 tables ✅
 - [15:09] **Test PASSED** — FORG→shared→RON sync working ✅
 - [15:09] Python wrapper: `shared_memory.py` ready ✅
-- [ ] Phase 2: Integrate into FORG extraction workflow
-- [ ] Phase 3: RON morning review reads from shared
-- [ ] Phase 4: SCOUT discoveries logged to shared
+- [15:10] **Phase 2 IMPLEMENTED** — FORG integration complete ✅
+- [15:10] **RON client** created and tested ✅
+- [15:10] **New agent onboarding protocol** documented ✅
+- [15:10] **Test: Morning review** — RON sees 2 pending extractions ✅
+- [ ] Phase 3: SCOUT discoveries logged to shared
+- [ ] Phase 4: Auto-prioritization based on shared state
 
 ## Blockers
 None
