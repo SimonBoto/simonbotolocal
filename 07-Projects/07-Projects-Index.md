@@ -9,7 +9,7 @@ parent-index: [[00-INDEX]]
 
 # 07 Projects Index
 
-> **Active work, agents, skills, and tools**
+> **Active work, agents, skills, standards, and tools**
 > 
 > *Fascia and muscle — connected to issues and dashboards.*
 
@@ -17,12 +17,12 @@ parent-index: [[00-INDEX]]
 
 ## 🤖 Agents
 
-| Agent | Model | Status | Issue |
-|-------|-------|--------|-------|
-| [[Agent-RON]] | Kimi k2.6 | Active | — |
-| [[Agent-FORG]] | Grok 4.1 Fast | Operational | — |
-| [[Agent-SCOUT]] | Nemotron 3 Super | Operational | — |
-| [[Agent-Status]] | — | Tracking | — |
+| Agent | Model | Status |
+|-------|-------|--------|
+| [[Agent-RON]] | Kimi k2.6 | Active |
+| [[Agent-FORG]] | Grok 4.1 Fast | Operational |
+| [[Agent-SCOUT]] | Nemotron 3 Super | Operational |
+| [[Agent-Status]] | — | Tracking |
 
 ---
 
@@ -56,28 +56,35 @@ parent-index: [[00-INDEX]]
 
 ---
 
-## 🛠️ Skills
+## 🔄 Operations
 
-Reusable capabilities.
+| Resource | Purpose |
+|----------|---------|
+| [[Operations-Index]] | Rituals, checklists, tracking |
+
+---
+
+## 🛠️ Skills
 
 | Skill | Purpose |
 |-------|---------|
-| [[Skills-Index]] | All skills |
-| [[skill-extraction-v1.0]] | LitNote extraction |
-| [[skill-moc-consolidation-v1.0]] | MOC management |
-| [[skill-batch-fix-v1.0]] | Batch operations |
-| [[skill-zettel-alignment-v1.0]] | Zettel validation |
+| [[Skills-Index]] | Reusable capabilities |
+
+---
+
+## 📏 Standards
+
+| Standard | Purpose |
+|----------|---------|
+| [[Standards-Index]] | Rules and protocols |
 
 ---
 
 ## 🧰 Tools
 
-Active tool configurations and scripts.
-
-| Category | Location |
-|----------|----------|
-| Configs | [[Tools-Index]] |
-| Scripts | `Tools/Scripts/` |
+| Resource | Purpose |
+|----------|---------|
+| [[Tools-Index]] | Configs and scripts |
 
 ---
 
@@ -87,5 +94,5 @@ Completed work → [[09-Archive]]
 
 ---
 
-*Structure: Agents/Clinic/PhD/Personal/Skills/Tools*
+*Structure: Agents/Clinic/PhD/Personal/Operations/Skills/Standards/Tools*
 *Last updated: 2026-04-22*
