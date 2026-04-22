@@ -11,10 +11,24 @@
             "id": "64120ee807f0bd00",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Untitled Kanban.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled Kanban"
             }
           }
         ]
@@ -195,8 +209,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3defb34dd9bafdc5",
+  "active": "64120ee807f0bd00",
   "lastOpenFiles": [
+    "08-Structure/Dashboards/Dataview-Issues.md",
+    "08-Structure/Dashboards/Kanban-Issues.md",
+    "Untitled.canvas",
+    "Untitled Kanban.md",
+    "08-Structure/Dashboards/Vault_Inventory.base",
     "08-Structure/VAULT-GUIDE.md",
     "07-Projects/Standards/Standards-Index.md",
     "07-Projects/Operations/Operations-Index.md",
@@ -227,12 +246,8 @@
     "07-Projects/Standards/CGPT_EXTRACTION_PROTOCOL_v2.0.md",
     "07-Projects/Standards/EXTRACTION_PROTOCOL_v1.0.md",
     "07-Projects/Standards",
-    "07-Projects/Operations/New-Agent-Hiring-Protocol.md",
-    "07-Projects/Operations/NOTE-CONNECTIVITY.md",
-    "07-Projects/Operations/CONNECTIVITY-TRACKING.md",
     "07-Projects/Operations",
     "07-Projects/Tools/Vault_Inventory.base",
-    "09-Archive/FORG-Briefs",
     "02-References/Assets/Images/2025-12-12_X_Pungao_Seed_Oils_Oxylipins_1.jpg",
     "02-References/Assets/Images/2025-12-13_X_DrWilliamWallac_Vitamin_Functions.jpg",
     "02-References/Assets/Images/2025-12-26_X_BrettBoettcher_Body_Regeneration_Timeline.jpg",
