@@ -2,6 +2,7 @@
 uid: L-002-0219
 type: litnote
 source-origin: unknown
+source-reference: "[[Kurt 2025 — C-Reactive Protein_R-002-0025]]"
 title: "Inflammation Increases CVD Risk via hsCRP (Kurt 2025)"
 aliases:
   - "L-002-0219"

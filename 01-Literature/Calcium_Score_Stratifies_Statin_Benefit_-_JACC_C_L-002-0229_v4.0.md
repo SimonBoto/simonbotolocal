@@ -2,6 +2,7 @@
 uid: L-002-0229
 type: litnote
 source-origin: facebook-article
+source-reference: "[[Szilveszter 2025 — Calcium Sco_R-002-0060]]"
 title: "Calcium Score Stratifies Statin Benefit - JACC Cardiovascular Imaging 2025 (Szilveszter)"
 aliases:
   - "L-002-0229"

@@ -2,6 +2,7 @@
 uid: L-002-0212
 type: litnote
 source-origin: unknown
+source-reference: "[[Twelve Evidence-Based Actions _R-002-0052]]"
 title: "Twelve Evidence-Based Actions for Better Health (Lifestyle Medicine Framework)"
 aliases:
   - "L-002-0212"

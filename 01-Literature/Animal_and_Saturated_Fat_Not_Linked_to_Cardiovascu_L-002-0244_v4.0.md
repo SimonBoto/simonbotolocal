@@ -2,6 +2,7 @@
 uid: L-002-0244
 type: litnote
 source-origin: facebook-article
+source-reference: "[[Animal and Saturated Fat Not L_R-002-0067]]"
 title: "Animal and Saturated Fat Not Linked to Cardiovascular Death - Tokyo University"
 aliases:
   - "L-002-0244"

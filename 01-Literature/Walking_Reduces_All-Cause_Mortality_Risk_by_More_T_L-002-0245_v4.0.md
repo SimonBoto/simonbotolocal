@@ -2,6 +2,7 @@
 uid: L-002-0245
 type: litnote
 source-origin: facebook-article
+source-reference: "[[Paluch 2023 — Walking Reduces _R-002-0068]]"
 title: "Walking Reduces All-Cause Mortality Risk by More Than Half - JAMA 2023 (Paluch)"
 aliases:
   - "L-002-0245"

@@ -2,6 +2,7 @@
 uid: L-002-0209
 type: litnote
 source-origin: unknown
+source-reference: "[[Hong Kong: Highest Meat Consum_R-002-0063]]"
 title: "Hong Kong: Highest Meat Consumption, Longest Lifespan (Meat-Longevity Paradox)"
 aliases:
   - "L-002-0209"

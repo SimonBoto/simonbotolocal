@@ -2,6 +2,7 @@
 uid: L-002-0239
 type: litnote
 source-origin: facebook-article
+source-reference: "[[Twelve Actions for Better Heal_R-002-0064]]"
 title: "Twelve Actions for Better Health in 2026 - Lifestyle Medicine Protocol"
 aliases:
   - "L-002-0239"

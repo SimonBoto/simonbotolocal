@@ -2,6 +2,7 @@
 uid: L-002-0202
 type: litnote
 source-origin: unknown
+source-reference: "[[GBD 2019 — Global Burden of No_R-002-0042]]"
 title: "Chronic Diseases Cause 74% of Global Deaths (GBD 2019)"
 aliases:
   - "L-002-0202"

@@ -2,6 +2,7 @@
 uid: L-002-0246
 type: litnote
 source-origin: unknown
+source-reference: "[[Aspirin prevents metastasis by_R-001-0100]]"
 title: Aspirin Reduces Cancer Metastasis via Platelet TXA2-T-Cell Mechanism
 aliases:
   - L-002-0246

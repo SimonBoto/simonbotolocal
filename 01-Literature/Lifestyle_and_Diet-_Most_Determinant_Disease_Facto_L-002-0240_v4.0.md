@@ -2,6 +2,7 @@
 uid: L-002-0240
 type: litnote
 source-origin: facebook-article
+source-reference: "[[Lifestyle and Diet: Modifiable_R-002-0065]]"
 title: "Lifestyle and Diet: Most Determinant Disease Factors Are Modifiable - BMJ 95.7% Improvement"
 aliases:
   - "L-002-0240"

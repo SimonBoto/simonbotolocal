@@ -195,8 +195,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "64120ee807f0bd00",
+  "active": "3defb34dd9bafdc5",
   "lastOpenFiles": [
+    "08-Structure/Issues/Issue-072.md",
+    "08-Structure/Issues/Issue-071.md",
+    "08-Structure/Issues/Issue-070.md",
+    "08-Structure/Issues/Issue-069.md",
     "08-Structure/Issues/Issue-068.md",
     "08-Structure/Issues/ISSUE-067-Synthetic-LitNote-Upgrade-Tracking.md",
     "01-Literature/Synthetic_Omics_Methods_Statistics_L-001-0732.md",
@@ -220,10 +224,6 @@
     "01-Literature/CGPT_0549_Chemical_Type_of_Ascorbate_L-001-0722.md",
     "01-Literature/CGPT_0311_Self-Education_Program_Plan_L-001-0721.md",
     "01-Literature/CGPT_0282_Seed_Oils_and_Chronic_Diseases_L-001-0720.md",
-    "01-Literature/CGPT_0345_Alkaline_Phosphatase_Overview_L-001-0719.md",
-    "01-Literature/CGPT_0438_Hormone_Scenarios_Normal_vs_Pathological_L-001-0718.md",
-    "01-Literature/CGPT_0340_Seed_oils_history_and_process_L-001-0717.md",
-    "01-Literature/CGPT_0621_Publishing_Meta-Analysis_Guidelines_L-001-0716.md",
     "07-Projects/Tools/batch_create_cgpt_litnotes.py",
     "07-Projects/Agents/SCOUT",
     "Untitled.canvas",

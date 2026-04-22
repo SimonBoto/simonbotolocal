@@ -5,6 +5,7 @@ title: "CGPT_0001_Aconitase_Paper_Publishability_L-001-0700"
 aliases:
   - L-001-0700
 source-origin: "ChatGPT conversation"
+source-reference: "[[Fish-Oil Supplementation and C_R-001-0700]]"
 source-cgpt: "[[CGPT_0001_Aconitase_Paper_Publishability_CGPT-0001]]"
 tier: BRONZE
 relevance: "Medium - CGPT conversation, clinical relevance varies"

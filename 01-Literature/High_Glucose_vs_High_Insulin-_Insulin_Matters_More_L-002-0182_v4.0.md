@@ -2,6 +2,7 @@
 uid: L-002-0182
 type: litnote
 source-origin: unknown
+source-reference: "[[Zhao 2019 — Fasting Insulin, I_R-002-0026]]"
 title: "High Glucose vs High Insulin: Insulin Matters More for CVD (Zhao 2019)"
 aliases:
   - L-002-0182

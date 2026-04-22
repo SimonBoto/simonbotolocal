@@ -2,6 +2,7 @@
 uid: L-002-0181
 type: litnote
 source-origin: unknown
+source-reference: "[[Chen 2026 - Fasting Enhances I_R-002-0038]]"
 title: "Fasting Enhances Immunotherapy Effectiveness in Cancer Patients"
 aliases:
   - L-002-0181

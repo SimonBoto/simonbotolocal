@@ -2,6 +2,7 @@
 uid: L-002-0204
 type: litnote
 source-origin: unknown
+source-reference: "[[Kearns 2016 — Sugar Industry a_R-002-0044]]"
 title: "Tobacco and Sugar Industry Tactics to Protect Products (Kearns 2016)"
 aliases:
   - "L-002-0204"

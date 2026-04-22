@@ -2,6 +2,7 @@
 uid: L-002-0236
 type: litnote
 source-origin: facebook-article
+source-reference: "[[Hong Kong: Highest Meat Consum_R-002-0063]]"
 title: "Hong Kong: Highest Meat Consumption (145kg), Longest Life Expectancy (Population Data)"
 aliases:
   - "L-002-0236"

@@ -2,6 +2,7 @@
 uid: L-002-0242
 type: litnote
 source-origin: facebook-article
+source-reference: "[[UNICEF Report: Obese Children _R-002-0066]]"
 title: "Historical Reversal: Obese Children Now Outnumber Underweight Children Globally (UNICEF 2025)"
 aliases:
   - "L-002-0242"

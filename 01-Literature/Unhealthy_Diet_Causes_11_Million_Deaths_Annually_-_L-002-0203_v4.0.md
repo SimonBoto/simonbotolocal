@@ -2,6 +2,7 @@
 uid: L-002-0203
 type: litnote
 source-origin: unknown
+source-reference: "[[GBD 2017 Diet — Health Effects_R-002-0043]]"
 title: "Unhealthy Diet Causes 11 Million Deaths Annually (GBD 2017)"
 aliases:
   - "L-002-0203"
