@@ -1,20 +1,12 @@
----
-uid: Z-001-0576A
+---uid: Z-001-0576A
 type: zettel
-title: "ALP Isoenzymes and Tissue Sources"
+title: '"ALP Isoenzymes and Tissue Sources"'
 aliases: []
-  - Z-001-0576A
-  - ALP-Isoenzymes
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - biomarkers
-  - alkaline-phosphatase
-  - isoenzymes
-  - clinical-biochemistry
-parent-moc: "[[MOC-Biomarkers]]"
-source-litnote: "[[Alkaline_Phosphatase_Overview_-_Isoenzymes-_Page_L-001-0576_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Biomarkers]]"'
+source-litnote: '"[[Alkaline_Phosphatase_Overview_-_Isoenzymes-_Page_L-001-0576_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

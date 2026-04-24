@@ -1,20 +1,12 @@
----
-uid: Z-001-0133
+---uid: Z-001-0133
 type: zettel
-title: "Bone Density Monitoring Intervals"
+title: '"Bone Density Monitoring Intervals"'
 aliases: []
-  - Z-001-0133
-  - Bone_Density_Monitoring
-  - DXA_Monitoring_Intervals
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - monitoring
-  - DXA
-  - bone-density
-parent-moc: "[[MOC-Clinical-Metabolomics]]"
-source-litnote: "[[Monitoring_and_Follow-Up_L-001-0045M_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Clinical-Metabolomics]]"'
+source-litnote: '"[[Monitoring_and_Follow-Up_L-001-0045M_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

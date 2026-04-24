@@ -1,18 +1,12 @@
----
-uid: Z-001-0578E
+---uid: Z-001-0578E
 type: zettel
-title: "Aromatase Excess Pattern"
+title: '"Aromatase Excess Pattern"'
 aliases: []
-  - Z-001-0578E
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - hormones
-  - male
-  - aromatase
-parent-moc: "[[MOC-Hormones]]"
-source-litnote: "[[Male_Hormone_Assessment_-_Clinical_Scenarios_and_L-001-0578_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Hormones]]"'
+source-litnote: '"[[Male_Hormone_Assessment_-_Clinical_Scenarios_and_L-001-0578_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

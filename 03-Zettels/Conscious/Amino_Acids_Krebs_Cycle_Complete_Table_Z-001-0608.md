@@ -1,14 +1,19 @@
----
-uid: Z-001-0608
+---uid: Z-001-0608
 type: zettel
-title: "Amino Acids to Krebs Cycle: Complete Metabolic Mapping Table"
-aliases: [Z-001-0608]
-domain: 001
-tags: [zettel, amino-acids, krebs-cycle, metabolism, biochemistry, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
+title: '"Amino Acids to Krebs Cycle: Complete Metabolic Mapping Table"'
+aliases: '[Z-001-0608]'
+domain: 1
+tags:
+- '"""""[zettel"""""'
+- '"""""amino-acids"""""'
+- '"""""krebs-cycle"""""'
+- '"""""metabolism"""""'
+- '"""""biochemistry"""""'
+- '"""""conscious]"""""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Amino_Acids_Krebs_Cycle_Metabolic_Mapping_L-001-0060B]
-extraction-date: 2026-03-05
+source-litnote: '[[LitNote_Amino_Acids_Krebs_Cycle_Metabolic_Mapping_L-001-0060B]'
+extraction-date: '2026-03-05'
 ---
 
 # Amino Acids to Krebs Cycle: Complete Metabolic Mapping Table

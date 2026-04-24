@@ -1,22 +1,12 @@
----
-uid: Z-001-0138
+---uid: Z-001-0138
 type: zettel
-title: "Anabolic Therapy Duration Guidelines"
+title: '"Anabolic Therapy Duration Guidelines"'
 aliases: []
-  - Z-001-0138
-  - Anabolic-Therapy
-  - Teriparatide
-  - Abaloparatide
-  - Romosozumab
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - anabolic-therapy
-  - medication-duration
-  - osteoporosis
-parent-moc: "[[MOC-Clinical-Metabolomics]]"
-source-litnote: "Medication_Duration_Guidelines_L-001-0045L_v4.0"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Clinical-Metabolomics]]"'
+source-litnote: '"Medication_Duration_Guidelines_L-001-0045L_v4.0"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

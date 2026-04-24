@@ -1,16 +1,24 @@
----
-uid: Z-001-0040
+---uid: Z-001-0040
 type: zettel
 title: Biomarker Classification Framework
-aliases: [Z-001-0040, Biomarker-Framework, Biomarker-Taxonomy]
-domain: 001
+aliases:
+- '"""""[Z-001-0040"""""'
+- '"""""Biomarker-Framework"""""'
+- '"""""Biomarker-Taxonomy]"""""'
+domain: 1
 domain-name: Insulin Signaling
-tags: [zettel, biomarkers, classification, taxonomy, framework]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[LitNote_Biomarkers_Taxonomy_L-001-0006]
-source-litnote: "[[Synthetic_Biomarker_Classification_Framework_L-001-0735]]"
+tags:
+- '"""""[zettel"""""'
+- '"""""biomarkers"""""'
+- '"""""classification"""""'
+- '"""""taxonomy"""""'
+- '"""""framework]"""""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source: '[[LitNote_Biomarkers_Taxonomy_L-001-0006]'
+source-litnote: '"[[Synthetic_Biomarker_Classification_Framework_L-001-0735]]"'
 confidence: high
-created: 2026-02-24
+created: '2026-02-24'
+status: conscious
 ---
 
 #  Classification Framework

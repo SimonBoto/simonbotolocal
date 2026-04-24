@@ -1,16 +1,24 @@
----
-uid: Z-001-0042
+---uid: Z-001-0042
 type: zettel
 title: BCAAs and Insulin Resistance Risk
-aliases: [Z-001-0042, BCAAs-IR-Risk]
-domain: 001
+aliases:
+- '"""""[Z-001-0042"""""'
+- '"""""BCAAs-IR-Risk]"""""'
+domain: 1
 domain-name: Insulin Signaling
-tags: [zettel, BCAAs, amino-acids, mTOR, insulin-resistance, metabolomics]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Biomarkers_Taxonomy_L-001-0006]
-extraction-date: 2026-04-15
+tags:
+- '"""""[zettel"""""'
+- '"""""BCAAs"""""'
+- '"""""amino-acids"""""'
+- '"""""mTOR"""""'
+- '"""""insulin-resistance"""""'
+- '"""""metabolomics]"""""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source-litnote: '[[LitNote_Biomarkers_Taxonomy_L-001-0006]'
+extraction-date: '2026-04-15'
 confidence: high
-created: 2026-02-24
+created: '2026-02-24'
+status: conscious
 ---
 
 # BCAAs and Insulin Resistance Risk

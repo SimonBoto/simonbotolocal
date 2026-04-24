@@ -1,22 +1,12 @@
----
-uid: Z-001-0576F
+---uid: Z-001-0576F
 type: zettel
-title: "ALP Normal Ranges and Interpretation"
+title: '"ALP Normal Ranges and Interpretation"'
 aliases: []
-  - Z-001-0576F
-  - ALP-Normal-Ranges
-  - ALP-Interpretation
-  - Clinical-Biochemistry
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - biomarkers
-  - alkaline-phosphatase
-  - clinical-biochemistry
-  - laboratory-interpretation
-parent-moc: "[[MOC-Biomarkers]]"
-source-litnote: "[[Alkaline_Phosphatase_Overview_-_Isoenzymes-_Page_L-001-0576_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Biomarkers]]"'
+source-litnote: '"[[Alkaline_Phosphatase_Overview_-_Isoenzymes-_Page_L-001-0576_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

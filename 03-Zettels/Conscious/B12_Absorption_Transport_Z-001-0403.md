@@ -1,14 +1,21 @@
----
-uid: Z-001-0403
+---uid: Z-001-0403
 type: zettel
 title: B12 Absorption and Transport
-aliases: [B12-Absorption, Intrinsic-Factor, Transcobalamin]
-domain: 001
-tags: [zettel, vitamin-b12, absorption, intrinsic-factor, transport]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '"""""[B12-Absorption"""""'
+- '"""""Intrinsic-Factor"""""'
+- '"""""Transcobalamin]"""""'
+domain: 1
+tags:
+- '"""""[zettel"""""'
+- '"""""vitamin-b12"""""'
+- '"""""absorption"""""'
+- '"""""intrinsic-factor"""""'
+- '"""""transport]"""""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_One_Carbon_Metabolism_B12_L-001-0401]'
+extraction-date: '2026-03-01'
 ---
 
 # B12 Absorption and Transport

@@ -1,14 +1,21 @@
----
-uid: Z-001-0445
+---uid: Z-001-0445
 type: zettel
 title: B12 Reference and Optimal Values
-aliases: [B12-Reference, Optimal-B12, Neurological-Risk]
-domain: 001
-tags: [zettel, b12, reference, optimal, values]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '"""""[B12-Reference"""""'
+- '"""""Optimal-B12"""""'
+- '"""""Neurological-Risk]"""""'
+domain: 1
+tags:
+- '"""""[zettel"""""'
+- '"""""b12"""""'
+- '"""""reference"""""'
+- '"""""optimal"""""'
+- '"""""values]"""""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_B12_Clinical_Assessment_L-001-0408]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_B12_Clinical_Assessment_L-001-0408]'
+extraction-date: '2026-03-01'
 ---
 
 # B12 Reference and Optimal Values

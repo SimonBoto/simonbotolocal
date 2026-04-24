@@ -1,15 +1,25 @@
----
-uid: Z-001-0035
+---uid: Z-001-0035
 type: zettel
 title: Beta-Cell Exhaustion Stage
-aliases: [Z-001-0035, Beta-Cell-Exhaustion, Stage-2-IR]
-domain: 001
+aliases:
+- '"""""Z-001-0035"""""'
+- '"""""Beta-Cell-Exhaustion"""""'
+- '"""""Stage-2-IR"""""'
+domain: 1
 domain-name: Insulin Signaling
-tags: [zettel, beta-cell, exhaustion, IFG, IGT, prediabetes]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: "[[LitNote_IR_Mechanisms_Map_L-001-0005]]"
+tags:
+- '"""""zettel"""""'
+- '"""""beta-cell"""""'
+- '"""""exhaustion"""""'
+- '"""""IFG"""""'
+- '"""""IGT"""""'
+- '"""""prediabetes"""""'
+parent-moc:
+- '"""""[''MOC-Insulin-Signaling'']"""""'
+source-litnote: '"[[LitNote_IR_Mechanisms_Map_L-001-0005]]"'
 confidence: high
 created: 2026-02-24
+status: conscious
 ---
 
 # Beta-Cell Exhaustion Stage

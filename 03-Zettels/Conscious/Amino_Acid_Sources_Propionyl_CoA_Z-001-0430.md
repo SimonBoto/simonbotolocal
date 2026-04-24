@@ -1,28 +1,14 @@
----
-uid: Z-001-0430
+---uid: Z-001-0430
 type: zettel
 title: Amino Acid Sources of Propionyl-CoA
 aliases: []
-  - Z-001-0430
-  - Amino-Acids
-  - Propionyl-CoA
-  - Catabolism
-  - BCAAs
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - amino-acids
-  - propionyl-coa
-  - catabolism
-  - isoleucine
-  - methionine
-  - valine
-  - threonine
-parent-moc: "[[MOC-Nitrogen-Metabolism]]"
+parent-moc: '"[[MOC-Nitrogen-Metabolism]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-01
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-01'
 ---
 
 # Amino Acid Sources of Propionyl-CoA

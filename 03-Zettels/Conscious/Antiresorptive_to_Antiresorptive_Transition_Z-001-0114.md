@@ -1,20 +1,12 @@
----
-uid: Z-001-0114
+---uid: Z-001-0114
 type: zettel
-title: "Antiresorptive to Antiresorptive Transition"
+title: '"Antiresorptive to Antiresorptive Transition"'
 aliases: []
-  - Z-001-0114
-  - Antiresorptive-Transition
-  - Bisphosphonate-Transition
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - drug-transition
-  - sequential-therapy
-  - osteoporosis
-parent-moc: "[[MOC-Clinical-Metabolomics]]"
-source-litnote: "[[Denosumab_Mechanism_Rebound_Effect_and_Discontinuation_Proto_L-001-0012]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Clinical-Metabolomics]]"'
+source-litnote: '"[[Denosumab_Mechanism_Rebound_Effect_and_Discontinuation_Proto_L-001-0012]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

@@ -1,20 +1,12 @@
----
-uid: Z-001-0575C
+---uid: Z-001-0575C
 type: zettel
-title: "Albumin-Inflammation Confounder"
+title: '"Albumin-Inflammation Confounder"'
 aliases: []
-  - Z-001-0575C
-  - Albumin-Inflammation-Confounder
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - kidney
-  - albumin
-  - inflammation
-  - confounder
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
-source-litnote: "[[CGPT_0370_Protein_and_Kidney_Disease_L-001-0708]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Metabolic-Syndrome]]"'
+source-litnote: '"[[CGPT_0370_Protein_and_Kidney_Disease_L-001-0708]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

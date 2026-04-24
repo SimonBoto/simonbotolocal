@@ -1,19 +1,12 @@
----
-uid: Z-001-0132
+---uid: Z-001-0132
 type: zettel
-title: "Anabolic Therapy Safety and Contraindications"
+title: '"Anabolic Therapy Safety and Contraindications"'
 aliases: []
-  - Z-001-0132
-  - Anabolic-Safety
-  - Therapy-Contraindications
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - therapy-safety
-  - osteoporosis
-parent-moc: "[[MOC-Bone-Health]]"
-source-litnote: "[[Anabolic_vs_Antiresorptive_Therapy_Selection_L-001-0045I_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Bone-Health]]"'
+source-litnote: '"[[Anabolic_vs_Antiresorptive_Therapy_Selection_L-001-0045I_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

@@ -1,25 +1,14 @@
----
-uid: Z-001-1114
+---uid: Z-001-1114
 type: zettel
 title: Aldoses and Ketoses — Reference Table
 aliases: []
-  - Z-001-1114
-  - Aldoses-Ketoses
-  - Sugar-Reference
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - aldoses
-  - ketoses
-  - reference
-  - table
-  - sugars
-  - biochemistry
-parent-moc: "[[MOC-Glycolysis-PPP]]"
+parent-moc: '"[[MOC-Glycolysis-PPP]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-08
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-08'
 ---
 
 # Aldoses and Ketoses — Reference Table

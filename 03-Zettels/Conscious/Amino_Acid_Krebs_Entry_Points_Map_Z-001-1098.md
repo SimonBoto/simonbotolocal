@@ -1,24 +1,14 @@
----
-uid: Z-001-1098
+---uid: Z-001-1098
 type: zettel
 title: Amino Acid Krebs Entry Points Map
 aliases: []
-  - Z-001-1098
-  - Krebs-Entry
-  - Amino-Acid-Map
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - amino-acids
-  - krebs
-  - entry-points
-  - metabolism
-  - transamination
-parent-moc: "[[MOC-Nitrogen-Metabolism]]"
+parent-moc: '"[[MOC-Nitrogen-Metabolism]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-08
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-08'
 ---
 
 # Amino Acid Krebs Entry Points Map

@@ -1,24 +1,14 @@
----
-uid: Z-001-1095
+---uid: Z-001-1095
 type: zettel
 title: BHB — Hydroxyacid, Not True Ketone
 aliases: []
-  - Z-001-1095
-  - BHB-Structure
-  - Hydroxyacid
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - bhb
-  - hydroxyacid
-  - ketone-body
-  - structure
-  - signaling
-parent-moc: "[[MOC-Lipid-Metabolism]]"
+parent-moc: '"[[MOC-Lipid-Metabolism]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-08
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-08'
 ---
 
 # BHB — Hydroxyacid, Not True Ketone

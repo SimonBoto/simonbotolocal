@@ -1,27 +1,14 @@
----
-uid: Z-001-0483
+---uid: Z-001-0483
 type: zettel
 title: BHB is a Hydroxy Acid, Not a Ketone
 aliases: []
-  - Z-001-0483
-  - BHB
-  - Hydroxy-Acid
-  - Chemistry
-  - Structure
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - bhb
-  - hydroxy-acid
-  - chemistry
-  - structure
-  - nomenclature
-  - ketone-bodies
-parent-moc: "[[MOC-Lipid-Metabolism]]"
+parent-moc: '"[[MOC-Lipid-Metabolism]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-04
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-04'
 ---
 
 # BHB is a Hydroxy Acid, Not a Ketone

@@ -1,16 +1,24 @@
----
-uid: Z-002-0610
+---uid: Z-002-0610
 type: zettel
-title: "Belmont Report Ethical Principles (1979)"
-aliases: [Z-002-0610, belmont-report, us-research-ethics]
-domain: 002
+title: Belmont Report Ethical Principles (1979)
+aliases:
+- '"""""Z-002-0610"""""'
+- '"""""belmont-report"""""'
+- '"""""us-research-ethics"""""'
+domain: 2
 domain-name: Research Ethics
-tags: [zettel, research-ethics, us-regulations, irb]
-parent-moc: [[MOC-Research-Ethics]]
-source-litnote: "[[LitNote_Historical_Ethics_Guidelines_L-002-0602]"
+tags:
+- '"""""zettel"""""'
+- '"""""research-ethics"""""'
+- '"""""us-regulations"""""'
+- '"""""irb"""""'
+parent-moc:
+- '"""""[''MOC-Research-Ethics'']"""""'
+source-litnote: '[[LitNote_Historical_Ethics_Guidelines_L-002-0602]'
 extraction-date: 2026-04-15
 confidence: high
 created: 2026-03-27
+status: conscious
 ---
 
 # Belmont Report Ethical Principles (1979)

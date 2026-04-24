@@ -1,14 +1,23 @@
----
-uid: Z-001-0232
+---uid: Z-001-0232
 type: zettel
 title: Banting and Best — The 1921 Discovery of Insulin
-aliases: [Banting-Best, Insulin-Discovery-1921, Toronto-Team]
-domain: 001
-tags: [zettel, insulin, history, banting, best, 1921, discovery]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '"""""[Banting-Best"""""'
+- '"""""Insulin-Discovery-1921"""""'
+- '"""""Toronto-Team]"""""'
+domain: 1
+tags:
+- '"""""[zettel"""""'
+- '"""""insulin"""""'
+- '"""""history"""""'
+- '"""""banting"""""'
+- '"""""best"""""'
+- '"""""1921"""""'
+- '"""""discovery]"""""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Insulin_History_L-001-0207]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Insulin_History_L-001-0207]'
+extraction-date: '2026-03-01'
 ---
 
 # Banting and Best — The 1921 Discovery of 

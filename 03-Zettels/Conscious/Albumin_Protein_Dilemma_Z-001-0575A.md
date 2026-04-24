@@ -1,20 +1,12 @@
----
-uid: Z-001-0575A
+---uid: Z-001-0575A
 type: zettel
-title: "Albumin-Protein Intake Dilemma"
+title: '"Albumin-Protein Intake Dilemma"'
 aliases: []
-  - Z-001-0575A
-  - Albumin-Protein-Dilemma
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - kidney
-  - nutrition
-  - albumin
-  - protein
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
-source-litnote: "[[CGPT_0370_Protein_and_Kidney_Disease_L-001-0708]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Metabolic-Syndrome]]"'
+source-litnote: '"[[CGPT_0370_Protein_and_Kidney_Disease_L-001-0708]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

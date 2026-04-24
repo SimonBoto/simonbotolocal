@@ -1,17 +1,32 @@
----
-uid: Z-001-0909
+---uid: Z-001-0909
 type: zettel
-title: "Biomarkers in Precision Medicine — Predictive, Prognostic, and Pharmacodynamic"
-aliases: [Z-001-0909, Z-001-0009-deprecated, Biomarkers, Precision_Medicine, Biomarker_Types, Patient_Stratification]
-domain: 001
+title: Biomarkers in Precision Medicine — Predictive, Prognostic, and Pharmacodynamic
+aliases:
+- '"""""Z-001-0909"""""'
+- '"""""Z-001-0009-deprecated"""""'
+- '"""""Biomarkers"""""'
+- '"""""Precision_Medicine"""""'
+- '"""""Biomarker_Types"""""'
+- '"""""Patient_Stratification"""""'
+domain: 1
 domain-name: Systems-Biology-Metabolomics
-tags: [zettel, biomarkers, precision-medicine, predictive, prognostic, pharmacodynamic, clinical-translation, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
+tags:
+- '"""""zettel"""""'
+- '"""""biomarkers"""""'
+- '"""""precision-medicine"""""'
+- '"""""predictive"""""'
+- '"""""prognostic"""""'
+- '"""""pharmacodynamic"""""'
+- '"""""clinical-translation"""""'
+- '"""""conscious"""""'
+parent-moc:
+- '"""""[''MOC-Insulin-Signaling'']"""""'
 confidence: high
 created: 2026-02-23
 updated: 2026-03-05
 source-litnote: Synthesized from clinical practice
 extraction-date: 2026-04-15
+status: conscious
 ---
 
 # s in Precision Medicine — Predictive, Prognostic, and Pharmacodynamic

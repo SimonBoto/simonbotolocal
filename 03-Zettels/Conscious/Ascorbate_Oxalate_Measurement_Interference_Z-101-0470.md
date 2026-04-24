@@ -1,13 +1,20 @@
----
-uid: Z-101-0470
+---uid: Z-101-0470
 type: zettel
 title: Ascorbate Oxalate Measurement Interference
-aliases: [Z-101-0470]
+aliases: '[Z-101-0470]'
 domain: 101
-tags: [zettel, vitamin-c, oxalate, laboratory, measurement, interference, clinical-chemistry, conscious]
-parent-moc: [[MOC-Vitamin-Metabolism]]
-source-litnote: [[LitNote_CGPT_0505_Vitamin_C_Oxalate_L-101-0047.md]
-extraction-date: 2026-04-15
+tags:
+- '"""""[zettel"""""'
+- '"""""vitamin-c"""""'
+- '"""""oxalate"""""'
+- '"""""laboratory"""""'
+- '"""""measurement"""""'
+- '"""""interference"""""'
+- '"""""clinical-chemistry"""""'
+- '"""""conscious]"""""'
+parent-moc: '"[[MOC-Vitamin-Metabolism]]"'
+source-litnote: '[[LitNote_CGPT_0505_Vitamin_C_Oxalate_L-101-0047.md]'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

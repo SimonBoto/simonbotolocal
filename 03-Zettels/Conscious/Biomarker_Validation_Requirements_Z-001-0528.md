@@ -1,16 +1,27 @@
----
-uid: Z-001-0528
+---uid: Z-001-0528
 type: zettel
 title: Validation Requirements for Biomarker Translation
-aliases: [Z-001-0528, Biomarker Validation Pipeline, Clinical Translation Standards]
-domain: 001
+aliases:
+- '"""""Z-001-0528"""""'
+- '"""""Biomarker Validation Pipeline"""""'
+- '"""""Clinical Translation Standards"""""'
+domain: 1
 domain-name: Research Methods
-tags: [zettel, biomarkers, validation, clinical-translation, study-design, replication, research-standards]
-parent-moc: [[MOC-Insulin-Signaling]]
+tags:
+- '"""""zettel"""""'
+- '"""""biomarkers"""""'
+- '"""""validation"""""'
+- '"""""clinical-translation"""""'
+- '"""""study-design"""""'
+- '"""""replication"""""'
+- '"""""research-standards"""""'
+parent-moc:
+- '"""""[''MOC-Insulin-Signaling'']"""""'
 confidence: high
 created: 2026-03-03
 source-litnote: Synthesized from clinical practice
 extraction-date: 2026-04-15
+status: conscious
 ---
 
 # Validation Requirements for  Translation

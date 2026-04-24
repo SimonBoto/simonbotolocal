@@ -1,19 +1,12 @@
----
-uid: Z-001-0575B
+---uid: Z-001-0575B
 type: zettel
-title: "Serum Albumin as Prognostic Marker"
+title: '"Serum Albumin as Prognostic Marker"'
 aliases: []
-  - Z-001-0575B
-  - Serum-Albumin-Prognostic
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - kidney
-  - albumin
-  - biomarker
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
-source-litnote: "[[CGPT_0370_Protein_and_Kidney_Disease_L-001-0708]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Metabolic-Syndrome]]"'
+source-litnote: '"[[CGPT_0370_Protein_and_Kidney_Disease_L-001-0708]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

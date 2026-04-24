@@ -1,24 +1,14 @@
----
-uid: Z-001-1115
+---uid: Z-001-1115
 type: zettel
 title: Amino Acid Complete Classification Table
 aliases: []
-  - Z-001-1115
-  - AA-Classification
-  - Reference-Table
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - amino-acids
-  - classification
-  - reference
-  - table
-  - essential
-parent-moc: "[[MOC-Nitrogen-Metabolism]]"
+parent-moc: '"[[MOC-Nitrogen-Metabolism]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-08
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-08'
 ---
 
 # Amino Acid Complete Classification Table

@@ -1,18 +1,12 @@
----
-uid: Z-001-0129
+---uid: Z-001-0129
 type: zettel
-title: "Anabolic Therapy Indications"
+title: '"Anabolic Therapy Indications"'
 aliases: []
-  - Z-001-0129
-  - Anabolic-Indications
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - therapy-selection
-  - osteoporosis
-parent-moc: "[[MOC-Bone-Health]]"
-source-litnote: "[[Anabolic_vs_Antiresorptive_Therapy_Selection_L-001-0045I_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Bone-Health]]"'
+source-litnote: '"[[Anabolic_vs_Antiresorptive_Therapy_Selection_L-001-0045I_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

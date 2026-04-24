@@ -1,21 +1,12 @@
----
-uid: Z-001-0137
+---uid: Z-001-0137
 type: zettel
-title: "Bisphosphonate Duration Guidelines"
+title: '"Bisphosphonate Duration Guidelines"'
 aliases: []
-  - Z-001-0137
-  - Bisphosphonate-Duration
-  - Oral-Bisphosphonates
-  - IV-Bisphosphonates
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - bisphosphonates
-  - medication-duration
-  - osteoporosis
-parent-moc: "[[MOC-Clinical-Metabolomics]]"
-source-litnote: "Medication_Duration_Guidelines_L-001-0045L_v4.0"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Clinical-Metabolomics]]"'
+source-litnote: '"Medication_Duration_Guidelines_L-001-0045L_v4.0"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

@@ -1,14 +1,21 @@
----
-uid: Z-001-0419
+---uid: Z-001-0419
 type: zettel
 title: B12-MM Mimicry — The Clinical Question
-aliases: [B12-MM-Mimicry, Diagnostic-Challenge, Clinical-Question]
-domain: 001
-tags: [zettel, b12, multiple-myeloma, mimicry, diagnosis]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '"""""[B12-MM-Mimicry"""""'
+- '"""""Diagnostic-Challenge"""""'
+- '"""""Clinical-Question]"""""'
+domain: 1
+tags:
+- '"""""[zettel"""""'
+- '"""""b12"""""'
+- '"""""multiple-myeloma"""""'
+- '"""""mimicry"""""'
+- '"""""diagnosis]"""""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_B12_MM_Mimicry_L-001-0404]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_B12_MM_Mimicry_L-001-0404]'
+extraction-date: '2026-03-01'
 ---
 
 # B12-MM Mimicry — The  Question

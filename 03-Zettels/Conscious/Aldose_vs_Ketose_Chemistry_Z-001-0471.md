@@ -1,28 +1,14 @@
----
-uid: Z-001-0471
+---uid: Z-001-0471
 type: zettel
 title: Aldose vs Ketose Chemistry
 aliases: []
-  - Z-001-0471
-  - Aldose
-  - Ketose
-  - Carbonyl
-  - Glucose
-  - Fructose
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - aldose
-  - ketose
-  - chemistry
-  - carbonyl
-  - classification
-  - sugars
-parent-moc: "[[MOC-Glycolysis-PPP]]"
+parent-moc: '"[[MOC-Glycolysis-PPP]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-04
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-04'
 ---
 
 # Aldose vs Ketose Chemistry
