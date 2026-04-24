@@ -1,22 +1,12 @@
----
-uid: Z-001-0576B
+---uid: Z-001-0576B
 type: zettel
-title: "Elevated ALP Clinical Significance"
+title: '"Elevated ALP Clinical Significance"'
 aliases: []
-  - Z-001-0576B
-  - Elevated-ALP
-  - ALP-Elevation
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - biomarkers
-  - alkaline-phosphatase
-  - clinical-interpretation
-  - hepatobiliary
-  - bone-pathology
-parent-moc: "[[MOC-Biomarkers]]"
-source-litnote: "[[Alkaline_Phosphatase_Overview_-_Isoenzymes-_Page_L-001-0576_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Biomarkers]]"'
+source-litnote: '"[[Alkaline_Phosphatase_Overview_-_Isoenzymes-_Page_L-001-0576_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

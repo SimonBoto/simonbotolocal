@@ -1,14 +1,21 @@
----
-uid: Z-001-0534
+---uid: Z-001-0534
 type: zettel
 title: Mediterranean Diet — Evidence and Mechanisms
-aliases: [Mediterranean-Diet, PREDIMED, LYON, EPIC]
-domain: 001
-tags: [zettel, mediterranean-diet, predimed, evidence]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Mediterranean-Diet""'
+- '""PREDIMED""'
+- '""LYON""'
+- '""EPIC]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""mediterranean-diet""'
+- '""predimed""'
+- '""evidence]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Oleic_Acid_Clinical_L-001-0506]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Oleic_Acid_Clinical_L-001-0506]'
+extraction-date: '2026-03-01'
 ---
 
 # Mediterranean Diet — Evidence and s

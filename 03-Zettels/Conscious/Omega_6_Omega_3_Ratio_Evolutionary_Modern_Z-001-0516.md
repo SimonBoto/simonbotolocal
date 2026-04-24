@@ -1,14 +1,22 @@
----
-uid: Z-001-0516
+---uid: Z-001-0516
 type: zettel
 title: Omega-6 to Omega-3 Ratio — Evolutionary vs. Modern
-aliases: [Omega-Ratio, Omega-6-Omega-3, Evolutionary-Diet]
-domain: 001
-tags: [zettel, omega-6, omega-3, ratio, evolutionary, inflammation]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Omega-Ratio""'
+- '""Omega-6-Omega-3""'
+- '""Evolutionary-Diet]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""omega-6""'
+- '""omega-3""'
+- '""ratio""'
+- '""evolutionary""'
+- '""inflammation]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]'
+extraction-date: '2026-03-01'
 ---
 
 #  to Omega-3 Ratio — ary vs. Modern

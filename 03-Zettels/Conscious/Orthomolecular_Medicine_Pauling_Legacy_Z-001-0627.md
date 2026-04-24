@@ -1,16 +1,24 @@
----
-uid: Z-001-0627
+---uid: Z-001-0627
 type: zettel
-title: "Orthomolecular Medicine Pauling Legacy"
-aliases: [Z-001-0627]
-domain: 001
-tags: [zettel, orthomolecular, pauling, preventive-medicine, nutrition, optimal-health, conscious]
-parent-index: [[03-Zettels-Conscious]]
-parent-moc: [[MOC-History-of-Medicine]]
-related: [[Pauling_Scientific_Credentials_Vitamin_C_Z-001-0620]], [[Medical_Establishment_Suppression_Pauling_Z-001-0625]]
+title: '"Orthomolecular Medicine Pauling Legacy"'
+aliases: '[Z-001-0627]'
+domain: 1
+tags:
+- '""[zettel""'
+- '""orthomolecular""'
+- '""pauling""'
+- '""preventive-medicine""'
+- '""nutrition""'
+- '""optimal-health""'
+- '""conscious]""'
+parent-index: '[[03-Zettels-Conscious]]'
+parent-moc: '"[[MOC-History-of-Medicine]]"'
+related:
+- '""[[Pauling_Scientific_Credentials_Vitamin_C_Z-001-0620]]""'
+- '""[[Medical_Establishment_Suppression_Pauling_Z-001-0625]]""'
 status: conscious
 source-litnote: legacy-no-source
-extraction-date: 2026-04-15
+extraction-date: '2026-04-15'
 ---
 
 # Orthomolecular Medicine Pauling Legacy

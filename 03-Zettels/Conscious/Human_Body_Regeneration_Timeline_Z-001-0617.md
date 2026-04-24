@@ -1,16 +1,28 @@
----
-uid: Z-001-0617
+---uid: Z-001-0617
 type: zettel
-title: "Human Body Regeneration Timeline"
-aliases: [Z-001-0617]
-domain: 001
-tags: [zettel, regeneration, tissue-turnover, gut, bone, blood, liver, healing, conscious]
-parent-index: [[03-Zettels-Conscious]]
-parent-moc: [[MOC-Cellular-Regeneration]]
-related: [[Gut_Epithelium_Turnover_Z-XXX-XXXX]], [[Bone_Remodeling_Cycle_Z-XXX-XXXX]], [[Erythrocyte_Lifespan_Z-XXX-XXXX]], [[Hepatocyte_Regeneration_Z-XXX-XXXX]]
+title: '"Human Body Regeneration Timeline"'
+aliases: '[Z-001-0617]'
+domain: 1
+tags:
+- '""[zettel""'
+- '""regeneration""'
+- '""tissue-turnover""'
+- '""gut""'
+- '""bone""'
+- '""blood""'
+- '""liver""'
+- '""healing""'
+- '""conscious]""'
+parent-index: '[[03-Zettels-Conscious]]'
+parent-moc: '"[[MOC-Cellular-Regeneration]]"'
+related:
+- '""[[Gut_Epithelium_Turnover_Z-XXX-XXXX]]""'
+- '""[[Bone_Remodeling_Cycle_Z-XXX-XXXX]]""'
+- '""[[Erythrocyte_Lifespan_Z-XXX-XXXX]]""'
+- '""[[Hepatocyte_Regeneration_Z-XXX-XXXX]]""'
 status: conscious
 source-litnote: legacy-no-source
-extraction-date: 2026-04-15
+extraction-date: '2026-04-15'
 ---
 
 # Human Body Regeneration Timeline

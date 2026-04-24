@@ -1,16 +1,24 @@
----
-uid: Z-002-0608
+---uid: Z-002-0608
 type: zettel
-title: "Nuremberg Code for Research Ethics (1947)"
-aliases: [Z-002-0608, nuremberg-code, ethics-nuremberg]
-domain: 002
+title: Nuremberg Code for Research Ethics (1947)
+aliases:
+- '""Z-002-0608""'
+- '""nuremberg-code""'
+- '""ethics-nuremberg""'
+domain: 2
 domain-name: Research Ethics
-tags: [zettel, research-ethics, historical, informed-consent]
-parent-moc: [[MOC-Lipid-Metabolism]]
-source-litnote: "[[LitNote_Historical_Ethics_Guidelines_L-002-0602]"
+tags:
+- '""zettel""'
+- '""research-ethics""'
+- '""historical""'
+- '""informed-consent""'
+parent-moc:
+- '""[''MOC-Lipid-Metabolism'']""'
+source-litnote: '[[LitNote_Historical_Ethics_Guidelines_L-002-0602]'
 extraction-date: 2026-04-15
 confidence: high
 created: 2026-03-27
+status: conscious
 ---
 
 # Nuremberg Code for  Ethics (1947)

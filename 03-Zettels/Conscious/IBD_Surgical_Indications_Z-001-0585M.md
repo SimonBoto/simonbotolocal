@@ -1,19 +1,12 @@
----
-uid: Z-001-0585M
+---uid: Z-001-0585M
 type: zettel
-title: "IBD Surgical Indications"
+title: '"IBD Surgical Indications"'
 aliases: []
-  - Z-001-0585M
-  - IBD-Surgical-Indications
-  - Surgical-Indications-IBD
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - gastroenterology
-  - surgery
-parent-moc: "[[MOC-Gastroenterology]]"
-source-litnote: "[[CGPT_0209_Gastroenterology_Registrar_Assessment_L-001-0705]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Gastroenterology]]"'
+source-litnote: '"[[CGPT_0209_Gastroenterology_Registrar_Assessment_L-001-0705]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

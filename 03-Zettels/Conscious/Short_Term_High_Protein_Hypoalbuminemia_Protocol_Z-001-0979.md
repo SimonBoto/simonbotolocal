@@ -1,13 +1,20 @@
----
-uid: Z-001-0979
+---uid: Z-001-0979
 type: zettel
 title: Short-Term High Protein Protocol — Hypoalbuminemia in CKD
-aliases: [Z-001-0979]
-domain: 001
-tags: [zettel, high-protein, hypoalbuminemia, ckd, short-term, protocol, nutritional-rescue, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-extraction-date: 2026-03-07
-source-litnote: [[LitNote_CKD_Nutritional_Assessment_L-001-0575]
+aliases: '[Z-001-0979]'
+domain: 1
+tags:
+- '"[zettel"'
+- '"high-protein"'
+- '"hypoalbuminemia"'
+- '"ckd"'
+- '"short-term"'
+- '"protocol"'
+- '"nutritional-rescue"'
+- '"conscious]"'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+extraction-date: '2026-03-07'
+source-litnote: '[[LitNote_CKD_Nutritional_Assessment_L-001-0575]'
 status: conscious
 ---
 

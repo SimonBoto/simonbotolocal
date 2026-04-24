@@ -1,14 +1,19 @@
----
-uid: Z-001-0522
+---uid: Z-001-0522
 type: zettel
 title: Seven Countries Study — Design and Structure
-aliases: [Seven-Countries-Design, Keys-Study-Structure]
-domain: 001
-tags: [zettel, seven-countries, study-design, methodology]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '"[Seven-Countries-Design"'
+- '"Keys-Study-Structure]"'
+domain: 1
+tags:
+- '"[zettel"'
+- '"seven-countries"'
+- '"study-design"'
+- '"methodology]"'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Seven_Countries_Methodology_L-001-0504]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Seven_Countries_Methodology_L-001-0504]'
+extraction-date: '2026-03-01'
 ---
 
 # Seven Countries Study — Design and Structure

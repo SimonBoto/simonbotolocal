@@ -1,21 +1,12 @@
----
-uid: Z-001-0579L
+---uid: Z-001-0579L
 type: zettel
-title: "Female HPGA Cycle"
+title: '"Female HPGA Cycle"'
 aliases: []
-  - Z-001-0579L
-  - Female_HPGA
-  - Menstrual_Cycle
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - endocrinology
-  - hpg
-  - female-health
-  - menstrual-cycle
-parent-moc: "[[MOC-Endocrinology]]"
-source-litnote: "[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Endocrinology]]"'
+source-litnote: '"[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

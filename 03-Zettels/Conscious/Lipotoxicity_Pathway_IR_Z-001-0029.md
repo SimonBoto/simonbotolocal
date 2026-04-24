@@ -1,16 +1,25 @@
----
-uid: Z-001-0029
+---uid: Z-001-0029
 type: zettel
 title: Lipotoxicity Pathway in Insulin Resistance
-aliases: [Z-001-0029, Lipotoxicity-IR]
-domain: 001
+aliases:
+- '""Z-001-0029""'
+- '""Lipotoxicity-IR""'
+domain: 1
 domain-name: Insulin Signaling
-tags: [zettel, lipotoxicity, insulin-resistance, adipose-tissue, ceramide, mechanisms]
-parent-moc: [[MOC-Insulin-Signaling]]
+tags:
+- '""zettel""'
+- '""lipotoxicity""'
+- '""insulin-resistance""'
+- '""adipose-tissue""'
+- '""ceramide""'
+- '""mechanisms""'
+parent-moc:
+- '""[''MOC-Insulin-Signaling'']""'
 confidence: high
 created: 2026-02-24
 source-litnote: Synthesized from clinical practice
 extraction-date: 2026-04-15
+status: conscious
 ---
 
 # Lipotoxicity Pathway in  Resistance

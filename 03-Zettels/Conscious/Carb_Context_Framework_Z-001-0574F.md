@@ -1,22 +1,12 @@
----
-uid: Z-001-0574F
+---uid: Z-001-0574F
 type: zettel
-title: "Carb Context Framework — Integrative Research Framework"
+title: '"Carb Context Framework — Integrative Research Framework"'
 aliases: []
-  - Z-001-0574F
-  - Carb-Context-Framework
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - framework
-  - integrative
-  - kidney
-  - protein
-  - carbohydrate
-  - ckd
-parent-moc: "[[MOC-Metabolism]]"
-source-litnote: "[[Carbohydrate_Context_Modifies_Protein_Effects_-_L-001-0574_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Metabolism]]"'
+source-litnote: '"[[Carbohydrate_Context_Modifies_Protein_Effects_-_L-001-0574_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

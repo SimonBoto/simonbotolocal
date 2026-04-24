@@ -1,20 +1,12 @@
----
-uid: Z-001-0580P
+---uid: Z-001-0580P
 type: zettel
-title: "Meta-Analysis Reporting Guidelines"
+title: '"Meta-Analysis Reporting Guidelines"'
 aliases: []
-  - Z-001-0580P
-  - Reporting-Guidelines
-  - PRISMA-Guidelines
-  - Meta-Analysis-Reporting
- domain: 001
+domain: 1
 tags: []
-  - zettel
-  - prisma
-  - reporting-guidelines
-parent-moc: "[[MOC-Research]]"
-source-litnote: "[[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Research]]"'
+source-litnote: '"[[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

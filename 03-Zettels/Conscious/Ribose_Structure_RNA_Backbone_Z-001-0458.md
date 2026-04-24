@@ -1,26 +1,14 @@
----
-uid: Z-001-0458
+---uid: Z-001-0458
 type: zettel
 title: Ribose Structure and RNA Backbone Role
 aliases: []
-  - Z-001-0458
-  - Ribose
-  - RNA-Backbone
-  - Pentose
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - ribose
-  - pentose
-  - rna
-  - nucleotides
-  - atp
-  - structure
-parent-moc: "[[MOC-Metabolic-Pathways]]"
+parent-moc: '"[[MOC-Metabolic-Pathways]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-04
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-04'
 ---
 
 # Ribose Structure and RNA Backbone Role

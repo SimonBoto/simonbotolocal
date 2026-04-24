@@ -1,14 +1,21 @@
----
-uid: Z-001-0517
+---uid: Z-001-0517
 type: zettel
 title: Seed Oils — Production and Metabolic Impact
-aliases: [Seed-Oils, Linoleic-Acid, Industrial-Oils]
-domain: 001
-tags: [zettel, seed-oils, linoleic-acid, industrial-oils, metabolic-impact]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '"[Seed-Oils"'
+- '"Linoleic-Acid"'
+- '"Industrial-Oils]"'
+domain: 1
+tags:
+- '"[zettel"'
+- '"seed-oils"'
+- '"linoleic-acid"'
+- '"industrial-oils"'
+- '"metabolic-impact]"'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]'
+extraction-date: '2026-03-01'
 ---
 
 # Seed Oils — Production and Metabolic Impact

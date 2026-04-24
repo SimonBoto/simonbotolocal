@@ -1,27 +1,14 @@
----
-uid: Z-001-0436
+---uid: Z-001-0436
 type: zettel
 title: Glutathione — The Master Antioxidant
 aliases: []
-  - Z-001-0436
-  - Glutathione
-  - GSH
-  - Antioxidant
-  - Detoxification
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - glutathione
-  - gsh
-  - antioxidant
-  - detoxification
-  - redox
-  - cysteine
-parent-moc: "[[MOC-Methylation]]"
+parent-moc: '"[[MOC-Methylation]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-01
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-01'
 ---
 
 # Glutathione — The Master Antioxidant

@@ -1,14 +1,22 @@
----
-uid: Z-001-0409
+---uid: Z-001-0409
 type: zettel
 title: DNA Methylation — Epigenetic Regulation
-aliases: [DNA-Methylation, CpG, DNMT, Epigenetics]
-domain: 001
-tags: [zettel, dna-methylation, epigenetics, dnmt, gene-regulation]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[DNA-Methylation""'
+- '""CpG""'
+- '""DNMT""'
+- '""Epigenetics]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""dna-methylation""'
+- '""epigenetics""'
+- '""dnmt""'
+- '""gene-regulation]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Methylation_Cycle_L-001-0402]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Methylation_Cycle_L-001-0402]'
+extraction-date: '2026-03-01'
 ---
 
 # DNA  — Epigenetic Regulation

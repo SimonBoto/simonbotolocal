@@ -1,27 +1,14 @@
----
-uid: Z-001-1102
+---uid: Z-001-1102
 type: zettel
 title: B Vitamins as Enzyme Cofactors in Metabolism
 aliases: []
-  - Z-001-1102
-  - B-Vitamins
-  - Cofactors
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - b-vitamins
-  - cofactors
-  - metabolism
-  - tpp
-  - fad
-  - nad
-  - coa
-  - plp
-parent-moc: "[[MOC-Metabolomics]]"
+parent-moc: '"[[MOC-Metabolomics]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-08
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-08'
 ---
 
 # B Vitamins as Enzyme Cofactors in Metabolism

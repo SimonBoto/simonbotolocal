@@ -1,14 +1,21 @@
----
-uid: Z-001-0413
+---uid: Z-001-0413
 type: zettel
 title: MTHFR Enzyme Function — Rate-Limiting Step
-aliases: [MTHFR, Methylenetetrahydrofolate-Reductase, Rate-Limiting]
-domain: 001
-tags: [zettel, mthfr, enzyme, folate, rate-limiting]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[MTHFR""'
+- '""Methylenetetrahydrofolate-Reductase""'
+- '""Rate-Limiting]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""mthfr""'
+- '""enzyme""'
+- '""folate""'
+- '""rate-limiting]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_MTHFR_Genetics_L-001-0403]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_MTHFR_Genetics_L-001-0403]'
+extraction-date: '2026-03-01'
 ---
 
 # MTHFR Enzyme Function — Rate-Limiting Step

@@ -1,14 +1,22 @@
----
-uid: Z-001-0529
+---uid: Z-001-0529
 type: zettel
 title: Scientific Revolution — Fat Rehabilitation
-aliases: [Fat-Rehabilitation, WHI, PREDIMED, Meta-Analyses]
-domain: 001
-tags: [zettel, fat-rehabilitation, whi, predimed, meta-analysis]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '"[Fat-Rehabilitation"'
+- '"WHI"'
+- '"PREDIMED"'
+- '"Meta-Analyses]"'
+domain: 1
+tags:
+- '"[zettel"'
+- '"fat-rehabilitation"'
+- '"whi"'
+- '"predimed"'
+- '"meta-analysis]"'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]'
+extraction-date: '2026-03-01'
 ---
 
 # Scientific R — Fat Rehabilitation

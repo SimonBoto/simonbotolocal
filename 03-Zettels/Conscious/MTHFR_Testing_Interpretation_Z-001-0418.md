@@ -1,14 +1,21 @@
----
-uid: Z-001-0418
+---uid: Z-001-0418
 type: zettel
 title: MTHFR Testing and Interpretation
-aliases: [MTHFR-Testing, Genotyping, Interpretation]
-domain: 001
-tags: [zettel, mthfr, testing, genotyping, interpretation]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[MTHFR-Testing""'
+- '""Genotyping""'
+- '""Interpretation]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""mthfr""'
+- '""testing""'
+- '""genotyping""'
+- '""interpretation]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_MTHFR_Genetics_L-001-0403]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_MTHFR_Genetics_L-001-0403]'
+extraction-date: '2026-03-01'
 ---
 
 # MTHFR Testing and Interpretation

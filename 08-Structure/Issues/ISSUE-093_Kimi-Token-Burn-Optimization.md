@@ -1,6 +1,6 @@
 ---
 uid: ISSUE-093
-status: Open
+status: Closed
 priority: P0
 created: 2026-04-24
 tags: [agents, config, cost, kimi]

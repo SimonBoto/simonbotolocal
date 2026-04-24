@@ -1,13 +1,19 @@
----
-uid: Z-101-0482
+---uid: Z-101-0482
 type: zettel
 title: Questionnaire Ethics Approval Strategies
-aliases: [Z-101-0482]
+aliases: '[Z-101-0482]'
 domain: 101
-tags: [zettel, questionnaires, ethics-approval, irb, data-collection, research-methods, conscious]
-parent-moc: [[MOC-Vitamin-Metabolism]]
-source-litnote: [[LitNote_CGPT_0359_Questionnaire_Compliance_L-101-0052.md]
-extraction-date: 2026-04-15
+tags:
+- '"[zettel"'
+- '"questionnaires"'
+- '"ethics-approval"'
+- '"irb"'
+- '"data-collection"'
+- '"research-methods"'
+- '"conscious]"'
+parent-moc: '"[[MOC-Vitamin-Metabolism]]"'
+source-litnote: '[[LitNote_CGPT_0359_Questionnaire_Compliance_L-101-0052.md]'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

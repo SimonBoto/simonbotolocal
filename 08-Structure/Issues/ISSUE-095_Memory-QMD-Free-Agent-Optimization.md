@@ -1,6 +1,6 @@
 ---
 uid: ISSUE-095
-status: Open
+status: Closed
 priority: P0
 created: 2026-04-24
 tags: [memory, qmd, scout, forg, indexing]

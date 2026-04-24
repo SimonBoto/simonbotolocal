@@ -1,19 +1,12 @@
----
-uid: Z-001-0584H
+---uid: Z-001-0584H
 type: zettel
-title: "Metabolic Health Intervention Framework"
+title: '"Metabolic Health Intervention Framework"'
 aliases: []
-  - Z-001-0584H
-  - Intervention-Framework
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - metabolic
-  - intervention
-  - framework
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
-source-litnote: "[[CGPT_0124_Profound_Truths_Revolutionizing_Health_L-001-0706]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Metabolic-Syndrome]]"'
+source-litnote: '"[[CGPT_0124_Profound_Truths_Revolutionizing_Health_L-001-0706]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

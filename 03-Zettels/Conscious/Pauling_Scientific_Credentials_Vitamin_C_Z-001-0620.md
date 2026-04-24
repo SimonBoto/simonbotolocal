@@ -1,16 +1,24 @@
----
-uid: Z-001-0620
+---uid: Z-001-0620
 type: zettel
-title: "Pauling Scientific Credentials and Vitamin C Shift"
-aliases: [Z-001-0620]
-domain: 001
-tags: [zettel, pauling, vitamin-c, nobel-prize, orthomolecular, history, conscious]
-parent-index: [[03-Zettels-Conscious]]
-parent-moc: [[MOC-History-of-Medicine]]
-related: [[Human_GULO_Gene_Loss_Vitamin_C_Dependency_Z-001-0621]], [[Orthomolecular_Medicine_Pauling_Legacy_Z-001-0627]]
+title: '"Pauling Scientific Credentials and Vitamin C Shift"'
+aliases: '[Z-001-0620]'
+domain: 1
+tags:
+- '""[zettel""'
+- '""pauling""'
+- '""vitamin-c""'
+- '""nobel-prize""'
+- '""orthomolecular""'
+- '""history""'
+- '""conscious]""'
+parent-index: '[[03-Zettels-Conscious]]'
+parent-moc: '"[[MOC-History-of-Medicine]]"'
+related:
+- '""[[Human_GULO_Gene_Loss_Vitamin_C_Dependency_Z-001-0621]]""'
+- '""[[Orthomolecular_Medicine_Pauling_Legacy_Z-001-0627]]""'
 status: conscious
 source-litnote: legacy-no-source
-extraction-date: 2026-04-15
+extraction-date: '2026-04-15'
 ---
 
 # Pauling Scientific Credentials and Vitamin C Shift

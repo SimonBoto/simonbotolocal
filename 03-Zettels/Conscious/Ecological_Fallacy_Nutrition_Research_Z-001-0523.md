@@ -1,14 +1,20 @@
----
-uid: Z-001-0523
+---uid: Z-001-0523
 type: zettel
 title: Ecological Fallacy in Nutrition Research
-aliases: [Ecological-Fallacy, Aggregation-Bias, Population-Data]
-domain: 001
-tags: [zettel, ecological-fallacy, methodology, bias]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Ecological-Fallacy""'
+- '""Aggregation-Bias""'
+- '""Population-Data]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""ecological-fallacy""'
+- '""methodology""'
+- '""bias]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Seven_Countries_Methodology_L-001-0504]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Seven_Countries_Methodology_L-001-0504]'
+extraction-date: '2026-03-01'
 ---
 
 # Ecological Fallacy in  

@@ -1,19 +1,12 @@
----
-uid: Z-001-0584P
+---uid: Z-001-0584P
 type: zettel
-title: "Metabolic Health Longitudinal Care"
+title: '"Metabolic Health Longitudinal Care"'
 aliases: []
-  - Z-001-0584P
-  - Longitudinal-Care
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - metabolic
-  - longitudinal
-  - care
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
-source-litnote: "[[CGPT_0124_Profound_Truths_Revolutionizing_Health_L-001-0706]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Metabolic-Syndrome]]"'
+source-litnote: '"[[CGPT_0124_Profound_Truths_Revolutionizing_Health_L-001-0706]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

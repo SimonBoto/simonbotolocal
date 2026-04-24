@@ -1,14 +1,21 @@
----
-uid: Z-001-0536
+---uid: Z-001-0536
 type: zettel
 title: Olive Oil — Special Populations
-aliases: [Special-Populations, Metabolic-Syndrome, Diabetes, CVD]
-domain: 001
-tags: [zettel, special-populations, metabolic-syndrome, diabetes]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Special-Populations""'
+- '""Metabolic-Syndrome""'
+- '""Diabetes""'
+- '""CVD]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""special-populations""'
+- '""metabolic-syndrome""'
+- '""diabetes]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Oleic_Acid_Clinical_L-001-0506]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Oleic_Acid_Clinical_L-001-0506]'
+extraction-date: '2026-03-01'
 ---
 
 # Olive Oil — Special Populations

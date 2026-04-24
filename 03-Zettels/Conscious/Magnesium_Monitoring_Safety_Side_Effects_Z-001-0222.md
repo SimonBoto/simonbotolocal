@@ -1,14 +1,22 @@
----
-uid: Z-001-0222
+---uid: Z-001-0222
 type: zettel
 title: Magnesium Monitoring and Safety — Clinical Protocol
-aliases: [Mg-Safety, Magnesium-Monitoring, Magnesium-Side-Effects]
-domain: 001
-tags: [zettel, magnesium, safety, monitoring, side-effects, contraindications]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Mg-Safety""'
+- '""Magnesium-Monitoring""'
+- '""Magnesium-Side-Effects]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""magnesium""'
+- '""safety""'
+- '""monitoring""'
+- '""side-effects""'
+- '""contraindications]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Magnesium_Supplementation_L-001-0201d]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Magnesium_Supplementation_L-001-0201d]'
+extraction-date: '2026-03-01'
 ---
 
 #  Monitoring and Safety — Clinical Protocol

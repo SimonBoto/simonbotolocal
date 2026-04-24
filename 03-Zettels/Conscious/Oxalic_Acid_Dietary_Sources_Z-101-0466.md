@@ -1,13 +1,18 @@
----
-uid: Z-101-0466
+---uid: Z-101-0466
 type: zettel
 title: Oxalic Acid Dietary Sources
-aliases: [Z-101-0466]
+aliases: '[Z-101-0466]'
 domain: 101
-tags: [zettel, oxalic-acid, nutrition, dietary-sources, kidney-stones, conscious]
-parent-moc: [[MOC-Vitamin-Metabolism]]
-source-litnote: [[LitNote_CGPT_0413_Oxalic_Acid_Chemistry_L-101-0046.md]
-extraction-date: 2026-04-15
+tags:
+- '""[zettel""'
+- '""oxalic-acid""'
+- '""nutrition""'
+- '""dietary-sources""'
+- '""kidney-stones""'
+- '""conscious]""'
+parent-moc: '"[[MOC-Vitamin-Metabolism]]"'
+source-litnote: '[[LitNote_CGPT_0413_Oxalic_Acid_Chemistry_L-101-0046.md]'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

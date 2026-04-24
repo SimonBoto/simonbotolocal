@@ -1,17 +1,32 @@
----
-uid: Z-001-0907
+---uid: Z-001-0907
 type: zettel
-title: "Proteomics — Protein Structure, Function, and Drug Targets"
-aliases: [Z-001-0907, Z-001-0007-deprecated, Proteomics, Proteins, Enzymes, Drug_Targets]
-domain: 001
+title: Proteomics — Protein Structure, Function, and Drug Targets
+aliases:
+- '"Z-001-0907"'
+- '"Z-001-0007-deprecated"'
+- '"Proteomics"'
+- '"Proteins"'
+- '"Enzymes"'
+- '"Drug_Targets"'
+domain: 1
 domain-name: Systems-Biology-Metabolomics
-tags: [zettel, proteomics, proteins, enzymes, drug-targets, LC-MS, NMR, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
+tags:
+- '"zettel"'
+- '"proteomics"'
+- '"proteins"'
+- '"enzymes"'
+- '"drug-targets"'
+- '"LC-MS"'
+- '"NMR"'
+- '"conscious"'
+parent-moc:
+- '"[''MOC-Insulin-Signaling'']"'
 confidence: high
 created: 2026-02-23
 updated: 2026-03-05
 source-litnote: Synthesized from clinical practice
 extraction-date: 2026-04-15
+status: conscious
 ---
 
 # Proteomics — Protein Structure, Function, and Drug Targets

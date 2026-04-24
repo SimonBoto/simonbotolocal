@@ -1,18 +1,24 @@
----
-uid: Z-001-0072
+---uid: Z-001-0072
 type: zettel
 title: Research Gap in Infant 8000 IU Vitamin D Safety Studies
-aliases: [Z-001-0072, 8000IU-Infant-Research-Gap]
-domain: 001
+aliases:
+- '"[Z-001-0072"'
+- '"8000IU-Infant-Research-Gap]"'
+domain: 1
 domain-name: Insulin Signaling
-tags: [zettel, vitamin-d, research-gap, infants, pediatrics]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]
+tags:
+- '"[zettel"'
+- '"vitamin-d"'
+- '"research-gap"'
+- '"infants"'
+- '"pediatrics]"'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source: '[[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]'
 confidence: high
-created: 2026-03-01
+created: '2026-03-01'
 status: conscious
 source-litnote: legacy-no-source
-extraction-date: 2026-04-15
+extraction-date: '2026-04-15'
 ---
 
 # Research Gap in Infant 8,000 IU  Safety Studies

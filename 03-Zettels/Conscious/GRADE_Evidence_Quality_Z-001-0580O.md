@@ -1,20 +1,12 @@
----
-uid: Z-001-0580O
+---uid: Z-001-0580O
 type: zettel
-title: "GRADE Evidence Quality Assessment"
+title: '"GRADE Evidence Quality Assessment"'
 aliases: []
-  - Z-001-0580O
-  - GRADE
-  - Evidence-Quality
-  - Confidence-in-Evidence
- domain: 001
+domain: 1
 tags: []
-  - zettel
-  - grade
-  - evidence-quality
-parent-moc: "[[MOC-Research]]"
-source-litnote: "[[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Research]]"'
+source-litnote: '"[[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

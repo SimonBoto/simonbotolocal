@@ -1,13 +1,20 @@
----
-uid: Z-001-0966
+---uid: Z-001-0966
 type: zettel
 title: Seed Oils as Environmental Toxin — Public Health Framework Application
-aliases: [Z-001-0966]
-domain: 001
-tags: [zettel, seed-oils, environmental-toxin, public-health, exposure-assessment, dose-response, precautionary-principle, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-extraction-date: 2026-03-07
-source-litnote: [[LitNote_Seed_Oils_Environmental_Toxins_L-001-0526]
+aliases: '[Z-001-0966]'
+domain: 1
+tags:
+- '"[zettel"'
+- '"seed-oils"'
+- '"environmental-toxin"'
+- '"public-health"'
+- '"exposure-assessment"'
+- '"dose-response"'
+- '"precautionary-principle"'
+- '"conscious]"'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+extraction-date: '2026-03-07'
+source-litnote: '[[LitNote_Seed_Oils_Environmental_Toxins_L-001-0526]'
 status: conscious
 ---
 

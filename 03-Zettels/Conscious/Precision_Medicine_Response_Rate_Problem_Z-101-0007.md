@@ -1,16 +1,26 @@
----
-uid: Z-101-0007
-type: zettel-claim
+---uid: Z-101-0007
+type: zettel
 title: Precision Medicine 30-60 Percent Response Rate Problem
-aliases: [Z-101-0007, Response-Rate-Problem, Therapy-Heterogeneity]
+aliases:
+- '""Z-101-0007""'
+- '""Response-Rate-Problem""'
+- '""Therapy-Heterogeneity""'
 domain: 101
 domain-name: Pharmacometabolomics
-tags: [zettel, precision-medicine, response-rate, heterogeneity, anti-TNF, biologics]
-parent-moc: [[MOC-Metabolomics]]
+tags:
+- '""zettel""'
+- '""precision-medicine""'
+- '""response-rate""'
+- '""heterogeneity""'
+- '""anti-TNF""'
+- '""biologics""'
+parent-moc:
+- '""[''MOC-Metabolomics'']""'
 confidence: high
 created: 2026-02-24
 source-litnote: Synthesized from clinical practice
 extraction-date: 2026-04-15
+status: conscious
 ---
 
 # Precision Medicine 30-60 Percent Response Rate Problem

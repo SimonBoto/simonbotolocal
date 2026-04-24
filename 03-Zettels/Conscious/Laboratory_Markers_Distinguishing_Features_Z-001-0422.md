@@ -1,14 +1,22 @@
----
-uid: Z-001-0422
+---uid: Z-001-0422
 type: zettel
 title: Laboratory Markers — Distinguishing Features
-aliases: [Lab-Markers, SPEP, M-Protein, MMA]
-domain: 001
-tags: [zettel, laboratory, markers, b12, multiple-myeloma]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Lab-Markers""'
+- '""SPEP""'
+- '""M-Protein""'
+- '""MMA]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""laboratory""'
+- '""markers""'
+- '""b12""'
+- '""multiple-myeloma]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_B12_MM_Mimicry_L-001-0404]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_B12_MM_Mimicry_L-001-0404]'
+extraction-date: '2026-03-01'
 ---
 
 # Laboratory Markers — Distinguishing Features

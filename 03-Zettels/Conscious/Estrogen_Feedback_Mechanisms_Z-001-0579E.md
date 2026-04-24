@@ -1,20 +1,12 @@
----
-uid: Z-001-0579E
+---uid: Z-001-0579E
 type: zettel
-title: "Estrogen Feedback Mechanisms"
+title: '"Estrogen Feedback Mechanisms"'
 aliases: []
-  - Z-001-0579E
-  - Estrogen_Feedback
-  - Estradiol_Regulation
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - endocrinology
-  - hpg
-  - estrogen
-parent-moc: "[[MOC-Endocrinology]]"
-source-litnote: "[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Endocrinology]]"'
+source-litnote: '"[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

@@ -1,14 +1,23 @@
----
-uid: Z-001-0220
+---uid: Z-001-0220
 type: zettel
 title: Magnesium Forms — Bioavailability and Clinical Selection
-aliases: [Mg-Forms, Magnesium-Bioavailability, Magnesium-Salts]
-domain: 001
-tags: [zettel, magnesium, forms, bioavailability, supplements, citrate, glycinate]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Mg-Forms""'
+- '""Magnesium-Bioavailability""'
+- '""Magnesium-Salts]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""magnesium""'
+- '""forms""'
+- '""bioavailability""'
+- '""supplements""'
+- '""citrate""'
+- '""glycinate]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Magnesium_Supplementation_L-001-0201d]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Magnesium_Supplementation_L-001-0201d]'
+extraction-date: '2026-03-01'
 ---
 
 #  Forms — Bioavailability and  Selection

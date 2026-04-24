@@ -1,25 +1,14 @@
----
-uid: Z-001-1092
+---uid: Z-001-1092
 type: zettel
 title: Evolutionary Origins of Glycolysis — Ancient Metabolism
 aliases: []
-  - Z-001-1092
-  - Evolutionary-Glycolysis
-  - Ancient-Metabolism
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - evolution
-  - glycolysis
-  - ancient
-  - origins
-  - rna-world
-  - iron-sulfur
-parent-moc: "[[MOC-Evolutionary-Biochemistry]]"
+parent-moc: '"[[MOC-Evolutionary-Biochemistry]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-08
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-08'
 ---
 
 # Evolutionary Origins of Glycolysis — Ancient Metabolism

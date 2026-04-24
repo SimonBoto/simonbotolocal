@@ -1,26 +1,14 @@
----
-uid: Z-001-0433
+---uid: Z-001-0433
 type: zettel
 title: Methionine Cycle — Activation and Regeneration
 aliases: []
-  - Z-001-0433
-  - Methionine-Cycle
-  - SAM
-  - SAH
-  - Regeneration
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - methionine-cycle
-  - sam
-  - sah
-  - activation
-  - methylation
-parent-moc: "[[MOC-Methylation]]"
+parent-moc: '"[[MOC-Methylation]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-01
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-01'
 ---
 
 # Methionine Cycle — Activation and Regeneration

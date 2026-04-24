@@ -1,14 +1,21 @@
----
-uid: Z-001-0449
+---uid: Z-001-0449
 type: zettel
 title: Integrated B12 Assessment — Complete Picture
-aliases: [Integrated-Assessment, Complete-Picture, Panel]
-domain: 001
-tags: [zettel, integrated, assessment, b12, panel]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Integrated-Assessment""'
+- '""Complete-Picture""'
+- '""Panel]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""integrated""'
+- '""assessment""'
+- '""b12""'
+- '""panel]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_B12_Clinical_Assessment_L-001-0408]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_B12_Clinical_Assessment_L-001-0408]'
+extraction-date: '2026-03-01'
 ---
 
 # Integrated B12 Assessment — Complete Picture

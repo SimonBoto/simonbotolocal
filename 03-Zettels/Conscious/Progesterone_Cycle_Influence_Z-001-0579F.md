@@ -1,20 +1,12 @@
----
-uid: Z-001-0579F
+---uid: Z-001-0579F
 type: zettel
-title: "Progesterone Cycle Influence"
+title: '"Progesterone Cycle Influence"'
 aliases: []
-  - Z-001-0579F
-  - Progesterone_Cycle
-  - Progesterone_Regulation
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - endocrinology
-  - hpg
-  - progesterone
-parent-moc: "[[MOC-Endocrinology]]"
-source-litnote: "[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Endocrinology]]"'
+source-litnote: '"[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

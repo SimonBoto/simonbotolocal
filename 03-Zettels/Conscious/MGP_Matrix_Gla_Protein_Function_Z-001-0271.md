@@ -1,21 +1,12 @@
----
-uid: Z-001-0271
+---uid: Z-001-0271
 type: zettel
-title: "MGP — Matrix Gla Protein Function"
+title: '"MGP — Matrix Gla Protein Function"'
 aliases: []
-  - Z-001-0271
-  - MGP-Function
-  - Matrix-Gla-Protein
-  - Vascular-Calcification-Inhibitor
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - vascular-calcification
-  - MGP
-  - vitamin-K
-parent-moc: "[[MOC-Cardiovascular-Health]]"
-source-litnote: "[[Vascular_Calcification_Deep_Dive_-Mechanisms-_MGP-_L-001-0215_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Cardiovascular-Health]]"'
+source-litnote: '"[[Vascular_Calcification_Deep_Dive_-Mechanisms-_MGP-_L-001-0215_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

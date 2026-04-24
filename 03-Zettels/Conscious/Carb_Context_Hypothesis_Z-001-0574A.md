@@ -1,21 +1,12 @@
----
-uid: Z-001-0574A
+---uid: Z-001-0574A
 type: zettel
-title: "Carb Context Hypothesis — Carbohydrate Context Modifies Protein Effects"
+title: '"Carb Context Hypothesis — Carbohydrate Context Modifies Protein Effects"'
 aliases: []
-  - Z-001-0574A
-  - Carb-Context-Hypothesis
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - hypothesis
-  - kidney
-  - protein
-  - carbohydrate
-  - ckd
-parent-moc: "[[MOC-Metabolism]]"
-source-litnote: "[[Carbohydrate_Context_Modifies_Protein_Effects_-_L-001-0574_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Metabolism]]"'
+source-litnote: '"[[Carbohydrate_Context_Modifies_Protein_Effects_-_L-001-0574_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

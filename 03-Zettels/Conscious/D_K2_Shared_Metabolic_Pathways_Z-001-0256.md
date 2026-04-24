@@ -1,14 +1,22 @@
----
-uid: Z-001-0256
+---uid: Z-001-0256
 type: zettel
 title: D-K2 Shared Metabolic Pathways
-aliases: [Shared-Pathways, Metabolic-Integration, D-K2-Mechanisms]
-domain: 001
-tags: [zettel, vitamin-d, vitamin-k2, metabolism, pathways, integration]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Shared-Pathways""'
+- '""Metabolic-Integration""'
+- '""D-K2-Mechanisms]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""vitamin-d""'
+- '""vitamin-k2""'
+- '""metabolism""'
+- '""pathways""'
+- '""integration]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]'
+extraction-date: '2026-03-01'
 ---
 
 # D-K2 Shared Metabolic Pathways

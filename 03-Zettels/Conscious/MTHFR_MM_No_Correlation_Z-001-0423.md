@@ -1,14 +1,21 @@
----
-uid: Z-001-0423
+---uid: Z-001-0423
 type: zettel
 title: MTHFR and Multiple Myeloma — No Correlation
-aliases: [MTHFR-MM, No-Correlation, Genetics]
-domain: 001
-tags: [zettel, mthfr, multiple-myeloma, genetics, correlation]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[MTHFR-MM""'
+- '""No-Correlation""'
+- '""Genetics]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""mthfr""'
+- '""multiple-myeloma""'
+- '""genetics""'
+- '""correlation]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_B12_MM_Mimicry_L-001-0404]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_B12_MM_Mimicry_L-001-0404]'
+extraction-date: '2026-03-01'
 ---
 
 # MTHFR and Multiple Myeloma — No Correlation

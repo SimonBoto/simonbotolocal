@@ -1,16 +1,24 @@
----
-uid: Z-001-1148
+---uid: Z-001-1148
 type: zettel
 title: Novel vs Traditional Markers Insulin Resistance
-aliases: [Z-001-1148, Novel-vs-Traditional]
-domain: 001
+aliases:
+- '""[Z-001-1148""'
+- '""Novel-vs-Traditional]""'
+domain: 1
 domain-name: Metabolomics Analysis
-tags: [zettel, novel, traditional, markers, insulin-resistance, comparison]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]
-extraction-date: 2026-04-15
+tags:
+- '""[zettel""'
+- '""novel""'
+- '""traditional""'
+- '""markers""'
+- '""insulin-resistance""'
+- '""comparison]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source-litnote: '[[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]'
+extraction-date: '2026-04-15'
 confidence: high
-created: 2026-03-08
+created: '2026-03-08'
+status: conscious
 ---
 
 source-litnote: "[[CGPT_0475_Metabolic_Biomarkers_for_Insulin_L-001-0709]]"

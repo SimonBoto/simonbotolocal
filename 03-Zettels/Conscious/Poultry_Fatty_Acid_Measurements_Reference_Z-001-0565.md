@@ -1,16 +1,29 @@
----
-uid: Z-001-0565
+---uid: Z-001-0565
 type: zettel
 title: Poultry Fatty Acid Measurements Reference
-aliases: [Z-001-0565, Fatty Acid Data, Poultry Measurements, Reference Table]
-domain: 001
+aliases:
+- '""Z-001-0565""'
+- '""Fatty Acid Data""'
+- '""Poultry Measurements""'
+- '""Reference Table""'
+domain: 1
 domain-name: Nutrition
-tags: [zettel, reference, omega-6, omega-3, poultry, measurements, data-table, fatty-acids]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: "[[LitNote_Omega6_Poultry_Feed_Inflammatory_L-001-0517]"
-source-litnote: "[[Synthetic_Poultry_Fatty_Acid_Composition_L-001-0731]]"
+tags:
+- '""zettel""'
+- '""reference""'
+- '""omega-6""'
+- '""omega-3""'
+- '""poultry""'
+- '""measurements""'
+- '""data-table""'
+- '""fatty-acids""'
+parent-moc:
+- '""[''MOC-Insulin-Signaling'']""'
+source: '[[LitNote_Omega6_Poultry_Feed_Inflammatory_L-001-0517]'
+source-litnote: '"[[Synthetic_Poultry_Fatty_Acid_Composition_L-001-0731]]"'
 confidence: high
 created: 2026-03-03
+status: conscious
 ---
 
 # Poultry Fatty Acid Measurements Reference

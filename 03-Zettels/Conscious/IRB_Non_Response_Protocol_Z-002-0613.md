@@ -1,16 +1,25 @@
----
-uid: Z-002-0613
+---uid: Z-002-0613
 type: zettel
-title: "IRB Non-Response Protocol"
-aliases: [Z-002-0613, irb-silence, ethics-committee-delay]
-domain: 002
+title: IRB Non-Response Protocol
+aliases:
+- '""Z-002-0613""'
+- '""irb-silence""'
+- '""ethics-committee-delay""'
+domain: 2
 domain-name: Research Ethics
-tags: [zettel, research-ethics, irb, administration, practical]
-parent-moc: [[MOC-Research-Ethics]]
-source-litnote: "[[LitNote_Ethics_Committee_Communication_L-002-0603]"
+tags:
+- '""zettel""'
+- '""research-ethics""'
+- '""irb""'
+- '""administration""'
+- '""practical""'
+parent-moc:
+- '""[''MOC-Research-Ethics'']""'
+source-litnote: '[[LitNote_Ethics_Committee_Communication_L-002-0603]'
 extraction-date: 2026-04-15
 confidence: medium
 created: 2026-03-27
+status: conscious
 ---
 
 # IRB Non-Response Protocol

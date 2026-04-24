@@ -1,14 +1,22 @@
----
-uid: Z-001-0417
+---uid: Z-001-0417
 type: zettel
 title: MTHFR Cancer Association — Complex Relationship
-aliases: [MTHFR-Cancer, Protective, Risk, Complex]
-domain: 001
-tags: [zettel, mthfr, cancer, association, folate]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[MTHFR-Cancer""'
+- '""Protective""'
+- '""Risk""'
+- '""Complex]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""mthfr""'
+- '""cancer""'
+- '""association""'
+- '""folate]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_MTHFR_Genetics_L-001-0403]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_MTHFR_Genetics_L-001-0403]'
+extraction-date: '2026-03-01'
 ---
 
 source-litnote: "[[CGPT_0264_Warburg_Effect_and_Cancer_L-001-0704]]"

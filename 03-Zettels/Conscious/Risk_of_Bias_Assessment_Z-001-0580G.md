@@ -1,19 +1,12 @@
----
-uid: Z-001-0580G
+---uid: Z-001-0580G
 type: zettel
-title: "Risk of Bias Assessment"
+title: '"Risk of Bias Assessment"'
 aliases: []
-  - Z-001-0580G
-  - Risk-of-Bias
-  - Study-Quality-Assessment
- domain: 001
+domain: 1
 tags: []
-  - zettel
-  - risk-of-bias
-  - systematic-review
-parent-moc: "[[MOC-Research]]"
-source-litnote: "[[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Research]]"'
+source-litnote: '"[[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

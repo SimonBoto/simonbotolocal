@@ -1,17 +1,30 @@
----
-uid: Z-001-0910
+---uid: Z-001-0910
 type: zettel
-title: "Metabotypes — Individual Metabolic Phenotypes"
-aliases: [Z-001-0910, Z-001-0010-deprecated, Metabotypes, Metabolic_Phenotypes, Individual_Metabolome]
-domain: 001
+title: Metabotypes — Individual Metabolic Phenotypes
+aliases:
+- '""Z-001-0910""'
+- '""Z-001-0010-deprecated""'
+- '""Metabotypes""'
+- '""Metabolic_Phenotypes""'
+- '""Individual_Metabolome""'
+domain: 1
 domain-name: Systems-Biology-Metabolomics
-tags: [zettel, metabotypes, metabolome, individual-variation, precision-medicine, phenotype, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
+tags:
+- '""zettel""'
+- '""metabotypes""'
+- '""metabolome""'
+- '""individual-variation""'
+- '""precision-medicine""'
+- '""phenotype""'
+- '""conscious""'
+parent-moc:
+- '""[''MOC-Insulin-Signaling'']""'
 confidence: high
 created: 2026-02-23
 updated: 2026-03-05
 source-litnote: Synthesized from clinical practice
 extraction-date: 2026-04-15
+status: conscious
 ---
 
 # Metabotypes — Individual Metabolic Phenotypes

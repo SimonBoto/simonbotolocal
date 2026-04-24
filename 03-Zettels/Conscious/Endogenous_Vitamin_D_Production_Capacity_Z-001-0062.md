@@ -1,18 +1,24 @@
----
-uid: Z-001-0062
+---uid: Z-001-0062
 type: zettel
 title: Endogenous Vitamin D Production Capacity
-aliases: [Z-001-0062, Endogenous-VitD-Production]
-domain: 001
+aliases:
+- '""[Z-001-0062""'
+- '""Endogenous-VitD-Production]""'
+domain: 1
 domain-name: Insulin Signaling
-tags: [zettel, vitamin-d, endogenous-production, sunlight, physiology]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]
+tags:
+- '""[zettel""'
+- '""vitamin-d""'
+- '""endogenous-production""'
+- '""sunlight""'
+- '""physiology]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source: '[[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]'
 confidence: high
-created: 2026-03-01
+created: '2026-03-01'
 status: conscious
 source-litnote: legacy-no-source
-extraction-date: 2026-04-15
+extraction-date: '2026-04-15'
 ---
 
 # Endogenous  Production Capacity

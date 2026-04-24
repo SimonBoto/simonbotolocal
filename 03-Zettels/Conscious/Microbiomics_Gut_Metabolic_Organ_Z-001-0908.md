@@ -1,17 +1,31 @@
----
-uid: Z-001-0908
+---uid: Z-001-0908
 type: zettel
-title: "Microbiomics — Gut Microbiome as Metabolic Organ"
-aliases: [Z-001-0908, Z-001-0008-deprecated, Microbiomics, Microbiome, Gut_Bacteria, Dysbiosis]
-domain: 001
+title: '"Microbiomics — Gut Microbiome as Metabolic Organ"'
+aliases:
+- '""[Z-001-0908""'
+- '""Z-001-0008-deprecated""'
+- '""Microbiomics""'
+- '""Microbiome""'
+- '""Gut_Bacteria""'
+- '""Dysbiosis]""'
+domain: 1
 domain-name: Systems-Biology-Metabolomics
-tags: [zettel, microbiomics, microbiome, gut-bacteria, dysbiosis, metabolites, butyrate, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]
-source-litnote: "[[Synthetic_Omics_Methods_Statistics_L-001-0732]]"
+tags:
+- '""[zettel""'
+- '""microbiomics""'
+- '""microbiome""'
+- '""gut-bacteria""'
+- '""dysbiosis""'
+- '""metabolites""'
+- '""butyrate""'
+- '""conscious]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source: '[[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]'
+source-litnote: '"[[Synthetic_Omics_Methods_Statistics_L-001-0732]]"'
 confidence: high
-created: 2026-02-23
-updated: 2026-03-05
+created: '2026-02-23'
+updated: '2026-03-05'
+status: conscious
 ---
 
 # Microbiomics — Gut Microbiome as Metabolic Organ

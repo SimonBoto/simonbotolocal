@@ -1,16 +1,25 @@
----
-uid: Z-101-0003
+---uid: Z-101-0003
 type: zettel
 title: Rapamycin mTOR Inhibition and Immune Tolerance
-aliases: [Z-101-0003, Rapamycin-mTOR, Immune-Tolerance]
+aliases:
+- '"[Z-101-0003"'
+- '"Rapamycin-mTOR"'
+- '"Immune-Tolerance]"'
 domain: 101
 domain-name: Pharmacometabolomics
-tags: [zettel, rapamycin, mTOR, immune-tolerance, autoimmunity, SLE]
-parent-moc: [[MOC-Immunology]]
-source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]
-source-litnote: "[[Synthetic_Immunometabolism_L-001-0736]]"
+tags:
+- '"[zettel"'
+- '"rapamycin"'
+- '"mTOR"'
+- '"immune-tolerance"'
+- '"autoimmunity"'
+- '"SLE]"'
+parent-moc: '"[[MOC-Immunology]]"'
+source: '[[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]'
+source-litnote: '"[[Synthetic_Immunometabolism_L-001-0736]]"'
 confidence: high
-created: 2026-02-24
+created: '2026-02-24'
+status: conscious
 ---
 
 # Rapamycin mTOR Inhibition and Immune Tolerance

@@ -1,13 +1,20 @@
----
-uid: Z-001-0973
+---uid: Z-001-0973
 type: zettel
 title: MDRD Study Analysis — Protein Restriction in CKD Landmark Trial
-aliases: [Z-001-0973]
-domain: 001
-tags: [zettel, mdrd, protein-restriction, ckd, clinical-trial, landmark, rct, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-extraction-date: 2026-03-07
-source-litnote: [[LitNote_Protein_CKD_Progression_Evidence_L-001-0573]
+aliases: '[Z-001-0973]'
+domain: 1
+tags:
+- '""[zettel""'
+- '""mdrd""'
+- '""protein-restriction""'
+- '""ckd""'
+- '""clinical-trial""'
+- '""landmark""'
+- '""rct""'
+- '""conscious]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+extraction-date: '2026-03-07'
+source-litnote: '[[LitNote_Protein_CKD_Progression_Evidence_L-001-0573]'
 status: conscious
 ---
 

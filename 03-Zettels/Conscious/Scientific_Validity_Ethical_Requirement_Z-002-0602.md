@@ -1,16 +1,23 @@
----
-uid: Z-002-0602
+---uid: Z-002-0602
 type: zettel
-title: "Scientific Validity as Ethical Requirement"
-aliases: [Z-002-0602, ethics-validity]
-domain: 002
+title: Scientific Validity as Ethical Requirement
+aliases:
+- '"Z-002-0602"'
+- '"ethics-validity"'
+domain: 2
 domain-name: Research Ethics
-tags: [zettel, research-ethics, methodology, emmanuel-seven]
-parent-moc: [[MOC-Methylation]]
-source-litnote: "[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]"
+tags:
+- '"zettel"'
+- '"research-ethics"'
+- '"methodology"'
+- '"emmanuel-seven"'
+parent-moc:
+- '"[''MOC-Methylation'']"'
+source-litnote: '[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]'
 extraction-date: 2026-04-15
 confidence: high
 created: 2026-03-27
+status: conscious
 ---
 
 # Scientific Validity as Ethical Requirement

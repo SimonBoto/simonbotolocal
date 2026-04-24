@@ -1,16 +1,25 @@
----
-uid: Z-002-0614
+---uid: Z-002-0614
 type: zettel
-title: "IRB Communication Template"
-aliases: [Z-002-0614, irb-message, ethics-email]
-domain: 002
+title: IRB Communication Template
+aliases:
+- '""Z-002-0614""'
+- '""irb-message""'
+- '""ethics-email""'
+domain: 2
 domain-name: Research Ethics
-tags: [zettel, research-ethics, irb, communication, template]
-parent-moc: [[MOC-Research-Ethics]]
-source-litnote: "[[LitNote_Ethics_Committee_Communication_L-002-0603]"
+tags:
+- '""zettel""'
+- '""research-ethics""'
+- '""irb""'
+- '""communication""'
+- '""template""'
+parent-moc:
+- '""[''MOC-Research-Ethics'']""'
+source-litnote: '[[LitNote_Ethics_Committee_Communication_L-002-0603]'
 extraction-date: 2026-04-15
 confidence: high
 created: 2026-03-27
+status: conscious
 ---
 
 # IRB Communication Template

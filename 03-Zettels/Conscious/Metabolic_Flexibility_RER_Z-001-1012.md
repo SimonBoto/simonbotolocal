@@ -1,13 +1,20 @@
----
-uid: Z-001-1012
+---uid: Z-001-1012
 type: zettel
 title: Metabolic Flexibility — Glucose vs Fatty Acid Oxidation and RER
-aliases: [Z-001-1012]
-domain: 001
-tags: [zettel, metabolic-flexibility, mitochondrial-health, rer, respiratory-exchange-ratio, fuel-utilization, insulin-resistance, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-extraction-date: 2026-03-07
-source-litnote: [[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]
+aliases: '[Z-001-1012]'
+domain: 1
+tags:
+- '""[zettel""'
+- '""metabolic-flexibility""'
+- '""mitochondrial-health""'
+- '""rer""'
+- '""respiratory-exchange-ratio""'
+- '""fuel-utilization""'
+- '""insulin-resistance""'
+- '""conscious]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+extraction-date: '2026-03-07'
+source-litnote: '[[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]'
 status: conscious
 ---
 

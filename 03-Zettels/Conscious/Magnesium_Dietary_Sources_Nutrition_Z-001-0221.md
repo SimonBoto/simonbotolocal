@@ -1,14 +1,22 @@
----
-uid: Z-001-0221
+---uid: Z-001-0221
 type: zettel
 title: Magnesium Dietary Sources — Nutritional Strategies
-aliases: [Mg-Diet, Magnesium-Foods, Magnesium-Nutrition]
-domain: 001
-tags: [zettel, magnesium, diet, nutrition, foods, sources]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Mg-Diet""'
+- '""Magnesium-Foods""'
+- '""Magnesium-Nutrition]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""magnesium""'
+- '""diet""'
+- '""nutrition""'
+- '""foods""'
+- '""sources]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Magnesium_Supplementation_L-001-0201d]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Magnesium_Supplementation_L-001-0201d]'
+extraction-date: '2026-03-01'
 ---
 
 #  Dietary Sources — al Strategies

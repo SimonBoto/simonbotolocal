@@ -1,13 +1,20 @@
----
-uid: Z-101-0472
+---uid: Z-101-0472
 type: zettel
 title: METHAP Study Design Overview
-aliases: [Z-101-0472]
+aliases: '[Z-101-0472]'
 domain: 101
-tags: [zettel, methap, phd, study-design, clinical-trial, metabolomics, insulin-resistance, conscious]
-parent-moc: [[MOC-Vitamin-Metabolism]]
-source-litnote: [[LitNote_CGPT_0081_PhD_Protocol_IRB_L-101-0048.md]
-extraction-date: 2026-04-15
+tags:
+- '""[zettel""'
+- '""methap""'
+- '""phd""'
+- '""study-design""'
+- '""clinical-trial""'
+- '""metabolomics""'
+- '""insulin-resistance""'
+- '""conscious]""'
+parent-moc: '"[[MOC-Vitamin-Metabolism]]"'
+source-litnote: '[[LitNote_CGPT_0081_PhD_Protocol_IRB_L-101-0048.md]'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

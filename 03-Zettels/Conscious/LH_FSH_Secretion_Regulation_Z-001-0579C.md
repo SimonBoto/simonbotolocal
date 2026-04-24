@@ -1,20 +1,12 @@
----
-uid: Z-001-0579C
+---uid: Z-001-0579C
 type: zettel
-title: "LH/FSH Secretion Regulation"
+title: '"LH/FSH Secretion Regulation"'
 aliases: []
-  - Z-001-0579C
-  - LH_FSH_Regulation
-  - Gonadotropin_Regulation
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - endocrinology
-  - hpg
-  - gonadotropins
-parent-moc: "[[MOC-Endocrinology]]"
-source-litnote: "[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Endocrinology]]"'
+source-litnote: '"[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

@@ -1,19 +1,12 @@
----
-uid: Z-001-0584G
+---uid: Z-001-0584G
 type: zettel
-title: "Metabolic Health Biomarkers"
+title: '"Metabolic Health Biomarkers"'
 aliases: []
-  - Z-001-0584G
-  - Biomarkers
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - metabolic
-  - biomarkers
-  - diagnostics
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
-source-litnote: "[[CGPT_0124_Profound_Truths_Revolutionizing_Health_L-001-0706]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Metabolic-Syndrome]]"'
+source-litnote: '"[[CGPT_0124_Profound_Truths_Revolutionizing_Health_L-001-0706]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

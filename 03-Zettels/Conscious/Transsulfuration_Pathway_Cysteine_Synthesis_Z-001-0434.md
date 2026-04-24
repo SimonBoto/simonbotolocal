@@ -1,27 +1,14 @@
----
-uid: Z-001-0434
+---uid: Z-001-0434
 type: zettel
 title: Transsulfuration Pathway — Cysteine Synthesis
 aliases: []
-  - Z-001-0434
-  - Transsulfuration
-  - CBS
-  - Cystathionine
-  - Cysteine
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - transsulfuration
-  - cbs
-  - cysteine
-  - b6
-  - homocysteine
-  - glutathione
-parent-moc: "[[MOC-Methylation]]"
+parent-moc: '"[[MOC-Methylation]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-01
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-01'
 ---
 
 # Transsulfuration Pathway — Cysteine Synthesis

@@ -1,27 +1,14 @@
----
-uid: Z-001-0461
+---uid: Z-001-0461
 type: zettel
 title: G6PD Deficiency and Evolutionary Trade-offs
 aliases: []
-  - Z-101-0461
-  - g6pd-deficiency
-  - malaria-resistance
-  - hemolysis
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - g6pd
-  - hemolysis
-  - malaria
-  - evolution
-  - enzyme-deficiency
-parent-moc:
-  - - MOC-Insulin-Signaling
 status: conscious
-created: 2026-03-04
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-extraction-date: 2026-04-15
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+created: '2026-03-04'
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+extraction-date: '2026-04-15'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
 ---
 
 # G6PD Deficiency: Disease and Protection

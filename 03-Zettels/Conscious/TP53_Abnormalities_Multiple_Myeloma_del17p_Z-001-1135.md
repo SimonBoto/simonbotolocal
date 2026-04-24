@@ -1,16 +1,23 @@
----
-uid: Z-001-1135
+---uid: Z-001-1135
 type: zettel
 title: TP53 Abnormalities Multiple Myeloma del17p
-aliases: [Z-001-1135, TP53-MM]
-domain: 001
+aliases:
+- '"[Z-001-1135"'
+- '"TP53-MM]"'
+domain: 1
 domain-name: Hematology Oncology
-tags: [zettel, tp53, multiple-myeloma, del17p, prognosis]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_TP53_Multiple_Myeloma_L-001-0613]
-extraction-date: 2026-04-15
+tags:
+- '"[zettel"'
+- '"tp53"'
+- '"multiple-myeloma"'
+- '"del17p"'
+- '"prognosis]"'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source-litnote: '[[LitNote_TP53_Multiple_Myeloma_L-001-0613]'
+extraction-date: '2026-04-15'
 confidence: high
-created: 2026-03-08
+created: '2026-03-08'
+status: conscious
 ---
 
 source-litnote: "[[CGPT_0264_Warburg_Effect_and_Cancer_L-001-0704]]"

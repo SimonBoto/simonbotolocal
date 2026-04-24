@@ -1,16 +1,23 @@
----
-uid: Z-001-0030
+---uid: Z-001-0030
 type: zettel
 title: Mitochondrial Dysfunction in Insulin Resistance
-aliases: [Z-001-0030, Mitochondrial-Dysfunction-IR]
-domain: 001
+aliases:
+- '""[Z-001-0030""'
+- '""Mitochondrial-Dysfunction-IR]""'
+domain: 1
 domain-name: Insulin Signaling
-tags: [zettel, mitochondria, oxidative-stress, beta-oxidation, insulin-resistance]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[LitNote_IR_Mechanisms_Map_L-001-0005]
-source-litnote: "[[Synthetic_Insulin_Resistance_Pathophysiology_L-001-0730]]"
+tags:
+- '""[zettel""'
+- '""mitochondria""'
+- '""oxidative-stress""'
+- '""beta-oxidation""'
+- '""insulin-resistance]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source: '[[LitNote_IR_Mechanisms_Map_L-001-0005]'
+source-litnote: '"[[Synthetic_Insulin_Resistance_Pathophysiology_L-001-0730]]"'
 confidence: high
-created: 2026-02-24
+created: '2026-02-24'
+status: conscious
 ---
 
 # Mitochondrial Dysfunction in  Resistance

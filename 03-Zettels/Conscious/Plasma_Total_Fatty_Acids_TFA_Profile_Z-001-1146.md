@@ -1,16 +1,24 @@
----
-uid: Z-001-1146
+---uid: Z-001-1146
 type: zettel
 title: Plasma Total Fatty Acids TFA Profile
-aliases: [Z-001-1146, Plasma-TFA]
-domain: 001
+aliases:
+- '""[Z-001-1146""'
+- '""Plasma-TFA]""'
+domain: 1
 domain-name: Metabolomics Analysis
-tags: [zettel, plasma, fatty-acids, tfa, profile, insulin-resistance]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]
-extraction-date: 2026-04-15
+tags:
+- '""[zettel""'
+- '""plasma""'
+- '""fatty-acids""'
+- '""tfa""'
+- '""profile""'
+- '""insulin-resistance]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source-litnote: '[[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]'
+extraction-date: '2026-04-15'
 confidence: high
-created: 2026-03-08
+created: '2026-03-08'
+status: conscious
 ---
 
 source-litnote: "[[CGPT_0475_Metabolic_Biomarkers_for_Insulin_L-001-0709]]"

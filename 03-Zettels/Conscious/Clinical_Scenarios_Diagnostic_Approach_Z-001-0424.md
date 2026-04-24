@@ -1,14 +1,21 @@
----
-uid: Z-001-0424
+---uid: Z-001-0424
 type: zettel
 title: Clinical Scenarios — Diagnostic Approach
-aliases: [Clinical-Scenarios, Diagnostic-Approach, Red-Flags]
-domain: 001
-tags: [zettel, clinical, diagnosis, b12, multiple-myeloma]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""""[Clinical-Scenarios""""'
+- '""""Diagnostic-Approach""""'
+- '""""Red-Flags]""""'
+domain: 1
+tags:
+- '""""[zettel""""'
+- '""""clinical""""'
+- '""""diagnosis""""'
+- '""""b12""""'
+- '""""multiple-myeloma]""""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_B12_MM_Mimicry_L-001-0404]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_B12_MM_Mimicry_L-001-0404]'
+extraction-date: '2026-03-01'
 ---
 
 #  Scenarios — Diagnostic Approach

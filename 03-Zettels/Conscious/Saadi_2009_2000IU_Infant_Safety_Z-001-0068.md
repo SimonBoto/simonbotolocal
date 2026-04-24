@@ -1,18 +1,24 @@
----
-uid: Z-001-0068
+---uid: Z-001-0068
 type: zettel
 title: Saadi 2009 2000 IU Infant Safety Study
-aliases: [Z-001-0068, Saadi-2009-2000IU]
-domain: 001
+aliases:
+- '"[Z-001-0068"'
+- '"Saadi-2009-2000IU]"'
+domain: 1
 domain-name: Insulin Signaling
-tags: [zettel, vitamin-d, Saadi-2009, infants, safety]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]
+tags:
+- '"[zettel"'
+- '"vitamin-d"'
+- '"Saadi-2009"'
+- '"infants"'
+- '"safety]"'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source: '[[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]'
 confidence: high
-created: 2026-03-01
+created: '2026-03-01'
 status: conscious
 source-litnote: legacy-no-source
-extraction-date: 2026-04-15
+extraction-date: '2026-04-15'
 ---
 
 # Saadi 2009 — 2,000 IU Infant 

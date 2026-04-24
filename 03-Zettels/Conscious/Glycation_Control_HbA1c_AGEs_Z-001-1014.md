@@ -1,13 +1,21 @@
----
-uid: Z-001-1014
+---uid: Z-001-1014
 type: zettel
 title: Glycation Control — HbA1c Targets and Advanced Glycation End-Products
-aliases: [Z-001-1014]
-domain: 001
-tags: [zettel, glycation, hba1c, ages, advanced-glycation-end-products, diabetes, vascular-damage, aging, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-extraction-date: 2026-03-07
-source-litnote: [[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]
+aliases: '[Z-001-1014]'
+domain: 1
+tags:
+- '""[zettel""'
+- '""glycation""'
+- '""hba1c""'
+- '""ages""'
+- '""advanced-glycation-end-products""'
+- '""diabetes""'
+- '""vascular-damage""'
+- '""aging""'
+- '""conscious]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+extraction-date: '2026-03-07'
+source-litnote: '[[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]'
 status: conscious
 ---
 

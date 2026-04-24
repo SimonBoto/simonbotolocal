@@ -1,14 +1,21 @@
----
-uid: Z-001-0408
+---uid: Z-001-0408
 type: zettel
 title: SAH — Methylation Inhibitor and SAM/SAH Ratio
-aliases: [SAH, S-Adenosylhomocysteine, Methylation-Capacity]
-domain: 001
-tags: [zettel, sah, methylation, inhibitor, ratio]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '"[SAH"'
+- '"S-Adenosylhomocysteine"'
+- '"Methylation-Capacity]"'
+domain: 1
+tags:
+- '"[zettel"'
+- '"sah"'
+- '"methylation"'
+- '"inhibitor"'
+- '"ratio]"'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Methylation_Cycle_L-001-0402]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Methylation_Cycle_L-001-0402]'
+extraction-date: '2026-03-01'
 ---
 
 # SAH — Methylation Inhibitor and SAM/SAH Ratio

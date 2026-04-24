@@ -1,20 +1,12 @@
----
-uid: Z-001-0580I
+---uid: Z-001-0580I
 type: zettel
-title: "Fixed vs Random Effects Models"
+title: '"Fixed vs Random Effects Models"'
 aliases: []
-  - Z-001-0580I
-  - Fixed-Effects
-  - Random-Effects
-  - Meta-Analysis-Models
- domain: 001
+domain: 1
 tags: []
-  - zettel
-  - meta-analysis
-  - statistical-models
-parent-moc: "[[MOC-Research]]"
-source-litnote: "[[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Research]]"'
+source-litnote: '"[[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

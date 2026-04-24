@@ -1,16 +1,25 @@
----
-uid: Z-001-0032
+---uid: Z-001-0032
 type: zettel
 title: Gut-Derived Mechanisms in Insulin Resistance
-aliases: [Z-001-0032, Gut-IR-Mechanisms]
-domain: 001
+aliases:
+- '"""Z-001-0032"""'
+- '"""Gut-IR-Mechanisms"""'
+domain: 1
 domain-name: Insulin Signaling
-tags: [zettel, gut-microbiome, dysbiosis, LPS, metabolic-endotoxemia, tight-junctions]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: "[[IR_Mechanisms_Map_L-001-0005_v4.0]]"
+tags:
+- '"""zettel"""'
+- '"""gut-microbiome"""'
+- '"""dysbiosis"""'
+- '"""LPS"""'
+- '"""metabolic-endotoxemia"""'
+- '"""tight-junctions"""'
+parent-moc:
+- '"""[''MOC-Insulin-Signaling'']"""'
+source-litnote: '"[[IR_Mechanisms_Map_L-001-0005_v4.0]]"'
 extraction-date: 2026-04-15
 confidence: high
 created: 2026-02-24
+status: conscious
 ---
 
 # Gut-Derived s in  Resistance

@@ -1,19 +1,12 @@
----
-uid: Z-001-0120
+---uid: Z-001-0120
 type: zettel
-title: "Bone Turnover Monitoring Guidelines"
+title: '"Bone Turnover Monitoring Guidelines"'
 aliases: []
-  - Z-001-0120
-  - BTM-Monitoring
-  - Clinical-Guidelines
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - monitoring
-  - guidelines
-parent-moc: "[[MOC-Bone-Health]]"
-source-litnote: "[[Bone_Turnover_Markers_L-001-0045J_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Bone-Health]]"'
+source-litnote: '"[[Bone_Turnover_Markers_L-001-0045J_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

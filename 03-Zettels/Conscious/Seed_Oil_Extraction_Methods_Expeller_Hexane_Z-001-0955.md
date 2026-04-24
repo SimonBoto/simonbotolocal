@@ -1,13 +1,19 @@
----
-uid: Z-001-0955
+---uid: Z-001-0955
 type: zettel
 title: Seed Oil Extraction Methods — Expeller Press vs Hexane Solvent
-aliases: [Z-001-0955]
-domain: 001
-tags: [zettel, seed-oils, extraction, hexane, expeller-press, industrial-processing, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-extraction-date: 2026-03-07
-source-litnote: [[LitNote_Industrial_Processing_Toxin_Formation_L-001-0524]
+aliases: '[Z-001-0955]'
+domain: 1
+tags:
+- '"[zettel"'
+- '"seed-oils"'
+- '"extraction"'
+- '"hexane"'
+- '"expeller-press"'
+- '"industrial-processing"'
+- '"conscious]"'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+extraction-date: '2026-03-07'
+source-litnote: '[[LitNote_Industrial_Processing_Toxin_Formation_L-001-0524]'
 status: conscious
 ---
 

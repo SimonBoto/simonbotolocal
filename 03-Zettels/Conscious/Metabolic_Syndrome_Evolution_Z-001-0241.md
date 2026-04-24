@@ -1,19 +1,12 @@
----
-uid: Z-001-0241
+---uid: Z-001-0241
 type: zettel
-title: "Metabolic Syndrome Evolution"
+title: '"Metabolic Syndrome Evolution"'
 aliases: []
-  - Z-001-0241
-  - Metabolic-Syndrome-History
-  - Syndrome-X-Evolution
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - metabolic-syndrome
-  - history
-parent-moc: "[[MOC-Glucose-History]]"
-source-litnote: "[[History_of_Glucose_Discovery_and_Metabolic_Underst_L-001-0208_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Glucose-History]]"'
+source-litnote: '"[[History_of_Glucose_Discovery_and_Metabolic_Underst_L-001-0208_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

@@ -1,18 +1,23 @@
----
-uid: Z-001-0078
+---uid: Z-001-0078
 type: zettel
 title: Fragility Fractures Morbidity Mortality
-aliases: [Z-001-0078, Fragility_Fractures_Morbidity_Mortality]
-domain: 001
+aliases:
+- '""[Z-001-0078""'
+- '""Fragility_Fractures_Morbidity_Mortality]""'
+domain: 1
 domain-name: Insulin Signaling
-tags: [zettel, bone-health, vitamin-d, clinical]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[LitNote_Osteopenia_Osteoporosis_Definitions_L-001-0010]
+tags:
+- '""[zettel""'
+- '""bone-health""'
+- '""vitamin-d""'
+- '""clinical]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source: '[[LitNote_Osteopenia_Osteoporosis_Definitions_L-001-0010]'
 confidence: high
-created: 2026-03-01
+created: '2026-03-01'
 status: conscious
 source-litnote: legacy-no-source
-extraction-date: 2026-04-15
+extraction-date: '2026-04-15'
 ---
 
 # Fragility Fractures Morbidity Mortality

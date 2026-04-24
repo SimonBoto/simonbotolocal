@@ -1,14 +1,23 @@
----
-uid: Z-001-0257
+---uid: Z-001-0257
 type: zettel
 title: Calcium Paradox — D-K2 Resolution
-aliases: [Calcium-Paradox, Ectopic-Calcification, Bone-Vascular-Balance]
-domain: 001
-tags: [zettel, calcium, paradox, vitamin-d, vitamin-k2, bone, arteries]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""""[Calcium-Paradox""""'
+- '""""Ectopic-Calcification""""'
+- '""""Bone-Vascular-Balance]""""'
+domain: 1
+tags:
+- '""""[zettel""""'
+- '""""calcium""""'
+- '""""paradox""""'
+- '""""vitamin-d""""'
+- '""""vitamin-k2""""'
+- '""""bone""""'
+- '""""arteries]""""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]'
+extraction-date: '2026-03-01'
 ---
 
 # Calcium Paradox — D-K2 Resolution

@@ -1,13 +1,21 @@
----
-uid: Z-001-0956
+---uid: Z-001-0956
 type: zettel
 title: Seed Oil Refining Process — Degumming, Bleaching, Deodorizing
-aliases: [Z-001-0956]
-domain: 001
-tags: [zettel, seed-oils, refining, degumming, bleaching, deodorizing, rbd, high-heat, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-extraction-date: 2026-03-07
-source-litnote: [[LitNote_Industrial_Processing_Toxin_Formation_L-001-0524]
+aliases: '[Z-001-0956]'
+domain: 1
+tags:
+- '"[zettel"'
+- '"seed-oils"'
+- '"refining"'
+- '"degumming"'
+- '"bleaching"'
+- '"deodorizing"'
+- '"rbd"'
+- '"high-heat"'
+- '"conscious]"'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+extraction-date: '2026-03-07'
+source-litnote: '[[LitNote_Industrial_Processing_Toxin_Formation_L-001-0524]'
 status: conscious
 ---
 

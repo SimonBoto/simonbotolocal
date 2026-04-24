@@ -1,13 +1,21 @@
----
-uid: Z-001-0968
+---uid: Z-001-0968
 type: zettel
 title: Pre-Industrial Seed Oil Uses — Mechanical Pressing, Lamp Oil, Lubricants
-aliases: [Z-001-0968]
-domain: 001
-tags: [zettel, seed-oils, history, pre-industrial, mechanical-pressing, lamp-oil, lubricants, industrial-revolution, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-extraction-date: 2026-03-07
-source-litnote: [[LitNote_History_Industrial_Development_L-001-0527]
+aliases: '[Z-001-0968]'
+domain: 1
+tags:
+- '""[zettel""'
+- '""seed-oils""'
+- '""history""'
+- '""pre-industrial""'
+- '""mechanical-pressing""'
+- '""lamp-oil""'
+- '""lubricants""'
+- '""industrial-revolution""'
+- '""conscious]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+extraction-date: '2026-03-07'
+source-litnote: '[[LitNote_History_Industrial_Development_L-001-0527]'
 status: conscious
 ---
 

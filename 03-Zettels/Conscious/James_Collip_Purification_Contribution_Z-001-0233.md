@@ -1,14 +1,22 @@
----
-uid: Z-001-0233
+---uid: Z-001-0233
 type: zettel
 title: James Collip — The Purification Breakthrough
-aliases: [Collip, Insulin-Purification, Biochemist-Collip]
-domain: 001
-tags: [zettel, insulin, history, collib, purification, biochemistry]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Collip""'
+- '""Insulin-Purification""'
+- '""Biochemist-Collip]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""insulin""'
+- '""history""'
+- '""collib""'
+- '""purification""'
+- '""biochemistry]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Insulin_History_L-001-0207]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Insulin_History_L-001-0207]'
+extraction-date: '2026-03-01'
 ---
 
 # James Collip — The Purification Breakthrough

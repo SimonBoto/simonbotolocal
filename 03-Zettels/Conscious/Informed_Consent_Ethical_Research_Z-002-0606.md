@@ -1,16 +1,24 @@
----
-uid: Z-002-0606
+---uid: Z-002-0606
 type: zettel
-title: "Informed Consent in Ethical Research"
-aliases: [Z-002-0606, ethics-informed-consent]
-domain: 002
+title: Informed Consent in Ethical Research
+aliases:
+- '""Z-002-0606""'
+- '""ethics-informed-consent""'
+domain: 2
 domain-name: Research Ethics
-tags: [zettel, research-ethics, informed-consent, autonomy, emmanuel-seven]
-parent-moc: [[MOC-Methylation]]
-source-litnote: "[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]"
+tags:
+- '""zettel""'
+- '""research-ethics""'
+- '""informed-consent""'
+- '""autonomy""'
+- '""emmanuel-seven""'
+parent-moc:
+- '""[''MOC-Methylation'']""'
+source-litnote: '[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]'
 extraction-date: 2026-04-15
 confidence: high
 created: 2026-03-27
+status: conscious
 ---
 
 # Informed Consent in Ethical 

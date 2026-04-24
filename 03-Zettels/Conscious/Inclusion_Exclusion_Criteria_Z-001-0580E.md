@@ -1,20 +1,12 @@
----
-uid: Z-001-0580E
+---uid: Z-001-0580E
 type: zettel
-title: "Inclusion and Exclusion Criteria"
+title: '"Inclusion and Exclusion Criteria"'
 aliases: []
-  - Z-001-0580E
-  - Inclusion-Criteria
-  - Exclusion-Criteria
-  - Selection-Criteria
- domain: 001
+domain: 1
 tags: []
-  - zettel
-  - inclusion-criteria
-  - systematic-review
-parent-moc: "[[MOC-Research]]"
-source-litnote: "[[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Research]]"'
+source-litnote: '"[[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

@@ -1,19 +1,12 @@
----
-uid: Z-001-0580L
+---uid: Z-001-0580L
 type: zettel
-title: "Sensitivity Analysis in Meta-Analysis"
+title: '"Sensitivity Analysis in Meta-Analysis"'
 aliases: []
-  - Z-001-0580L
-  - Sensitivity-Analysis
-  - Meta-Analysis-Sensitivity
- domain: 001
+domain: 1
 tags: []
-  - zettel
-  - sensitivity-analysis
-  - meta-analysis
-parent-moc: "[[MOC-Research]]"
-source-litnote: "[[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Research]]"'
+source-litnote: '"[[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

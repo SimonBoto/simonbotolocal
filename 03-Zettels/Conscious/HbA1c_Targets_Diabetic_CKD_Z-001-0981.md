@@ -1,13 +1,21 @@
----
-uid: Z-001-0981
+---uid: Z-001-0981
 type: zettel
 title: HbA1c Targets in Diabetic CKD — Glycemic Control Goals by Stage
-aliases: [Z-001-0981]
-domain: 001
-tags: [zettel, hba1c, diabetes, ckd, glycemic-control, targets, ada, kdigo, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-extraction-date: 2026-03-07
-source-litnote: [[LitNote_CKD_Nutritional_Assessment_L-001-0575]
+aliases: '[Z-001-0981]'
+domain: 1
+tags:
+- '""[zettel""'
+- '""hba1c""'
+- '""diabetes""'
+- '""ckd""'
+- '""glycemic-control""'
+- '""targets""'
+- '""ada""'
+- '""kdigo""'
+- '""conscious]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+extraction-date: '2026-03-07'
+source-litnote: '[[LitNote_CKD_Nutritional_Assessment_L-001-0575]'
 status: conscious
 ---
 

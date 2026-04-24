@@ -1,26 +1,14 @@
----
-uid: Z-001-0432
+---uid: Z-001-0432
 type: zettel
 title: Methionine — Essential Sulfur Amino Acid
 aliases: []
-  - Z-001-0432
-  - Methionine
-  - Essential-Amino-Acid
-  - Sulfur
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - methionine
-  - essential
-  - amino-acid
-  - sulfur
-  - sam
-  - transsulfuration
-parent-moc: "[[MOC-Methylation]]"
+parent-moc: '"[[MOC-Methylation]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-01
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-01'
 ---
 
 # Methionine — Essential Sulfur Amino Acid

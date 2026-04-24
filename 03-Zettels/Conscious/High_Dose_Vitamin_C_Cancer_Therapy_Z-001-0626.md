@@ -1,16 +1,25 @@
----
-uid: Z-001-0626
+---uid: Z-001-0626
 type: zettel
-title: "High Dose Vitamin C Cancer Therapy Controversy"
-aliases: [Z-001-0626]
-domain: 001
-tags: [zettel, vitamin-c, cancer, high-dose, iv-therapy, orthomolecular, controversy, conscious]
-parent-index: [[03-Zettels-Conscious]]
-parent-moc: [[MOC-Vitamin-Mineral-Axis]]
-related: [[Vitamin_C_Biochemical_Functions_Z-001-0623]], [[Orthomolecular_Medicine_Pauling_Legacy_Z-001-0627]]
+title: '"High Dose Vitamin C Cancer Therapy Controversy"'
+aliases: '[Z-001-0626]'
+domain: 1
+tags:
+- '""[zettel""'
+- '""vitamin-c""'
+- '""cancer""'
+- '""high-dose""'
+- '""iv-therapy""'
+- '""orthomolecular""'
+- '""controversy""'
+- '""conscious]""'
+parent-index: '[[03-Zettels-Conscious]]'
+parent-moc: '"[[MOC-Vitamin-Mineral-Axis]]"'
+related:
+- '""[[Vitamin_C_Biochemical_Functions_Z-001-0623]]""'
+- '""[[Orthomolecular_Medicine_Pauling_Legacy_Z-001-0627]]""'
 status: conscious
 source-litnote: legacy-no-source
-extraction-date: 2026-04-15
+extraction-date: '2026-04-15'
 ---
 
 # High Dose Vitamin C Cancer Therapy Controversy

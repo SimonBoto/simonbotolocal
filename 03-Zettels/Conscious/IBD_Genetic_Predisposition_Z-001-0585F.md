@@ -1,19 +1,12 @@
----
-uid: Z-001-0585F
+---uid: Z-001-0585F
 type: zettel
-title: "IBD Genetic Predisposition"
+title: '"IBD Genetic Predisposition"'
 aliases: []
-  - Z-001-0585F
-  - IBD-Genetic-Predisposition
-  - Genetic-IBD-Predisposition
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - gastroenterology
-  - genetics
-parent-moc: "[[MOC-Gastroenterology]]"
-source-litnote: "[[CGPT_0209_Gastroenterology_Registrar_Assessment_L-001-0705]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Gastroenterology]]"'
+source-litnote: '"[[CGPT_0209_Gastroenterology_Registrar_Assessment_L-001-0705]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

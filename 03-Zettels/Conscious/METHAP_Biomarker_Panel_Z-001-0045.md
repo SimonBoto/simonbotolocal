@@ -1,16 +1,24 @@
----
-uid: Z-001-0045
+---uid: Z-001-0045
 type: zettel
 title: METHAP Biomarker Panel Integration
-aliases: [Z-001-0045, METHAP-Panel]
-domain: 001
+aliases:
+- '""Z-001-0045""'
+- '""METHAP-Panel""'
+domain: 1
 domain-name: Insulin Signaling
-tags: [zettel, METHAP, biomarker-panel, clinical-trial, integration]
-parent-moc: [[MOC-Insulin-Signaling]]
+tags:
+- '""zettel""'
+- '""METHAP""'
+- '""biomarker-panel""'
+- '""clinical-trial""'
+- '""integration""'
+parent-moc:
+- '""[''MOC-Insulin-Signaling'']""'
 confidence: high
 created: 2026-02-24
 source-litnote: Synthesized from clinical practice
 extraction-date: 2026-04-15
+status: conscious
 ---
 
 # METHAP  Panel Integration

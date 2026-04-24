@@ -1,14 +1,22 @@
----
-uid: Z-001-0556
+---uid: Z-001-0556
 type: zettel
 title: Metabolomics-Guided Personalization
-aliases: [Metabolomics, Organic-Acids, Personalization, Biomarkers]
-domain: 001
-tags: [zettel, metabolomics, organic-acids, personalization, biomarkers]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Metabolomics""'
+- '""Organic-Acids""'
+- '""Personalization""'
+- '""Biomarkers]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""metabolomics""'
+- '""organic-acids""'
+- '""personalization""'
+- '""biomarkers]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Mitochondrial_Health_Strategies_L-001-0511]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Mitochondrial_Health_Strategies_L-001-0511]'
+extraction-date: '2026-03-01'
 ---
 
 # -Guided Personalization

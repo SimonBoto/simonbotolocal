@@ -1,22 +1,12 @@
----
-uid: Z-001-0268
+---uid: Z-001-0268
 type: zettel
-title: "K2 Vascular Calcification Protection"
+title: '"K2 Vascular Calcification Protection"'
 aliases: []
-  - Z-001-0268
-  - K2-Vascular-Protection
-  - Vascular-Calcification-K2
-  - MGP-Activation
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - vitamin-k2
-  - vascular-health
-  - calcification
-  - MGP
-parent-moc: "[[MOC-Vitamin-D]]"
-source-litnote: "D-K2_Co-Supplementation_Clinical_Evidence_-Studies_L-001-0214_v4.0"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Vitamin-D]]"'
+source-litnote: '"D-K2_Co-Supplementation_Clinical_Evidence_-Studies_L-001-0214_v4.0"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

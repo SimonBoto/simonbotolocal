@@ -1,21 +1,12 @@
----
-uid: Z-001-0139
+---uid: Z-001-0139
 type: zettel
-title: "Drug Holiday Recommendations"
+title: '"Drug Holiday Recommendations"'
 aliases: []
-  - Z-001-0139
-  - Drug-Holiday
-  - Medication-Holiday
-  - Bisphosphonate-Holiday
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - drug-holiday
-  - medication-duration
-  - osteoporosis
-parent-moc: "[[MOC-Clinical-Metabolomics]]"
-source-litnote: "Medication_Duration_Guidelines_L-001-0045L_v4.0"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Clinical-Metabolomics]]"'
+source-litnote: '"Medication_Duration_Guidelines_L-001-0045L_v4.0"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

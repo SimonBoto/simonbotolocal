@@ -1,13 +1,23 @@
----
-uid: Z-002-0621
+---uid: Z-002-0621
 type: zettel
 title: METHAP PhD Data Export Structure — CSV Schema
-aliases: [Z-002-0621, PhD-Data-Export, METHAP-CSV, Data-Schema]
-domain: 002
-tags: [zettel, methap, phd, data-export, csv, schema, research-methods]
-parent-moc: [[MOC-PhD-Research]
+aliases:
+- '""[Z-002-0621""'
+- '""PhD-Data-Export""'
+- '""METHAP-CSV""'
+- '""Data-Schema]""'
+domain: 2
+tags:
+- '""[zettel""'
+- '""methap""'
+- '""phd""'
+- '""data-export""'
+- '""csv""'
+- '""schema""'
+- '""research-methods]""'
+parent-moc: '[[MOC-PhD-Research]'
 source-litnote: Extracted from Biochemical Report Template v2.0
-extraction-date: 2026-04-15
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

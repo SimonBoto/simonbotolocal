@@ -1,18 +1,24 @@
----
-uid: Z-001-0070
+---uid: Z-001-0070
 type: zettel
 title: Gordon 2008 Adolescent High Dose Protocol
-aliases: [Z-001-0070, Gordon-2008-Adolescent-VitD]
-domain: 001
+aliases:
+- '""[Z-001-0070""'
+- '""Gordon-2008-Adolescent-VitD]""'
+domain: 1
 domain-name: Insulin Signaling
-tags: [zettel, vitamin-d, Gordon-2008, adolescents, high-dose]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]
+tags:
+- '""[zettel""'
+- '""vitamin-d""'
+- '""Gordon-2008""'
+- '""adolescents""'
+- '""high-dose]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source: '[[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]'
 confidence: high
-created: 2026-03-01
+created: '2026-03-01'
 status: conscious
 source-litnote: legacy-no-source
-extraction-date: 2026-04-15
+extraction-date: '2026-04-15'
 ---
 
 # Gordon 2008 — Adolescent High-Dose  Protocol

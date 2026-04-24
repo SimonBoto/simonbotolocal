@@ -1,24 +1,13 @@
----
-uid: Z-001-0511
+---uid: Z-001-0511
 type: zettel
 title: Framingham Reassessment — Cholesterol Hypothesis Evolution
 aliases: []
-  - Framingham
-  - Cholesterol-Hypothesis
-  - Reassessment
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - framingham
-  - cholesterol
-  - hypothesis
-  - reassessment
-parent-moc:
-  - - MOC-Insulin-Signaling
 status: conscious
-source-litnote: "[[CGPT_0337_Cholesterol_Study_Reassessment_Overview_L-001-0714]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0337_Cholesterol_Study_Reassessment_Overview_CGPT-0337]]"
-extraction-date: 2026-03-01
+source-litnote: '"[[CGPT_0337_Cholesterol_Study_Reassessment_Overview_L-001-0714]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0337_Cholesterol_Study_Reassessment_Overview_CGPT-0337]]"'
+extraction-date: '2026-03-01'
 ---
 
 # Framingham Reassessment —  Hypothesis 

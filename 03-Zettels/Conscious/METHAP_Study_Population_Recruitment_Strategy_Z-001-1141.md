@@ -1,16 +1,23 @@
----
-uid: Z-001-1141
+---uid: Z-001-1141
 type: zettel
 title: METHAP Study Population Recruitment Strategy
-aliases: [Z-001-1141, METHAP-Population]
-domain: 001
+aliases:
+- '""[Z-001-1141""'
+- '""METHAP-Population]""'
+domain: 1
 domain-name: PhD Research
-tags: [zettel, methap, study-design, recruitment, population]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_PhD_Study_Design_METHAP_L-001-0615]
-extraction-date: 2026-04-15
+tags:
+- '""[zettel""'
+- '""methap""'
+- '""study-design""'
+- '""recruitment""'
+- '""population]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source-litnote: '[[LitNote_PhD_Study_Design_METHAP_L-001-0615]'
+extraction-date: '2026-04-15'
 confidence: high
-created: 2026-03-08
+created: '2026-03-08'
+status: conscious
 ---
 
 source-litnote: "[[CGPT_0475_Metabolic_Biomarkers_for_Insulin_L-001-0709]]"

@@ -1,14 +1,20 @@
----
-uid: Z-001-0201
+---uid: Z-001-0201
 type: zettel
 title: Metabolic Syndrome — Epidemiology and Global Prevalence
-aliases: [MetS-Epidemiology, Metabolic-Syndrome-Prevalence]
-domain: 001
-tags: [zettel, metabolic-syndrome, epidemiology, prevalence, public-health]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[MetS-Epidemiology""'
+- '""Metabolic-Syndrome-Prevalence]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""metabolic-syndrome""'
+- '""epidemiology""'
+- '""prevalence""'
+- '""public-health]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Metabolic_Syndrome_Overview_L-001-0200]'
+extraction-date: '2026-03-01'
 ---
 
 #  — Epidemiology and Global Prevalence

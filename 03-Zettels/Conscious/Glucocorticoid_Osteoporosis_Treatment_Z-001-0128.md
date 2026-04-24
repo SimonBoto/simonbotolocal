@@ -1,21 +1,12 @@
----
-uid: Z-001-0128
+---uid: Z-001-0128
 type: zettel
-title: "Glucocorticoid Osteoporosis Treatment"
+title: '"Glucocorticoid Osteoporosis Treatment"'
 aliases: []
-  - Z-001-0128
-  - Glucocorticoid_Treatment_Monitoring_Outcomes
-  - GIOP_Treatment
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - glucocorticoid
-  - osteoporosis
-  - treatment
-  - GIOP
-parent-moc: "[[MOC-Clinical-Metabolomics]]"
-source-litnote: "[[Glucocorticoid-Induced_Osteoporosis_L-001-0045K_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Clinical-Metabolomics]]"'
+source-litnote: '"[[Glucocorticoid-Induced_Osteoporosis_L-001-0045K_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

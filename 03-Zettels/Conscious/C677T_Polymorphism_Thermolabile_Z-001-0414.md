@@ -1,14 +1,21 @@
----
-uid: Z-001-0414
+---uid: Z-001-0414
 type: zettel
 title: C677T Polymorphism — Thermolabile Variant
-aliases: [C677T, Thermolabile, MTHFR-Variant]
-domain: 001
-tags: [zettel, c677t, polymorphism, mthfr, thermolabile]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""""[C677T""""'
+- '""""Thermolabile""""'
+- '""""MTHFR-Variant]""""'
+domain: 1
+tags:
+- '""""[zettel""""'
+- '""""c677t""""'
+- '""""polymorphism""""'
+- '""""mthfr""""'
+- '""""thermolabile]""""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_MTHFR_Genetics_L-001-0403]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_MTHFR_Genetics_L-001-0403]'
+extraction-date: '2026-03-01'
 ---
 
 # C677T Polymorphism — Thermolabile Variant

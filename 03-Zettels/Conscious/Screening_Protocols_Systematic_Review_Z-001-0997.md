@@ -1,13 +1,22 @@
----
-uid: Z-001-0997
+---uid: Z-001-0997
 type: zettel
 title: Screening Protocols for Systematic Reviews — Dual Review and Conflict Resolution
-aliases: [Z-001-0997]
-domain: 001
-tags: [zettel, systematic-review, screening, inclusion-criteria, exclusion-criteria, dual-review, rayyan, covidence, inter-rater-reliability, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-extraction-date: 2026-03-07
-source-litnote: [[LitNote_Meta_Analysis_Methodology_L-001-0580]
+aliases: '[Z-001-0997]'
+domain: 1
+tags:
+- '"[zettel"'
+- '"systematic-review"'
+- '"screening"'
+- '"inclusion-criteria"'
+- '"exclusion-criteria"'
+- '"dual-review"'
+- '"rayyan"'
+- '"covidence"'
+- '"inter-rater-reliability"'
+- '"conscious]"'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+extraction-date: '2026-03-07'
+source-litnote: '[[LitNote_Meta_Analysis_Methodology_L-001-0580]'
 status: conscious
 ---
 

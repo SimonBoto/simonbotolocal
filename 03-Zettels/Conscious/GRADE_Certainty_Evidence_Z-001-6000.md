@@ -1,13 +1,21 @@
----
-uid: Z-001-1001
+---uid: Z-001-1001
 type: zettel
 title: GRADE Approach — Rating Certainty of Evidence in Systematic Reviews
-aliases: [Z-001-1001]
-domain: 001
-tags: [zettel, grade, certainty-of-evidence, systematic-review, recommendations, confidence, downgrade, upgrade, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-extraction-date: 2026-03-07
-source-litnote: [[LitNote_Meta_Analysis_Methodology_L-001-0580]
+aliases: '[Z-001-1001]'
+domain: 1
+tags:
+- '""[zettel""'
+- '""grade""'
+- '""certainty-of-evidence""'
+- '""systematic-review""'
+- '""recommendations""'
+- '""confidence""'
+- '""downgrade""'
+- '""upgrade""'
+- '""conscious]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+extraction-date: '2026-03-07'
+source-litnote: '[[LitNote_Meta_Analysis_Methodology_L-001-0580]'
 status: conscious
 ---
 

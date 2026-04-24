@@ -1,19 +1,12 @@
----
-uid: Z-001-0585L
+---uid: Z-001-0585L
 type: zettel
-title: "IBD Medical Therapy"
+title: '"IBD Medical Therapy"'
 aliases: []
-  - Z-001-0585L
-  - IBD-Medical-Therapy
-  - Medical-Therapy-IBD
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - gastroenterology
-  - therapeutics
-parent-moc: "[[MOC-Gastroenterology]]"
-source-litnote: "[[CGPT_0209_Gastroenterology_Registrar_Assessment_L-001-0705]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Gastroenterology]]"'
+source-litnote: '"[[CGPT_0209_Gastroenterology_Registrar_Assessment_L-001-0705]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

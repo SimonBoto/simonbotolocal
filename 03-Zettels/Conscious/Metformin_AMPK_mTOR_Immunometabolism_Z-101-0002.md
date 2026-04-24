@@ -1,16 +1,26 @@
----
-uid: Z-101-0002
+---uid: Z-101-0002
 type: zettel
 title: Metformin AMPK mTOR Immunometabolism
-aliases: [Z-101-0002, Metformin-AMPK, mTOR-Immunometabolism]
+aliases:
+- '""Z-101-0002""'
+- '""Metformin-AMPK""'
+- '""mTOR-Immunometabolism""'
 domain: 101
 domain-name: Pharmacometabolomics
-tags: [zettel, metformin, AMPK, mTOR, immunometabolism, inflammation]
-parent-moc: [[MOC-Mitochondrial-Function]]
+tags:
+- '""zettel""'
+- '""metformin""'
+- '""AMPK""'
+- '""mTOR""'
+- '""immunometabolism""'
+- '""inflammation""'
+parent-moc:
+- '""[''MOC-Mitochondrial-Function'']""'
 confidence: high
 created: 2026-02-24
 source-litnote: Synthesized from clinical practice
 extraction-date: 2026-04-15
+status: conscious
 ---
 
 # Metformin AMPK mTOR Immuno

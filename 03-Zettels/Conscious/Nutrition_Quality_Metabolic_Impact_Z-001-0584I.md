@@ -1,19 +1,12 @@
----
-uid: Z-001-0584I
+---uid: Z-001-0584I
 type: zettel
-title: "Nutrition Quality and Metabolic Impact"
+title: '"Nutrition Quality and Metabolic Impact"'
 aliases: []
-  - Z-001-0584I
-  - Nutrition-Quality
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - metabolic
-  - nutrition
-  - quality
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
-source-litnote: "[[CGPT_0124_Profound_Truths_Revolutionizing_Health_L-001-0706]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Metabolic-Syndrome]]"'
+source-litnote: '"[[CGPT_0124_Profound_Truths_Revolutionizing_Health_L-001-0706]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

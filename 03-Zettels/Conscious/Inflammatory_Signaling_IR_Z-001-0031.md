@@ -1,16 +1,24 @@
----
-uid: Z-001-0031
+---uid: Z-001-0031
 type: zettel
 title: Inflammatory Signaling in Insulin Resistance
-aliases: [Z-001-0031, Inflammation-IR-Signaling]
-domain: 001
+aliases:
+- '""[Z-001-0031""'
+- '""Inflammation-IR-Signaling]""'
+domain: 1
 domain-name: Insulin Signaling
-tags: [zettel, inflammation, cytokines, TLR4, NF-kB, insulin-resistance]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[LitNote_IR_Mechanisms_Map_L-001-0005]
-source-litnote: "[[Synthetic_Insulin_Resistance_Pathophysiology_L-001-0730]]"
+tags:
+- '""[zettel""'
+- '""inflammation""'
+- '""cytokines""'
+- '""TLR4""'
+- '""NF-kB""'
+- '""insulin-resistance]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source: '[[LitNote_IR_Mechanisms_Map_L-001-0005]'
+source-litnote: '"[[Synthetic_Insulin_Resistance_Pathophysiology_L-001-0730]]"'
 confidence: high
-created: 2026-02-24
+created: '2026-02-24'
+status: conscious
 ---
 
 # Inflammatory Signaling in  Resistance

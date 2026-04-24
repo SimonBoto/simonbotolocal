@@ -1,26 +1,13 @@
----
-uid: Z-001-0514
+---uid: Z-001-0514
 type: zettel
 title: Non-Statin Lipid-Lowering Options
 aliases: []
-  - Non-Statin
-  - Ezetimibe
-  - PCSK9
-  - Bempedoic-Acid
-  - Fibrate
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - non-statin
-  - ezetimibe
-  - pcsk9
-  - bempedoic-acid
-parent-moc:
-  - - MOC-Insulin-Signaling
 status: conscious
-source-litnote: "[[CGPT_0337_Cholesterol_Study_Reassessment_Overview_L-001-0714]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0337_Cholesterol_Study_Reassessment_Overview_CGPT-0337]]"
-extraction-date: 2026-03-01
+source-litnote: '"[[CGPT_0337_Cholesterol_Study_Reassessment_Overview_L-001-0714]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0337_Cholesterol_Study_Reassessment_Overview_CGPT-0337]]"'
+extraction-date: '2026-03-01'
 ---
 
 # Non-Statin Lipid-Lowering Options

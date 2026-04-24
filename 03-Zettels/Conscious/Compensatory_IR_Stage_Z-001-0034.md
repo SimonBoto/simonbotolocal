@@ -1,16 +1,25 @@
----
-uid: Z-001-0034
+---uid: Z-001-0034
 type: zettel
 title: Compensatory Insulin Resistance Stage
-aliases: [Z-001-0034, Compensatory-IR, Hidden-IR]
-domain: 001
+aliases:
+- '""""Z-001-0034""""'
+- '""""Compensatory-IR""""'
+- '""""Hidden-IR""""'
+domain: 1
 domain-name: Insulin Signaling
-tags: [zettel, compensatory-IR, hyperinsulinemia, early-detection, beta-cell]
-parent-moc: [[MOC-Insulin-Signaling]]
+tags:
+- '""""zettel""""'
+- '""""compensatory-IR""""'
+- '""""hyperinsulinemia""""'
+- '""""early-detection""""'
+- '""""beta-cell""""'
+parent-moc:
+- '""""[''MOC-Insulin-Signaling'']""""'
 confidence: high
 created: 2026-02-24
 source-litnote: Synthesized from clinical practice
 extraction-date: 2026-04-15
+status: conscious
 ---
 
 # Compensatory  Resistance Stage

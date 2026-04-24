@@ -1,28 +1,14 @@
----
-uid: Z-001-0478
+---uid: Z-001-0478
 type: zettel
 title: Propionate Metabolism and Gluconeogenesis
 aliases: []
-  - Z-001-0478
-  - Propionate
-  - SCFA
-  - Gluconeogenesis
-  - B12
-  - B7
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - propionate
-  - scfa
-  - gluconeogenesis
-  - b12
-  - biotin
-  - gut-microbiome
-parent-moc: "[[MOC-Glycolysis-PPP]]"
+parent-moc: '"[[MOC-Glycolysis-PPP]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-04
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-04'
 ---
 
 # Propionate Metabolism and Gluconeogenesis

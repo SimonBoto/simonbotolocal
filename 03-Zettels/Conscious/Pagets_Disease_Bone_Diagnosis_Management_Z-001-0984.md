@@ -1,13 +1,21 @@
----
-uid: Z-001-0984
+---uid: Z-001-0984
 type: zettel
 title: Paget's Disease of Bone — Diagnosis, ALP Patterns, and Management
-aliases: [Z-001-0984]
-domain: 001
-tags: [zettel, pagets-disease, bone, alp, alkaline-phosphatase, osteitis-deformans, bone-scan, bisphosphonates, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-extraction-date: 2026-03-07
-source-litnote: [[LitNote_Alkaline_Phosphatase_Overview_L-001-0576]
+aliases: '[Z-001-0984]'
+domain: 1
+tags:
+- '"""[zettel"""'
+- '"""pagets-disease"""'
+- '"""bone"""'
+- '"""alp"""'
+- '"""alkaline-phosphatase"""'
+- '"""osteitis-deformans"""'
+- '"""bone-scan"""'
+- '"""bisphosphonates"""'
+- '"""conscious]"""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+extraction-date: '2026-03-07'
+source-litnote: '[[LitNote_Alkaline_Phosphatase_Overview_L-001-0576]'
 status: conscious
 ---
 

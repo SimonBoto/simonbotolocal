@@ -1,27 +1,14 @@
----
-uid: Z-001-0473
+---uid: Z-001-0473
 type: zettel
 title: Fructose Metabolism and Lipogenesis
 aliases: []
-  - Z-001-0473
-  - Fructose
-  - Lipogenesis
-  - Liver
-  - Metabolic-Syndrome
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - fructose
-  - lipogenesis
-  - liver
-  - metabolic-syndrome
-  - nafld
-  - insulin-resistance
-parent-moc: "[[MOC-Glycolysis-PPP]]"
+parent-moc: '"[[MOC-Glycolysis-PPP]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-04
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-04'
 ---
 
 # Fructose Metabolism and Lipogenesis

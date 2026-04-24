@@ -1,17 +1,33 @@
----
-uid: Z-001-0914
+---uid: Z-001-0914
 type: zettel
-title: "Ketone Bodies — Alternative Fuel in Insulin Resistance and Diabetes"
-aliases: [Z-001-0914, Z-001-0014-deprecated, Ketone_Bodies, Ketogenesis, Acetoacetate, Beta_Hydroxybutyrate, Diabetes_Metabolism]
-domain: 001
+title: Ketone Bodies — Alternative Fuel in Insulin Resistance and Diabetes
+aliases:
+- '"""Z-001-0914"""'
+- '"""Z-001-0014-deprecated"""'
+- '"""Ketone_Bodies"""'
+- '"""Ketogenesis"""'
+- '"""Acetoacetate"""'
+- '"""Beta_Hydroxybutyrate"""'
+- '"""Diabetes_Metabolism"""'
+domain: 1
 domain-name: Systems-Biology-Metabolomics
-tags: [zettel, ketones, ketogenesis, insulin-resistance, diabetes, fatty-acid-oxidation, alternative-fuel, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
+tags:
+- '"""zettel"""'
+- '"""ketones"""'
+- '"""ketogenesis"""'
+- '"""insulin-resistance"""'
+- '"""diabetes"""'
+- '"""fatty-acid-oxidation"""'
+- '"""alternative-fuel"""'
+- '"""conscious"""'
+parent-moc:
+- '"""[''MOC-Insulin-Signaling'']"""'
 confidence: high
 created: 2026-02-23
 updated: 2026-03-05
 source-litnote: Synthesized from clinical practice
 extraction-date: 2026-04-15
+status: conscious
 ---
 
 # Ketone Bodies — Alternative Fuel in Insulin Resistance and Diabetes

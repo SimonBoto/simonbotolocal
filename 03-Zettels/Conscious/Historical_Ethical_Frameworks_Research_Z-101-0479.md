@@ -1,13 +1,20 @@
----
-uid: Z-101-0479
+---uid: Z-101-0479
 type: zettel
 title: Historical Ethical Frameworks for Research
-aliases: [Z-101-0479]
+aliases: '[Z-101-0479]'
 domain: 101
-tags: [zettel, research-ethics, nuremberg-code, helsinki-declaration, belmont-report, cioms, history, conscious]
-parent-moc: [[MOC-Research-Ethics]]
-source-litnote: [[LitNote_CGPT_0131_Medical_Ethics_L-101-0050.md]
-extraction-date: 2026-04-15
+tags:
+- '""[zettel""'
+- '""research-ethics""'
+- '""nuremberg-code""'
+- '""helsinki-declaration""'
+- '""belmont-report""'
+- '""cioms""'
+- '""history""'
+- '""conscious]""'
+parent-moc: '"[[MOC-Research-Ethics]]"'
+source-litnote: '[[LitNote_CGPT_0131_Medical_Ethics_L-101-0050.md]'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

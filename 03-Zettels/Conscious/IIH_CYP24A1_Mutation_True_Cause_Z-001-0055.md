@@ -1,18 +1,25 @@
----
-uid: Z-001-0055
+---uid: Z-001-0055
 type: zettel
 title: IIH CYP24A1 Mutation True Cause of Hypercalcemia
-aliases: [Z-001-0055, IIH-CYP24A1-Hypercalcemia]
-domain: 001
+aliases:
+- '""[Z-001-0055""'
+- '""IIH-CYP24A1-Hypercalcemia]""'
+domain: 1
 domain-name: Insulin Signaling
-tags: [zettel, vitamin-d, genetics, CYP24A1, IIH, hypercalcemia]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]
+tags:
+- '""[zettel""'
+- '""vitamin-d""'
+- '""genetics""'
+- '""CYP24A1""'
+- '""IIH""'
+- '""hypercalcemia]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source: '[[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]'
 confidence: high
-created: 2026-03-01
+created: '2026-03-01'
 status: conscious
 source-litnote: legacy-no-source
-extraction-date: 2026-04-15
+extraction-date: '2026-04-15'
 ---
 
 # IIH CYP24A1 Mutation — True Cause of " Toxicity"

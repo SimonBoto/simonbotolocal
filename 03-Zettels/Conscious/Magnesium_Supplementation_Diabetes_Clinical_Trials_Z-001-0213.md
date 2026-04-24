@@ -1,14 +1,22 @@
----
-uid: Z-001-0213
+---uid: Z-001-0213
 type: zettel
 title: Magnesium Supplementation — Clinical Trials in Diabetes and Metabolic Syndrome
-aliases: [Mg-Supplementation-Trials, Magnesium-Clinical-Trials, Mg-Intervention]
-domain: 001
-tags: [zettel, magnesium, clinical-trials, supplementation, diabetes, metabolic-syndrome]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Mg-Supplementation-Trials""'
+- '""Magnesium-Clinical-Trials""'
+- '""Mg-Intervention]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""magnesium""'
+- '""clinical-trials""'
+- '""supplementation""'
+- '""diabetes""'
+- '""metabolic-syndrome]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Magnesium_IR_Diabetes_L-001-0201b]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Magnesium_IR_Diabetes_L-001-0201b]'
+extraction-date: '2026-03-01'
 ---
 
 #  Supplementation — Clinical Trials in  and Metabolic Syndrome

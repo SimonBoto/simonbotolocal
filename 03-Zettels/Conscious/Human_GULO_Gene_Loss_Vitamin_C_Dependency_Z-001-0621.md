@@ -1,16 +1,24 @@
----
-uid: Z-001-0621
+---uid: Z-001-0621
 type: zettel
-title: "Human GULO Gene Loss Vitamin C Dependency"
-aliases: [Z-001-0621]
-domain: 001
-tags: [zettel, gulo, vitamin-c, evolution, genetics, pseudogene, conscious]
-parent-index: [[03-Zettels-Conscious]]
-parent-moc: [[MOC-Genetic-Variation]]
-related: [[Pauling_Scientific_Credentials_Vitamin_C_Z-001-0620]], [[Vitamin_C_Evolutionary_Mismatch_Modern_Diet_Z-001-0624]]
+title: '"Human GULO Gene Loss Vitamin C Dependency"'
+aliases: '[Z-001-0621]'
+domain: 1
+tags:
+- '""[zettel""'
+- '""gulo""'
+- '""vitamin-c""'
+- '""evolution""'
+- '""genetics""'
+- '""pseudogene""'
+- '""conscious]""'
+parent-index: '[[03-Zettels-Conscious]]'
+parent-moc: '"[[MOC-Genetic-Variation]]"'
+related:
+- '""[[Pauling_Scientific_Credentials_Vitamin_C_Z-001-0620]]""'
+- '""[[Vitamin_C_Evolutionary_Mismatch_Modern_Diet_Z-001-0624]]""'
 status: conscious
 source-litnote: legacy-no-source
-extraction-date: 2026-04-15
+extraction-date: '2026-04-15'
 ---
 
 # Human GULO Gene Loss Vitamin C Dependency

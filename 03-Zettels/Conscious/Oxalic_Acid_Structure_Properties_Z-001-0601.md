@@ -1,15 +1,24 @@
----
-uid: Z-001-0601
+---uid: Z-001-0601
 type: zettel
 title: Oxalic Acid Structure and Properties
-aliases: [Z-001-0601, oxalic-acid, dicarboxylic-acid, ethanedioic-acid]
-domain: 001
-tags: [zettel, oxalic-acid, dicarboxylic-acid, chemistry, structure]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[L-001-0060A]
-source-litnote: "[[Synthetic_Oxalate_Metabolism_L-001-0729]]"
+aliases:
+- '""[Z-001-0601""'
+- '""oxalic-acid""'
+- '""dicarboxylic-acid""'
+- '""ethanedioic-acid]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""oxalic-acid""'
+- '""dicarboxylic-acid""'
+- '""chemistry""'
+- '""structure]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source: '[[L-001-0060A]'
+source-litnote: '"[[Synthetic_Oxalate_Metabolism_L-001-0729]]"'
 confidence: high
-created: 2026-03-04
+created: '2026-03-04'
+status: conscious
 ---
 
 # Oxalic Acid Structure and Properties

@@ -1,16 +1,24 @@
----
-uid: Z-101-0001
+---uid: Z-101-0001
 type: zettel
 title: Pharmacometabolomics Framework and Metabotypes
-aliases: [Z-101-0001, Pharmacometabolomics, Metabotypes]
+aliases:
+- '""Z-101-0001""'
+- '""Pharmacometabolomics""'
+- '""Metabotypes""'
 domain: 101
 domain-name: Pharmacometabolomics
-tags: [zettel, pharmacometabolomics, metabotypes, precision-medicine, drug-response]
+tags:
+- '""zettel""'
+- '""pharmacometabolomics""'
+- '""metabotypes""'
+- '""precision-medicine""'
+- '""drug-response""'
 parent-moc: MOC-Gut-Microbiome
 confidence: high
 created: 2026-02-24
 source-litnote: Synthesized from clinical practice
 extraction-date: 2026-04-15
+status: conscious
 ---
 
 # Pharmaco Framework and Metabotypes

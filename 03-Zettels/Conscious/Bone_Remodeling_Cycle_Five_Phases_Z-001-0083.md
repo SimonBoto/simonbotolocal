@@ -1,18 +1,22 @@
----
-uid: Z-001-0083
+---uid: Z-001-0083
 type: zettel
 title: Bone Remodeling Cycle Five Phases
-aliases: [Z-001-0083, Bone_Remodeling_Cycle_Five_Phases]
-domain: 001
+aliases:
+- '""""[Z-001-0083""""'
+- '""""Bone_Remodeling_Cycle_Five_Phases]""""'
+domain: 1
 domain-name: Insulin Signaling
-tags: [zettel, bone-health, cellular-mechanisms]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[LitNote_Bone_Remodeling_Cellular_Mechanisms_L-001-0011]
+tags:
+- '""""[zettel""""'
+- '""""bone-health""""'
+- '""""cellular-mechanisms]""""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source: '[[LitNote_Bone_Remodeling_Cellular_Mechanisms_L-001-0011]'
 confidence: high
-created: 2026-03-01
+created: '2026-03-01'
 status: conscious
 source-litnote: legacy-no-source
-extraction-date: 2026-04-15
+extraction-date: '2026-04-15'
 ---
 
 # Bone Remodeling Cycle Five Phases

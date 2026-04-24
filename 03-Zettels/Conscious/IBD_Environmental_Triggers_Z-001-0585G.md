@@ -1,19 +1,12 @@
----
-uid: Z-001-0585G
+---uid: Z-001-0585G
 type: zettel
-title: "IBD Environmental Triggers"
+title: '"IBD Environmental Triggers"'
 aliases: []
-  - Z-001-0585G
-  - IBD-Environmental-Triggers
-  - Environmental-IBD-Triggers
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - gastroenterology
-  - environment
-parent-moc: "[[MOC-Gastroenterology]]"
-source-litnote: "[[CGPT_0209_Gastroenterology_Registrar_Assessment_L-001-0705]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Gastroenterology]]"'
+source-litnote: '"[[CGPT_0209_Gastroenterology_Registrar_Assessment_L-001-0705]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

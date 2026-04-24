@@ -1,14 +1,21 @@
----
-uid: Z-001-0407
+---uid: Z-001-0407
 type: zettel
 title: SAM Synthesis — Universal Methyl Donor
-aliases: [SAM, S-Adenosylmethionine, Methyl-Donor]
-domain: 001
-tags: [zettel, sam, methionine, methyl-donor, methylation]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '"[SAM"'
+- '"S-Adenosylmethionine"'
+- '"Methyl-Donor]"'
+domain: 1
+tags:
+- '"[zettel"'
+- '"sam"'
+- '"methionine"'
+- '"methyl-donor"'
+- '"methylation]"'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Methylation_Cycle_L-001-0402]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Methylation_Cycle_L-001-0402]'
+extraction-date: '2026-03-01'
 ---
 
 # SAM Synthesis — Universal Methyl Donor

@@ -1,13 +1,20 @@
----
-uid: Z-001-0976
+---uid: Z-001-0976
 type: zettel
 title: Carbohydrate Context Modifies Renal Hemodynamics — High-Carb vs Low-Carb High-Protein
-aliases: [Z-001-0976]
-domain: 001
-tags: [zettel, carbohydrate-context, renal-hemodynamics, insulin, ketones, hyperfiltration, ckd, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-extraction-date: 2026-03-07
-source-litnote: [[LitNote_Carbohydrate_Context_Protein_CKD_L-001-0574]
+aliases: '[Z-001-0976]'
+domain: 1
+tags:
+- '""""[zettel""""'
+- '""""carbohydrate-context""""'
+- '""""renal-hemodynamics""""'
+- '""""insulin""""'
+- '""""ketones""""'
+- '""""hyperfiltration""""'
+- '""""ckd""""'
+- '""""conscious]""""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+extraction-date: '2026-03-07'
+source-litnote: '[[LitNote_Carbohydrate_Context_Protein_CKD_L-001-0574]'
 status: conscious
 ---
 

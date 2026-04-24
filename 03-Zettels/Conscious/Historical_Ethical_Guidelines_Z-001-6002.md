@@ -1,13 +1,21 @@
----
-uid: Z-001-1003
+---uid: Z-001-1003
 type: zettel
 title: Historical Ethical Guidelines — Nuremberg Code to Declaration of Helsinki
-aliases: [Z-001-1003]
-domain: 001
-tags: [zettel, research-ethics, history, nuremberg-code, declaration-helsinki, belmont-report, nazi-experiments, informed-consent, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-extraction-date: 2026-03-07
-source-litnote: [[LitNote_Medical_Ethics_Clinical_Research_L-001-0581]
+aliases: '[Z-001-1003]'
+domain: 1
+tags:
+- '""[zettel""'
+- '""research-ethics""'
+- '""history""'
+- '""nuremberg-code""'
+- '""declaration-helsinki""'
+- '""belmont-report""'
+- '""nazi-experiments""'
+- '""informed-consent""'
+- '""conscious]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+extraction-date: '2026-03-07'
+source-litnote: '[[LitNote_Medical_Ethics_Clinical_Research_L-001-0581]'
 status: conscious
 ---
 

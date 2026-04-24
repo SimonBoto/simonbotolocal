@@ -1,27 +1,14 @@
----
-uid: Z-001-0465
+---uid: Z-001-0465
 type: zettel
 title: Nucleobase Phosphorylation — Nucleotide Formation
 aliases: []
-  - Z-001-0465
-  - Nucleobase
-  - Phosphorylation
-  - Nucleotide
-  - ATP
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - phosphorylation
-  - nucleotides
-  - nucleosides
-  - atp
-  - camp
-  - signaling
-parent-moc: "[[MOC-Metabolic-Pathways]]"
+parent-moc: '"[[MOC-Metabolic-Pathways]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-04
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-04'
 ---
 
 # Nucleobase Phosphorylation — Nucleotide Formation

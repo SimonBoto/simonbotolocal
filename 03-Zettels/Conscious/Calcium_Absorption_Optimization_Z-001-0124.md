@@ -1,22 +1,12 @@
----
-uid: Z-001-0124
+---uid: Z-001-0124
 type: zettel
-title: "Calcium Absorption Optimization"
+title: '"Calcium Absorption Optimization"'
 aliases: []
-  - Z-001-0124
-  - Calcium-Absorption
-  - Absorption-Optimization
-  - Ca-Optimization
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - calcium
-  - absorption
-  - optimization
-  - bioavailability
-parent-moc: "[[MOC-Bone-Health]]"
-source-litnote: "[[Vitamin_D_and_Calcium_Supplementation_L-001-0045O_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Bone-Health]]"'
+source-litnote: '"[[Vitamin_D_and_Calcium_Supplementation_L-001-0045O_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

@@ -1,19 +1,12 @@
----
-uid: Z-001-0584N
+---uid: Z-001-0584N
 type: zettel
-title: "Metabolic Health Patient Education"
+title: '"Metabolic Health Patient Education"'
 aliases: []
-  - Z-001-0584N
-  - Patient-Education
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - metabolic
-  - education
-  - patient
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
-source-litnote: "[[CGPT_0124_Profound_Truths_Revolutionizing_Health_L-001-0706]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Metabolic-Syndrome]]"'
+source-litnote: '"[[CGPT_0124_Profound_Truths_Revolutionizing_Health_L-001-0706]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

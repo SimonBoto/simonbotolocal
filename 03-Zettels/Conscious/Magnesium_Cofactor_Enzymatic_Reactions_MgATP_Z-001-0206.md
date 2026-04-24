@@ -1,14 +1,22 @@
----
-uid: Z-001-0206
+---uid: Z-001-0206
 type: zettel
 title: Magnesium as Cofactor — Enzymatic Reactions and Mg-ATP Complex
-aliases: [Mg-Cofactor, MgATP, Magnesium-Enzymes]
-domain: 001
-tags: [zettel, magnesium, biochemistry, cofactor, ATP, enzymes]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Mg-Cofactor""'
+- '""MgATP""'
+- '""Magnesium-Enzymes]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""magnesium""'
+- '""biochemistry""'
+- '""cofactor""'
+- '""ATP""'
+- '""enzymes]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Magnesium_Biochemistry_L-001-0201a]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Magnesium_Biochemistry_L-001-0201a]'
+extraction-date: '2026-03-01'
 ---
 
 # Magnesium as Cofactor — Enzymatic Reactions and Mg-ATP Complex

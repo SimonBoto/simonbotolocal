@@ -1,19 +1,12 @@
----
-uid: Z-001-0242
+---uid: Z-001-0242
 type: zettel
-title: "Diabetes Classification History"
+title: '"Diabetes Classification History"'
 aliases: []
-  - Z-001-0242
-  - Diabetes-Classification-History
-  - Type-1-Type-2-Evolution
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - diabetes-history
-  - classification
-parent-moc: "[[MOC-Glucose-History]]"
-source-litnote: "[[History_of_Glucose_Discovery_and_Metabolic_Underst_L-001-0208_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Glucose-History]]"'
+source-litnote: '"[[History_of_Glucose_Discovery_and_Metabolic_Underst_L-001-0208_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

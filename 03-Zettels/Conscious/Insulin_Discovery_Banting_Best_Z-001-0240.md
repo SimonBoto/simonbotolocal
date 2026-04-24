@@ -1,19 +1,12 @@
----
-uid: Z-001-0240
+---uid: Z-001-0240
 type: zettel
-title: "Insulin Discovery: Banting and Best"
+title: '"Insulin Discovery: Banting and Best"'
 aliases: []
-  - Z-001-0240
-  - Banting-Best-Insulin
-  - Insulin-Discovery-1921
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - insulin-history
-  - diabetes-history
-parent-moc: "[[MOC-Glucose-History]]"
-source-litnote: "[[History_of_Glucose_Discovery_and_Metabolic_Underst_L-001-0208_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Glucose-History]]"'
+source-litnote: '"[[History_of_Glucose_Discovery_and_Metabolic_Underst_L-001-0208_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

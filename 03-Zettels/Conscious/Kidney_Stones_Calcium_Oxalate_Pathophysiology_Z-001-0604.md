@@ -1,15 +1,24 @@
----
-uid: Z-001-0604
+---uid: Z-001-0604
 type: zettel
 title: Kidney Stones — Calcium Oxalate Pathophysiology
-aliases: [Z-001-0604, kidney-stones, nephrolithiasis, calcium-oxalate]
-domain: 001
-tags: [zettel, kidney-stones, oxalate, hyperoxaluria, urolithiasis]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[L-001-0060A]
-source-litnote: "[[Synthetic_Oxalate_Metabolism_L-001-0729]]"
+aliases:
+- '""[Z-001-0604""'
+- '""kidney-stones""'
+- '""nephrolithiasis""'
+- '""calcium-oxalate]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""kidney-stones""'
+- '""oxalate""'
+- '""hyperoxaluria""'
+- '""urolithiasis]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source: '[[L-001-0060A]'
+source-litnote: '"[[Synthetic_Oxalate_Metabolism_L-001-0729]]"'
 confidence: high
-created: 2026-03-04
+created: '2026-03-04'
+status: conscious
 ---
 
 # Kidney Stones —   Pathophysiology

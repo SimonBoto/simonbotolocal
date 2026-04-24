@@ -1,22 +1,12 @@
----
-uid: Z-001-0267
+---uid: Z-001-0267
 type: zettel
-title: "Menaquinone-7 Pharmacokinetics"
+title: '"Menaquinone-7 Pharmacokinetics"'
 aliases: []
-  - Z-001-0267
-  - MK-7-Pharmacokinetics
-  - Menaquinone-7-PK
-  - Vitamin-K2-PK
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - vitamin-k2
-  - menaquinone-7
-  - pharmacokinetics
-  - bioavailability
-parent-moc: "[[MOC-Vitamin-D]]"
-source-litnote: "D-K2_Co-Supplementation_Clinical_Evidence_-Studies_L-001-0214_v4.0"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Vitamin-D]]"'
+source-litnote: '"D-K2_Co-Supplementation_Clinical_Evidence_-Studies_L-001-0214_v4.0"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

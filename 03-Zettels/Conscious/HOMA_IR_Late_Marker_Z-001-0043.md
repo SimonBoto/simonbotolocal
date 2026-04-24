@@ -1,16 +1,25 @@
----
-uid: Z-001-0043
-type: zettel-claim
+---uid: Z-001-0043
+type: zettel
 title: HOMA-IR is a Late Marker Despite Its Name
-aliases: [Z-001-0043, HOMA-IR-Limitations]
-domain: 001
+aliases:
+- '""""Z-001-0043""""'
+- '""""HOMA-IR-Limitations""""'
+domain: 1
 domain-name: Insulin Signaling
-tags: [zettel, HOMA-IR, limitations, late-marker, early-detection, claim]
-parent-moc: [[MOC-Insulin-Signaling]]
+tags:
+- '""""zettel""""'
+- '""""HOMA-IR""""'
+- '""""limitations""""'
+- '""""late-marker""""'
+- '""""early-detection""""'
+- '""""claim""""'
+parent-moc:
+- '""""[''MOC-Insulin-Signaling'']""""'
 confidence: high
 created: 2026-02-24
 source-litnote: Synthesized from clinical practice
 extraction-date: 2026-04-15
+status: conscious
 ---
 
 # HOMA-IR is a Late Marker Despite Its Name

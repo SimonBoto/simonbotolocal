@@ -1,16 +1,29 @@
----
-uid: Z-001-0564
-type: zettel-claim
-title: "Omega-6:Omega-3 Ratio and Inflammatory Potential"
-aliases: [Z-001-0564, Omega6 Omega3 Balance, Inflammatory Eicosanoids, Fatty Acid Ratio]
-domain: 001
+---uid: Z-001-0564
+type: zettel
+title: Omega-6:Omega-3 Ratio and Inflammatory Potential
+aliases:
+- '""Z-001-0564""'
+- '""Omega6 Omega3 Balance""'
+- '""Inflammatory Eicosanoids""'
+- '""Fatty Acid Ratio""'
+domain: 1
 domain-name: Nutrition
-tags: [zettel, claim, omega-6, omega-3, inflammation, eicosanoids, linoleic-acid, arachidonic-acid]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: "[[LitNote_Omega6_Poultry_Feed_Inflammatory_L-001-0517]"
-source-litnote: "[[Synthetic_Poultry_Fatty_Acid_Composition_L-001-0731]]"
+tags:
+- '""zettel""'
+- '""claim""'
+- '""omega-6""'
+- '""omega-3""'
+- '""inflammation""'
+- '""eicosanoids""'
+- '""linoleic-acid""'
+- '""arachidonic-acid""'
+parent-moc:
+- '""[''MOC-Insulin-Signaling'']""'
+source: '[[LitNote_Omega6_Poultry_Feed_Inflammatory_L-001-0517]'
+source-litnote: '"[[Synthetic_Poultry_Fatty_Acid_Composition_L-001-0731]]"'
 confidence: high
 created: 2026-03-03
+status: conscious
 ---
 
 # :Omega-3 Ratio and Inflammatory Potential

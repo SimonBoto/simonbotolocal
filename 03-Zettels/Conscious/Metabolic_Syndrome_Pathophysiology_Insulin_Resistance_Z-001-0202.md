@@ -1,14 +1,21 @@
----
-uid: Z-001-0202
+---uid: Z-001-0202
 type: zettel
 title: Metabolic Syndrome — Pathophysiology and Insulin Resistance
-aliases: [MetS-Pathophysiology, Insulin-Resistance-Mechanisms, MetS-Mechanisms]
-domain: 001
-tags: [zettel, metabolic-syndrome, pathophysiology, insulin-resistance, inflammation]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[MetS-Pathophysiology""'
+- '""Insulin-Resistance-Mechanisms""'
+- '""MetS-Mechanisms]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""metabolic-syndrome""'
+- '""pathophysiology""'
+- '""insulin-resistance""'
+- '""inflammation]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Metabolic_Syndrome_Overview_L-001-0200]'
+extraction-date: '2026-03-01'
 ---
 
 # Metabolic Syndrome — Pathophysiology and  Resistance

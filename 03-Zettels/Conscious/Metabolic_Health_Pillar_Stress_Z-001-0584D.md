@@ -1,19 +1,12 @@
----
-uid: Z-001-0584D
+---uid: Z-001-0584D
 type: zettel
-title: "Metabolic Health Pillar: Stress"
+title: '"Metabolic Health Pillar: Stress"'
 aliases: []
-  - Z-001-0584D
-  - Stress-Pillar
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - metabolic
-  - stress
-  - cortisol
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
-source-litnote: "[[CGPT_0124_Profound_Truths_Revolutionizing_Health_L-001-0706]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Metabolic-Syndrome]]"'
+source-litnote: '"[[CGPT_0124_Profound_Truths_Revolutionizing_Health_L-001-0706]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

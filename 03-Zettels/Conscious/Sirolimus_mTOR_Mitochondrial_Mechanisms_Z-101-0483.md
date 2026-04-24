@@ -1,13 +1,22 @@
----
-uid: Z-101-0483
+---uid: Z-101-0483
 type: zettel
 title: Sirolimus mTOR Mitochondrial Mechanisms
-aliases: [Z-101-0483]
+aliases: '[Z-101-0483]'
 domain: 101
-tags: [zettel, sirolimus, rapamycin, mtor, mitochondria, mitochondrial-biogenesis, oxphos, ros, autophagy, conscious]
-parent-moc: [[MOC-Mitochondrial-Function]]
-source-litnote: [[LitNote_CGPT_0189_Sirolimus_Diabetes_L-101-0053.md]
-extraction-date: 2026-04-15
+tags:
+- '"[zettel"'
+- '"sirolimus"'
+- '"rapamycin"'
+- '"mtor"'
+- '"mitochondria"'
+- '"mitochondrial-biogenesis"'
+- '"oxphos"'
+- '"ros"'
+- '"autophagy"'
+- '"conscious]"'
+parent-moc: '"[[MOC-Mitochondrial-Function]]"'
+source-litnote: '[[LitNote_CGPT_0189_Sirolimus_Diabetes_L-101-0053.md]'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

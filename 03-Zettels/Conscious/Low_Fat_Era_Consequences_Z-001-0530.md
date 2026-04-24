@@ -1,14 +1,20 @@
----
-uid: Z-001-0530
+---uid: Z-001-0530
 type: zettel
 title: Low-Fat Era Consequences
-aliases: [Low-Fat-Era, Obesity-Epidemic, Metabolic-Syndrome]
-domain: 001
-tags: [zettel, low-fat, obesity, metabolic-syndrome]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Low-Fat-Era""'
+- '""Obesity-Epidemic""'
+- '""Metabolic-Syndrome]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""low-fat""'
+- '""obesity""'
+- '""metabolic-syndrome]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]'
+extraction-date: '2026-03-01'
 ---
 
 # Low-Fat Era Consequences

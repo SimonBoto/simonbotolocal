@@ -1,22 +1,12 @@
----
-uid: Z-001-0134
+---uid: Z-001-0134
 type: zettel
-title: "Bone Turnover Marker Monitoring"
+title: '"Bone Turnover Marker Monitoring"'
 aliases: []
-  - Z-001-0134
-  - Bone_Turnover_Markers
-  - BTMs
-  - P1NP
-  - CTX
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - monitoring
-  - bone-turnover
-  - biomarkers
-parent-moc: "[[MOC-Clinical-Metabolomics]]"
-source-litnote: "[[Monitoring_and_Follow-Up_L-001-0045M_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Clinical-Metabolomics]]"'
+source-litnote: '"[[Monitoring_and_Follow-Up_L-001-0045M_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

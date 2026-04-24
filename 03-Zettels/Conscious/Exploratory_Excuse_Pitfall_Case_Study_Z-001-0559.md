@@ -1,16 +1,28 @@
----
-uid: Z-001-0559
-type: zettel-claim
+---uid: Z-001-0559
+type: zettel
 title: The Exploratory Excuse Pitfall — Case Study
-aliases: [Z-001-0559, Exploratory Excuse, Biomarker Overclaiming, Methodological Misrepresentation]
-domain: 001
+aliases:
+- '""Z-001-0559""'
+- '""Exploratory Excuse""'
+- '""Biomarker Overclaiming""'
+- '""Methodological Misrepresentation""'
+domain: 1
 domain-name: Research Methods
-tags: [zettel, claim, research-integrity, exploratory-excuse, biomarkers, case-study, publication-bias]
-parent-moc: [[MOC-Insulin-Signaling]]
+tags:
+- '""zettel""'
+- '""claim""'
+- '""research-integrity""'
+- '""exploratory-excuse""'
+- '""biomarkers""'
+- '""case-study""'
+- '""publication-bias""'
+parent-moc:
+- '""[''MOC-Insulin-Signaling'']""'
 confidence: high
 created: 2026-03-03
 source-litnote: Synthesized from clinical practice
 extraction-date: 2026-04-15
+status: conscious
 ---
 
 # The Exploratory Excuse Pitfall — Case Study

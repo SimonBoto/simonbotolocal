@@ -1,16 +1,23 @@
----
-uid: Z-001-1142
+---uid: Z-001-1142
 type: zettel
 title: METHAP Intervention Protocol Diet Supplements
-aliases: [Z-001-1142, METHAP-Intervention]
-domain: 001
+aliases:
+- '""[Z-001-1142""'
+- '""METHAP-Intervention]""'
+domain: 1
 domain-name: PhD Research
-tags: [zettel, methap, intervention, diet, supplements]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_PhD_Study_Design_METHAP_L-001-0615]
-extraction-date: 2026-04-15
+tags:
+- '""[zettel""'
+- '""methap""'
+- '""intervention""'
+- '""diet""'
+- '""supplements]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source-litnote: '[[LitNote_PhD_Study_Design_METHAP_L-001-0615]'
+extraction-date: '2026-04-15'
 confidence: high
-created: 2026-03-08
+created: '2026-03-08'
+status: conscious
 ---
 
 source-litnote: "[[CGPT_0475_Metabolic_Biomarkers_for_Insulin_L-001-0709]]"

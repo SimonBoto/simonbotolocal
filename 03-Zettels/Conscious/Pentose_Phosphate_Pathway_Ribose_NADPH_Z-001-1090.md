@@ -1,26 +1,14 @@
----
-uid: Z-001-1090
+---uid: Z-001-1090
 type: zettel
 title: Pentose Phosphate Pathway — Ribose and NADPH
 aliases: []
-  - Z-001-1090
-  - PPP
-  - Pentose-Phosphate-Pathway
-  - G6PD
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - ppp
-  - pentose
-  - ribose
-  - nadph
-  - g6pd
-  - antioxidant
-parent-moc: "[[MOC-Glycolysis-PPP]]"
+parent-moc: '"[[MOC-Glycolysis-PPP]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-08
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-08'
 ---
 
 # Pentose Phosphate Pathway — Ribose and NADPH

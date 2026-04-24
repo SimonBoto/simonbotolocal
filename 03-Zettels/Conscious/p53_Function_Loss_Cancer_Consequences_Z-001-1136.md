@@ -1,16 +1,23 @@
----
-uid: Z-001-1136
+---uid: Z-001-1136
 type: zettel
 title: p53 Function Loss Cancer Consequences
-aliases: [Z-001-1136, p53-Loss]
-domain: 001
+aliases:
+- '""[Z-001-1136""'
+- '""p53-Loss]""'
+domain: 1
 domain-name: Cancer Biology
-tags: [zettel, p53, tumor-suppressor, function-loss, consequences]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_TP53_Multiple_Myeloma_L-001-0613]
-extraction-date: 2026-04-15
+tags:
+- '""[zettel""'
+- '""p53""'
+- '""tumor-suppressor""'
+- '""function-loss""'
+- '""consequences]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source-litnote: '[[LitNote_TP53_Multiple_Myeloma_L-001-0613]'
+extraction-date: '2026-04-15'
 confidence: high
-created: 2026-03-08
+created: '2026-03-08'
+status: conscious
 ---
 
 source-litnote: "[[CGPT_0264_Warburg_Effect_and_Cancer_L-001-0704]]"

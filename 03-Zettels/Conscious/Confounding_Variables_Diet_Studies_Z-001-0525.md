@@ -1,14 +1,22 @@
----
-uid: Z-001-0525
+---uid: Z-001-0525
 type: zettel
 title: Confounding Variables in Diet Studies
-aliases: [Confounding, Smoking, SES, Sugar]
-domain: 001
-tags: [zettel, confounding, smoking, socioeconomic, sugar]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""""[Confounding""""'
+- '""""Smoking""""'
+- '""""SES""""'
+- '""""Sugar]""""'
+domain: 1
+tags:
+- '""""[zettel""""'
+- '""""confounding""""'
+- '""""smoking""""'
+- '""""socioeconomic""""'
+- '""""sugar]""""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Seven_Countries_Methodology_L-001-0504]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Seven_Countries_Methodology_L-001-0504]'
+extraction-date: '2026-03-01'
 ---
 
 # Confounding Variables in Diet Studies

@@ -1,16 +1,30 @@
----
-uid: Z-001-0563
+---uid: Z-001-0563
 type: zettel
 title: Egg Yolk Fatty Acid Profile — Diet Dependent
-aliases: [Z-001-0563, Egg Quality, Hen Diet, Omega-3 Eggs, Pasture Eggs]
-domain: 001
+aliases:
+- '""Z-001-0563""'
+- '""Egg Quality""'
+- '""Hen Diet""'
+- '""Omega-3 Eggs""'
+- '""Pasture Eggs""'
+domain: 1
 domain-name: Nutrition
-tags: [zettel, eggs, omega-6, omega-3, fatty-acids, hen-diet, pasture-raised, omega-3-enriched]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: "[[LitNote_Omega6_Poultry_Feed_Inflammatory_L-001-0517]"
-source-litnote: "[[Synthetic_Poultry_Fatty_Acid_Composition_L-001-0731]]"
+tags:
+- '""zettel""'
+- '""eggs""'
+- '""omega-6""'
+- '""omega-3""'
+- '""fatty-acids""'
+- '""hen-diet""'
+- '""pasture-raised""'
+- '""omega-3-enriched""'
+parent-moc:
+- '""[''MOC-Insulin-Signaling'']""'
+source: '[[LitNote_Omega6_Poultry_Feed_Inflammatory_L-001-0517]'
+source-litnote: '"[[Synthetic_Poultry_Fatty_Acid_Composition_L-001-0731]]"'
 confidence: high
 created: 2026-03-03
+status: conscious
 ---
 
 # Egg Yolk Fatty Acid Profile — Diet Dependent

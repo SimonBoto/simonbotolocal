@@ -1,19 +1,12 @@
----
-uid: Z-001-0584O
+---uid: Z-001-0584O
 type: zettel
-title: "Metabolic Health Outcomes Measurement"
+title: '"Metabolic Health Outcomes Measurement"'
 aliases: []
-  - Z-001-0584O
-  - Outcomes-Measurement
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - metabolic
-  - outcomes
-  - measurement
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
-source-litnote: "[[CGPT_0124_Profound_Truths_Revolutionizing_Health_L-001-0706]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Metabolic-Syndrome]]"'
+source-litnote: '"[[CGPT_0124_Profound_Truths_Revolutionizing_Health_L-001-0706]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

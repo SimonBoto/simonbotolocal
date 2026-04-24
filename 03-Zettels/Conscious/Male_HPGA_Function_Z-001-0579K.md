@@ -1,21 +1,12 @@
----
-uid: Z-001-0579K
+---uid: Z-001-0579K
 type: zettel
-title: "Male HPGA Function"
+title: '"Male HPGA Function"'
 aliases: []
-  - Z-001-0579K
-  - Male_HPGA
-  - Male_Hormones
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - endocrinology
-  - hpg
-  - male-health
-  - testosterone
-parent-moc: "[[MOC-Endocrinology]]"
-source-litnote: "[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Endocrinology]]"'
+source-litnote: '"[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

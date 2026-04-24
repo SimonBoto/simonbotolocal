@@ -1,19 +1,12 @@
----
-uid: Z-001-0584E
+---uid: Z-001-0584E
 type: zettel
-title: "Metabolic Health Pillar: Environment"
+title: '"Metabolic Health Pillar: Environment"'
 aliases: []
-  - Z-001-0584E
-  - Environment-Pillar
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - metabolic
-  - environment
-  - toxins
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
-source-litnote: "[[CGPT_0124_Profound_Truths_Revolutionizing_Health_L-001-0706]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Metabolic-Syndrome]]"'
+source-litnote: '"[[CGPT_0124_Profound_Truths_Revolutionizing_Health_L-001-0706]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

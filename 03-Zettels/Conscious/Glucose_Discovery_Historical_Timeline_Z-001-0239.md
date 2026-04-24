@@ -1,19 +1,12 @@
----
-uid: Z-001-0239
+---uid: Z-001-0239
 type: zettel
-title: "Glucose Discovery Historical Timeline"
+title: '"Glucose Discovery Historical Timeline"'
 aliases: []
-  - Z-001-0239
-  - Glucose-Discovery-Timeline
-  - Historical-Glucose-Timeline
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - glucose-history
-  - timeline
-parent-moc: "[[MOC-Glucose-History]]"
-source-litnote: "[[History_of_Glucose_Discovery_and_Metabolic_Underst_L-001-0208_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Glucose-History]]"'
+source-litnote: '"[[History_of_Glucose_Discovery_and_Metabolic_Underst_L-001-0208_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

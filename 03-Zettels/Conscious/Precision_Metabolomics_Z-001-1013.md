@@ -1,14 +1,22 @@
----
-parent-index: [[03-Zettels-Conscious]]
+---parent-index: '[[03-Zettels-Conscious]]'
 uid: Z-001-1013
 type: zettel
 title: Precision Metabolomics — Urine Organic Acids and Plasma Metabolite Profiling
-aliases: [Z-001-1013]
-domain: 001
-tags: [zettel, metabolomics, organic-acids, urine, plasma, precision-medicine, metabolic-profiling, functional-testing, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-extraction-date: 2026-03-07
-source-litnote: [[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]
+aliases: '[Z-001-1013]'
+domain: 1
+tags:
+- '""[zettel""'
+- '""metabolomics""'
+- '""organic-acids""'
+- '""urine""'
+- '""plasma""'
+- '""precision-medicine""'
+- '""metabolic-profiling""'
+- '""functional-testing""'
+- '""conscious]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+extraction-date: '2026-03-07'
+source-litnote: '[[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]'
 status: conscious
 ---
 parent-index: [[03-Zettels-Conscious]]

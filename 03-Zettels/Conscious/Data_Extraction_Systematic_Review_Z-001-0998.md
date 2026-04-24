@@ -1,13 +1,21 @@
----
-uid: Z-001-0998
+---uid: Z-001-0998
 type: zettel
 title: Data Extraction for Systematic Reviews — Forms, Software, and Missing Data
-aliases: [Z-001-0998]
-domain: 001
-tags: [zettel, systematic-review, data-extraction, extraction-form, covidence, distiller-sr, missing-data, pilot-testing, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-extraction-date: 2026-03-07
-source-litnote: [[LitNote_Meta_Analysis_Methodology_L-001-0580]
+aliases: '[Z-001-0998]'
+domain: 1
+tags:
+- '""[zettel""'
+- '""systematic-review""'
+- '""data-extraction""'
+- '""extraction-form""'
+- '""covidence""'
+- '""distiller-sr""'
+- '""missing-data""'
+- '""pilot-testing""'
+- '""conscious]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+extraction-date: '2026-03-07'
+source-litnote: '[[LitNote_Meta_Analysis_Methodology_L-001-0580]'
 status: conscious
 ---
 

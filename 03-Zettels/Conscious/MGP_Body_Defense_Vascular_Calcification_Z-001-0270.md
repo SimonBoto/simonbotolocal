@@ -1,14 +1,21 @@
----
-uid: Z-001-0270
+---uid: Z-001-0270
 type: zettel
 title: MGP — Body's Defense Against Vascular Calcification
-aliases: [MGP-Defense, Matrix-Gla-Protein, Calcification-Inhibitor]
-domain: 001
-tags: [zettel, mgp, vascular-calcification, inhibitor, protection]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[MGP-Defense""'
+- '""Matrix-Gla-Protein""'
+- '""Calcification-Inhibitor]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""mgp""'
+- '""vascular-calcification""'
+- '""inhibitor""'
+- '""protection]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Vascular_Calcification_L-001-0215]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Vascular_Calcification_L-001-0215]'
+extraction-date: '2026-03-01'
 ---
 
 # MGP — Body's Defense Against Vascular Calcification

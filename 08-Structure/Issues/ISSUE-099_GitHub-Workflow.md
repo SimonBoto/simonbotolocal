@@ -4,7 +4,8 @@ title: GitHub Workflow Setup (Vault Backup + Actions)
 assignee: RON
 energy: 1h / $0
 priority: P1
-status: Open
+status: Pending
+notes: Awaiting user PC/gh CLI + PAT (no sudo workaround)
 created: 2026-04-24
 parent: none
 spawned: []

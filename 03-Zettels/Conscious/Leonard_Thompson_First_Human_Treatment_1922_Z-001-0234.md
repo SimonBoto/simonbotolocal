@@ -1,14 +1,22 @@
----
-uid: Z-001-0234
+---uid: Z-001-0234
 type: zettel
 title: Leonard Thompson — First Human Insulin Treatment (1922)
-aliases: [Leonard-Thompson, First-Insulin-Patient, 1922-Treatment]
-domain: 001
-tags: [zettel, insulin, history, leonard-thompson, 1922, first-patient]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Leonard-Thompson""'
+- '""First-Insulin-Patient""'
+- '""1922-Treatment]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""insulin""'
+- '""history""'
+- '""leonard-thompson""'
+- '""1922""'
+- '""first-patient]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Insulin_History_L-001-0207]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Insulin_History_L-001-0207]'
+extraction-date: '2026-03-01'
 ---
 
 # Leonard Thompson — First Human  Treatment (1922)

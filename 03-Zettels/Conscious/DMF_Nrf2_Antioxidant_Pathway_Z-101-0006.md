@@ -1,16 +1,28 @@
----
-uid: Z-101-0006
+---uid: Z-101-0006
 type: zettel
 title: DMF Nrf2 Antioxidant Pathway Activation
-aliases: [Z-101-0006, DMF, Nrf2, Antioxidant, Dimethyl-Fumarate]
+aliases:
+- '""Z-101-0006""'
+- '""DMF""'
+- '""Nrf2""'
+- '""Antioxidant""'
+- '""Dimethyl-Fumarate""'
 domain: 101
 domain-name: Pharmacometabolomics
-tags: [zettel, DMF, dimethyl-fumarate, Nrf2, antioxidant, multiple-sclerosis]
-parent-moc: [[MOC-Mitochondrial-Function]]
+tags:
+- '""zettel""'
+- '""DMF""'
+- '""dimethyl-fumarate""'
+- '""Nrf2""'
+- '""antioxidant""'
+- '""multiple-sclerosis""'
+parent-moc:
+- '""[''MOC-Mitochondrial-Function'']""'
 confidence: high
 created: 2026-02-24
 source-litnote: Synthesized from clinical practice
 extraction-date: 2026-04-15
+status: conscious
 ---
 
 # DMF Nrf2 Antioxidant Pathway Activation

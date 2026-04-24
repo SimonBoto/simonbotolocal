@@ -1,26 +1,14 @@
----
-uid: Z-001-0457
+---uid: Z-001-0457
 type: zettel
 title: PPP Oxidative Phase — Ribose and NADPH Generation
 aliases: []
-  - Z-001-0457
-  - PPP-Oxidative
-  - G6PD
-  - NADPH
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - ppp
-  - pentose-phosphate
-  - g6pd
-  - nadph
-  - ribose
-  - metabolism
-parent-moc: "[[MOC-Glycolysis-PPP]]"
+parent-moc: '"[[MOC-Glycolysis-PPP]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-04
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-04'
 ---
 
 # PPP Oxidative Phase — Ribose and NADPH Generation

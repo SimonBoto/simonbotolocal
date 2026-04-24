@@ -1,19 +1,12 @@
----
-uid: Z-001-0584L
+---uid: Z-001-0584L
 type: zettel
-title: "Stress Management and Cortisol Regulation"
+title: '"Stress Management and Cortisol Regulation"'
 aliases: []
-  - Z-001-0584L
-  - Stress-Management
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - metabolic
-  - stress
-  - cortisol
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
-source-litnote: "[[CGPT_0124_Profound_Truths_Revolutionizing_Health_L-001-0706]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Metabolic-Syndrome]]"'
+source-litnote: '"[[CGPT_0124_Profound_Truths_Revolutionizing_Health_L-001-0706]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

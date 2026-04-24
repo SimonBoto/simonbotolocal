@@ -1,14 +1,22 @@
----
-uid: Z-001-0210
+---uid: Z-001-0210
 type: zettel
 title: Magnesium-Vitamin D Interaction — Hydroxylation Enzymes and Activation
-aliases: [Mg-VitD-Interaction, Magnesium-Hydroxylation, VitD-Activation]
-domain: 001
-tags: [zettel, magnesium, vitamin-d, interaction, hydroxylation, cofactor]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Mg-VitD-Interaction""'
+- '""Magnesium-Hydroxylation""'
+- '""VitD-Activation]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""magnesium""'
+- '""vitamin-d""'
+- '""interaction""'
+- '""hydroxylation""'
+- '""cofactor]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Magnesium_Biochemistry_L-001-0201a]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Magnesium_Biochemistry_L-001-0201a]'
+extraction-date: '2026-03-01'
 ---
 
 # - Interaction — Hydroxylation Enzymes and Activation

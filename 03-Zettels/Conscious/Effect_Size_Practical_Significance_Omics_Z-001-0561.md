@@ -1,16 +1,28 @@
----
-uid: Z-001-0561
+---uid: Z-001-0561
 type: zettel
 title: Effect Size and Practical Significance in Omics
-aliases: [Z-001-0561, Effect Size Reporting, Practical Significance, Omics Statistics]
-domain: 001
+aliases:
+- '""Z-001-0561""'
+- '""Effect Size Reporting""'
+- '""Practical Significance""'
+- '""Omics Statistics""'
+domain: 1
 domain-name: Research Methods
-tags: [zettel, effect-size, statistics, omics, metabolomics, practical-significance, reporting-standards]
-parent-moc: [[MOC-Insulin-Signaling]]
+tags:
+- '""zettel""'
+- '""effect-size""'
+- '""statistics""'
+- '""omics""'
+- '""metabolomics""'
+- '""practical-significance""'
+- '""reporting-standards""'
+parent-moc:
+- '""[''MOC-Insulin-Signaling'']""'
 confidence: high
 created: 2026-03-03
 source-litnote: Synthesized from clinical practice
 extraction-date: 2026-04-15
+status: conscious
 ---
 
 # Effect Size and Practical Significance in Omics

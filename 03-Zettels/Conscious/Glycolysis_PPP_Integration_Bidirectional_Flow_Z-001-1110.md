@@ -1,25 +1,14 @@
----
-uid: Z-001-1110
+---uid: Z-001-1110
 type: zettel
 title: Glycolysis-PPP Integration — Bidirectional Flow
 aliases: []
-  - Z-001-1110
-  - Glycolysis-PPP
-  - Metabolic-Flexibility
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - glycolysis
-  - ppp
-  - integration
-  - bidirectional
-  - nadph
-  - ribose
-parent-moc: "[[MOC-Glycolysis-PPP]]"
+parent-moc: '"[[MOC-Glycolysis-PPP]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-08
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-08'
 ---
 
 # Glycolysis-PPP Integration — Bidirectional Flow

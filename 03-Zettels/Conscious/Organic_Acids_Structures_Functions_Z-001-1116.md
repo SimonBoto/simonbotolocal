@@ -1,26 +1,14 @@
----
-uid: Z-001-1116
+---uid: Z-001-1116
 type: zettel
 title: Organic Acids — Structures and Functions
 aliases: []
-  - Z-001-1116
-  - Organic-Acids
-  - OAT
-  - Reference-Table
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - organic-acids
-  - oat
-  - reference
-  - structures
-  - krebs
-  - biomarkers
-parent-moc: "[[MOC-Metabolomics]]"
+parent-moc: '"[[MOC-Metabolomics]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-08
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-08'
 ---
 
 # Organic Acids — Structures and Functions

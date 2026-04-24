@@ -1,16 +1,23 @@
----
-uid: Z-001-1140
+---uid: Z-001-1140
 type: zettel
 title: HBOT Clinical Applications Safety Considerations
-aliases: [Z-001-1140, HBOT-Safety]
-domain: 001
+aliases:
+- '""[Z-001-1140""'
+- '""HBOT-Safety]""'
+domain: 1
 domain-name: Clinical Protocols
-tags: [zettel, hbot, clinical, safety, contraindications]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_HBOT_Cancer_L-001-0614]
-extraction-date: 2026-04-15
+tags:
+- '""[zettel""'
+- '""hbot""'
+- '""clinical""'
+- '""safety""'
+- '""contraindications]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source-litnote: '[[LitNote_HBOT_Cancer_L-001-0614]'
+extraction-date: '2026-04-15'
 confidence: high
-created: 2026-03-08
+created: '2026-03-08'
+status: conscious
 ---
 
 source-litnote: "[[CGPT_0264_Warburg_Effect_and_Cancer_L-001-0704]]"

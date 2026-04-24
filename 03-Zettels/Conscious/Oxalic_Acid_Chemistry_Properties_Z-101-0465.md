@@ -1,13 +1,18 @@
----
-uid: Z-101-0465
+---uid: Z-101-0465
 type: zettel
 title: Oxalic Acid Chemistry and Properties
-aliases: [Z-101-0465]
+aliases: '[Z-101-0465]'
 domain: 101
-tags: [zettel, oxalic-acid, chemistry, dicarboxylic-acid, adipic-acid-domain, conscious]
-parent-moc: [[MOC-Vitamin-Metabolism]]
-source-litnote: [[LitNote_CGPT_0413_Oxalic_Acid_Chemistry_L-101-0046.md]
-extraction-date: 2026-04-15
+tags:
+- '""[zettel""'
+- '""oxalic-acid""'
+- '""chemistry""'
+- '""dicarboxylic-acid""'
+- '""adipic-acid-domain""'
+- '""conscious]""'
+parent-moc: '"[[MOC-Vitamin-Metabolism]]"'
+source-litnote: '[[LitNote_CGPT_0413_Oxalic_Acid_Chemistry_L-101-0046.md]'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

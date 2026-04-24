@@ -1,13 +1,20 @@
----
-uid: Z-001-0975
+---uid: Z-001-0975
 type: zettel
 title: Glomerular Hyperfiltration — Protein-Induced Mechanism
-aliases: [Z-001-0975]
-domain: 001
-tags: [zettel, hyperfiltration, gfr, protein, ckd, mechanism, renal-hemodynamics, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-extraction-date: 2026-03-07
-source-litnote: [[LitNote_Protein_CKD_Progression_Evidence_L-001-0573]
+aliases: '[Z-001-0975]'
+domain: 1
+tags:
+- '""[zettel""'
+- '""hyperfiltration""'
+- '""gfr""'
+- '""protein""'
+- '""ckd""'
+- '""mechanism""'
+- '""renal-hemodynamics""'
+- '""conscious]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+extraction-date: '2026-03-07'
+source-litnote: '[[LitNote_Protein_CKD_Progression_Evidence_L-001-0573]'
 status: conscious
 ---
 

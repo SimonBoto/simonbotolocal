@@ -1,14 +1,21 @@
----
-uid: Z-001-0214
+---uid: Z-001-0214
 type: zettel
 title: Magnesium Deficiency — Population Prevalence and Causes
-aliases: [Mg-Deficiency-Prevalence, Magnesium-Epidemiology]
-domain: 001
-tags: [zettel, magnesium, deficiency, prevalence, population, dietary]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Mg-Deficiency-Prevalence""'
+- '""Magnesium-Epidemiology]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""magnesium""'
+- '""deficiency""'
+- '""prevalence""'
+- '""population""'
+- '""dietary]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Magnesium_IR_Diabetes_L-001-0201b]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Magnesium_IR_Diabetes_L-001-0201b]'
+extraction-date: '2026-03-01'
 ---
 
 # Magnesium Deficiency — Population Prevalence and Causes

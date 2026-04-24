@@ -1,16 +1,24 @@
----
-uid: Z-001-0634G
+---uid: Z-001-0634G
 type: zettel
-title: "Single Point Mutation Blocking Nicotine Production"
-aliases: [Z-001-0615G]
-domain: 001
-tags: [zettel, mutation, point-mutation, C-to-T, nicotine, loss-of-function, conscious]
-parent-index: [[03-Zettels-Conscious]]
-parent-moc: [[MOC-Genetic-Variation]]
-related: [[Plant_Crossing_Metabolic_Discovery_Z-001-0615F]], [[Nicotine_Ring_Fusion_A622_Z-001-0615D]]
+title: '"Single Point Mutation Blocking Nicotine Production"'
+aliases: '[Z-001-0615G]'
+domain: 1
+tags:
+- '"[zettel"'
+- '"mutation"'
+- '"point-mutation"'
+- '"C-to-T"'
+- '"nicotine"'
+- '"loss-of-function"'
+- '"conscious]"'
+parent-index: '[[03-Zettels-Conscious]]'
+parent-moc: '"[[MOC-Genetic-Variation]]"'
+related:
+- '"[[Plant_Crossing_Metabolic_Discovery_Z-001-0615F]]"'
+- '"[[Nicotine_Ring_Fusion_A622_Z-001-0615D]]"'
 status: conscious
 source-litnote: legacy-no-source
-extraction-date: 2026-04-15
+extraction-date: '2026-04-15'
 ---
 
 # Single Point Mutation Blocking Nicotine Production

@@ -1,14 +1,20 @@
----
-uid: Z-001-0200
+---uid: Z-001-0200
 type: zettel
 title: Metabolic Syndrome — Definition and Diagnostic Criteria
-aliases: [MetS-Definition, Metabolic-Syndrome-Criteria]
-domain: 001
-tags: [zettel, metabolic-syndrome, definition, diagnosis, clinical]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[MetS-Definition""'
+- '""Metabolic-Syndrome-Criteria]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""metabolic-syndrome""'
+- '""definition""'
+- '""diagnosis""'
+- '""clinical]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Metabolic_Syndrome_Overview_L-001-0200]'
+extraction-date: '2026-03-01'
 ---
 
 # Metabolic Syndrome — Definition and Diagnostic Criteria

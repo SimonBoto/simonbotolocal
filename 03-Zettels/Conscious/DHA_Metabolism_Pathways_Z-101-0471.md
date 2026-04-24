@@ -1,13 +1,19 @@
----
-uid: Z-101-0471
+---uid: Z-101-0471
 type: zettel
 title: DHA Metabolism Pathways
-aliases: [Z-101-0471]
+aliases: '[Z-101-0471]'
 domain: 101
-tags: [zettel, dehydroascorbic-acid, dha, vitamin-c, metabolism, ascorbate, conscious]
-parent-moc: [[MOC-Vitamin-Metabolism]]
-source-litnote: [[LitNote_CGPT_0505_Vitamin_C_Oxalate_L-101-0047.md]
-extraction-date: 2026-04-15
+tags:
+- '""[zettel""'
+- '""dehydroascorbic-acid""'
+- '""dha""'
+- '""vitamin-c""'
+- '""metabolism""'
+- '""ascorbate""'
+- '""conscious]""'
+parent-moc: '"[[MOC-Vitamin-Metabolism]]"'
+source-litnote: '[[LitNote_CGPT_0505_Vitamin_C_Oxalate_L-101-0047.md]'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

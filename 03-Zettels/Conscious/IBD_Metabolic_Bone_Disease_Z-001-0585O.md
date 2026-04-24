@@ -1,19 +1,12 @@
----
-uid: Z-001-0585O
+---uid: Z-001-0585O
 type: zettel
-title: "IBD Metabolic Bone Disease"
+title: '"IBD Metabolic Bone Disease"'
 aliases: []
-  - Z-001-0585O
-  - IBD-Metabolic-Bone-Disease
-  - Metabolic-Bone-Disease-IBD
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - gastroenterology
-  - bone
-parent-moc: "[[MOC-Gastroenterology]]"
-source-litnote: "[[CGPT_0209_Gastroenterology_Registrar_Assessment_L-001-0705]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Gastroenterology]]"'
+source-litnote: '"[[CGPT_0209_Gastroenterology_Registrar_Assessment_L-001-0705]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

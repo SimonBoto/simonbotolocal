@@ -1,21 +1,12 @@
----
-uid: Z-001-0579P
+---uid: Z-001-0579P
 type: zettel
-title: "HPGA Integrative Framework"
+title: '"HPGA Integrative Framework"'
 aliases: []
-  - Z-001-0579P
-  - HPGA_Framework
-  - Integrative_Endocrinology
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - endocrinology
-  - hpg
-  - integrative-medicine
-  - systems-biology
-parent-moc: "[[MOC-Endocrinology]]"
-source-litnote: "[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Endocrinology]]"'
+source-litnote: '"[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

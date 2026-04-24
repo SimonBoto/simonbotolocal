@@ -1,13 +1,20 @@
----
-uid: Z-001-0964
+---uid: Z-001-0964
 type: zettel
 title: Industry Funding Bias — Early PUFA Research and Suppressed Science
-aliases: [Z-001-0964]
-domain: 001
-tags: [zettel, industry-bias, pufa, seed-oil-industry, funding-bias, suppressed-science, research-integrity, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-extraction-date: 2026-03-07
-source-litnote: [[LitNote_Epidemiological_Evidence_L-001-0525]
+aliases: '[Z-001-0964]'
+domain: 1
+tags:
+- '""[zettel""'
+- '""industry-bias""'
+- '""pufa""'
+- '""seed-oil-industry""'
+- '""funding-bias""'
+- '""suppressed-science""'
+- '""research-integrity""'
+- '""conscious]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+extraction-date: '2026-03-07'
+source-litnote: '[[LitNote_Epidemiological_Evidence_L-001-0525]'
 status: conscious
 ---
 

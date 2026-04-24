@@ -1,16 +1,23 @@
----
-uid: Z-001-1151
+---uid: Z-001-1151
 type: zettel
 title: Multivariate Analysis PLS OPLS Regression
-aliases: [Z-001-1151, PLS-OPLS]
-domain: 001
+aliases:
+- '""[Z-001-1151""'
+- '""PLS-OPLS]""'
+domain: 1
 domain-name: Metabolomics Analysis
-tags: [zettel, pls, opls, multivariate, regression]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Statistical_Analysis_Omics_L-001-0617]
-extraction-date: 2026-04-15
+tags:
+- '""[zettel""'
+- '""pls""'
+- '""opls""'
+- '""multivariate""'
+- '""regression]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source-litnote: '[[LitNote_Statistical_Analysis_Omics_L-001-0617]'
+extraction-date: '2026-04-15'
 confidence: high
-created: 2026-03-08
+created: '2026-03-08'
+status: conscious
 ---
 
 source-litnote: "[[CGPT_0475_Metabolic_Biomarkers_for_Insulin_L-001-0709]]"

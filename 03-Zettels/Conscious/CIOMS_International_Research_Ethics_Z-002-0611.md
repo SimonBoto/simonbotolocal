@@ -1,16 +1,24 @@
----
-uid: Z-002-0611
+---uid: Z-002-0611
 type: zettel
-title: "CIOMS International Research Ethics Guidelines"
-aliases: [Z-002-0611, cioms-guidelines, international-research-ethics]
-domain: 002
+title: CIOMS International Research Ethics Guidelines
+aliases:
+- '""""Z-002-0611""""'
+- '""""cioms-guidelines""""'
+- '""""international-research-ethics""""'
+domain: 2
 domain-name: Research Ethics
-tags: [zettel, research-ethics, international, developing-countries]
-parent-moc: [[MOC-Research-Ethics]]
-source-litnote: "[[LitNote_Historical_Ethics_Guidelines_L-002-0602]"
+tags:
+- '""""zettel""""'
+- '""""research-ethics""""'
+- '""""international""""'
+- '""""developing-countries""""'
+parent-moc:
+- '""""[''MOC-Research-Ethics'']""""'
+source-litnote: '[[LitNote_Historical_Ethics_Guidelines_L-002-0602]'
 extraction-date: 2026-04-15
 confidence: high
 created: 2026-03-27
+status: conscious
 ---
 
 # CIOMS International  Ethics Guidelines

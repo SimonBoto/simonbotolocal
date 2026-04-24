@@ -1,17 +1,29 @@
----
-uid: Z-001-0905
+---uid: Z-001-0905
 type: zettel
-title: "Epigenomics — Gene Regulation Without DNA Sequence Change"
-aliases: [Z-001-0905, Z-001-0005-deprecated, Epigenomics, DNA_Methylation, Histone_Acetylation]
-domain: 001
+title: '"Epigenomics — Gene Regulation Without DNA Sequence Change"'
+aliases:
+- '""[Z-001-0905""'
+- '""Z-001-0005-deprecated""'
+- '""Epigenomics""'
+- '""DNA_Methylation""'
+- '""Histone_Acetylation]""'
+domain: 1
 domain-name: Systems-Biology-Metabolomics
-tags: [zettel, epigenomics, gene-regulation, DNA-methylation, histone-acetylation, environment, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]
-source-litnote: "[[Synthetic_Omics_Methods_Statistics_L-001-0732]]"
+tags:
+- '""[zettel""'
+- '""epigenomics""'
+- '""gene-regulation""'
+- '""DNA-methylation""'
+- '""histone-acetylation""'
+- '""environment""'
+- '""conscious]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source: '[[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]'
+source-litnote: '"[[Synthetic_Omics_Methods_Statistics_L-001-0732]]"'
 confidence: high
-created: 2026-02-23
-updated: 2026-03-05
+created: '2026-02-23'
+updated: '2026-03-05'
+status: conscious
 ---
 
 # Epigenomics — Gene Regulation Without DNA Sequence Change

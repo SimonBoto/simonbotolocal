@@ -1,16 +1,26 @@
----
-uid: Z-001-1138
+---uid: Z-001-1138
 type: zettel
 title: HBOT Mechanisms Cancer Oxygenation ROS
-aliases: [Z-001-1138, HBOT-Mechanisms]
-domain: 001
+aliases:
+- '""""""Z-001-1138""""""'
+- '""""""HBOT-Mechanisms""""""'
+domain: 1
 domain-name: Cancer Metabolism
-tags: [zettel, hbot, hyperbaric, oxygen, ros, cancer]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: "[[CGPT_0264_Warburg_Effect_and_Cancer_L-001-0704]]"
+tags:
+- '""""""zettel""""""'
+- '""""""hbot""""""'
+- '""""""hyperbaric""""""'
+- '""""""oxygen""""""'
+- '""""""ros""""""'
+- '""""""cancer""""""'
+parent-moc:
+- '"""""[''MOC-Insulin-Signaling'']"""""'
+source-litnote:
+- '"""""[[CGPT_0264_Warburg_Effect_and_Cancer_L-001-0704]]"""""'
 extraction-date: 2026-04-15
 confidence: high
 created: 2026-03-08
+status: conscious
 ---
 
 # HBOT Mechanisms Cancer Oxygenation ROS
@@ -159,3 +169,4 @@ High O₂ + HBOT → ROS production (superoxide, hydrogen peroxide)
 
 ---
 parent-index: [[03-Zettels-Conscious]]
+---

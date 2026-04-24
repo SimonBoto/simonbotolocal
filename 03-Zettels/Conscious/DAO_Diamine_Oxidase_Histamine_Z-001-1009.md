@@ -1,13 +1,21 @@
----
-uid: Z-001-1009
+---uid: Z-001-1009
 type: zettel
 title: DAO Diamine Oxidase — Histamine Metabolism and Intestinal Function
-aliases: [Z-001-1009]
-domain: 001
-tags: [zettel, dao, diamine-oxidase, histamine, histaminase, histamine-intolerance, intestinal-barrier, h2o2, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-extraction-date: 2026-03-07
-source-litnote: [[LitNote_MAO_DAO_Enzymes_L-001-0582]
+aliases: '[Z-001-1009]'
+domain: 1
+tags:
+- '""[zettel""'
+- '""dao""'
+- '""diamine-oxidase""'
+- '""histamine""'
+- '""histaminase""'
+- '""histamine-intolerance""'
+- '""intestinal-barrier""'
+- '""h2o2""'
+- '""conscious]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+extraction-date: '2026-03-07'
+source-litnote: '[[LitNote_MAO_DAO_Enzymes_L-001-0582]'
 status: conscious
 ---
 

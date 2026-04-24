@@ -1,14 +1,22 @@
----
-uid: Z-001-0446
+---uid: Z-001-0446
 type: zettel
 title: Folate Serum vs RBC Assessment
-aliases: [Folate, Serum, RBC, Tissue-Stores]
-domain: 001
-tags: [zettel, folate, serum, rbc, assessment]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '"""[Folate"""'
+- '"""Serum"""'
+- '"""RBC"""'
+- '"""Tissue-Stores]"""'
+domain: 1
+tags:
+- '"""[zettel"""'
+- '"""folate"""'
+- '"""serum"""'
+- '"""rbc"""'
+- '"""assessment]"""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_B12_Clinical_Assessment_L-001-0408]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_B12_Clinical_Assessment_L-001-0408]'
+extraction-date: '2026-03-01'
 ---
 
 #  Serum vs RBC Assessment

@@ -1,6 +1,6 @@
 ---
 uid: ISSUE-094
-status: Open
+status: Closed
 priority: P0
 created: 2026-04-24
 tags: [forg, kimi, cost, monitor]

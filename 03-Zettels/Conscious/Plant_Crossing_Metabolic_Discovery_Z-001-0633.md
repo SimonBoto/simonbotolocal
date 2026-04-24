@@ -1,16 +1,24 @@
----
-uid: Z-001-0633F
+---uid: Z-001-0633F
 type: zettel
-title: "Plant Crossing for Metabolic Discovery"
-aliases: [Z-001-0615F]
-domain: 001
-tags: [zettel, plant-breeding, crossing, metabolic-discovery, tobacco, forward-genetics, conscious]
-parent-index: [[03-Zettels-Conscious]]
-parent-moc: [[MOC-Research]]
-related: [[Single_Mutation_Nicotine_Block_Z-001-0615G]], [[Heterologous_Nicotine_Pathway_Reconstitution_Z-001-0615H]]
+title: '"Plant Crossing for Metabolic Discovery"'
+aliases: '[Z-001-0615F]'
+domain: 1
+tags:
+- '"""[zettel"""'
+- '"""plant-breeding"""'
+- '"""crossing"""'
+- '"""metabolic-discovery"""'
+- '"""tobacco"""'
+- '"""forward-genetics"""'
+- '"""conscious]"""'
+parent-index: '[[03-Zettels-Conscious]]'
+parent-moc: '"[[MOC-Research]]"'
+related:
+- '"""[[Single_Mutation_Nicotine_Block_Z-001-0615G]]"""'
+- '"""[[Heterologous_Nicotine_Pathway_Reconstitution_Z-001-0615H]]"""'
 status: conscious
 source-litnote: legacy-no-source
-extraction-date: 2026-04-15
+extraction-date: '2026-04-15'
 ---
 
 # Plant Crossing for Metabolic Discovery

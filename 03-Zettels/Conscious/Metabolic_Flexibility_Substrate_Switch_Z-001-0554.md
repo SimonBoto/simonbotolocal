@@ -1,14 +1,21 @@
----
-uid: Z-001-0554
+---uid: Z-001-0554
 type: zettel
 title: Metabolic Flexibility — Substrate Switch
-aliases: [Metabolic-Flexibility, Fat-Adaptation, Glucose-Oxidation, Fasting]
-domain: 001
-tags: [zettel, metabolic-flexibility, fat-adaptation, substrate-switch]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Metabolic-Flexibility""'
+- '""Fat-Adaptation""'
+- '""Glucose-Oxidation""'
+- '""Fasting]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""metabolic-flexibility""'
+- '""fat-adaptation""'
+- '""substrate-switch]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Mitochondrial_Health_Strategies_L-001-0511]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Mitochondrial_Health_Strategies_L-001-0511]'
+extraction-date: '2026-03-01'
 ---
 
 # Metabolic Flexibility — Substrate Switch

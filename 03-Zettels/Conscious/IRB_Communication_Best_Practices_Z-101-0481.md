@@ -1,13 +1,20 @@
----
-uid: Z-101-0481
+---uid: Z-101-0481
 type: zettel
 title: IRB Communication Best Practices
-aliases: [Z-101-0481]
+aliases: '[Z-101-0481]'
 domain: 101
-tags: [zettel, irb, ethics-committee, communication, regulatory, phd, practical, conscious]
-parent-moc: [[MOC-Mitochondrial-Function]]
-source-litnote: [[LitNote_CGPT_0205_Ethics_Communication_L-101-0051.md]
-extraction-date: 2026-04-15
+tags:
+- '""[zettel""'
+- '""irb""'
+- '""ethics-committee""'
+- '""communication""'
+- '""regulatory""'
+- '""phd""'
+- '""practical""'
+- '""conscious]""'
+parent-moc: '"[[MOC-Mitochondrial-Function]]"'
+source-litnote: '[[LitNote_CGPT_0205_Ethics_Communication_L-101-0051.md]'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

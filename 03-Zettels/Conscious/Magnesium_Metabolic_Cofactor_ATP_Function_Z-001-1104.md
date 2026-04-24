@@ -1,25 +1,14 @@
----
-uid: Z-001-1104
+---uid: Z-001-1104
 type: zettel
 title: Magnesium — Metabolic Cofactor for ATP Function
 aliases: []
-  - Z-001-1104
-  - Magnesium
-  - ATP
-  - Cofactor
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - magnesium
-  - atp
-  - cofactor
-  - kinase
-  - phosphatase
-parent-moc: "[[MOC-Metabolomics]]"
+parent-moc: '"[[MOC-Metabolomics]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-08
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-08'
 ---
 
 # Magnesium — Metabolic Cofactor for ATP Function

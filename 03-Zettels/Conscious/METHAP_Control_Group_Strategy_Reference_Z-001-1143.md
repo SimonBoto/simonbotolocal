@@ -1,15 +1,22 @@
----
-uid: Z-001-1143
+---uid: Z-001-1143
 type: zettel
 title: METHAP Control Group Strategy Reference
-aliases: [Z-001-1143, METHAP-Control]
-domain: 001
+aliases:
+- '""[Z-001-1143""'
+- '""METHAP-Control]""'
+domain: 1
 domain-name: PhD Research
-tags: [zettel, methap, control-group, reference, strategy]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_PhD_Study_Design_METHAP_L-001-0615]
-extraction-date: 2026-04-15
+tags:
+- '""[zettel""'
+- '""methap""'
+- '""control-group""'
+- '""reference""'
+- '""strategy]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source-litnote: '[[LitNote_PhD_Study_Design_METHAP_L-001-0615]'
+extraction-date: '2026-04-15'
 ethical-consideration: control-group-receives-standard-care
+status: conscious
 ---
 
 source-litnote: "[[CGPT_0475_Metabolic_Biomarkers_for_Insulin_L-001-0709]]"

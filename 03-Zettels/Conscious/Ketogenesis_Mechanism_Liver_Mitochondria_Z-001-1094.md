@@ -1,26 +1,14 @@
----
-uid: Z-001-1094
+---uid: Z-001-1094
 type: zettel
 title: Ketogenesis Mechanism — Liver Mitochondria
 aliases: []
-  - Z-001-1094
-  - Ketogenesis
-  - Ketone-Bodies
-  - HMG-CoA
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - ketogenesis
-  - liver
-  - mitochondria
-  - hmg-coa
-  - bhb
-  - fasting
-parent-moc: "[[MOC-Lipid-Metabolism]]"
+parent-moc: '"[[MOC-Lipid-Metabolism]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-08
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-08'
 ---
 
 # Ketogenesis Mechanism — Liver Mitochondria

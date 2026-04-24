@@ -1,16 +1,25 @@
----
-uid: Z-001-0615A
+---uid: Z-001-0615A
 type: zettel
-title: "Nicotine Two Ring Structure"
-aliases: [Z-001-0615A]
-domain: 001
-tags: [zettel, nicotine, alkaloid, ring-structure, pyrrolidine, pyridine, conscious]
-parent-index: [[03-Zettels-Conscious]]
-parent-moc: [[MOC-Metabolic-Pathways]]
-related: [[Pyrrolidine_Ring_Biosynthesis_Z-001-0615B]], [[Pyridine_Ring_Biosynthesis_Z-001-0615C]], [[Nicotine_Ring_Fusion_A622_Z-001-0615D]]
+title: '"Nicotine Two Ring Structure"'
+aliases: '[Z-001-0615A]'
+domain: 1
+tags:
+- '""[zettel""'
+- '""nicotine""'
+- '""alkaloid""'
+- '""ring-structure""'
+- '""pyrrolidine""'
+- '""pyridine""'
+- '""conscious]""'
+parent-index: '[[03-Zettels-Conscious]]'
+parent-moc: '"[[MOC-Metabolic-Pathways]]"'
+related:
+- '""[[Pyrrolidine_Ring_Biosynthesis_Z-001-0615B]]""'
+- '""[[Pyridine_Ring_Biosynthesis_Z-001-0615C]]""'
+- '""[[Nicotine_Ring_Fusion_A622_Z-001-0615D]]""'
 status: conscious
 source-litnote: legacy-no-source
-extraction-date: 2026-04-15
+extraction-date: '2026-04-15'
 ---
 
 # Nicotine Two Ring Structure

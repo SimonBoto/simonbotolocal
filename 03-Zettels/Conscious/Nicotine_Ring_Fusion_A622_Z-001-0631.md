@@ -1,16 +1,25 @@
----
-uid: Z-001-0631D
+---uid: Z-001-0631D
 type: zettel
-title: "Nicotine Ring Fusion Mechanism via A622 Enzyme"
-aliases: [Z-001-0615D]
-domain: 001
-tags: [zettel, nicotine, A622, enzyme, ring-fusion, decarboxylation, conscious]
-parent-index: [[03-Zettels-Conscious]]
-parent-moc: [[MOC-Enzyme-Mechanisms]]
-related: [[Nicotine_Two_Ring_Structure_Z-001-0615A]], [[Pyrrolidine_Ring_Biosynthesis_Z-001-0615B]], [[Pyridine_Ring_Biosynthesis_Z-001-0615C]]
+title: '"Nicotine Ring Fusion Mechanism via A622 Enzyme"'
+aliases: '[Z-001-0615D]'
+domain: 1
+tags:
+- '""[zettel""'
+- '""nicotine""'
+- '""A622""'
+- '""enzyme""'
+- '""ring-fusion""'
+- '""decarboxylation""'
+- '""conscious]""'
+parent-index: '[[03-Zettels-Conscious]]'
+parent-moc: '"[[MOC-Enzyme-Mechanisms]]"'
+related:
+- '""[[Nicotine_Two_Ring_Structure_Z-001-0615A]]""'
+- '""[[Pyrrolidine_Ring_Biosynthesis_Z-001-0615B]]""'
+- '""[[Pyridine_Ring_Biosynthesis_Z-001-0615C]]""'
 status: conscious
 source-litnote: legacy-no-source
-extraction-date: 2026-04-15
+extraction-date: '2026-04-15'
 ---
 
 # Nicotine Ring Fusion Mechanism via A622 Enzyme

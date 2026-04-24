@@ -1,18 +1,12 @@
----
-uid: Z-001-0585A
+---uid: Z-001-0585A
 type: zettel
-title: "IBD Pathophysiology Overview"
+title: '"IBD Pathophysiology Overview"'
 aliases: []
-  - Z-001-0585A
-  - IBD-Pathophysiology-Overview
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - gastroenterology
-  - ibd
-parent-moc: "[[MOC-Gastroenterology]]"
-source-litnote: "[[CGPT_0209_Gastroenterology_Registrar_Assessment_L-001-0705]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Gastroenterology]]"'
+source-litnote: '"[[CGPT_0209_Gastroenterology_Registrar_Assessment_L-001-0705]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

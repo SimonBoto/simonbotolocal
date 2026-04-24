@@ -1,22 +1,12 @@
----
-uid: Z-001-0574E
+---uid: Z-001-0574E
 type: zettel
-title: "Carb Context Clinical Integration — Context-Specific Recommendations"
+title: '"Carb Context Clinical Integration — Context-Specific Recommendations"'
 aliases: []
-  - Z-001-0574E
-  - Carb-Context-Clinical
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - clinical
-  - application
-  - kidney
-  - protein
-  - carbohydrate
-  - ckd
-parent-moc: "[[MOC-Metabolism]]"
-source-litnote: "[[Carbohydrate_Context_Modifies_Protein_Effects_-_L-001-0574_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Metabolism]]"'
+source-litnote: '"[[Carbohydrate_Context_Modifies_Protein_Effects_-_L-001-0574_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

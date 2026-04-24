@@ -1,14 +1,23 @@
----
-uid: Z-001-0218
+---uid: Z-001-0218
 type: zettel
 title: Magnesium and Vascular Calcification Prevention
-aliases: [Mg-Vascular-Calcification, Magnesium-Arteries, Mg-K2-Synergy]
-domain: 001
-tags: [zettel, magnesium, vascular-calcification, arteries, MGP, K2, synergy]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Mg-Vascular-Calcification""'
+- '""Magnesium-Arteries""'
+- '""Mg-K2-Synergy]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""magnesium""'
+- '""vascular-calcification""'
+- '""arteries""'
+- '""MGP""'
+- '""K2""'
+- '""synergy]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Magnesium_Cardiovascular_L-001-0201c]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Magnesium_Cardiovascular_L-001-0201c]'
+extraction-date: '2026-03-01'
 ---
 
 #  and Vascular Calcification Prevention

@@ -1,19 +1,12 @@
----
-uid: Z-001-0585E
+---uid: Z-001-0585E
 type: zettel
-title: "Gut Microbiome IBD Role"
+title: '"Gut Microbiome IBD Role"'
 aliases: []
-  - Z-001-0585E
-  - Gut-Microbiome-IBD
-  - Microbiome-IBD-Role
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - gastroenterology
-  - microbiome
-parent-moc: "[[MOC-Gastroenterology]]"
-source-litnote: "[[CGPT_0209_Gastroenterology_Registrar_Assessment_L-001-0705]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Gastroenterology]]"'
+source-litnote: '"[[CGPT_0209_Gastroenterology_Registrar_Assessment_L-001-0705]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

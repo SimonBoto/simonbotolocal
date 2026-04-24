@@ -1,13 +1,21 @@
----
-uid: Z-101-0480
+---uid: Z-101-0480
 type: zettel
 title: Research Ethics Case Studies
-aliases: [Z-101-0480]
+aliases: '[Z-101-0480]'
 domain: 101
-tags: [zettel, research-ethics, case-studies, tuskegee, willowbrook, nazi-experiments, henrietta-lacks, lessons-learned, conscious]
-parent-moc: [[MOC-Methylation]]
-source-litnote: [[LitNote_CGPT_0131_Medical_Ethics_L-101-0050.md]
-extraction-date: 2026-04-15
+tags:
+- '"[zettel"'
+- '"research-ethics"'
+- '"case-studies"'
+- '"tuskegee"'
+- '"willowbrook"'
+- '"nazi-experiments"'
+- '"henrietta-lacks"'
+- '"lessons-learned"'
+- '"conscious]"'
+parent-moc: '"[[MOC-Methylation]]"'
+source-litnote: '[[LitNote_CGPT_0131_Medical_Ethics_L-101-0050.md]'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

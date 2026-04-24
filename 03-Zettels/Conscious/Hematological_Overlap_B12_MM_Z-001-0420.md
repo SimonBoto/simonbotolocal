@@ -1,14 +1,21 @@
----
-uid: Z-001-0420
+---uid: Z-001-0420
 type: zettel
 title: Hematological Overlap — B12 Deficiency vs MM
-aliases: [Hematological-Overlap, Anemia, Pancytopenia]
-domain: 001
-tags: [zettel, b12, anemia, multiple-myeloma, hematology]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Hematological-Overlap""'
+- '""Anemia""'
+- '""Pancytopenia]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""b12""'
+- '""anemia""'
+- '""multiple-myeloma""'
+- '""hematology]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_B12_MM_Mimicry_L-001-0404]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_B12_MM_Mimicry_L-001-0404]'
+extraction-date: '2026-03-01'
 ---
 
 # Hematological Overlap — B12 Deficiency vs MM

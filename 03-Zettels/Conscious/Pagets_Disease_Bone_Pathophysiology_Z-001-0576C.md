@@ -1,22 +1,12 @@
----
-uid: Z-001-0576C
+---uid: Z-001-0576C
 type: zettel
-title: "Paget's Disease Bone Pathophysiology"
+title: '"Paget''s Disease Bone Pathophysiology"'
 aliases: []
-  - Z-001-0576C
-  - Pagets-Disease
-  - Bone-Remodeling
-  - Pagets-Pathophysiology
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - biomarkers
-  - alkaline-phosphatase
-  - bone-pathology
-  - pagets-disease
-parent-moc: "[[MOC-Biomarkers]]"
-source-litnote: "[[Alkaline_Phosphatase_Overview_-_Isoenzymes-_Page_L-001-0576_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Biomarkers]]"'
+source-litnote: '"[[Alkaline_Phosphatase_Overview_-_Isoenzymes-_Page_L-001-0576_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

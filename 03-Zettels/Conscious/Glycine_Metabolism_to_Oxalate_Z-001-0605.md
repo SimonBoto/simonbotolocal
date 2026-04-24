@@ -1,15 +1,24 @@
----
-uid: Z-001-0605
+---uid: Z-001-0605
 type: zettel
 title: Glycine Metabolism to Oxalate
-aliases: [Z-001-0605, glycine-oxalate, glyoxylate, amino-acid-metabolism]
-domain: 001
-tags: [zettel, glycine, oxalate, glyoxylate, metabolism]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[L-001-0060A]
-source-litnote: "[[Synthetic_Oxalate_Metabolism_L-001-0729]]"
+aliases:
+- '""[Z-001-0605""'
+- '""glycine-oxalate""'
+- '""glyoxylate""'
+- '""amino-acid-metabolism]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""glycine""'
+- '""oxalate""'
+- '""glyoxylate""'
+- '""metabolism]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source: '[[L-001-0060A]'
+source-litnote: '"[[Synthetic_Oxalate_Metabolism_L-001-0729]]"'
 confidence: high
-created: 2026-03-04
+created: '2026-03-04'
+status: conscious
 ---
 
 # Glycine  to Oxalate

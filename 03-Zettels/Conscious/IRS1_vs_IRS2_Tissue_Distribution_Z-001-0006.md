@@ -1,16 +1,24 @@
----
-uid: Z-001-0006
+---uid: Z-001-0006
 type: zettel-cont
 status: conscious
 source-litnote: legacy-no-source
 extraction-date: 2026-04-15
 title: IRS-1 vs IRS-2 Tissue Distribution
-aliases: [Z-001-0006, IRS1_IRS2_Comparison]
-domain: 001
+aliases:
+- '""Z-001-0006""'
+- '""IRS1_IRS2_Comparison""'
+domain: 1
 domain-name: Insulin-Signaling
-tags: [zettel, insulin, IRS, tissue, comparison, distribution]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: 
+tags:
+- '""zettel""'
+- '""insulin""'
+- '""IRS""'
+- '""tissue""'
+- '""comparison""'
+- '""distribution""'
+parent-moc:
+- '""[''MOC-Insulin-Signaling'']""'
+source: null
 confidence: high
 created: 2026-02-22
 ---

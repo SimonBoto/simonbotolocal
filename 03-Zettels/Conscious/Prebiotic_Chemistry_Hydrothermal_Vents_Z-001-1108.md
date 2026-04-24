@@ -1,25 +1,14 @@
----
-uid: Z-001-1108
+---uid: Z-001-1108
 type: zettel
 title: Prebiotic Chemistry — Hydrothermal Vents
 aliases: []
-  - Z-001-1108
-  - Prebiotic-Chemistry
-  - Hydrothermal-Vents
-  - Iron-Sulfur-World
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - prebiotic
-  - hydrothermal
-  - vents
-  - iron-sulfur
-  - origins
-parent-moc: "[[MOC-Evolutionary-Biochemistry]]"
+parent-moc: '"[[MOC-Evolutionary-Biochemistry]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-08
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-08'
 ---
 
 # Prebiotic Chemistry — Hydrothermal Vents

@@ -1,19 +1,12 @@
----
-uid: Z-001-0585D
+---uid: Z-001-0585D
 type: zettel
-title: "IBD Immune Mechanisms"
+title: '"IBD Immune Mechanisms"'
 aliases: []
-  - Z-001-0585D
-  - IBD-Immune-Mechanisms
-  - Immune-Mechanisms-IBD
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - gastroenterology
-  - immunology
-parent-moc: "[[MOC-Gastroenterology]]"
-source-litnote: "[[CGPT_0209_Gastroenterology_Registrar_Assessment_L-001-0705]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Gastroenterology]]"'
+source-litnote: '"[[CGPT_0209_Gastroenterology_Registrar_Assessment_L-001-0705]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

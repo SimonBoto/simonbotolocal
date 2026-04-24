@@ -1,16 +1,27 @@
----
-uid: Z-001-0526
+---uid: Z-001-0526
 type: zettel
 title: Exploratory vs Confirmatory Research Standards
-aliases: [Z-001-0526, Research Phase Standards, Biomarker Study Classification]
-domain: 001
+aliases:
+- '""Z-001-0526""'
+- '""Research Phase Standards""'
+- '""Biomarker Study Classification""'
+domain: 1
 domain-name: Research Methods
-tags: [zettel, study-design, exploratory-research, confirmatory-research, biomarkers, validation, research-integrity]
-parent-moc: [[MOC-Insulin-Signaling]]
+tags:
+- '""zettel""'
+- '""study-design""'
+- '""exploratory-research""'
+- '""confirmatory-research""'
+- '""biomarkers""'
+- '""validation""'
+- '""research-integrity""'
+parent-moc:
+- '""[''MOC-Insulin-Signaling'']""'
 confidence: high
 created: 2026-03-03
 source-litnote: Synthesized from clinical practice
 extraction-date: 2026-04-15
+status: conscious
 ---
 
 # Exploratory vs Confirmatory Research Standards

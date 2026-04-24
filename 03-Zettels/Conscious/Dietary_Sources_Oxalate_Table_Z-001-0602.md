@@ -1,15 +1,24 @@
----
-uid: Z-001-0602
+---uid: Z-001-0602
 type: zettel
 title: Dietary Sources of Oxalate
-aliases: [Z-001-0602, oxalate-foods, high-oxalate, low-oxalate]
-domain: 001
-tags: [zettel, oxalate, diet, nutrition, kidney-stones]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[L-001-0060A]
-source-litnote: "[[Synthetic_Oxalate_Metabolism_L-001-0729]]"
+aliases:
+- '""[Z-001-0602""'
+- '""oxalate-foods""'
+- '""high-oxalate""'
+- '""low-oxalate]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""oxalate""'
+- '""diet""'
+- '""nutrition""'
+- '""kidney-stones]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source: '[[L-001-0060A]'
+source-litnote: '"[[Synthetic_Oxalate_Metabolism_L-001-0729]]"'
 confidence: high
-created: 2026-03-04
+created: '2026-03-04'
+status: conscious
 ---
 
 # Dietary Sources of 

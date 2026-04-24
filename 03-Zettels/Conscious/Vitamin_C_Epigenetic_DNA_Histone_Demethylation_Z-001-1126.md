@@ -1,30 +1,20 @@
----
-uid: Z-001-1126
+---uid: Z-001-1126
 type: zettel
-title: "Vitamin C Epigenetic DNA Histone Demethylation"
+title: '"Vitamin C Epigenetic DNA Histone Demethylation"'
 aliases: []
-  - Z-001-1126
-  - Vitamin-C-Epigenetic
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - vitamin-c
-  - epigenetics
-  - dna-demethylation
-  - histone-demethylation
-  - tet-enzymes
-  - jmjc
-parent-moc: "[[MOC-Cancer]]"
-parent-index: "[[03-Zettels-Conscious]]"
+parent-moc: '"[[MOC-Cancer]]"'
+parent-index: '"[[03-Zettels-Conscious]]"'
 status: conscious
-extracted_by: "RON"
-reviewed_by: "RON"
-extraction-date: "2026-03-08"
-source-litnote: "[[CGPT_0264_Warburg_Effect_and_Cancer_L-001-0704]]"
-source-inbox: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
-reference: ""
-created: "2026-03-08"
-updated: "2026-04-09"
+extracted_by: '"RON"'
+reviewed_by: '"RON"'
+extraction-date: '"2026-03-08"'
+source-litnote: '"[[CGPT_0264_Warburg_Effect_and_Cancer_L-001-0704]]"'
+source-inbox: '"[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"'
+reference: '""'
+created: '"2026-03-08"'
+updated: '"2026-04-09"'
 ---
 
 # Vitamin C Epigenetic DNA Histone Demethylation

@@ -1,13 +1,22 @@
----
-uid: Z-001-0995
+---uid: Z-001-0995
 type: zettel
 title: Hypothalamic-Pituitary Axes Integration — HPA, HPG, and HPT Coordination
-aliases: [Z-001-0995]
-domain: 001
-tags: [zettel, hypothalamus, pituitary, hpa-axis, hpg-axis, hpt-axis, stress, cortisol, endocrine-integration, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-extraction-date: 2026-03-07
-source-litnote: [[LitNote_HPG_Axis_Hormone_Cascade_L-001-0579]
+aliases: '[Z-001-0995]'
+domain: 1
+tags:
+- '""[zettel""'
+- '""hypothalamus""'
+- '""pituitary""'
+- '""hpa-axis""'
+- '""hpg-axis""'
+- '""hpt-axis""'
+- '""stress""'
+- '""cortisol""'
+- '""endocrine-integration""'
+- '""conscious]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+extraction-date: '2026-03-07'
+source-litnote: '[[LitNote_HPG_Axis_Hormone_Cascade_L-001-0579]'
 status: conscious
 ---
 

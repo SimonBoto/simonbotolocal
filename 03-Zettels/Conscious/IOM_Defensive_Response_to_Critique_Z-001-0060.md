@@ -1,18 +1,24 @@
----
-uid: Z-001-0060
+---uid: Z-001-0060
 type: zettel
 title: IOM Defensive Response to Statistical Critique
-aliases: [Z-001-0060, IOM-Defensive-Response]
-domain: 001
+aliases:
+- '""[Z-001-0060""'
+- '""IOM-Defensive-Response]""'
+domain: 1
 domain-name: Insulin Signaling
-tags: [zettel, vitamin-d, IOM, scientific-resistance, institutional-inertia]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]
+tags:
+- '""[zettel""'
+- '""vitamin-d""'
+- '""IOM""'
+- '""scientific-resistance""'
+- '""institutional-inertia]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source: '[[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]'
 confidence: high
-created: 2026-03-01
+created: '2026-03-01'
 status: conscious
 source-litnote: legacy-no-source
-extraction-date: 2026-04-15
+extraction-date: '2026-04-15'
 ---
 
 # IOM Defensive Response to Statistical Critique

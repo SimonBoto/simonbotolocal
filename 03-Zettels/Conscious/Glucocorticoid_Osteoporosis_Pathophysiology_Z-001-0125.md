@@ -1,21 +1,12 @@
----
-uid: Z-001-0125
+---uid: Z-001-0125
 type: zettel
-title: "Glucocorticoid Osteoporosis Pathophysiology"
+title: '"Glucocorticoid Osteoporosis Pathophysiology"'
 aliases: []
-  - Z-001-0125
-  - Glucocorticoid_Pathophysiology_Osteoblast_Osteocyte_Effects
-  - GIOP_Pathophysiology
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - glucocorticoid
-  - osteoporosis
-  - bone-pathophysiology
-  - GIOP
-parent-moc: "[[MOC-Clinical-Metabolomics]]"
-source-litnote: "[[Glucocorticoid-Induced_Osteoporosis_L-001-0045K_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Clinical-Metabolomics]]"'
+source-litnote: '"[[Glucocorticoid-Induced_Osteoporosis_L-001-0045K_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

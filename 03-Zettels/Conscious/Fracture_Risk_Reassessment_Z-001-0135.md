@@ -1,23 +1,12 @@
----
-uid: Z-001-0135
+---uid: Z-001-0135
 type: zettel
-title: "Fracture Risk Reassessment"
+title: '"Fracture Risk Reassessment"'
 aliases: []
-  - Z-001-0135
-  - Fracture_Risk
-  - FRAX
-  - Risk_Reassessment
-  - Fragility_Fractures
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - monitoring
-  - fracture-risk
-  - FRAX
-  - fragility-fractures
-parent-moc: "[[MOC-Clinical-Metabolomics]]"
-source-litnote: "[[Monitoring_and_Follow-Up_L-001-0045M_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Clinical-Metabolomics]]"'
+source-litnote: '"[[Monitoring_and_Follow-Up_L-001-0045M_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

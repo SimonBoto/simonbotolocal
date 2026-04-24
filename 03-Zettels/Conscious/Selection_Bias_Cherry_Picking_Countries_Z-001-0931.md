@@ -1,15 +1,23 @@
----
-uid: Z-001-0931
+---uid: Z-001-0931
 type: zettel
 title: Selection Bias — Cherry-Picking Countries
-aliases: [Z-001-0931, Z-001-0524-deprecated, Selection-Bias, Cherry-Picking, France-Paradox]
-domain: 001
-tags: [zettel, selection-bias, cherry-picking, france-paradox]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '"[Z-001-0931"'
+- '"Z-001-0524-deprecated"'
+- '"Selection-Bias"'
+- '"Cherry-Picking"'
+- '"France-Paradox]"'
+domain: 1
+tags:
+- '"[zettel"'
+- '"selection-bias"'
+- '"cherry-picking"'
+- '"france-paradox]"'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Seven_Countries_Methodology_L-001-0504]
-extraction-date: 2026-03-01
-updated: 2026-03-05
+source-litnote: '[[LitNote_Seven_Countries_Methodology_L-001-0504]'
+extraction-date: '2026-03-01'
+updated: '2026-03-05'
 ---
 
 # Selection Bias — Cherry-Picking Countries

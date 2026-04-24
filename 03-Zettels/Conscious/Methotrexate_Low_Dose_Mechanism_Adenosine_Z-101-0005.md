@@ -1,16 +1,26 @@
----
-uid: Z-101-0005
+---uid: Z-101-0005
 type: zettel
 title: Methotrexate Low-Dose Mechanism via Adenosine
-aliases: [Z-101-0005, Methotrexate, Adenosine, AMPK]
+aliases:
+- '""[Z-101-0005""'
+- '""Methotrexate""'
+- '""Adenosine""'
+- '""AMPK]""'
 domain: 101
 domain-name: Pharmacometabolomics
-tags: [zettel, methotrexate, low-dose, adenosine, AMPK, autoimmunity]
-parent-moc: [[MOC-Vitamin-Metabolism]]
-source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]
-source-litnote: "[[Synthetic_Immunometabolism_L-001-0736]]"
+tags:
+- '""[zettel""'
+- '""methotrexate""'
+- '""low-dose""'
+- '""adenosine""'
+- '""AMPK""'
+- '""autoimmunity]""'
+parent-moc: '"[[MOC-Vitamin-Metabolism]]"'
+source: '[[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]'
+source-litnote: '"[[Synthetic_Immunometabolism_L-001-0736]]"'
 confidence: high
-created: 2026-02-24
+created: '2026-02-24'
+status: conscious
 ---
 
 # Methotrexate Low-Dose Mechanism via Adenosine

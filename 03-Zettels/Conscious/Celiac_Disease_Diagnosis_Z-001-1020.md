@@ -1,14 +1,23 @@
----
-parent-index: [[03-Zettels-Conscious]]
+---parent-index: '[[03-Zettels-Conscious]]'
 uid: Z-001-1020
 type: zettel
 title: Celiac Disease Diagnosis — Serology, Biopsy, and Gluten-Free Diet
-aliases: [Z-001-1020]
-domain: 001
-tags: [zettel, celiac-disease, gluten, ttg-iga, biopsy, villous-atrophy, hla-dq2, hla-dq8, gluten-free-diet, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-extraction-date: 2026-03-07
-source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]
+aliases: '[Z-001-1020]'
+domain: 1
+tags:
+- '""""[zettel""""'
+- '""""celiac-disease""""'
+- '""""gluten""""'
+- '""""ttg-iga""""'
+- '""""biopsy""""'
+- '""""villous-atrophy""""'
+- '""""hla-dq2""""'
+- '""""hla-dq8""""'
+- '""""gluten-free-diet""""'
+- '""""conscious]""""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+extraction-date: '2026-03-07'
+source-litnote: '[[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]'
 status: conscious
 ---
 parent-index: [[03-Zettels-Conscious]]

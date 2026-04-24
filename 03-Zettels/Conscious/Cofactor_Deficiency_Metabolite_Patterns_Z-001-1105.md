@@ -1,24 +1,14 @@
----
-uid: Z-001-1105
+---uid: Z-001-1105
 type: zettel
 title: Cofactor Deficiency — Metabolite Patterns
 aliases: []
-  - Z-001-1105
-  - Cofactor-Patterns
-  - Metabolite-Biomarkers
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - cofactor
-  - deficiency
-  - metabolites
-  - biomarkers
-  - b-vitamins
-parent-moc: "[[MOC-Metabolomics]]"
+parent-moc: '"[[MOC-Metabolomics]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-08
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-08'
 ---
 
 # Cofactor Deficiency — Metabolite Patterns

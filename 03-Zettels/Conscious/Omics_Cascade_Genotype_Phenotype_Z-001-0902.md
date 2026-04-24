@@ -1,17 +1,29 @@
----
-uid: Z-001-0902
+---uid: Z-001-0902
 type: zettel
-title: "Omics Cascade: Genotype to Phenotype Flow"
-aliases: [Z-001-0902, Z-001-0002-deprecated, Omics_Cascade, Genotype_Phenotype_Flow]
-domain: 001
+title: 'Omics Cascade: Genotype to Phenotype Flow'
+aliases:
+- '""Z-001-0902""'
+- '""Z-001-0002-deprecated""'
+- '""Omics_Cascade""'
+- '""Genotype_Phenotype_Flow""'
+domain: 1
 domain-name: Systems-Biology-Metabolomics
-tags: [zettel, omics, genotype, phenotype, metabolomics, hierarchy, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
+tags:
+- '""zettel""'
+- '""omics""'
+- '""genotype""'
+- '""phenotype""'
+- '""metabolomics""'
+- '""hierarchy""'
+- '""conscious""'
+parent-moc:
+- '""[''MOC-Insulin-Signaling'']""'
 confidence: high
 created: 2026-02-23
 updated: 2026-03-05
 source-litnote: Synthesized from clinical practice
 extraction-date: 2026-04-15
+status: conscious
 ---
 
 # Omics Cascade: Genotype to Phenotype Flow

@@ -1,15 +1,25 @@
----
-uid: Z-001-0603
+---uid: Z-001-0603
 type: zettel
 title: Oxalate Mineral Binding and Bioavailability
-aliases: [Z-001-0603, oxalate-calcium, oxalate-iron, mineral-binding]
-domain: 001
-tags: [zettel, oxalate, calcium, iron, bioavailability, chelation]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[L-001-0060A]
-source-litnote: "[[Synthetic_Oxalate_Metabolism_L-001-0729]]"
+aliases:
+- '""[Z-001-0603""'
+- '""oxalate-calcium""'
+- '""oxalate-iron""'
+- '""mineral-binding]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""oxalate""'
+- '""calcium""'
+- '""iron""'
+- '""bioavailability""'
+- '""chelation]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source: '[[L-001-0060A]'
+source-litnote: '"[[Synthetic_Oxalate_Metabolism_L-001-0729]]"'
 confidence: high
-created: 2026-03-04
+created: '2026-03-04'
+status: conscious
 ---
 
 # Oxalate Mineral Binding and Bioavailability

@@ -1,27 +1,14 @@
----
-uid: Z-001-0476
+---uid: Z-001-0476
 type: zettel
 title: Keto Acids vs Carboxylic Acids
 aliases: []
-  - Z-001-0476
-  - Keto-Acids
-  - Carboxylic-Acids
-  - Pyruvate
-  - Chemistry
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - keto-acids
-  - carboxylic-acids
-  - organic-acids
-  - pyruvate
-  - chemistry
-  - metabolism
-parent-moc: "[[MOC-Glycolysis-PPP]]"
+parent-moc: '"[[MOC-Glycolysis-PPP]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-04
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-04'
 ---
 
 # Keto Acids vs Carboxylic Acids

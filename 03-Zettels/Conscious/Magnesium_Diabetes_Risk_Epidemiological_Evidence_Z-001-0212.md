@@ -1,14 +1,21 @@
----
-uid: Z-001-0212
+---uid: Z-001-0212
 type: zettel
 title: Magnesium and Diabetes Risk — Epidemiological Evidence
-aliases: [Mg-Diabetes-Epidemiology, Magnesium-Diabetes-Risk]
-domain: 001
-tags: [zettel, magnesium, diabetes, epidemiology, cohort-studies, meta-analysis]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '"""[Mg-Diabetes-Epidemiology"""'
+- '"""Magnesium-Diabetes-Risk]"""'
+domain: 1
+tags:
+- '"""[zettel"""'
+- '"""magnesium"""'
+- '"""diabetes"""'
+- '"""epidemiology"""'
+- '"""cohort-studies"""'
+- '"""meta-analysis]"""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Magnesium_IR_Diabetes_L-001-0201b]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Magnesium_IR_Diabetes_L-001-0201b]'
+extraction-date: '2026-03-01'
 ---
 
 # Magnesium and Diabetes Risk — Epidemiological Evidence

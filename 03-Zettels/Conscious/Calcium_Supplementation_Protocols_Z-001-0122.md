@@ -1,21 +1,12 @@
----
-uid: Z-001-0122
+---uid: Z-001-0122
 type: zettel
-title: "Calcium Supplementation Protocols"
+title: '"Calcium Supplementation Protocols"'
 aliases: []
-  - Z-001-0122
-  - Calcium-Protocols
-  - Calcium-Supplementation
-  - Ca-Protocols
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - calcium
-  - supplementation
-  - protocols
-parent-moc: "[[MOC-Bone-Health]]"
-source-litnote: "[[Vitamin_D_and_Calcium_Supplementation_L-001-0045O_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Bone-Health]]"'
+source-litnote: '"[[Vitamin_D_and_Calcium_Supplementation_L-001-0045O_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

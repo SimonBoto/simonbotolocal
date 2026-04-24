@@ -1,13 +1,21 @@
----
-uid: Z-001-1017
+---uid: Z-001-1017
 type: zettel
 title: Crohn's Disease vs Ulcerative Colitis — Clinical and Pathological Differentiation
-aliases: [Z-001-1017]
-domain: 001
-tags: [zettel, crohns-disease, ulcerative-colitis, ibd, granulomas, transmural, mucosal, differential-diagnosis, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-extraction-date: 2026-03-07
-source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]
+aliases: '[Z-001-1017]'
+domain: 1
+tags:
+- '"""[zettel"""'
+- '"""crohns-disease"""'
+- '"""ulcerative-colitis"""'
+- '"""ibd"""'
+- '"""granulomas"""'
+- '"""transmural"""'
+- '"""mucosal"""'
+- '"""differential-diagnosis"""'
+- '"""conscious]"""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+extraction-date: '2026-03-07'
+source-litnote: '[[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]'
 status: conscious
 ---
 

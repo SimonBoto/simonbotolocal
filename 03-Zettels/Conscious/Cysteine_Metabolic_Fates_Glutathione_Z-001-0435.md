@@ -1,26 +1,14 @@
----
-uid: Z-001-0435
+---uid: Z-001-0435
 type: zettel
 title: Cysteine — Metabolic Fates
 aliases: []
-  - Z-001-0435
-  - Cysteine
-  - Glutathione
-  - Taurine
-  - Sulfate
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - cysteine
-  - glutathione
-  - taurine
-  - sulfate
-  - transsulfuration
-parent-moc: "[[MOC-Methylation]]"
+parent-moc: '"[[MOC-Methylation]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-01
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-01'
 ---
 
 # Cysteine — Metabolic Fates

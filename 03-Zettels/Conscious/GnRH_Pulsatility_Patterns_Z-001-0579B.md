@@ -1,20 +1,12 @@
----
-uid: Z-001-0579B
+---uid: Z-001-0579B
 type: zettel
-title: "GnRH Pulsatility Patterns"
+title: '"GnRH Pulsatility Patterns"'
 aliases: []
-  - Z-001-0579B
-  - GnRH_Pulsatility
-  - GnRH_Patterns
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - endocrinology
-  - hpg
-  - neuroendocrinology
-parent-moc: "[[MOC-Endocrinology]]"
-source-litnote: "[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Endocrinology]]"'
+source-litnote: '"[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

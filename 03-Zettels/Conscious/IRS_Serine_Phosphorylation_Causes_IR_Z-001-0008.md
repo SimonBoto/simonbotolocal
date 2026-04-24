@@ -1,16 +1,25 @@
----
-uid: Z-001-0008
-type: zettel-claim
+---uid: Z-001-0008
+type: zettel
 status: conscious
 source-litnote: legacy-no-source
 extraction-date: 2026-04-15
 title: IRS Serine Phosphorylation Causes Insulin Resistance
-aliases: [Z-001-0008, IRS_Serine_Phosphorylation_IR, SerinePhos_IR]
-domain: 001
+aliases:
+- '""Z-001-0008""'
+- '""IRS_Serine_Phosphorylation_IR""'
+- '""SerinePhos_IR""'
+domain: 1
 domain-name: Insulin-Signaling
-tags: [zettel, claim, insulin-resistance, mechanism, serine, inflammation]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: 
+tags:
+- '""zettel""'
+- '""claim""'
+- '""insulin-resistance""'
+- '""mechanism""'
+- '""serine""'
+- '""inflammation""'
+parent-moc:
+- '""[''MOC-Insulin-Signaling'']""'
+source: null
 confidence: high
 created: 2026-02-22
 ---

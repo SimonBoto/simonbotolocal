@@ -1,14 +1,22 @@
----
-uid: Z-001-0219
+---uid: Z-001-0219
 type: zettel
 title: Magnesium Dosing — RDA vs. Therapeutic Ranges for Metabolic Syndrome
-aliases: [Mg-Dosing, Magnesium-RDA, Mg-Therapeutic-Dose]
-domain: 001
-tags: [zettel, magnesium, dosing, RDA, therapeutic, metabolic-syndrome]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Mg-Dosing""'
+- '""Magnesium-RDA""'
+- '""Mg-Therapeutic-Dose]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""magnesium""'
+- '""dosing""'
+- '""RDA""'
+- '""therapeutic""'
+- '""metabolic-syndrome]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Magnesium_Supplementation_L-001-0201d]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Magnesium_Supplementation_L-001-0201d]'
+extraction-date: '2026-03-01'
 ---
 
 #  Dosing — RDA vs. Therapeutic Ranges for Metabolic Syndrome

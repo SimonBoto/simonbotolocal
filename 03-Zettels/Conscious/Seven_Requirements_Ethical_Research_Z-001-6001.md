@@ -1,13 +1,21 @@
----
-uid: Z-001-1002
+---uid: Z-001-1002
 type: zettel
 title: Seven Requirements for Ethical Clinical Research — Emanuel Framework
-aliases: [Z-001-1002]
-domain: 001
-tags: [zettel, research-ethics, emanuel, seven-requirements, informed-consent, scientific-validity, risk-benefit, irb, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-extraction-date: 2026-03-07
-source-litnote: [[LitNote_Medical_Ethics_Clinical_Research_L-001-0581]
+aliases: '[Z-001-1002]'
+domain: 1
+tags:
+- '"[zettel"'
+- '"research-ethics"'
+- '"emanuel"'
+- '"seven-requirements"'
+- '"informed-consent"'
+- '"scientific-validity"'
+- '"risk-benefit"'
+- '"irb"'
+- '"conscious]"'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+extraction-date: '2026-03-07'
+source-litnote: '[[LitNote_Medical_Ethics_Clinical_Research_L-001-0581]'
 status: conscious
 ---
 

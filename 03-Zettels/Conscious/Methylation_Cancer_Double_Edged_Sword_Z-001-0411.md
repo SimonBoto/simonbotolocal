@@ -1,14 +1,22 @@
----
-uid: Z-001-0411
+---uid: Z-001-0411
 type: zettel
 title: Methylation and Cancer — Double-Edged Sword
-aliases: [Methylation-Cancer, Hypermethylation, Hypomethylation, Oncogenes]
-domain: 001
-tags: [zettel, methylation, cancer, tumor-suppressor, oncogenes]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Methylation-Cancer""'
+- '""Hypermethylation""'
+- '""Hypomethylation""'
+- '""Oncogenes]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""methylation""'
+- '""cancer""'
+- '""tumor-suppressor""'
+- '""oncogenes]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Methylation_Cycle_L-001-0402]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Methylation_Cycle_L-001-0402]'
+extraction-date: '2026-03-01'
 ---
 
 # Methylation and  — Double-Edged Sword

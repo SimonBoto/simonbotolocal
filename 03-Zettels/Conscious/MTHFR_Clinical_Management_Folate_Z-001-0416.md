@@ -1,14 +1,21 @@
----
-uid: Z-001-0416
+---uid: Z-001-0416
 type: zettel
 title: MTHFR Clinical Management and Folate
-aliases: [MTHFR-Management, Methylfolate, Folate-Requirements]
-domain: 001
-tags: [zettel, mthfr, management, methylfolate, folate]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[MTHFR-Management""'
+- '""Methylfolate""'
+- '""Folate-Requirements]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""mthfr""'
+- '""management""'
+- '""methylfolate""'
+- '""folate]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_MTHFR_Genetics_L-001-0403]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_MTHFR_Genetics_L-001-0403]'
+extraction-date: '2026-03-01'
 ---
 
 # MTHFR  Management and 

@@ -1,19 +1,12 @@
----
-uid: Z-001-0585K
+---uid: Z-001-0585K
 type: zettel
-title: "IBD Nutritional Management"
+title: '"IBD Nutritional Management"'
 aliases: []
-  - Z-001-0585K
-  - IBD-Nutritional-Management
-  - Nutritional-Management-IBD
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - gastroenterology
-  - nutrition
-parent-moc: "[[MOC-Gastroenterology]]"
-source-litnote: "[[CGPT_0209_Gastroenterology_Registrar_Assessment_L-001-0705]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Gastroenterology]]"'
+source-litnote: '"[[CGPT_0209_Gastroenterology_Registrar_Assessment_L-001-0705]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

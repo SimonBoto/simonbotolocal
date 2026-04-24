@@ -1,21 +1,12 @@
----
-uid: Z-001-0579J
+---uid: Z-001-0579J
 type: zettel
-title: "HPGA Exercise Modulation"
+title: '"HPGA Exercise Modulation"'
 aliases: []
-  - Z-001-0579J
-  - HPGA_Exercise
-  - Exercise_Hormones
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - endocrinology
-  - hpg
-  - exercise
-  - sports-medicine
-parent-moc: "[[MOC-Endocrinology]]"
-source-litnote: "[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Endocrinology]]"'
+source-litnote: '"[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

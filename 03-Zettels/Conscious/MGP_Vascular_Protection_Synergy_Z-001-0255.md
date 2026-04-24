@@ -1,14 +1,22 @@
----
-uid: Z-001-0255
+---uid: Z-001-0255
 type: zettel
 title: MGP Vascular Protection — D-K2 Synergy
-aliases: [MGP, Matrix-Gla-Protein, Vascular-Calcification-Protection]
-domain: 001
-tags: [zettel, mgp, vascular-calcification, vitamin-k2, vitamin-d, arteries]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[MGP""'
+- '""Matrix-Gla-Protein""'
+- '""Vascular-Calcification-Protection]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""mgp""'
+- '""vascular-calcification""'
+- '""vitamin-k2""'
+- '""vitamin-d""'
+- '""arteries]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]'
+extraction-date: '2026-03-01'
 ---
 
 # MGP Vascular Protection — D-K2 Synergy

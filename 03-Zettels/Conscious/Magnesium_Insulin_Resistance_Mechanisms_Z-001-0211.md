@@ -1,14 +1,21 @@
----
-uid: Z-001-0211
+---uid: Z-001-0211
 type: zettel
 title: Magnesium and Insulin Resistance — Mechanistic Connection
-aliases: [Mg-Insulin-Resistance, Magnesium-IR-Mechanisms]
-domain: 001
-tags: [zettel, magnesium, insulin-resistance, mechanisms, GLUT4, signaling]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Mg-Insulin-Resistance""'
+- '""Magnesium-IR-Mechanisms]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""magnesium""'
+- '""insulin-resistance""'
+- '""mechanisms""'
+- '""GLUT4""'
+- '""signaling]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Magnesium_IR_Diabetes_L-001-0201b]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Magnesium_IR_Diabetes_L-001-0201b]'
+extraction-date: '2026-03-01'
 ---
 
 # Magnesium and  Resistance — Mechanistic Connection

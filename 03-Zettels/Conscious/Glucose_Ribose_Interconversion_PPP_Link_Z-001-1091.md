@@ -1,25 +1,14 @@
----
-uid: Z-001-1091
+---uid: Z-001-1091
 type: zettel
 title: Glucose-Ribose Interconversion via PPP
 aliases: []
-  - Z-001-1091
-  - Glucose-Ribose
-  - PPP
-  - Nucleotide-Synthesis
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - glucose
-  - ribose
-  - ppp
-  - interconversion
-  - nucleotides
-parent-moc: "[[MOC-Glycolysis-PPP]]"
+parent-moc: '"[[MOC-Glycolysis-PPP]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-08
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-08'
 ---
 
 # Glucose-Ribose Interconversion via PPP

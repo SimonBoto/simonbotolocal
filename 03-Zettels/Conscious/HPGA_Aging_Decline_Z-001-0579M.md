@@ -1,22 +1,12 @@
----
-uid: Z-001-0579M
+---uid: Z-001-0579M
 type: zettel
-title: "HPGA Aging Decline"
+title: '"HPGA Aging Decline"'
 aliases: []
-  - Z-001-0579M
-  - HPGA_Aging
-  - Andropause_Menopause
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - endocrinology
-  - hpg
-  - aging
-  - menopause
-  - andropause
-parent-moc: "[[MOC-Endocrinology]]"
-source-litnote: "[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Endocrinology]]"'
+source-litnote: '"[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

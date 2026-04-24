@@ -1,13 +1,20 @@
----
-uid: Z-001-0974
+---uid: Z-001-0974
 type: zettel
 title: Protein Restriction CKD Guidelines — NKF KDIGO Recommendations
-aliases: [Z-001-0974]
-domain: 001
-tags: [zettel, protein-restriction, ckd, guidelines, nkf, kdigo, recommendations, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-extraction-date: 2026-03-07
-source-litnote: [[LitNote_Protein_CKD_Progression_Evidence_L-001-0573]
+aliases: '[Z-001-0974]'
+domain: 1
+tags:
+- '"[zettel"'
+- '"protein-restriction"'
+- '"ckd"'
+- '"guidelines"'
+- '"nkf"'
+- '"kdigo"'
+- '"recommendations"'
+- '"conscious]"'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+extraction-date: '2026-03-07'
+source-litnote: '[[LitNote_Protein_CKD_Progression_Evidence_L-001-0573]'
 status: conscious
 ---
 

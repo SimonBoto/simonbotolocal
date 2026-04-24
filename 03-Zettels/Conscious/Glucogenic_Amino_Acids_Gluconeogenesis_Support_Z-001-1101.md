@@ -1,23 +1,14 @@
----
-uid: Z-001-1101
+---uid: Z-001-1101
 type: zettel
 title: Glucogenic Amino Acids — Gluconeogenesis Support
 aliases: []
-  - Z-001-1101
-  - Glucogenic-AAs
-  - Gluconeogenesis
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - glucogenic
-  - gluconeogenesis
-  - fasting
-  - amino-acids
-parent-moc: "[[MOC-Nitrogen-Metabolism]]"
+parent-moc: '"[[MOC-Nitrogen-Metabolism]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-08
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-08'
 ---
 
 # Glucogenic Amino Acids — Gluconeogenesis Support

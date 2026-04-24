@@ -1,18 +1,23 @@
----
-uid: Z-001-0097
+---uid: Z-001-0097
 type: zettel
 title: Protein Calcium Absorption Urinary Excretion
-aliases: [Z-001-0097, Protein_Calcium_Absorption_Urinary_Excretion]
-domain: 001
+aliases:
+- '""[Z-001-0097""'
+- '""Protein_Calcium_Absorption_Urinary_Excretion]""'
+domain: 1
 domain-name: Insulin Signaling
-tags: [zettel, bone-health, nutrition, protein]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[LitNote_High_Protein_Diet_Bone_Health_L-001-0014]
+tags:
+- '""[zettel""'
+- '""bone-health""'
+- '""nutrition""'
+- '""protein]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source: '[[LitNote_High_Protein_Diet_Bone_Health_L-001-0014]'
 confidence: high
-created: 2026-03-01
+created: '2026-03-01'
 status: conscious
 source-litnote: legacy-no-source
-extraction-date: 2026-04-15
+extraction-date: '2026-04-15'
 ---
 
 # Protein  Absorption Urinary Excretion

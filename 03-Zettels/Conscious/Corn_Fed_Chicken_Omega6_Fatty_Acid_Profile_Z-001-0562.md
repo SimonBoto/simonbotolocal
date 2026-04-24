@@ -1,16 +1,29 @@
----
-uid: Z-001-0562
+---uid: Z-001-0562
 type: zettel
 title: Corn-Fed Chicken Omega-6 Fatty Acid Profile
-aliases: [Z-001-0562, Poultry Fatty Acids, Grain-Fed Chicken, Linoleic Acid Chicken]
-domain: 001
+aliases:
+- '""""Z-001-0562""""'
+- '""""Poultry Fatty Acids""""'
+- '""""Grain-Fed Chicken""""'
+- '""""Linoleic Acid Chicken""""'
+domain: 1
 domain-name: Nutrition
-tags: [zettel, omega-6, poultry, chicken, fatty-acids, feed-quality, linoleic-acid, meat-quality]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: "[[LitNote_Omega6_Poultry_Feed_Inflammatory_L-001-0517]"
-source-litnote: "[[Synthetic_Poultry_Fatty_Acid_Composition_L-001-0731]]"
+tags:
+- '""""zettel""""'
+- '""""omega-6""""'
+- '""""poultry""""'
+- '""""chicken""""'
+- '""""fatty-acids""""'
+- '""""feed-quality""""'
+- '""""linoleic-acid""""'
+- '""""meat-quality""""'
+parent-moc:
+- '""""[''MOC-Insulin-Signaling'']""""'
+source: '[[LitNote_Omega6_Poultry_Feed_Inflammatory_L-001-0517]'
+source-litnote: '"[[Synthetic_Poultry_Fatty_Acid_Composition_L-001-0731]]"'
 confidence: high
 created: 2026-03-03
+status: conscious
 ---
 
 # Corn-Fed Chicken  Fatty Acid Profile

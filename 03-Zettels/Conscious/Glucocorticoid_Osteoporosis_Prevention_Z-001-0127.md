@@ -1,21 +1,12 @@
----
-uid: Z-001-0127
+---uid: Z-001-0127
 type: zettel
-title: "Glucocorticoid Osteoporosis Prevention"
+title: '"Glucocorticoid Osteoporosis Prevention"'
 aliases: []
-  - Z-001-0127
-  - Glucocorticoid_Management_Guidelines
-  - GIOP_Prevention
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - glucocorticoid
-  - osteoporosis
-  - prevention
-  - GIOP
-parent-moc: "[[MOC-Clinical-Metabolomics]]"
-source-litnote: "[[Glucocorticoid-Induced_Osteoporosis_L-001-0045K_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Clinical-Metabolomics]]"'
+source-litnote: '"[[Glucocorticoid-Induced_Osteoporosis_L-001-0045K_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

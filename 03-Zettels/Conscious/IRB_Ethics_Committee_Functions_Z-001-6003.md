@@ -1,13 +1,22 @@
----
-uid: Z-001-1004
+---uid: Z-001-1004
 type: zettel
 title: IRB and Ethics Committee Functions — Independent Review Requirements
-aliases: [Z-001-1004]
-domain: 001
-tags: [zettel, irb, ethics-committee, institutional-review-board, independent-review, 45-cfr-46, common-rule, approval, monitoring, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-extraction-date: 2026-03-07
-source-litnote: [[LitNote_Medical_Ethics_Clinical_Research_L-001-0581]
+aliases: '[Z-001-1004]'
+domain: 1
+tags:
+- '""[zettel""'
+- '""irb""'
+- '""ethics-committee""'
+- '""institutional-review-board""'
+- '""independent-review""'
+- '""45-cfr-46""'
+- '""common-rule""'
+- '""approval""'
+- '""monitoring""'
+- '""conscious]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+extraction-date: '2026-03-07'
+source-litnote: '[[LitNote_Medical_Ethics_Clinical_Research_L-001-0581]'
 status: conscious
 ---
 

@@ -1,27 +1,14 @@
----
-uid: Z-001-0481
+---uid: Z-001-0481
 type: zettel
 title: Ketogenesis Pathway and Regulation
 aliases: []
-  - Z-001-0481
-  - Ketogenesis
-  - HMG-CoA
-  - Liver
-  - Ketones
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - ketogenesis
-  - bhb
-  - hmg-coa
-  - liver
-  - fasting
-  - ketogenic-diet
-parent-moc: "[[MOC-Lipid-Metabolism]]"
+parent-moc: '"[[MOC-Lipid-Metabolism]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-04
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-04'
 ---
 
 # Ketogenesis Pathway and Regulation

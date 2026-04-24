@@ -1,14 +1,22 @@
----
-uid: Z-001-0259
+---uid: Z-001-0259
 type: zettel
 title: PTH — Master Calcium Regulator
-aliases: [PTH, Parathyroid-Hormone, Parathormone]
-domain: 001
-tags: [zettel, pth, parathyroid, calcium, regulator, hormone]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[PTH""'
+- '""Parathyroid-Hormone""'
+- '""Parathormone]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""pth""'
+- '""parathyroid""'
+- '""calcium""'
+- '""regulator""'
+- '""hormone]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Calcium_PTH_Homeostasis_L-001-0213]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Calcium_PTH_Homeostasis_L-001-0213]'
+extraction-date: '2026-03-01'
 ---
 
 # PTH — Master Calcium Regulator

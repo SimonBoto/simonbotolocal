@@ -1,21 +1,12 @@
----
-uid: Z-001-0579O
+---uid: Z-001-0579O
 type: zettel
-title: "HPGA Therapeutic Targets"
+title: '"HPGA Therapeutic Targets"'
 aliases: []
-  - Z-001-0579O
-  - HPGA_Therapeutics
-  - Hormone_Therapy
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - endocrinology
-  - hpg
-  - therapeutics
-  - pharmacology
-parent-moc: "[[MOC-Endocrinology]]"
-source-litnote: "[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Endocrinology]]"'
+source-litnote: '"[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

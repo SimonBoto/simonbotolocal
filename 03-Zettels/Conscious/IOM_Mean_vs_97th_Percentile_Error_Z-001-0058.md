@@ -1,18 +1,25 @@
----
-uid: Z-001-0058
+---uid: Z-001-0058
 type: zettel
 title: IOM Mean vs 97.5th Percentile Statistical Error
-aliases: [Z-001-0058, IOM-Statistical-Error]
-domain: 001
+aliases:
+- '""[Z-001-0058""'
+- '""IOM-Statistical-Error]""'
+domain: 1
 domain-name: Insulin Signaling
-tags: [zettel, vitamin-d, statistics, RDA, IOM, error]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]
+tags:
+- '""[zettel""'
+- '""vitamin-d""'
+- '""statistics""'
+- '""RDA""'
+- '""IOM""'
+- '""error]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source: '[[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]'
 confidence: high
-created: 2026-03-01
+created: '2026-03-01'
 status: conscious
 source-litnote: legacy-no-source
-extraction-date: 2026-04-15
+extraction-date: '2026-04-15'
 ---
 
 # IOM Mean vs 97.5th Percentile Statistical Error

@@ -1,19 +1,12 @@
----
-uid: Z-001-0580C
+---uid: Z-001-0580C
 type: zettel
-title: "Search Strategy Design"
+title: '"Search Strategy Design"'
 aliases: []
-  - Z-001-0580C
-  - Search-Strategy-Design
-  - Literature-Search
- domain: 001
+domain: 1
 tags: []
-  - zettel
-  - search-strategy
-  - systematic-review
-parent-moc: "[[MOC-Research]]"
-source-litnote: "[[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Research]]"'
+source-litnote: '"[[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

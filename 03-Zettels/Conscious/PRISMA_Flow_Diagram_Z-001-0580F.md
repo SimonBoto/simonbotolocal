@@ -1,19 +1,12 @@
----
-uid: Z-001-0580F
+---uid: Z-001-0580F
 type: zettel
-title: "PRISMA Flow Diagram"
+title: '"PRISMA Flow Diagram"'
 aliases: []
-  - Z-001-0580F
-  - PRISMA-Flow-Diagram
-  - Study-Selection-Process
- domain: 001
+domain: 1
 tags: []
-  - zettel
-  - prisma
-  - systematic-review
-parent-moc: "[[MOC-Research]]"
-source-litnote: "[[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Research]]"'
+source-litnote: '"[[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

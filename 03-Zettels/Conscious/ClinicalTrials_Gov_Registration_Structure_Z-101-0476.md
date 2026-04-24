@@ -1,13 +1,20 @@
----
-uid: Z-101-0476
+---uid: Z-101-0476
 type: zettel
 title: ClinicalTrials.gov Registration Structure
-aliases: [Z-101-0476]
+aliases: '[Z-101-0476]'
 domain: 101
-tags: [zettel, clinicaltrials-gov, trial-registration, nih, methap, phd, regulatory, conscious]
-parent-moc: [[MOC-Mitochondrial-Function]]
-source-litnote: [[LitNote_CGPT_0102_ClinicalTrials_Gov_L-101-0049.md]
-extraction-date: 2026-04-15
+tags:
+- '""""[zettel""""'
+- '""""clinicaltrials-gov""""'
+- '""""trial-registration""""'
+- '""""nih""""'
+- '""""methap""""'
+- '""""phd""""'
+- '""""regulatory""""'
+- '""""conscious]""""'
+parent-moc: '"[[MOC-Mitochondrial-Function]]"'
+source-litnote: '[[LitNote_CGPT_0102_ClinicalTrials_Gov_L-101-0049.md]'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

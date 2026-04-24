@@ -1,13 +1,23 @@
----
-uid: Z-001-1025
+---uid: Z-001-1025
 type: zettel
-title: Core Metabolic Biomarkers Panel — Vitamin D, Omega-3, hsCRP, Homocysteine, HbA1c
-aliases: [Z-001-1025]
-domain: 001
-tags: [zettel, biomarkers, vitamin-d, omega-3-index, hscrp, homocysteine, hba1c, metabolic-health, screening, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-extraction-date: 2026-03-07
-source-litnote: [[LitNote_Metabolic_Biomarkers_Briefing_L-001-0587]
+title: Core Metabolic Biomarkers Panel — Vitamin D, Omega-3, hsCRP, Homocysteine,
+  HbA1c
+aliases: '[Z-001-1025]'
+domain: 1
+tags:
+- '""""[zettel""""'
+- '""""biomarkers""""'
+- '""""vitamin-d""""'
+- '""""omega-3-index""""'
+- '""""hscrp""""'
+- '""""homocysteine""""'
+- '""""hba1c""""'
+- '""""metabolic-health""""'
+- '""""screening""""'
+- '""""conscious]""""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+extraction-date: '2026-03-07'
+source-litnote: '[[LitNote_Metabolic_Biomarkers_Briefing_L-001-0587]'
 status: conscious
 ---
 

@@ -1,18 +1,23 @@
----
-uid: Z-001-0088
+---uid: Z-001-0088
 type: zettel
 title: Denosumab Hypocalcemia Risk
-aliases: [Z-001-0088, Denosumab_Hypocalcemia_Risk]
-domain: 001
+aliases:
+- '""[Z-001-0088""'
+- '""Denosumab_Hypocalcemia_Risk]""'
+domain: 1
 domain-name: Insulin Signaling
-tags: [zettel, bone-health, pharmacology, denosumab]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[LitNote_Denosumab_Mechanism_Risks_L-001-0012]
+tags:
+- '""[zettel""'
+- '""bone-health""'
+- '""pharmacology""'
+- '""denosumab]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source: '[[LitNote_Denosumab_Mechanism_Risks_L-001-0012]'
 confidence: high
-created: 2026-03-01
+created: '2026-03-01'
 status: conscious
 source-litnote: legacy-no-source
-extraction-date: 2026-04-15
+extraction-date: '2026-04-15'
 ---
 
 # Denosumab Hypocalcemia Risk

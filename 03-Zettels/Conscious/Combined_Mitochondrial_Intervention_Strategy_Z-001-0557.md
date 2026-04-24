@@ -1,14 +1,21 @@
----
-uid: Z-001-0557
+---uid: Z-001-0557
 type: zettel
 title: Combined Mitochondrial Intervention Strategy
-aliases: [Mitochondrial-Strategy, Diet-Exercise-Supplements, Triad-Approach]
-domain: 001
-tags: [zettel, mitochondrial-strategy, diet, exercise, supplements]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""""[Mitochondrial-Strategy""""'
+- '""""Diet-Exercise-Supplements""""'
+- '""""Triad-Approach]""""'
+domain: 1
+tags:
+- '""""[zettel""""'
+- '""""mitochondrial-strategy""""'
+- '""""diet""""'
+- '""""exercise""""'
+- '""""supplements]""""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Mitochondrial_Health_Strategies_L-001-0511]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Mitochondrial_Health_Strategies_L-001-0511]'
+extraction-date: '2026-03-01'
 ---
 
 # Combined l Intervention Strategy

@@ -1,16 +1,24 @@
----
-uid: Z-001-1147
+---uid: Z-001-1147
 type: zettel
 title: Clinical Metabolic Markers HOMA IR HbA1c
-aliases: [Z-001-1147, Clinical-Markers-IR]
-domain: 001
+aliases:
+- '"""""[Z-001-1147"""""'
+- '"""""Clinical-Markers-IR]"""""'
+domain: 1
 domain-name: Clinical Assessment
-tags: [zettel, clinical, markers, homa-ir, hba1c, insulin-resistance]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]
-extraction-date: 2026-04-15
+tags:
+- '"""""[zettel"""""'
+- '"""""clinical"""""'
+- '"""""markers"""""'
+- '"""""homa-ir"""""'
+- '"""""hba1c"""""'
+- '"""""insulin-resistance]"""""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source-litnote: '[[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]'
+extraction-date: '2026-04-15'
 confidence: high
-created: 2026-03-08
+created: '2026-03-08'
+status: conscious
 ---
 
 source-litnote: "[[CGPT_0475_Metabolic_Biomarkers_for_Insulin_L-001-0709]]"

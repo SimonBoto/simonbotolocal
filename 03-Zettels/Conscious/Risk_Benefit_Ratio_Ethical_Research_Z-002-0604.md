@@ -1,16 +1,23 @@
----
-uid: Z-002-0604
+---uid: Z-002-0604
 type: zettel
-title: "Favorable Risk-Benefit Ratio in Research Ethics"
-aliases: [Z-002-0604, ethics-risk-benefit]
-domain: 002
+title: Favorable Risk-Benefit Ratio in Research Ethics
+aliases:
+- '"Z-002-0604"'
+- '"ethics-risk-benefit"'
+domain: 2
 domain-name: Research Ethics
-tags: [zettel, research-ethics, risk-assessment, emmanuel-seven]
-parent-moc: [[MOC-Methylation]]
-source-litnote: "[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]"
+tags:
+- '"zettel"'
+- '"research-ethics"'
+- '"risk-assessment"'
+- '"emmanuel-seven"'
+parent-moc:
+- '"[''MOC-Methylation'']"'
+source-litnote: '[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]'
 extraction-date: 2026-04-15
 confidence: high
 created: 2026-03-27
+status: conscious
 ---
 
 # Favorable Risk-Benefit Ratio in  Ethics

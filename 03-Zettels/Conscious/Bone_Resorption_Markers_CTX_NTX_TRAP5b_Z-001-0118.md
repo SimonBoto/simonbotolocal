@@ -1,19 +1,12 @@
----
-uid: Z-001-0118
+---uid: Z-001-0118
 type: zettel
-title: "Bone Resorption Markers: CTX, NTX, TRAP5b"
+title: '"Bone Resorption Markers: CTX, NTX, TRAP5b"'
 aliases: []
-  - Z-001-0118
-  - Bone-Resorption-Markers
-  - CTX-NTX-TRAP5b
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - bone-resorption
-  - biomarkers
-parent-moc: "[[MOC-Bone-Health]]"
-source-litnote: "[[Bone_Turnover_Markers_L-001-0045J_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Bone-Health]]"'
+source-litnote: '"[[Bone_Turnover_Markers_L-001-0045J_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

@@ -1,14 +1,21 @@
----
-uid: Z-001-0521
+---uid: Z-001-0521
 type: zettel
 title: Fatty Acid Dietary Strategies
-aliases: [Fatty-Acid-Strategy, Omega-3-Supplementation, Dietary-Fats]
-domain: 001
-tags: [zettel, fatty-acid-strategy, omega-3, dietary-fats, cooking]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Fatty-Acid-Strategy""'
+- '""Omega-3-Supplementation""'
+- '""Dietary-Fats]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""fatty-acid-strategy""'
+- '""omega-3""'
+- '""dietary-fats""'
+- '""cooking]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]'
+extraction-date: '2026-03-01'
 ---
 
 # Fatty Acid Dietary Strategies

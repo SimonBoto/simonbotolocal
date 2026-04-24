@@ -1,19 +1,12 @@
----
-uid: Z-001-0585I
+---uid: Z-001-0585I
 type: zettel
-title: "IBD Diagnostic Criteria"
+title: '"IBD Diagnostic Criteria"'
 aliases: []
-  - Z-001-0585I
-  - IBD-Diagnostic-Criteria
-  - Diagnostic-Criteria-IBD
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - gastroenterology
-  - diagnostics
-parent-moc: "[[MOC-Gastroenterology]]"
-source-litnote: "[[CGPT_0209_Gastroenterology_Registrar_Assessment_L-001-0705]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Gastroenterology]]"'
+source-litnote: '"[[CGPT_0209_Gastroenterology_Registrar_Assessment_L-001-0705]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

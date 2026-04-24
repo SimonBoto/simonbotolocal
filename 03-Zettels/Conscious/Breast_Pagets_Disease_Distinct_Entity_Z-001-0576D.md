@@ -1,22 +1,12 @@
----
-uid: Z-001-0576D
+---uid: Z-001-0576D
 type: zettel
-title: "Breast Paget's Disease — Distinct Entity"
+title: '"Breast Paget''s Disease — Distinct Entity"'
 aliases: []
-  - Z-001-0576D
-  - Breast-Paget's
-  - Pagets-Disease-Breast
-  - Nipple-Carcinoma
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - biomarkers
-  - alkaline-phosphatase
-  - oncology
-  - breast-cancer
-parent-moc: "[[MOC-Biomarkers]]"
-source-litnote: "[[Alkaline_Phosphatase_Overview_-_Isoenzymes-_Page_L-001-0576_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Biomarkers]]"'
+source-litnote: '"[[Alkaline_Phosphatase_Overview_-_Isoenzymes-_Page_L-001-0576_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

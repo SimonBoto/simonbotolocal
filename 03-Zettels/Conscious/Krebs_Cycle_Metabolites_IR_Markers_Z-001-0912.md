@@ -1,17 +1,33 @@
----
-uid: Z-001-0912
+---uid: Z-001-0912
 type: zettel
-title: "Krebs Cycle Metabolites as Insulin Resistance Markers"
-aliases: [Z-001-0912, Z-001-0012-deprecated, Krebs_Cycle_Metabolites, Organic_Acids_IR, Malate_Insulin_Resistance, Succinate_Biomarker]
-domain: 001
+title: Krebs Cycle Metabolites as Insulin Resistance Markers
+aliases:
+- '""Z-001-0912""'
+- '""Z-001-0012-deprecated""'
+- '""Krebs_Cycle_Metabolites""'
+- '""Organic_Acids_IR""'
+- '""Malate_Insulin_Resistance""'
+- '""Succinate_Biomarker""'
+domain: 1
 domain-name: Systems-Biology-Metabolomics
-tags: [zettel, krebs-cycle, organic-acids, insulin-resistance, malate, succinate, biomarkers, diabetes, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
+tags:
+- '""zettel""'
+- '""krebs-cycle""'
+- '""organic-acids""'
+- '""insulin-resistance""'
+- '""malate""'
+- '""succinate""'
+- '""biomarkers""'
+- '""diabetes""'
+- '""conscious""'
+parent-moc:
+- '""[''MOC-Insulin-Signaling'']""'
 confidence: high
 created: 2026-02-23
 updated: 2026-03-05
 source-litnote: Synthesized from clinical practice
 extraction-date: 2026-04-15
+status: conscious
 ---
 
 # Krebs Cycle Metabolites as Insulin Resistance Markers

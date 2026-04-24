@@ -1,18 +1,24 @@
----
-uid: Z-001-0066
+---uid: Z-001-0066
 type: zettel
 title: Cholecalciferol vs Calcitriol Safety Profile
-aliases: [Z-001-0066, Cholecalciferol-Calcitriol-Safety]
-domain: 001
+aliases:
+- '""""[Z-001-0066""""'
+- '""""Cholecalciferol-Calcitriol-Safety]""""'
+domain: 1
 domain-name: Insulin Signaling
-tags: [zettel, vitamin-d, cholecalciferol, calcitriol, safety]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]
+tags:
+- '""""[zettel""""'
+- '""""vitamin-d""""'
+- '""""cholecalciferol""""'
+- '""""calcitriol""""'
+- '""""safety]""""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source: '[[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]'
 confidence: high
-created: 2026-03-01
+created: '2026-03-01'
 status: conscious
 source-litnote: legacy-no-source
-extraction-date: 2026-04-15
+extraction-date: '2026-04-15'
 ---
 
 # Cholecalciferol vs Calcitriol — Safety Profile

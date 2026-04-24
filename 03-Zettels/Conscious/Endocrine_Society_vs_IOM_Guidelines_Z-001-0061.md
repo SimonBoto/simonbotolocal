@@ -1,18 +1,25 @@
----
-uid: Z-001-0061
+---uid: Z-001-0061
 type: zettel
 title: Endocrine Society vs IOM Vitamin D Guidelines
-aliases: [Z-001-0061, Endocrine-Society-IOM-Comparison]
-domain: 001
+aliases:
+- '""[Z-001-0061""'
+- '""Endocrine-Society-IOM-Comparison]""'
+domain: 1
 domain-name: Insulin Signaling
-tags: [zettel, vitamin-d, guidelines, Endocrine-Society, IOM, clinical-practice]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]
+tags:
+- '""[zettel""'
+- '""vitamin-d""'
+- '""guidelines""'
+- '""Endocrine-Society""'
+- '""IOM""'
+- '""clinical-practice]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source: '[[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]'
 confidence: high
-created: 2026-03-01
+created: '2026-03-01'
 status: conscious
 source-litnote: legacy-no-source
-extraction-date: 2026-04-15
+extraction-date: '2026-04-15'
 ---
 
 # Endocrine Society vs IOM  Guidelines

@@ -1,17 +1,32 @@
----
-uid: Z-001-0913
+---uid: Z-001-0913
 type: zettel
-title: "Carnitine — Fatty Acid Transport into Mitochondria"
-aliases: [Z-001-0913, Z-001-0013-deprecated, Carnitine, Fatty_Acid_Transport, Carnitine_Shuttle, Beta_Oxidation]
-domain: 001
+title: Carnitine — Fatty Acid Transport into Mitochondria
+aliases:
+- '""""Z-001-0913""""'
+- '""""Z-001-0013-deprecated""""'
+- '""""Carnitine""""'
+- '""""Fatty_Acid_Transport""""'
+- '""""Carnitine_Shuttle""""'
+- '""""Beta_Oxidation""""'
+domain: 1
 domain-name: Systems-Biology-Metabolomics
-tags: [zettel, carnitine, fatty-acids, mitochondria, beta-oxidation, plasma-TFA, transport, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
+tags:
+- '""""zettel""""'
+- '""""carnitine""""'
+- '""""fatty-acids""""'
+- '""""mitochondria""""'
+- '""""beta-oxidation""""'
+- '""""plasma-TFA""""'
+- '""""transport""""'
+- '""""conscious""""'
+parent-moc:
+- '""""[''MOC-Insulin-Signaling'']""""'
 confidence: high
 created: 2026-02-23
 updated: 2026-03-05
 source-litnote: Synthesized from clinical practice
 extraction-date: 2026-04-15
+status: conscious
 ---
 
 # Carnitine — Fatty Acid Transport into Mitochondria

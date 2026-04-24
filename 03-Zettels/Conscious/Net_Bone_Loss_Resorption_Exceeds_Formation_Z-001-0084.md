@@ -1,18 +1,22 @@
----
-uid: Z-001-0084
+---uid: Z-001-0084
 type: zettel
 title: Net Bone Loss Resorption Exceeds Formation
-aliases: [Z-001-0084, Net_Bone_Loss_Resorption_Exceeds_Formation]
-domain: 001
+aliases:
+- '""[Z-001-0084""'
+- '""Net_Bone_Loss_Resorption_Exceeds_Formation]""'
+domain: 1
 domain-name: Insulin Signaling
-tags: [zettel, bone-health, cellular-mechanisms]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[LitNote_Bone_Remodeling_Cellular_Mechanisms_L-001-0011]
+tags:
+- '""[zettel""'
+- '""bone-health""'
+- '""cellular-mechanisms]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source: '[[LitNote_Bone_Remodeling_Cellular_Mechanisms_L-001-0011]'
 confidence: high
-created: 2026-03-01
+created: '2026-03-01'
 status: conscious
 source-litnote: legacy-no-source
-extraction-date: 2026-04-15
+extraction-date: '2026-04-15'
 ---
 
 # Net Bone Loss Resorption Exceeds Formation

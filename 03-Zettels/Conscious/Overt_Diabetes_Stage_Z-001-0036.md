@@ -1,16 +1,25 @@
----
-uid: Z-001-0036
+---uid: Z-001-0036
 type: zettel
 title: Overt Diabetes Stage
-aliases: [Z-001-0036, Overt-Diabetes, Stage-3-IR, T2D]
-domain: 001
+aliases:
+- '""[Z-001-0036""'
+- '""Overt-Diabetes""'
+- '""Stage-3-IR""'
+- '""T2D]""'
+domain: 1
 domain-name: Insulin Signaling
-tags: [zettel, diabetes, T2D, beta-cell-failure, complications]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[LitNote_IR_Mechanisms_Map_L-001-0005]
-source-litnote: "[[Synthetic_Insulin_Resistance_Pathophysiology_L-001-0730]]"
+tags:
+- '""[zettel""'
+- '""diabetes""'
+- '""T2D""'
+- '""beta-cell-failure""'
+- '""complications]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source: '[[LitNote_IR_Mechanisms_Map_L-001-0005]'
+source-litnote: '"[[Synthetic_Insulin_Resistance_Pathophysiology_L-001-0730]]"'
 confidence: high
-created: 2026-02-24
+created: '2026-02-24'
+status: conscious
 ---
 
 # Overt Diabetes Stage

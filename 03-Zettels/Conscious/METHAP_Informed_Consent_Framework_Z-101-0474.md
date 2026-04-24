@@ -1,13 +1,20 @@
----
-uid: Z-101-0474
+---uid: Z-101-0474
 type: zettel
 title: METHAP Informed Consent Framework
-aliases: [Z-101-0474]
+aliases: '[Z-101-0474]'
 domain: 101
-tags: [zettel, methap, informed-consent, ethics, gdpr, clinical-trial, phd, conscious]
-parent-moc: [[MOC-Vitamin-Metabolism]]
-source-litnote: [[LitNote_CGPT_0081_PhD_Protocol_IRB_L-101-0048.md]
-extraction-date: 2026-04-15
+tags:
+- '""[zettel""'
+- '""methap""'
+- '""informed-consent""'
+- '""ethics""'
+- '""gdpr""'
+- '""clinical-trial""'
+- '""phd""'
+- '""conscious]""'
+parent-moc: '"[[MOC-Vitamin-Metabolism]]"'
+source-litnote: '[[LitNote_CGPT_0081_PhD_Protocol_IRB_L-101-0048.md]'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

@@ -1,16 +1,23 @@
----
-uid: Z-001-1139
+---uid: Z-001-1139
 type: zettel
 title: HBOT Radiosensitization Chemotherapy Enhancement
-aliases: [Z-001-1139, HBOT-Radiosensitization]
-domain: 001
+aliases:
+- '""[Z-001-1139""'
+- '""HBOT-Radiosensitization]""'
+domain: 1
 domain-name: Cancer Metabolism
-tags: [zettel, hbot, radiosensitization, chemotherapy, enhancement]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_HBOT_Cancer_L-001-0614]
-extraction-date: 2026-04-15
+tags:
+- '""[zettel""'
+- '""hbot""'
+- '""radiosensitization""'
+- '""chemotherapy""'
+- '""enhancement]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source-litnote: '[[LitNote_HBOT_Cancer_L-001-0614]'
+extraction-date: '2026-04-15'
 confidence: high
-created: 2026-03-08
+created: '2026-03-08'
+status: conscious
 ---
 
 source-litnote: "[[CGPT_0264_Warburg_Effect_and_Cancer_L-001-0704]]"

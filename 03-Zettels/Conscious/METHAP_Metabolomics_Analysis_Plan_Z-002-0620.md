@@ -1,16 +1,25 @@
----
-uid: Z-002-0620
+---uid: Z-002-0620
 type: zettel
-title: "METHAP Metabolomics Analysis Plan"
-aliases: [Z-002-0620, methap-metabolomics, gc-ms-analysis]
-domain: 002
+title: METHAP Metabolomics Analysis Plan
+aliases:
+- '""Z-002-0620""'
+- '""methap-metabolomics""'
+- '""gc-ms-analysis""'
+domain: 2
 domain-name: Research Ethics
-tags: [zettel, methap, metabolomics, gc-ms, biomarkers]
-parent-moc: [[MOC-Vitamin-Metabolism]]
-source-litnote: "[[Machine_Learning_in_Metabolomics_METHAP_L-001-0618_v4.0]]"
+tags:
+- '""zettel""'
+- '""methap""'
+- '""metabolomics""'
+- '""gc-ms""'
+- '""biomarkers""'
+parent-moc:
+- '""[''MOC-Vitamin-Metabolism'']""'
+source-litnote: '"[[Machine_Learning_in_Metabolomics_METHAP_L-001-0618_v4.0]]"'
 extraction-date: 2026-04-15
 confidence: high
 created: 2026-03-27
+status: conscious
 ---
 
 # METHAP  Analysis Plan

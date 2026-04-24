@@ -1,19 +1,12 @@
----
-uid: Z-001-0585J
+---uid: Z-001-0585J
 type: zettel
-title: "IBD Disease Activity Indices"
+title: '"IBD Disease Activity Indices"'
 aliases: []
-  - Z-001-0585J
-  - IBD-Disease-Activity
-  - Disease-Activity-Indices-IBD
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - gastroenterology
-  - clinical
-parent-moc: "[[MOC-Gastroenterology]]"
-source-litnote: "[[CGPT_0209_Gastroenterology_Registrar_Assessment_L-001-0705]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Gastroenterology]]"'
+source-litnote: '"[[CGPT_0209_Gastroenterology_Registrar_Assessment_L-001-0705]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

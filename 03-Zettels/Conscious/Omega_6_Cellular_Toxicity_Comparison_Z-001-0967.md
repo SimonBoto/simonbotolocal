@@ -1,14 +1,23 @@
----
-parent-index: [[03-Zettels-Conscious]]
+---parent-index: '[[03-Zettels-Conscious]]'
 uid: Z-001-0967
 type: zettel
 title: Omega-6 Cellular Toxicity Mechanisms — Comparison to Known Toxins
-aliases: [Z-001-0967]
-domain: 001
-tags: [zettel, omega-6, cellular-toxicity, comparison, heavy-metals, pops, mechanism, apoptosis, oxidative-stress, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-extraction-date: 2026-03-07
-source-litnote: [[LitNote_Seed_Oils_Environmental_Toxins_L-001-0526]
+aliases: '[Z-001-0967]'
+domain: 1
+tags:
+- '""[zettel""'
+- '""omega-6""'
+- '""cellular-toxicity""'
+- '""comparison""'
+- '""heavy-metals""'
+- '""pops""'
+- '""mechanism""'
+- '""apoptosis""'
+- '""oxidative-stress""'
+- '""conscious]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+extraction-date: '2026-03-07'
+source-litnote: '[[LitNote_Seed_Oils_Environmental_Toxins_L-001-0526]'
 status: conscious
 ---
 parent-index: [[03-Zettels-Conscious]]

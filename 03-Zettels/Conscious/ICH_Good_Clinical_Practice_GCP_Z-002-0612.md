@@ -1,16 +1,24 @@
----
-uid: Z-002-0612
+---uid: Z-002-0612
 type: zettel
-title: "ICH Good Clinical Practice (GCP) Guidelines"
-aliases: [Z-002-0612, ich-gcp, clinical-trial-standards]
-domain: 002
+title: ICH Good Clinical Practice (GCP) Guidelines
+aliases:
+- '""Z-002-0612""'
+- '""ich-gcp""'
+- '""clinical-trial-standards""'
+domain: 2
 domain-name: Research Ethics
-tags: [zettel, research-ethics, clinical-trials, regulatory]
-parent-moc: [[MOC-Research-Ethics]]
-source-litnote: "[[LitNote_Historical_Ethics_Guidelines_L-002-0602]"
+tags:
+- '""zettel""'
+- '""research-ethics""'
+- '""clinical-trials""'
+- '""regulatory""'
+parent-moc:
+- '""[''MOC-Research-Ethics'']""'
+source-litnote: '[[LitNote_Historical_Ethics_Guidelines_L-002-0602]'
 extraction-date: 2026-04-15
 confidence: high
 created: 2026-03-27
+status: conscious
 ---
 
 # ICH Good  Practice (GCP) Guidelines

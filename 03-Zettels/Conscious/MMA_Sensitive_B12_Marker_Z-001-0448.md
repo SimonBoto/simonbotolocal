@@ -1,14 +1,22 @@
----
-uid: Z-001-0448
+---uid: Z-001-0448
 type: zettel
 title: MMA — The Sensitive B12 Marker
-aliases: [MMA, Methylmalonic-Acid, Sensitive, Specific]
-domain: 001
-tags: [zettel, mma, methylmalonic-acid, sensitive, b12]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[MMA""'
+- '""Methylmalonic-Acid""'
+- '""Sensitive""'
+- '""Specific]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""mma""'
+- '""methylmalonic-acid""'
+- '""sensitive""'
+- '""b12]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_B12_Clinical_Assessment_L-001-0408]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_B12_Clinical_Assessment_L-001-0408]'
+extraction-date: '2026-03-01'
 ---
 
 # MMA — The Sensitive B12 Marker

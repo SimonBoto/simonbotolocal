@@ -1,14 +1,21 @@
----
-uid: Z-001-0518
+---uid: Z-001-0518
 type: zettel
 title: Seven Countries Study — Reassessment
-aliases: [Seven-Countries, Keys-Study, Saturated-Fat-Debate]
-domain: 001
-tags: [zettel, seven-countries, keys, saturated-fat, reassessment]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Seven-Countries""'
+- '""Keys-Study""'
+- '""Saturated-Fat-Debate]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""seven-countries""'
+- '""keys""'
+- '""saturated-fat""'
+- '""reassessment]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]'
+extraction-date: '2026-03-01'
 ---
 
 # Seven Countries Study — Reassessment

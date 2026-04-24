@@ -1,14 +1,22 @@
----
-uid: Z-001-0555
+---uid: Z-001-0555
 type: zettel
 title: Mitochondrial Biogenesis — Exercise and PGC-1α
-aliases: [Mitochondrial-Biogenesis, PGC-1a, Exercise, Zone-2]
-domain: 001
-tags: [zettel, mitochondrial-biogenesis, pgc-1a, exercise, zone-2]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Mitochondrial-Biogenesis""'
+- '""PGC-1a""'
+- '""Exercise""'
+- '""Zone-2]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""mitochondrial-biogenesis""'
+- '""pgc-1a""'
+- '""exercise""'
+- '""zone-2]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Mitochondrial_Health_Strategies_L-001-0511]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Mitochondrial_Health_Strategies_L-001-0511]'
+extraction-date: '2026-03-01'
 ---
 
 # l Biogenesis — Exercise and PGC-1α

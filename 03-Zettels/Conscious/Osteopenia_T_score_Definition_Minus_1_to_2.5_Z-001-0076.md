@@ -1,18 +1,23 @@
----
-uid: Z-001-0076
+---uid: Z-001-0076
 type: zettel
 title: Osteopenia T score Definition Minus 1 to 2.5
-aliases: [Z-001-0076, Osteopenia_T_score_Definition_Minus_1_to_2.5]
-domain: 001
+aliases:
+- '""[Z-001-0076""'
+- '""Osteopenia_T_score_Definition_Minus_1_to_2.5]""'
+domain: 1
 domain-name: Insulin Signaling
-tags: [zettel, bone-health, vitamin-d, clinical]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[LitNote_Osteopenia_Osteoporosis_Definitions_L-001-0010]
+tags:
+- '""[zettel""'
+- '""bone-health""'
+- '""vitamin-d""'
+- '""clinical]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source: '[[LitNote_Osteopenia_Osteoporosis_Definitions_L-001-0010]'
 confidence: high
-created: 2026-03-01
+created: '2026-03-01'
 status: conscious
 source-litnote: legacy-no-source
-extraction-date: 2026-04-15
+extraction-date: '2026-04-15'
 ---
 
 # Osteopenia T score Definition Minus 1 to 2.5

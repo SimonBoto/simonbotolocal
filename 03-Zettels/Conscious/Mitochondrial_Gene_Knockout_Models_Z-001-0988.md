@@ -1,13 +1,23 @@
----
-uid: Z-001-0988
+---uid: Z-001-0988
 type: zettel
 title: Mitochondrial Gene Knockout Models — POLG, TFAM, and Dynamics Proteins
-aliases: [Z-001-0988]
-domain: 001
-tags: [zettel, mitochondrial-knockout, polg, tfam, mfn1, mfn2, drp1, sod2, genetics, mouse-models, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-extraction-date: 2026-03-07
-source-litnote: [[LitNote_VDR_Mitochondrial_Knockout_Studies_L-001-0577]
+aliases: '[Z-001-0988]'
+domain: 1
+tags:
+- '""[zettel""'
+- '""mitochondrial-knockout""'
+- '""polg""'
+- '""tfam""'
+- '""mfn1""'
+- '""mfn2""'
+- '""drp1""'
+- '""sod2""'
+- '""genetics""'
+- '""mouse-models""'
+- '""conscious]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+extraction-date: '2026-03-07'
+source-litnote: '[[LitNote_VDR_Mitochondrial_Knockout_Studies_L-001-0577]'
 status: conscious
 ---
 

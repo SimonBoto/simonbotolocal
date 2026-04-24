@@ -1,26 +1,14 @@
----
-uid: Z-001-1087
+---uid: Z-001-1087
 type: zettel
 title: Purine Salvage Pathway — Recycling Mechanism
 aliases: []
-  - Z-001-1087
-  - Salvage-Pathway
-  - HGPRT
-  - Purine-Recycling
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - salvage
-  - purine
-  - recycling
-  - hprt
-  - aprtt
-  - lesch-nyhan
-parent-moc: "[[MOC-Metabolic-Pathways]]"
+parent-moc: '"[[MOC-Metabolic-Pathways]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-08
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-08'
 ---
 
 # Purine Salvage Pathway — Recycling Mechanism

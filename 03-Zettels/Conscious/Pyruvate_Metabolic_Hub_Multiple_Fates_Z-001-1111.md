@@ -1,25 +1,14 @@
----
-uid: Z-001-1111
+---uid: Z-001-1111
 type: zettel
 title: Pyruvate — Metabolic Hub with Multiple Fates
 aliases: []
-  - Z-001-1111
-  - Pyruvate-Hub
-  - Metabolic-Crossroads
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - pyruvate
-  - hub
-  - metabolism
-  - lactate
-  - acetyl-coa
-  - gluconeogenesis
-parent-moc: "[[MOC-Glycolysis-PPP]]"
+parent-moc: '"[[MOC-Glycolysis-PPP]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-08
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-08'
 ---
 
 # Pyruvate — Metabolic Hub with Multiple Fates

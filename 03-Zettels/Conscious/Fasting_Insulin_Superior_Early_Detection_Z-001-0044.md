@@ -1,16 +1,24 @@
----
-uid: Z-001-0044
-type: zettel-claim
+---uid: Z-001-0044
+type: zettel
 title: Fasting Insulin Superior for Early IR Detection
-aliases: [Z-001-0044, Fasting-Insulin-Superiority]
-domain: 001
+aliases:
+- '""Z-001-0044""'
+- '""Fasting-Insulin-Superiority""'
+domain: 1
 domain-name: Insulin Signaling
-tags: [zettel, fasting-insulin, early-detection, superiority, claim]
-parent-moc: [[MOC-Insulin-Signaling]]
+tags:
+- '""zettel""'
+- '""fasting-insulin""'
+- '""early-detection""'
+- '""superiority""'
+- '""claim""'
+parent-moc:
+- '""[''MOC-Insulin-Signaling'']""'
 confidence: high
 created: 2026-02-24
 source-litnote: Synthesized from clinical practice
 extraction-date: 2026-04-15
+status: conscious
 ---
 
 # Fasting  Superior for Early IR Detection

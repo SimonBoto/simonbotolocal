@@ -1,14 +1,22 @@
----
-uid: Z-001-0207
+---uid: Z-001-0207
 type: zettel
 title: Magnesium in Energy Production — Mitochondrial Function and ATP Synthesis
-aliases: [Mg-Energy, Magnesium-Mitochondria, ATP-Synthesis]
-domain: 001
-tags: [zettel, magnesium, mitochondria, ATP, energy, metabolism]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Mg-Energy""'
+- '""Magnesium-Mitochondria""'
+- '""ATP-Synthesis]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""magnesium""'
+- '""mitochondria""'
+- '""ATP""'
+- '""energy""'
+- '""metabolism]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Magnesium_Biochemistry_L-001-0201a]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Magnesium_Biochemistry_L-001-0201a]'
+extraction-date: '2026-03-01'
 ---
 
 # Magnesium in Energy Production — l Function and ATP Synthesis

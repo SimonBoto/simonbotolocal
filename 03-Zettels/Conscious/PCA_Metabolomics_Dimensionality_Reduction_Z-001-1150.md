@@ -1,16 +1,22 @@
----
-uid: Z-001-1150
+---uid: Z-001-1150
 type: zettel
 title: PCA Metabolomics Dimensionality Reduction
-aliases: [Z-001-1150, PCA-Metabolomics]
-domain: 001
+aliases:
+- '""[Z-001-1150""'
+- '""PCA-Metabolomics]""'
+domain: 1
 domain-name: Metabolomics Analysis
-tags: [zettel, pca, metabolomics, dimensionality-reduction]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Statistical_Analysis_Omics_L-001-0617]
-extraction-date: 2026-04-15
+tags:
+- '""[zettel""'
+- '""pca""'
+- '""metabolomics""'
+- '""dimensionality-reduction]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source-litnote: '[[LitNote_Statistical_Analysis_Omics_L-001-0617]'
+extraction-date: '2026-04-15'
 confidence: high
-created: 2026-03-08
+created: '2026-03-08'
+status: conscious
 ---
 
 source-litnote: "[[CGPT_0475_Metabolic_Biomarkers_for_Insulin_L-001-0709]]"

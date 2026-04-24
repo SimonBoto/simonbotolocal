@@ -1,21 +1,12 @@
----
-uid: Z-001-0579H
+---uid: Z-001-0579H
 type: zettel
-title: "HPGA Sleep Regulation"
+title: '"HPGA Sleep Regulation"'
 aliases: []
-  - Z-001-0579H
-  - HPGA_Sleep
-  - Sleep_Hormones
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - endocrinology
-  - hpg
-  - sleep
-  - circadian
-parent-moc: "[[MOC-Endocrinology]]"
-source-litnote: "[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Endocrinology]]"'
+source-litnote: '"[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

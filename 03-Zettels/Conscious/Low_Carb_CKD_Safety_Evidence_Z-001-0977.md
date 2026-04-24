@@ -1,13 +1,20 @@
----
-uid: Z-001-0977
+---uid: Z-001-0977
 type: zettel
 title: Low Carb CKD Safety Evidence — Ketogenic Diets in Kidney Disease
-aliases: [Z-001-0977]
-domain: 001
-tags: [zettel, low-carb, ketogenic, ckd, safety, evidence, review, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-extraction-date: 2026-03-07
-source-litnote: [[LitNote_Carbohydrate_Context_Protein_CKD_L-001-0574]
+aliases: '[Z-001-0977]'
+domain: 1
+tags:
+- '""[zettel""'
+- '""low-carb""'
+- '""ketogenic""'
+- '""ckd""'
+- '""safety""'
+- '""evidence""'
+- '""review""'
+- '""conscious]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+extraction-date: '2026-03-07'
+source-litnote: '[[LitNote_Carbohydrate_Context_Protein_CKD_L-001-0574]'
 status: conscious
 ---
 

@@ -1,19 +1,12 @@
----
-uid: Z-001-0584M
+---uid: Z-001-0584M
 type: zettel
-title: "Environmental Toxins and Metabolic Health"
+title: '"Environmental Toxins and Metabolic Health"'
 aliases: []
-  - Z-001-0584M
-  - Environmental-Toxins
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - metabolic
-  - environment
-  - toxins
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
-source-litnote: "[[CGPT_0124_Profound_Truths_Revolutionizing_Health_L-001-0706]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Metabolic-Syndrome]]"'
+source-litnote: '"[[CGPT_0124_Profound_Truths_Revolutionizing_Health_L-001-0706]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

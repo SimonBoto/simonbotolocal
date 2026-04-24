@@ -1,19 +1,12 @@
----
-uid: Z-001-0584J
+---uid: Z-001-0584J
 type: zettel
-title: "Movement Prescription for Clinical Practice"
+title: '"Movement Prescription for Clinical Practice"'
 aliases: []
-  - Z-001-0584J
-  - Movement-Prescription
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - metabolic
-  - movement
-  - clinical
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
-source-litnote: "[[CGPT_0124_Profound_Truths_Revolutionizing_Health_L-001-0706]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Metabolic-Syndrome]]"'
+source-litnote: '"[[CGPT_0124_Profound_Truths_Revolutionizing_Health_L-001-0706]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

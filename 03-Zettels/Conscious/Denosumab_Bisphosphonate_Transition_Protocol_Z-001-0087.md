@@ -1,18 +1,23 @@
----
-uid: Z-001-0087
+---uid: Z-001-0087
 type: zettel
 title: Denosumab Bisphosphonate Transition Protocol
-aliases: [Z-001-0087, Denosumab_Bisphosphonate_Transition_Protocol]
-domain: 001
+aliases:
+- '""[Z-001-0087""'
+- '""Denosumab_Bisphosphonate_Transition_Protocol]""'
+domain: 1
 domain-name: Insulin Signaling
-tags: [zettel, bone-health, pharmacology, denosumab]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[LitNote_Denosumab_Mechanism_Risks_L-001-0012]
+tags:
+- '""[zettel""'
+- '""bone-health""'
+- '""pharmacology""'
+- '""denosumab]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source: '[[LitNote_Denosumab_Mechanism_Risks_L-001-0012]'
 confidence: high
-created: 2026-03-01
+created: '2026-03-01'
 status: conscious
 source-litnote: legacy-no-source
-extraction-date: 2026-04-15
+extraction-date: '2026-04-15'
 ---
 
 # Denosumab Bisphosphonate Transition Protocol

@@ -1,17 +1,29 @@
----
-uid: Z-001-0932
+---uid: Z-001-0932
 type: zettel
 title: FDR 0.1 vs 0.05 Selection Framework
-aliases: [Z-001-0932, Z-001-0525-deprecated, FDR Threshold Selection, Statistical Significance Threshold]
-domain: 001
+aliases:
+- '""Z-001-0932""'
+- '""Z-001-0525-deprecated""'
+- '""FDR Threshold Selection""'
+- '""Statistical Significance Threshold""'
+domain: 1
 domain-name: Research Methods
-tags: [zettel, statistics, fdr, study-design, exploratory, confirmatory, decision-framework]
-parent-moc: [[MOC-Insulin-Signaling]]
+tags:
+- '""zettel""'
+- '""statistics""'
+- '""fdr""'
+- '""study-design""'
+- '""exploratory""'
+- '""confirmatory""'
+- '""decision-framework""'
+parent-moc:
+- '""[''MOC-Insulin-Signaling'']""'
 confidence: high
 created: 2026-03-03
 updated: 2026-03-05
 source-litnote: Synthesized from clinical practice
 extraction-date: 2026-04-15
+status: conscious
 ---
 
 # FDR 0.1 vs 0.05 Selection Framework

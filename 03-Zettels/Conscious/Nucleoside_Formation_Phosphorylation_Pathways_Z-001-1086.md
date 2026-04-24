@@ -1,24 +1,14 @@
----
-uid: Z-001-1086
+---uid: Z-001-1086
 type: zettel
 title: Nucleoside Formation and Phosphorylation Pathways
 aliases: []
-  - Z-001-1086
-  - Nucleoside-Formation
-  - Phosphorylation
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - nucleoside
-  - phosphorylation
-  - nucleotides
-  - atp
-  - amp
-parent-moc: "[[MOC-Metabolic-Pathways]]"
+parent-moc: '"[[MOC-Metabolic-Pathways]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-08
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-08'
 ---
 
 # Nucleoside Formation and Phosphorylation Pathways

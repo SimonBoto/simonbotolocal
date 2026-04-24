@@ -1,16 +1,26 @@
----
-uid: Z-101-0004
+---uid: Z-101-0004
 type: zettel
 title: Immunometabolism and the Warburg Effect in Inflammation
-aliases: [Z-101-0004, Immunometabolism, Warburg-Effect, M1-M2]
+aliases:
+- '""[Z-101-0004""'
+- '""Immunometabolism""'
+- '""Warburg-Effect""'
+- '""M1-M2]""'
 domain: 101
 domain-name: Pharmacometabolomics
-tags: [zettel, immunometabolism, Warburg-effect, glycolysis, M1-macrophages, M2-macrophages]
-parent-moc: [[MOC-Mitochondrial-Function]]
-source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]
-source-litnote: "[[Synthetic_Immunometabolism_L-001-0736]]"
+tags:
+- '""[zettel""'
+- '""immunometabolism""'
+- '""Warburg-effect""'
+- '""glycolysis""'
+- '""M1-macrophages""'
+- '""M2-macrophages]""'
+parent-moc: '"[[MOC-Mitochondrial-Function]]"'
+source: '[[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]'
+source-litnote: '"[[Synthetic_Immunometabolism_L-001-0736]]"'
 confidence: high
-created: 2026-02-24
+created: '2026-02-24'
+status: conscious
 ---
 
 # Immuno and the Warburg Effect in Inflammation

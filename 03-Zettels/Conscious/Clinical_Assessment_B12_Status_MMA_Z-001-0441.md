@@ -1,27 +1,14 @@
----
-uid: Z-001-0441
+---uid: Z-001-0441
 type: zettel
 title: Clinical Assessment of B12 Status — MMA
 aliases: []
-  - Z-001-0441
-  - B12-Assessment
-  - MMA
-  - Methylmalonic-Acid
-  - Biomarker
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - b12
-  - assessment
-  - mma
-  - biomarker
-  - homocysteine
-  - functional
-parent-moc: "[[MOC-Mitochondrial-Function]]"
+parent-moc: '"[[MOC-Mitochondrial-Function]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-01
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-01'
 ---
 
 # Clinical Assessment of B12 Status — MMA

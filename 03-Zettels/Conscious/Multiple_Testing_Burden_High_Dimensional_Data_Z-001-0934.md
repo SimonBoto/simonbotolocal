@@ -1,18 +1,31 @@
----
-uid: Z-001-0934
+---uid: Z-001-0934
 type: zettel
 title: Multiple Testing Burden in High-Dimensional Data
-aliases: [Z-001-0934, Z-001-0527-deprecated, Multiple Comparisons Problem, High-Dimensional Statistics]
-domain: 001
+aliases:
+- '"""Z-001-0934"""'
+- '"""Z-001-0527-deprecated"""'
+- '"""Multiple Comparisons Problem"""'
+- '"""High-Dimensional Statistics"""'
+domain: 1
 domain-name: Research Methods
-tags: [zettel, statistics, multiple-testing, high-dimensional-data, omics, metabolomics, type-1-error, false-positives]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: "[[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]"
-source-litnote: "[[Synthetic_Omics_Methods_Statistics_L-001-0732]]"
+tags:
+- '"""zettel"""'
+- '"""statistics"""'
+- '"""multiple-testing"""'
+- '"""high-dimensional-data"""'
+- '"""omics"""'
+- '"""metabolomics"""'
+- '"""type-1-error"""'
+- '"""false-positives"""'
+parent-moc:
+- '"""[''MOC-Insulin-Signaling'']"""'
+source: '[[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]'
+source-litnote: '"[[Synthetic_Omics_Methods_Statistics_L-001-0732]]"'
 confidence: high
 created: 2026-03-03
 updated: 2026-03-05
 extraction-date: 2026-04-21
+status: conscious
 ---
 
 # Multiple Testing Burden in High-Dimensional Data

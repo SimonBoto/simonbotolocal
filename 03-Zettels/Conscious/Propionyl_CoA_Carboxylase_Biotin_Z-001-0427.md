@@ -1,25 +1,14 @@
----
-uid: Z-001-0427
+---uid: Z-001-0427
 type: zettel
 title: Propionyl-CoA Carboxylase — Biotin-Dependent Step
 aliases: []
-  - Z-001-0427
-  - PCC
-  - Propionyl-CoA-Carboxylase
-  - Biotin
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - pcc
-  - biotin
-  - carboxylase
-  - propionyl-coa
-  - b7
-parent-moc: "[[MOC-Methylation]]"
+parent-moc: '"[[MOC-Methylation]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-01
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-01'
 ---
 
 # Propionyl-CoA Carboxylase — Biotin-Dependent Step

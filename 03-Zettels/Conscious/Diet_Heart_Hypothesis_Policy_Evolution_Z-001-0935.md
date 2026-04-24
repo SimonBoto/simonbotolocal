@@ -1,15 +1,24 @@
----
-uid: Z-001-0935
+---uid: Z-001-0935
 type: zettel
 title: Diet-Heart Hypothesis — Policy Evolution
-aliases: [Z-001-0935, Z-001-0528-deprecated, Policy-Evolution, AHA-Guidelines, McGovern-Committee]
-domain: 001
-tags: [zettel, policy, guidelines, aha, mccommittee]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Z-001-0935""'
+- '""Z-001-0528-deprecated""'
+- '""Policy-Evolution""'
+- '""AHA-Guidelines""'
+- '""McGovern-Committee]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""policy""'
+- '""guidelines""'
+- '""aha""'
+- '""mccommittee]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]
-extraction-date: 2026-03-01
-updated: 2026-03-05
+source-litnote: '[[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]'
+extraction-date: '2026-03-01'
+updated: '2026-03-05'
 ---
 
 # Diet-Heart Hypothesis — Policy 

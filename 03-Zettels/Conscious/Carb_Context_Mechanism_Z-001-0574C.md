@@ -1,22 +1,12 @@
----
-uid: Z-001-0574C
+---uid: Z-001-0574C
 type: zettel
-title: "Carb Context Mechanism — Metabolic Interactions"
+title: '"Carb Context Mechanism — Metabolic Interactions"'
 aliases: []
-  - Z-001-0574C
-  - Carb-Context-Mechanism
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - mechanism
-  - metabolic-physiology
-  - kidney
-  - protein
-  - carbohydrate
-  - ckd
-parent-moc: "[[MOC-Metabolism]]"
-source-litnote: "[[Carbohydrate_Context_Modifies_Protein_Effects_-_L-001-0574_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Metabolism]]"'
+source-litnote: '"[[Carbohydrate_Context_Modifies_Protein_Effects_-_L-001-0574_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

@@ -1,16 +1,26 @@
----
-uid: Z-001-0558
+---uid: Z-001-0558
 type: zettel
 title: Exploratory vs Confirmatory Research Definitions
-aliases: [Z-001-0558, Study Design Classification, Research Phase Definitions]
-domain: 001
+aliases:
+- '""Z-001-0558""'
+- '""Study Design Classification""'
+- '""Research Phase Definitions""'
+domain: 1
 domain-name: Research Methods
-tags: [zettel, study-design, exploratory-research, confirmatory-research, methodology, research-standards]
-parent-moc: [[MOC-Insulin-Signaling]]
+tags:
+- '""zettel""'
+- '""study-design""'
+- '""exploratory-research""'
+- '""confirmatory-research""'
+- '""methodology""'
+- '""research-standards""'
+parent-moc:
+- '""[''MOC-Insulin-Signaling'']""'
 confidence: high
 created: 2026-03-03
 source-litnote: Synthesized from clinical practice
 extraction-date: 2026-04-15
+status: conscious
 ---
 
 # Exploratory vs Confirmatory Research Definitions

@@ -1,15 +1,25 @@
----
-uid: Z-001-0606
+---uid: Z-001-0606
 type: zettel
 title: Hydroxyproline and Collagen as Oxalate Sources
-aliases: [Z-001-0606, hydroxyproline, collagen, oxalate, connective-tissue]
-domain: 001
-tags: [zettel, hydroxyproline, collagen, oxalate, connective-tissue]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[L-001-0060A]
-source-litnote: "[[Synthetic_Oxalate_Metabolism_L-001-0729]]"
+aliases:
+- '""[Z-001-0606""'
+- '""hydroxyproline""'
+- '""collagen""'
+- '""oxalate""'
+- '""connective-tissue]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""hydroxyproline""'
+- '""collagen""'
+- '""oxalate""'
+- '""connective-tissue]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source: '[[L-001-0060A]'
+source-litnote: '"[[Synthetic_Oxalate_Metabolism_L-001-0729]]"'
 confidence: high
-created: 2026-03-04
+created: '2026-03-04'
+status: conscious
 ---
 
 # Hydroxyproline and Collagen as  Sources

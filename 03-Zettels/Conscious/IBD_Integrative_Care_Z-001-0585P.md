@@ -1,19 +1,12 @@
----
-uid: Z-001-0585P
+---uid: Z-001-0585P
 type: zettel
-title: "IBD Integrative Care"
+title: '"IBD Integrative Care"'
 aliases: []
-  - Z-001-0585P
-  - IBD-Integrative-Care
-  - Integrative-Care-IBD
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - gastroenterology
-  - integrative
-parent-moc: "[[MOC-Gastroenterology]]"
-source-litnote: "[[CGPT_0209_Gastroenterology_Registrar_Assessment_L-001-0705]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Gastroenterology]]"'
+source-litnote: '"[[CGPT_0209_Gastroenterology_Registrar_Assessment_L-001-0705]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

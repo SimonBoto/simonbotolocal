@@ -1,17 +1,29 @@
----
-uid: Z-001-0904
+---uid: Z-001-0904
 type: zettel
-title: "Genomics — Structure and Function of the Genome"
-aliases: [Z-001-0904, Z-001-0004-deprecated, Genomics_Definition, Human_Genome]
-domain: 001
+title: Genomics — Structure and Function of the Genome
+aliases:
+- '""Z-001-0904""'
+- '""Z-001-0004-deprecated""'
+- '""Genomics_Definition""'
+- '""Human_Genome""'
+domain: 1
 domain-name: Systems-Biology-Metabolomics
-tags: [zettel, genomics, genome, DNA, pharmacogenomics, GWAS, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
+tags:
+- '""zettel""'
+- '""genomics""'
+- '""genome""'
+- '""DNA""'
+- '""pharmacogenomics""'
+- '""GWAS""'
+- '""conscious""'
+parent-moc:
+- '""[''MOC-Insulin-Signaling'']""'
 confidence: high
 created: 2026-02-23
 updated: 2026-03-05
 source-litnote: Synthesized from clinical practice
 extraction-date: 2026-04-15
+status: conscious
 ---
 
 # Genomics — Structure and Function of the Genome

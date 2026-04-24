@@ -1,21 +1,12 @@
----
-uid: Z-001-0140
+---uid: Z-001-0140
 type: zettel
-title: "Long-Term Osteoporosis Management"
+title: '"Long-Term Osteoporosis Management"'
 aliases: []
-  - Z-001-0140
-  - Long-Term-Management
-  - Individualized-Management
-  - Osteoporosis-Longevity
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - long-term-management
-  - osteoporosis
-  - clinical-protocols
-parent-moc: "[[MOC-Clinical-Metabolomics]]"
-source-litnote: "Medication_Duration_Guidelines_L-001-0045L_v4.0"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Clinical-Metabolomics]]"'
+source-litnote: '"Medication_Duration_Guidelines_L-001-0045L_v4.0"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

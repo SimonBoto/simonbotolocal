@@ -1,18 +1,12 @@
----
-uid: Z-001-0578H
+---uid: Z-001-0578H
 type: zettel
-title: "Functional Hypogonadism Pattern"
+title: '"Functional Hypogonadism Pattern"'
 aliases: []
-  - Z-001-0578H
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - hormones
-  - male
-  - functional
-parent-moc: "[[MOC-Hormones]]"
-source-litnote: "[[Male_Hormone_Assessment_-_Clinical_Scenarios_and_L-001-0578_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Hormones]]"'
+source-litnote: '"[[Male_Hormone_Assessment_-_Clinical_Scenarios_and_L-001-0578_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

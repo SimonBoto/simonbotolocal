@@ -1,14 +1,22 @@
----
-uid: Z-001-0231
+---uid: Z-001-0231
 type: zettel
 title: Pre-Insulin Era — The Starvation Treatment for Diabetes
-aliases: [Starvation-Diet, Allen-Diet, Pre-Insulin-Diabetes]
-domain: 001
-tags: [zettel, insulin, history, diabetes, starvation-treatment, 1920s]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Starvation-Diet""'
+- '""Allen-Diet""'
+- '""Pre-Insulin-Diabetes]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""insulin""'
+- '""history""'
+- '""diabetes""'
+- '""starvation-treatment""'
+- '""1920s]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Insulin_History_L-001-0207]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Insulin_History_L-001-0207]'
+extraction-date: '2026-03-01'
 ---
 
 # Pre- Era — The Starvation Treatment for Diabetes

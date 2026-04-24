@@ -1,13 +1,20 @@
----
-uid: Z-001-0992
+---uid: Z-001-0992
 type: zettel
 title: Prolactinoma — Diagnosis, Clinical Effects, and Management
-aliases: [Z-001-0992]
-domain: 001
-tags: [zettel, prolactinoma, hyperprolactinemia, pituitary-adenoma, hypogonadism, galactorrhea, dopamine-agonists, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-extraction-date: 2026-03-07
-source-litnote: [[LitNote_Male_Hormone_Assessment_Scenarios_L-001-0578]
+aliases: '[Z-001-0992]'
+domain: 1
+tags:
+- '""[zettel""'
+- '""prolactinoma""'
+- '""hyperprolactinemia""'
+- '""pituitary-adenoma""'
+- '""hypogonadism""'
+- '""galactorrhea""'
+- '""dopamine-agonists""'
+- '""conscious]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+extraction-date: '2026-03-07'
+source-litnote: '[[LitNote_Male_Hormone_Assessment_Scenarios_L-001-0578]'
 status: conscious
 ---
 

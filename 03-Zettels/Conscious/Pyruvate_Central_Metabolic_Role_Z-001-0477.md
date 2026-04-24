@@ -1,27 +1,14 @@
----
-uid: Z-001-0477
+---uid: Z-001-0477
 type: zettel
 title: Pyruvate — Central Metabolic Role
 aliases: []
-  - Z-001-0477
-  - Pyruvate
-  - PDH
-  - Crossroads
-  - Glycolysis-End
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - pyruvate
-  - metabolism
-  - pdh
-  - acetyl-coa
-  - crossroads
-  - b-vitamins
-parent-moc: "[[MOC-Glycolysis-PPP]]"
+parent-moc: '"[[MOC-Glycolysis-PPP]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-04
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-04'
 ---
 
 # Pyruvate — Central Metabolic Role

@@ -1,29 +1,14 @@
----
-uid: Z-001-0474
+---uid: Z-001-0474
 type: zettel
 title: Common Aldoses and Their Roles
 aliases: []
-  - Z-001-0474
-  - Aldoses
-  - Glucose
-  - Galactose
-  - Ribose
-  - Mannose
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - aldoses
-  - glucose
-  - galactose
-  - ribose
-  - mannose
-  - sugars
-  - metabolism
-parent-moc: "[[MOC-Glycolysis-PPP]]"
+parent-moc: '"[[MOC-Glycolysis-PPP]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-04
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-04'
 ---
 
 # Common Aldoses and Their Roles

@@ -1,26 +1,14 @@
----
-uid: Z-001-0470
+---uid: Z-001-0470
 type: zettel
 title: Evolutionary Ancient Glycolysis
 aliases: []
-  - Z-001-0470
-  - Ancient-Glycolysis
-  - Universal-Pathway
-  - Evolution
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - evolution
-  - glycolysis
-  - ancient
-  - universal
-  - archaea
-  - luca
-parent-moc: "[[MOC-Evolutionary-Biochemistry]]"
+parent-moc: '"[[MOC-Evolutionary-Biochemistry]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-04
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-04'
 ---
 
 # Evolutionary Ancient Glycolysis

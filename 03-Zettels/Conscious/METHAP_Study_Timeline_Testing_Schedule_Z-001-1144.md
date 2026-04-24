@@ -1,16 +1,24 @@
----
-uid: Z-001-1144
+---uid: Z-001-1144
 type: zettel
 title: METHAP Study Timeline Testing Schedule
-aliases: [Z-001-1144, METHAP-Timeline]
-domain: 001
+aliases:
+- '"""Z-001-1144"""'
+- '"""METHAP-Timeline"""'
+domain: 1
 domain-name: PhD Research
-tags: [zettel, methap, timeline, testing, schedule]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: "[[CGPT_0475_Metabolic_Biomarkers_for_Insulin_L-001-0709]]"
+tags:
+- '"""zettel"""'
+- '"""methap"""'
+- '"""timeline"""'
+- '"""testing"""'
+- '"""schedule"""'
+parent-moc:
+- '"""[''MOC-Insulin-Signaling'']"""'
+source-litnote: '"[[CGPT_0475_Metabolic_Biomarkers_for_Insulin_L-001-0709]]"'
 extraction-date: 2026-04-15
 confidence: high
 created: 2026-03-08
+status: conscious
 ---
 
 # METHAP Study Timeline Testing Schedule

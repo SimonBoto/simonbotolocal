@@ -1,16 +1,24 @@
----
-uid: Z-002-0609
+---uid: Z-002-0609
 type: zettel
-title: "Declaration of Helsinki on Research Ethics"
-aliases: [Z-002-0609, declaration-helsinki, wma-ethics]
-domain: 002
+title: Declaration of Helsinki on Research Ethics
+aliases:
+- '""Z-002-0609""'
+- '""declaration-helsinki""'
+- '""wma-ethics""'
+domain: 2
 domain-name: Research Ethics
-tags: [zettel, research-ethics, international, wma]
-parent-moc: [[MOC-Research-Ethics]]
-source-litnote: "[[LitNote_Historical_Ethics_Guidelines_L-002-0602]"
+tags:
+- '""zettel""'
+- '""research-ethics""'
+- '""international""'
+- '""wma""'
+parent-moc:
+- '""[''MOC-Research-Ethics'']""'
+source-litnote: '[[LitNote_Historical_Ethics_Guidelines_L-002-0602]'
 extraction-date: 2026-04-15
 confidence: high
 created: 2026-03-27
+status: conscious
 ---
 
 # Declaration of Helsinki on  Ethics

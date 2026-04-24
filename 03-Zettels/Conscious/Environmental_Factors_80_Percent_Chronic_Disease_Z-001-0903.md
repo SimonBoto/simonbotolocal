@@ -1,17 +1,28 @@
----
-uid: Z-001-0903
+---uid: Z-001-0903
 type: zettel
-title: "Environmental Factors Drive 80% of Chronic/Autoimmune Disease"
-aliases: [Z-001-0903, Z-001-0003-deprecated, Environmental_Factors_80_Percent, Chronic_Disease_Environment]
-domain: 001
+title: '"Environmental Factors Drive 80% of Chronic/Autoimmune Disease"'
+aliases:
+- '""[Z-001-0903""'
+- '""Z-001-0003-deprecated""'
+- '""Environmental_Factors_80_Percent""'
+- '""Chronic_Disease_Environment]""'
+domain: 1
 domain-name: Systems-Biology-Metabolomics
-tags: [zettel, environmental-factors, chronic-disease, autoimmune, 80-percent-statistic, epigenetics, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]
-source-litnote: "[[Synthetic_Omics_Methods_Statistics_L-001-0732]]"
+tags:
+- '""[zettel""'
+- '""environmental-factors""'
+- '""chronic-disease""'
+- '""autoimmune""'
+- '""80-percent-statistic""'
+- '""epigenetics""'
+- '""conscious]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source: '[[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]'
+source-litnote: '"[[Synthetic_Omics_Methods_Statistics_L-001-0732]]"'
 confidence: high
-created: 2026-02-23
-updated: 2026-03-05
+created: '2026-02-23'
+updated: '2026-03-05'
+status: conscious
 ---
 
 # Environmental Factors Drive 80% of Chronic/Autoimmune Disease

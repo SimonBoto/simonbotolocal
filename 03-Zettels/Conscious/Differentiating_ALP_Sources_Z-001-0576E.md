@@ -1,22 +1,12 @@
----
-uid: Z-001-0576E
+---uid: Z-001-0576E
 type: zettel
-title: "Differentiating ALP Sources"
+title: '"Differentiating ALP Sources"'
 aliases: []
-  - Z-001-0576E
-  - ALP-Differentiation
-  - Hepatic-vs-Bone-ALP
-  - GGT-Interpretation
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - biomarkers
-  - alkaline-phosphatase
-  - clinical-biochemistry
-  - diagnostic-approach
-parent-moc: "[[MOC-Biomarkers]]"
-source-litnote: "[[Alkaline_Phosphatase_Overview_-_Isoenzymes-_Page_L-001-0576_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Biomarkers]]"'
+source-litnote: '"[[Alkaline_Phosphatase_Overview_-_Isoenzymes-_Page_L-001-0576_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

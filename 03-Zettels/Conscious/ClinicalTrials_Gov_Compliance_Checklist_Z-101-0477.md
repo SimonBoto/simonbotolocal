@@ -1,13 +1,20 @@
----
-uid: Z-101-0477
+---uid: Z-101-0477
 type: zettel
 title: ClinicalTrials.gov Compliance Checklist
-aliases: [Z-101-0477]
+aliases: '[Z-101-0477]'
 domain: 101
-tags: [zettel, clinicaltrials-gov, compliance, nih, regulatory, checklist, methap, conscious]
-parent-moc: [[MOC-Methylation]]
-source-litnote: [[LitNote_CGPT_0102_ClinicalTrials_Gov_L-101-0049.md]
-extraction-date: 2026-04-15
+tags:
+- '""""[zettel""""'
+- '""""clinicaltrials-gov""""'
+- '""""compliance""""'
+- '""""nih""""'
+- '""""regulatory""""'
+- '""""checklist""""'
+- '""""methap""""'
+- '""""conscious]""""'
+parent-moc: '"[[MOC-Methylation]]"'
+source-litnote: '[[LitNote_CGPT_0102_ClinicalTrials_Gov_L-101-0049.md]'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

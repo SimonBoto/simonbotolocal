@@ -1,16 +1,25 @@
----
-uid: Z-002-0605
+---uid: Z-002-0605
 type: zettel
-title: "Independent Review and IRB in Research Ethics"
-aliases: [Z-002-0605, ethics-irb, independent-review]
-domain: 002
+title: Independent Review and IRB in Research Ethics
+aliases:
+- '""Z-002-0605""'
+- '""ethics-irb""'
+- '""independent-review""'
+domain: 2
 domain-name: Research Ethics
-tags: [zettel, research-ethics, irb, oversight, emmanuel-seven]
-parent-moc: [[MOC-Methylation]]
-source-litnote: "[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]"
+tags:
+- '""zettel""'
+- '""research-ethics""'
+- '""irb""'
+- '""oversight""'
+- '""emmanuel-seven""'
+parent-moc:
+- '""[''MOC-Methylation'']""'
+source-litnote: '[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]'
 extraction-date: 2026-04-15
 confidence: high
 created: 2026-03-27
+status: conscious
 ---
 
 # Independent Review and IRB in  Ethics

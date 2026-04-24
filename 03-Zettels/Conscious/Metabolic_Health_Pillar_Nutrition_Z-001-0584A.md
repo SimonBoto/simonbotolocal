@@ -1,19 +1,12 @@
----
-uid: Z-001-0584A
+---uid: Z-001-0584A
 type: zettel
-title: "Metabolic Health Pillar: Nutrition"
+title: '"Metabolic Health Pillar: Nutrition"'
 aliases: []
-  - Z-001-0584A
-  - Nutrition-Pillar
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - metabolic
-  - nutrition
-  - health
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
-source-litnote: "[[CGPT_0124_Profound_Truths_Revolutionizing_Health_L-001-0706]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Metabolic-Syndrome]]"'
+source-litnote: '"[[CGPT_0124_Profound_Truths_Revolutionizing_Health_L-001-0706]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

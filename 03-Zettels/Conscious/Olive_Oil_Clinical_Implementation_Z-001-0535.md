@@ -1,14 +1,22 @@
----
-uid: Z-001-0535
+---uid: Z-001-0535
 type: zettel
 title: Olive Oil — Clinical Implementation
-aliases: [Clinical-Implementation, Dosing, Quality, Storage]
-domain: 001
-tags: [zettel, olive-oil, implementation, dosing, quality]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Clinical-Implementation""'
+- '""Dosing""'
+- '""Quality""'
+- '""Storage]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""olive-oil""'
+- '""implementation""'
+- '""dosing""'
+- '""quality]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Oleic_Acid_Clinical_L-001-0506]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Oleic_Acid_Clinical_L-001-0506]'
+extraction-date: '2026-03-01'
 ---
 
 # Olive Oil —  Implementation

@@ -1,19 +1,12 @@
----
-uid: Z-001-0131
+---uid: Z-001-0131
 type: zettel
-title: "Sequential Therapy Strategy"
+title: '"Sequential Therapy Strategy"'
 aliases: []
-  - Z-001-0131
-  - Sequential-Therapy
-  - Therapy-Sequence
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - therapy-sequence
-  - osteoporosis
-parent-moc: "[[MOC-Bone-Health]]"
-source-litnote: "[[Anabolic_vs_Antiresorptive_Therapy_Selection_L-001-0045I_v4.0]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Bone-Health]]"'
+source-litnote: '"[[Anabolic_vs_Antiresorptive_Therapy_Selection_L-001-0045I_v4.0]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

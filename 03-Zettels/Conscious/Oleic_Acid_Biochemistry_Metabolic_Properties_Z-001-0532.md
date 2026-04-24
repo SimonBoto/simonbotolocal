@@ -1,14 +1,21 @@
----
-uid: Z-001-0532
+---uid: Z-001-0532
 type: zettel
 title: Oleic Acid — Biochemistry and Metabolic Properties
-aliases: [Oleic-Acid, Omega-9, Monounsaturated-Fat]
-domain: 001
-tags: [zettel, oleic-acid, omega-9, biochemistry, stability]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+- '""[Oleic-Acid""'
+- '""Omega-9""'
+- '""Monounsaturated-Fat]""'
+domain: 1
+tags:
+- '""[zettel""'
+- '""oleic-acid""'
+- '""omega-9""'
+- '""biochemistry""'
+- '""stability]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
 status: conscious
-source-litnote: [[LitNote_Oleic_Acid_Clinical_L-001-0506]
-extraction-date: 2026-03-01
+source-litnote: '[[LitNote_Oleic_Acid_Clinical_L-001-0506]'
+extraction-date: '2026-03-01'
 ---
 
 # Oleic Acid —  and Metabolic Properties
