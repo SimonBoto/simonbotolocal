@@ -1,23 +1,22 @@
----
-uid: L-001-0710
+---uid: L-001-0710
 type: litnote
-title: "CGPT_0281_Seed_Oils_and_Metabolic_Health_L-001-0710"
+title: CGPT_0281_Seed_Oils_and_Metabolic_Health_L-001-0710
 aliases:
-  - L-001-0710
-source-origin: "ChatGPT conversation"
-source-cgpt: "[[CGPT_0281_Seed_Oils_and_Metabolic_Health_CGPT-0281]]"
+- '"""L-001-0710"""'
+source-origin: ChatGPT conversation
+source-cgpt: '[[CGPT_0281_Seed_Oils_and_Metabolic_Health_CGPT-0281]]'
 tier: BRONZE
-relevance: "Medium - CGPT conversation, clinical relevance varies"
+relevance: Medium - CGPT conversation, clinical relevance varies
 extraction-date: 2026-04-22
 zettel-count: 10
 retroactive: true
-parent-moc: "[[MOC-CGPT-Archive]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: '"[[MOC-CGPT-Archive]]"'
+parent-index: '[[01-Literature-Index]]'
 status: extracted
 reference-count: 0
 tags:
-  - litnote
-  - cgpt-archive
+- '"""litnote"""'
+- '"""cgpt-archive"""'
 ---
 
 # ANCHOR SYSTEM v5.0 — Connection Tracking

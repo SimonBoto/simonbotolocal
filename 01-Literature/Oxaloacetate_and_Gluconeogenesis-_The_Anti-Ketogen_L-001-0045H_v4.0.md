@@ -1,3 +1,5 @@
+---status: conscious
+---
 ---
 uid: L-001-0045H
 type: litnote

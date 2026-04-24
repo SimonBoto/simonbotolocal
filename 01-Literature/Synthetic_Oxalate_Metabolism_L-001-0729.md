@@ -1,24 +1,23 @@
----
-uid: L-001-0729
+---uid: L-001-0729
 type: litnote
-title: "Synthetic — Oxalate Metabolism"
+title: Synthetic — Oxalate Metabolism
 aliases:
-  - L-001-0729
-source-origin: "synthetic"
+- '""L-001-0729""'
+source-origin: synthetic
 synthetic: true
 tier: BRONZE
-relevance: "Medium — thematic cluster, needs academic sourcing"
+relevance: Medium — thematic cluster, needs academic sourcing
 extraction-date: 2026-04-22
 zettel-count: 7
 reference-count: 0
-parent-moc: "[[MOC-Oxalate-Metabolism]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: '"[[MOC-Oxalate-Metabolism]]"'
+parent-index: '[[01-Literature-Index]]'
 status: synthetic
-upgrade-issue: "ISSUE-067"
+upgrade-issue: ISSUE-067
 tags:
-  - litnote
-  - synthetic
-  - needs-academic-source
+- '""litnote""'
+- '""synthetic""'
+- '""needs-academic-source""'
 ---
 
 # ANCHOR SYSTEM v5.0

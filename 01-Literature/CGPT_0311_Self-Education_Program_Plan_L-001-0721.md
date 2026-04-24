@@ -1,23 +1,22 @@
----
-uid: L-001-0721
+---uid: L-001-0721
 type: litnote
-title: "CGPT_0311_Self-Education_Program_Plan_L-001-0721"
+title: CGPT_0311_Self-Education_Program_Plan_L-001-0721
 aliases:
-  - L-001-0721
-source-origin: "ChatGPT conversation"
-source-cgpt: "[[CGPT_0311_Self-Education_Program_Plan_CGPT-0311]]"
+- '"""L-001-0721"""'
+source-origin: ChatGPT conversation
+source-cgpt: '[[CGPT_0311_Self-Education_Program_Plan_CGPT-0311]]'
 tier: BRONZE
-relevance: "Medium - CGPT conversation, clinical relevance varies"
+relevance: Medium - CGPT conversation, clinical relevance varies
 extraction-date: 2026-04-22
 zettel-count: 4
 retroactive: true
-parent-moc: "[[MOC-CGPT-Archive]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: '"[[MOC-CGPT-Archive]]"'
+parent-index: '[[01-Literature-Index]]'
 status: extracted
 reference-count: 0
 tags:
-  - litnote
-  - cgpt-archive
+- '"""litnote"""'
+- '"""cgpt-archive"""'
 ---
 
 # ANCHOR SYSTEM v5.0 — Connection Tracking

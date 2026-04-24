@@ -1,23 +1,22 @@
----
-uid: L-001-0727
+---uid: L-001-0727
 type: litnote
-title: "CGPT_0551_Manuscript_Review_Critical_Concerns_L-001-0727"
+title: CGPT_0551_Manuscript_Review_Critical_Concerns_L-001-0727
 aliases:
-  - L-001-0727
-source-origin: "ChatGPT conversation"
-source-cgpt: "[[CGPT_0551_Manuscript_Review_Critical_Concerns_CGPT-0551]]"
+- '"""L-001-0727"""'
+source-origin: ChatGPT conversation
+source-cgpt: '[[CGPT_0551_Manuscript_Review_Critical_Concerns_CGPT-0551]]'
 tier: BRONZE
-relevance: "Medium - CGPT conversation, clinical relevance varies"
+relevance: Medium - CGPT conversation, clinical relevance varies
 extraction-date: 2026-04-22
 zettel-count: 1
 retroactive: true
-parent-moc: "[[MOC-CGPT-Archive]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: '"[[MOC-CGPT-Archive]]"'
+parent-index: '[[01-Literature-Index]]'
 status: extracted
 reference-count: 0
 tags:
-  - litnote
-  - cgpt-archive
+- '"""litnote"""'
+- '"""cgpt-archive"""'
 ---
 
 # ANCHOR SYSTEM v5.0 — Connection Tracking

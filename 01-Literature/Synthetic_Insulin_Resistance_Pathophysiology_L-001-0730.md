@@ -1,24 +1,23 @@
----
-uid: L-001-0730
+---uid: L-001-0730
 type: litnote
-title: "Synthetic — Insulin Resistance Pathophysiology"
+title: Synthetic — Insulin Resistance Pathophysiology
 aliases:
-  - L-001-0730
-source-origin: "synthetic"
+- '""L-001-0730""'
+source-origin: synthetic
 synthetic: true
 tier: BRONZE
-relevance: "Medium — thematic cluster, needs academic sourcing"
+relevance: Medium — thematic cluster, needs academic sourcing
 extraction-date: 2026-04-22
 zettel-count: 7
 reference-count: 0
-parent-moc: "[[MOC-Insulin-Resistance]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: '"[[MOC-Insulin-Resistance]]"'
+parent-index: '[[01-Literature-Index]]'
 status: synthetic
-upgrade-issue: "ISSUE-067"
+upgrade-issue: ISSUE-067
 tags:
-  - litnote
-  - synthetic
-  - needs-academic-source
+- '""litnote""'
+- '""synthetic""'
+- '""needs-academic-source""'
 ---
 
 # ANCHOR SYSTEM v5.0

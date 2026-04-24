@@ -1,25 +1,14 @@
----
-uid: Z-001-0438
+---uid: Z-001-0438
 type: zettel
 title: Adenosylcobalamin — The Mitochondrial B12 Form
 aliases: []
-  - Z-001-0438
-  - Adenosylcobalamin
-  - Mitochondrial-B12
-  - Co-C-Bond
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - adenosylcobalamin
-  - mitochondrial
-  - b12
-  - cobalamin
-  - radical
-parent-moc: "[[MOC-Mitochondrial-Function]]"
+parent-moc: '"[[MOC-Mitochondrial-Function]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-01
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-01'
 ---
 
 # Adenosylcobalamin — The Mitochondrial B12 Form

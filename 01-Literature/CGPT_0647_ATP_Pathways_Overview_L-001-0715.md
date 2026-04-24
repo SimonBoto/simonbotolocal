@@ -1,23 +1,22 @@
----
-uid: L-001-0715
+---uid: L-001-0715
 type: litnote
-title: "CGPT_0647_ATP_Pathways_Overview_L-001-0715"
+title: CGPT_0647_ATP_Pathways_Overview_L-001-0715
 aliases:
-  - L-001-0715
-source-origin: "ChatGPT conversation"
-source-cgpt: "[[CGPT_0647_ATP_Pathways_Overview_CGPT-0647]]"
+- '"""L-001-0715"""'
+source-origin: ChatGPT conversation
+source-cgpt: '[[CGPT_0647_ATP_Pathways_Overview_CGPT-0647]]'
 tier: BRONZE
-relevance: "Medium - CGPT conversation, clinical relevance varies"
+relevance: Medium - CGPT conversation, clinical relevance varies
 extraction-date: 2026-04-22
 zettel-count: 7
 retroactive: true
-parent-moc: "[[MOC-CGPT-Archive]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: '"[[MOC-CGPT-Archive]]"'
+parent-index: '[[01-Literature-Index]]'
 status: extracted
 reference-count: 0
 tags:
-  - litnote
-  - cgpt-archive
+- '"""litnote"""'
+- '"""cgpt-archive"""'
 ---
 
 # ANCHOR SYSTEM v5.0 — Connection Tracking

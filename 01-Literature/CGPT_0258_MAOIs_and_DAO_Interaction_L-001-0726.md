@@ -1,23 +1,22 @@
----
-uid: L-001-0726
+---uid: L-001-0726
 type: litnote
-title: "CGPT_0258_MAOIs_and_DAO_Interaction_L-001-0726"
+title: CGPT_0258_MAOIs_and_DAO_Interaction_L-001-0726
 aliases:
-  - L-001-0726
-source-origin: "ChatGPT conversation"
-source-cgpt: "[[CGPT_0258_MAOIs_and_DAO_Interaction_CGPT-0258]]"
+- '"""L-001-0726"""'
+source-origin: ChatGPT conversation
+source-cgpt: '[[CGPT_0258_MAOIs_and_DAO_Interaction_CGPT-0258]]'
 tier: BRONZE
-relevance: "Medium - CGPT conversation, clinical relevance varies"
+relevance: Medium - CGPT conversation, clinical relevance varies
 extraction-date: 2026-04-22
 zettel-count: 2
 retroactive: true
-parent-moc: "[[MOC-CGPT-Archive]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: '"[[MOC-CGPT-Archive]]"'
+parent-index: '[[01-Literature-Index]]'
 status: extracted
 reference-count: 0
 tags:
-  - litnote
-  - cgpt-archive
+- '"""litnote"""'
+- '"""cgpt-archive"""'
 ---
 
 # ANCHOR SYSTEM v5.0 — Connection Tracking

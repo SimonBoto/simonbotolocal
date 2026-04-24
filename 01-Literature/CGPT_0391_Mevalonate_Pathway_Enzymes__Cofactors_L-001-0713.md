@@ -1,23 +1,22 @@
----
-uid: L-001-0713
+---uid: L-001-0713
 type: litnote
-title: "CGPT_0391_Mevalonate_Pathway_Enzymes__Cofactors_L-001-0713"
+title: CGPT_0391_Mevalonate_Pathway_Enzymes__Cofactors_L-001-0713
 aliases:
-  - L-001-0713
-source-origin: "ChatGPT conversation"
-source-cgpt: "[[CGPT_0391_Mevalonate_Pathway_Enzymes__Cofactors_CGPT-0391]]"
+- '"""L-001-0713"""'
+source-origin: ChatGPT conversation
+source-cgpt: '[[CGPT_0391_Mevalonate_Pathway_Enzymes__Cofactors_CGPT-0391]]'
 tier: BRONZE
-relevance: "Medium - CGPT conversation, clinical relevance varies"
+relevance: Medium - CGPT conversation, clinical relevance varies
 extraction-date: 2026-04-22
 zettel-count: 8
 retroactive: true
-parent-moc: "[[MOC-CGPT-Archive]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: '"[[MOC-CGPT-Archive]]"'
+parent-index: '[[01-Literature-Index]]'
 status: extracted
 reference-count: 0
 tags:
-  - litnote
-  - cgpt-archive
+- '"""litnote"""'
+- '"""cgpt-archive"""'
 ---
 
 # ANCHOR SYSTEM v5.0 — Connection Tracking

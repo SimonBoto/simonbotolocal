@@ -1,11 +1,19 @@
----
-uid: IDX-03-02
+---uid: IDX-03-02
 folder: 03-Zettels/Subconscious
-type: index
-title: "03-Zettels/Subconscious — Permanent Notes"
-aliases: [Subconscious, Permanent, Ground Truth]
-tags: [index, subconscious, zettels, permanent, immutable, folder]
-parent-index: 
+type: zettel
+title: 03-Zettels/Subconscious — Permanent Notes
+aliases:
+- '""Subconscious""'
+- '""Permanent""'
+- '""Ground Truth""'
+tags:
+- '""index""'
+- '""subconscious""'
+- '""zettels""'
+- '""permanent""'
+- '""immutable""'
+- '""folder""'
+parent-index: null
 status: active
 source-litnote: legacy-no-source
 extraction-date: 2026-04-15

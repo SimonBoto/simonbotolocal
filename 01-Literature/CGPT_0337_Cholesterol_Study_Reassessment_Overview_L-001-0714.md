@@ -1,23 +1,22 @@
----
-uid: L-001-0714
+---uid: L-001-0714
 type: litnote
-title: "CGPT_0337_Cholesterol_Study_Reassessment_Overview_L-001-0714"
+title: CGPT_0337_Cholesterol_Study_Reassessment_Overview_L-001-0714
 aliases:
-  - L-001-0714
-source-origin: "ChatGPT conversation"
-source-cgpt: "[[CGPT_0337_Cholesterol_Study_Reassessment_Overview_CGPT-0337]]"
+- '"""L-001-0714"""'
+source-origin: ChatGPT conversation
+source-cgpt: '[[CGPT_0337_Cholesterol_Study_Reassessment_Overview_CGPT-0337]]'
 tier: BRONZE
-relevance: "Medium - CGPT conversation, clinical relevance varies"
+relevance: Medium - CGPT conversation, clinical relevance varies
 extraction-date: 2026-04-22
 zettel-count: 7
 retroactive: true
-parent-moc: "[[MOC-CGPT-Archive]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: '"[[MOC-CGPT-Archive]]"'
+parent-index: '[[01-Literature-Index]]'
 status: extracted
 reference-count: 0
 tags:
-  - litnote
-  - cgpt-archive
+- '"""litnote"""'
+- '"""cgpt-archive"""'
 ---
 
 # ANCHOR SYSTEM v5.0 — Connection Tracking

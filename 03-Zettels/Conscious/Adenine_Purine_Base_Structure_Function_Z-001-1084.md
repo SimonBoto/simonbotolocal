@@ -1,27 +1,14 @@
----
-uid: Z-001-1084
+---uid: Z-001-1084
 type: zettel
 title: Adenine — Purine Base Structure and Function
 aliases: []
-  - Z-001-1084
-  - Adenine
-  - Purine
-  - Nucleobase
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - adenine
-  - purine
-  - base-pairing
-  - nucleobase
-  - atp
-  - dna
-  - rna
-parent-moc: "[[MOC-Metabolic-Pathways]]"
+parent-moc: '"[[MOC-Metabolic-Pathways]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-08
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-08'
 ---
 
 # Adenine — Purine Base Structure and Function

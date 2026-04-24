@@ -1,17 +1,25 @@
----
-uid: Z-001-0041
+---uid: Z-001-0041
 type: zettel
 title: Adipic Acid as Early IR Biomarker
-aliases: [Z-001-0041, Adipic-Acid-Biomarker]
-domain: 001
+aliases:
+- '""[Z-001-0041""'
+- '""Adipic-Acid-Biomarker]""'
+domain: 1
 domain-name: Insulin Signaling
-tags: [zettel, adipic-acid, biomarker, early-detection, beta-oxidation, organic-acids]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[LitNote_Biomarkers_Taxonomy_L-001-0006]
-source-litnote: "[[Synthetic_Adipic_Acid_Clinical_Relevance_L-001-0734]]"
+tags:
+- '""[zettel""'
+- '""adipic-acid""'
+- '""biomarker""'
+- '""early-detection""'
+- '""beta-oxidation""'
+- '""organic-acids]""'
+parent-moc: '"[[MOC-Insulin-Signaling]]"'
+source: '[[LitNote_Biomarkers_Taxonomy_L-001-0006]'
+source-litnote: '"[[Synthetic_Adipic_Acid_Clinical_Relevance_L-001-0734]]"'
 confidence: high
-created: 2026-02-24
-extraction-date: 2026-04-21
+created: '2026-02-24'
+extraction-date: '2026-04-21'
+status: conscious
 ---
 
 # Adipic Acid as Early IR 

@@ -1,20 +1,12 @@
----
-uid: Z-001-0575D
+---uid: Z-001-0575D
 type: zettel
-title: "Albumin-Dietary Assessment"
+title: '"Albumin-Dietary Assessment"'
 aliases: []
-  - Z-001-0575D
-  - Albumin-Dietary-Assessment
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - kidney
-  - albumin
-  - nutrition
-  - dietary
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
-source-litnote: "[[CGPT_0370_Protein_and_Kidney_Disease_L-001-0708]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Metabolic-Syndrome]]"'
+source-litnote: '"[[CGPT_0370_Protein_and_Kidney_Disease_L-001-0708]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

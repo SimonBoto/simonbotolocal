@@ -1,23 +1,22 @@
----
-uid: L-001-0718
+---uid: L-001-0718
 type: litnote
-title: "CGPT_0438_Hormone_Scenarios_Normal_vs_Pathological_L-001-0718"
+title: CGPT_0438_Hormone_Scenarios_Normal_vs_Pathological_L-001-0718
 aliases:
-  - L-001-0718
-source-origin: "ChatGPT conversation"
-source-cgpt: "[[CGPT_0438_Hormone_Scenarios_Normal_vs_Pathological_CGPT-0438]]"
+- '"""L-001-0718"""'
+source-origin: ChatGPT conversation
+source-cgpt: '[[CGPT_0438_Hormone_Scenarios_Normal_vs_Pathological_CGPT-0438]]'
 tier: BRONZE
-relevance: "Medium - CGPT conversation, clinical relevance varies"
+relevance: Medium - CGPT conversation, clinical relevance varies
 extraction-date: 2026-04-22
 zettel-count: 5
 retroactive: true
-parent-moc: "[[MOC-CGPT-Archive]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: '"[[MOC-CGPT-Archive]]"'
+parent-index: '[[01-Literature-Index]]'
 status: extracted
 reference-count: 0
 tags:
-  - litnote
-  - cgpt-archive
+- '"""litnote"""'
+- '"""cgpt-archive"""'
 ---
 
 # ANCHOR SYSTEM v5.0 — Connection Tracking

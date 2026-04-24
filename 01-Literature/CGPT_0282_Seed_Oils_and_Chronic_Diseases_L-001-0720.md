@@ -1,23 +1,22 @@
----
-uid: L-001-0720
+---uid: L-001-0720
 type: litnote
-title: "CGPT_0282_Seed_Oils_and_Chronic_Diseases_L-001-0720"
+title: CGPT_0282_Seed_Oils_and_Chronic_Diseases_L-001-0720
 aliases:
-  - L-001-0720
-source-origin: "ChatGPT conversation"
-source-cgpt: "[[CGPT_0282_Seed_Oils_and_Chronic_Diseases_CGPT-0282]]"
+- '"""L-001-0720"""'
+source-origin: ChatGPT conversation
+source-cgpt: '[[CGPT_0282_Seed_Oils_and_Chronic_Diseases_CGPT-0282]]'
 tier: BRONZE
-relevance: "Medium - CGPT conversation, clinical relevance varies"
+relevance: Medium - CGPT conversation, clinical relevance varies
 extraction-date: 2026-04-22
 zettel-count: 4
 retroactive: true
-parent-moc: "[[MOC-CGPT-Archive]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: '"[[MOC-CGPT-Archive]]"'
+parent-index: '[[01-Literature-Index]]'
 status: extracted
 reference-count: 0
 tags:
-  - litnote
-  - cgpt-archive
+- '"""litnote"""'
+- '"""cgpt-archive"""'
 ---
 
 # ANCHOR SYSTEM v5.0 — Connection Tracking

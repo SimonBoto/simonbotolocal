@@ -1,8 +1,8 @@
----
-uid: L-001-0519
+---uid: L-001-0519
 type: litnote
 source-origin: chatgpt-archive
-title: "Isoprenoids and Cholesterol-Derived Biomolecules - Steroids, Vitamins, and Cell Signals"
+title: '"Isoprenoids and Cholesterol-Derived Biomolecules - Steroids, Vitamins, and
+  Cell Signals"'
 authors: ChatGPT Analysis (CGPT-0391)
 year: 2024
 journal: ChatGPT Archive
@@ -11,51 +11,24 @@ pmid: N/A
 pmcid: N/A
 tier: BRONZE
 relevance: High - Diverse products from mevalonate pathway, clinical significance
-aliases:
-  - L-001-0519
-  - Isoprenoids
-  - Terpenes
-  - Steroid Hormones
-  - CoQ10
-  - Vitamin D Synthesis
-domain: 001
-reviewed_by: "FORG"
-updated: "2026-04-09"
-tags:
-  - litnote
-  - isoprenoids
-  - terpenes
-  - steroids
-  - coq10
-  - vitamin-d
-  - bile-acids
-  - cholesterol-derivatives
-  - cGPT-0391
-source-inbox: [[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]
-source-litnote: [[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]
+domain: 1
+reviewed_by: '"FORG"'
+updated: '"2026-04-09"'
+source-inbox: '[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]'
+source-litnote: '"[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]"'
 status: complete
-parent-moc: [[MOC-Lipid-Metabolism]]
-parent-index: [[01-Literature-Index]]
-extraction-date: "2026-03-03"
+parent-moc: '"[[MOC-Lipid-Metabolism]]"'
+parent-index: '[[01-Literature-Index]]'
+extraction-date: '"2026-03-03"'
 zettel-count: 5
 reference-count: 0
 zettels-created: 5
-
-# Isoprenoids and Cholesterol-Derived Biomolecules - Steroids, Vitamins, and Cell Signals
-
-> **Source:** ChatGPT CGPT-0391 (May 15, 2024) - Extended discussion on isoprenoids  
-> **Key Theme:** Diverse products from IPP: terpenes, steroids, CoQ10, vitamin D, bile acids  
-> **Clinical Relevance:** Hormone synthesis, mitochondrial function, drug targets
-
-
-## Core Concepts Extracted
-
-### 1. Isoprenoids (Terpenoids) - The IPP Family
-> "Isoprenoids, also known as terpenoids, are a vast and diverse class of naturally occurring organic chemicals derived from five-carbon isoprene units assembled in various ways."
-
-**Classification by Size:**
-| Class | Isoprene Units | Carbons | Examples |
-|-------|----------------|---------|----------|
+'> **Source': '** ChatGPT CGPT-0391 (May 15, 2024) - Extended discussion on isoprenoids'
+'> **Key Theme': '** Diverse products from IPP: terpenes, steroids, CoQ10, vitamin
+  D, bile acids'
+'> **Clinical Relevance': '** Hormone synthesis, mitochondrial function, drug targets'
+'**Classification by Size': '**'
+-------|----------------|---------|----------|
 | **Hemiterpenes** | 1 | 5 | Isoprene itself |
 | **Monoterpenes** | 2 | 10 | Limonene, pinene, menthol |
 | **Sesquiterpenes** | 3 | 15 | Farnesene, bisabolol, caryophyllene |

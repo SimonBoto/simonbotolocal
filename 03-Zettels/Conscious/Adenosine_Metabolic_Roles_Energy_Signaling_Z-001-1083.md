@@ -1,26 +1,14 @@
----
-uid: Z-001-1083
+---uid: Z-001-1083
 type: zettel
 title: Adenosine — Metabolic Roles in Energy and Signaling
 aliases: []
-  - Z-001-1083
-  - Adenosine
-  - ATP
-  - Signaling
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - adenosine
-  - nucleoside
-  - atp
-  - signaling
-  - sleep
-  - energy
-parent-moc: "[[MOC-Metabolic-Pathways]]"
+parent-moc: '"[[MOC-Metabolic-Pathways]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-08
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-08'
 ---
 
 # Adenosine — Metabolic Roles in Energy and Signaling

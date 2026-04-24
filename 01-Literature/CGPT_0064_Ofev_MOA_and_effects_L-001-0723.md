@@ -1,23 +1,22 @@
----
-uid: L-001-0723
+---uid: L-001-0723
 type: litnote
-title: "CGPT_0064_Ofev_MOA_and_effects_L-001-0723"
+title: CGPT_0064_Ofev_MOA_and_effects_L-001-0723
 aliases:
-  - L-001-0723
-source-origin: "ChatGPT conversation"
-source-cgpt: "[[CGPT_0064_Ofev_MOA_and_effects_CGPT-0064]]"
+- '"""L-001-0723"""'
+source-origin: ChatGPT conversation
+source-cgpt: '[[CGPT_0064_Ofev_MOA_and_effects_CGPT-0064]]'
 tier: BRONZE
-relevance: "Medium - CGPT conversation, clinical relevance varies"
+relevance: Medium - CGPT conversation, clinical relevance varies
 extraction-date: 2026-04-22
 zettel-count: 2
 retroactive: true
-parent-moc: "[[MOC-CGPT-Archive]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: '"[[MOC-CGPT-Archive]]"'
+parent-index: '[[01-Literature-Index]]'
 status: extracted
 reference-count: 0
 tags:
-  - litnote
-  - cgpt-archive
+- '"""litnote"""'
+- '"""cgpt-archive"""'
 ---
 
 # ANCHOR SYSTEM v5.0 — Connection Tracking

@@ -1,26 +1,27 @@
----
-uid: IDX-01-README
+---uid: IDX-01-README
 folder: 01-Literature
-type: index
-title: "01-Literature - Source Processing"
+type: litnote
+title: 01-Literature - Source Processing
 aliases:
-  - Literature-README
-  - LitNotes-Guide
+- '"""Literature-README"""'
+- '"""LitNotes-Guide"""'
 tags:
-  - index
-  - literature
-  - litnotes
-  - processing
-  - navigation
-  - folder
+- '"""index"""'
+- '"""literature"""'
+- '"""litnotes"""'
+- '"""processing"""'
+- '"""navigation"""'
+- '"""folder"""'
 status: complete
 zettel-count: 0
 reference-count: 0
-reviewed_by: "FORG"
-tier: "SILVER"
-relevance: "Medium - clinical biochemistry"
-parent-moc: [[00-INDEX]]
-parent-index: [[00-INDEX]]
+reviewed_by: FORG
+tier: SILVER
+relevance: Medium - clinical biochemistry
+parent-moc:
+- '"""[''00-INDEX'']"""'
+parent-index:
+- - 00-INDEX
 ---
 
 # 📝 01-Literature — Source Processing

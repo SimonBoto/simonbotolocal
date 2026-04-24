@@ -1,19 +1,20 @@
----
-uid: IDX-01-LIT
-type: index
-title: "01-Literature Index"
+---uid: IDX-01-LIT
+type: litnote
+title: 01-Literature Index
 date: 2026-04-13
 aliases:
-  - Literature-Index
-  - LitNotes-Index
+- '"""Literature-Index"""'
+- '"""LitNotes-Index"""'
 tags:
-  - index
-  - literature
-  - litnotes
-  - sources
+- '"""index"""'
+- '"""literature"""'
+- '"""litnotes"""'
+- '"""sources"""'
 status: complete
-parent-index: [[00-INDEX]]
-parent-moc: [[MOC-Research]]
+parent-index:
+- - 00-INDEX
+parent-moc:
+- '"""[''MOC-Research'']"""'
 ---
 
 # 01-Literature Index

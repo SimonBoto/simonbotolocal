@@ -1,23 +1,22 @@
----
-uid: L-001-0728
+---uid: L-001-0728
 type: litnote
-title: "CGPT_0384_Darvetou_Ladder_Search_L-001-0728"
+title: CGPT_0384_Darvetou_Ladder_Search_L-001-0728
 aliases:
-  - L-001-0728
-source-origin: "ChatGPT conversation"
-source-cgpt: "[[CGPT_0384_Darvetou_Ladder_Search_CGPT-0384]]"
+- '"""L-001-0728"""'
+source-origin: ChatGPT conversation
+source-cgpt: '[[CGPT_0384_Darvetou_Ladder_Search_CGPT-0384]]'
 tier: BRONZE
-relevance: "Medium - CGPT conversation, clinical relevance varies"
+relevance: Medium - CGPT conversation, clinical relevance varies
 extraction-date: 2026-04-22
 zettel-count: 1
 retroactive: true
-parent-moc: "[[MOC-CGPT-Archive]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: '"[[MOC-CGPT-Archive]]"'
+parent-index: '[[01-Literature-Index]]'
 status: extracted
 reference-count: 0
 tags:
-  - litnote
-  - cgpt-archive
+- '"""litnote"""'
+- '"""cgpt-archive"""'
 ---
 
 # ANCHOR SYSTEM v5.0 — Connection Tracking

@@ -1,23 +1,22 @@
----
-uid: L-001-0702
+---uid: L-001-0702
 type: litnote
-title: "CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702"
+title: CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702
 aliases:
-  - L-001-0702
-source-origin: "ChatGPT conversation"
-source-cgpt: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+- '"""L-001-0702"""'
+source-origin: ChatGPT conversation
+source-cgpt: '[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]'
 tier: BRONZE
-relevance: "Medium - CGPT conversation, clinical relevance varies"
+relevance: Medium - CGPT conversation, clinical relevance varies
 extraction-date: 2026-04-22
 zettel-count: 107
 retroactive: true
-parent-moc: "[[MOC-Biochemistry]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: '"[[MOC-Biochemistry]]"'
+parent-index: '[[01-Literature-Index]]'
 status: extracted
 reference-count: 0
 tags:
-  - litnote
-  - cgpt-archive
+- '"""litnote"""'
+- '"""cgpt-archive"""'
 ---
 
 # ANCHOR SYSTEM v5.0 — Connection Tracking

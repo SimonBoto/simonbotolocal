@@ -1,24 +1,14 @@
----
-uid: Z-001-1112
+---uid: Z-001-1112
 type: zettel
 title: Acetyl-CoA — Central Metabolic Connector
 aliases: []
-  - Z-001-1112
-  - Acetyl-CoA
-  - Metabolic-Hub
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - acetyl-coa
-  - connector
-  - metabolism
-  - krebs
-  - energy
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
+parent-moc: '"[[MOC-Metabolic-Syndrome]]"'
 status: conscious
-source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-extraction-date: 2026-03-08
+source-litnote: '"[[CGPT_0445_Advanced_Biochemistry_Exploration_L-001-0702]]"'
+source-inbox: '"[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"'
+extraction-date: '2026-03-08'
 ---
 
 # Acetyl-CoA — Central Metabolic Connector

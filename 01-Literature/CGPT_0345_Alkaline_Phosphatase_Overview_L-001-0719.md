@@ -1,23 +1,22 @@
----
-uid: L-001-0719
+---uid: L-001-0719
 type: litnote
-title: "CGPT_0345_Alkaline_Phosphatase_Overview_L-001-0719"
+title: CGPT_0345_Alkaline_Phosphatase_Overview_L-001-0719
 aliases:
-  - L-001-0719
-source-origin: "ChatGPT conversation"
-source-cgpt: "[[CGPT_0345_Alkaline_Phosphatase_Overview_CGPT-0345]]"
+- '"""L-001-0719"""'
+source-origin: ChatGPT conversation
+source-cgpt: '[[CGPT_0345_Alkaline_Phosphatase_Overview_CGPT-0345]]'
 tier: BRONZE
-relevance: "Medium - CGPT conversation, clinical relevance varies"
+relevance: Medium - CGPT conversation, clinical relevance varies
 extraction-date: 2026-04-22
 zettel-count: 4
 retroactive: true
-parent-moc: "[[MOC-CGPT-Archive]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: '"[[MOC-CGPT-Archive]]"'
+parent-index: '[[01-Literature-Index]]'
 status: extracted
 reference-count: 0
 tags:
-  - litnote
-  - cgpt-archive
+- '"""litnote"""'
+- '"""cgpt-archive"""'
 ---
 
 # ANCHOR SYSTEM v5.0 — Connection Tracking

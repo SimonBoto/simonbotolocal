@@ -1,8 +1,7 @@
----
-uid: L-001-0518
+---uid: L-001-0518
 type: litnote
 source-origin: chatgpt-archive
-title: "Mevalonate Pathway Biochemistry - Enzymes, Cofactors, and Energy Requirements"
+title: '"Mevalonate Pathway Biochemistry - Enzymes, Cofactors, and Energy Requirements"'
 authors: ChatGPT Analysis (CGPT-0391)
 year: 2024
 journal: ChatGPT Archive
@@ -11,125 +10,40 @@ pmid: N/A
 pmcid: N/A
 tier: BRONZE
 relevance: High - Core cholesterol synthesis pathway, statin mechanism, CoQ10 production
-aliases:
-  - L-001-0518
-  - HMG-CoA Reductase
-  - Mevalonate Pathway
-  - Cholesterol Synthesis
-  - Statin Target
 status: complete
-parent-index: [[01-Literature-Index]]
-parent-moc: [[MOC-Lipid-Metabolism]]
-extraction-date: "2026-03-03"
+parent-index: '[[01-Literature-Index]]'
+parent-moc: '"[[MOC-Lipid-Metabolism]]"'
+extraction-date: '"2026-03-03"'
 zettel-count: 3
 reference-count: 0
-domain: 001
-reviewed_by: "FORG"
-updated: "2026-04-09"
-tags:
-  - litnote
-  - mevalonate-pathway
-  - cholesterol
-  - hmg-coa-reductase
-  - statins
-  - coq10
-  - isoprenoids
-  - biochemistry
-  - cGPT-0391
-source-inbox: [[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]
-source-litnote: [[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]
-
-# Mevalonate Pathway Biochemistry - Enzymes, Cofactors, and Energy Requirements
-
-> **Source:** ChatGPT CGPT-0391 (May 15, 2024)  
-> **Key Theme:** Complete mevalonate pathway from acetyl-CoA to isopentenyl pyrophosphate  
-> **Clinical Relevance:** Statin mechanism, CoQ10 synthesis, therapeutic targets
-
-
-## Core Concepts Extracted
-
-### 1. The Six Steps of the Mevalonate Pathway
-> "The mevalonate pathway is a crucial metabolic route involved in the biosynthesis of sterols, including cholesterol, and other isoprenoids."
-
-**Step 1: Acetoacetyl-CoA Formation**
-- **Enzyme:** Acetoacetyl-CoA thiolase (acety-CoA acetyltransferase)
-- **Reaction:** 2 Acetyl-CoA → Acetoacetyl-CoA + CoA-SH
-- **Energy:** No net energy use or production
-- **Purpose:** Condensation of two acetyl units
-
-**Step 2: HMG-CoA Formation**
-- **Enzyme:** HMG-CoA synthase
-- **Reaction:** Acetoacetyl-CoA + Acetyl-CoA → HMG-CoA + CoA-SH
-- **Energy:** No direct energy cost
-- **Purpose:** Formation of 3-hydroxy-3-methylglutaryl-CoA
-
-**Step 3: Mevalonate Formation (RATE-LIMITING)**
-- **Enzyme:** HMG-CoA reductase
-- **Reaction:** HMG-CoA + 2 NADPH → Mevalonate + 2 NADP⁺ + CoA-SH
-- **Energy:** 2 NADPH required (reducing power)
-- **Purpose:** Key regulatory step; target of statins
-
-**Step 4: Mevalonate Phosphorylation**
-- **Enzyme:** Mevalonate kinase
-- **Reaction:** Mevalonate + ATP → Mevalonate-5-phosphate + ADP
-- **Energy:** 1 ATP consumed
-- **Purpose:** Activate mevalonate for further reactions
-
-**Step 5: Phosphomevalonate Formation**
-- **Enzyme:** Phosphomevalonate kinase
-- **Reaction:** Mevalonate-5-phosphate + ATP → 5-Pyrophosphomevalonate + ADP
-- **Energy:** 1 ATP consumed
-- **Purpose:** Add second phosphate group
-
-**Step 6: Isopentenyl Pyrophosphate (IPP) Formation**
-- **Enzyme:** Mevalonate-5-pyrophosphate decarboxylase
-- **Reaction:** 5-Pyrophosphomevalonate → IPP + CO₂
-- **Energy:** No external ATP required; decarboxylation drives reaction
-- **Purpose:** Formation of central isoprenoid building block
-
-**Overall Equation:**
-```
-3 Acetyl-CoA + 2 NADPH + 3 ATP → IPP + 3 CoA-SH + 2 NADP⁺ + 3 ADP + CO₂
-```
-
-**Zettels extracted:** [[Mevalonate_Pathway_Step_by_Step_Z-001-0566]]
-
-### 2. HMG-CoA Reductase - The Regulatory Master Switch
-> "HMG-CoA reductase is the key regulatory step in the pathway and is where energy is first utilized. This is also where drugs like statins act."
-
-**Regulatory Mechanisms:**
-
-**Transcriptional Control:**
-- **SREBP-2** (Sterol Regulatory Element Binding Protein-2)
-- Low cholesterol → SREBP-2 activates → HMG-CoA reductase gene transcription ↑
-- High cholesterol → SREBP-2 inhibited → HMG-CoA reductase ↓
-
-**Post-Translational Control:**
-- **Phosphorylation** (AMPK) → HMG-CoA reductase INACTIVATED
-- **Dephosphorylation** → HMG-CoA reductase ACTIVATED
-- **Protein degradation** when cholesterol abundant
-
-**Statin Mechanism:**
-- Statins competitively inhibit HMG-CoA reductase
-- Mimic HMG-CoA structure
-- Block mevalonate formation
-- Result: Lower cholesterol synthesis
-
-**Side Effect Connection:**
-- Inhibit HMG-CoA reductase → Lower mevalonate
-- Lower mevalonate → Less IPP
-- Less IPP → Less CoQ10, less dolichol
-- Result: Statin-induced myopathy, fatigue
-
-**Zettels extracted:** [[HMG_CoA_Reductase_Regulation_Z-001-0567]]
-
-### 3. Energy Cost of the Mevalonate Pathway
-> "The mevalonate pathway uses energy in the form of ATP and NADPH in the steps catalyzed by mevalonate kinase, phosphomevalonate kinase, and HMG-CoA reductase."
-
-**Energy Summary per Molecule of IPP:**
-
-| Input | Quantity | Purpose |
-|-------|----------|---------|
+domain: 1
+reviewed_by: '"FORG"'
+updated: '"2026-04-09"'
+source-inbox: '[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]'
+source-litnote: '"[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]"'
+'> **Source': '** ChatGPT CGPT-0391 (May 15, 2024)'
+'> **Key Theme': '** Complete mevalonate pathway from acetyl-CoA to isopentenyl pyrophosphate'
+'> **Clinical Relevance': '** Statin mechanism, CoQ10 synthesis, therapeutic targets'
+'**Step 1': Acetoacetyl-CoA Formation**
+'- **Enzyme': '** Mevalonate-5-pyrophosphate decarboxylase'
+'- **Reaction': '** 5-Pyrophosphomevalonate → IPP + CO₂'
+'- **Energy': '** No external ATP required; decarboxylation drives reaction'
+'- **Purpose': '** Formation of central isoprenoid building block'
+'**Step 2': HMG-CoA Formation**
+'**Step 3': Mevalonate Formation (RATE-LIMITING)**
+'**Step 4': Mevalonate Phosphorylation**
+'**Step 5': Phosphomevalonate Formation**
+'**Step 6': Isopentenyl Pyrophosphate (IPP) Formation**
+'**Overall Equation': '**'
+'**Zettels extracted': '** [[HMG_CoA_Reductase_Regulation_Z-001-0567]]'
+'**Regulatory Mechanisms': '**'
+'**Transcriptional Control': '**'
+'**Post-Translational Control': '**'
+'**Statin Mechanism': '**'
+'- Result': Statin-induced myopathy, fatigue
+'**Side Effect Connection': '**'
+'**Energy Summary per Molecule of IPP': '**'
+-------|----------|---------|
 | **Acetyl-CoA** | 3 molecules | Carbon skeleton |
 | **NADPH** | 2 molecules | Reduction (HMG-CoA reductase) |
 | **ATP** | 2 molecules | Phosphorylations |

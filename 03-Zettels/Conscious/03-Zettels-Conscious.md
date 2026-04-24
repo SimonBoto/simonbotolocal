@@ -1,10 +1,18 @@
----
-uid: IDX-03-01
+---uid: IDX-03-01
 folder: 03-Zettels/Conscious
-type: index
-title: "03-Zettels/Conscious — Working Notes"
-aliases: [Conscious, Working Zettels, Review Queue]
-tags: [index, conscious, zettels, working, review, folder]
+type: zettel
+title: 03-Zettels/Conscious — Working Notes
+aliases:
+- '""Conscious""'
+- '""Working Zettels""'
+- '""Review Queue""'
+tags:
+- '""index""'
+- '""conscious""'
+- '""zettels""'
+- '""working""'
+- '""review""'
+- '""folder""'
 source-litnote: Index note for folder structure
 extraction-date: 2026-04-15
 status: active

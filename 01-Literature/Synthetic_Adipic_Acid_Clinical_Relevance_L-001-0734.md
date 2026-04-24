@@ -1,24 +1,23 @@
----
-uid: L-001-0734
+---uid: L-001-0734
 type: litnote
-title: "Synthetic — Adipic Acid Clinical Relevance"
+title: Synthetic — Adipic Acid Clinical Relevance
 aliases:
-  - L-001-0734
-source-origin: "synthetic"
+- '""L-001-0734""'
+source-origin: synthetic
 synthetic: true
 tier: BRONZE
-relevance: "Medium — thematic cluster, needs academic sourcing"
+relevance: Medium — thematic cluster, needs academic sourcing
 extraction-date: 2026-04-22
 zettel-count: 1
 reference-count: 0
-parent-moc: "[[MOC-Biomarkers]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: '"[[MOC-Biomarkers]]"'
+parent-index: '[[01-Literature-Index]]'
 status: synthetic
-upgrade-issue: "ISSUE-067"
+upgrade-issue: ISSUE-067
 tags:
-  - litnote
-  - synthetic
-  - needs-academic-source
+- '""litnote""'
+- '""synthetic""'
+- '""needs-academic-source""'
 ---
 
 # ANCHOR SYSTEM v5.0

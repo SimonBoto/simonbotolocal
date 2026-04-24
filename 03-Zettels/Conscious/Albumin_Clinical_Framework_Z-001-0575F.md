@@ -1,20 +1,12 @@
----
-uid: Z-001-0575F
+---uid: Z-001-0575F
 type: zettel
-title: "Albumin-Clinical Framework"
+title: '"Albumin-Clinical Framework"'
 aliases: []
-  - Z-001-0575F
-  - Albumin-Clinical-Framework
-domain: 001
+domain: 1
 tags: []
-  - zettel
-  - kidney
-  - albumin
-  - clinical
-  - framework
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
-source-litnote: "[[CGPT_0370_Protein_and_Kidney_Disease_L-001-0708]]"
-extraction-date: 2026-04-15
+parent-moc: '"[[MOC-Metabolic-Syndrome]]"'
+source-litnote: '"[[CGPT_0370_Protein_and_Kidney_Disease_L-001-0708]]"'
+extraction-date: '2026-04-15'
 status: conscious
 ---
 

@@ -1,23 +1,22 @@
----
-uid: L-001-0717
+---uid: L-001-0717
 type: litnote
-title: "CGPT_0340_Seed_oils_history_and_process_L-001-0717"
+title: CGPT_0340_Seed_oils_history_and_process_L-001-0717
 aliases:
-  - L-001-0717
-source-origin: "ChatGPT conversation"
-source-cgpt: "[[CGPT_0340_Seed_oils_history_and_process_CGPT-0340]]"
+- '"""L-001-0717"""'
+source-origin: ChatGPT conversation
+source-cgpt: '[[CGPT_0340_Seed_oils_history_and_process_CGPT-0340]]'
 tier: BRONZE
-relevance: "Medium - CGPT conversation, clinical relevance varies"
+relevance: Medium - CGPT conversation, clinical relevance varies
 extraction-date: 2026-04-22
 zettel-count: 6
 retroactive: true
-parent-moc: "[[MOC-CGPT-Archive]]"
-parent-index: "[[01-Literature-Index]]"
+parent-moc: '"[[MOC-CGPT-Archive]]"'
+parent-index: '[[01-Literature-Index]]'
 status: extracted
 reference-count: 0
 tags:
-  - litnote
-  - cgpt-archive
+- '"""litnote"""'
+- '"""cgpt-archive"""'
 ---
 
 # ANCHOR SYSTEM v5.0 — Connection Tracking
