@@ -1,21 +1,15 @@
 ---
 uid: Z-001-0265
 type: zettel
-title: "Vitamin K2 Menaquinone Forms"
-aliases: []
-  - Z-001-0265
-  - Vitamin-K2-Forms
-  - Menaquinone-Forms
+title: Vitamin K2 Menaquinone Forms
+aliases: [Z-001-0265, Vitamin-K2-Forms, Menaquinone-Forms]
 domain: 001
-tags: []
-  - zettel
-  - vitamin-k2
-  - menaquinone
-  - pharmacokinetics
-parent-moc: "[[MOC-Vitamin-D]]"
-source-litnote: "D-K2_Co-Supplementation_Clinical_Evidence_-Studies_L-001-0214_v4.0"
+tags: [zettel, vitamin-k2, menaquinone, pharmacokinetics]
+parent-moc: [[MOC-Vitamin-K2]]
+source-litnote: D-K2_Co-Supplementation_Clinical_Evidence_-Studies_L-001-0214_v4.0
 extraction-date: 2026-04-15
 status: conscious
+related: [[VitD_K2_Combination_Evidence_Z-001-0266]], [[Menaquinone_7_Pharmacokinetics_Z-001-0267]], [[K2_Vascular_Calcification_Protection_Z-001-0268]]
 ---
 
 # Vitamin K2 Menaquinone Forms

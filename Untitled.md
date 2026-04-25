@@ -1,4 +1,8 @@
-**Forg** 
+**Here is the token for bot ForgBot @ForgBotoBot:
+
+8690565912:AAGKf1V6f5yAYn1r7uf3TUUlv6FkvIE2u34
+
+Forg** 
 OpenrouterAPI
 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
 
