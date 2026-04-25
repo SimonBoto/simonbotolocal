@@ -26,8 +26,12 @@ parent-index: [[08-Structure/Dashboards/Dashboards-Index]]
 | 26 | 2026-04-24 | RON-Lessons | **Filesystem first.** | `ls`/`read` before any vault claim. No doc/memory trust without verify. | Every assertion | Pattern: 5/8 Apr lessons = verification fails. | HEALTH |
 | 27 | 2026-04-24 | PIPELINE | **Post-LitNote sprint.** | FORG 40-file zettel extraction (25 P0 + 15 P1). Then orphans MOC. | After Z-001-0272 integrate | 77 active LitNotes ready. 78% zettel connected. | CREATION |
 | 28 | 2026-04-24 | COMMAND | **P0 unblock.** | Clinic templates (051) + PhD CT.gov (052) > K2.6. Defer 045-050. | Morning triage | Blockers > polish. Human authority. | SURVIVAL |
+| 29 | 2026-04-24 | Git/YAML | **Vault integrity restored.** | Batches 1/2 + SCOUT-redux: 50+50+473 Conscious/LitNote YAML fixes. | Post-audit | 78% LitNotes → zettels; orphans next. | HEALTH |
+| 30 | 2026-04-24 | Cost/092-095 | **Burn fixed ($0.5→$0.05/msg).** | QMD SCOUT memory, Kimi lightContext/MINIMAL, cron compact/metrics. | Every session | Phase1 guardian live; $4/day hardcap. | SURVIVAL |
+| 31 | 2026-04-24 | Automation/092 | **Cron scale-up.** | Metrics/auto-sync/batch dreams; GitHub workflows. | Nightly | Detached flows → emergence without bloat. | HEALTH, CREATION |
+| 32 | 2026-04-24 | SOUL/088 | **v4.2 maturation.** | Truths #21-22 (prototype/willpower/verify), schema/load_soul.py, SOUL-REFERENCE.md. | Agent bootstrap | L1.5→L2; hybrid routing 70% savings. | EXPANSION |
 
-**Last ritual:** 2026-04-24 03:00  
+**Last ritual:** 2026-04-25 03:00  
 **Next:** 2026-04-25 03:00  
 **Deep status:** Safe (DREAMS only). RON: Promote/reject.
 
