@@ -30,10 +30,14 @@ parent-index: [[08-Structure/Dashboards/Dashboards-Index]]
 | 30 | 2026-04-24 | Cost/092-095 | **Burn fixed ($0.5→$0.05/msg).** | QMD SCOUT memory, Kimi lightContext/MINIMAL, cron compact/metrics. | Every session | Phase1 guardian live; $4/day hardcap. | SURVIVAL |
 | 31 | 2026-04-24 | Automation/092 | **Cron scale-up.** | Metrics/auto-sync/batch dreams; GitHub workflows. | Nightly | Detached flows → emergence without bloat. | HEALTH, CREATION |
 | 32 | 2026-04-24 | SOUL/088 | **v4.2 maturation.** | Truths #21-22 (prototype/willpower/verify), schema/load_soul.py, SOUL-REFERENCE.md. | Agent bootstrap | L1.5→L2; hybrid routing 70% savings. | EXPANSION |
+| 33 | 2026-04-26 | CGPT-PREPROCESS | **Brief pipeline v1.0 live.** | Standardized YAML briefs (from/path/tags/seq + Summary/KeyPoints/Tags). FORG next: zettel extraction sprint on 55 briefs. | Night shift: 50/50 CGPT Inbox briefs done (0001-0050). 55 pending/. Pipeline scaling proven, error-free. | CREATION |
+| 34 | 2026-04-26 | NIGHT-SHIFT | **Autonomous agent scaling.** | FORG/SCOUT night crons: Batch processing, zero errors, git checkpoints. Expand to daily synthesis. | CGPT max preprocess + zettel linking complete. Reliable emergence without bloat. | EXPANSION |
+| 35 | 2026-04-26 | ZETTEL-REPORT | **Zettelkasten maturity.** | 1634 zettels fully linked (0 zero-links), ~100 MOCs verified, YAML solid. Prioritize synthesis/MOCs. | Audit complete: Network dense/healthy. Ready for PhD/clinic sprints. | HEALTH, CREATION |
+| 36 | 2026-04-26 | PIPELINE | **Post-brief unlock.** | RON morning: Review/promote briefs → zettel sprint (P0: 40 high-signal). Defer low-relevance (IV/infra). | 55 briefs ready; filter metabolism/consciousness first. | CREATION |
 
-**Last ritual:** 2026-04-25 03:00  
-**Next:** 2026-04-25 03:00  
+**Last ritual:** 2026-04-26 03:00  
+**Next:** 2026-04-27 03:00  
 **Deep status:** Safe (DREAMS only). RON: Promote/reject.
 
 ---
-*Last updated: 2026-04-24*
+*Last updated: 2026-04-26*
